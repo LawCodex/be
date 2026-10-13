@@ -1,0 +1,47 @@
+---
+title: "DECRET déterminant les règles applicables à la comptabilité des centres publics d'aide sociale"
+identifier: "1995033007"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/19/1995033007/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1994-12-19
+published: 1995-03-23
+entry_into_force: 1995-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/19/1995033007/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 19 DECEMBRE 1994. - DECRET déterminant les règles applicables à la comptabilité des centres publics d'aide sociale
+
+Le Conseil de la Communauté germanophone a adopté et nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'article 87 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, modifiée par la loi du 5 août 1992 est complétée comme suit :
+
+"Pour leur comptabilité, les centres publics d'aide sociale de la région de langue allemande continuent à appliquer jusqu'à une date à fixer par le Gouvernement le règlement de l'arrêté du Régent du 10 février 1945 relatif à la comptabilité des communes, modifié par l'arrêté du Régent du 28 février 1947, l'arrêté royal du 16 novembre 1953, la loi du 5 juillet 1963 et l'arrêté royal du 15 décembre 1987.".
+
+## Art. 2
+
+Le présent décret entre en vigueur le 1er janvier 1995.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 19 décembre 1994.
+
+Le Ministre-Président du Gouvernement de la Communauté germanophone,
+
+J. MARAITE
+
+Le Ministre de l'Enseignement et de la Formation, de la Culture, de la Jeunesse et de la Recherche scientifique,
+
+B. GENTGES
+
+Le Ministre des Médias, de l'Education des Adultes, de la Politique des Handicapés, de l'Aide sociale et de la Reconversion professionnelle,
+
+K.-H. LAMBERTZ

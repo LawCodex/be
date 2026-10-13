@@ -1,0 +1,129 @@
+---
+title: "Décret relatif aux droits d'inscription et au minerval dans l'enseignement (TRADUCTION). (NOTE 1 : Abrogé pour l'enseignement fondamental ordinaire, l'enseignement secondaire ordinaire et l'enseignement spécial. <DCG 1998-08-31/42, art. 121, § 3 ,1°, 002; En vigueur : 01-09-1998>)"
+identifier: "1996033005"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1995/07/17/1996033005/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1995-07-17
+published: 1996-02-27
+entry_into_force: 1995-08-28
+last_amended: 2009-08-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1995/07/17/1996033005/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 27-02-1996 et mise à jour au 04-08-2009"
+retrieved: 2026-10-12
+---
+
+# 17 JUILLET 1995. - Décret relatif aux droits d'inscription et au minerval dans l'enseignement (TRADUCTION). (NOTE 1 : Abrogé pour l'enseignement fondamental ordinaire, l'enseignement secondaire ordinaire et l'enseignement spécial. &lt;DCG 1998-08-31/42, art. 121, § 3 ,1°, 002; En vigueur : 01-09-1998&gt;)
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+(Voir NOTE 1 sous TITRE) Pour l'application de ce décret, on entend par :
+
+1° Etablissement d'enseignement :
+
+une école organisée ou subventionnée par la Communauté germanophone, un centre d'enseignement à horaire réduit organisé ou subventionné par la Communauté germanophone ou un institut de formation continue organisé ou subventionné par la Communauté germanophone;
+
+2° Droit d'inscription :
+
+droit percu par la Communauté germanophone pour l'accès des élèves ou étudiants à l'enseignement dispensé dans des établissements d'enseignement et payable par les élèves, les étudiants ou les personnes chargées de l'éducation;
+
+3° Minerval :
+
+droit percu par les établissements d'enseignement, payable par les élèves, les étudiants ou les personnes chargées de l'éducation et destiné à :
+
+a) l'acquisition et l'utilisation de matériel didactique;
+
+b) l'utilisation des bâtiments, installations et équipements;
+
+c) la participation à certaines activités.
+
+Les quotes-parts pour les activités parascolaires de plusieurs jours ne constituent pas un minerval au sens du présent décret.
+
+## Art. 1bis.
+
+[<sup>1</sup> Le présent décret ne s'applique pas à l'enseignement artistique à horaire réduit reconnu, subventionné ou organisé par la Communauté germanophone.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2009-03-23/10, art. 105, 005; En vigueur : 01-09-2009&gt;
+
+## Art. 2
+
+(Voir NOTE 1 sous TITRE) § 1er. Aucun droit d'inscription n'est percu dans l'[<sup>1</sup> enseignement fondamental ordinaire et spécialisé]<sup>1</sup> ainsi que dans l'[<sup>1</sup> enseignement secondaire ordinaire et spécialisé]<sup>1</sup> .
+
+§ 2. En dérogation au § 1er, un droit d'inscription peut être demandé à un étudiant étranger de l'[<sup>1</sup> enseignement maternel ordinaire ou spécialisé]<sup>1</sup> lorsque les conditions suivantes sont remplies :
+
+a) Les personnes chargées de l'éducation de l'élève ne possèdent pas la nationalité belge;
+
+b) L'élève n'est pas domicilié en Belgique;
+
+c) Dans l'Etat où l'élève est domicilié, un droit similaire est généralement percu.
+
+Le Gouvernement fixe le montant du droit d'inscription, qui ne peut en aucun cas dépasser 50 000 FB, ainsi que les modalités de paiement.
+
+Le Gouvernement peut fixer les conditions auxquelles certains groupes de personnes sont entièrement ou en partie dispensés du paiement du droit d'inscription.
+
+§ 3. Les établissements d'enseignement peuvent, à certaines conditions, percevoir un minerval. Le Gouvernement fixe ces conditions.
+
+----------
+
+(1)&lt;DCG 2009-05-11/15, art. 128, 006; En vigueur : 01-09-2009&gt;
+
+## Art. 3
+
+(Abrogé) &lt;DCG 2005-06-27/37, art. 9.9, 004 ; En vigueur : 01-07-2005&gt;
+
+## Art. 4
+
+(Voir NOTE 1 sous TITRE) § 1er. Un droit d'inscription est percu dans le secteur de la formation continue. Le Gouvernement fixe le montant du droit d'inscription, qui ne peut en aucun cas dépasser (245 euros), ainsi que les modalités de paiement et de calcul. &lt;DCG 2002-01-07/53, art. 33, 003; En vigueur : 01-01-2002&gt;
+
+Le Gouvernement peut fixer les conditions auxquelles certains groupes de personnes sont entièrement ou en partie dispensés du paiement du droit d'inscription.
+
+§ 2. Les établissements d'enseignement peuvent percevoir un minerval qui ne peut pas dépasser le montant fixé conformément au § 1er, alinéa 2.
+
+## Art. 5
+
+(Voir NOTE 1 sous TITRE) Les élèves et étudiants pour lesquels le droit d'inscription prévu dans le présent décret n'a pas été acquitté dans le délai fixé par le Gouvernement n'entrent pas en ligne de compte lors du calcul du nombre des membres du personnel ainsi que de la dotation pour les frais et subventions de fonctionnement.
+
+Le directeur d'un établissement d'enseignement de la Communauté germanophone a le droit de refuser l'inscription des élèves et étudiants visés à l'alinéa 1er.
+
+## Art. 6
+
+(Voir NOTE 1 sous TITRE) Les droits d'inscription sont versés à la Communauté germanophone. Les droits d'inscription ne sont pas compensés par les dotations pour les frais et subventions de fonctionnement.
+
+## Art. 7
+
+(Voir NOTE 1 sous TITRE) Sont abrogés :
+
+1° l'article 12 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, tel que modifié;
+
+2° le décret du 6 novembre 1989 relatif aux droits d'inscription dans l'enseignement;
+
+3° l'arrêté de l'Exécutif de la Communauté germanophone du 23 novembre 1989 portant exécution du décret du 6 novembre 1989 relatif aux droits d'inscription dans l'enseignement, modifié par les arrêtés des 7 juillet 1993 et 31 mai 1995.
+
+## Art. 8
+
+(Voir NOTE 1 sous TITRE) Ce décret entre en vigueur le 28 août 1995.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 17 juillet 1995.
+
+Le Ministre-Président du Gouvernement de la Communauté germanophone, Ministre des Finances, des Relations internationales, de la Santé, de la Famille et des Personnes âgées, du Sport et du Tourisme,
+
+J. MARAITE
+
+Le Ministre de la Jeunesse, de la Formation, des Médias et des Affaires sociales,
+
+K.-H. LAMBERTZ
+
+Le Ministre de l'Enseignement, de la Culture, de la Recherche scientifique et des Monuments et Sites,
+
+W. SCHR\DER

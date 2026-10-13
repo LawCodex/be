@@ -1,0 +1,185 @@
+---
+title: "Décret portant création de fonds budgétaires supplémentaires de la Communauté germanophone. (Traduction)"
+identifier: "1994033018"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1994/01/17/1994033018/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1994-01-17
+published: 1994-03-24
+entry_into_force: 1994-01-01
+last_amended: 2026-03-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1994/01/17/1994033018/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 12-09-2002 et mise à jour au 02-03-2026"
+retrieved: 2026-10-12
+---
+
+# 17 JANVIER 1994. - Décret portant création de fonds budgétaires supplémentaires de la Communauté germanophone. (Traduction)
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+[<sup>1</sup> § 1er. Il est créé un Fonds pour le financement de primes, crédits et participations remboursables. Il correspond à un fonds budgétaire conformément à [<sup>2</sup> l'article 56 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone]<sup>2</sup>.
+
+§ 2. Le Fonds pour le financement de primes, crédits et participations remboursables peut disposer de recettes émanant de l'accomplissement des missions du fonds et dans la mesure où, de par leur spécificité, elles ne doivent pas plutôt être inscrites sous un autre fonds budgétaire, en particulier :
+
+1° le remboursement des participations ou crédits consentis à " Ostbelgieninvest " ou à d'autres sociétés commerciales;
+
+2° le remboursement, par la société régionale du logement, des prêts consentis aux société agréées;
+
+3° les primes remboursées en vertu du décret du 18 mars 2002 relatif à l'infrastructure;
+
+[<sup>2</sup> 3.1 les emprunts remboursés conformément à l'arrêté royal du 23 mars 2012 portant création d'un Fonds d'impulsion pour la médecine générale et fixant ses modalités de fonctionnement;]<sup>2</sup>
+
+4° la part de la dotation globale prévue au budget des recettes de la Communauté germanophone comme recettes affectées pour remplir les missions du fonds;
+
+5° les bénéfices, intérêts ou plus-values produits par la gestion de ces moyens financiers.
+
+§ 3. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 4. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 5. [<sup>4</sup> ...]<sup>4</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2007-06-25/35, art. 55, 003; En vigueur : 25-06-2007&gt;
+
+(2)&lt;DCG 2017-02-20/13, art. 55, 004; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCG 2022-12-15/54, art. 72, 005; En vigueur : 01-01-2023&gt;
+
+(4)&lt;DCG 2025-12-22/16, art. 97, 006; En vigueur : 01-01-2026&gt;
+
+## Art. 2
+
+[<sup>1</sup> - § 1er - Dans la mesure où les dépenses éventuelles, de par leur destination, ne doivent pas plutôt être inscrites sous un autre fonds budgétaire ou une allocation du budget général des dépenses, les moyens financiers du Fonds pour le financement de primes, crédits et participations remboursables peuvent être utilisés pour l'octroi de prêts remboursables sans intérêts ou portant intérêts aux organismes suivants :
+
+1° les organismes de droit public dépendant de la Communauté germanophone;
+
+2° les pouvoirs subordonnés en région de langue allemande;
+
+3° les organismes reconnus ou subventionnés par la Communauté germanophone;
+
+4° les organismes dans le capital desquels la Communauté germanophone détient une participation.
+
+§ 2 - Pour obtenir le prêt, les organismes mentionnés au § 1er introduisent une demande auprès du Gouvernement.
+
+Le Gouvernement met à disposition un formulaire de demande reprenant les éléments suivants :
+
+1° la désignation de l'organisme;
+
+2° le numéro d'entreprise;
+
+3° le montant du prêt demandé;
+
+4° les tranches de remboursement proposées;
+
+5° une déclaration mentionnant l'ensemble des aides de minimis reçues au cours des trois derniers exercices fiscaux.
+
+Le rapport d'un conseiller fiscal ou d'un expert-comptable indiquant les éléments ci-après doit être joint à la demande mentionnée à l'alinéa 1er :
+
+1° la capacité de l'organisme à rembourser les sommes obtenues au titre du prêt dans le délai indiqué au 3° et conformément au calendrier de remboursement qui y est mentionné;
+
+2° le montant total du fonds de roulement nécessaire;
+
+3° le calendrier de remboursement indiquant les mensualités ainsi que la durée totale nécessaire au remboursement du prêt.
+
+§ 3 - Le Gouvernement statue sur la demande mentionnée au § 2. La décision du Gouvernement comporte au moins les éléments ci-après :
+
+1° le montant du prêt octroyé;
+
+2° la durée du prêt;
+
+3° le calendrier de remboursement.
+
+§ 4 - Le prêt octroyé sert au financement exclusif du fonds de roulement des organismes mentionnés au § 1er.
+
+La durée du prêt est limitée à un maximum de dix ans.
+
+L'organisme est en droit de procéder à tout moment au remboursement anticipé du prêt.
+
+§ 5 - L'organisme auquel un prêt a été octroyé est tenu, pendant la durée du prêt, de se faire accompagner par un expert financier. L'accompagnement par l'expert comprend :
+
+1° l'élaboration d'un modèle de financement adapté pour l'autofinancement définitif du fonds de roulement;
+
+2° les conseils relatifs à l'utilisation du prêt.
+
+Le recours à l'expert financier et l'accompagnement par celui-ci sont à la charge de l'organisme.
+
+L'organisme fournit au Gouvernement, à sa première demande, la preuve de l'accompagnement ainsi que du modèle de financement.
+
+§ 6 - Dans la mesure où l'organisme ne respecte pas le calendrier de remboursement ou ne se conforme pas aux conditions mentionnées au § 5, le Gouvernement invite l'organisme à se conformer à ces conditions dans un délai de trente jours. Sur demande motivée du demandeur, le délai imparti pour la présentation du modèle de financement peut être prolongé une seule fois de trois mois.
+
+Si, après expiration du délai mentionné à l'alinéa 1er, l'organisme ne remplit toujours pas ses obligations, le Gouvernement exige le remboursement du solde du prêt, en application de l'article 50 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 98, 006; En vigueur : 01-01-2026&gt;
+
+## Art. 3
+
+[<sup>1</sup> - Sans préjudice de l'article 2, les moyens financiers du fonds peuvent être utilisés pour financer les primes et participations remboursables ci-après :
+
+1° le paiement des primes octroyées en vertu du décret du 18 mars 2002 relatif à l'Infrastructure;
+
+2° le paiement des prêts octroyés en vertu de l'article 36duodecies de la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994;
+
+3° le paiement des participations dans des sociétés commerciales.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 99, 006; En vigueur : 01-01-2026&gt;
+
+## Art. 3.1.
+
+[<sup>1</sup> - Le Gouvernement de la Communauté germanophone désigne un comptable.
+
+Le Gouvernement rend compte chaque année au Parlement de la gestion du fonds dans le cadre de la présentation du budget.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 100, 006; En vigueur : 01-01-2026&gt;
+
+## Art. 3.2.
+
+[<sup>1</sup> - L'octroi du prêt mentionné à l'article 2 est soumis :
+
+1° soit au règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis;
+
+2° soit au règlement (UE) 2023/2832 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis octroyées à des entreprises fournissant des services d'intérêt économique général.
+
+Pour l'application de l'alinéa 1er et de l'article 2, la valeur de l'aide versée dans le cadre du prêt correspond à l'équivalent-subvention brut de la bonification d'intérêts par rapport au taux d'intérêt du marché et est actualisée au moment de l'octroi en application des règlements mentionnés à l'alinéa 1er.
+
+Le Gouvernement informe l'organisme, dans sa décision d'octroi, de l'équivalent-subvention brut et du caractère de minimis de l'aide en renvoyant expressément au règlement applicable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 101, 006; En vigueur : 01-01-2026&gt;
+
+## Art. 4
+
+Le présent décret entre en vigueur le 1er janvier 1994.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur Belge.
+
+Eupen, le 17 janvier 1994.
+
+Le Ministre-Président du Gouvernement de la Communauté germanophone,
+
+J. MARAITE
+
+Le Ministre de l'Enseignement et de la Formation, de la Culture, de la Jeunesse et de la Recherche scientifique,
+
+B. GENTGES
+
+Le Ministre des Médias, de la Formation des Adultes, de la Politique des Handicapés, de l'Aide sociale et de la Reconversion professionnelle,
+
+K.-H. LAMBERTZ

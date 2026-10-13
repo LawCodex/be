@@ -1,0 +1,1125 @@
+---
+title: "Décret relatif à la formation et la formation continue dans les Classes moyennes et les PME. (Traduction)"
+identifier: "1992033017"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1991/12/16/1992033017/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1991-12-16
+published: 1992-02-20
+entry_into_force: 1992-01-01
+last_amended: 2025-10-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1991/12/16/1992033017/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 02-07-1997 et mise à jour au 31-10-2025"
+retrieved: 2026-10-12
+---
+
+# 16 DECEMBRE 1991. - Décret relatif à la formation et la formation continue dans les Classes moyennes et les PME. (Traduction)
+
+## CHAPITRE I. - Dispositions générales.
+
+##### Art. 1
+
+Pour l'application du présent décret, on entend par :
+
+1° (Gouvernement) : le (Gouvernement) de la Communauté germanophone; &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+2° Institut : l'Institut für Aus- und Weiterbildung im Mittelstand und in kleinen und mittleren Unternehmen (Institut pour la formation et la formation continue dans les Classes moyennes et les PME);
+
+3° Centres : les centres de formation et de formation continue dans les Classes moyennes et les PME [<sup>1</sup> ou l'Institut pour la formation et la formation continue dans les classes moyennes et les PME qui regroupe plusieurs implantations]<sup>1</sup>[<sup>2</sup> ;]<sup>2</sup>
+
+[<sup>2</sup> 4° inspection scolaire : le service institué par le décret du 25 juin 2012 relatif à l'inspection scolaire, la guidance en développement scolaire et la guidance pour l'inclusion et l'intégration, qui assure les missions qui lui sont confiées par le même décret;
+
+5° Commission de soutien : la Commission de soutien mentionnée à l'article 93.24 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires et spécialisées;
+
+6° entreprise formatrice : une entreprise économique ou un établissement comparable relevant soit d'une profession libérale soit des services publics;
+
+7° règlement général sur la protection des données : le règlement 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2021-06-28/11, art. 126, 023; En vigueur : 01-06-2021&gt;
+
+(2)&lt;DCG 2023-06-26/12, art. 42, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 2
+
+La formation et la formation continue dans les Classes moyennes et les PME s'appliquent aux professions indépendantes susceptibles d'être représentées au Conseil supérieur des Classes moyennes institué par les lois coordonnées relatives à l'organisation des Classes moyennes (arrêté royal du 28 mai 1979).
+
+(Le Gouvernement peut étendre l'application du présent décret aux métiers déterminés par lui sur avis de l'Institut et du Comité subrégional de l'emploi et de la formation.) &lt;DCG 1997-05-20/49, art. 5, 002; En vigueur : 02-07-1997&gt;
+
+##### Art. 3
+
+La formation et la formation continue dans les Classes moyennes et les PME sont principalement constituées par :
+
+1° la formation de base;
+
+2° la formation continue;
+
+3° la reconversion.
+
+Ce décret est également applicable au perfectionnement pédagogique.
+
+##### Art. 4
+
+Les programmes des cours et activités de la formation et de la formation continue sont fixés par le (Gouvernement) sur proposition de l'Institut. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+## CHAPITRE II. - Contenu de la formation et de la formation continue dans les Classes moyennes et les PME.
+
+### Section 1. - La formation de base.
+
+##### Art. 5
+
+La formation de base permet d'acquérir les compétences nécessaires à l'exercice d'une profession indépendante.
+
+Elle comprend [<sup>1</sup> trois]<sup>1</sup> degrés :
+
+[<sup>1</sup> 1° la formation élémentaire, en tant que préparation individuelle à l'apprentissage destinée aux personnes qui, en raison de compétences scolaires ou sociales insuffisantes, ont besoin d'un soutien ciblé avant l'apprentissage;]<sup>1</sup>
+
+[<sup>1</sup> 2°]<sup>1</sup> l'apprentissage, qui tend à assurer une formation générale, technique et pratique de base, préparatoire à la formation de " chef d'entreprise ";
+
+[<sup>1</sup> 3°]<sup>1</sup> la formation de " chef d'entreprise ", qui dispense une formation générale, technique, commerciale, financière et administrative en vue de la direction d'une petite ou moyenne entreprise, de l'exercice d'une fonction de cadre dans une telle entreprise ou de l'exercice d'une profession indépendante.
+
+----------
+
+(1)&lt;DCG 2023-06-26/12, art. 43, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 6
+
+Le (Gouvernement) détermine conformément à l'article 2 et sur avis de l'Institut les professions qui peuvent faire l'objet [<sup>1</sup> d'une formation élémentaire,]<sup>1</sup> d'un apprentissage et/ou d'une formation de chef d'entreprise. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+----------
+
+(1)&lt;DCG 2023-06-26/12, art. 44, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 6.1
+
+[<sup>1</sup> Le Gouvernement détermine, tout en tenant compte de l'article 2 et après avis de l'institut et du Conseil économique et social de la Communauté germanophone, les métiers pour lesquels, dans le cadre d'une formation de maîtrise [<sup>2</sup> ou d'un cycle d'études en alternance suivi au sein d'une haute école agréée, et menant à un bachelor]<sup>2</sup>, un stage volontaire de maîtrise peut être suivi.
+
+Le stage volontaire de maîtrise n'est pas proposé sur les métiers pour lesquels il est déjà proposé en formation initiale au niveau de l'enseignement de la Communauté germanophone[<sup>2</sup> , sous réserve d'une dérogation, donnée par le Gouvernement, relative aux cycles d'études en alternance suivis au sein d'une haute école agréée, et menant à un bachelor ]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2009-05-25/27, art. 62, 010; En vigueur : 01-06-2009&gt;
+
+(2)&lt;DCG 2018-06-18/08, art. 54, 020; En vigueur : 01-07-2018&gt;
+
+#### Sous-section 1. [<sup>1</sup> La formation élémentaire]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-06-26/12, art. 45, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 6.2
+
+[<sup>1</sup> § 1er - La formation élémentaire comprend une formation pratique dans une entreprise formatrice agréée par l'Institut, formation complétée par des cours préparatoires à l'apprentissage.
+
+§ 2 - La formation élémentaire suppose la conclusion d'un contrat d'apprentissage, pour la durée de cette formation, par l'intermédiaire d'un secrétaire d'apprentissage.
+
+§ 3 - Par le contrat d'apprentissage :
+
+1° le chef d'entreprise s'engage à donner ou à faire donner à l'apprenant une formation générale, technique et pratique de base, préparatoire à l'apprentissage;
+
+2° l'apprenant s'engage à apprendre la pratique de la profession sous la direction et la surveillance du chef d'entreprise et/ou du formateur ainsi qu'à participer aux cours, tests et examens nécessaires à sa formation.
+
+§ 4 - La participation aux cours, tests et examens mentionnés au § 3 ainsi que l'intervention du secrétaire d'apprentissage mentionnée au § 2 sont gratuites pour l'apprenti ou, selon le cas, les parents ou le tuteur de l'apprenti.
+
+§ 5 - Sur avis de l'Institut, le Gouvernement fixe :
+
+1° les conditions d'admission à la formation élémentaire;
+
+2° les conditions que les entreprises doivent remplir pour dispenser une formation pratique dans le cadre du contrat d'apprentissage ainsi que les conditions auxquelles une entreprise peut se voir retirer l'autorisation de former des apprenants;
+
+3° la durée de la formation élémentaire;
+
+4° la période pour la conclusion des contrats d'apprentissage;
+
+5° les dispositions relatives au contenu, à la forme, à l'approbation et au retrait du contrat d'apprentissage;
+
+6° les conditions d'organisation des cours, tests et examens;
+
+7° les conditions dans lesquelles des attestations de fréquentation peuvent être délivrées lorsque la formation a été partiellement suivie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 46, 026; En vigueur : 01-07-2023&gt;
+
+#### Sous-section 1.1. [<sup>1</sup> - L'apprentissage]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 47, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 7
+
+§ 1. L'apprentissage comporte une formation pratique dispensée dans une entreprise formatrice contrôlée par l'Institut, formation complétée par des cours généraux et professionnels, des tests et des examens.
+
+[Par " entreprise formatrice ", l'on entend une entreprise économique ou un établissement comparable relevant soit d'une profession libérale soit des services publics.] &lt;DCG 1998-06-29/30, art. 54, 003; En vigueur : 18-07-1998&gt;
+
+§ 2. [<sup>6</sup> ...]<sup>6</sup>
+
+§ 3. Par le contrat d'apprentissage :
+
+\- un chef d'entreprise s'engage à donner ou à faire donner à un apprenti une formation générale, technique et pratique de base, préparatoire à la formation de chef d'entreprise;
+
+\- un apprenti s'engage à apprendre la pratique de la profession sous la direction et la surveillance du chef d'entreprise et à suivre les cours nécessaires à sa formation, à participer aux tests et aux examens.
+
+§ 4. Si le chef d'entreprise exerce sur l'apprenti l'autorité parentale ou la tutelle, il conclut un accord contrôlé d'apprentissage avec le secrétaire d'apprentissage agréé.
+
+L'accord d'apprentissage implique les mêmes obligations que celles visées au § 3 pour le contrat d'apprentissage.
+
+§ 5. La participation aux cours, tests et examens visés au § 1er ainsi que l'intervention du secrétaire d'apprentissage agréé sont gratuites pour l'apprenti et/ou les parents ou le tuteur de l'apprenti.
+
+§ 6. L'apprentissage fait l'objet d'une évaluation régulière et est clôturé par un examen de fin d'apprentissage.
+
+Les apprentis qui réussissent l'examen reçoivent un certificat de fin d'apprentissage dont le modèle est fixé par l'Exécutif.
+
+[<sup>1</sup> Aux titulaires d'un certificat d'aptitudes professionnelles délivré après septembre 2008 en application de l'alinéa 2, [<sup>5</sup> qui ont terminé avec fruit la troisième année de l'enseignement secondaire général ou technique ou la quatrième année de l'enseignement secondaire professionnel ou qui sont en possession d'un titre y assimilé]<sup>5</sup>, est également délivré un certificat de fin de sixième année de l'enseignement secondaire professionnel dont le modèle est fixé par le Gouvernement.
+
+L'octroi d'un certificat de fin de sixième année de l'enseignement secondaire professionnel tel que mentionné à l'alinéa 3 est grevé des conditions suivantes :
+
+1\. [<sup>3</sup> l'Institut permet à l'inspection scolaire de mener dans les centres de formation et de formation continue dans les Classes moyennes et les PME les missions mentionnées à l'article 6, alinéa 1er, 1°, a) et b), du décret du 25 juin 2012 relatif à l'inspection scolaire [<sup>4</sup> , la guidance en développement scolaire et la guidance pour l'inclusion et l'intégration]<sup>4</sup>;]<sup>3</sup>
+
+2\. l'institut de formation tient compte, pour les cours généraux dispensés dans le cadre de la formation professionnelle, des programmes d'études et plans de formation utilisés dans l'enseignement communauté pour la sixième année d'enseignement secondaire professionnel.]<sup>1</sup>
+
+§ 7. Le [Gouvernement] arrête sur avis de l'Institut : &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+1° les conditions d'accès à l'apprentissage;
+
+2° [les conditions que les entreprises doivent remplir pour dispenser une formation pratique dans le cadre du contrat d'apprentissage ou de l'accord contrôlé d'apprentissage ainsi que les conditions auxquelles une entreprise peut se voir retirer l'autorisation de former des apprentis;] &lt;DCG 2004-05-17/49, art. 43, 008; En vigueur : 01-07-2004&gt;
+
+3° la durée de l'apprentissage;
+
+4° la période pour la conclusion des contrats d'apprentissage et des accords contrôlés d'apprentissage;
+
+5° les dispositions relatives au contenu, à la forme, à l'approbation et au retrait du contrat d'apprentissage ou de l'accord contrôlé d'apprentissage;
+
+6° les conditions d'organisation des cours, tests et examens;
+
+[<sup>6</sup> 6.1° les conditions dans lesquelles les apprenants nécessitant un soutien spécifique peuvent être davantage soutenus; par "apprenants nécessitant un soutien spécifique", il faut entendre :
+
+a) les apprenants souffrant de troubles sensoriels ou de la perception;
+
+b) les apprenants souffrant de troubles de performance partiels;
+
+c) les apprenants souffrant de troubles moteurs ou d'un déficit fonctionnel temporaire;]<sup>6</sup>
+
+7° les conditions dans lesquelles des attestations de fréquentation peuvent être délivrées lorsque la formation d'apprenti a été partiellement suivie;
+
+8° les conditions dans lesquelles des stagiaires, dans le cadre de projets nationaux et internationaux de formation et de formation continue, peuvent suivre partiellement une formation d'apprenti.
+
+----------
+
+(1)&lt;DCG 2009-05-25/27, art. 63, 010; En vigueur : 01-06-2009&gt;
+
+(2)&lt;DCG 2010-06-28/08, art. 39, 011; En vigueur : 01-06-2009&gt;
+
+(3)&lt;DCG 2012-06-25/09, art. 39, 016; En vigueur : 01-09-2013&gt;
+
+(4)&lt;DCG 2019-05-06/10, art. 102, 021; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCG 2021-06-28/11, art. 127, 023; En vigueur : 01-07-2021&gt;
+
+(6)&lt;DCG 2023-06-26/12, art. 48, 026; En vigueur : 01-07-2023&gt;
+
+#### Sous-section 2. - La formation de chef d'entreprise.
+
+##### Art. 8
+
+§ 1. La formation de chef d'entreprise comprend une formation théorique et une formation pratique.
+
+La formation théorique comprend des cours de gestion et de connaissances professionnelles.
+
+La formation pratique est axée principalement sur les problèmes qui se posent dans la gestion d'une petite ou moyenne entreprise sur les plans technique, commercial, financier et administratif.
+
+§ 2. La formation de chef d'entreprise fait l'objet d'une évaluation régulière et est clôturée par un examen de fin de formation de futur chef d'entreprise.
+
+Les candidats qui réussissent l'examen reçoivent un certificat de fin de formation de futur chef d'entreprise dont le modèle est fixé par l'Exécutif.
+
+§ 3. Le (Gouvernement) arrête, après avis de l'Institut : &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+1° les conditions d'admission à la formation de chef d'entreprise;
+
+2° les conditions que les entreprises doivent remplir pour dispenser une formation pratique;
+
+3° la durée de la formation;
+
+4° les conditions d'organisation des cours, tests et examens.
+
+5° les conditions dans lesquelles des attestations de fréquentation peuvent être octroyées lorsque la formation de chef d'entreprise n'a pas été entièrement suivie;
+
+6° les conditions dans lesquelles des stagiaires, dans le cadre de projets nationaux et internationaux de formation et de formation continue, peuvent suivre partiellement une formation de chef d'entreprise en Communauté germanophone;
+
+7° les conditions dans lesquelles des cours accélérés de gestion peuvent être dispensés tout en respectant les dispositions exécutoires de la loi du 15 décembre 1970 sur l'exercice des activités professionnelles dans les petites et moyennes entreprises du commerce et de l'artisanat;
+
+8° les conditions dans lesquelles des stagiaires, dans le cadre de projets nationaux et internationaux de formation et de formation continue, et les élèves des cours accélérés de gestion peuvent recevoir une attestation de fréquentation pour une formation de chef d'entreprise qui n'a pas été entièrement suivie.
+
+##### Art. 9
+
+Les cours, tests et examens de la formation de base sont organisés par les centres agréés.
+
+##### Art. 9.1
+
+[<sup>1</sup> Le stage volontaire de maîtrise prépare conformément aux articles 8 et 9 à l'examen de maîtrise [<sup>2</sup> ou aux examens de bachelor d'un cycle d'études en alternance suivi au sein d'une haute école agréée]<sup>2</sup>. Afin de pouvoir suivre un stage volontaire de maîtrise, le stagiaire doit pouvoir attester de la réussite de son cycle d'enseignement secondaire supérieur.
+
+Sur avis de l'institut de formation, le Gouvernement fixe les éléments suivants :
+
+1\. les conditions générales du stage volontaire de maîtrise;
+
+2\. les règles administratives du stage volontaire de maîtrise;
+
+3\. les conditions d'agrément de l'entreprise de formation;
+
+4\. les conditions d'agrément du stagiaire volontaire;
+
+5\. les termes du contrat de stage;
+
+6\. les devoirs du stagiaire;
+
+7\. les devoirs du chef d'entreprise;
+
+8\. les modalités d'annulation du contrat de stage.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2009-05-25/27, art. 64, 010; En vigueur : 01-06-2009&gt;
+
+(2)&lt;DCG 2018-06-18/08, art. 55, 020; En vigueur : 01-07-2018&gt;
+
+### Section 2. - La formation continue.
+
+##### Art. 10
+
+§ 1. La formation continue permet aux personnes qui ont achevé avec succès l'apprentissage ou la formation de chef d'entreprise ainsi qu'aux membres d'une entreprise exerçant l'une des professions visées à l'article 2 d'accroître leur capacité professionnelle, notamment en l'adaptant aux évolutions technologiques, économiques et sociales.
+
+§ 2. La formation continue comprend :
+
+1° le recyclage;
+
+2° le perfectionnement.
+
+##### Art. 10bis
+
+&lt;Inséré par DCG 1998-06-29/30, art. 52; En vigueur : 18-07-1998&gt; Par dérogation aux articles 2 et 10, § 1er, toutes les personnes qui exercent une profession indépendante et tous les collaborateurs occupés dans des petites et moyennes entreprises peuvent bénéficier d'une formation continue.
+
+##### Art. 10ter
+
+&lt;Inséré par DCG 2001-06-25/37, art. 15; En vigueur : 12-10-2001&gt; Par dérogation aux articles 2 et 10, § 1er, les personnes inscrites en tant que demandeurs d'emploi [<sup>1</sup> auprès du service désigné par le Gouvernement ]<sup>1</sup> et ayant conclu [<sup>1</sup> avec ledit service]<sup>1</sup> un contrat de formation individuel pour la formation concernée, contrat qui répond au prescrit des articles 15 et 16 de l'arrêté de l'Exécutif de la Communauté germanophone du 12 juin 1985 relatif à l'octroi de certains avantages aux personnes recevant une formation professionnelle, peuvent bénéficier de la formation continue par le biais d'un accord-cadre conclu [<sup>1</sup> au nom du service désigné par le Gouvernement]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2023-11-13/19, art. 11, 025; En vigueur : 01-01-2024&gt;
+
+##### Art. 11
+
+Le recyclage assure une formation continue en ce qui concerne les problèmes qui se posent dans une entreprise sur les plans technique, économique, juridique, social et humain.
+
+Il peut notamment se concrétiser sous forme de conférences, journées d'études, séminaires, colloques ou congrès.
+
+Ces activités de recyclages peuvent être organisées non seulement par les centres, mais aussi par les associations professionnelles et interprofessionnelles.
+
+##### Art. 12
+
+Le perfectionnement assure la mise à jour approfondie des connaissances relatives aux problèmes qui se posent dans une entreprise sur les plans technique, économique, juridique, social et humain; il peut également avoir pour objet la formation approfondie à des techniques nouvelles.
+
+Il se concrétise sous forme de cours qui totalisent plus de 30 heures en cycle complet et sont exclusivement organisés par les centres.
+
+##### Art. 12bis
+
+&lt;Inséré par DCG 2001-06-25/37, art. 16; En vigueur : 12-10-2001&gt; Sur avis de l'Institut, le Gouvernement fixe :
+
+1° la durée de la formation continue;
+
+2° les conditions d'agréation de la formation continue.
+
+### Section 3. - La reconversion.
+
+##### Art. 13
+
+§ 1. La reconversion permet aux personnes qui ont achevé avec succès l'apprentissage ou la formation de chef d'entreprise ou aux membres d'une entreprise exerçant l'une des professions visées à l'article 2 et devant changer d'activité professionnelle pour des motifs impérieux, d'obtenir une capacité professionnelle pour une autre des professions visées à l'article 2, et ce grâce à des cours théoriques et pratiques organisés par les centres.
+
+§ 2. Sur avis de l'Institut, le (Gouvernement) fixe : &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+1° les conditions d'admission à la reconversion;
+
+2° la durée de la reconversion;
+
+3° les conditions d'organisation de la reconversion;
+
+4° les conditions d'octroi d'un certificat.
+
+### Section 4. [<sup>1</sup> - Préparation aux examens présentés devant le jury d'examen de la Communauté germanophone pour l'enseignement secondaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2010-10-25/05, art. 20, 012; En vigueur : 01-09-2010&gt;
+
+##### Art. 13.1
+
+[<sup>1</sup> § 1er. Les cours préparant à l'obtention du certificat d'enseignement professionnel secondaire supérieur et organisés comme formation en cours de carrière par les centres reconnus préparent aux examens présentés devant le jury d'examen de la Communauté germanophone pour l'enseignement secondaire et transmettent les compétences requises à cet effet.
+
+Sont admises aux cours visés au premier alinéa les personnes qui satisfont aux conditions d'admission mentionnées à l'article 18, § 1er, de l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire.
+
+§ 2. Sur avis de l'Institut, le Gouvernement fixe :
+
+1° la durée des cours;
+
+2° le contenu des cours;
+
+3° les conditions d'organisation des cours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2010-10-25/05, art. 20, 012; En vigueur : 01-09-2010&gt;
+
+##### Art. 13.2
+
+[<sup>1</sup> § 1er - Les cours préparant à l'obtention du certificat d'enseignement secondaire professionnel inférieur et organisés comme formation en cours de carrière par des centres reconnus préparent aux examens présentés devant le jury d'examen de la Communauté germanophone pour l'enseignement secondaire et transmettent les compétences requises à cet effet.
+
+Sont admises aux cours mentionnés à l'alinéa 1er les personnes sous contrat d'apprentissage et celles qui ont terminé avec fruit un apprentissage des classes moyennes et sont porteuses du certificat d'apprentissage ou d'un certificat de formation dans les classes moyennes obtenu à l'étranger et déclaré équivalent par le Gouvernement.
+
+§ 2 - Sur avis de l'Institut, le Gouvernement fixe les éléments suivants :
+
+1° la durée des cours;
+
+2° le contenu des cours;
+
+3° les conditions d'organisation des cours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2018-06-18/08, art. 56, 020; En vigueur : 01-07-2018&gt;
+
+## CHAPITRE III. - Le perfectionnement pédagogique.
+
+##### Art. 14
+
+Le perfectionnement pédagogique permet aux personnes qui, dans la formation et la formation continue dans les Classes moyennes et les PME sont chargées d'une mission de formation, d'améliorer leurs connaissances pédagogiques.
+
+[<sup>1</sup> Le programme du perfectionnement pédagogique et les conditions pour sa mise en oeuvre ainsi que l'évaluation dudit perfectionnement sont fixés par le Gouvernement sur la proposition de l'Institut.]<sup>1</sup>
+
+[<sup>1</sup> Le perfectionnement pédagogique]<sup>1</sup> est organisé par l'Institut.
+
+----------
+
+(1)&lt;ACG 2022-06-27/13, art. 27, 024; En vigueur : 01-07-2022&gt;
+
+## CHAPITRE IV. - Structure de la formation et de la formation continue dans les Classes moyennes et les PME.
+
+### Section 1. - L'Institut pour la formation et la formation continue dans les Classes moyennes et les PME.
+
+##### Art. 15
+
+[<sup>1</sup> Il est créé, sous la dénomination "Institut für Aus- und Weiterbildung im Mittelstand und in kleinen und mittleren Unternehmen", un organisme d'intérêt public conformément à l'article 87 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone. L'Institut est soumis aux dispositions de ce décret.]<sup>1</sup>
+
+L'institut détermine son siège.
+
+----------
+
+(1)&lt;DCG 2009-05-25/21, art. 116, 009; En vigueur : 01-01-2010&gt;
+
+##### Art. 16
+
+L'Institut a les missions suivantes :
+
+1° [<sup>5</sup> promouvoir les cours et activités de formation et de formation continue dans les Classes moyennes et les PME [<sup>7</sup> ainsi que les cycles d'études en alternance]<sup>7</sup>, les coordonner et garantir leur surveillance pédagogique, administrative et financière; à cet effet, des entretiens de définition d'objectifs ont lieu sur une base semestrielle entre la direction de l'Institut et la direction des centres, dans le cadre desquels des objectifs concrets sont convenus et, le cas échéant, des objectifs en matière de garantie de la qualité peuvent être prescrits par la direction de l'IAWM]<sup>5</sup>;
+
+2° promouvoir la qualification pédagogique des formateurs;
+
+3° élaborer les programmes de formation [<sup>7</sup> et d'études]<sup>7</sup> en vue de leur approbation par le (Gouvernement); &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+4° coordonner l'organisation des tests et examens, élaborer les méthodes d'évaluation et assurer la surveillance pédagogique;
+
+5° (procéder à l'approbation et/ou au retrait) des contrats d'apprentissage et des accords contrôlés d'apprentissage et surveiller le déroulement de l'apprentissage, principalement dans l'entreprise formatrice; &lt;DCG 2004-05-17/49, art. 44, 008; En vigueur : 01-07-2004&gt;
+
+6° préparer la remise des certificats de fin d'apprentissage, des certificats de fin de formation des futurs chefs d'entreprise et des attestations, et les soumettre pour homologation à le (Gouvernement); &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+7° remettre à le (Gouvernement) des avis quant à la création et l'agréation de centres, promouvoir, coordonner et surveiller les activités des centres agréés; &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+8° (contrôler les entreprises formatrices, les reconnaître et retirer la reconnaissance;); &lt;DCG 2004-05-17/49, art. 45, 008; En vigueur : 01-07-2004&gt;
+
+9° contrôler l'activité des secrétaires d'apprentissage agréés, liquider leur rémunération [<sup>2</sup> ...]<sup>2</sup>;
+
+10° [<sup>2</sup> ...]<sup>2</sup>;
+
+11° émettre d'initiative ou sur demande de le (Gouvernement) un avis ou réaliser une étude sur les missions qui lui sont assignées par décret; &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+12° donner à le (Gouvernement) un avis à propos de tout projet de décret ou d'arrêté entraînant une modification des missions de l'Institut; &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+13° soumettre à le (Gouvernement) des propositions quant aux décrets et arrêtés qu'il doit appliquer; &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+14° promouvoir notamment la collaboration avec :
+
+\- les instances compétentes au niveau national pour les Classes moyennes et les PME;
+
+\- les établissements et organismes de formation et de formation continue dans les Classes moyennes et les PME situés en Communauté française et en Communauté flamande;
+
+\- les autres établissements et organismes se consacrant à la formation et la formation continue professionnelles en Communauté germanophone;
+
+\- les établissements et organismes étrangers se consacrant à la formation et de formation continue professionnelles [<sup>1</sup> ;]<sup>1</sup>
+
+[<sup>1</sup> 15° veiller à la formation professionnelle et à la formation professionnelle permanente des personnes travaillant dans l'agriculture, conformément au décret du 29 février 1988 relatif à la formation professionnelle des personnes travaillant dans l'agriculture;]<sup>1</sup>
+
+[<sup>3</sup> 16° octroyer des primes aux employeurs et apprentis dans le cadre de systèmes de formation en alternance et les gérer;
+
+17° procéder à l'agrément de tuteurs en vue de la réduction pour groupe cible mentionnée à l'article 347bis de la loi-programme du 24 décembre 2002[<sup>4</sup>;]<sup>4</sup>]<sup>3</sup>
+
+[<sup>4</sup> 18° exercer toutes les missions prévues dans la loi du 19 juillet 1983 relative à l'apprentissage industriel et dans les dispositions portant exécution de celle-ci;]<sup>4</sup>
+
+[<sup>6</sup> 19° participer aux concepts en matière d'orientation professionnelle pour la formation en alternance et, dans ce cadre, organiser en particulier les semaines de découverte. Les semaines de découverte contribuent à l'orientation professionnelle et donnent aux participants la possibilité de découvrir gratuitement pendant une ou plusieurs journées au sein d'une ou de plusieurs entreprises les métiers qu'il est possible d'apprendre dans le cadre d'une formation en alternance ainsi que les activités liées à ces métiers. Les semaines de découverte ne servent pas à acquérir une expérience professionnelle. Elles n'ont pas lieu dans le cadre d'une activité scolaire et ne sont pas soumises à un référentiel de compétences scolaire. La participation est gratuite. Les participants aux semaines de découverte n'exécutent pas les mêmes tâches que les travailleurs réguliers de l'entreprise. Les semaines de découverte se déroulent dans les entreprises de formation agréées par l'Institut. Si l'entreprise n'a pas encore été agréée par l'Institut, elle introduit auprès de ce dernier une demande d'autorisation pour participer aux semaines de découverte. Aux fins de la participation aux semaines de découverte, une convention écrite est conclue entre le participant et l'entreprise.
+
+Sur proposition de l'Institut, le Gouvernement fixe les éléments ci-après pour l'organisation des semaines de découverte :
+
+a) les modalités d'inscription et les conditions d'admission concernant les entreprises;
+
+b) les modalités d'inscription et les conditions d'admission concernant les participants;
+
+c) le calendrier pour l'organisation des semaines de découverte, les horaires y afférents et la durée des pauses;
+
+d) les obligations incombant aux entreprises;
+
+e) les obligations incombant aux participants;
+
+f) la couverture d'assurance;
+
+g) le contenu et le modèle de la convention;
+
+h) les modalités de résiliation de la convention.]<sup>6</sup>
+
+[<sup>5</sup> Aux fins de l'exercice des missions mentionnées à l'alinéa 1er, 1°, l'Institut peut recourir à des procédures d'évaluation interne et externe ayant pour but :
+
+1° de vérifier avec quel degré de qualité les centres respectent la mission qui leur a été confiée par le présent décret;
+
+2° de déterminer, si et dans quelle mesure, les structures organisationnelles ainsi que les méthodes et résultats du travail pédagogique des centres permettent d'atteindre les objectifs du projet pédagogique;
+
+3° d'apporter une base scientifique aux fins du développement futur des centres.]<sup>5</sup>
+
+[<sup>5</sup> Aux fins de l'exercice des missions mentionnées à l'alinéa 1er, 1°, l'Institut peut, dans des cas motivés, ordonner et initier des mesures en matière de garantie et de développement de la qualité et contrôler les résultats y afférents. S'il ressort de l'évaluation que la qualité des activités des centres est insuffisante, l'Institut donne pour instruction de combler les lacunes constatées en matière de qualité dans un délai déterminé. A cette fin, les centres soumettent un plan de développement devant être approuvé par l'Institut, plan qui définit les mesures concrètes, fixe le calendrier y afférent et décrit leur mise en oeuvre. Dans le cadre d'une évaluation a posteriori fixée dans le temps par l'Institut, l'efficacité desdites mesures sera ensuite à nouveau contrôlée.]<sup>5</sup>
+
+----------
+
+(1)&lt;DCG 2011-06-27/03, art. 41, 013; En vigueur : 01-01-2011&gt;
+
+(2)&lt;DCG 2012-01-16/06, art. 17, 015; En vigueur : 01-01-2012&gt;
+
+(3)&lt;DCG 2016-04-25/10, art. 35, 018; En vigueur : 01-01-2016&gt;
+
+(4)&lt;DCG 2016-06-20/05, art. 67, 019; En vigueur : 01-09-2016&gt;
+
+(5)&lt;DCG 2023-06-26/12, art. 49, 026; En vigueur : 01-07-2023&gt;
+
+(6)&lt;DCG 2023-12-14/58, art. 65, 028; En vigueur : 01-01-2024&gt;
+
+(7)&lt;DCG 2025-06-30/15, art. 20, 029; En vigueur : 01-09-2025&gt;
+
+#### Sous-section 1. - Le conseil d'administration.
+
+##### Art. 17
+
+§ 1. L'Institut est dirigé par un conseil d'administration dont les membres suivants ont voix délibérative :
+
+\- [<sup>4</sup> six membres représentant des associations professionnelles qui soit sont des associations professionnelles nationales au sens de l'article 3 de la loi du 24 avril 2014 relative à l'organisation de la représentation des indépendants et des PME, soit ont leur siège en Communauté germanophone et sont affiliées à l'une de ces associations professionnelles nationales susmentionnées;]<sup>4</sup>
+
+\- [<sup>4</sup> quatre membres représentant les associations interprofessionnelles qui soit sont des associations interprofessionnelles nationales au sens de l'article 4 de la loi du 24 avril 2014 relative à l'organisation de la représentation des indépendants et des PME, soit ont leur siège en Communauté germanophone et sont affiliées à l'une de ces associations interprofessionnelles nationales susmentionnées;]<sup>4</sup>
+
+\- un membre par centre de formation et de formation continue dans les Classes moyennes et les PME.
+
+(- trois membres délégués des organisations représentatives des travailleurs [<sup>1</sup> ;]<sup>1</sup>) &lt;DCG 2000-02-14/41, art. 1, § 1, 004; En vigueur : 14-02-2000&gt;
+
+[<sup>1</sup> - un représentant des centres pour la formation et la formation permanente agricole de catégorie A agréés conformément aux articles 6 et 7, § 1er, du décret du 29 février 1988 relatif à la formation professionnelle des personnes travaillant dans l'agriculture;
+
+\- un représentant du [<sup>2</sup> Conseil de la Jeunesse]<sup>2</sup>.]<sup>1</sup>
+
+Ont voix consultative au conseil d'administration :
+
+\- le directeur de chacun des centres agréés de formation et de formation continue dans les Classes moyennes et les PME;
+
+\- un représentant du Ministère de la Communauté germanophone;
+
+\- le directeur de l'Institut pour la formation et la formation continue dans les Classes moyennes et les PME.
+
+[§ 2. Pas plus de deux tiers des membres du Conseil d'administration ayant voix délibérative ne peuvent être du même sexe.] &lt;DCG 2000-02-14/42, art. 1, 005; En vigueur : 16-07-2000&gt;
+
+[<sup>4</sup> Si le Gouvernement estime que la demande mentionnée au § 3bis et introduite par l'Institut est suffisamment motivée, il peut déroger à la condition mentionnée à l'alinéa 1er lors de la désignation des membres du conseil d'administration ayant voix délibérative.]<sup>4</sup>
+
+[§ 3.] Les membres du conseil d'administration ayant voix délibérative doivent [<sup>3</sup> ...]<sup>3</sup> maîtriser la langue allemande. &lt;DCG 2000-02-14/42, art. 1, 005; En vigueur : 16-07-2000&gt;
+
+[§ 3bis. Les listes doubles visées à l'article 18, §1er, ou les deux nouveaux candidats visés à l'article 18, § 3, alinéa 3, lorsqu'un mandat devient vacant, prévoient un homme et une femme pour chaque proposition. Une dérogation peut être accordée par le Gouvernement sur demande motivée de l'Institut.] &lt;inséré par DCG 2004-05-17/49, art. 17; En vigueur : 01-07-2004&gt;
+
+[§ 4.] Sur invitation du conseil d'administration, des experts peuvent être appelés à participer avec voix consultative aux réunions du conseil d'administration. &lt;DCG 2000-02-14/42, art. 1, 005; En vigueur : 16-07-2000&gt;
+
+----------
+
+(1)&lt;DCG 2011-06-27/03, art. 42, 013; En vigueur : 01-07-2011&gt;
+
+(2)&lt;DCG 2011-12-06/02, art. 58, 014; En vigueur : 01-01-2012&gt;
+
+(3)&lt;DCG 2019-05-06/10, art. 103, 021; En vigueur : 01-06-2019&gt;
+
+(4)&lt;DCG 2020-06-22/15, art. 49, 022; En vigueur : 01-07-2020&gt;
+
+##### Art. 18
+
+§ 1. Le (Gouvernement) nomme : &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+\- les membres du conseil d'administration à partir d'une liste double reprenant [<sup>1</sup> les candidats proposés par chaque organisation mentionnée à l'article 17, § 1er]<sup>1</sup>); &lt;DCG 2000-02-14/41, art. 1, § 2, 004; En vigueur : 14-02-2000&gt;
+
+\- parmi les membres du conseil d'administration et sur proposition de ceux-ci, le président du conseil d'administration.
+
+§ 2. Le conseil d'administration choisit parmi ses membres un vice-président.
+
+§ 3. Le président et les membres sont nommés pour une durée de six ans. Leur mandat peut être renouvelé.
+
+Le mandat prend fin :
+
+1° par la démission volontaire du membre du conseil d'administration;
+
+2° en cas de perte des droits civils ou politiques;
+
+3° lorsque les conditions prévues à l'article 17, § 2 ne sont plus remplies;
+
+4° lorsqu'apparaît une des incompatibilités prévues au § 5 suivant[<sup>2</sup> ;]<sup>2</sup>
+
+[<sup>2</sup> 5° lorsque le Gouvernement révoque un membre du conseil d'administration conformément au § 6.]<sup>2</sup>
+
+Lorsqu'un mandat de membre du conseil d'administration se libère, [<sup>1</sup> l'organisation concernée]<sup>1</sup> propose deux nouveaux candidats à le (Gouvernement) pour nomination. Le membre du conseil d'administration nouvellement nommé mène a son terme le mandat de son prédécesseur. &lt;DCG 2000-02-14/41, art. 1, § 3, 004; En vigueur : 14-02-2000&gt; &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+§ 4. Le conseil d'administration ne délibère valablement que lorsque la majorité de ses membres sont présents. Il prend ses décisions à la majorité absolue des voix. En cas de parité des voix, la voix du président ou, lorsqu'il est absent, celle du vice-président est prépondérante.
+
+§ 5. (La qualité de membre du Conseil d'administration ayant voix délibérative est incompatible avec celle de membre du Parlement européen, de la Chambre des Représentants, du Sénat, d'un Conseil communautaire ou régional ou d'un Gouvernement; elle est aussi incompatible avec celle de gouverneur de province, collaborateur auprès d'un cabinet ministériel ou membre du personnel de l'Institut.) &lt;DCG 2000-10-23/31, art. 69, 006; En vigueur : 15-12-2000&gt;
+
+[<sup>2</sup> § 6 - Sans préjudice des dispositions figurant dans le présent décret ou dans le droit commun en matière de droit de révocation, le Gouvernement peut, de sa propre initiative, sur proposition de l'une des instances de proposition prévues à l'article 17, § 1er, ou sur proposition du conseil d'administration, révoquer un membre qu'il a nommé au conseil d'administration dans les conditions suivantes et à tout moment :
+
+1° s'il peut être prouvé qu'il a commis une faute grave ou une négligence grave lors de l'exercice de son mandat ou
+
+2° s'il peut être prouvé qu'il a effectué une action ou a eu un comportement incompatibles avec l'exercice de son mandat ou
+
+3° s'il peut être prouvé qu'il ne respecte pas les principes démocratiques énoncés dans les textes juridiques énumérés ci-après ou, selon le cas, s'il est membre d'une organisation, d'un parti, d'une association ou d'une personne morale qui ne respecte pas lesdits principes :
+
+\- la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie, et
+
+\- la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation du génocide commis par le régime national-socialiste allemand pendant la seconde guerre mondiale.
+
+Il est procédé à une révocation conformément à l'alinéa 1er après la tenue d'une audition préalable lors de laquelle le membre concerné peut se faire accompagner de la personne de son choix. Le Gouvernement fixe les autres modalités relatives à la procédure de révocation.
+
+Le Gouvernement nomme un nouveau membre au conseil d'administration pour la période restante. Un membre révoqué ne peut être nommé à nouveau au conseil d'administration pour la durée de mandat restante et suivante.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2012-01-16/06, art. 18, 015; En vigueur : 01-07-2011&gt;
+
+(2)&lt;DCG 2024-05-06/14, art. 2, 027; En vigueur : 01-09-2024&gt;
+
+##### Art. 18bis
+
+&lt;inséré par DCG 2004-05-17/49, art. 47 ; En vigueur : 01-12-2003&gt; Dans des cas particuliers motivés, le Gouvernement peut autoriser des associations professionnelles qui ne remplissent pas les conditions fixées par l'article 6, alinéa 2, des lois coordonnées du 28 mai 1979 relatives à l'organisation des Classes moyennes, à introduire une candidature comme association professionnelle nationale pour un mandat au sein du conseil d'administration.
+
+##### Art. 19
+
+Le (Gouvernement) fixe le montant des jetons de présence et des indemnités qui peuvent être octroyés au président et autres membres du conseil d'administration.
+
+##### Art. 20
+
+Lors de son installation, le conseil d'administration désigne parmi les membres du personnel de l'Institut la personne chargée du secrétariat du conseil d'administration. Il peut remplacer cette personne à tout moment.
+
+#### Sous-section 2. - Missions du conseil d'administration.
+
+##### Art. 21
+
+Le conseil d'administration dispose de toutes les compétences nécessaires à la gestion de l'Institut.
+
+[<sup>1</sup> Le conseil d'administration soutient la direction dans le développement de la gestion de la qualité dans les centres agréés ainsi que dans la réalisation des objectifs fixés lors des entretiens semestriels de définition d'objectifs mentionnés à l'article 16, alinéa 1er, 1°, tenus avec les membres de la direction des centres.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-06-26/12, art. 50, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 22
+
+Le conseil d'administration soumet son règlement d'ordre intérieur à le (Gouvernement) pour approbation. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+#### Sous-section 3. - Gestion journalière.
+
+##### Art. 23
+
+§ 1. Le (Gouvernement) nomme le directeur de l'Institut pour la formation et la formation continue dans les Classes moyennes et les PME sur proposition du Ministre communautaire compétent pour la formation et la formation continue dans les Classes moyennes et après avoir consulté le conseil d'administration. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+Le (Gouvernement) fixe le statut du directeur. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+§ 2. Le directeur exécute les décisions du conseil d'administration. Il transmet à celui-ci les informations en sa possession et lui soumet des propositions visant la promotion du fonctionnement de l'Institut.
+
+Il dirige le personnel et assure le bon fonctionnement de l'Institut sous le contrôle du conseil d'administration.
+
+Il exerce la gestion journalière telle que définie dans le règlement d'ordre intérieur.
+
+#### Sous-section 4. - Personnel.
+
+##### Art. 24
+
+&lt;Abrogé par DCG 2009-05-25/21, art. 118, 009; En vigueur : 01-01-2010&gt;
+
+#### Sous-section 5. - Contrôle.
+
+##### Art. 25
+
+&lt;Abrogé par DCG 2009-05-25/21, art. 118, 009; En vigueur : 01-01-2010&gt;
+
+##### Art. 26
+
+&lt;Abrogé par DCG 2009-05-25/21, art. 118, 009; En vigueur : 01-01-2010&gt;
+
+### Section 2. - Les centres de formation et de formation continue dans les Classes moyennes et les PME.
+
+##### Art. 27
+
+Sur avis de l'Institut, le (Gouvernement) peut agréer des centres de formation et de formation continue dans les Classes moyennes et les PME. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+Il fixe les conditions de subsidiation des centres agréés.
+
+Ces centres doivent être constitués sous la forme d'une association sans but lucratif conformément à la loi du 27 juin 1921 accordant la personnalité civile aux associations sans but lucratif et aux établissements d'utilité publique.
+
+##### Art. 28
+
+Pour être agréés, les centres doivent notamment poursuivre les buts suivants :
+
+1° organiser les activités prévues aux articles 5 à 13 dans le cadre de la formation de base, de la formation continue et de la reconversion;
+
+2° assurer la guidance pédagogique des apprentis, des personnes ayant réussi leur examen de fin d'apprentissage et des chefs d'entreprise;
+
+3° prêter leur concours à le (Gouvernement) et à l'Institut pour la promotion de la formation et de la formation continue dans les Classes moyennes et les PME. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+##### Art. 28.1
+
+[<sup>1</sup> Afin d'assurer la durabilité de la garantie et du développement de la qualité et de rester agréés, les centres soumettent chaque année à l'Institut un projet pédagogique pour le 31 mai au plus tard, qui doit être approuvé par le conseil d'administration de l'Institut. Ce projet pédagogique comprend au moins les éléments suivants :
+
+1° la situation de départ des centres, c'est-à-dire leur niveau de développement actuel en tenant compte des données extra- et intrascolaires;
+
+2° le schéma d'orientation pédagogique des centres, reprenant l'attitude fondamentale et les valeurs d'après lesquelles les centres s'orientent dans toutes leurs activités;
+
+3° le programme d'exécution, comprenant les mesures de mise en oeuvre du concept pédagogique global et déterminant la mise en oeuvre des points forts de développement choisis au sein du centre. En font partie :
+
+a) la fixation des objectifs de développement;
+
+b) le plan de développement, assorti des mesures de mise en oeuvre;
+
+c) le contrôle concret du degré de réalisation des objectifs dans le cadre d'une procédure d'évaluation interne définie;
+
+d) la fixation de points forts de développement nouveaux ou complémentaires, ou l'adaptation de ceux-ci;
+
+4° un concept en matière de détermination et d'évaluation des performances centrées sur les compétences;
+
+5° le curriculum du centre, qui se compose de curriculums disciplinaires et de curriculums partiels portant sur les points forts de développement du centre;
+
+6° un concept en matière de gestion des réclamations et un rapport annuel sur les résultats.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 51, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 29
+
+§ 1. Pour être agréés, les centres doivent être accessibles, en tant que membres, aux associations ou organisations suivantes :
+
+1° aux associations professionnelles représentant les chefs de petites et moyennes entreprises de l'artisanat, du commerce, des services et de l'industrie et répondant aux conditions fixées par l'article 2, § 1er, des lois relatives à l'organisation des Classes moyennes, coordonnées le 28 mai 1979, ou relevant d'une association professionnelle nationale répondant aux conditions fixées par l'article 6 des lois coordonnées susvisées;
+
+2° aux groupements interprofessionnels membres d'une fédération interprofessionnelle nationale répondant aux conditions fixées par l'article 7 des lois coordonnées susvisées.
+
+§ 2. Les centres peuvent être ouverts a des groupements professionnels de titulaires d'une profession libérale, d'une profession réglementée ou d'une profession réglementée en exécution de la loi-cadre du 1er mars 1976 réglementant la protection du titre professionnel et l'exercice des professions intellectuelles prestataires de services.
+
+Le (Gouvernement) en fixe les modalités. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+##### Art. 30
+
+Les centres agréés communiquent chaque année à le (Gouvernement), par l'intermédiaire de l'Institut, la liste de leurs membres ainsi qu'un rapport d'activités. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+##### Art. 31
+
+[<sup>1</sup> Sur l'avis de l'Institut, le Gouvernement fixe les éléments suivants :
+
+1° les conditions de reconnaissance et de retrait pour le directeur des centres agréés et ses missions minimales;
+
+2° les modalités de reconnaissance du directeur des centres agréés et de retrait de cette reconnaissance.
+
+Le Gouvernement décide de la reconnaissance des directeurs et du retrait de cette reconnaissance sur l'avis de l'Institut dans un délai de six mois à partir du jour où cet avis est remis.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2021-06-28/11, art. 128, 023; En vigueur : 01-06-2021&gt;
+
+### Section 3. - Les secrétaires d'apprentissage.
+
+##### Art. 32
+
+Le (Gouvernement) fixe le statut, les conditions et modalités d'agréation ainsi que la rémunération des secrétaires d'apprentissage sur avis de l'Institut. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+Le (Gouvernement) décide de l'agréation des secrétaires d'apprentissage sur avis de l'Institut. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+##### Art. 33
+
+Les secrétaires d'apprentissage ont pour missions :
+
+1° de servir, sans contrepartie, d'intermédiaire lors de la conclusion des contrats d'apprentissage entre le chef d'entreprise et l'apprenti ou son représentant légal;
+
+2° d'être, sans contrepartie, partie au contrat lors de la conclusion avec un chef d'entreprise d'un accord contrôle d'apprentissage;
+
+3° d'assurer le contrôle administratif des contrats d'apprentissage conclus à leur intervention et des accords contrôlés d'apprentissage;
+
+4° d'assurer la guidance morale et sociale des apprentis;
+
+5° d'assurer le rôle de médiateur lors de litiges entre le maître de stage et l'apprenti ou son représentant légal;
+
+6° [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2012-01-16/06, art. 19, 015; En vigueur : 01-01-2012&gt;
+
+### Section 4.
+
+&lt;Abrogé par DCG 2012-01-16/06, art. 20, 015; En vigueur : 01-01-2012&gt;
+
+##### Art. 34
+
+&lt;Abrogé par DCG 2012-01-16/06, art. 20, 015; En vigueur : 01-01-2012&gt;
+
+## Chapitre IV.1 [<sup>1</sup> Confidentialité et protection des données]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 52, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 34.1
+
+[<sup>1</sup> Confidentialité
+
+Sans préjudice de dispositions légales ou décrétales contraires, l'Institut, les centres agréés ainsi que toute personne physique ou morale partie prenante à l'exécution du présent décret et de ses dispositions d'exécution sont tenus de traiter confidentiellement les données qui leur sont confiées dans le cadre de l'exercice de leurs missions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 53, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 34.2
+
+[<sup>1</sup> Traitement des données à caractère personnel
+
+Sans préjudice de l'article 34.3, l'Institut et les centres agréés, dans le respect de la répartition des compétences et missions de chacun, sont responsables du traitement des données à caractère personnel mentionnées à l'article 34.4 au sens du règlement général sur la protection des données.
+
+L'Institut et les centres agréés collectent et traitent des données à caractère personnel en vue de l'exercice de leurs missions légales ou décrétales, notamment en ce qui concerne les missions de l'Institut et les objectifs des centres agréés mentionnés au chapitre IV. Ils ne peuvent utiliser les données collectées à d'autres fins que l'exercice de leurs missions légales ou décrétales.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 54, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 34.3
+
+[<sup>1</sup> Traitement de données relatives à la santé
+
+Le traitement de données relatives à la santé en ce qui concerne l'aptitude physique des apprenants concernés à exercer le métier convenu s'effectue sous la responsabilité du directeur de l'Institut. Le directeur de l'Institut informe à cet égard le secrétaire d'apprentissage concerné de ses devoirs en matière de sécurité de l'information et de protection des données.
+
+Le traitement de données relatives à la santé en ce qui concerne les apprenants nécessitant un soutien spécifique s'effectue sous la responsabilité du directeur du centre agréé concerné, de l'inspection scolaire, du service compétent du centre de pédagogie de soutien, du secrétaire d'apprentissage concerné et de la Commission de soutien.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 55, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 34.4
+
+[<sup>1</sup> Catégories de données
+
+§ 1er - L'Institut peut collecter et traiter toutes les données à caractère personnel appropriées, utiles et proportionnées conformément à l'article 34.2, alinéa 2, relevant des catégories de données suivantes :
+
+1° les données ci-après concernant l'apprenant :
+
+a) les données relatives à l'identité et les données de contact de l'apprenant;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la Sécurité sociale et le numéro de registre national;
+
+c) les données relatives à l'identité et les données de contact des personnes chargées de l'éducation;
+
+d) les données concernant la fréquentation scolaire ou la formation de l'apprenant;
+
+e) les données concernant la situation familiale de l'apprenant;
+
+f) les données concernant la santé et le développement de l'apprenant en lien avec les mesures correctives prises dans le domaine de formation concerné;
+
+g) les données concernant le recours aux primes dans le cadre de systèmes de formation en alternance;
+
+[<sup>2</sup> 1.1° les données ci-après concernant le participant aux semaines de découverte :
+
+a) les données relatives à l'identité et les données de contact du participant;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la Sécurité sociale et le numéro de registre national;
+
+c) les données relatives à l'identité et les données de contact des personnes chargées de l'éducation;
+
+d) les données relatives au statut du participant en tant qu'élève, apprenant, étudiant, demandeur d'emploi ou personne active;]<sup>2</sup>
+
+2° les données ci-après concernant les centres agréés, leurs prestataires et leurs membres du personnel respectifs :
+
+a) les données relatives à l'identité des membres du personnel du centre et de ses prestataires;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la Sécurité sociale et le numéro de registre national;
+
+c) les données concernant la situation et la qualification professionnelles des membres du personnel du centre et de ses prestataires;
+
+d) les données judiciaires concernant les membres du personnel du centre et de ses prestataires;
+
+3° les données ci-après concernant les chefs d'entreprise, formateurs et tuteurs en entreprise agréés :
+
+a) les données relatives à l'identité et les données de contact des chefs d'entreprise, formateurs et tuteurs en entreprise agréés;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la Sécurité sociale et le numéro de registre national;
+
+c) les données concernant la formation ou l'expérience professionnelle des chefs d'entreprise, formateurs et tuteurs en entreprise agréés;
+
+d) les données concernant les capacités et aptitudes pédagogiques des chefs d'entreprise, formateurs et tuteurs en entreprise agréés;
+
+e) les données concernant le recours aux primes dans le cadre de systèmes de formation en alternance;
+
+f) les données judiciaires concernant les chefs d'entreprise, formateurs et tuteurs en entreprise agréés.
+
+§ 2 - Les centres peuvent collecter et traiter toutes les données à caractère personnel appropriées, utiles et proportionnées conformément à l'article 34.2, alinéa 2, relevant des catégories de données suivantes :
+
+1° les données ci-après concernant l'apprenant :
+
+a) les données relatives à l'identité et les données de contact de l'apprenant;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la Sécurité sociale et le numéro de registre national;
+
+c) les données relatives à l'identité et les données de contact des personnes chargées de l'éducation;
+
+d) les données concernant la fréquentation scolaire ou la formation de l'apprenant;
+
+e) les données concernant la situation familiale de l'apprenant;
+
+f) les données concernant la santé et le développement de l'apprenant en lien avec les mesures correctives prises dans le domaine de formation concerné;
+
+g) les données concernant le recours aux primes dans le cadre de systèmes de formation en alternance;
+
+2° les données ci-après concernant les centres agréés, leurs prestataires et leurs membres du personnel respectifs :
+
+a) les données relatives à l'identité des membres du personnel du centre et de ses prestataires;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la Sécurité sociale et le numéro de registre national;
+
+c) les données concernant la situation et la qualification professionnelles des membres du personnel du centre et de ses prestataires;
+
+d) les données judiciaires concernant les membres du personnel du centre et de ses prestataires;
+
+3° les données ci-après concernant les chefs d'entreprise, formateurs et tuteurs en entreprise agréés :
+
+a) les données relatives à l'identité et les données de contact des chefs d'entreprise, formateurs et tuteurs en entreprise agréés;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la Sécurité sociale et le numéro de registre national;
+
+c) les données concernant la formation ou l'expérience professionnelle des chefs d'entreprise, formateurs et tuteurs en entreprise agréés;
+
+d) les données concernant les capacités et aptitudes pédagogiques des chefs d'entreprise, formateurs et tuteurs en entreprise agréés;
+
+e) les données concernant le recours aux primes dans le cadre de systèmes de formation en alternance;
+
+f) les données judiciaires concernant les chefs d'entreprise, formateurs et tuteurs en entreprise agréés.
+
+§ 3 - Toute personne physique ou morale partie prenante à l'exécution du présent décret et de ses dispositions d'exécution peut collecter et traiter toutes les données à caractère personnel appropriées, utiles et proportionnées conformément à l'article 34.2, alinéa 2, relevant des catégories de données suivantes :
+
+1° les données ci-après concernant l'apprenant :
+
+a) les données relatives à l'identité et les données de contact de l'apprenant;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la Sécurité sociale et le numéro de registre national;
+
+c) les données relatives à l'identité et les données de contact des personnes chargées de l'éducation;
+
+d) les données concernant la fréquentation scolaire ou la formation de l'apprenant;
+
+e) les données concernant la situation familiale de l'apprenant;
+
+f) les données concernant la santé et le développement de l'apprenant en lien avec les mesures correctives prises dans le domaine de formation concerné;
+
+g) les données concernant le recours aux primes dans le cadre de systèmes de formation en alternance;
+
+[<sup>2</sup> 1.1° les données ci-après concernant le participant aux semaines de découverte :
+
+a) les données relatives à l'identité et les données de contact du participant;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la Sécurité sociale et le numéro de registre national;
+
+c) les données relatives à l'identité et les données de contact des personnes chargées de l'éducation;
+
+d) les données relatives au statut du participant en tant qu'élève, apprenant, étudiant, demandeur d'emploi ou personne active;]<sup>2</sup>
+
+2° les données ci-après concernant les centres agréés, leurs prestataires et leurs membres du personnel respectifs :
+
+a) les données relatives à l'identité des membres du personnel du centre et de ses prestataires;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la Sécurité sociale et le numéro de registre national;
+
+c) les données concernant la situation et la qualification professionnelles des membres du personnel du centre et de ses prestataires;
+
+d) les données judiciaires concernant les membres du personnel du centre et de ses prestataires;
+
+3° les données ci-après concernant les chefs d'entreprise, formateurs et tuteurs en entreprise agréés :
+
+a) les données relatives à l'identité et les données de contact des chefs d'entreprise, formateurs et tuteurs en entreprise agréés;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la Sécurité sociale et le numéro de registre national;
+
+c) les données concernant la formation ou l'expérience professionnelle des chefs d'entreprise, formateurs et tuteurs en entreprise agréés;
+
+d) les données concernant les capacités et aptitudes pédagogiques des chefs d'entreprise, formateurs et tuteurs en entreprise agréés;
+
+e) les données concernant le recours aux primes dans le cadre de systèmes de formation en alternance;
+
+f) les données judiciaires concernant les chefs d'entreprise, formateurs et tuteurs en entreprise agréés.
+
+§ 4 - Sur avis préalable de l'Autorité de protection des données, le Gouvernement précise les catégories de données mentionnées aux § § 1er à 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 56, 026; En vigueur : 01-07-2023&gt;
+
+(2)&lt;DCG 2025-06-30/15, art. 21, 029; En vigueur : 01-07-2025&gt;
+
+##### Art. 34.5
+
+[<sup>1</sup> Utilisation de données pour établir des analyses et statistiques
+
+En principe, l'Institut recourt de préférence à des données anonymes pour établir des analyses et statistiques en ce qui concerne l'exercice de ses missions mentionnées à l'article 16.
+
+Si les données anonymes mentionnées à l'alinéa 1er ne permettent pas d'établir des analyses et statistiques détaillées, le recours à des données pseudonymisées est autorisé.
+
+Pour l'application de l'alinéa 2, l'Institut mentionne dans la déclaration de traitement les raisons pour lesquelles le traitement de données anonymes ne permet pas d'établir les analyses et statistiques mentionnées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 57, 026; En vigueur : 01-07-2023&gt;
+
+##### Art. 34.6
+
+[<sup>1</sup> Obligation de coopérer
+
+§ 1er - Les personnes occupées auprès de l'Institut et des centres collaborent avec des organismes publics et d'utilité publique qui proposent des prestations [<sup>2</sup> dans l'intérêt de la formation, des semaines de découverte ou]<sup>2</sup> de la formation continue, de la couverture sociale, du développement sain et de l'insertion professionnelle [<sup>2</sup> de l'apprenant ou du participant aux semaines de découverte]<sup>2</sup>.
+
+Dans le cadre de cette collaboration, l'Institut peut, [<sup>2</sup> avec l'accord de l'apprenant, du participant aux semaines de découverte]<sup>2</sup> ou des personnes chargées de l'éducation, échanger des informations [<sup>2</sup> concernant l'apprenant, le participant aux semaines de découverte]<sup>2</sup> ou les formations [<sup>2</sup> ou les formations, les semaines de découverte ou les formations continues]<sup>2</sup> suivies ou recommandées.
+
+La collaboration exige le respect de la répartition des compétences et missions de chacun.
+
+§ 2 - Pour remplir ses missions énumérées dans le chapitre IV, l'Institut travaille en collaboration avec des employeurs et des prestataires qui proposent [<sup>2</sup> des formations, des semaines de découverte ou des formations continues]<sup>2</sup>.
+
+Dans le cadre de cette collaboration, l'Institut peut, [<sup>2</sup> avec l'accord de l'apprenant, du participant aux semaines de découverte]<sup>2</sup> ou des personnes chargées de l'éducation, échanger des informations [<sup>2</sup> concernant l'apprenant, le participant aux semaines de découverte]<sup>2</sup> ou les qualifications.
+
+§ 3 - Sur avis préalable de l'Autorité de protection des données, le Gouvernement précise :
+
+1° les groupes de personnes avec lesquels des informations peuvent être échangées;
+
+2° les catégories de données qui peuvent être échangées avec l'accord de l'apprenant [<sup>2</sup> , du participant aux semaines de découverte]<sup>2</sup> ou des personnes chargées de l'éducation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 58, 026; En vigueur : 01-07-2023&gt;
+
+(2)&lt;DCG 2025-06-30/15, art. 22, 029; En vigueur : 01-07-2025&gt;
+
+##### Art. 34.7
+
+[<sup>1</sup> Durée du traitement des données
+
+Les données ne sont pas conservées plus longtemps que nécessaire pour réaliser les objectifs pour lesquels elles sont traitées sous une forme qui permet l'identification des personnes concernées. Sans préjudice des dispositions relatives à l'archivage, elles sont détruites au plus tard au terme de ce délai.
+
+Sur avis préalable de l'Autorité de protection des données, le Gouvernement précise la durée du traitement des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 59, 026; En vigueur : 01-07-2023&gt;
+
+## CHAPITRE V. - Disposition financières.
+
+##### Art. 35
+
+Pour mener à bien ses missions, en ce compris le paiement des traitements et indemnités dus aux secrétaires d'apprentissage [<sup>2</sup> ...]<sup>2</sup>, et pour couvrir les dépenses inhérentes à l'installation et au fonctionnement de ses services, l'Institut dispose des crédits qui sont inscrits à cette fin au budget de la Communauté germanophone et qui lui sont transférés.
+
+[<sup>1</sup> alinéa 2 abrogé]<sup>1</sup>
+
+L'Institut peut accepter des dons et legs et percevoir toute autre recette.
+
+----------
+
+(1)&lt;DCG 2009-05-25/21, art. 118, 009; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DCG 2012-01-16/06, art. 21, 015; En vigueur : 01-01-2012&gt;
+
+##### Art. 36
+
+Dans les limites des crédits inscrits à cette fin au budget de la Communauté germanophone et par l'intermédiaire de l'Institut, le (Gouvernement) octroie aux centres agréés des subventions pour leur permettre de mener à bien leurs missions et de couvrir les dépenses inhérentes à l'installation et au fonctionnement de leurs services. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+L'octroi de ces subventions est subordonné à l'utilisation, par les centres, d'un plan comptable arrêté par le (Gouvernement). &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+##### Art. 37
+
+Dans les limites des crédits inscrits à cette fin au budget de la Communauté germanophone, le (Gouvernement) subsidie, par l'intermédiaire de l'Institut, des cours et activités de formation et de formation continue dans les Classes moyennes et les PME lorsqu'ils sont organisés par d'autres personnes que l'Institut ou les centres conformément aux articles 5 à 14. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+##### Art. 38
+
+Le (Gouvernement) détermine le montant, les conditions et les modalités d'octroi des subventions et interventions prévues aux articles 36 et 37. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+##### Art. 38bis
+
+&lt;Abrogé par DCG 2013-02-25/07, art. 60, 017; En vigueur : 01-01-2013&gt;
+
+## CHAPITRE VI. - Dispositions abrogatoires, transitoires et finales.
+
+##### Art. 39
+
+L'arrêté royal du 4 octobre 1976 relatif à la formation permanente dans les Classes moyennes, modifié par les arrêtés du (Gouvernement) du 22 janvier 1988 et du 7 juin 1989, est abrogé en ce qui concerne la Communauté germanophone. &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+##### Art. 40
+
+Dans la mesure où ils ne sont pas contraires aux dispositions du présent décret, les arrêtés d'exécution de l'arrêté royal du 4 octobre 1976 relatif à la formation permanente dans les Classes moyennes restent en vigueur jusqu'à leur abrogation par le (Gouvernement). &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+##### Art. 41
+
+Les secrétaires d'apprentissage agréés en région de langue allemande au moment de l'entrée en vigueur du présent décret et le directeur du " Zentrum für Stndige Weiterbildung des Mittelstandes V.o.E. " d'Eupen agréé au moment de l'entrée en vigueur du présent décret sont, sans préjudice des dispositions des articles 32 et 33, repris en conservant leurs droits acquis.
+
+##### Art. 42
+
+&lt;Abrogé par DCG 2021-06-28/11, art. 129, 023; En vigueur : 01-07-2021&gt;
+
+##### Art. 43
+
+Les biens, droits et engagements de l'association sans but lucratif " Institut francophone de formation permanente des Classes moyennes " sont transférés a l'Institut en ce qui concerne la Communauté germanophone.
+
+##### Art. 44
+
+En vue d'assurer la continuité nécessaire, le (Gouvernement) peut, en dérogation aux articles 24 et 25, nommer le directeur de l'Institut pendant 6 mois à partir de la date d'entrée en vigueur de l'arrêté du (Gouvernement) fixant le cadre du personnel de l'Institut. Il peut, pour ce faire, déroger, aux conditions de recrutement, de changement de grade et de promotion prévues au statut à fixer en vertu de l'article 24. Le candidat à nommer doit répondre aux conditions suivantes : &lt;DCG 2000-02-14/41, art. 2, 004; En vigueur : 14-02-2000&gt;
+
+1° être Belge;
+
+2° être de conduite irréprochable;
+
+3° jouir des droits civils et politiques;
+
+4° satisfaire aux lois sur la milice;
+
+5° être physiquement apte;
+
+6° être titulaire d'un diplôme donnant accès aux emplois de niveau I suivant le statut des agents de l'Etat, ou prouver son expérience ou sa haute valeur administrative ou technique.
+
+La nomination a lieu après publication au Moniteur belge d'un appel aux candidats indiquant l'emploi à pourvoir ainsi que les conditions d'engagement à remplir.
+
+##### Art. 45
+
+&lt;Abrogé par DCG 2009-05-25/21, art. 118, 009; En vigueur : 01-01-2010&gt;
+
+##### Art. 46
+
+Le présent décret entre en vigueur le 1er janvier 1992.
+
+(Par dérogation au premier alinéa, l'article 17, § 2 entre en vigueur lors du premier renouvellement complet du Conseil d'administration suivant celui du 8 avril 1998.) &lt;DCG 2000-02-14/42, art. 2, 005; En vigueur : 16-07-2000&gt;
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
