@@ -1,0 +1,115 @@
+---
+title: "Décret fixant les tarifs des droits de succession des personnes vivant ensemble maritalement (TRADUCTION)."
+identifier: "1997036177"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036177/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1997-07-15
+published: 1997-10-01
+entry_into_force: 1998-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036177/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 15 JUILLET 1997. - Décret fixant les tarifs des droits de succession des personnes vivant ensemble maritalement (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+A l'article 48 du Code des droits de succession, les dispositions qui suivent le tableau I sont remplacées, en ce qui concerne la Région flamande, par les dispositions suivantes :
+
+" Pour l'application du présent article, on entend par personnes vivant ensemble maritalement la ou les personnes qui vivaient avec le défunt sans interruption depuis au moins trois ans, à la date d'ouverture de la succession, ce fait étant établi au moyen d'un extrait du registre de population, et qui tenaient ménage avec lui, ce qui constitue une présomption réfragable. La tenue d'un ménage commun est démontrée entre autres par la volonté soutenue, manifestée à ce sujet par les deux parties, et par leur participation aux dépenses ménagères.
+
+Le tableau II comporte le tarif applicable entre les personnes vivant ensemble maritalement. Ce tarif est appliqué à la tranche correspondante figurant dans la colonne A de la part nette de chacun des ayants-droit.
+
+Tableau II. - Tarif applicable entre les personnes vivant ensemble maritalement.
+
+A Tarif applicable Montant total
+
+a la tranche de l'impot sur
+
+correspondante les tranches
+
+figurant dans la precedentes
+
+colonne A
+
+de a
+
+1 F - 3 millions F 10 %
+
+3 millions F - 5 millions F 35 % 300.000 F
+
+au-dela de 5 millions 50 % 1.000.000 F
+
+Le tableau III indique le tarif applicable entre les personnes autres que les descendants en ligne directe, les époux et les personnes vivant ensemble maritalement. En ce qui concerne les frères et soeurs, ce tarif est appliqué à la tranche correspondante figurant dans la colonne A de la part nette de chacun des ayants-droit. Pour tous les autres ayants-droit, le tarif est appliqué à la tranche correspondante de la somme des parts nettes recueillies par les ayants-droit de ce groupe.
+
+Tableau III. - Tarif applicable entre les personnes autres que les descendants en ligne directe, les époux et les personnes vivant ensemble maritalement.
+
+A Tarif applicable a la tranche
+
+correspondante figurant
+
+dans la colonne A
+
+entre freres entre tous
+
+et soeurs autres
+
+de a
+
+1 F - 3 millions F 30 % 45 %
+
+3 millions F - 5 millions F 55 % 55 %
+
+au-dela de 5 millions 65 % 65 %
+
+A Montant total de l'impot sur
+
+les tranches precedentes
+
+entre freres entre tous
+
+et soeurs autres
+
+de a
+
+1 F - 3 millions F
+
+3 millions F - 5 millions F 900.000 F 1.350.000 F
+
+au-dela de 5 millions 2.000.000 F 2.450.000 F ".
+
+## Art. 3
+
+A l'article 56 du même Code sont apportées, en ce qui concerne la Région flamande, les modifications suivantes :
+
+1° à l'alinéa 3, les termes " tableau II " sont remplacés par les termes " tableau III ";
+
+2° à l'alinéa 4, les termes " tableau II " sont remplacés par les termes " tableau III " et les mots " , les personnes vivant ensemble maritalement " sont insérés entre les mots " les héritiers en ligne directe, les époux " et les mots " et les frères ou soeurs ".
+
+## Art. 4
+
+Le présent décret entre en vigueur le 1er janvier 1998.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 15 juillet 1997.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+Le Ministre flamand des Finances, du Budget et de la Politique de santé,
+
+Mme W. DEMEESTER-DE MEYER

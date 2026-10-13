@@ -1,0 +1,119 @@
+---
+title: "Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2000 (TRADUCTION)."
+identifier: "2000035825"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/30/2000035825/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2000-06-30
+published: 2000-08-31
+entry_into_force: 2000-09-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/30/2000035825/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 30 JUIN 2000. - Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2000 (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'estimation des recettes non affectées des organes et services de la Communauté flamande, pour l'année budgétaire 2000, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+(en millions de francs)
+
+--------------------------------------------------------
+
+Ajustements Supplements Reductions
+
+\- -11,2
+
+--------------------------------------------------------
+
+## Art. 2
+
+L'estimation des recettes non affectées de la Communauté flamande relatives aux matières visées par les articles 127 à 129 de la Constitution, pour l'année budgétaire 2000, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+-----------------------------------------------------------
+
+Ajustements Supplements Reductions
+
+\- -1.960,9
+
+-----------------------------------------------------------
+
+## Art. 3
+
+L'estimation des recettes non affectées de la Communauté flamande relatives aux matières visées par l'article 39 de la Constitution, pour l'année budgétaire 2000, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+-----------------------------------------------------------
+
+Ajustements Supplements Reductions
+
+2.270,8 -
+
+-----------------------------------------------------------
+
+## Art. 4
+
+L'estimation des recettes affectées des organes et services de la Communauté flamande, pour l'année budgétaire 2000, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+-----------------------------------------------------------
+
+Ajustements Supplements Reductions
+
+249,4 -
+
+-----------------------------------------------------------
+
+## Art. 5
+
+L'estimation des recettes affectées de la Communauté flamande relatives aux matières visées par les articles 127 à 129 de la Constitution, pour l'année budgétaire 2000, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+-----------------------------------------------------------
+
+Ajustements Supplements Reductions
+
+113,0 -
+
+-----------------------------------------------------------
+
+## Art. 6
+
+L'estimation des recettes affectées de la Communauté flamande relatives aux matières visées par l'article 39 de la Constitution, pour l'année budgétaire 2000, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+------------------------------------------------------------
+
+Ajustements Supplements Reductions
+
+1,1 -
+
+------------------------------------------------------------
+
+## Art. 7
+
+Le Gouvernement flamand est autorisé à vendre à la ville d'Ostende la partie souterraine de la promenade Albert I d'une superficie de 6.400,283 m2, telle que désaffectée par l'arrêté ministériel du 31 mai 1999, à un prix qui est au moins égal à la valeur vénale estimée par le comité d'achat de biens immeubles.
+
+## Art. 8
+
+Le Gouvernement flamand est autorisé à engager pour l'édifice " Conscience " une transaction financière dans les limites des recommandations pertinentes de la résolution du Parlement flamand du 31 mars 1999 relative à un scénario décisionnel pour des transactions financières particulières contractées par des services et organismes publics flamands.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 30 juin 2000.
+
+Le Ministre-Président du Gouvernement flamand et Ministre flamand des Finances, du Budget, de la Politique extérieure et des Affaires européennes,
+
+P. DEWAEL
+
+## ANNEXE.
+
+## Art. N
+
+TABLEAU
+
+(Tableau non repris pour raisons techniques. Voir M.B. 31-08-2000, p. 29992-30002.)

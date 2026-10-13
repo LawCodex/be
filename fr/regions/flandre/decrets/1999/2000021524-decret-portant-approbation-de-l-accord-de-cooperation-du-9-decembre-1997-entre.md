@@ -1,0 +1,53 @@
+---
+title: "Décret portant approbation de l'accord de coopération du 9 décembre 1997 entre l'Etat fédéral, la Communauté flamande, la Région wallonne et la Communauté germanophone concernant les modalités de ventilation des frais des receveurs régionaux et de retenue de la contribution sur ces frais par les administrations (TRADUCTION) (Note : l'intitulé original de l'accord est le suivant : accord de coopération conclu entre l'Etat, la Communauté flamande, la Région wallonne et la Communauté germanophone concernant le mode de répartition des frais des receveurs régionaux et le mode de prélèvement de la contribution dans ces frais par les administrations)."
+identifier: "2000021524"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/02/2000021524/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1999-03-02
+published: 2000-12-07
+entry_into_force: 1997-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/02/2000021524/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 2 MARS 1999. - Décret portant approbation de l'accord de coopération du 9 décembre 1997 entre l'Etat fédéral, la Communauté flamande, la Région wallonne et la Communauté germanophone concernant les modalités de ventilation des frais des receveurs régionaux et de retenue de la contribution sur ces frais par les administrations (TRADUCTION) (Note : l'intitulé original de l'accord est le suivant : accord de coopération conclu entre l'Etat, la Communauté flamande, la Région wallonne et la Communauté germanophone concernant le mode de répartition des frais des receveurs régionaux et le mode de prélèvement de la contribution dans ces frais par les administrations).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+L'accord de coopération du 9 décembre 1997 entre l'Etat fédéral, la Communauté flamande, la Région wallonne et la Communauté germanophone concernant les modalités de ventilation des frais des receveurs régionaux et de retenue de la contribution sur ces frais par les administrations est approuvé.
+
+## Art. 3
+
+Le présent décret produit ces effets le 1er janvier 1997.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 2 mars 1999.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+Le Ministre flamand de la Culture, de la Famille et de l'Aide sociale,
+
+L. MARTENS
+
+## ANNEXE.
+
+## Art. N
+
+Accord de coopération conclu entre l'Etat, la Communauté flamande, la Région wallonne et la Communauté germanophone concernant le mode de répartition des frais des receveurs régionaux et le mode de prélèvement de la contribution dans ces frais par les administrations.
+
+(Pour l'accord, voir %%1997-12-09/50%%).

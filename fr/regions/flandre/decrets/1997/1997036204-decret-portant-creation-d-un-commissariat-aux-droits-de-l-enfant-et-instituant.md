@@ -1,0 +1,643 @@
+---
+title: "[Décret portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant et portant création d'une Commission de surveillance en rapport avec les établissements privatifs de liberté pour enfants et jeunes].(TRADUCTION)<DCFL 2017-02-03/11 , art. 2, 005; En vigueur : 01-03-2017>"
+identifier: "1997036204"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036204/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1997-07-15
+published: 1997-10-07
+entry_into_force: 1997-10-17
+last_amended: 2026-07-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036204/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 07-10-1997 et mise à jour au 29-07-2026"
+retrieved: 2026-10-12
+---
+
+# 15 JUILLET 1997. - [Décret portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant et portant création d'une Commission de surveillance en rapport avec les établissements privatifs de liberté pour enfants et jeunes].(TRADUCTION)&lt;DCFL 2017-02-03/11 , art. 2, 005; En vigueur : 01-03-2017&gt;
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. [<sup>1</sup> - Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 3, 005; En vigueur : 01-03-2017&gt;
+
+### Art. 1
+
+Le présent décret règle une matière communautaire et régionale.
+
+### Art. 2
+
+Au sens du présent décret, on entend par :
+
+1° la Convention : la Convention relative aux Droits de l'Enfant, adoptée à New York le 20 novembre 1989;
+
+2° le Commissariat aux Droits de l'Enfant : le Commissaire aux Droits de l'Enfant et le personnel qui l'assiste dans l'exercice de ses fonctions;
+
+3° l'Enfant : tout mineur;
+
+4° l'autorité administrative : l'autorité administrative au sens de l'article 14 des lois coordonnées sur le Conseil d'Etat, relevant de la compétence de la Communauté flamande ou de la Région flamande;
+
+5° les institutions : toutes les organisations privées agréées par le Gouvernement flamand ou par les organismes publics flamands.;
+
+[<sup>1</sup> 6° les établissements privatifs de liberté pour enfants et jeunes :
+
+a) les institutions communautaires telles que visées à [<sup>3</sup> l'article 40 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>3</sup> ;
+
+b) [<sup>4</sup> la division d'une structure qui offre le module type " séjour sécurisant " pour lequel la structure est agréée conformément à l'article 15 de l'arrêté du 5 avril 2019 relatif aux conditions d'agrément et aux normes de subventionnement des structures d'aide à la jeunesse;]<sup>4</sup>
+
+c) [<sup>4</sup> ...]<sup>4</sup> ;
+
+d) les centres de détention flamands tels que visés à [<sup>3</sup> l'article 41 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>5</sup> e) l'offre de soutien aux jeunes dans le module type " diagnostic " ou le module type " GES+ " dans les centres multifonctionnels pour mineurs, visés à l'article 1er, 6°, de l'arrêté du Gouvernement flamand du 26 février 2016 portant agrément et subventionnement de centres multifonctionnels pour personnes handicapées mineures.]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFL 2017-02-03/11, art. 4, 005; En vigueur : 01-03-2017&gt;
+
+(2)&lt;DCFL 2017-12-01/05, art. 2, 006; En vigueur : 24-12-2017&gt;
+
+(3)&lt;DCFL 2020-05-08/04, art. 1, 008; En vigueur : 08-05-2020&gt;
+
+(4)&lt;DCFL 2020-07-10/25, art. 2, 009; En vigueur : 01-09-2020&gt;
+
+(5)&lt;DCFL 2023-07-07/08, art. 2, 011; En vigueur : 18-08-2023&gt;
+
+## CHAPITRE 2. [<sup>1</sup> - Le Commissariat aux Droits de l'Enfant]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 5, 005; En vigueur : 01-03-2017&gt;
+
+### Art. 3
+
+1. La fonction de Commissaire aux Droits de l'Enfant, dénommé ci-après Commissaire, est instituée.
+
+2\. Le Commissaire est nommé par le Parlement flamand.
+
+3\. Le cadre organique et le statut du personnel du Commissariat aux Droits de l'Enfant sont fixés par le Parlement flamand sur la proposition du Commissaire.
+
+(Les membres du personnel du Commissariat aux Droits de l'Enfant accomplissent leur mission sous la direction d'un Commissaire.
+
+[<sup>1</sup> Le Commissaire est chargé de la bonne gestion de l'établissement.]<sup>1</sup>
+
+Les membres du personnel du Commissariat aux Droits de l'Enfant exercent les mêmes compétences que le Commissaire dans l'exercice de leur mission.) &lt;DCFL 2005-07-15/52, art. 12, 003; En vigueur : 19-09-2005&gt;
+
+----------
+
+(1)&lt;DCFL 2012-11-09/07, art. 2, 004; En vigueur : 20-12-2012&gt;
+
+### Art. 4
+
+Le Commissaire défend les droits et intérêts de l'enfant.
+
+A cet effet :
+
+1° il veille au respect de la Convention;
+
+2° il assure le suivi, l'analyse, l'évaluation des conditions de vie de l'enfant;
+
+3° il agit en défenseur des droits, des intérêts et des besoins de l'enfant.
+
+### Art. 5
+
+Dans l'exécution des missions définies à l'article 4, le Commissaire, se basant sur la Convention, veille particulièrement :
+
+1° au dialogue avec l'enfant et avec les organisations actives dans le domaine des services individuels et collectifs aux enfants ou de la défense des intérêts de l'enfant;
+
+2° à la participation sociale de l'enfant et à l'accessibilité, pour les enfants, de tous les services et organisations intéressant l'enfant;
+
+3° au contrôle de la conformité à la Convention des lois, décrets, arrêtés et ordonnances, y compris les règles procédurales réglant une matière qui relève de la compétence de la Communauté flamande ou de la Région flamande;
+
+4° à la diffusion d'informations relatives au contenu de la Convention, en particulier dans l'intérêt de l'enfant.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2012-11-09/07, art. 3, 004; En vigueur : 20-12-2012&gt;
+
+### Art. 6
+
+Dans l'exécution des missions définies à l'article 4, le Commissaire est habilité :
+
+1° à enquêter d'initiative ou à la demande du Parlement flamand, toute question relative au respect de la Convention;
+
+2° examiner toute plainte relative au non-respect de la Convention, et, dans la mesure du possible, la renvoyer aux institutions. L'examen d'une plainte sera suspendu en cas de recours en justice ou d'appel administratif organisé au sujet de la plainte. L'autorité administrative notifiera le Commissaire de l'appel interjeté. L'introduction et l'examen de la plainte ne suspendent ni interrompent les délais d'appel auprès du tribunal ou d'appels administratifs organisés. Le Commissaire informe le plaignant du suivi réservé à la plainte.
+
+### Art. 7
+
+&lt;DCFL 2005-07-15/52, art. 13, 003; En vigueur : 19-09-2005&gt; § 1er. Le Parlement flamand nomme le Commissaire, après appel public aux candidatures et sur base d'une sélection comparative, pour une période de six ans. [<sup>1</sup> Le Parlement flamand ou un organe parlementaire désigné par le Parlement arrête les conditions et la procédure de sélection.]<sup>1</sup> La sélection est effectuée par ou pour le compte du Parlement flamand.
+
+Une personne peut exercer les fonctions de Commissaire au maximum pendant deux périodes, consécutives ou non.
+
+§ 2. Le Commissaire doit remplir les conditions suivantes :
+
+1° être Belge;
+
+2° être de conduite irréprochable;
+
+3° jouir des droits civils et politiques;
+
+4° être titulaire d'un diplôme donnant accès à une fonction de [<sup>1</sup> classe III]<sup>1</sup> auprès des services du Parlement flamand;
+
+5° ne pas avoir exercé un mandat public conféré par élection pendant les trois années précédant l'appel aux candidatures. Pour l'application de cette disposition, sont assimilés à un mandat public conféré par élection : la fonction de bourgmestre nommé en dehors du conseil communal, un mandat d'administrateur dans un organisme d'intérêt public, la fonction de commissaire du Gouvernement, la fonction de gouverneur, de gouverneur adjoint ou de vice-gouverneur, la fonction de ministre fédéral, communautaire ou régional, la fonction de secrétaire d'Etat ou de secrétaire d'Etat régional ou un mandat politique auprès de l'Union européenne;
+
+6° justifier d'une expérience professionnelle utile d'au moins cinq ans qui est utile à l'exercice de la fonction.
+
+§ 3. A sa première nomination, le Commissaire accomplit une période d'essai de 1 an à compter du jour où l'intéressé assume effectivement ses fonctions.
+
+Au plus tard quarante-cinq jours avant l'expiration de cette période d'essai, le Parlement flamand [<sup>1</sup> ou un organe parlementaire désigné par le Parlement,]<sup>1</sup> procède à l'évaluation du Commissaire. Faute d'évaluation à ce moment, l'évaluation est réputée favorable.
+
+§ 4. Au plus tard nonante jours avant l'expiration du mandat, le Parlement flamand procède à l'évaluation du Commissaire.
+
+En cas d'évaluation favorable du Commissaire, son mandat est renouvelé d'office une fois pour une nouvelle période de six ans.
+
+Faute d'évaluation nonante jours avant l'expiration du mandat, l'évaluation est réputée favorable.
+
+[<sup>1</sup> § 4bis. Le Parlement flamand ou un organe parlementaire désigné par le Parlement arrête la procédure pour les évaluations visées aux paragraphes 3 et 4.]<sup>1</sup>
+
+§ 5. Avant d'entrer en fonction, le Commissaire prête, entre les mains du président du Parlement flamand, le serment suivant : "Je jure fidélité au Roi, obéissance à la Constitution, et aux lois du peuple belge."
+
+----------
+
+(1)&lt;DCFL 2020-05-08/04, art. 3, 008; En vigueur : 08-05-2020&gt;
+
+### Art. 8
+
+(§ 1er. La fonction de Commissaire est incompatible avec un mandat public conféré par élection ou un mandat ou une fonction y assimilés, conformément à l'article 7, § 2, 5°, et une fonction publique ou toute autre fonction ou activité compromettant la dignité de la fonction ou le bon exercice indépendant et impartial de la fonction.) &lt;DCFL 2005-07-15/52, art. 14, 003; En vigueur : 19-09-2005&gt;
+
+§ 2. (Le Commissaire bénéficie du salaire, du pécule de vacances, de l'allocation de fin d'année et des avantages sociaux d'un membre du personnel statutaire de [<sup>1</sup> [<sup>2</sup> classe V]<sup>2</sup>]<sup>1</sup> du Parlement flamand.
+
+Lorsque le Commissaire n'est plus en mesure d'assumer ses fonctions pour cause de maladie ou d'infirmité et qu'il n'a pas encore atteint l'âge légal de la retraite, le Parlement flamand propose au Service de Santé administratif de le déclarer définitivement inapte au travail.) &lt;DCFL 2005-07-15/52, art. 14, 003; En vigueur : 19-09-2005&gt;
+
+(§ 2bis. Le Commissaire aux Droits de l'Enfant faisant fonction, tel que visé à l'article 9bis, alinéa trois, bénéficie pour la durée de sa désignation, d'une allocation qui est égale à la différence entre le salaire du Commissaire et son salaire comme membre du personnel du Commissariat aux Droits de l'Enfant. Cette allocation temporaire n'est pas prise en compte pour le calcul du pécule de vacances et de l'allocation de fin d'année.) &lt;DCFL 2005-07-15/52, art. 14, 003; En vigueur : 19-09-2005&gt;
+
+§ 3. Dans la limite de ses attributions, le Commissaire ne reçoit instruction d'aucune autorité. Le Commissaire agit en toute indépendance dans l'exercice de ses fonctions.
+
+(Il ne peut être mis fin au mandat du Commissaire en raison d'opinions qu'il exprime ou d'actes qu'il accomplit dans le cadre de l'exercice de ses fonctions.) &lt;DCFL 2005-07-15/52, art. 14, 003; En vigueur : 19-09-2005&gt;
+
+----------
+
+(1)&lt;DCFL 2020-05-08/04, art. 4, 008; En vigueur : 08-05-2020&gt;
+
+(2)&lt;DCFL 2026-07-17/02, art. 2, 013; En vigueur : 01-08-2026&gt;
+
+### Art. 9
+
+&lt;DCFL 2005-07-15/52, art. 15, 003; En vigueur : 19-09-2005&gt; Le mandat du Commissaire prend fin d'office :
+
+1° [<sup>1</sup> par la notification d'une évaluation défavorable de la période d'essai au commissaire ;]<sup>1</sup>
+
+2° après une évaluation défavorable du mandat, à l'expiration de ce dernier;
+
+3° lorsqu'il est déclaré définitivement inapte au travail en vertu de l'article 8, § 2, alinéa trois.
+
+Le Parlement flamand met fin au mandat du Commissaire :
+
+1° à sa demande;
+
+2° lorsqu'il ne respecte pas les règles en matière d'incompatibilités, telles que visées à l'article 8, § 1er;
+
+3° lorsqu'il ne remplit plus les conditions visées à l'article 7, § 2, 1° et 3°.
+
+Le Parlement flamand peut mettre fin au mandat du Commissaire :
+
+1° moyennant l'accord de l'intéressé;
+
+2° [<sup>1</sup> au moment où il atteint l'âge légal de la retraite d'un membre du personnel du Parlement flamand ;]<sup>1</sup>
+
+3° pour des motifs graves.
+
+[<sup>1</sup> La notification de l'évaluation défavorable, visée à l'alinéa 1er, 1°, se fait par lettre recommandée à la poste et produit ses effets le troisième jour ouvrable après la date d'envoi. Par jour ouvrable on entend chaque jour de la semaine, à l'exception du samedi, du dimanche et des jours fériés légaux et décrétaux. Le commissaire conserve les indemnités et avantages, visés à l'article 8, § 2, alinéa 1er, jusqu'à la fin de la période d'essai visée à l'article 7, § 3, alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-05-08/04, art. 4, 008; En vigueur : 08-05-2020&gt;
+
+### Art. 9bis
+
+&lt;Inséré par DCFL 2005-07-15/52, art. 16; En vigueur : 19-09-2005&gt; [<sup>1</sup> En cas de vacance de la fonction de Commissaire, la procédure de sélection est lancée dans les meilleurs délais en vue de la nomination d'un nouveau Commissaire.]<sup>1</sup>
+
+Lorsque le mandat du Commissaire expire et qu'aucun successeur n'a été nommé ou le successeur n'a pas encore effectivement assumé ses fonctions, le Commissaire continue à exercer ses fonctions jusqu'à ce que le successeur assume effectivement ses fonctions, le cas échéant par dérogation à l'article 7, § 1er, alinéa deux du présent décret.
+
+Dans les cas visés à l'article 9, ou en cas de décès du Commissaire, le Parlement flamand peut désigner comme Commissaire aux Droits de l'Enfant faisant fonction l'un des membres du personnel du Commissariat aux Droits de l'Enfant qui répond aux conditions prescrites à l'article 7, § 2, 1°, 2°, 3° et 4° du présent décret après comparaison des titres et des mérites des candidats. Ce régime s'applique également lorsque le Commissaire est absent pour cause de maladie pendant au moins deux mois successifs ou lorsqu'il est établi qu'il sera absent pour cause de maladie durant au moins deux mois successifs.
+
+----------
+
+(1)&lt;DCFL 2020-05-08/04, art. 6, 008; En vigueur : 08-05-2020&gt;
+
+### Art. 10
+
+§ 1er. Les autorités mettent à la disposition du Commissaire toute information requise pour l'exercice de sa mission. Elles lui procurent, à sa simple demande, tous renseignements et documents utiles.
+
+§ 2. Le Commissaire peut, dans l'exercice de sa mission, recueillir l'avis des autorités.
+
+§ 3. Sans préjudice de l'article 15 de la Constitution, le Commissaire a le libre accès à tous les immeubles et institutions publiques. Les responsables et les membres du personnel sont tenus de communiquer au Commissaire les pièces et informations qu'il juge utiles, à l'exception de celles protégés par le secret médical ou dont il a pris connaissance en sa qualité de personne de confiance.
+
+### Art. 10bis
+
+[<sup>1</sup> Le Commissaire est responsable de la conservation et organise la gestion des archives du Commissariat aux Droits de l'Enfant.
+
+La conservation des archives et la réalisation de la gestion des archives, ainsi que l'accès aux documents des archives se déroulent selon les standards et pratiques utilisés par le Parlement flamand pour ses archives.
+
+Sur la proposition du Commissaire, les listes de sélection des archives sont approuvées par le Parlement flamand ou par un organe désigné par le Parlement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-09/07, art. 4, 004; En vigueur : 20-12-2012&gt;
+
+### Art. 10ter
+
+[<sup>1</sup> Pour les litiges et les actes dont l'objet relève de la compétence du Commissariat aux Droits de l'Enfant, la Communauté flamande ou la Région flamande est représentée par le Commissaire dans tous les actes judiciaires et extrajudiciaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-09/07, art. 5, 004; En vigueur : 20-12-2012&gt;
+
+### Art. 11
+
+L'article 458 du Code pénal est applicable au Commissaire et à ses membres du personnel.
+
+### Art. 12
+
+§ 1er. Le Commissaire adresse au président du Parlement flamand un rapport annuel de ses activités, telles que définies à l'article 4.
+
+(Le rapport sera discuté par les commissions compétentes du Parlement flamand, après que la séance plénière en a pris connaissance. Après être discuté par les commissions compétentes, le rapport pourra faire l'objet d'une discussion en séance plénière.) &lt;DCFL 2003-01-31/32, art. 3, 002; En vigueur : 23-02-2003&gt;
+
+§ 2. Le Commissaire communique ses rapports aux autorités fédérales, pour qu'elles puissent en tenir compte en rédigeant le rapport que la Belgique est tenue de soumettre tous les cinq ans au Comité des Droits de l'Enfant, en application de l'article 44 de la Convention. Le Commissaire évaluera ce rapport.
+
+### Art. 13
+
+&lt;DCFL 2005-07-15/52, art. 17, 003; En vigueur : 19-09-2005&gt; Le Parlement flamand approuve chaque année sur proposition du Commissaire, le budget et les comptes du Commissariat aux Droits de l'Enfant.
+
+### Art. 13bis
+
+[<sup>1</sup> Le Commissariat aux Droits de l'Enfant est soumis à un audit interne dont les modalités sont fixées par le Parlement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-09/07, art. 6, 004; En vigueur : 20-12-2012&gt;
+
+### Art. 14
+
+Dans les six mois de sa nomination, le Commissaire rédige un projet de règlement d'ordre intérieur. Ce règlement et les modifications y apportées sont approuvés par le Parlement flamand et publiés au Moniteur belge.
+
+### Art. 14bis
+
+[<sup>1</sup> Le Commissariat aux Droits de l'Enfant et le Parlement flamand peuvent collaborer mutuellement. Cette collaboration ne peut pas porter porté préjudice au fonctionnement autonome du Commissariat aux Droits de l'Enfant. Le contenu de la collaboration est arrêté dans un protocole signé par les deux parties.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-09/07, art. 7, 004; En vigueur : 20-12-2012&gt;
+
+### Art. 15
+
+&lt;Ajouté par DCFL 2005-07-15/52, art. 18; En vigueur : 19-09-2005&gt; Le Parlement flamand fixe la résidence administrative du Commissariat aux Droits de l'Enfant.
+
+## CHAPITRE 3. [<sup>1</sup> - Commission de surveillance des établissements privatifs de liberté pour enfants et jeunes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+### Art. 16
+
+[<sup>1</sup> Une [<sup>2</sup> Commission de surveillance pour les établissements de la jeunesse]<sup>2</sup> en rapport avec les établissements privatifs de liberté pour enfants et jeunes, ci-après dénommée la [<sup>2</sup> Commission de surveillance pour les établissements de la jeunesse]<sup>2</sup>, est institué dans le giron du Commissariat aux Droits de l'Enfant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+(2)&lt;DCFL 2020-07-10/25, art. 3, 009; En vigueur : 01-09-2020&gt;
+
+### Art. 17
+
+[1 § 1er. La [4 Commission de surveillance pour les établissements de la jeunesse]4 est chargée des mandats suivants, qu'elle exerce en toute indépendance :
+
+1° surveiller l'accompagnement au sens large des enfants et des jeunes placés dans des établissements privatifs de liberté pour enfants et jeunes, notamment le respect des droits tels que visés, entre autres, dans la Convention relative aux Droits de l'Enfant, adoptée à New York le 20 novembre 1989, et le décret du 7 mai 2004 relatif au statut du mineur dans l'aide intégrale à la jeunesse [3 et dans le cadre du décret sur le droit en matière de délinquance juvénile]3 ;
+
+2° prendre connaissance des griefs quant à l'accompagnement d'un ou de plusieurs enfants ou jeunes placés dans des établissements privatifs de liberté pour enfants et jeunes ;
+
+3° intercéder lorsque les griefs tels que visés au point 2° sont susceptibles de médiation et n'impliquent aucun examen détaillé ;
+
+4° orienter les personnes vers le Commissariat aux Droits de l'Enfant afin d'y exercer leur droit de plainte ;
+
+5° rendre compte de la surveillance, des griefs, de la médiation et de l'orientation tels que visés aux points 1°, 2°, 3° et 4° ;
+
+6° formuler des recommandations en vue d'améliorer l'accompagnement des enfants et des jeunes dans les établissements privatifs de liberté pour enfants et jeunes ;
+
+7° rendre compte annuellement au Parlement flamand des mandats exercés.
+
+§ 2. La surveillance telle que visée au paragraphe 1er, 1°, est exercée sur place par une personne qui visite inopinément l'établissement privatif de liberté pour enfants et jeunes au moins une fois par mois. Cette personne est ci-après dénommée le commissaire de mois.
+
+§ 3. Un grief peut être formulé au commissaire de mois verbalement, par écrit ou par voie électronique. [<sup>10</sup> Un établissement privatif de liberté pour enfants et jeunes informe les enfants et les jeunes, dès leur arrivée dans l'établissement et régulièrement pendant leur séjour, de l'existence et de la mission de la Commission de surveillance pour les établissements de la jeunesse, ainsi que du commissaire de mois chargé de l'établissement]<sup>10</sup>.
+
+§ 4. La médiation dans le cas d'un grief tel que visé au paragraphe 1er, 3°, a lieu par le biais du commissaire de mois, qui exerce la surveillance telle que visée au paragraphe 2.
+
+Le commissaire de mois suspend la médiation lorsque le tribunal est saisi d'un recours en rapport avec ce grief.
+
+§ 5. L'orientation telle que visée au paragraphe 1er, 4°, implique que le commissaire de mois attire l'attention de la personne qui a exprimé le grief sur la possibilité de faire examiner sa plainte, ainsi que précisé à l'article 6, 2° :
+
+1° lorsque le grief n'est pas susceptible de médiation par le commissaire de mois ;
+
+2° lorsque la médiation n'est pas possible sans examen détaillé ;
+
+3° lorsque la médiation ne donne aucune suite pour les enfants ou jeunes concernés.
+
+A la demande de la personne ayant formulé le grief, le commissaire de mois soumet la plainte visée à l'alinéa précédent au Commissariat aux Droits de l'Enfant.
+
+§ 6. Le compte rendu tel que visé au paragraphe 1er, 5°, a lieu comme suit :
+
+1° le commissaire du mois rend chaque mois compte à la [4 Commission de surveillance pour les établissements de la jeunesse]4 de la surveillance, des griefs formulés, de la médiation et de l'orientation visés au paragraphe 1er, 1°, 2°, 3° et 4°.
+
+[<sup>6</sup> Le commissaire de mois veille, en collaboration avec le secrétariat de la Commission de surveillance pour les établissements de la jeunesse, à ce que le compte rendu ne contienne]<sup>6</sup> aucun nom de personne physique et qu'il satisfait aux critères de forme et de contenu appliqués par la [4 Commission de surveillance pour les établissements de la jeunesse]4.
+
+Les commissaires de mois ne communiquent pas individuellement avec des tiers ;
+
+2° [<sup>7</sup> le commissaire de mois remet le compte rendu, visé au point 1° :
+
+a) à l'établissement privatif de liberté pour enfants et jeunes concerné ;
+
+b) au Commissariat aux Droits de l'Enfant ;
+
+c) à l'agence compétente dont relève l'établissement.]<sup>7</sup>
+
+3° [<sup>7</sup> dans la mesure du possible, le commissaire de mois rend compte de la manière dont l'établissement privatif de liberté pour enfants et jeunes a traité les griefs individuels des enfants et des jeunes concernés ]<sup>7</sup>.
+
+§ 7. Les recommandations telles que visées au paragraphe 1er, 6°, peuvent faire partie du rapport tel que visé au paragraphe 6, 1°, alinéa [<sup>11</sup> 1er ]<sup>11</sup>. La [4 Commission de surveillance pour les établissements de la jeunesse]4 peut également remettre ces recommandations à d'autres instances, telles que visées au paragraphe 6, 2°.
+
+Le commissaire de mois vérifie si, dans quelle mesure et comment un établissement privatif de liberté pour enfants et jeunes concerné donne suite aux recommandations qui lui sont adressées. Le commissaire de mois consigne ces informations dans son [<sup>8</sup> compte rendu ]<sup>8</sup> mensuel, tel que visé au paragraphe 6, 1°, alinéa premier.
+
+La Commission peut formuler des recommandations auprès du Parlement flamand en vue d'élargir la définition des établissements privatifs de liberté pour enfants et jeunes, telle que visée à l'article 2, 6°.
+
+§ 8. Le rapport annuel au Parlement flamand contient au moins une synthèse des [<sup>9</sup> comptes rendus ]<sup>9</sup> tels que visés au paragraphe 6, 1°, alinéa [<sup>12</sup> 1er ]<sup>12</sup>, et des recommandations telles que visées au paragraphe 7.]1
+
+[<sup>10</sup> La Commission de surveillance pour les établissements de la jeunesse informe l'agence dont relève l'établissement si toutes les conditions suivantes sont remplies :
+
+1° un rapport fait état d'un incident grave ;
+
+2° de sérieuses préoccupations ont été exprimées quant au non-respect des droits des jeunes tels qu'énoncés dans le décret du 7 mai 2004 relatif au statut du mineur dans l'aide intégrale à la jeunesse ;
+
+3° le commissaire de mois et la Commission de surveillance pour les établissements de la jeunesse ont préalablement discuté de ces préoccupations avec l'établissement concerné privatif de liberté pour enfants et jeunes ;
+
+4° la Commission de surveillance pour les établissements de la jeunesse n'a pas une vision suffisante d'une réaction appropriée et estime qu'un suivi par l'agence compétente dont relève l'établissement est indiqué.]<sup>10</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+(2)&lt;DCFL 2018-12-21/65, art. 7, 007; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2020-05-08/04, art. 7, 008; En vigueur : 08-05-2020&gt;
+
+(4)&lt;DCFL 2020-07-10/25, art. 4, 009; En vigueur : 01-09-2020&gt;
+
+(5)&lt;DCFL 2023-04-21/07, art. 2, 010; En vigueur : 01-06-2023&gt;
+
+----------
+
+(1)&lt;DCFL 2026-05-08/05, art. 2, 012; En vigueur : 07-06-2026&gt;
+
+(6)&lt;DCFL 2026-05-08/05, art. 3, 012; En vigueur : 07-06-2026&gt;
+
+(7)&lt;DCFL 2026-05-08/05, art. 4, 012; En vigueur : 07-06-2026&gt;
+
+(8)&lt;DCFL 2026-05-08/05, art. 5, 012; En vigueur : 07-06-2026&gt;
+
+(9)&lt;DCFL 2026-05-08/05, art. 6, 012; En vigueur : 07-06-2026&gt;
+
+(10)&lt;DCFL 2026-05-08/05, art. 7, 012; En vigueur : 07-06-2026&gt;
+
+(11)&lt;DCFL 2026-05-08/05, art. 8, 012; En vigueur : 07-06-2026&gt;
+
+(12)&lt;DCFL 2026-05-08/05, art. 14, 012; En vigueur : 07-06-2026&gt;
+
+### Art. 18
+
+[<sup>1</sup> La [<sup>2</sup> Commission de surveillance pour les établissements de la jeunesse]<sup>2</sup> établit chaque année un calendrier de ses [<sup>3</sup> réunions ]<sup>3</sup>.
+
+La [<sup>2</sup> Commission de surveillance pour les établissements de la jeunesse]<sup>2</sup> peut décider de déléguer plusieurs commissaires de mois auprès d'un établissement privatif de liberté pour enfants et jeunes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+(2)&lt;DCFL 2020-07-10/25, art. 5, 009; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2026-05-08/05, art. 13, 012; En vigueur : 07-06-2026&gt;
+
+### Art. 19
+
+[<sup>1</sup> Un commissaire de mois est accessible et cherche à établir le dialogue avec, entre autres, les enfants et les jeunes dans l'établissement privatif de liberté pour enfants et jeunes.
+
+Lors de tout contact avec un enfant ou un jeune, le commissaire de mois s'identifie et clarifie ses mandats, pour autant qu'il estime cette clarification utile ou nécessaire.
+
+Un commissaire de mois dispose, pour la durée de sa présence, d'un espace neutre adéquat dans l'établissement privatif de liberté pour enfants et jeunes.
+
+Un commissaire de mois a le droit de correspondre, sans aucun contrôle, avec les enfants et jeunes de l'établissement privatif de liberté pour enfants et jeunes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+### Art. 20
+
+[<sup>1</sup> Sauf dans les cas visés aux alinéas deux, trois et quatre, et pour autant que cela soit nécessaire pour l'exercice des mandats visés à l'article 17, § 1er, 1°, 2°, 3° et 4°, un commissaire de mois a le droit d'accéder librement, jour et nuit, sans avertissement préalable, à tout endroit d'un établissement privatif de liberté pour enfants et jeunes.
+
+Un commissaire de mois a accès, entre 6 heures et 22 heures, aux locaux communs occupés par les enfants et les jeunes d'un établissement privatif de liberté pour enfants et jeunes, de même qu'aux locaux habités par les responsables et le personnel de cet établissement et utilisés dans le cadre de l'aide à la jeunesse.
+
+Un commissaire de mois a accès, entre 6 heures et 22 heures, aux locaux privés habités par un enfant ou un jeune d'un établissement privatif de liberté pour enfants et jeunes, dans l'un des cas suivants :
+
+1° l'enfant, les enfants, le jeune ou les jeunes qui ont la jouissance réelle de cet espace ne s'y opposent pas ;
+
+2° le juge du tribunal de police a, à l'initiative de la [<sup>2</sup> Commission de surveillance pour les établissements de la jeunesse]<sup>2</sup>, autorisé préalablement l'accès à cet effet.
+
+Un commissaire de mois a accès, entre 6 heures et 22 heures, aux locaux habités d'un établissement privatif de liberté pour enfants et jeunes, dans l'un des cas suivants :
+
+1° la personne ou les personnes qui ont la jouissance réelle de cet espace ont donné leur consentement écrit et préalable à cet effet ;
+
+2° le juge du tribunal de police a, à l'initiative de la [<sup>2</sup> Commission de surveillance pour les établissements de la jeunesse]<sup>2</sup>, préalablement donné une autorisation spéciale d'accès motivée.
+
+Les droits tels que visés aux paragraphes trois, 1°, et quatre, 1°, sont exercés de façon autonome par le mineur ou le majeur déclaré incapable, à la condition qu'il soit, selon le commissaire de mois, en mesure d'évaluer raisonnablement ses intérêts.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+(2)&lt;DCFL 2020-07-10/25, art. 5, 009; En vigueur : 01-09-2020&gt;
+
+### Art. 21
+
+[<sup>1</sup> Les responsables et le personnel d'un établissement privatif de liberté pour enfants et jeunes sont tenus d'autoriser un commissaire de mois à consulter tous les documents et supports d'information ayant trait à l'établissement privatif de liberté pour enfants et jeunes, pour autant que le commissaire de mois les considère comme indispensables dans le cadre de ses mandats et sous réserve d'exceptions prévues par la loi.
+
+Si des données anonymes sont disponibles et actuelles, un commissaire de mois demandera à consulter ces données en priorité. Pour autant que cela s'avère indispensable dans le cadre de ses mandats, un commissaire de mois peut demander à consulter des données à caractère personnel, à la condition que, lorsqu'il s'agit de données médicales, [<sup>2</sup> la chambre Sécurité sociale et Santé du Comité de sécurité de l'information]<sup>2</sup> ait accordé à la Commission de surveillance une autorisation de principe telle que visée à l'article 42, § 2, 3°, de la loi du 13 décembre 2006 portant dispositions diverses en matière de santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+(2)&lt;DCFL 2020-05-08/04, art. 8, 008; En vigueur : 08-05-2020&gt;
+
+### Art. 22
+
+[<sup>1</sup> § 1er. La Commission de surveillance est présidée par le Commissaire et se compose de commissaires de mois.
+
+Un commissaire de mois doit remplir les conditions suivantes :
+
+1° être majeur ;
+
+2° être sensible au cadre de vie des enfants et des jeunes, ainsi qu'aux droits de l'homme ;
+
+3° pouvoir apporter la preuve d'une expérience formelle ou informelle révélant des aptitudes communicatives, tout particulièrement à l'égard et à l'intention des enfants et des jeunes, notamment une capacité d'écouter et d'énoncer clairement les problèmes, de même que la capacité de trouver des solutions aux problèmes ;
+
+4° présenter au Commissaire un extrait récent de casier judiciaire conforme au modèle 2, dont il ressort qu'il n'existe à son égard aucun élément incompatible avec sa désignation.
+
+[<sup>4</sup> La Commission s'efforce d'assurer une représentation équilibrée des hommes et des femmes]<sup>4</sup>.
+
+§ 2. La fonction de commissaire de mois de la Commission de surveillance est incompatible avec :
+
+1° une activité au sein d'une structure d'aide à la jeunesse telle que visée à l'article 2, § 1er, 13°, du décret du 7 mai 2004 relatif au statut juridique du mineur dans l'aide intégrale à la jeunesse [<sup>2</sup> et dans le cadre du décret sur le droit en matière de délinquance juvénile]<sup>2</sup> ;
+
+2° l'exercice d'un mandat public conféré par élection ;
+
+3° [<sup>3</sup> une fonction au sein d'un service public, quel que soit le niveau de compétence, dont les activités concernent [<sup>5</sup> le secteur de l'aide sociale ou le secteur judiciaire, axé sur les mineurs]<sup>5</sup>]<sup>3</sup>;
+
+4° la fonction de magistrat de l'ordre judiciaire qui n'a pas été admis à la retraite et qui, après la mise à la retraite, n'exerce pas la fonction de magistrat suppléant telle que visée à l'article 383 du Code judiciaire ;
+
+5° la fonction de fonctionnaire auprès du Ministère public près les cours et tribunaux, telle que visée à l'article 154 de la Constitution ;
+
+6° l'exercice de toute autre fonction ou activité susceptible de remettre en cause la dignité du mandat de commissaire de mois ou de la Commission de surveillance.
+
+§ 3. Le Commissaire désigne les commissaires de mois de la Commission de surveillance à l'issue d'un appel public à candidats par le Commissariat aux Droits de l'Enfant. Une personne ne peut être commissaire de mois que pour un maximum de deux mandats de trois ans, consécutifs ou non.
+
+§ 4. Le Commissaire résilie le mandat d'un commissaire de mois :
+
+1° à sa demande ;
+
+2° pour des motifs graves qui remettent ou sont susceptibles de remettre en cause la dignité du mandat ou de la Commission de surveillance ;
+
+3° lorsqu'il ne remplit plus les conditions de désignation telles que visées au paragraphe 1er, alinéa deux ;
+
+4° lorsqu'il est question à son sujet d'une incompatibilité telle que visée au paragraphe 2.
+
+Le Commissaire peut résilier le mandat d'un commissaire de mois :
+
+1° lorsqu'il n'assiste pas aux [<sup>6</sup> réunions ]<sup>6</sup> de la Commission de surveillance à trois reprises consécutives sans fournir d'excuse motivée ;
+
+2° lorsqu'il n'assiste pas aux [<sup>6</sup> réunions ]<sup>6</sup> de la Commission de surveillance à quatre reprises sur une base annuelle ;
+
+3° lorsqu'il enfreint le règlement d'ordre intérieur de la Commission de surveillance.
+
+§ 5. Un commissaire de mois reçoit du Commissariat aux Droits de l'Enfant au moins un défraiement qui couvre notamment les frais de déplacement. Il est assuré par le Commissariat aux Droits de l'Enfant contre les accidents susceptibles de survenir pendant ses déplacements. Sa responsabilité civile est également assurée par le Commissariat aux Droits de l'Enfant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+(2)&lt;DCFL 2020-05-08/04, art. 9, 008; En vigueur : 08-05-2020&gt;
+
+(3)&lt;DCFL 2023-07-07/08, art. 4, 011; En vigueur : 18-08-2023&gt;
+
+(4)&lt;DCFL 2026-05-08/05, art. 9, 012; En vigueur : 07-06-2026&gt;
+
+(5)&lt;DCFL 2026-05-08/05, art. 10, 012; En vigueur : 07-06-2026&gt;
+
+(6)&lt;DCFL 2026-05-08/05, art. 13, 012; En vigueur : 07-06-2026&gt;
+
+### Art. 23
+
+[<sup>1</sup> Dans les limites de sa compétence, la [<sup>2</sup> Commission de surveillance pour les établissements de la jeunesse]<sup>2</sup> ne reçoit d'instructions d'aucune autorité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+(2)&lt;DCFL 2020-07-10/25, art. 5, 009; En vigueur : 01-09-2020&gt;
+
+### Art. 24
+
+[<sup>1</sup> La Commission de surveillance dispose d'un règlement d'ordre intérieur qui, sur proposition du Commissaire, est approuvé par le Parlement flamand et publié au Moniteur belge.
+
+Le règlement d'ordre intérieur comprend notamment un code de conduite pour les commissaires de mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+### Art. 25
+
+[<sup>1</sup> La Commission de surveillance dispose d'un secrétariat dont les informations en matière de personnel sont déterminées en fonction du volume de travail.
+
+Le Commissaire dirige le secrétariat. Le secrétariat est notamment chargé des activités suivantes :
+
+1° la planification et l'enregistrement des visites par les commissaires de mois, telles que visées à l'article 17, § 2 ;
+
+2° les comptes rendus des [<sup>4</sup> réunions ]<sup>4</sup> de la Commission de surveillance ;
+
+3° [<sup>2</sup> le soutien du commissaire de mois lors de la préparation ]<sup>2</sup> des rapports visés à l'article 17, § 6, 1°, alinéa [<sup>5</sup> 1er ]<sup>5</sup> ;
+
+4°[<sup>3</sup> le soutien des commissaires de mois dans l'accomplissement de leur mission ]<sup>3</sup> ;
+
+5° la préparation du rapport annuel visé à l'article 17, § 8 ;
+
+6° l'archivage des documents présentés par la Commission de surveillance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+(2)&lt;DCFL 2026-05-08/05, art. 11, 012; En vigueur : 07-06-2026&gt;
+
+(3)&lt;DCFL 2026-05-08/05, art. 12, 012; En vigueur : 07-06-2026&gt;
+
+(4)&lt;DCFL 2026-05-08/05, art. 13, 012; En vigueur : 07-06-2026&gt;
+
+(5)&lt;DCFL 2026-05-08/05, art. 14, 012; En vigueur : 07-06-2026&gt;
+
+### Art. 26
+
+[<sup>1</sup> Le budget de la [<sup>2</sup> Commission de surveillance pour les établissements de la jeunesse]<sup>2</sup> constitue un élément du budget visé à l'article 13, et tient compte au moins des éléments suivants :
+
+1° les défraiements des commissaires de mois ;
+
+2° les primes de l'assurance contre les accidents survenant pendant les déplacements des commissaires de mois et de l'assurance couvrant leur responsabilité civile ;
+
+3° les moyens de fonctionnement de la [<sup>2</sup> Commission de surveillance pour les établissements de la jeunesse]<sup>2</sup> et de son secrétariat.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-02-03/11, art. 6, 005; En vigueur : 01-03-2017&gt;
+
+(2)&lt;DCFL 2020-07-10/25, art. 5, 009; En vigueur : 01-09-2020&gt;
+
+## CHAPITRE 4.
+
+&lt;Abrogé par DCFL 2026-07-17/02, art. 3, 013; En vigueur : 01-08-2026&gt;
+
+### Art. 27.
+
+Art. 27.
+
+&lt;Abrogé par DCFL 2026-07-17/02, art. 3, 013; En vigueur : 01-08-2026&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 15 juillet 1997.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+Le Ministre flamand de la Culture, de la Famille et de l'Aide sociale,
+
+L. MARTENS

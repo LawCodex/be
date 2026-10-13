@@ -1,0 +1,53 @@
+---
+title: "Décret modifiant l'article 257 du Code des impôts sur les revenus (TRADUCTION)."
+identifier: "1999035772"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999035772/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1999-05-18
+published: 1999-07-16
+entry_into_force: 1999-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999035772/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 18 MAI 1999. - Décret modifiant l'article 257 du Code des impôts sur les revenus (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+A l'article 257 du Code des impôts sur les revenus, remplacé par le décret du 8 juin 1998, est ajouté au § 2 un 4°, libellé comme suit :
+
+" 4° la réduction du précompte immobilier, telle que visée au § 1er, 2°, accordée pour les enfants des travailleurs frontaliers, qui, en vertu de la législation du pays où ces derniers sont occupés, sont exclus de tout régime d'allocations familiales, pour autant que ces enfants, aux termes de la législation belge relative aux allocations familiales, soient admis au bénéfice des allocations familiales. ".
+
+## Art. 3
+
+A l'article 257 du même Code est ajouté un § 3, alinéa trois, libellé comme suit :
+
+" Par travailleur frontalier au sens du § 2, 4°, on entend la personne occupée dans une région frontalière d'un pays voisin et qui est domiciliée le 1er janvier de l'exercice d'imposition, d'après l'inscription au registre de la population, dans la région frontalière de la Belgique où elle retourne d'habitude chaque jour ou au moins une fois par semaine. ".
+
+## Art. 4
+
+Le présent décret produit ses effets à partir de l'exercice d'imposition 1999.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 18 mai 1999.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+Le Ministre flamand des Finances, du Budget, et de la Politique de Santé,
+
+Mme W. DEMEESTER-DE MEYER

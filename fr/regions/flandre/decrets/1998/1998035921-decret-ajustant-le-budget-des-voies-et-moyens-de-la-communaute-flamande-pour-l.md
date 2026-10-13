@@ -1,0 +1,129 @@
+---
+title: "Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 1998. (Traduction)"
+identifier: "1998035921"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/07/1998035921/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1998-07-07
+published: 1998-09-03
+entry_into_force: 1998-09-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/07/1998035921/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 7 JUILLET 1998. - Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 1998. (Traduction)
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'estimation des recettes non affectées des organes et services de la Communauté flamande, pour l'année budgétaire 1998, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+(en millions de francs)
+
+Ajustements Supplements Reductions
+
+180,2 180,2 -
+
+## Art. 2
+
+L'estimation des recettes non affectées de la Communauté flamande relatives aux matières visées par les articles 127 à 129 de la Constitution, pour l'année budgétaire 1998, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+(en millions de francs)
+
+Ajustements Supplements Reductions
+
+\- 1 105,3 361,6 1 466,9
+
+## Art. 3
+
+L'estimation des recettes non affectées de la Communauté flamande relatives aux matières visées par l'article 39 de la Constitution, pour l'année budgétaire 1998, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+(en millions de francs)
+
+Ajustements Supplements Reductions
+
+2 108,0 2 108,0 -
+
+## Art. 4
+
+L'estimation des recettes affectées des organes et services de la Communauté flamande, pour l'année budgétaire 1998, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+(en millions de francs)
+
+Ajustements Supplements Reductions
+
+567,0 602,0 35,0
+
+## Art. 5
+
+L'estimation des recettes affectées de la Communauté flamande relatives aux matières visées par les articles 127 à 129 de la Constitution, pour l'année budgétaire 1998, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+(en millions de francs)
+
+Ajustements Supplements Reductions
+
+\- 41,4 5,6 47,0
+
+## Art. 6
+
+L'estimation des recettes affectées de la Communauté flamande relatives aux matières visées par l'article 39 de la Constitution, pour l'année budgétaire 1998, est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+(en millions de francs)
+
+Ajustements Supplements Reductions
+
+4,5 4,5 -
+
+## Art. 7
+
+L'estimation du produit des prêts visés par le Titre III du décret du 19 décembre 1997 contenant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 1998 est ajustée selon les indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+(en millions de francs)
+
+Ajustements Supplements Reductions
+
+30 000,0 30 000,0 -
+
+## Art. 8
+
+L'article 13 du décret du 19 décembre 1997 contenant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 1998 est abrogé.
+
+## Art. 9
+
+Le Ministre flamand ayant les finances et le budget dans ses attributions est autorisé à renoncer au recouvrement d'un montant de 1 586 697 853 F à charge du " UZ-Gent " (Hôpital universitaire de Gand), au programme 24.10, compte de trésorerie 10.23.
+
+## Art. 10
+
+Par dérogation à l'article 28 de l'arrêté royal du 17 juillet 1991 portant coordination des lois sur la comptabilité de l'Etat, les cotisations passées en compte à la Communauté flamande par l'asbl " De Warande " au cours des années 1987 à 1997 incluse, en vertu de l'article 3 de la convention du 22 décembre 1986 conclue entre l'asbl " De Warande " et la Communauté flamande, modifiée par les conventions des 17 juin 1988 et 21 janvier 1997, sont déduites du prêt sans intérêt à concurrence de 30 000 000 F consenti par la Communauté flamande à l'asbl " De Warande " en application de la convention précitée. Par conséquent, le montant du prêt sans intérêt restant à rembourser au 31 décembre 1997 s'élève à 23 805 000 F.
+
+## Art. 11
+
+Par dérogation à l'article 3, 12°, du décret du 23 janvier 1991 portant création du " Fonds voor Preventie en Sanering inzake Leefmilieu en Natuur " (Fonds de Prévention et d'Assainissement en matière de l'Environnement et de la Nature, en abrégé Fonds Mina) comme service régional à gestion séparée, le dividende à concurrence de 200 000 000 F à payer en 1998 par le " Vlaamse Milieuholding " (Holding flamand pour l'Environnement) à la Région flamande est versé aux ressources générales. La somme restante est versée au Fonds Mina.
+
+## Art. 12
+
+Le Ministre flamand ayant les finances et le budget dans ses attributions est autorisé à contracter les obligations relatives aux transactions financières dont le produit est inscrit à l'article 26.02 du programme 24.10.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 juillet 1998.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+La Ministre flamand des Finances, du Budget et de la Politique de Santé,
+
+Mme W. DEMEESTER-DE MEYER
+
+## Annexe.
+
+## Art. N1
+
+Tableau. (Non repris pour des raisons techniques. Voir MB 03/09/1998, p. 28 466 à 28 468)

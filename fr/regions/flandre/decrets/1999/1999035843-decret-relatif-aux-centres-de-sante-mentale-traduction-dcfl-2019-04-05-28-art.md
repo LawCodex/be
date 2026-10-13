@@ -1,0 +1,543 @@
+---
+title: "Décret relatif [aux centres de santé mentale] (TRADUCTION).<DCFL 2019-04-05/28 , art. 30, 011; En vigueur : 08-08-2024>"
+identifier: "1999035843"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999035843/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1999-05-18
+published: 1999-07-17
+entry_into_force: 2000-01-01
+last_amended: 2024-01-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999035843/justel"
+department: "Communauté flamande"
+justel_notes:
+  - "Les articles 20, 30, chapitre IX et l'article 35 modifiés avec effet à une date indéterminée par <DCFL 2013-06-21/17 , art. 21-25; En vigueur : indéterminée >"
+  - "Consultation des versions antérieures à partir du 17-07-1999 et mise à jour au 10-01-2024"
+retrieved: 2026-10-12
+---
+
+# 18 MAI 1999. - Décret relatif [aux centres de santé mentale] (TRADUCTION).&lt;DCFL 2019-04-05/28 , art. 30, 011; En vigueur : 08-08-2024&gt;
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales et définitions.
+
+#### Art. 1
+
+Le présent décret règle une matière communautaire.
+
+#### Art. 2
+
+Au sens du présent décret on entend par :
+
+1° centre de santé mentale : la structure de soins agréée qui dispense, de manière multidisciplinaire et ambulatoire et dans un cadre extra-muros, des soins de santé mentale à des personnes souffrant de troubles de la santé mentale;
+
+[<sup>1</sup> ° /1 usager : un usager tel que visé à l'article 2, 11°, du décret du 5 avril 2019 relatif à l'organisation et au soutien de l'offre de santé mentale ;]<sup>1</sup>
+
+[<sup>1</sup> 1° /2 réseau de santé mentale : un réseau de santé mentale tel que visé à l'article 2, 15° du décret du 5 avril 2019 relatif à l'organisation et au soutien de l'offre de santé mentale;]<sup>1</sup>
+
+2° LOGO : [<sup>1</sup> un partenariat, agréé par le Gouvernement flamand, pour la concertation et l'organisation sanitaires loco-régionales dans une aire géographique d'un seul tenant telle que visée à l'article 2, 19°, du décret du 21 novembre 2003 relatif à la politique de santé préventive]<sup>1</sup>;
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+5° Gouvernement : le Gouvernement flamand;
+
+6° enregistrement : la collecte uniformisée de données quantitatives et qualitatives anonymisées relatives aux caractéristiques de la population de patients et des soins justifiés dispensés, en vue de l'auto-évaluation du centre de santé mentale et de la communication d'informations utiles au Gouvernement;
+
+7° enveloppe de subventions : le budget que le centre de santé mentale reçoit annuellement, sur la base de paramètres déterminés au préalable par le Gouvernement, afin de réaliser les prestations et résultats convenus d'une manière qualitative supérieure;
+
+8° instances de renvoi : les instances désignées par le Gouvernement qui, sur base notamment de leur connaissance adéquate des formules d'aide présentes au sein de la Communauté flamande, renvoient des [<sup>1</sup> usagers]<sup>1</sup> aux centres de santé mentale.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 31, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 2 DROIT FUTUR
+
+Au sens du présent décret on entend par :
+
+1° centre de santé mentale : la structure de soins agréée qui dispense, de manière multidisciplinaire et ambulatoire et dans un cadre extra-muros, des soins de santé mentale à des personnes souffrant de troubles de la santé mentale;
+
+[<sup>1</sup> ° /1 usager : un usager tel que visé à l'article 2, 11°, du décret du 5 avril 2019 relatif à l'organisation et au soutien de l'offre de santé mentale ;]<sup>1</sup>
+
+[<sup>1</sup> 1° /2 réseau de santé mentale : un réseau de santé mentale tel que visé à l'article 2, 15° du décret du 5 avril 2019 relatif à l'organisation et au soutien de l'offre de santé mentale;]<sup>1</sup>
+
+2° LOGO : [<sup>1</sup> un partenariat, agréé par le Gouvernement flamand, pour la concertation et l'organisation sanitaires loco-régionales dans une aire géographique d'un seul tenant telle que visée à l'article 2, 19°, du décret du 21 novembre 2003 relatif à la politique de santé préventive]<sup>1</sup>;
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+5° Gouvernement : le Gouvernement flamand;
+
+6° [<sup>2</sup> ...]<sup>2</sup>
+
+7° enveloppe de subventions : le budget que le centre de santé mentale reçoit annuellement, sur la base de paramètres déterminés au préalable par le Gouvernement, afin de réaliser les prestations et résultats convenus d'une manière qualitative supérieure;
+
+8° instances de renvoi : les instances désignées par le Gouvernement qui, sur base notamment de leur connaissance adéquate des formules d'aide présentes au sein de la Communauté flamande, renvoient des [<sup>1</sup> usagers]<sup>1</sup> aux centres de santé mentale.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 31, 011; En vigueur : 08-08-2024&gt;
+
+(2)&lt;DCFL 2019-04-05/28, art. 31,6°, 011; En vigueur : indéterminée &gt;
+
+#### Art. 3
+
+Un centre de santé mentale est tenu, conformément à la définition de sa mission, de dispenser, sans distinction d'âge ou de sexe, de conviction idéologique, philosophique ou religieuse et quelle que soit la situation financière de l'intéressé, des soins justifiés tels que visés à l'article 4 et de le traiter avec respect.
+
+#### Art. 4
+
+§ 1er. Un centre de santé mentale dispense des soins justifiés lorsque ces soins remplissent les conditions d'efficacité, d'effectivité, de continuité, de sécurité et d'acceptabilité sociale et comprennent notamment les éléments suivants : admission, diagnostic, traitement et accompagnement socio-psychiatriques et psychothérapeutiques, communication d'informations et d'avis aux instances de renvoi au sujet de sa mission, ses principes de fonctionnement et ses groupes-cibles.
+
+§ 2. Sans préjudice des dispositions du § 1er, et après concertation avec l'[<sup>1</sup> usager]<sup>1</sup>, le centre de santé mentale consulte l'instance de renvoi et, le cas échéant, d'autres intervenants et/ou personnes des milieux habituels de vie de l' [<sup>1</sup> usager]<sup>1</sup>. Cette consultation donne lieu à des accords quant aux contributions respectives aux soins de la part de tous ces intéressés.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 32, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 5
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 33, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 6
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 33, 011; En vigueur : 08-08-2024&gt;
+
+## CHAPITRE II. - Définition de la mission et des principes de travail.
+
+### Section 1. - Définition de la mission.
+
+#### Art. 7
+
+§ 1er. Le secteur de la santé mentale a pour mission de dispenser les soins justifiés en vue de rétablir l'équilibre psychique ou de rendre les troubles psychiques supportables pour les [<sup>1</sup> usagers]<sup>1</sup> et leurs milieux de vie, pour que les [<sup>1</sup> usagers]<sup>1</sup> acquièrent ou développent des compétences formant la base de leur émancipation et de leur insertion sociale.
+
+§ 2. Les centres de santé mentale contribuent à l'accomplissement de la mission telle que définie au § 1er.
+
+§ 3. Le Gouvernement peut conclure des accords avec les structures et services ou initiatives qui, en raison de leur expertise et expérience spécifiques en ce qui concerne certains groupes-cibles et/ou problématiques, contribuent en Flandre à l'accomplissement de la mission telle que définie au § 1er.
+
+§ 4. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 34, 011; En vigueur : 08-08-2024&gt;
+
+### Section 2. - Principes de fonctionnement.
+
+#### Art. 8
+
+Sans préjudice des dispositions du décret du 25 février 1997 relatif à la gestion totale de la qualité dans les établissements de soins, l'aide proposée est basée sur le respect de la vie privée du [<sup>1</sup> usager]<sup>1</sup>. Elle fera appel de façon maximale à la co-responsabilité et à l'autonomie du [<sup>1</sup> usager]<sup>1</sup>, appliquant le traitement le moins radical pour maximaliser les effets souhaités face à la problématique constatée.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 35, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 9
+
+§ 1er. Afin de contribuer à l'accomplissement de la mission telle que définie à l'article 7 :
+
+1° le centre de santé mentale se présente comme structure de santé de second échelon;
+
+2° le centre de santé mentale fait prévaloir l'intérêt du [<sup>1</sup> usager]<sup>1</sup>;
+
+3° le centre de santé mentale prête une attention particulière aux enfants, aux personnes âgées et aux personnes socialement et financièrement faibles;
+
+4° le centre de santé mentale travaille de façon interdisciplinaire en faisant appel aux disciplines psychiatriques, psychologiques, socioculturelles et sociales. Le centre prévoit à cet effet un soutien logistique;
+
+5° le centre de santé mentale opère au sein d'un ou plusieurs [<sup>1</sup> réseaux de santé mentale]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup>;
+
+6° le centre de santé mentale désigne des équipes multidisciplinaires qui dispensent des soins de santé mentale aux enfants et aux personnes âgées visés au 3°;
+
+7° le centre de santé mentale conclut des accords avec ses instances de renvoi et collabore avec les structures de santé et d'aide sociale de premier échelon dans son ressort;
+
+8° le centre de santé mentale élabore un code déontologique [<sup>1</sup> ...]<sup>1</sup>;
+
+9° le centre de santé mentale prête son concours à des actions de prévention qui s'inscrivent dans le cadre de sa mission et qui s'adressent à des groupes-cibles spécifiques de la population, et conclut à cet effet des accords de coopération avec les LOGO actifs dans le ressort du centre de santé mentale.
+
+§ 2. Le Gouvernement peut confier des tâches complémentaires aux centres de santé mentale au bénéfice de groupes-cibles, problématiques ou besoins régionaux spécifiques ou en cas de situations de crise aiguës.
+
+§ 3. Afin d'assurer l'effectivité, l'uniformité et le professionnalisme de l'approche de la problématique de la drogue, les centres de santé mentale font appel à l'assistance et à l'accompagnement de l'Association pour problèmes d'alcool et autres drogues (VAD) ou de son ayant-cause.
+
+§ 4. Un centre de santé mentale peut se faire confier, contre rémunération, des tâches par des personnes, services ou structures autres que ceux visés à l'article 2, 8°. Ces tâches supplémentaires se limitent aux domaines définis dans le cadre de sa mission. Elles ne peuvent en aucun cas donner lieu à une réalisation réduite ni compromettre la réalisation de cette mission. Les centres de santé mentale soumettent annuellement au Gouvernement un rapport sur la nature et l'ampleur de ces tâches supplémentaires.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 36, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 9 DROIT FUTUR
+
+§ 1er. Afin de contribuer à l'accomplissement de la mission telle que définie à l'article 7 :
+
+1° le centre de santé mentale se présente comme structure de santé de second échelon;
+
+2° le centre de santé mentale fait prévaloir l'intérêt du [<sup>1</sup> usager]<sup>1</sup>;
+
+3° le centre de santé mentale prête une attention particulière aux enfants, aux personnes âgées et aux personnes socialement et financièrement faibles;
+
+4° le centre de santé mentale travaille de façon interdisciplinaire en faisant appel aux disciplines psychiatriques, psychologiques, socioculturelles et sociales. Le centre prévoit à cet effet un soutien logistique;
+
+5° le centre de santé mentale opère au sein d'un ou plusieurs [<sup>1</sup> réseaux de santé mentale]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup>;
+
+6° le centre de santé mentale désigne des équipes multidisciplinaires qui dispensent des soins de santé mentale aux enfants et aux personnes âgées visés au 3°;
+
+7° le centre de santé mentale conclut des accords avec ses instances de renvoi et collabore avec les structures de santé et d'aide sociale de premier échelon dans son ressort;
+
+8° le centre de santé mentale élabore un code déontologique [<sup>1</sup> ...]<sup>1</sup>;
+
+9° le centre de santé mentale prête son concours à des actions de prévention qui s'inscrivent dans le cadre de sa mission et qui s'adressent à des groupes-cibles spécifiques de la population, et conclut à cet effet des accords de coopération avec les LOGO actifs dans le ressort du centre de santé mentale.
+
+§ 2. Le Gouvernement peut confier des tâches complémentaires aux centres de santé mentale au bénéfice de groupes-cibles, problématiques ou besoins régionaux spécifiques ou en cas de situations de crise aiguës.
+
+§ 3. Afin d'assurer l'effectivité, l'uniformité et le professionnalisme [<sup>2</sup> des soins, visés à l'article 4, § 1er,]<sup>2</sup>, les centres de santé mentale font appel à l'assistance et à l'accompagnement [<sup>2</sup> d'organisations partenaires telles que visées à l'article 2, 23°, du décret du 21 novembre 2003 relatif à la politique de santé préventive, et d'organisations partenaires telles que visées à l'article 2, 25°, du décret du 5 avril 2019 relatif à l'organisation et au soutien de l'offre de santé mentale]<sup>2</sup>.
+
+§ 4. Un centre de santé mentale peut se faire confier, contre rémunération, des tâches par des personnes, services ou structures autres que ceux visés à l'article 2, 8°. Ces tâches supplémentaires se limitent aux domaines définis dans le cadre de sa mission. Elles ne peuvent en aucun cas donner lieu à une réalisation réduite ni compromettre la réalisation de cette mission. Les centres de santé mentale soumettent annuellement au Gouvernement un rapport sur la nature et l'ampleur de ces tâches supplémentaires.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 36, 011; En vigueur : 08-08-2024&gt;
+
+(2)&lt;DCFL 2019-04-05/28, art. 36, 011; En vigueur : indéterminée &gt;
+
+#### Art. 10
+
+§ 1er. En exécution de la disposition définie à l'article 4, le centre de santé mentale établit un plan d'action pour chaque [<sup>1</sup> usager]<sup>1</sup>.
+
+§ 2. L'élaboration, l'évaluation intermédiaire et l'évaluation finale de chaque plan d'action s'effectuent par une équipe multidisciplinaire sous la direction d'un psychiatre.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 37, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 11
+
+§ 1er. Sans préjudice des dispositions de l'article 3, le centre de santé mentale prend en charge chaque [<sup>1</sup> usager]<sup>1</sup> qui lui est renvoyé par une instance de renvoi.
+
+§ 2. Le centre de santé mentale entame les entretiens de premier accueil et l'aide éventuelle qui s'ensuit dans un délai raisonnable après le premier contact. Ce délai raisonnable est défini dans le plan de gestion tel que visé à l'article 25.
+
+§ 3. Les centres de santé mentale, les instances de renvoi et les structures visées à l'article 9, § 1er, 7° échangent leurs expériences afin d'évaluer l'effectivité et l'efficacité des renvois et, au besoin, mettre au point des mécanismes susceptibles d'optimaliser les renvois.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 37, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 12
+
+Tous les partenaires des réseaux psychiatriques effectuent un enregistrement tel que visé à l'article 2, 6°, selon les modalités fixées par le Gouvernement.
+
+#### Art. 12 DROIT FUTUR
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 38, 011; En vigueur : indéterminée &gt;
+
+#### Art. 13
+
+Le centre de santé mentale compose un dossier multidisciplinaire pour chaque [<sup>1</sup> usager]<sup>1</sup> pris en charge.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 39, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 14
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 40, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 15
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 40, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 16
+
+Le centre de santé mentale organise la permanence minimale nécessaire pendant les périodes de vacances ainsi que son accessibilité pendant les heures de fermeture.
+
+#### Art. 17
+
+Le centre de santé mentale créé les conditions propices à une formation suffisante et permanente de son personnel.
+
+#### Art. 18
+
+Le Gouvernement fixe, en concertation avec toutes les parties intéressées, l'affectation et les modalités de la contribution financière du [<sup>1</sup> usager]<sup>1</sup> en fonction notamment du revenu, de la situation familiale, de l'intensité et de la chronicité des soins nécessités.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 41, 011; En vigueur : 08-08-2024&gt;
+
+## CHAPITRE III. - Agrément des centres de santé mentale.
+
+#### Art. 19
+
+Tout centre de santé mentale doit être agréé à ce titre par le Gouvernement.
+
+#### Art. 20
+
+§ 1er. Pour obtenir et maintenir l'agrément, les conditions suivantes doivent être remplies :
+
+1° avoir été créé par une [<sup>1</sup> association de droit privé dotée de la personnalité juridique pour laquelle il est interdit par loi de payer un avantage patrimonial à ses membres]<sup>1</sup>, une province, une commune, un centre public d'aide sociale ou une université qui, selon le cas, en vertu de la loi, du décret ou des statuts, y sont habilitées;
+
+2° être établi dans des bâtiments ou locaux qui remplissent les conditions en matière d'hygiène, de sécurité et d'habitabilité;
+
+3° disposer d'une infrastructure qui permet une exécution de qualité des missions et la protection de la vie privée;
+
+4° [<sup>2</sup> permettre le contrôle par l'inspection, visé à l'article 34]<sup>2</sup>
+
+5° accomplir les tâches et respecter les principes de fonctionnement tels que définis au chapitre II et remplir les dispositions du chapitre VII;
+
+6° mettre en oeuvre une politique en matière de qualité conformément aux dispositions du décret du 25 février 1997 relatif à la gestion totale de la qualité dans les établissements de soins;
+
+7° s'inscrire dans la programmation comme prévu à l'article 27;
+
+8° tenir une comptabilité conformément au plan comptable de la Communauté flamande;
+
+9° [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> § 1/1. Le Gouvernement flamand peut arrêter des normes d'agrément complémentaires.]<sup>2</sup>
+
+§ 2. Le Gouvernement arrête la procédure et les modalités d'agrément.
+
+§ 3. Dans des cas spécifiques, le Gouvernement peut autoriser des dérogations aux conditions telles que visées au § 1er, 7°, étant entendu que le nombre total des centres de santé mentale agréés ne dépasse pas 26.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 45, 008; En vigueur : 29-08-2016&gt;
+
+(2)&lt;DCFL 2019-04-05/28, art. 42, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 21
+
+§ 1er. Le Gouvernement peut retirer l'agrément d'un centre de santé mentale lorsqu'une ou plusieurs conditions de l'article 20 ne sont plus remplies.
+
+§ 2. Le Gouvernement arrête la procédure de retrait de l'agrément. Cette procédure garantit les droits de la défense.
+
+#### Art. 22
+
+§ 1er. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. Si plus de deux centres de santé mentale sont agréés dans un territoire tel que défini à l'article 27, § 1er, le Gouvernement peut octroyer, [<sup>1</sup> ...]<sup>1</sup> à une instance telle que visée à l'article 20, § 1er, 1°, à condition que les dispositions de l'article 20 et de l'article 27, § 1er soient remplies.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 43, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 23
+
+[<sup>1</sup> Le chapitre III du décret du 7 décembre 2007 portant création [<sup>2</sup> ...]<sup>2</sup> d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille [<sup>2</sup> et des (Candidats-)accueillants]<sup>2</sup> s'applique à la procédure relative à l'agrément, à la suspension de l'agrément et au retrait de l'agrément des centres de santé mentale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 49, 010; En vigueur : 01-07-2013&gt;
+
+(2)&lt;DCFL 2023-12-01/10, art. 2, 010; En vigueur : 20-01-2024&gt;
+
+## CHAPITRE IV. - Convention et plan de gestion.
+
+#### Art. 24
+
+Est seul admissible aux subventions, un centre de santé mentale agréé avec lequel le Gouvernement conclut une convention. Cette convention comprend deux volets : d'une part la description du plan de gestion, d'autre part la détermination de l'enveloppe de subventions. Cette convention définit, pour une période de 3 ans, les objectifs généraux et spécifiques ainsi que les prestations auxquelles on s'engage et les résultats envisagés par le centre de santé mentale.
+
+#### Art. 24 DROIT FUTUR
+
+Est seul admissible aux subventions, un centre de santé mentale agréé avec lequel le Gouvernement conclut une convention. Cette convention comprend deux volets : d'une part la description du plan de gestion, d'autre part la détermination de l'enveloppe de subventions. Cette convention définit, pour une période de [<sup>1</sup> 5 ans]<sup>1</sup>, les objectifs généraux et spécifiques ainsi que les prestations auxquelles on s'engage et les résultats envisagés par le centre de santé mentale.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 44, 011; En vigueur : indéterminée &gt;
+
+#### Art. 25
+
+Le plan de gestion comprend au minimum :
+
+1° la manière dont le centre de santé mentale réalise les dispositions du chapitre II;
+
+2° la manière dont les indicateurs de qualité et de prestation sont appliqués et quelles sont les actions qui seront éventuellement entreprises en vue d'optimaliser le fonctionnement du centre de santé mentale;
+
+3° le cas échéant, l'accord tel que visé à l'article 27, § 3.
+
+#### Art. 26
+
+(§ 1.) Dans le cadre de la convention telle que visée à l'article 24, le Gouvernement négocie avec les centres de santé mentale : &lt;DCFL 2005-11-25/34, art. 2, 004; En vigueur : 08-01-2006&gt;
+
+1° la quote-part des frais de personnel et de fonctionnement dans l'enveloppe de subventions;
+
+2° l'ampleur de l'évolution de l'enveloppe de subventions à la suite de l'indexation et de l'évolution salariale.
+
+(§ 2. Si la nouvelle convention relative à l'enveloppe de subventions entre le Gouvernement et le centre de santé mentale n'est pas encore signée au début de la nouvelle période de convention triennale, il sera octroyé au centre agréé, en vue de la continuité du subventionnement, une avance mensuelle en attendant la signature de la convention ou de l'application de l'alinéa deux. Cette avance représente 1/12 de l'enveloppe attribuée de l'année précédente.
+
+Si, dans les six mois de l'expiration de la convention visée à l'article 24, la nouvelle convention entre le gouvernement et le centre de santé mentale n'est pas encore signée, le Gouvernement fixe unilatéralement le montant de l'enveloppe qui sera attribuée.
+
+Si la nouvelle enveloppe de subventions ou l'enveloppe de subventions fixée unilatéralement par le Gouvernement conformément à l'alinéa deux, les avances mensuelles visées à l'alinéa premier sont considérées comme acquises pour le centre de santé mentale. Le total des avances mensuelles versées est décompté de la nouvelle enveloppe de subventions.) &lt;DCFL 2005-11-25/34, art. 2, 004; En vigueur : 08-01-2006&gt;
+
+## CHAPITRE V. - Programmation des centres de santé mentale et leurs moyens d'investissement.
+
+### Section 1. - Programmation.
+
+#### Art. 27
+
+§ 1er. Le ressort d'un centre de santé mentale est formé par un ensemble sociologique de communes limitrophes qui compte au moins 400.000 habitants et qui couvre au maximum les ressorts des LOGO qui participent à une plate-forme provinciale de prévention. 2 centres de santé mentale au maximum peuvent être agréés par ressort. Pour la Communauté flamande, 26 centres de santé mentale au maximum peuvent être agréés, dont 2 à Bruxelles-Capitale.
+
+§ 2. Chaque centre de santé mentale peut disposer de plusieurs lieux d'établissement, afin de réaliser une bonne accessibilité au public.
+
+§ 3. Dans chaque ressort, le cas échéant, les 2 centres de santé mentale formalisent leurs accords, afin de concrétiser la conformité aux dispositions de l'article 9, 5°.
+
+§ 4. Les centres de santé mentale ne peuvent être agréés avant que ne soit démontré que la somme des ressorts des centres de santé mentale couvre la totalité de la Communauté flamande.
+
+#### Art. 28
+
+Le Gouvernement arrête les paramètres appliqués en vue de détecter les besoins en soins de chaque ressort, afin d'arriver à une répartition équilibrée de la capacité de soins.
+
+### Section 2. - Moyens d'investissement.
+
+#### Art. 29
+
+Les centres de santé mentale peuvent faire appel aux moyens d'investissement attribués au VIPA dans les limites des crédits budgétaires disponibles, à condition que :
+
+1° le centre de santé mentale remplit les conditions d'agrément telles que visées à l'article 20;
+
+2° le besoin de construction neuve, de transformation ou d'extension soit démontré [<sup>1</sup> ...]<sup>1</sup>;
+
+3° les travaux répondent aux normes physiques et financières fixées par le Gouvernement.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 45, 011; En vigueur : 08-08-2024&gt;
+
+## CHAPITRE VI.
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 46, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 30
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 46, 011; En vigueur : 08-08-2024&gt;
+
+## CHAPITRE VII.
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 46, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 31
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 46, 011; En vigueur : 08-08-2024&gt;
+
+## CHAPITRE VIII. - Personnel et direction du centre de santé mentale.
+
+#### Art. 32
+
+§ 1er. Le centre de santé mentale est dirigé par une personne qui dispose de l'expérience et de l'expertise suffisantes et qui a suivi une formation spécifique en matière de direction. Le Gouvernement définit ce qu'il faut entendre par expérience et expertise suffisantes et la formation spécifique en matière de direction prise en considération.
+
+§ 2. Le poste de direction est admissible aux subventions dans les limites de l'enveloppe de subventions telle que définie à l'article 26, si le centre dispose d'un effectif d'au moins quinze équivalents à temps plein. Le Gouvernement peut admettre aux subventions, dans les limites de l'enveloppe de subventions telle que définie à l'article 26, des frais de fonctionnement supplémentaires par tranche additionnelle de cinq membres du personnel.
+
+§ 3. Les disciplines mentionnées à l'article 9, § 1er, 4° sont représentées au sein de l'équipe multidisciplinaire et permettent au centre de santé mentale d'accomplir les missions définies à l'article 7. Le Gouvernement peut fixer des conditions supplémentaires pour la composition de l'équipe.
+
+§ 4. Le Gouvernement fixe les barèmes minimum des membres du personnel des centres de santé mentale, ainsi que les diplômes requis pour les disciplines respectives mentionnées à l'article 9, § 1er, 4°.
+
+#### Art. 33
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 47, 011; En vigueur : 08-08-2024&gt;
+
+## CHAPITRE VIII/1. [<sup>1</sup> Mise en oeuvre des accords sociaux ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-01/10, art. 3, 010; En vigueur : 20-01-2024&gt;
+
+#### Art. 33/1
+
+[<sup>1</sup> Dans le cadre de la mise en oeuvre des accords sociaux relatifs au secteur de la santé qui répondent à toutes les conditions suivantes, le Gouvernement flamand peut arrêter les mesures dont la Communauté flamande prend l'impact financier à sa charge, et le Gouvernement flamand peut fixer les conditions et la procédure en vue de l'établissement de l'impact financier, du montant et du paiement de l'intervention financière :
+
+1° les accords sociaux concernent les centres de santé mentale avec lesquels le Gouvernement flamand a conclu une convention conformément à l'article 24 ;
+
+2° les accords sociaux ne sont pas encore financés par l'enveloppe de subventions visée aux articles 24 et 26. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-01/10, art. 4, 010; En vigueur : 20-01-2024&gt;
+
+#### Art. 33/2
+
+[<sup>1</sup> Le Gouvernement flamand peut prendre des initiatives pour promouvoir l'attractivité de l'emploi dans les centres de santé mentale agréés avec lesquels le Gouvernement flamand a conclu une convention conformément à l'article 24, et dont l'impact financier est pris en charge par la Communauté flamande. Les initiatives précitées peuvent couvrir tous les aspects suivants :
+
+1° les conditions de travail ;
+
+2° les conditions de remboursement ;
+
+3° la réduction du temps de travail ;
+
+4° la réduction de la charge de travail ;
+
+5° la formation ;
+
+6° la qualification et la formation ;
+
+7° la participation au processus décisionnel.
+
+Le Gouvernement flamand détermine les conditions et la procédure de détermination de l'impact financier, du montant et du versement de l'intervention financière visée à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-01/10, art. 5, 010; En vigueur : 20-01-2024&gt;
+
+## CHAPITRE IX. [<sup>1</sup> - Contrôle et sanctions]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 48, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 34
+
+[<sup>1</sup> Le contrôle du respect des dispositions du présent décret et de ses arrêtés d'exécution est effectué conformément au décret du 19 janvier 2018 relatif au contrôle public dans le cadre de la politique de la santé et de l'aide sociale et à ses arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 49, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 35
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 50, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 35/1
+
+[<sup>1</sup> Sans préjudice de l'article 13 de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des Communautés et des Régions, ainsi qu'à l'organisation du contrôle par la Cour des Comptes et sans préjudice de l'article 21 du décret du 18 mai 1999 relatif au secteur de la santé mentale, les subventions de l'année d'activité suivante peuvent, en cas d'infraction [<sup>2</sup> au présent décret, à ses arrêtés d'exécution ou à la convention visée à l'article 24]<sup>2</sup>, être proportionnellement réduites, en proportion de la gravité de l'infraction et à l'importance de l'enveloppe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-12-21/01, art. 42, 006; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DCFL 2019-04-05/28, art. 51, 011; En vigueur : 08-08-2024&gt;
+
+## CHAPITRE X. - [<sup>1</sup> ...]<sup>1</sup> entrée en vigueur.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/28, art. 52, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 36
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 53, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 37
+
+&lt;Abrogé par DCFL 2019-04-05/28, art. 53, 011; En vigueur : 08-08-2024&gt;
+
+#### Art. 38
+
+Le présent décret entre en vigueur le 1er janvier 2000.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 18 mai 1999.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+Le Ministre flamand des Finances, du Budget et de la Politique de Santé,
+
+Mme W. DEMEESTER-DE MEYER

@@ -1,0 +1,49 @@
+---
+title: "Décret portant confirmation de dispositions obligatoires de l'arrêté du Gouvernement flamand du 23 septembre 1997 portant fixation définitive du Schéma de Structure d'Aménagement de la Flandre (TRADUCTION)."
+identifier: "1998035283"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/17/1998035283/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1997-12-17
+published: 1998-03-21
+entry_into_force: 1998-03-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/17/1998035283/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 17 DECEMBRE 1997. - Décret portant confirmation de dispositions obligatoires de l'arrêté du Gouvernement flamand du 23 septembre 1997 portant fixation définitive du Schéma de Structure d'Aménagement de la Flandre (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+L'arrêté du Gouvernement flamand du 23 septembre 1997 portant fixation définitive du Schéma de Structure d'Aménagement de la Flandre est, en ce qui concerne les dispositions obligatoires, confirmé à condition :
+
+1° Qu'il soit ajouté à l'annexe au présent arrêté, partie 3 - Dispositions obligatoires, Dispositions obligatoires en matière des zones affectées aux activités économiques, 1. Sélection des noeuds économiques, 1.3. Noeuds économiques en dehors des zones urbaines et en dehors du réseau économique du Canal Albert, la phrase suivante :
+
+" Lorsqu'il s'avère après enquête que la définition des tâches relative à l'utilisation des terrains d'activité économique ne peut pas être réalisée de manière effective, cette définition des tâches peut être réalisée dans les zones environnantes dans une commune limitrophe. ";
+
+2° Qu'il soit ajouté à l'annexe au présent arrêté, partie 3 - Dispositions obligatoires, Dispositions obligatoires en matière des structures linéaires, 1. Infrastructure routière, 1.1. Catégorisation des routes selon leur fonction, la phrase suivante :
+
+" Les principes généraux en matière de forme et d'équipement des différentes catégories de routes (tel qu'expliqué dans la partie indicative du Schéma de Structure d'Aménagement de la Flandre) ne peuvent pas être considérés comme norme obligatoire en ce qui concerne les routes existantes et doivent toujours être évalués à partir de la structure historiquement évoluée des environs dans lesquels la route est située. ".
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 17 décembre 1997.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+Le Ministre des Travaux publics, des Transports et de l'Aménagement du Territoire,
+
+E. BALDEWIJNS

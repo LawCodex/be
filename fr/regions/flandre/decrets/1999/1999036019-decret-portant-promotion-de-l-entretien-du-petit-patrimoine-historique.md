@@ -1,0 +1,47 @@
+---
+title: "Décret portant promotion de l'entretien du petit patrimoine historique immobilier non protégé (TRADUCTION)."
+identifier: "1999036019"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999036019/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1999-05-18
+published: 1999-07-31
+entry_into_force: 1999-07-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999036019/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 18 MAI 1999. - Décret portant promotion de l'entretien du petit patrimoine historique immobilier non protégé (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+§ 1er. Pendant une période d'essai débutant le 1er mai 1999 et prenant fin le 1er octobre 2000, les travaux exécutés au petit patrimoine historique immobilier non protégé sont assimilés aux travaux exécutés aux monuments protégés en ce qui concerne l'octroi d'une prime d'entretien pour les monuments protégés. Pour l'application du présent arrêté, des primes d'entretien inférieures à 50 000 francs peuvent être octroyées.
+
+§ 2. Pour l'application du présent article, il y a lieu d'entendre par petit patrimoine historique immobilier: fontaines, pompes, puits, croix, calvaires, chapelles de campagne, statues, panneaux d'indication, piloris, poteaux-frontière, réverbères, horloges, carillons, cadrans solaires, clôtures, auvents, tombeaux, points de repère marquant un événement frappant du passé, comptoirs d'accueil, mobilier de rue, ouvrages d'art d'eau, arbres de fétiche, arbres de la liberté, arbres de justice, arbres frontaliers ainsi que les arbres formant une unité historique avec un des éléments de construction susmentionnés.
+
+## Art. 3
+
+Le présent décret entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 18 mai 1999.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+Le Ministre flamand de la Culture, de la Famille et de l'Aide sociale,
+
+L. MARTENS

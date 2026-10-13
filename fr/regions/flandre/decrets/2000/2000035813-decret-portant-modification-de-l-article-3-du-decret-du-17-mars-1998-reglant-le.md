@@ -1,0 +1,45 @@
+---
+title: "Décret portant modification de l'article 3 du décret du 17 mars 1998 réglant le droit à la liberté d'information et la diffusion d'informations brèves par les radiodiffuseurs (TRADUCTION)."
+identifier: "2000035813"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/08/2000035813/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2000-06-08
+published: 2000-08-17
+entry_into_force: 2000-08-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/08/2000035813/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 8 JUIN 2000. - Décret portant modification de l'article 3 du décret du 17 mars 1998 réglant le droit à la liberté d'information et la diffusion d'informations brèves par les radiodiffuseurs (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+Les points a) et b) de l'article 3, deuxième alinéa, du décret du 17 mars 1998 réglant le droit à la liberté d'information et la diffusion d'informations brèves par les radiodiffuseurs, annulés par l'arrêt 124/99 du 25 novembre 1999 de la Cour d'Arbitrage, dans la mesure où ils concernent les organismes établis dans la région bilingue de Bruxelles-Capitale qui en raison de leur organisation doivent être considérés comme appartenant exclusivement à la Communauté flamande, sont remplacés par les points a) et b) suivants, rédigés comme suit :
+
+" a) le libre accès à l'événement, dans la mesure où celui-ci a lieu dans la région linguistique néerlandophone ou dans la région bilingue de Bruxelles-Capitale, dans la mesure où l'organisme qui organise l'événement dans la région de Bruxelles-Capitale peut être considéré, en raison de ses activités, comme appartenant exclusivement à la Communauté flamande;
+
+b) le droit de faire des enregistrements, dans la mesure où l'événement a lieu dans la région linguistique néerlandophone ou dans la région bilingue de Bruxelles-Capitale, dans la mesure où l'organisme qui organise l'événement dans la région de Bruxelles-Capitale peut être considéré, en raison de ses activités, comme appartenant exclusivement à la Communauté flamande ".
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 8 juin 2000.
+
+Le Ministre-Président du Gouvernement flamand,
+
+P. DEWAEL
+
+Le Ministre flamand de l'Economie, de l'Aménagement du Territoire et des Médias,
+
+D. VAN MECHELEN.

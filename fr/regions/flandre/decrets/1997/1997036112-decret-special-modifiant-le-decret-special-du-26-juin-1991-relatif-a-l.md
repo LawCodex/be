@@ -1,0 +1,61 @@
+---
+title: "Décret spécial modifiant le décret spécial du 26 juin 1991 relatif à l'\" Universiteit Gent \" et à l'\" Universitair Centrum Antwerpen \" (TRADUCTION)."
+identifier: "1997036112"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036112/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1997-07-15
+published: 1997-09-12
+entry_into_force: 1991-07-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036112/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 15 JUILLET 1997. - Décret spécial modifiant le décret spécial du 26 juin 1991 relatif à l'" Universiteit Gent " et à l'" Universitair Centrum Antwerpen " (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret spécial régit une matière communautaire.
+
+## Art. 2
+
+L'article 31 du décret spécial du 26 juin 1991 relatif à l'" Universiteit Gent " et à l'" Universitair Centrum Antwerpen " est remplacé par la disposition suivante :
+
+" Art. 31. Deux emplois d'administrateur sont prévus au cadre organique de l'université. Ils sont insérés dans l'échelle de traitement de professeur ordinaire. ".
+
+## Art. 3
+
+L'article 32 du même décret spécial est remplacé par la disposition suivante :
+
+" Art. 32. Un emploi d'administrateur est prévu au cadre organique du centre universitaire. Il est inséré dans l'échelle de traitement de professeur ordinaire. ".
+
+## Art. 4
+
+Dans la Section 6 du même décret spécial, il est inséré un article 32bis, rédigé comme suit :
+
+" Art. 32bis. Les échelles de traitement 16S et 16/1 où les administrateurs étaient ou sont insérés du 1er septembre 1991 au 1er janvier 1997 suivent l'évolution générale fixée par ou en vertu du Chapitre IV du décret du 12 juin 1991 relatif aux universités dans la Communauté flamande. ".
+
+## Art. 5
+
+Les articles 2 et 3 produisent leurs effets le 1er janvier 1997.
+
+L'article 4 produit ses effets le 4 juillet 1991.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 15 juillet 1997.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+Le Ministre flamand de l'Enseignement et de la Fonction publique,
+
+L. VAN DEN BOSSCHE

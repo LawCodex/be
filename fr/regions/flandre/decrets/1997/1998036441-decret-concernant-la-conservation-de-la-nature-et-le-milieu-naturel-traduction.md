@@ -1,0 +1,3053 @@
+---
+title: "Décret concernant la conservation de la nature et le milieu naturel. (TRADUCTION)"
+identifier: "1998036441"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/21/1998036441/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1997-10-21
+published: 1998-01-10
+entry_into_force: 1998-01-20
+last_amended: 2026-08-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/21/1998036441/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 10-01-1998 et mise à jour au 10-08-2026"
+retrieved: 2026-10-12
+---
+
+# 21 OCTOBRE 1997. - Décret concernant la conservation de la nature et le milieu naturel. (TRADUCTION)
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales.
+
+##### Art. 1
+
+Le présent décret règle une matière régionale.
+
+##### Art. 2
+
+Pour l'application du présent décret, il faut entendre par :
+
+1° organismes : la flore, la faune et les autres organismes, à l'exclusion de l'homme;
+
+2° diversité biologique : la variabilité des organismes vivants de toute origine, y compris, entre autres, les écosystèmes terrestres, marins et autres écosystèmes aquatiques et les complexes écologiques dont ils font partie; cela comprend la diversité au sein des espèces et entre espèces, ainsi que celle des écosystèmes;
+
+3° écosystème : le complexe d'éléments biotiques et abiotiques caractérisant l'interaction des organismes vivants dans une zone déterminée;
+
+4° [<sup>3</sup> habitat : un habitat naturel et/ou un habitat d'une espèce, où :
+
+a) un habitat naturel est une zone terrestre ou aquatique entièrement naturelle ou semi-naturelle possédant des caractéristiques géographiques, abiotiques ou biotiques particulières ;
+
+b) un habitat d'une espèce est un milieu naturel défini par des éléments spécifiques abiotiques et biotiques, dans lequel l'espèce vit durant l'une des phases de son cycle biologique. A cette définition correspondent également les zones d'habitat d'une espèce d'oiseau, à savoir : les aires de repos des zones de migration, les zones de reproduction, les zones de couvées et d'avitaillement, ainsi que les zones de mue et d'hibernation ;]<sup>3</sup>
+
+5° prairie historique permanente : une végétation semi-naturelle consistant en des herbages caractérisés par une utilisation prolongée du sol en tant que pâture, pré de fauche ou pré soumis à un régime alternatif, ayant une valeur culturelle, ou une végétation riche en espèces d'herbes et de graminées, le milieu étant caractérisé par la présence de fossés, rigoles, mares, un micro-relief net, sources ou zones d'infiltration;
+
+6° petits éléments paysagers : éléments ligniformes ou ponctuels, y compris les végétations correspondantes dont l'aspect, la structure ou la nature résultent ou non des activités humaines et qui font partie de la nature, tels que : accotements, arbres, (...), sources, digues, talus broussailleux, bords boisés, haies, chemins creux, vergers de hautes tiges, végétations clôturant les parcelles, fossés, fourrés, mares, abreuvoirs et cours d'eau; &lt;DCFL 2002-07-19/54, art. 2, 004; En vigueur : 10-09-2002&gt;
+
+7° nature : les organismes vivants, leurs habitats, les écosystèmes dont ils font partie et les processus écologiques autonomes s'y rapportant, qu'ils résultent ou non des activités humaines, à l'exclusion des cultures, des animaux agricoles et des animaux domestiques;
+
+8° élément naturel : tout élément distinct contenant de la nature, au sens du présent décret;
+
+9° nature dans l'espace bâti : les éléments naturels et les espèces présents en milieu urbain et bâti;
+
+10° conservation de la nature : la préservation, la restauration et le développement de la nature et du milieu naturel par la protection, le développement et la gestion de la nature et la poursuite de la plus grande diversité biologique possible dans la nature (et d'un état de conservation favorable des habitats et des espèces); &lt;DCFL 2002-07-19/54, art. 2, 004; En vigueur : 10-09-2002&gt;
+
+11° protection de la nature : l'ensemble des mesures visant la conservation de la nature et la lutte contre les effets nocifs des activités humaines;
+
+12° développement de la nature : l'ensemble des mesures visant à créer les conditions pour l'établissement ou la restauration de la nature dans une zone déterminée;
+
+13° gestion de la nature : l'intervention régulatrice et directrice de l'homme dans la nature et dans le milieu naturel, y compris l'abstention consciente, en faveur de la conservation de la nature;
+
+14° qualité de la nature : la contribution que fournit ou peut fournir une zone ou un ou plusieurs éléments naturels distincts, par interaction ou non, à la diversité biologique;
+
+15° milieu naturel : l'ensemble des éléments biotiques et abiotiques, assortis de leurs propriétés et processus spatiaux et écologiques, nécessaires à la conservation de la nature en Région flamande;
+
+16° association de défense de la nature agréée pour la gestion de terrains : une personne morale de droit privé dont le but principal et explicite, prescrit par les statuts, est la conservation et la protection de la nature, qui gère des zones en tant que réserves naturelles et est agréée comme telle, en vertu du présent décret;
+
+17° conservation des espèces : l'ensemble des mesures visant à préserver, restaurer ou développer les populations des espèces et des sous-espèces;
+
+18° [<sup>1</sup> groupe de gestion agréé : une association locale ou régionale de personnes intéressées, agréée par le Gouvernement flamand, qui a pour but la gestion et la protection des éléments naturels ou du milieu naturel au sein d'une certaine zone;]<sup>1</sup>
+
+19° [<sup>2</sup> pesticides :
+
+a) un produit phytopharmaceutique tel que décrit au Règlement (CE) n° 1107/2009 du Parlement européen et du Conseil du 21 octobre 2009 concernant la mise sur le marché des produits phytopharmaceutiques et abrogeant les Directives 79/117/CEE et 91/414/CE du Conseil;
+
+b) un produit biocide tel que décrit à la Directive 98/8/CE du Parlement européen et du Conseil du 16 février 1998 concernant la mise sur le marché des produits biocides, qui définit les produits biocides comme des substances actives et des préparations contenant une ou plusieurs substances actives qui sont présentées sous la forme dans laquelle elles sont livrées à l'utilisateur, qui sont destinées à détruire, repousser ou rendre inoffensifs les organismes nuisibles, à en prévenir l'action ou à les combattre de toute autre manière, par une action chimique ou biologique;]<sup>2</sup>
+
+20° zones humides : des étendues de marais, de fagnes, de tourbières ou d'eau naturelles ou artificielles, permanentes ou temporaires, où l'eau est statique ou courante, douce, saumâtre ou salée, y compris des étendues d'eau marine dont la profondeur à marée basse n'excède pas six mètres;
+
+21° zones humides d'importance internationale : les zones humides désignées conformément à la Convention relative aux zones humides d'importance internationale, faite à Ramsar le 2 février 1971;
+
+22° autorité administrative : la Région flamande, les organismes publics qui en relèvent, les organismes de droit public et de droit privé, les institutions chargées de missions d'utilité publique et les autres autorités soumises à la tutelle administrative de la Région flamande;
+
+23° VEN : réseau écologique flamand;
+
+24° GEN : grande unité de nature;
+
+25° GENO : grande unité de nature en développement;
+
+26° IVON : réseau intégral d'imbrication et d'appui;
+
+27° VLM : " Vlaamse Landmaatschappij " (Société terrienne flamande);
+
+28° (...) &lt;DCFL 2007-12-07/51, art. 60, 011; En vigueur : 14-01-2008&gt;
+
+29° Fonds Mina : Fonds de prévention et d'assainissement en matière d'environnement et de nature, créé par le décret du 23 janvier 1991.
+
+(30 ° dépréciation significative des caractéristiques naturelles d'une zone spéciale de conservation : une dépréciation qui entraîne des conséquences mesurables et démontrables pour les caractéristiques naturelles d'une zone spéciale de conservation, dans la mesure où il existe des conséquences mesurables et démontrables pour l'état de conservation de ou des espèces ou habitats pour lesquels la zone spéciale de conservation est désignée ou pour l'état de conservation de ou des espèces citées à l'annexe III du présent décret, pour autant qu'il s'agisse de la zone spéciale de conservation concernée;
+
+31 ° perturbation significative d'une espèce : une perturbation ayant des conséquences mesurables et démontrables pour l'état de conservation d'une espèce. Les facteurs pouvant être considérés comme tels sont :
+
+\- toute activité qui contribue à la diminution à long terme de la population (taille de la population) de l'espèce concernée du site, ou à une faible diminution susceptible d'empêcher que, par rapport à la situation initiale, l'espèce puisse demeurer un élément viable de l'habitat;
+
+\- toute activité qui contribue à réduire ou à menacer de réduire l'aire de répartition de l'espèce;
+
+\- toute activité qui contribue à diminuer l'étendue de l'espèce du site.
+
+S'il s'agit d'une espèce de l'annexe II ou IV du présent décret, il convient d'évaluer la perturbation à la lumière des contributions des zones spéciales de conservation au contexte global de la (et des) zone(s) spéciale(s) de conservation;
+
+32 ° décret forestier : le décret forestier du 13 juin 1990;
+
+33 ° code de bonne pratique naturelle : directives en matière de gestion de la nature en vue du respect du principe de standstill;
+
+34 ° directive " habitats " : Directive 92/43/CEE du Conseil du 21 mai 1992 concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages;
+
+35 ° parcelle propre à l'habitation : parcelle cadastrale ou parcelles cadastrales qui soit appartiennent à l'habitation pour laquelle un permis est délivré soit à l'étable ou aux étables de l'établissement d'agriculture ou d'élevage tel que visé dans le décret relatif aux engrais, l'étable ou les étables formant un tout ininterrompu; cette parcelle propre à l'habitation est délimitée sur la base d'un emploi spécifique clairement défini ou sur la base d'un élément clairement reconnaissable sur le territoire du site.
+
+36 ° conservation : un ensemble de mesures requises pour maintenir ou rétablir les habitats naturels et les populations d'espèces de faune et de flore sauvages dans un état favorable.
+
+L'état de conservation d'un habitat naturel sera considéré comme favorable lorsque :
+
+\- son aire de répartition naturelle ainsi que les superficies qu'il couvre au sein de cette aire sont stables ou en extension;
+
+\- la structure et les fonctions spécifiques nécessaires à son maintien à long terme existent et sont susceptibles de perdurer dans un avenir prévisible;
+
+\- l'état de conservation des espèces qui lui sont typiques est favorable.
+
+L'état de conservation d'un habitat naturel sera considéré comme favorable lorsque :
+
+\- les données relatives à la dynamique de la population de l'espèce en question indiquent que cette espèce continue et est susceptible de continuer à long terme à constituer un élément viable des habitats naturels auxquels elle appartient;
+
+\- l'aire de répartition naturelle de l'espèce ne diminue ni ne risque de diminuer dans un avenir prévisible;
+
+\- il existe et il continuera probablement d'exister un habitat suffisamment étendu pour que ses populations se maintiennent à long terme;
+
+37 ° décret relatif aux engrais : décret du 23 janvier 1991 relatif à la protection de l'environnement contre la pollution due aux engrais;
+
+38 ° caractéristiques naturelles d'une zone spéciale de conservation : l'ensemble d'éléments biotiques et abiotiques, ainsi que leurs caractéristiques et processus spatiaux et écologiques requis pour la conservation :
+
+a) des habitats naturels et des habitats des espèces pour lesquelles la zone de protection spéciale concernée est désignée et
+
+b) les espèces citées à l'annexe III;
+
+39 ° plan directeur de la nature : un plan qui désigne un projet visant un site en particulier sur le plan de la préservation de la nature et dans le cadre duquel les instruments et les mesures, conformes ou non au projet, sont prises pour réaliser les objectifs visés sur le plan de la préservation de la nature. Le plan est élaboré et exécuté avec la collaboration des propriétaires ou des utilisateurs du sol;
+
+40 ° plan ou programme : un document dans lequel sont annoncés les projets politiques, développements politiques ou activités de grande échelle, qu'ils soient publics, privés ou mixtes, et qui est élaboré et arrêté, modifié ou revu sur initiative ou sous le contrôle de la Région flamande, des provinces, des intercommunales, des associations de coopération intercommunale et/ou des communes, et/ou de l'autorité fédérale, ou pour lequel il est prévu un cofinancement par la Communauté européenne ou par la Région flamande ou la Communauté flamande dans le cadre de la coopération internationale, pour autant que le plan ou programme entrepris puisse avoir des incidences considérables sur l'environnement et la sécurité dans le territoire de la Région flamande;
+
+41 ° directive " évaluation des incidences d'un plan " : Directive 2001/42/CE du Parlement européen et du Conseil du 27 juin 2001 relative à l'évaluation des incidences de certains plans et programmes sur l'environnement;
+
+42 ° directive " évaluation des incidences d'un projet " : Directive 85/337/CEE du Conseil du 27 juin 1985 concernant l'évaluation des incidences de certains projets publics et privés sur l'environnement;
+
+43 ° [<sup>3</sup> zone spéciale de conservation :
+
+a) site désigné par le Gouvernement flamand en application de l'article 4 de la directive " oiseaux " ;
+
+b) site désigné par la Région wallonne, la Région de Bruxelles-Capitale ou un autre Etat membre de l'Union européenne en application de l'article 4 de la directive " oiseaux " ;
+
+c) site désigné par le Gouvernement flamand en application de l'article 4, quatrième alinéa de la directive habitats ou, en attendant cette désignation, site qui a été arrêté définitivement par le Gouvernement flamand en application de la directive habitats, conformément à l'article 36bis, § 6, du présent décret ou qui est réputé avoir été arrêté définitivement en application de l'article 36bis, § 12, du présent décret ;
+
+d) site désigné par la Région wallonne ou la Région de Bruxelles-Capitale ou par un autre Etat membre de l'Union européenne en application de l'article 4, quatrième alinéa de la directive habitats ou, en attendant cette désignation, site qui est proposé par l'une des deux Régions ou par un autre Etat membre, en application de l'article 4, premier alinéa de la directive habitats, qui est déclaré d'importance communautaire par la Commission européenne en application de l'article 4, deuxième alinéa de la directive habitats ;]<sup>3</sup>
+
+44 ° état de conservation d'un habitat : l'effet de l'ensemble des influences agissant sur un habitat naturel ainsi que sur les espèces typiques qu'il abrite, qui peuvent affecter à long terme sa répartition naturelle, sa structure et ses fonctions ainsi que la survie à long terme de ses espèces typiques dans la Région flamande;
+
+45 ° état de conservation d'une espèce : l'effet de l'ensemble des influences qui, agissant sur l'espèce, peuvent affecter à long terme la répartition et l'importance de ses populations en Région flamande;
+
+46 ° activité soumise à autorisation : une activité qui, en vertu d'une loi, d'un décret ou d'un arrêté, exige une autorisation, une permission ou un mandat;
+
+47 ° [<sup>3</sup> directive oiseaux : Directive 2009/147/CE du Parlement européen et du Conseil du 30 novembre 2009 concernant la conservation des oiseaux sauvages ;]<sup>3</sup>
+
+48 ° décret de modification (...) : décret du (...) modifiant le décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, le décret forestier du 13 juin 1990, le décret du 16 avril 1996 portant la protection des sites ruraux, du décret du 21 décembre 1988 portant création d'une "Vlaamse Landmaatschappij", la loi du 22 juillet 1970 relative au remembrement légal de biens ruraux en vertu de la loi telle que complétée par la loi du 11 août 1978 portant dispositions particulières pour la région flamande, le décret du 23 janvier 1991 relatif à la protection de l'environnement contre la pollution due aux engrais et la loi relative à la police de la circulation routière, coordonnée par arrêté royal du 16 mars 1968.) &lt;DCFL 2002-07-19/54, art. 2, 004; En vigueur : 10-09-2002&gt;
+
+(49° "La Banque foncière flamande : la division de la Société terrienne flamande, créée conformément au décret du 16 juin 2006 portant création d'une "Vlaamse Grondenbank" (Banque foncière flamande) et portant modification de diverses dispositions.) &lt;DCFL 2006-06-16/53, art. 33, 009; En vigueur : 01-08-2007&gt;
+
+[<sup>5</sup> 50° objectif naturel : un habitat, un écosystème ou un type de paysage qui est avancé comme objectif écologique dans un plan de gestion de la nature ;
+
+51° valeurs naturelles potentielles : la présence de l'environnement naturel pour la réalisation d'un objectif naturel ;
+
+52° bois : une surface couverte, telle que visée à l'article 3, § 1er et § 2, du décret forestier du 13 juin 1990 à l'exclusion des surfaces visées à l'article 3, § 3, dudit décret ;
+
+53° terrain privé : un terrain qui appartient à une personne physique ou à une personne morale de droit privé ;
+
+54° terrain public : un terrain qui appartient en propriété ou en copropriété à une personne morale de droit public ;
+
+55° domaine naturel : un terrain géré par l'agence ;
+
+56° gestionnaire d'un terrain : le propriétaire ou copropriétaire, le titulaire d'autres droits réels ou le titulaire d'un droit personnel chargé de la gestion d'un terrain ;
+
+57° voies publiques : les voies qui ont reçu une destination de voie publique, plus précisément les voies que l'autorité administrative elle-même a destinées à cet effet et les voies qui sont grevées d'une servitude de passage de droit public à la suite de la prescription trentenaire ;
+
+58° voies privées : les voies d'accès privées ou les voies qui sont utilisées par le public mais ne sont pas grevées d'une servitude de passage de droit public par prescription ;
+
+59° déboisement : toute opération par laquelle un bois disparaît en tout ou en partie et une autre destination ou un autre usage est donné au terrain ;]<sup>5</sup>
+
+[<sup>4</sup> 60° agence : l'" Agentschap voor Natuur en Bos " (Agence pour la Nature et les Forêts) créée par l'arrêté du Gouvernement flamand du 23 décembre 2005 portant création de l'agence autonomisée interne sans personnalité juridique " Agentschap voor Natuur en Bos " ;
+
+61° objectifs de conservation : les objectifs régionaux de conservation ou les objectifs de conservation pour une zone spéciale de conservation en Région flamande ;
+
+62° habitats à protéger au niveau européen : les types d'habitats mentionnés à l'annexe Ier du présent décret ;
+
+63° espèces à protéger au niveau européen : les espèces visées aux annexes II, III et IV du présent décret et les oiseaux migrateurs dont la venue sur le territoire de la Région flamande est régulière et qui ne sont pas mentionnés à l'annexe IV du présent décret ;
+
+64° objectifs régionaux de conservation : les indications relatives à l'amélioration ou la conservation visant à conserver, à restaurer ou à développer un état de conservation favorable au niveau flamand des habitats ou des espèces à protéger au niveau européen qui se trouvent régulièrement sur le territoire de la Région flamande ;
+
+65° objectifs de conservation pour une zone spéciale de conservation : les indications relatives à l'amélioration ou la conservation d'habitats à protéger au niveau européen ou de populations d'espèces à protéger au niveau européen et de leurs habitats pour lesquels le site à protéger au niveau européen a été demandé ou qui se trouvent dans le site à protéger au niveau européen ;
+
+66° mesures de conservation : les plans ou programmes d'obligations ou d'interdictions et d'autres actions visant à conserver, à restaurer ou à développer les habitats à protéger au niveau européen ou les populations des espèces à protéger au niveau européen et leurs habitats ;
+
+67° espèce indigène : une espèce de nature sauvage vivant ou ayant vécu dans la Région flamande, ou qui s'y est intégrée depuis longtemps ;
+
+68° programme de protection des espèces : un programme de mesures de maintien d'espèces qui est notamment axé sur la réalisation d'un niveau favorable de maintien d'une espèce indigène ou d'un groupe d'espèces dans la zone à laquelle le programme s'applique ;
+
+69° version du plan : l'une des versions successives d'un plan de gestion Natura 2000 ;
+
+70° zone de recherche : une zone qui indique par espèce à protéger au niveau européen et par habitat à protéger au niveau européen le périmètre qui est préservé en vue du placement optimal des objectifs de conservation pour la zone spéciale de conservation concernée. L'étendue de la zone de recherche est déterminée par la superficie nécessaire pour la réalisation du solde résiduel des tâches pour l'habitat à protéger au niveau européen ou l'espèce à protéger au niveau européen concernés.[<sup>7</sup> Ce solde représente la différence entre la superficie de l'habitat européen ou de l'habitat d'espèces européennes à protéger, déterminée dans les objectifs de conservation d'une zone de protection spéciale, et la superficie pour laquelle la gestion appropriée a été établie dans des plans de gestion de la nature approuvés, tels que visés à l'article 16octies du présent décret, ou dans des plans comparables ou des accords similaires dans lesquels une gestion appropriée a été établie ; ]<sup>7</sup> ;
+
+71° rayon d'action : une zone qui est arrêtée, sur la base d'incidences pertinentes sur l'environnement, pour la réalisation des tâches relatives à l'état du milieu naturel pour la zone spéciale de conservation concernée.]<sup>4</sup>
+
+[<sup>6</sup> 72° permis d'environnement pour la modification de la végétation : le permis d'environnement pour la modification de la végétation ou pour la modification en tout ou en partie de petits éléments paysagers ou de leur végétation.]<sup>6</sup>
+
+[<sup>8</sup> 73° décret du 28 mars 2014 : le décret du 28 mars 2014 relatif à la rénovation rurale.]<sup>8</sup>
+
+[<sup>7</sup> 74° dépôt d'azote : l'apport d'azote atmosphérique sur des surfaces telles que le sol, l'eau et la végétation. Le dépôt d'azote provient directement de l'air (dépôt sec) de même qu'il se forme par l'intermédiaire de la pluie, de la neige et de la grêle (dépôt humide) ;
+
+75° habitats sensibles à l'azote : types d'habitats dont la qualité est altérée sous les effets des dépôts d'azote.]<sup>7</sup>
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 47, 013; En vigueur : 14-02-2009&gt;
+
+(2)&lt;DCFL 2012-04-20/11, art. 34, 021; En vigueur : 01-06-2012&gt;
+
+(3)&lt;DCFL 2014-05-09/10, art. 2,1° - 2,4°, 025; En vigueur : 17-07-2014&gt;
+
+(4)&lt;DCFL 2014-05-09/10, art. 2,5°, 025; En vigueur : 17-07-2014&gt;
+
+(5)&lt;DCFL 2014-05-09/10, art. 2,5°, 025; En vigueur : 28-10-2017&gt;
+
+(6)&lt;DCFL 2017-12-08/06, art. 4, 032; En vigueur : 01-08-2018&gt;
+
+(7)&lt;DCFL 2024-01-26/27, art. 65, 042; En vigueur : 23-02-2024&gt;
+
+(8)&lt;DCFL 2023-05-26/06, art. 34, 043; En vigueur : 15-04-2024&gt;
+
+## CHAPITRE II. - Structures officielles en matière de politique de la nature.
+
+### Section 1.
+
+&lt;Abrogé par DCFL 2004-04-30/45, art. 39, 005; En vigueur : 01-09-2009&gt;
+
+##### Art. 3
+
+&lt;Abrogé par DCFL 2004-04-30/45, art. 39, 005; En vigueur : 01-09-2009&gt;
+
+##### Art. 4
+
+&lt;Abrogé par DCFL 2004-04-30/45, art. 39, 005; En vigueur : 01-09-2009&gt;
+
+### Section 2. - L'Institut de la Conservation de la nature.
+
+##### Art. 5
+
+(l'Instituut voor Natuur- en Bosonderzoek (Institut de Recherche des Forêts et de la Nature)), ci-après dénommé l'institut, s'acquitte pour le Gouvernement flamand des missions suivantes : &lt;DCFL 2007-12-07/51, art. 61, 011; En vigueur : 14-01-2008&gt;
+
+1° faire des études et des recherches scientifiques appropriées portant sur la conservation de la nature et le milieu naturel;
+
+2° assister le [<sup>1</sup> Conseil MiNa]<sup>1</sup> dans l'accomplissement de ses missions;
+
+3° prêter son concours à l'établissement du plan de la nature;
+
+4° dresser le rapport sur la nature, tel que visé à l'article 10.
+
+----------
+
+(1)&lt;DCFL 2004-04-30/45, art. 40, 005; En vigueur : 01-09-2009&gt;
+
+## CHAPITRE III. - Objectifs et planification de la politique de la nature.
+
+### Section 1. - Objectifs généraux de la politique de la nature.
+
+##### Art. 6
+
+Sans préjudice des dispositions du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, la politique en matière de conservation de la nature et de préservation du milieu naturel vise la protection, le développement, la gestion et la restauration de la nature et du milieu naturel, le maintien ou la restauration de la qualité environnementale requise à cet effet et la création d'une base sociale aussi large que possible, l'éducation et l'information de la population en matière de conservation de la nature étant encouragée.
+
+##### Art. 7
+
+&lt;DCFL 2002-07-19/54, art. 3, 004; En vigueur : 10-09-2002&gt; La politique visée à l'article 6 vise à prendre toutes les mesures nécessaires à l'exécution des conventions et traités internationaux concernant la conservation de la nature ou des actes concernant la conservation de la nature, y compris des directives européennes, arrêtées sur la base des traités internationaux.
+
+[<sup>1</sup> En vue de la mise en place des mesures visées au premier alinéa, le Gouvernement flamand est autorisé à modifier les annexes Ire, II, III et IV au présent décret en raison d'un des motifs suivants, selon leur application :
+
+1° ou bien, suite à l'adaptation au progrès technique et scientifique, visée à l'article 15 de la Directive " oiseaux " ou à l'article 19 de la Directive " habitats ";
+
+2° ou bien, en raison des constatations de fait effectuées dans le Rapport sur la Nature visé à l'article 10, concernant tant les espèces d'oiseaux visées à l'annexe Ire de la Directive " oiseaux ", que les habitats de l'annexe Ire de la Directive " habitat " ou les espèces de plantes et d'animaux de l'annexe II ou IV de la même directive;
+
+3° ou bien, au vu des constatations de fait opérées dans le rapport en exécution de l'article 17.1 de la Directive " habitat.]<sup>1</sup>
+
+Sans préjudice des dispositions de l'alinéa premier, les mesures prises en exécution de la directive "oiseaux" et "habitats" tiennent compte des exigences économiques, sociales et culturelles, ainsi que des particularités régionales et locales.
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 48, 013; En vigueur : 14-02-2009&gt;
+
+##### Art. 8
+
+Le Gouvernement flamand prend toutes les mesures nécessaires pour compléter la réglementation existante afin de préserver, sur tout le territoire de la Région flamande, la qualité environnementale requise pour la conservation de la nature et d'appliquer le principe du standstill, à la fois pour la qualité et la quantité naturelles.
+
+[<sup>1</sup> Ce principe de standstill est d'application également après l'expiration du délai de chaque plan de gestion lorsque la réalisation des objectifs et mesures de gestion d'un plan de gestion de la nature tel que visé à l'article 16octies ou l'exécution des plans de gestion dans le cadre ou en exécution du présent décret ou du décret forestier du 13 juin 1990 conduit à une qualité supérieure de la nature.]<sup>1</sup>
+
+----------
+
+(1)&lt;Deuxième alinéa inséré par DCFL 2014-05-09/10, art. 77, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 9
+
+&lt;DCFL 2002-07-19/54, art. 4, 004; En vigueur : 10-09-2002&gt; § 1er [<sup>1</sup> Les mesures visées aux articles 8, 13, 36ter, §§ 1er, 2 et 5, deuxième alinéa, et au chapitre VI, ne peuvent imposer des restrictions absolues ni interdire ou rendre impossible des actions conformes aux plans d'aménagement ou aux plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire, ni empêcher la réalisation de ces plans et de leurs prescriptions d'affectation, à moins que ces mesures, pour ce qui est de l'article 36ter, §§ 1er et 2, soient fixées dans un plan directeur de la nature adopté [<sup>5</sup> , un plan de gestion Natura 2000 ou, le cas échéant, une version du plan de celui-ci ou un plan de gestion]<sup>5</sup> , ou, pour ce qui est du chapitre VI du présent décret, ces mesures concernent, en vertu de l'article 7 du présent décret, la protection requise des espèces mentionnées dans les annexes II, III et IV au présent décret.]<sup>1</sup>
+
+Les mesures visées à l'alinéa premier visent la préservation de la nature et peuvent comprendre entre autres la protection de la nature et des éléments naturels existants tels que habitats, chemins creux, bords boisés, mares, zones humides, bruyères et prairies historiques permanentes, quelle que soit la localisation de la nature et des éléments naturels.
+
+Les mesures énoncées à l'alinéa premier ne peuvent réglementer l'exploitation agricole et le plan de culture dans les zones agricoles, les zones agricoles d'intérêt paysager, les zones vallonnées, les zones de sources, les zones agricoles d'intérêt écologique ou de valeur écologique, des zones agricoles d'intérêt particulier et des zones de destination comparables à l'une de ces zones, figurant sur les plans d'aménagement ou sur les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire, sauf dans les cas suivants :
+
+1 ° pour l'application des mesures visées à l'article 36ter §§ 1er et 2;
+
+2 ° dans le cadre du VEN;
+
+3 ° en ce qui concerne les prairies historiques permanentes situées dans :
+
+\- les zones vallonnées, les zones de sources, les zones agricoles d'intérêt écologique ou de valeur écologique, des zones agricoles d'intérêt particulier et des zones à destination spatiale comparables à l'une de ces zones, figurant sur les plans d'aménagement ou sur les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire;
+
+\- l'IVON;
+
+\- les zones dunaires désignées en vertu de l'article 52 de la loi du 12 juillet 1973 sur la conservation de la nature, inséré par décret du 14 juillet 1993 portant des mesures de protection des dunes côtières;
+
+\- les sites délimités suivant ou en exécution de conventions et traités internationaux concernant la conservation de la nature, en ce comprises des directives européennes, arrêtées sur la base des traités internationaux;
+
+[<sup>3</sup> 3°bis en ce qui concerne les prairies historiques permanentes, [<sup>4</sup> fixées définitivement]<sup>4</sup> conformément à l'article 9bis ;]<sup>3</sup>
+
+[<sup>1</sup> 4° pour l'exécution des mesures qui, en vertu de l'article 7 du présent décret, concernent la protection requise des espèces mentionnées aux annexes II, III et IV du décret.]<sup>1</sup>
+
+§ 2. Sauf disposition contraire, les mesures visées à l'article 13, § 1er, l'article 25, § 1er, alinéa premier, l'article 28, § 1er, l'article 36ter , §§ 1er et 2, l'article 48, § 3 [<sup>5</sup> , article 50octies, § 5, alinéas 2 et 3,]<sup>5</sup> et l'article 51 peuvent :
+
+1° tendre à stimuler des mesures sur le plan de la conservation de la nature et la conservation des espèces;
+
+2° interdire l'exécution d'une activité;
+
+3° imposer des conditions à une activité;
+
+4° imposer des injonctions à une autorité;
+
+5° comporter l'obligation pour une autorité, de prendre les mesures sur le plan de la gestion de la nature pour des terrains et cours d'eau dont cette dernière est propriétaire, qu'elle utilise ou gère.
+
+Les mesures visées à l'article 13, § 1er, l'article 25, § 1er, alinéa premier, l'article 28, § 1er, l'article 36ter , §§ 1er et 2 et l'article 51 peuvent également :
+
+1 ° subordonner une activité à l'obtention d'une autorisation, d'une permission ou d'un mandat écrit préalable;
+
+2 ° soumettre une activité à une déclaration ou une notification écrites préalables;
+
+Le Gouvernement flamand ou ses fonctionnaires peut également, moyennant indemnité, imposer des injonctions, qu'elles s'inscrivent ou non dans un plan directeur de la nature [<sup>5</sup> , un plan de gestion Natura 2000 ou, le cas échéant, une version du plan de celui-ci]<sup>5</sup> , à des propriétaires ou utilisateurs de sol particuliers dans :
+
+1° le VEN
+
+2° une zone spéciale de conservation pour autant que cela concerne des mesures telles que visées à l'article 36ter , §§ 1er et 2;
+
+3° les autres sites délimités suivant ou en exécution de conventions et traités internationaux concernant la conservation de la nature, ou d'actes concernant la conservation de la nature en ce comprises des directives européennes, arrêtées sur la base des traités internationaux.
+
+Le Gouvernement flamand peut établir des règles plus précises en matière d'imposition d'injonctions aux propriétaires ou utilisateurs de sol particuliers et matière d'indemnité à cet égard.
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 49, 013; En vigueur : 14-02-2009&gt;
+
+(2)&lt;DCFL 2014-05-09/10, art. 78, 025; En vigueur : 17-07-2014&gt;
+
+(3)&lt;DCFL 2014-05-09/10, art. 79, 025; En vigueur : 08-01-2016 (AGF 2015-11-27/19, art. 4)&gt;
+
+(4)&lt;DCFL 2015-12-18/24, art. 41, 027; En vigueur : 08-01-2016&gt;
+
+(5)&lt;DCFL 2017-01-27/08, art. 13, 029; En vigueur : 06-02-2017&gt;
+
+##### Art. 9bis
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Pour la protection des prairies historiques permanentes, mentionnées à l'article 9, § 1er, troisième alinéa, 3° bis, le Gouvernement flamand arrête provisoirement un projet de carte basé sur des critères scientifiques sur la base d'une proposition de l'Institut.]<sup>2</sup>
+
+§ 2. Le Gouvernement flamand peut arrêter les modalités relatives aux procédures à suivre [<sup>2</sup> ainsi qu'à la composition et au fonctionnement de la commission de vérification]<sup>2</sup>.
+
+§ 3. Le Gouvernement flamand soumet le projet de carte à une enquête publique qui est annoncée dans les 60 jours qui suivent sa fixation provisoire par affichage dans chaque commune à laquelle se rapporte en tout ou en partie le projet de plan, par un avis au Moniteur belge et dans au moins trois quotidiens qui sont diffusés dans la région.
+
+Cette annonce mentionne au moins :
+
+1° les communes auxquelles se rapporte le projet de carte ;
+
+2° où le projet de carte peut être consulté ;
+
+3° les dates de début et de fin de l'enquête publique ;
+
+4° l'adresse à laquelle doivent parvenir les remarques visées au [<sup>2</sup> paragraphe 5]<sup>2</sup>.
+
+§ 4. Après l'annonce, le projet de carte peut être consulté pendant 60 jours à l'hôtel de ville de chaque commune concernée.
+
+§ 5. Les remarques sont transmises à l'Institut au plus tard le dernier jour du délai de l'enquête publique par lettre recommandée à la poste ou remises contre accusé de réception. Les remarques peuvent seulement porter sur le fait qu'une prairie historique permanente, désignée provisoirement, satisfait ou non aux critères scientifiques visés au paragraphe 1er.
+
+§ 6. La commission de vérification examine toutes les remarques quant à leur exactitude scientifique et rend un avis motivé au Gouvernement flamand dans les 90 jours qui suivent la fin de l'enquête publique.
+
+§ 7. Dans les 210 jours qui suivent la date du début de l'enquête publique, le Gouvernement flamand arrête définitivement la carte des prairies historiques permanentes et détermine pour quelles prairies s'applique une interdiction de modification de la végétation ou [<sup>3</sup> un permis d'environnement pour la modification de la végétation]<sup>3</sup>.
+
+L'arrêté portant fixation définitive de la carte des prairies historiques permanentes est publié par extrait au Moniteur belge dans les 30 jours qui suivent la fixation définitive.
+
+La carte fixée définitivement des prairies historiques permanentes entre en vigueur 14 jours après sa publication.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 80, 025; En vigueur : 22-09-2014 (voir DCFL 2014-05-23/20, art. 72)&gt;
+
+(2)&lt;DCFL 2015-12-18/24, art. 42, 027; En vigueur : 09-01-2016&gt;
+
+(3)&lt;DCFL 2017-12-08/06, art. 5, 032; En vigueur : 01-08-2018&gt;
+
+### Section 2. - Du rapport de la nature.
+
+##### Art. 10
+
+§ 1er. Le rapport de la nature est établi comme un rapport scientifique dans le cadre [<sup>1</sup> des rapports visés]<sup>1</sup> à l'article 2.1.3. du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement. Bien qu'identifiable, il en fait partie intégrante.
+
+Il fait également office d'inventaire visé à l'article 7 de la Convention sur la diversité biologique, signée à Rio de Janeiro le 5 juin 1992 et approuvée par le décret du 28 mars 1996.
+
+§ 2. Le rapport de la nature contient notamment :
+
+1° une description et une évaluation de la nature existante en Région flamande;
+
+2° l'évolution escomptée de la nature en cas de politique inchangée et sur base des orientations politiques définies par le Gouvernement flamand;
+
+3° l'évaluation de la politique antérieure, la délimitation du VEN et de l'IVON faisant l'objet d'un rapport explicite - l'état d'avancement des plans directeurs de la nature, tels que visés aux articles 17 et 27 du présent décret.
+
+§ 3. Le rapport de la nature est établi par l'institut.
+
+A l'établissement du rapport de la nature, sont associés l'autorité administrative, les organes publics pertinents, les organismes et organisations scientifiques représentés dans le Conseil Mina;
+
+§ 4. L'autorité administrative met à la disposition de l'institut, soit sur simple demande de celui-ci, soit d'initiative, toutes informations et connaissances dont elle dispose et qui peuvent être utiles à l'établissement du rapport de la nature.
+
+§ 5. Le Gouvernement flamand peut arrêter les modalités relatives au contenu complémentaire du rapport de la nature, la procédure de son établissement, sa publication et son usage.
+
+----------
+
+(1)&lt;DCFL 2020-12-04/08, art. 11, 037; En vigueur : 01-01-2021&gt;
+
+### Section 3. - Du plan de la nature.
+
+##### Art. 11
+
+§ 1er. Le Gouvernement flamand arrête un plan général de la nature pour la conservation de la nature et la préservation du milieu naturel.
+
+Le plan de la nature est un plan d'action qui s'inscrit dans le cadre du plan d'environnement visé à l'article 2.1.7. et 2.1.11. du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement. Le Gouvernement flamand détermine les parties du plan de la nature qui sont contraignantes pour l'autorité administrative.
+
+Le plan de la nature peut être revu à tout moment, en tout ou en partie, par le Gouvernement flamand.
+
+§ 2. Sans préjudice des dispositions de l'article 2.1.7. et 2.1.11. du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, le plan de la nature contient les plans partiels suivants :
+
+1° [<sup>1</sup> le plan partiel pour la politique zonale. Ce plan partiel comprend :
+
+(1) une concrétisation de la politique zonale s'inscrivant dans le cadre de la politique de l'aménagement du territoire;
+
+(2) une concrétisation du VEN et de l'IVON dans les catégories zonales respectives;
+
+(3) une anticipation du rythme et de la situation des plans directeurs de la nature dans la période de plan en question;
+
+(4) le plan partiel peut également contenir des propositions et des actions pour la promotion de petits éléments paysagers, de zones d'espaces verts et de zones forestières, conformément aux plans d'exécution d'application dans le cadre de l'aménagement du territoire, hors du VEN et de l'IVON, pour la nature dans l'espace bâti et pour la qualité générale de la nature;]<sup>1</sup>
+
+2° un plan partiel concernant la relation entre les objectifs nature et la qualité de l'environnement dans le VEN et dans les zones d'espaces verts, les zones de parcs, les zones-tampons et les zones forestières dans le cadre des plans d'exécution d'application dans le cadre de l'aménagement du territoire et contenant les objectifs, mesures, et au besoin, les normes spéciales de qualité environnementale relatives aux caractéristiques chimiques, physiques, morphologiques et hydrologiques du milieu naturel en relation avec les types-cibles de la nature;
+
+3° un plan partiel pour la conservation des espèces précisant les objectifs et les mesures en matière de protection des organismes vivants.
+
+Ce plan peut comporter des plans pour la protection d'espèces avec indication des zones auxquelles ils s'appliqueront;
+
+4° un plan partiel pour la politique des groupes-cibles. Celle-ci définit la nature des groupes-cibles ainsi que les objectifs s'y rapportant, les initiatives en matière d'éducation et d'information et les mesures d'encouragement;
+
+5° un plan partiel concernant l'assistance prêtée aux pouvoirs provinciaux et locaux.
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 50, 013; En vigueur : 14-02-2009&gt;
+
+##### Art. 12
+
+[<sup>1</sup> Le projet de plan de la nature est soumis à la même procédure d'avis que la procédure prévue aux articles 2.1.9 à 2.1.11 inclus du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2004-04-30/45, art. 41, 005; En vigueur : 01-09-2009&gt;
+
+## CHAPITRE IIIbis. [<sup>1</sup> - Gestion intégrée au profit de la conservation de la nature]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 3, 025; En vigueur : 28-10-2017&gt;
+
+### Section 1re. [<sup>1</sup> - Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2014-05-09/10, art. 4, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 12bis
+
+[<sup>1</sup> La gestion des terrains au profit de la conservation de la nature aspire à une gestion intégrée qui tient compte de la fonction écologique, économique et sociale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 5, 025; En vigueur : 28-10-2017&gt;
+
+### Section 2. [<sup>1</sup> - La fonction écologique]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2014-05-09/10, art. 6, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 12ter
+
+[<sup>1</sup> La fonction écologique porte notamment sur :
+
+1° le rôle d'un terrain dans le cadre de la conservation de la nature et dans le cadre du souci de la préservation de la diversité biologique ;
+
+2° le rôle protecteur de l'environnement d'un terrain qui est géré au profit de la conservation de la nature.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 7, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 12quater
+
+[<sup>1</sup> Le souci de la fonction écologique d'un terrain est notamment réalisé par :
+
+1° l'exercice d'une gestion adéquate pour la réalisation des objectifs naturels souhaités ;
+
+2° le souci de la préservation de la diversité biologique, notamment par la promotion de la conservation de populations d'espèces végétales et animales indigènes, y compris la conservation de leurs habitats ;
+
+3° la conservation du milieu naturel, y compris un bilan hydrologique favorable pour les valeurs naturelles ;
+
+4° l'exercice d'une gestion axée sur la lutte contre toutes les influences externes néfastes sur la nature et le milieu naturel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 8, 025; En vigueur : 28-10-2017&gt;
+
+### Section 3. [<sup>1</sup> - La fonction économique]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2014-05-09/10, art. 9, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 12quinquies
+
+[<sup>1</sup> La fonction économique d'un terrain qui est géré au profit de la conservation de la nature consiste notamment en une utilisation optimale de services d'écosystèmes, dont la production durable de biens ou services qui peuvent être réalisés dans ce terrain.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 10, 025; En vigueur : 28-10-2017&gt;
+
+### Section 4. [<sup>1</sup> - La fonction sociale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 11, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 12sexies
+
+[<sup>1</sup> La fonction sociale d'un terrain qui est géré au profit de la conservation de la nature porte notamment sur :
+
+1° le vécu et l'éducation à la nature ;
+
+2° l'accessibilité du terrain à des fins récréatives ;
+
+3° le rôle du terrain pour la protection générale des sites ruraux et la gestion du patrimoine immobilier ;
+
+4° le rôle du terrain pour la recherche scientifique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 12, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 12septies
+
+[<sup>1</sup> § 1er. Les terrains suivants sont accessibles aux piétons sur les voies publiques et privées :
+
+1° un terrain public qui est géré au profit de la conservation de la nature ;
+
+2° un bois ;
+
+3° un terrain qui est géré au profit de la conservation de la nature et qui a été acheté ou sur lequel un droit réel ou personnel a été acquis, dans les deux cas avec l'intervention financière de l'autorité administrative en exécution du présent décret.
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, les domaines naturels sont accessibles aux piétons sans restriction.]<sup>2</sup>
+
+Sont assimilés à des piétons les usagers de chaise roulante et les cyclistes de moins de 9 ans.
+
+§ 2. Un terrain, tel que visé au paragraphe 1er, [<sup>2</sup> alinéas 1er et 2]<sup>2</sup>, peut être rendu totalement ou partiellement inaccessible par le gestionnaire, à l'exception des voies publiques. L'inaccessibilité peut être de durée déterminée ou indéterminée et peut porter sur une ou plusieurs catégories d'utilisateurs.
+
+Dans un terrain public qui est géré au profit de la conservation de la nature, le gestionnaire peut également rendre inaccessibles les voies publiques moins importantes. Sont considérées comme des voies publiques moins importantes : toutes les voies publiques ou parties de voie publique, à l'exception des voies publiques qui sont aménagées pour le trafic motorisé ordinaire et qui sont principalement destinées comme voie de passage.
+
+Dans un terrain public qui est géré au profit de la conservation de la nature ou dans un terrain qui est acquis avec l'intervention financière d'une autorité administrative en exécution du présent décret, l'inaccessibilité, visée aux premier et deuxième alinéas, ne peut être instituée que dans les cas suivants :
+
+1° lorsqu'elle est reprise dans une réglementation d'accès approuvée, telle que visée à l'article 12octies ;
+
+2° lorsqu'elle est nécessaire à la sécurité publique, par exemple en cas de risque d'incendie, de tempête ou d'autres situations dangereuses ;
+
+3° lorsqu'elle est nécessaire pour la protection des espèces végétales et animales indigènes ;
+
+4° lorsque des travaux de gestion au cours desquels la sécurité des visiteurs ne peut être garantie sont effectués ;
+
+5° lorsque des activités de chasse et de lutte sont organisées conformément à la réglementation en matière de chasse ou à la réglementation en matière de gestion des espèces.
+
+L'inaccessibilité est indiquée d'une manière clairement visible. Le Gouvernement flamand arrête les modalités pour l'indication de l'inaccessibilité dans les terrains, comme indiqué au paragraphe 1er, premier et deuxième alinéas.
+
+Dans les terrains de type deux, trois ou quatre, visés à l'article 16ter, § 1er, pour lesquels un plan de gestion de la nature a été approuvé conformément à l'article 16octies, une accessibilité minimale est d'application. Cela signifie qu'une inaccessibilité complète ne peut être instaurée pour un tel terrain, comme indiqué dans les premier et deuxième alinéas.
+
+§ 3. L'admission d'autres catégories d'usagers de la route que des piétons ou la limitation de l'accès sont constatées dans une réglementation d'accès approuvée, comme indiqué à l'article 12octies.
+
+§ 4. Le Gouvernement flamand peut arrêter des règles pour les terrains visés au paragraphe 1er, premier alinéa, dans la mesure où elles ne menacent pas la qualité naturelle du terrain et n'empêchent pas l'exercice des différentes fonctions et dans les conditions qu'il détermine pour :
+
+1° abandonner les voies publiques et privées dans certaines zones ou pour certaines activités ;
+
+2° utiliser les voies privées et les voies publiques moins importantes, visées au paragraphe 2, pour des activités à risques, par l'obtention d'une autorisation. Par activités à risques, il faut entendre les activités qui, par leur nature ou leur portée, peuvent porter préjudice à la faune, à la flore ou aux tiers ;
+
+3° autoriser les animaux domestiques.
+
+Le Gouvernement flamand détermine les catégories d'autres usagers que les piétons qui, à certaines conditions, peuvent avoir accès à un terrain visé au paragraphe 1er, premier alinéa. L'accessibilité à d'autres catégories d'utilisateurs que les piétons est indiquée d'une manière clairement visible. Le Gouvernement flamand peut fixer les modalités pour l'indication de l'accessibilité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 13, 025; En vigueur : 28-10-2017&gt;
+
+(2)&lt;DCFL 2018-06-22/17, art. 4, 034; En vigueur : 02-08-2018&gt;
+
+##### Art. 12octies
+
+[<sup>1</sup> § 1er. L'accessibilité d'un terrain, telle que visée à l'article 12septies, § 1er, [<sup>2</sup> alinéas 1er et 2]<sup>2</sup>, est constatée dans une réglementation d'accès. Cette réglementation ne peut être contraire au contenu du plan de gestion de la nature ou au dispositions du présent décret.
+
+Dans les cas suivants, il ne faut pas arrêter de réglementation d'accès :
+
+1° Dans un terrain tel que visé à l'article 12septies, § 1er, premier alinéa, où l'accessibilité reste limitée à l'octroi d'un passage pour les piétons sur les voies publiques et privées, comme indiqué à l'article 12septies, § 1er ;
+
+2° dans un terrain privé tel que visé à l'article 12septies, § 1er, premier alinéa où le terrain est rendu inaccessible, comme indiqué à l'article 12septies, § 2, premier alinéa;
+
+[<sup>2</sup> 3° dans un domaine naturel tel que visé à l'article 12septies, § 1er, alinéa 2, qui est entièrement accessible aux piétons sans restrictions.]<sup>2</sup>
+
+Dans d'autres terrains que ceux visés à l'article 12septies, § 1er, [<sup>2</sup> alinéas 1er et 2]<sup>2</sup>, une réglementation d'accès peut être arrêtée s'il existe un plan approuvé de gestion de la nature pour ce terrain.
+
+§ 2. Une réglementation d'accès peut être établie par le gestionnaire ou un groupe de gestionnaires, avec le consentement des propriétaires.
+
+La procédure pour l'élaboration d'une réglementation d'accès présente les caractéristiques suivantes :
+
+1° une demande pour l'élaboration d'une réglementation d'accès est déposée par le gestionnaire du terrain, avec le consentement du propriétaire ;
+
+2° une demande pour l'élaboration d'une réglementation d'accès peut être introduite en même temps que la demande d'approbation d'un plan de gestion de la nature, visée à l'article 16octies, § 1er ;
+
+3° une demande pour l'élaboration d'une réglementation d'accès est soumise à un avis de l'agence.
+
+Le Gouvernement flamand ou son délégué statue sur les demandes d'approbation d'une réglementation d'accès, visée au deuxième alinéa.
+
+[<sup>3</sup> § 2bis. Le gestionnaire d'un terrain peut arrêter dans un règlement d'accessibilité les conditions auxquelles il est autorisé de fumer et de faire un feu sur le terrain. Si le Gouvernement flamand établit un règlement en exécution de l'article 13, § 9, alinéa 2, ce règlement prévaut sur les dispositions du règlementation d'accessibilité pour le terrain.
+
+Le Gouvernement flamand peut arrêter des modalités pour la désignation de la manière dont le tabagisme et les feux sont réglementés sur le terrain.]<sup>3</sup>
+
+§ 3. Le Gouvernement flamand arrête les modalités relatives au contenu et la procédure pour l'approbation d'une réglementation d'accès.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 14, 025; En vigueur : 28-10-2017&gt;
+
+(2)&lt;DCFL 2018-06-22/17, art. 5, 034; En vigueur : 02-08-2018&gt;
+
+(3)&lt;DCFL 2022-07-01/16, art. 9, 038; En vigueur : 08-08-2022&gt;
+
+##### Art. 12novies
+
+[<sup>1</sup> Dans un terrain tel que visé à l'article 12septies, § 1er,[<sup>2</sup> alinéas 1er et 2]<sup>2</sup>, aucune forme de trafic motorisé n'est autorisée, sauf sur les voies publiques qui sont aménagées pour le trafic motorisé ordinaire et sont principalement destinées comme voie de passage.
+
+L'interdiction visée au premier alinéa ne s'applique pas pour le trafic motorisé nécessaire pour :
+
+1° l'exécution d'activités de gestion, y compris des activités de chasse et de lutte, conformément à la réglementation en matière de chasse ou à la réglementation en matière de gestion des espèces ;
+
+2° l'exercice d'un contrôle et d'une surveillance ;
+
+3° la garantie de la sécurité des visiteurs ;
+
+4° les circonstances particulières qui sont arrêtées dans une réglementation d'accès ou dans un plan de gestion de la nature ;
+
+5° l'utilisation des voies d'accès par le gestionnaire du terrain ou ses invités en fonction de l'accessibilité de biens immeubles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 15, 025; En vigueur : 28-10-2017&gt;
+
+(2)&lt;DCFL 2018-06-22/17, art. 6, 034; En vigueur : 02-08-2018&gt;
+
+### Section 5. [<sup>1</sup> - Gestion technique de terrains publics]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-01/16, art. 10, 038; En vigueur : 08-08-2022&gt;
+
+##### Art. 12decies
+
+[<sup>1</sup> § 1er. Dans le présent paragraphe, on entend par autorités :
+
+1\. une commune ;
+
+2\. une régie communale ;
+
+3\. une association de communes ;
+
+4\. un centre public d'action sociale ;
+
+5\. un centre intercommunal d'action sociale ;
+
+6\. une association de centres publics d'action sociale ;
+
+7\. une province ;
+
+8\. une régie provinciale ;
+
+9\. un polder ;
+
+10\. une wateringue ;
+
+11\. une association de polders et wateringues ;
+
+12\. une fabrique d'église et toute autre personne morale qui gère des biens immobiliers pour l'exercice d'un culte public ou pour le compte d'associations de laïcs.
+
+Les autorités propriétaires d'un terrain public qui est ou sera géré dans le cadre de la conservation de la nature peuvent demander à l'agence de réaliser la gestion technique de ce terrain. Les autorités indiquent dans une communication écrite leur intention d'établir un plan de gestion de la nature tel que visé à l'article 16bis. Le Gouvernement flamand détermine les tâches qui relèvent de la gestion technique, c'est-à-dire les tâches d'exécution et de coordination nécessaires à la réalisation de la gestion du terrain dans le cadre des objectifs fixés. La gestion technique est arrêtée après l'approbation du plan de gestion de la nature susmentionné, conformément à l'article 16octies.
+
+Les autorités propriétaires d'un terrain public qui est ou sera géré dans le cadre de la conservation de la nature peuvent, par le biais d'une convention, transférer l'ensemble de la gestion à l'agence à condition qu'il existe un plan de gestion de la nature approuvé tel que visé à l'article 16octies, ou que l'autorité ait l'intention d'établir un plan de gestion de la nature tel que visé à l'article 16bis. Dès la décision de reprise de gestion, l'agence n'accorde plus de subventions telles que visées à l'article 16sedecies. Cette gestion complète se distingue de la gestion technique en ce qu'elle comprend également la fixation d'objectifs pour la gestion technique naturelle et la responsabilité financière complète de la gestion.
+
+§ 2. Par dérogation au paragraphe 1er, les propriétaires de tout autre terrain public qui est ou sera géré dans le cadre de la conservation de la nature peuvent notifier par écrit à l'agence que la gestion technique sera effectuée par l'agence.
+
+§ 3. Par dérogation aux paragraphes 1er et 2, une personne morale de droit public propriétaire d'un terrain public qui est ou sera géré dans le cadre de la conservation de la nature peut faire réaliser la gestion technique par un tiers. S'il est fait usage de cette possibilité, le tiers en question doit accomplir l'ensemble des tâches prévues au paragraphe 1er, alinéa 2. Il n'est pas possible de faire exécuter seules certaines tâches de l'ensemble des tâches susmentionné par le tiers, tandis que l'agence exécute d'autres tâches de cet ensemble des tâches.
+
+La personne morale de droit public qui fait usage de la possibilité visée à l'alinéa 1er conclut à cette fin une convention avec le tiers. La personne morale de droit public notifie par écrit à l'agence le tiers chargé de la gestion technique, dans un délai de trente jours à compter de la date de signature de la convention.
+
+Le cas échéant, des accords sont conclus entre l'agence, d'une part, et la personne morale de droit public et le tiers qui assurera les tâches de gestion, d'autre part, concernant le moment où le tiers reprend les tâches précédemment effectuées par l'agence. Les tâches sont transférées au plus tard quatre-vingt-dix jours après le jour de la signature de la convention, visée à l'alinéa 2. En tout état de cause, à l'expiration du délai de quatre-vingt-dix jours susmentionné, l'agence n'exécutera plus les tâches qu'elle effectuait précédemment.
+
+§ 4. La gestion d'un terrain public qui est ou sera géré dans le cadre de la conservation de la nature peut être transférée à un tiers moyennant la conclusion d'une convention entre les parties concernées.
+
+La personne morale de droit public envoie une copie de la convention, visée à l'alinéa 1er, à l'agence dans un délai de trente jours à compter du jour de la signature de la convention. Les terrains en question conservent le statut de terrain public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-01/16, art. 11, 038; En vigueur : 08-08-2022&gt;
+
+## CHAPITRE IV. - [<sup>1</sup> Mesures de promotion de la conservation de la nature]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-05-09/10, art. 16, 025; En vigueur : 28-10-2017GT}
+
+### Section 1re. [<sup>1</sup> - Mesures générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 17, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 13
+
+§ 1er, Le Gouvernement flamand peut prendre toutes les mesures utiles pour la conservation de la nature, pour favoriser la nature existante, quelle que soit la destination de la zone concernée, ainsi que pour la préservation du milieu naturel dans les zones d'espaces verts, les zones de parcs, les zones-tampons et les zones forestières prévues dans les plans d'exécution d'application dans le cadre de l'aménagement du territoire, et notamment pour :
+
+1° la protection, la préservation, le développement ou la restauration d'habitats ou d'écosystèmes naturels ou semi-naturels, y compris les zones humides d'importance internationale;
+
+2° la protection, la préservation et le développement de végétations naturelles ou semi-naturelles;
+
+3° la protection, la préservation et le développement de la faune et de la flore indigènes sauvages et des espèces animales migratrices et de leurs habitats;
+
+4° la protection, la préservation et le développement de petits éléments paysagers;
+
+5° la protection, la préservation et le développement de la nature et de l'espace bâti;
+
+6° la réglementation de l'accès au milieu naturel et de son usage [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. Les mesures, visées au § 1er, peuvent tendre à stimuler la gestion de la nature, l'entretien, le développement de la nature et fixer un accord financier dans les limites du budget.
+
+§ 3. Les mesures, visées au § 1er, peuvent interdire l'exécution de certaines activités ou la soumettre à des conditions. Cet conditions et ces activités peuvent être subordonnées à l'obtention d'une autorisation. Le Gouvernement flamand arrête les modalités relatives à ces activités et conditions :
+
+1° les modalités, les circonstances ou le lieu d'exécution des activités;
+
+2° l'octroi d'une autorisation ou permission préalable et écrite par l'autorité désignée par l'arrêté;
+
+3° la déclaration ou la notification préalable et écrite de certaines activités à une autorité désignée par l'arrêté qui apprécie les effets de l'activité projetée dans un délai fixé;
+
+4° la remise en état original ou dans un état prescrit par l'arrêté à l'issue de la cessation des activités.
+
+(§ 4. Sans préjudice des dispositions du § 3, la modification de la végétation ou de tout ou partie des petits éléments paysagers ou de leur végétation est subordonnée, pour autant que le Gouvernement flamand n'interdise pas ces modifications, à [<sup>5</sup> l'obtention d'un permis d'environnement pour la modification de la végétation]<sup>5</sup>. Il s'agit en l'occurrence des sites suivants :
+
+1° les zones d'espaces verts, zones de parcs, zones tampons, zones forestières, zones vallonnées, zones de sources, zones de développement de la nature, zones agricoles d'intérêt ou de valeur écologique, zones agricoles d'intérêt spécial et les zones de destination comparables à ces zones, figurant sur les plans d'aménagement ou sur les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire;
+
+2° les zones dunaires désignées en vertu de l'article 52 de la loi du 12 juillet 1973 sur la conservation de la nature, inséré par décret du 14 juillet 1993 portant des mesures de protection des dunes côtières;
+
+3° les sites délimités suivant ou en exécution de conventions et traités internationaux concernant la conservation de la nature ou d'actes concernant la conservation de la nature en ce comprises des directives européennes, arrêtées sur la base des traités internationaux.
+
+Le Gouvernement flamand peut déterminer quelles activités représentent une modification de la végétation ou des petits éléments paysagers ou de la végétation de ceux-ci.
+
+§ 5. Sans préjudice des dispositions des §§ 3 et 4, la modification totale ou partielle des petits éléments paysagers ou de leur végétation est également subordonnée, pour autant que le Gouvernement flamand n'interdise pas ces modifications, [<sup>3</sup> à l'obtention d'un permis d'environnement pour la modification de la végétation]<sup>3</sup> dans les sites suivants :
+
+1° zones agricoles d'intérêt paysager et les zones de destination comparables à toutes ces zones, figurant sur les plans d'aménagement ou sur les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire;
+
+2° l'IVON.
+
+§ 6. Le Gouvernement flamand peut arrêter les modalités en matière d'exemption de l'obligation d'autorisation visées aux §§ 4 et, pour autant qu'il soit expressément satisfait au devoir de sollicitude imposé par l'article 14, et, le cas échéant, qu'il soit satisfait aux dispositions de l'article 16, §§ 1er et 3 en matière de lutte contre les préjudices évitables, si :
+
+1° pour une activité, est accordée une autorisation ou une permission de l'autorité en vertu des lois, décrets ou arrêtés, après avis de (l'Agentschap voor Natuur en Bos (Agence de la Nature et des Forêts)); &lt;DCFL 2007-12-07/51, art. 62, 011; En vigueur : 14-01-2008&gt;
+
+2° l'activité est réglementée par des plans ou projets approuvés dont les modalités sont arrêtées par le Gouvernement flamand;
+
+3° l'activité concerne des parcelles propres à l'habitation d'une surface maximale de 3 ha;
+
+4° l'activité concerne des travaux d'entretiens normaux.) &lt;DCFL 2002-07-19/54, art. 5, 004; En vigueur : 10-09-2002&gt;
+
+[<sup>1</sup> § 7. Sans préjudice de l'application de l'article 16 et de l'article 36ter, §§ 3 à 6 inclusivement, des activités connexes ou périodiques qui représentent une modification de la végétation ou de petits éléments paysagers ou de la végétation de ceux-ci, peuvent être autorisées par une seule autorisation pour autant que la nature, le lieu et l'ampleur et la fréquence de chacune de ces activités soumises à autorisation soient clairement définis.
+
+Le Gouvernement flamand peut déterminer les modalités de communication des informations à fournir par le demandeur d'autorisation sur la durée, la fréquence et la nature des activités.]<sup>1</sup>
+
+[<sup>4</sup> § 8. Il est interdit d'effectuer, sans obtention préalable d'un permis d'environnement ou en violation de ce permis d'environnement, des actes soumis à autorisation visant à modifier la végétation ou de petits éléments paysagers ou leur végétation, ou des actes qui sont interdits par ou en vertu de l'article 13, § 3.]<sup>4</sup>
+
+[<sup>6</sup> § 9. Sur les terrains pour lesquels un plan de gestion de la nature a été approuvé, et dans un rayon de 25 mètres de ces terrains, il est interdit de fumer ou de faire du feu en plein air pour quelque raison que ce soit, à l'exception des incinérations légalement imposées, sauf dans les cas suivants :
+
+1° pour la mise en oeuvre du plan de gestion approuvé ;
+
+2° pour la mise en oeuvre d'un règlement d'accessibilité approuvé tel que visé à l'article 12octies.
+
+Le Gouvernement flamand peut également imposer une interdiction de fumer et de faire du feu sur les terrains visés à l'alinéa 1er et sur d'autres terrains en pleine campagne en liant cette interdiction à la sensibilité au feu des éléments naturels de ces terrains.]<sup>6</sup>
+
+----------
+
+(1)&lt;DCFL 2013-03-01/19, art. 32, 022; En vigueur : 25-04-2013&gt;
+
+(2)&lt;DCFL 2014-05-09/10, art. 81, 025; En vigueur : 28-10-2017&gt;
+
+(3)&lt;DCFL 2017-12-08/06, art. 6,2°, 032; En vigueur : 30-12-2017&gt;
+
+(4)&lt;DCFL 2017-12-08/06, art. 6,3°, 032; En vigueur : 30-12-2017&gt;
+
+(5)&lt;DCFL 2017-12-08/06, art. 6,1°, 032; En vigueur : 01-08-2018&gt;
+
+(6)&lt;DCFL 2022-07-01/16, art. 12, 038; En vigueur : 08-08-2022&gt;
+
+##### Art. 14
+
+[<sup>1</sup> § 1er. Toute personne physique ou morale qui intervient manuellement, avec des moyens mécaniques ou pesticides et avec des sources sonores fixes ou mobiles dans des habitats naturels ou partiellement naturels, dans des écosystèmes, dans des zones riches en eau, dans des végétations naturelles et semi-naturelles, dans la faune ou flore sauvage indigène ou espèces animalières sauvages migratrices ou dans leurs habitats, ou dans des petits éléments ruraux ou dans leurs environs immédiats et qui est consciente ou peut présumer raisonnablement qu'elle pourrait détruire ou nuire gravement ces habitats, écosystèmes, zones riches en eau, végétations, faune, flore ou petits éléments ruraux, est tenue de prendre toutes les mesures qu'on peut raisonnablement demander à elle pour prévenir, limiter ou, si cela n'est pas possible, restaurer la destruction ou les dommages.
+
+La disposition de l'alinéa précédent s'applique également à quiconque qui donne l'ordre en vue des interventions visées à cet alinéa.
+
+§ 2. Le Gouvernement flamand peut fixer des codes de bonne pratique naturelle en matière de la protection, de la gestion ou de l'aménagement des habitats, écosystèmes, zones riches en eau, végétations, faune, flore ou petits éléments ruraux visés au § 1er.
+
+Ces codes peuvent en principe être volontairement appliqués, mais peuvent cependant obtenir un caractère obligatoire en y référent dans les dispositions obligatoires, telles qu'imposées dans les obligations de gestion par ou en exécution du présent décret ou du Décret forestier, dans les plans de rénovation naturelle ou en exécution du présent décret ou des plans de gestion instaurés dans le Décret forestier.]<sup>1</sup>
+
+----------
+
+----------
+
+(1)&lt;DCFL 2009-04-30/87, art. 125, 016; En vigueur : 25-06-2009&gt;
+
+##### Art. 15
+
+Le Gouvernement flamand réglemente la demande, l'octroi, le refus, la publication, le retrait et la modification de l'autorisation ou de la permission [<sup>1</sup> , mentionnés à l'article 9 et à l'article 13, §§ 1, 2 et 3,]<sup>1</sup> ainsi qu'en ce qui concerne l'émission d'avis, l'enquête publique et l'introduction, l'examen et la publication du recours et l'effet suspensif du recours.
+
+(Alinéa 2 abrogé) &lt;DCFL 2002-07-19/54, art. 7, 004; En vigueur : 10-09-2002&gt;
+
+----------
+
+(1)&lt;DCFL 2017-12-08/06, art. 7, 032; En vigueur : 01-08-2018&gt;
+
+##### Art. 16
+
+&lt;DCFL 2002-07-19/54, art. 8, 004; En vigueur : 10-09-2002&gt; § 1er Dans le cas d'une activité soumise à autorisation, l'autorité compétente assure que la nature ne subit aucun préjudice évitable par le refus de l'autorisation ou de la permission ou l'imposition de conditions raisonnables pour prévenir, limiter ou, si cela n'est pas possible, réparer les dommages.
+
+§ 2. Une activité pour laquelle est requise une notification ou une déclaration à l'autorité ne peut être exécutée que si elle n'entraîne aucun préjudice évitable et pour autant que le demandeur respecte, le cas échéant, le code de bonne pratique naturelle.
+
+Le notifiant doit démontrer que l'activité ne peut causer aucun préjudice évitable. A défaut du notifiant de remplir cette obligation, l'autorité concernée doit examiner elle-même si l'activité peut causer des préjudices évitables. Si c'est le cas, ou si le code de bonne pratique naturelle n'est pas respecté, l'autorité doit en informer le notifiant par lettre recommandée dans le délai d'attente éventuel d'exécution de l'activité prévu par la législation dans le cadre de laquelle la notification ou la déclaration a lieu ou, à défaut d'un tel délai, dans les trente jours qui suivent la notification ou la déclaration. Le notifiant ne peut démarrer l'exécution de l'activité en question que lorsque le délai précité s'est écoulé sans qu'il ait reçu l'information précitée de la part de l'autorité.
+
+Le Gouvernement flamand peut fixer les modalités d'application de ce paragraphe.
+
+§ 3. Pour certaines activités ou catégories d'activités, pour certains habitats ou processus écologiques ou pour certains groupes d'espèces, le Gouvernement flamand peut donner des directives pour l'appréciation du caractère évitable de l'activité, pour l'imposition de conditions et de mesures de réparation.
+
+### Section 2. [<sup>1</sup> - Plans de gestion de la nature]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2014-05-09/10, art. 18, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16bis
+
+[<sup>1</sup> § 1er. Un plan de gestion de la nature peut être établi pour un terrain qui est ou sera géré au profit de la conservation de la nature.
+
+Un plan de gestion de la nature contient :
+
+1° une description de la situation existante ;
+
+2° un cadre global pour les fonctions écologique, sociale et économique ;
+
+3° les objectifs de gestion ;
+
+4° les mesures de gestion qui seront prises pour réaliser les objectifs de gestion ;
+
+5° le mode de suivi et d'évaluation de la réalisation des objectifs de gestion.
+
+§ 2. Pour tous les domaines naturels, l'agence établit un plan de gestion de la nature.
+
+En vue de la réalisation des objectifs de conservation, le gestionnaire d'un terrain public qui est géré au profit de la conservation de la nature établit un plan de gestion de la nature.
+
+Un plan de gestion de la nature peut être établi par le gestionnaire ou un groupe de gestionnaires, avec le consentement des propriétaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 19, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16ter
+
+[<sup>1</sup> § 1er. Lors de l'élaboration d'un plan de gestion de la nature, tel que visé à l'article 16bis, les types suivants de terrains sont distingués en fonction des objectifs choisis pour la réalisation de la fonction écologique :
+
+1° type un : conservation de la qualité présente de la nature ;
+
+2° type deux : obtention d'une qualité supérieure de la nature ;
+
+3° type trois : obtention de la qualité maximale de la nature ;
+
+4° type quatre : réserve naturelle agréée.
+
+§ 2. Les terrains privés, pour lesquels un plan de gestion de la nature est établi, qui sont situés en tout ou en partie dans le VEN ou dans une zone spéciale de conservation en Région flamande, les domaines naturels ainsi que les terrains publics pour lesquels un plan de gestion de la nature est établi, doivent satisfaire au minimum aux conditions pour le type deux. Dans le cas visé à l'article 16septies, deuxième alinéa, on s'efforcera autant que possible, à cette occasion, de satisfaire aux conditions pour le type trois ou le type quatre. Pour les domaines naturels qui ont été acquis en vue de la réalisation des objectifs de conservation, le plan de gestion de la nature satisfait aux conditions pour le type trois ou le type quatre.
+
+Pour les terrains qui ne sont pas visés au premier alinéa, le gestionnaire du terrain qui veut mener une gestion intégrée au profit de la conservation de la nature, choisit parmi les quatre types visés au premier alinéa. Le gestionnaire peut seulement choisir le type trois ou le type quatre si le terrain, le cas échéant en relation avec son environnement spatial, présente une superficie suffisante pour préserver durablement les objectifs naturels présents ou à développer.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 20, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16quater
+
+[<sup>1</sup> La gestion d'un terrain de type un, tel que visé à l'article 16ter, § 1er, 1°, est exercée en vue d'une gestion intégrée au profit de la conservation de la nature, la conservation de la qualité présente de la nature et de l'environnement naturel étant garantie à cette occasion.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 21, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16quinquies
+
+[<sup>1</sup> La gestion d'un terrain de type deux, tel que visé à l'article 16ter, § 1er, 2°, est exercée en vue de conserver ou de développer une qualité supérieure de la nature et de conserver ou d'améliorer le milieu naturel. La gestion d'un tel terrain est basée sur les principes de départ suivants :
+
+1° aspirer à la réalisation d'au moins un objectif naturel sur au moins un quart de la superficie du terrain ;
+
+2° en vue d'une gestion intégrée au profit de la conservation de la nature, formuler des objectifs pour les fonctions écologique, économique et sociale sur le terrain, les valeurs naturelles présentes et potentielles étant résolument prises en considération et l'exercice de la fonction écologique ne pouvant pas compliquer ou entraver les mesures visant à la réalisation de la fonction économique et de la fonction sociale ;
+
+3° mettre l'accent, par le gestionnaire, sur la réalisation d'une fonction déterminée localement et pour une ou plusieurs parties du terrain, à condition que les autres fonctions soient suffisamment abordées dans l'ensemble du terrain.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 22, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16sexies
+
+[<sup>1</sup> La gestion d'un terrain de type trois ou de type quatre, tel que visé à l'article 16ter, § 1er, 3° et 4°, est exercée en vue de conserver ou de développer la qualité maximale de la nature. La gestion d'un tel terrain est basée sur les principes de départ suivants :
+
+1° aspirer à la réalisation d'au moins un objectif naturel sur toute la superficie du terrain ;
+
+2° par ailleurs, aspirer éventuellement à la réalisation de la fonction sociale et de la fonction économique, à condition que cela n'entrave ou n'empêche pas la réalisation de la fonction écologique et des objectifs naturels.
+
+Pour des raisons motivées, le plan de gestion de la nature peut déroger à la condition visée au premier alinéa, 1°, pour dix pour cent maximum de la superficie du terrain.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 23, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16septies
+
+[<sup>1</sup> Les objectifs et mesures de gestion dans un plan de gestion de la nature doivent, le cas échéant, être conformes :
+
+1° aux objectifs de conservation ;
+
+2° aux programmes de protection des espèces ;
+
+3° aux plans directeurs de la nature déjà arrêtés ;
+
+4° aux plans de gestion visés à l'article 48 ;
+
+5° aux dispositions du plan de gestion Natura 2000.
+
+Si le plan de gestion de la nature se rapporte à des terrains qui se trouvent dans une zone spéciale de conservation en Région flamande, le plan de gestion de la nature est adapté au maximum aux dispositions du plan de gestion Natura 2000 dans les zones de recherche visées à l'article 50septies, § 4, dans la mesure où il concerne :
+
+1° des domaines naturels ;
+
+2° des terrains publics ;
+
+3° des terrains qui ont été achetés ou sur lesquels un droit réel ou personnel a été acquis, dans les deux cas avec l'intervention financière de l'autorité administrative en exécution du présent décret.
+
+Outre l'harmonisation maximale aux dispositions du plan de gestion Natura 2000, tel qu'il est visé au deuxième alinéa, le plan de gestion de la nature peut également comporter la réalisation d'objectifs naturels d'intérêt régional.
+
+Le Gouvernement flamand arrête les objectifs naturels qui ont un intérêt régional pour la Région flamande.
+
+Le Gouvernement flamand établit une liste des objectifs naturels qui sont pris en considération pour les terrains de types deux, trois et quatre.
+
+Le Gouvernement flamand arrête les modalités pour apprécier si le terrain de type trois ou de type quatre possède une superficie suffisante pour préserver durablement les objectifs naturels présents ou à développer.
+
+Le Gouvernement flamand arrête pour les quatre types de terrain les critères précis auxquels doit satisfaire la gestion, stipulée dans un plan de gestion de la nature.
+
+Si, outre un plan de gestion de la nature, un plan de gestion est arrêté également dans le cadre du décret du 12 juillet 2013 relatif au patrimoine immobilier, tous les objectifs de gestion pour ce terrain sont intégrés dans un plan de gestion. Le Gouvernement flamand en arrête les modalités. Les dispositions de cet article sont d'application également à ce plan de gestion intégré.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 24, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16octies
+
+[<sup>1</sup> § 1er. La procédure pour l'approbation d'un plan de gestion de la nature se déroule comme suit :
+
+1° une première partie exploratoire recueille les informations nécessaires pour déterminer auquel des quatre types de terrain, visés à l'article 16ter, § 1er, correspond la gestion prévue. Cette première partie est approuvée par l'agence ;
+
+2° après l'approbation de la première partie, un projet de plan de gestion de la nature est établi ;
+
+3° un projet de plan de gestion de la nature, visé au point 2°, est soumis à une consultation du public s'il s'agit de terrains de type deux, de type trois ou de type quatre ;
+
+4° un projet de plan de gestion de la nature, visé au point 2°, est soumis à la consultation d'instances à désigner par le Gouvernement flamand. Le Gouvernement flamand peut déterminer pour quels types de terrain un avis doit être rendu ;
+
+5° une décision est prise à propos du projet de plan de gestion de la nature.
+
+La décision, visée au point 5° du premier alinéa, est prise par le Gouvernement flamand ou son délégué si le projet de plan de gestion de la nature se rapporte à un domaine naturel. L'agence statue sur l'approbation du projet du plan de gestion de la nature d'autres terrains.
+
+§ 2. Des moments d'évaluation sont prévus pour déterminer le degré de réalisation des objectifs de gestion postulés dans un plan de gestion de la nature. Le résultat de ces moments d'évaluation peut conduire à la modification d'un plan de gestion de la nature.
+
+§ 3. Un plan de gestion de la nature s'applique pour une période de 24 ans, à moins d'en disposer autrement lors de son approbation.
+
+§ 4. Un plan de gestion de la nature approuvé est publié par extrait au Moniteur belge. Les plans de gestion de la nature approuvés sont repris par l'agence dans un registre et communiqués à la ou aux communes dans laquelle ou lesquelles se situe le terrain en tout ou en partie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 25, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16novies
+
+[<sup>1</sup> § 1er. L'approbation du plan de gestion de la nature implique pour le gestionnaire du terrain une obligation d'exécution des mesures de gestion reprises dans le plan de gestion de la nature pour autant que l'obligation de financement soit respectée.
+
+L'approbation du plan de gestion de la nature, autre que celui de type un, implique pour la Région flamande une obligation de financement, dans les limites du budget, des mesures reprises dans le plan de gestion de la nature, qui peuvent donner droit à des subventions en application de l'article 16sedecies, § 1er, 2°.
+
+Dans la mesure où la réalisation du cadre global repris dans le plan de gestion de la nature et des objectifs de gestion n'est pas mise en péril, le gestionnaire peut déroger aux mesures de gestion que contient le plan de gestion de la nature approuvé pour autant que les conditions en matière de gestion de la nature reprises dans le plan de gestion de la nature soient satisfaites et que la dérogation aux mesures de gestion n'ait pas d'incidence en dehors du terrain. Des mesures de gestion dérogatoires qui mettent bien en péril la réalisation du cadre global et des objectifs de gestion ou qui ont des incidences en dehors du terrain ne sont possibles qu'après modification approuvée du plan de gestion de la nature.
+
+Un plan de gestion de la nature approuvé est impératif pour les gestionnaires successifs.
+
+La reprise de la gestion d'un terrain avec un plan de gestion de la nature approuvé par un nouveau gestionnaire est notifiée à l'agence par le gestionnaire précédent dans un délai de 30 jours à compter de la reprise.
+
+§ 2. Le fonctionnaire instrumentant mentionne [<sup>2</sup> dans tous les actes de vente, de donation ou de location]<sup>2</sup> pour plus de neuf ans d'un bien immeuble, d'un apport d'un bien immeuble dans une société et aussi dans tous les actes de constitution ou de cession d'un usufruit, d'une emphytéose ou d'un droit de superficie et dans tout autre acte d'une cession de propriété à titre onéreux, à l'exception des contrats de mariage et de leurs modifications, qui est situé en tout ou en partie dans un terrain sur lequel est d'application un plan de gestion de la nature approuvé :
+
+1° la date à laquelle le plan de gestion de la nature a été approuvé, la durée pour laquelle il a été approuvé et les obligations qu'il entraîne pour l'acquéreur du bien immeuble ;
+
+2° l'existence de la servitude, visée à l'article 16quater decies, § 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 26, 025; En vigueur : 28-10-2017&gt;
+
+(2)&lt;DCFL 2017-12-22/57, art. 3, 033; En vigueur : 09-06-2018&gt;
+
+##### Art. 16decies
+
+[<sup>1</sup> § 1er. Si l'agence constate que le gestionnaire d'un terrain n'exécute pas les mesures de gestion ou exécute d'autres mesures de gestion que celles que contient le plan de gestion de la nature approuvé et le fait de manière à mettre en péril la réalisation des objectifs de gestion, l'agence peut décider d'abroger le plan de gestion de la nature, après avoir entendu le gestionnaire. L'agence peut proposer au Gouvernement flamand de décider que l'agence reprend la gestion du terrain pendant la durée résiduelle du plan de gestion de la nature dans la mesure où sa gestion est importante pour la réalisation des objectifs de conservation et dans la mesure où la gestion du terrain ne peut être reprise, sur proposition du gestionnaire, par un autre gestionnaire qui démontre ou a démontré pouvoir se livrer à une gestion experte de la nature. La décision à propos de la reprise est prise après avoir demandé un avis à une instance consultative à désigner par le Gouvernement flamand.
+
+En cas de décision d'abrogation du plan de gestion de la nature ou de reprise de la gestion, visée au premier alinéa, l'octroi de subventions est interrompu par l'agence. Les subventions octroyées sont récupérées en tout ou en partie.
+
+§ 2. Le gestionnaire d'un terrain peut demander à l'agence d'abroger le plan de gestion de la nature.
+
+L'agence ne peut consentir à une demande d'abrogation d'un plan de gestion de la nature de type deux, trois ou quatre pour un terrain privé que s'il ressort de la demande motivée du gestionnaire que l'abrogation est demandée en raison de cas de force majeure qui mettent le gestionnaire dans l'impossibilité d'exécuter le plan de gestion.
+
+Si la demande d'abrogation d'un plan de gestion de la nature de type deux, trois ou quatre concerne un terrain public, l'agence ne peut approuver la demande d'abrogation que s'il ressort de la demande motivée du gestionnaire que la demande d'abrogation est nécessaire pour des mesures qui servent un intérêt social.
+
+Après avoir entendu le gestionnaire, l'agence peut proposer au Gouvernement flamand de décider que l'agence reprend la gestion du terrain pendant la durée résiduelle du plan de gestion de la nature dans la mesure où sa gestion est importante pour la réalisation des objectifs de conservation et dans la mesure où la gestion du terrain ne peut être reprise, sur proposition du gestionnaire, par un autre gestionnaire qui démontre ou a démontré pouvoir se livrer à une gestion experte de la nature. La décision à propos de la reprise est prise après avoir demandé un avis à une instance consultative à désigner par le Gouvernement flamand.
+
+En cas de décision d'abrogation du plan de gestion de la nature ou de reprise de la gestion, visée au quatrième alinéa, l'octroi de subventions est interrompu par l'agence. Les subventions octroyées sont récupérées en tout ou en partie.
+
+§ 3. A partir du moment de la reprise de la gestion par l'agence, visée dans les paragraphes 1er et 2, le gestionnaire du terrain privé reçoit une indemnité de l'agence qui correspond au revenu cadastral du terrain, adapté à l'indice des prix à la consommation du Royaume, tel qu'il est visé à l'article 518 du Code des Impôts sur les Revenus qui est d'application au moment de la reprise de la gestion. L'indemnité est adaptée chaque année, le 1er janvier, à l'indice visé à l'article 518 du Code des Impôts sur les Revenus.
+
+§ 4. En cas de récupération totale ou partielle des subventions en application des paragraphes 1er et 2, le gestionnaire du terrain est tenu au remboursement de la subvention visée à l'article 13bis du décret forestier pour la durée résiduelle de la période pour laquelle elle est supposée avoir été octroyée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 27, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16undecies
+
+[<sup>1</sup> § 1er. A l'exception de la décision du Gouvernement flamand à propos de la reprise de la gestion, visée à l'article 16decies, § 1er, premier alinéa, et § 2, quatrième alinéa, le gestionnaire du terrain peut introduire un recours auprès du Gouvernement flamand contre les décisions de l'agence, visées à l'article 16octies, § 1er, premier alinéa, 1°, et deuxième alinéa, et § 2, à l'article 16decies, § 1er, premier et deuxième alinéas, et § 2, quatrième et cinquième alinéas, dans un délai de déchéance de trente jours à compter de la notification de la décision. Ce recours n'est pas suspensif.
+
+§ 2. La décision à propos du recours, visée au paragraphe 1er, est prise après avoir demandé un avis à une instance consultative à désigner par le Gouvernement flamand.
+
+L'instance consultative rend un avis motivé et écrit dans les trente jours civils qui suivent la réception du dossier. Si aucun avis n'est rendu dans ce délai, il est possible de passer outre l'exigence d'un avis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 28, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16duodecies
+
+[<sup>1</sup> Le Gouvernement flamand arrête les modalités pour :
+
+1° le contenu du plan de gestion de la nature, visé à l'article 16bis, § 1er, deuxième alinéa ;
+
+2° la procédure pour l'approbation du plan de gestion de la nature, visée à l'article 16octies, § 1er, y compris le mode de consultation du public et la désignation des instances qui rendent un avis sur le plan de gestion de la nature ;
+
+3° la procédure pour la modification d'un plan de gestion de la nature et les cas dans lesquels il faut procéder à la modification de ce plan ;
+
+4° la procédure pour l'abrogation d'un plan de gestion de la nature, le remboursement des subventions et la reprise de la gestion par l'agence et les modalités pour le paiement et l'indexation de l'indemnité en cas de reprise de la gestion, visée à l'article 16decies, § 3 ;
+
+5° le suivi et l'évaluation de l'exécution du plan de gestion de la nature ;
+
+6° la notification de la reprise de la gestion, visée à l'[<sup>2</sup> article 16novies, § 1er, alinéa 5]<sup>2</sup> ;
+
+7° la procédure de recours, visée à l'article 16undecies, § 1er ;
+
+8° la composition et le fonctionnement de l'instance consultative, visée à l'article 16decies, § 1er, premier alinéa, 16decies, § 2, quatrième alinéa, et 16undecies, § 2, premier alinéa. L'instance consultative doit disposer d'une expertise et d'une indépendance suffisantes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 29, 025; En vigueur : 28-10-2017&gt;
+
+(2)&lt;DCFL 2015-12-18/24, art. 43, 027; En vigueur : 08-01-2016&gt;
+
+### Section 3. [<sup>1</sup> - L'agrément en tant que réserve naturelle]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2014-05-09/10, art. 30, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16terdecies
+
+[<sup>1</sup> § 1er. Un terrain de type quatre, tel que visé à l'article 16ter, § 1er, 4°, est un terrain de type trois avec un plan de gestion de la nature approuvé qui est également agréé comme réserve naturelle.
+
+§ 2. Pour pouvoir être agréé en tant que réserve naturelle, un terrain doit satisfaire aux conditions suivantes :
+
+1° le terrain satisfait au cadre de contrôle pour les réserves naturelles flamandes. Le terrain doit pouvoir se développer pour apporter une contribution importante sur l'un des plans suivants :
+
+a) sur le plan des habitats, des populations d'espèces animales et végétales indigènes et des écosystèmes ;
+
+b) sur le plan des mosaïques de paysages et des végétations climaciques non gérées, les processus naturels jouant un rôle directeur ;
+
+c) sur le plan du milieu naturel présentant une qualité élevée de la nature et une biodiversité élevée ;
+
+2° l'échelle du terrain est suffisamment grande pour l'exercice durable d'une gestion adaptée de la nature en vue de la réalisation des objectifs naturels visés et de la conservation des populations ou sous-populations d'espèces qui sont caractéristiques des objectifs naturels visés.
+
+§ 3. Dans les zones agricoles et les zones agricoles d'intérêt paysager, situées à l'extérieur des zones délimitées en exécution de conventions ou traités internationaux concernant la conservation de la nature ou d'actes relatifs à la conservation de la nature, y compris des directives européennes, arrêtées en vertu de traités internationaux, des terrains peuvent être agréés comme réserve naturelle (type quatre) s'ils remplissent les critères suivants :
+
+1° soit il s'agit de terrains qui ont une haute valeur naturelle actuelle et sont peu propices à un usage agricole normal dans la zone agricole correspondante et dont l'agrément ne porte pas atteinte à la structure agricole ;
+
+2° soit ce sont des régions à haute valeur naturelle actuelle ou potentielle et à faible valeur agricole qui ont été désignées en ce sens dans le cadre d'un plan de remembrement approuvé ou d'un plan directeur approuvé d'un projet de rénovation rurale et dont l'agrément ne porte pas atteinte à la structure agricole.
+
+§ 4. Dans les régions vallonnées, les régions de source, les zones agricoles d'intérêt écologique ou les zones agricoles d'intérêt particulier situées en dehors du VEN et en dehors des zones délimitées en exécution de conventions ou traités internationaux concernant la conservation de la nature ou d'actes relatifs à la conservation de la nature, y compris des directives européennes, arrêtées en vertu de traités internationaux, le Gouvernement flamand peut arrêter des critères spécifiques pour l'agrément.
+
+§ 5. Les critères visés dans les paragraphes 3 et 4 sont d'application également à la subvention telle que visée à l'article 16sedecies, § 1er, 3°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 31, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16quaterdecies
+
+[<sup>1</sup> § 1er. La procédure pour l'agrément d'une réserve naturelle présente les caractéristiques suivantes :
+
+1° une demande d'agrément comme réserve naturelle est déposée par le gestionnaire du terrain, avec le consentement du propriétaire ;
+
+2° une demande d'agrément en tant que réserve naturelle peut être introduite en même temps que la demande d'approbation d'un plan de gestion de la nature pour un terrain de type trois, visé à l'article 16octies, § 1er ;
+
+3° Une demande d'agrément en tant que réserve naturelle est soumise à un avis de l'agence pour vérifier si les conditions visées à l'article 16ter decies sont réunies.
+
+Le Gouvernement flamand ou son délégué statue sur les demandes d'agrément en tant que réserve naturelle, visées au premier alinéa.
+
+L'agrément en tant que réserve naturelle est publié par extrait au Moniteur belge.
+
+§ 2. L'agrément en tant que réserve naturelle constitue une servitude d'utilité publique sur le terrain, plus précisément une servitude, de droit public, d'usage durable et de gestion prolongée du terrain en tant que réserve naturelle.
+
+§ 3. Le Gouvernement flamand ou son délégué peut, après avoir entendu le gestionnaire, abroger l'agrément en tant que réserve naturelle d'un terrain à compter du moment où les conditions d'agrément ne sont plus réunies. L'abrogation du plan de gestion de la nature d'un terrain agréé comme réserve naturelle implique de plein droit l'abrogation de l'agrément en tant que réserve naturelle. Dans ce cas, le Gouvernement flamand ou son délégué peut, après avoir entendu le gestionnaire, décider de récupérer en tout ou en partie les subventions accordées.
+
+L'abrogation de l'agrément en tant que réserve naturelle est publiée par extrait au Moniteur belge.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 32, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16quindecies
+
+[<sup>1</sup> Le Gouvernement flamand arrête les modalités pour la procédure de l'agrément en tant que réserve naturelle, la modification et l'abrogation de celui-ci.
+
+Le Gouvernement flamand arrête également le cadre de contrôle visé à l'article 16ter decies, § 2, auquel un terrain doit satisfaire pour pouvoir être agréé en tant que réserve naturelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 33, 025; En vigueur : 28-10-2017&gt;
+
+### Section 4. [<sup>1</sup> - Subventions]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2014-05-09/10, art. 34, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 16sedecies
+
+[<sup>1</sup> § 1er. Afin de promouvoir le développement et l'exécution de la gestion de la nature, le Gouvernement flamand peut, dans les limites des crédits budgétaires, octroyer des subventions pour :
+
+1° l'élaboration d'un plan de gestion de la nature, tel que visé à l'article 16bis, pour les terrains de type deux, trois ou quatre ;
+
+2° l'exécution des mesures de gestion et d'aménagement pour la réalisation d'un objectif naturel et le suivi des objectifs de gestion, visés à l'article 16bis ;
+
+3° l'achat de terrains ou l'acquisition d'un droit réel ou personnel sur des terrains dans le but de les faire agréer comme réserve naturelle ;
+
+4° l'ouverture d'un terrain avec un plan de gestion de la nature agréé et l'aménagement des travaux d'infrastructure pour permettre cette ouverture ainsi que l'accueil des visiteurs dans une réserve naturelle agréée.
+
+Le Gouvernement flamand arrête, à chaque fois pour une période de trois ans, les modalités relatives à la part du budget octroyé pour l'achat et les subventions pour l'achat de terrains visés au premier alinéa, 3°, en fonction de la réalisation des objectifs de conservation. Les achats qui ne sont pas ciblés sur des objectifs de conservation, par l'Autorité flamande ou avec des subventions de l'Autorité flamande, ne sont pas destinés à des parcelles à usage agricole professionnel. Les règles sont évaluées avant l'expiration d'une période de trois ans.
+
+§ 2. Le Gouvernement flamand arrête les modalités pour pouvoir prétendre aux subventions visées au paragraphe 1er. Dans ce cas, le Gouvernement flamand tient compte, notamment, des critères suivants :
+
+1° l'approbation du plan de gestion de la nature. Préalablement à l'approbation d'un plan de gestion de la nature, la subvention, visée au paragraphe 1er, premier alinéa, 1°, est octroyée et une avance peut être versée. Le paiement intégral de la subvention n'est possible qu'après l'approbation d'un plan de gestion de la nature ;
+
+2° dans un premier temps, le degré de réalisation des objectifs naturels visés et, ensuite, le degré d'exécution des mesures de gestion et d'aménagement ;
+
+3° le degré de réalisation de l'ouverture visée du terrain et le degré de mise en place de l'accueil des visiteurs dans des réserves naturelles agréées.
+
+[<sup>2</sup> Sous réserve de la possibilité de récupération de subventions, visée à l'article 16decies, §§ 1er et 2, et à l'article 16quaterdecies, § 3, le Gouvernement flamand prévoit encore d'autres possibilités de récupérer des subventions en tout ou en partie, notamment dans les cas suivants :
+
+1° s'il appert qu'un bénéficiaire de subventions octroyées au titre du présent article a obtenu pour la même activité d'autres subventions par lesquelles le total des subventions excède 100 % du coût total démontré de l'activité subventionnée ;
+
+2° s'il appert qu'un bénéficiaire de subventions octroyées au titre du présent article ne répond plus aux exigences pour pouvoir bénéficier de ces subventions.]<sup>2</sup>
+
+[<sup>3</sup> La récupération de la subvention est proportionnelle à la mesure dans laquelle les mesures de gestion reprises dans le plan de gestion de la nature approuvé n'ont pas été exécutées, les engagements n'ont pas été respectés et les objectifs de gestion n'ont pas été atteints.]<sup>3</sup>
+
+Le Gouvernement flamand fixe également :
+
+1° le mode de calcul de la subvention ;
+
+2° les procédures de demande, d'évaluation, d'octroi et de paiement des subventions et l'évaluation des résultats atteints ;
+
+3° la procédure de récupération des subventions.
+
+Le Gouvernement flamand peut arrêter les modalités relatives au cumul des subventions octroyées en vertu de la présente disposition et des subventions octroyées sur la base de toute autre réglementation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 35, 025; En vigueur : 28-10-2017&gt;
+
+(2)&lt;DCFL 2017-06-30/08, art. 43, 031; En vigueur : 28-10-2017&gt;
+
+(3)&lt;DCFL 2019-04-26/31, art. 65, 035; En vigueur : 29-06-2019&gt;
+
+##### Art. 16septiesdecies
+
+[<sup>1</sup> Les exemptions suivantes sont censées être octroyées comme des subventions :
+
+1° l'exemption de l'impôt de succession visée à l'article 2.7.6.0.5 du Code flamand de la Fiscalité du 13 décembre 2013 ;
+
+2° l'exemption du droit de donation visée à l'article 2.8.6.0.8 du Code flamand de la Fiscalité du 13 décembre 2013 ;
+
+3° l'exemption du droit de vente visée à l'article 2.9.6.0.7 du Code flamand de la Fiscalité du 13 décembre 2013.
+
+La subvention est censée être octroyée pendant 24 ans, au prorata de 1/24 par an, à compter à partir de :
+
+1° pour l'exemption de l'impôt de succession telle que visée à l'alinéa premier, 1° : la date de décès du testateur ;
+
+2° pour l'exemption du droit de donation telle que visée à l'alinéa premier, 2° : la date de l'acte de donation qui serait soumise, sans application de l'exonération visée à l'article 2.8.6.0.8 du Code flamand de la Fiscalité du 13 décembre 2013, aux droits de donation ;
+
+3° pour l'exemption du droit de vente telle que visée à l'alinéa premier, 3° : la date de l'acte authentique d'obtention qui serait soumis, sans application de l'exemption visée à l'article 2.9.6.0.7 du Code flamand de la Fiscalité du 13 décembre 2013, au droit de vente.
+
+Lors d'un acte juridique tel que visé à l'alinéa deux, 2° ou 3°, qui est soumis à une condition suspensive, la date du respect de la condition est substituée à la date de l'acte pour l'application du présent article.
+
+Au cas où un plan de gestion de la nature approuvé existe, les subventions visées à l'alinéa premier sont octroyées aux conditions suivantes :
+
+1° pour une période de 24 ans, à compter des dates visées à l'alinéa deux, un plan de gestion de la nature approuvé doit exister pour le terrain ;
+
+2° la gestion effectivement menée correspond au plan de gestion de la nature approuvé ;
+
+3° la gestion n'est pas reprise conformément à l'article 16decies.
+
+Au cas où l'intention existe de faire approuver un plan de gestion de la nature, les subventions visées à l'alinéa premier, sont octroyées aux conditions suivantes :
+
+1° dans les deux ans, la première partie exploratoire de la procédure d'approbation d'un plan de gestion de la nature, telle que visée à l'article 16octies, § 1er, alinéa premier, 1°, est approuvée, à compter des dates visées à l'alinéa deux ;
+
+2° dans les quatre ans après les dates visées à l'alinéa deux, un plan de gestion de la nature est approuvé ;
+
+3° pour la durée restante de la période de 24 ans visée à l'alinéa deux, à la date d'approbation du plan de gestion de la nature :
+
+a) un plan de gestion de la nature approuvé continue à exister ;
+
+b) la gestion effectivement menée correspond au plan de gestion de la nature approuvé ;
+
+c) la gestion n'est pas reprise conformément à l'article 16decies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-12-22/57, art. 4, 033; En vigueur : 09-06-2018&gt;
+
+##### Art. 16duodevicies
+
+[<sup>1</sup> § 1er. Lorsque les conditions visées à l'article 16septiesdecies, alinéas trois ou quatre, ne sont pas respectées, la subvention visée à l'article 16septiesdecies, alinéa premier, 1°, est recouvrée du propriétaire ou de l'usufruitier du bien immobilier.
+
+§ 2. En cas de cession à titre onéreux ou à titre gratuit des biens faisant l'objet de l'obtention de la subvention visée à l'article 16septiesdecies, alinéa premier, 1°, le cédant est tenu d'informer le bénéficiaire, dans l'acte de cession de la propriété ou de l'usufruit du bien immobilier, de l'existence de la subvention, pour laquelle les conditions visées à l'article 16septiesdecies, alinéas trois ou quatre, s'appliquent au moment de la passation de l'acte de cession, avec référence audit article.
+
+Tout bénéficiaire est tenu, quant à lui, d'informer de la même manière un autre bénéficiaire. Le prédécesseur en droit du propriétaire ou de l'usufruitier est tenu de dédommager le propriétaire ou l'usufruitier pour le remboursement du solde impayé de la subvention obtenue en application de l'article 16septiesdecies, alinéa premier, 1°, lorsqu'il a négligé d'informer son successeur en droit sur l'existence de la subvention conformément aux dispositions du présent article. Une personne tenue de payer l'indemnisation a, quant à lui, un recours à son prédécesseur en droit lorsque celui-ci a négligé de l'informer de l'existence de la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-12-22/57, art. 5, 033; En vigueur : 09-06-2018&gt;
+
+##### Art. 16undevicies
+
+[<sup>1</sup> § 1er. Lorsque les conditions visées à l'article 16septiesdecies, alinéas trois ou quatre, ne sont pas respectées, la subvention visée à l'article 16septiesdecies, alinéa premier, 2°, est recouvrée du propriétaire du bien immobilier ou de l'usufruitier.
+
+§ 2. En cas de cession à titre onéreux ou à titre gratuit des biens faisant l'objet de l'obtention de la subvention visée à l'article 16septiesdecies, alinéa premier, 2°, le cédant est tenu d'informer le bénéficiaire, dans l'acte de cession de la propriété ou de l'usufruit du bien immobilier, de l'existence de la subvention, pour laquelle les conditions visées à l'article 16septiesdecies, alinéas trois ou quatre, s'appliquent au moment de la passation de l'acte de cession, avec référence audit article.
+
+Tout bénéficiaire est tenu, quant à lui, d'informer de la même manière un autre bénéficiaire. Le prédécesseur en droit du propriétaire ou de l'usufruitier est tenu de dédommager le propriétaire ou l'usufruitier pour le remboursement du solde impayé de la subvention obtenue en application de l'article 16septiesdecies, alinéa premier, 2°, lorsqu'il a négligé d'informer son successeur en droit de l'existence de la subvention conformément aux dispositions dudit article. Une personne tenue de payer l'indemnisation a, quant à lui, un recours à son prédécesseur en droit lorsque celui-ci a négligé de l'informer de l'existence de la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-12-22/57, art. 6, 033; En vigueur : 09-06-2018&gt;
+
+##### Art. 16vicies
+
+[<sup>1</sup> § 1er. Lorsque les conditions visées à l'article 16septiesdecies, alinéas trois ou quatre, ne sont pas remplies, la subvention visée à l'article 16septiesdecies, alinéa premier, 3°, est recouvrée du propriétaire ou de l'usufruitier du bien immobilier.
+
+§ 2. En cas de cession à titre onéreux ou à titre gratuit des biens faisant l'objet de l'obtention de la subvention visée à l'article 16septiesdecies, alinéa premier, 1°, le cédant est tenu d'informer le bénéficiaire, dans l'acte de cession de la propriété ou de l'usufruit du bien immobilier, de l'existence de la subvention, pour laquelle les conditions visées à l'article 16septiesdecies, alinéas trois ou quatre, s'appliquent au moment de la passation de l'acte de cession, avec référence audit article.
+
+Tout bénéficiaire est tenu, quant à lui, d'informer de la même manière un autre bénéficiaire. Le prédécesseur en droit du propriétaire ou de l'usufruitier est tenu de dédommager le propriétaire ou l'usufruitier pour le remboursement du solde impayé de la subvention obtenue en application de l'article 16septiesdecies, alinéa premier, 3°, lorsqu'il a négligé d'informer son successeur en droit sur l'existence de la subvention conformément aux dispositions dudit article. Une personne tenue de payer l'indemnité a, quant à lui, un recours à son prédécesseur en droit lorsque celui-ci a négligé de l'informer de l'existence de la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-12-22/57, art. 7, 033; En vigueur : 09-06-2018&gt;
+
+## CHAPITRE V. - De la politique zonale.
+
+### Section 1. - Le réseau écologique flamand (VEN).
+
+##### Art. 17
+
+§ 1er. Le réseau écologique flamand est un ensemble cohérent et organisé d'espaces libres, au sein desquels est menée une politique spécifique en matière de conservation de la nature, fondée sur les caractéristiques et les éléments du milieu naturel, l'interdépendance des zones de l'espace libre et les richesses naturelles présentes et potentielles.
+
+Le Gouvernement flamand délimite, dans les 5 ans suivant l'entrée en vigueur du présent décret, une superficie effective à réaliser de 125.000 ha [<sup>3</sup> ...]<sup>3</sup>.
+
+§ 2. Le réseau écologique flamand comprend les éléments suivants :
+
+1° Grandes unités de nature (GEN) : il s'agit soit de zones comptant, pour au moins la moitié de leur superficie, des éléments naturels, soit de zones présentant un élément naturel de haute qualité naturelle;
+
+2° Grandes Unités Nature en Développement (GENO) : il s'agit de zones présentant une ou plusieurs des caractéristiques suivantes :
+
+a) la présence d'éléments naturels répartis sur la superficie de la zone dont la superficie globale est cependant inférieure à la moitié de la zone;
+
+b) la présence de flore et de faune importante dont la pérennité doit être assurée par des mesures en matière d'utilisation du sol;
+
+c) des terrains créés par des interventions artificielles ou non, présentant des possibilités importantes sur le plan du développement de la nature.
+
+La GEN et la GENO comprennent des zones nettement cohérentes d'une superficie contiguë suffisante.
+
+§ 3. (Toute GEN ou GENO délimitée par le Gouvernement flamand en surimpression conformément à la législation concernant l'aménagement du territoire dans les plans d'aménagement régionaux, sont considérées de droit comme une GEN ou une GENO au sens du présent décret.
+
+Un plan de délimitation établi suivant l'article 21 est supprimé de droit en ce qui concerne l'élément pour lequel, par la suite, un plan d'exécution spatial entre en vigueur et donne à cet élément une affectation en vertu de laquelle ce dernier ne peut plus être désigné comme GEN ou GEN en vertu de l'article 20 du présent décret. L'avant-projet d'un plan d'exécution spatial contient des propositions de mesures compensatoires limitant les dégâts causés par ce plan. Lorsqu'une telle suppression se fait à l'aide d'un plan d'exécution spatial communal ou provincial, le projet concerné de plan d'exécution spatial doit, en ce qui concerne cette suppression, être précédée d'un avis de l'administration chargée de la conservation de la nature et ce au plus tard pendant la séance plénière, [<sup>2</sup> visée à [<sup>4</sup> l'article 2.2.20, alinéa 2, ou à l'article 2.2.14, alinéa 2, du Code flamand de l'Aménagement du Territoire ou dans le délai d'avis de vingt et un jours s'il n'est pas organisé de séance plénière telle que visée à l'article 2.2.20, alinéa 6, ou à l'article 2.2.14, alinéa 6, du même code]<sup>4</sup>]<sup>2</sup>. Cet avis désigne les mesures compensatoires nécessaires limitant les dégâts. L'avis est obligatoire. Le collège des bourgmestre et échevins concerné, respectivement la députation permanente peut, en vue de la révision de cet avis, former recours auprès du Gouvernement flamand. Le Gouvernement peut arrêter des modalités de la procédure à suivre.
+
+La suppression visée à l'alinéa précédent ne peut pas se faire à l'aide de plans d'exécution spatiaux communaux ou provinciaux lorsque la partie concernée de la GEN ou GENO est située dans une zone définitivement fixée comme zone de protection spéciale au sens de l'article 36bis, §§ 12 ou 13. La suppression visée au précédent alinéa ne peut se faire à l'aide de plans d'exécution spatiaux communaux ou provinciaux que pour autant qu'il s'agisse de corrections des délimitations et pour autant que cette suppression ne puisse causer des dégâts significatifs à la nature ou à l'environnement naturel dans la VEN.
+
+L'élément ainsi supprimé du plan de délimitation reprend sa force de droit si et dans la mesure que le plan d'exécution spatial visé est supprimé ou annulé par le Conseil d'Etat.) &lt;DCFL 2006-05-19/36, art. 18, 008; En vigueur : 30-06-2006&gt;
+
+----------
+
+(2)&lt;DCFL 2013-03-01/19, art. 33, 022; En vigueur : 25-04-2013&gt;
+
+(3)&lt;DCFL 2014-05-09/10, art. 82, 025; En vigueur : 17-07-2014&gt;
+
+(4)&lt;DCFL 2016-07-01/23, art. 10, 030; En vigueur : 01-05-2017&gt;
+
+##### Art. 18
+
+Dans le VEN, la gestion (, dans le cadre de ses compétences,) de l'autorité administrative, quant au régime hydraulique, vise à réaliser un système aquatique au fonctionnement écologique durable qui cadre avec la nature existante ou projetée. Sont entre autres visées : la réduction des risques d'assèchement, la restauration des zones naturelles asséchées et la gestion des cours d'eau en vue de la conservation et de la remise en état des richesses naturelles sans que les zones hors du VEN subissent des effets disproportionnés. &lt;DCFL 2002-07-19/54, art. 10, 004; En vigueur : 10-09-2002&gt;
+
+##### Art. 19
+
+Le Gouvernement flamand détermine les projets, plans ou activités ayant lieu dans le VEN et les projets, plans ou activités à effet hydrologique direct sur les zones dans le VEN, pour lesquels l'initiateur ou le gestionnaire du cours d'eau ou du captage d'eau concernés est tenu de faire des études hydrologiques, en collaboration avec l'institut, y compris les évaluations des incidences écologiques, en vue de prendre des mesures effectives et de réaliser une meilleure adéquation des effets avec les éléments naturels présents et potentiels.
+
+Le Gouvernement arrête les conditions d'intégration desdites études dans l'évaluation des incidences sur l'environnement.
+
+##### Art. 20
+
+Le Gouvernement flamand peut désigner les catégories zonales du VEN, conformément aux dispositions du présent décret, les dispositions suivantes étant d'application :
+
+1° (peuvent être désignées comme GEN : les zones d'espaces verts, les zones de parcs, les zones tampons, les zones forestières, les zones d'équipement communautaire et de services publics avec en surimpression sur les plans d'exécution les zones inondables ou les bassins d'attente, les domaines militaires et les zones de destination comparables à l'une de ces zones, figurant sur les plans d'aménagement ou sur les plans d'exécution d'application dans le cadre de l'aménagement du territoire et les zones dunaires en vertu de l'article 52 de la loi du 12 juillet 1973, inséré par décret du 14 juillet 1993 portant des mesures de protection des dunes côtières;) &lt;DCFL 2002-07-19/54, art. 11, 004; En vigueur : 10-09-2002&gt;
+
+2° (peuvent être désignées comme GENO les catégories de sites énoncées au point 1°, ainsi que :
+
+\- les zones d'extraction et les zones de destination comparables, figurant sur les plans d'aménagement ou sur les plans d'exécution d'application dans le cadre de l'aménagement du territoire pour autant qu'elles aient pour destination finale une des destinations prévues au point 1°;
+
+\- les zones vallonnées, les zones de sources, les zones agricoles d'intérêt écologique ou de valeur écologique, les zones agricoles d'intérêt spécial et les zones de développement de la nature, ainsi que les zones de destination comparables à l'une de ces zones, figurant sur les plans d'aménagement ou sur les plans d'exécution d'application dans le cadre de l'aménagement du territoire.) &lt;DCFL 2002-07-19/54, art. 11, 004; En vigueur : 10-09-2002&gt;
+
+##### Art. 21
+
+&lt;DCFL 2002-07-19/54, art. 12, 004; En vigueur : 10-09-2002&gt; § 1er Pour la délimitation d'une GEN ou d'une GENO, le Gouvernement flamand dresse un plan de délimitation, en collaboration ou non avec des personnes morales de droit public ou de droit privé.
+
+§ 2. Le Gouvernement flamand arrête les modalités des procédures à suivre.
+
+§ 3. Le Gouvernement flamand établit provisoirement le projet de plan de délimitation.
+
+§ 4. Dès la fixation provisoire du projet de délimitation, les dispositions réglementaires des articles 25 sont d'application.
+
+§ 5. Le Gouvernement flamand soumet un plan de délimitation à une enquête publique qui est annoncée dans les 60 jours qui suivent la fixation provisoire par affichage dans chaque commune concernée en tout ou en partie, par un avis au Moniteur Belge et dans au moins trois journaux diffusés dans la Région.
+
+Cette annonce mentionne au moins :
+
+1° les communes concernées en tout ou en partie par le projet de plan;
+
+2° le ou les endroits où le projet de plan est mis à la disposition du public;
+
+3° la date de début et de cessation de l'enquête publique;
+
+4° l'adresse à laquelle les remarques et les réclamations, visées au § 8 doivent parvenir ou peuvent être remises, et l'annonce selon laquelle les remarques et les réclamations peuvent également être remises à la maison communale des communes que concerne en tout ou en partie la fixation visée.
+
+§ 6. Après l'annonce, le projet de plan est mis à la disposition du public à la maison communale de chaque commune concernée pendant 60 jours.
+
+§ 7. Les réclamations et remarques sont adressées au " Minaraad " (Conseil flamand pour l'environnement et la nature) au plus tard le dernier jour du délai de l'enquête publique par lettre recommandée à la poste ou remise contre récépissé.
+
+Les réclamations et remarques peuvent également être remises, au plus tard le dernier jour dudit délai à la maison communale de chaque commune visée au § 6 contre récépissé ou communiquées oralement au bourgmestre ou au fonctionnaire délégué qui en dresse procès-verbal. Dans ce cas, la commune fournit au plus tard le dixième jour ouvrable qui suit l'enquête publique les réclamations et remarques au Minaraad. Les réclamations et remarques qui sont remises au Minaraad passé ce délai ne doivent pas être prises en compte. Le Gouvernement flamand peut arrêter les modalites concernant la réception et la conservation des réclamations et remarques par la commune et concernant la manière dont ces dernières sont transmises au Minaraad.
+
+§ 8. Le Minaraad coordonne toutes les réclamations et remarques et rend un avis motivé au Gouvernement flamand dans les 60 jours de la fin de l'enquête publique.
+
+Cet avis comprend, le cas échéant, un point de vue majoritaire et un point de vue minoritaire.
+
+A la demande motivée du Minaraad dans un délai de 25 jours après la fin de l'enquête publique, le Gouvernement flamand statue sur la prolongation de 60 jours du délai de 60 jours dans lequel le Minaraad est tenu d'émettre son avis.
+
+Faute de décision dans un délai de 15 jours de la réception de la demande, la prolongation est censée accordée.
+
+§ 9. Dans les 180 jours après le début de l'enquête publique, ou 240 jours en cas de prolongation du délai cité au § 8, le Gouvernement flamand fixe le plan définitif.
+
+Le décret portant fixation définitive du plan est publié par extrait au Moniteur Belge dans les 30 jours après la fixation définitive.
+
+Le plan définitivement fixé entre en vigueur 15 jours après sa publication.
+
+Le Gouvernement flamand envoie une copie du plan definitivement fixé et de l'arrêté portant fixation à la (aux) province(s) concernée(s) et à chaque commune, visée au § 5, où ces documents peuvent être consultés.
+
+##### Art. 22
+
+(Abrogé) &lt;DCFL 2002-07-19/54, art. 13, 004; En vigueur : 10-09-2002&gt;
+
+##### Art. 23
+
+(Abrogé) &lt;DCFL 2002-07-19/54, art. 13, 004; En vigueur : 10-09-2002&gt;
+
+##### Art. 24
+
+§ 1er. Un plan de délimitation de la GEN ou de la GENO peut être revu à tout moment dans les limites d'affectation prévues à l'article 20. Les dispositions concernant l'établissement d'un plan sont également applicables à sa révision.
+
+§ 2. Le plan mis en révision reste valable jusqu'à l'entrée en vigueur définitive du plan revu.
+
+##### Art. 25
+
+§ 1er. (L'autorité administrative prend, dans le cadre de ses compétences, les mesures nécessaires pour préserver, restaurer et développer par priorité, par rapport à d'autres fonctions dans le site, la nature et le milieu naturel dans la GEN.
+
+Outre les mesures visées au chapitre IV, section 4 du présent chapitre et du chapitre VI, et sans préjudice des dispositions de l'alinéa premier, ces mesures portent sur :
+
+1° la promotion d'une sylviculture respectueuse de la nature et l'instauration de réserves forestières conformément aux dispositions du décret forestier;
+
+2° la préservation, la restauration et/ou l'adéquation du régime hydraulique avec les éléments naturels à haute qualité naturelle, notamment la qualité de l'eau, la quantité d'eau et la structure naturelle des cours d'eau et de leurs zones périphériques sans que les zones environnantes en subissent des effets disproportionnés;
+
+3° la protection des zones d'infiltration des eaux souterraines;
+
+4° la préservation et la restauration du microrelief et de la structure paysagère;
+
+5° l'usage récréatif complémentaire;
+
+6° l'usage agricole complémentaire;
+
+7° la gestion des valeurs naturelles pendant ou après le déroulement des activités économiques ou autres qui ont lieu sur le site, en tenant compte de valeurs culturelles et paysagères du site.)&lt;DCFL 2002-07-19/54, art. 14, 004; En vigueur : 10-09-2002&gt;
+
+§ 2. (...) &lt;DCFL 2002-07-19/54, art. 14, 004; En vigueur : 10-09-2002&gt;
+
+§ 3. Dans la GEN (et dans la GENO), les prescriptions suivantes sont d'application : &lt;DCFL 2002-07-19/54, art. 14, 004; En vigueur : 10-09-2002&gt;
+
+1° l'utilisation d'engrais est réglée, conformément au [<sup>5</sup> décret relatif aux engrais]<sup>5</sup>;
+
+2° sauf en cas de dispense individuelle accordée par (l'Agentschap voor Natuur en Bos (Agence de la Nature et des Forêts)) ou de dispense générale, il est interdit : &lt;DCFL 2007-12-07/51, art. 62, 011; En vigueur : 14-01-2008&gt;
+
+1\) [<sup>5</sup> d'utiliser des pesticides sur des parcelles où, conformément aux articles 41bis et 41ter du décret relatif aux engrais, la fertilisation est limitée aux déjections d'animaux aux pâturages de deux unités de gros bétail par hectare sur une base annuelle, augmentées le cas échéant d'une fertilisation supplémentaire de maximum 100 kg d'azote provenant d'engrais chimiques par hectare par an. Le Gouvernement flamand peut préciser, pour certains cas de parcelles ne relevant pas de cette interdiction, les modalités ou les moyens d'utilisation de pesticides, sans toutefois pouvoir procéder à une interdiction totale ;]<sup>5</sup>
+
+2\) de modifier la végétation, y compris les cultures pluriannuelles ou les petits éléments paysagers, sauf en application d'un plan de gestion adopté, conformément au décret forestier du 13 juin 1990 [<sup>4</sup> ou en application d'un plan de gestion de la nature conformément au présent décret]<sup>4</sup>;
+
+3\) de modifier le relief du sol;
+
+4\) d'effectuer des travaux conduisant directement ou indirectement à un abaissement de la nappe phréatique et de prendre des mesures pour optimiser le drainage et l'écoulement des eaux existantes;
+
+5\) de modifier la structure des cours d'eau.
+
+[<sup>2</sup> Sans préjudice de l'application de l'article 16, de l'article 26bis et de l'article 36ter, §§ 3 à 6 inclusivement, des activités connexes ou périodiques soumises à exemption, peuvent être autorisées par une seule exemption pour autant que la nature, le lieu et l'ampleur et la fréquence de chacune de ces activités soumises à exemption soient clairement définis.]<sup>2</sup>
+
+Le Gouvernement flamand arrête, après avis du [<sup>1</sup> ...]<sup>1</sup> Conseil Mina, les conditions et la procédure, le délai et la procédure d'appel en matière d'octroi de dispenses visées au § 3, 2°, du présent article.
+
+Sans préjudice de l'application des articles 18 et 19 pour les captages d'eau potable autorisés existants et la capacité autorisée s'y rapportant, le Gouvernement flamand peut accorder une dispense générale de l'interdiction d'effectuer des travaux conduisant directement ou indirectement à un abaissement de la nappe phréatique.
+
+[<sup>3</sup> Conformément à l'article 6.4.4, § 3, du décret du 12 juillet 2013 relatif au patrimoine immobilier, pour l'octroi d'une dispense telle que visée au § 3, 2°, du présent article, ayant trait à un acte au niveau de biens protégés ou dans des biens protégés tels que visés dans ce décret, un avis est demandé à l'entité qui est chargée par le Gouvernement flamand de l'exécution de la politique en matière de patrimoine immobilier.]<sup>3</sup>
+
+----------
+
+----------
+
+(1)&lt;DCFL 2004-04-30/45, art. 42, 005; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2013-03-01/19, art. 34, 022; En vigueur : 25-04-2013&gt;
+
+(3)&lt;DCFL 2013-07-12/44, art. 12.1.12, 023; En vigueur : 01-01-2015 (AGF 2014-05-16/42, art. 13.4.1)&gt;
+
+(4)&lt;DCFL 2014-05-09/10, art. 83, 025; En vigueur : 28-10-2017&gt;
+
+(5)&lt;DCFL 2019-04-26/31, art. 66, 035; En vigueur : 29-06-2019&gt;
+
+##### Art. 26
+
+[Abrogé] &lt;DVR 2002-07-19/54, art. 15, 004; En vigueur : 10-09-2002&gt;
+
+##### Art. 26bis
+
+&lt;Inséré par DCFL 2002-07-19/54, art. 16; En vigueur : 10-09-2002&gt; § 1er L'autorité ne peut accorder d'autorisation ou de permission pour une activité susceptible de causer des préjudices irréparables à la nature dans le VEN.
+
+Si pour une activité, une déclaration ou une notification est exigée, le notifiant doit démontrer que l'activité ne peut causer aucun préjudice inévitable et irréparable à la nature dans le VEN. A défaut du notifiant de remplir cette obligation, l'autorité concernée doit examiner elle-même si l'activité peut causer des préjudices inévitables et irréparables à la nature dans le VEN. Si tel est le cas, l'autorité doit en informer le notifiant par lettre recommandée dans l'éventuel délai d'attente d'exécution de l'activité prévu par la législation dans le cadre de laquelle la notification ou la déclaration a lieu ou, à défaut d'un tel délai, dans les trente jours qui suivent la notification ou la déclaration. Le notifiant ne peut démarrer l'exécution de l'activité en question que lorsque le délai précité s'est écoulé sans qu'il ait reçu l'information précitée de la part de l'autorité.
+
+Le Gouvernement flamand peut déterminer les modalités selon lesquelles il doit être démontré qu'une activité ne peut causer aucun préjudice inévitable et irréparable à la nature dans le VEN.
+
+§ 2. Dans les cas visés au § 1er, l'autorité visée au § 1er demande avis au service chargé de la conservation de la nature quant à la question de savoir si l'activité concernée est susceptible ou non de causer des préjudices inévitables et irréparables à la nature dans le VEN.
+
+Le Gouvernement flamand peut fixer les modalités ayant trait à la procédure à suivre pour la demande d'avis.
+
+§ 3. Contrairement au § 1er, une activité qui peut causer des préjudices inévitables et irréparables à la nature dans le VEN peut, en l'absence d'alternative, tout de même être autorisée ou exécutee pour des raisons impératives d'intérêt public majeur, y compris de nature sociale ou économique. Dans ce cas, il convient de prendre toutes les mesures compensatoires et limitatrices nécessaires.
+
+Quiconque a fait la demande, la déclaration ou la notification visées au § 1er et qui respectivement, a reçu un refus ou un avis tel que défini au § 1er, alinéa deux de la part de l'autorité concernée, adresse à cette autorité une requête en application de la possibilité de dérogation prévue dans ce paragraphe.
+
+Le Gouvernement flamand fixe la procédure à suivre concernant ces demandes et le traitement de ces dernières.
+
+Le Gouvernement flamand évalue l'existence de raisons impératives d'intérêt public majeur, y compris de nature sociale ou économique.
+
+### Section 2. - Réseau intégral d'imbrication et d'appui.
+
+##### Art. 27
+
+(§ 1er.) L'IVON est un ensemble de zones dans lesquelles l'autorité administrative (, dans le cadre de ses compétences,) assure la préservation des richesses naturelles présentes, prend des mesures pour encourager et optimiser ses richesses naturelles, ainsi que des mesures incitatives pour favoriser la diversité biologique. &lt;DCFL 2002-07-19/54, art. 17, 004; En vigueur : 10-09-2002&gt;
+
+Ces mesures ne peuvent pas régler l'exploitation agricole et forestière dans la zone affectée à cet effet, à moins que des contrats de gestion ne soient conclus a cette fin, conformément aux articles 45 et 46.
+
+(§ 2.) L'IVON comprend les éléments suivants : &lt;DCFL 2002-07-19/54, art. 17, 004; En vigueur : 10-09-2002&gt;
+
+1° zones naturelles d'imbrication : il s'agit de zones d'un seul tenant, présentant plusieurs fonctions et caractérisees par la presence d'importantes richesses naturelles, dont la durabilité peut être atteinte par la réalisation du principe du standstill, par la préservation et la restauration des propriétés structurelles des cours d'eau, par la préservation et la restauration du régime hydraulique, du relief et du sol et par la stimulation de l'entretien et du développement des richesses naturelles.
+
+Peuvent être désignées comme zone naturelle d'imbrication, les zones prévues à (l'article 20), ainsi que les zones agricoles d'intérêt paysager et les zones de loisirs, en application du décret relatif à l'aménagement du territoire, coordonné le 22 octobre 1996. &lt;DCFL 2002-07-19/54, art. 17, 004; En vigueur : 10-09-2002&gt;
+
+Le Gouvernement flamand delimite, dans les 5 ans de l'entrée en vigueur du présent décret, une superficie effective de 150 000 ha de zones naturelles d'imbrication [<sup>1</sup> ...]<sup>1</sup> ;
+
+2° zones naturelles de transition : il s'agit de zones qui, quelle que soit leur superficie, sont essentielles pour la migration des plantes et des animaux entre les zones du VEN et/ou des réserves naturelles et qui forment une bande ou une ligne intégrant de petits élements paysagers.
+
+(§ 3. Toute zone naturelle d'imbrication délimitée en surimpression par le Gouvernement flamand conformément à la législation concernant l'aménagement du territoire dans un plan d'adaptation de l'espace régional, est considéré de plein droit comme zone naturelle d'imbrication au sens du présent décret.
+
+Toute zone naturelle de transition ou site comparable délimité par la (conseil provincial) conformément à la législation concernant l'aménagement du territoire dans un plan d'adaptation de l'espace provincial, est considéré de plein droit comme zone naturelle de transition au sens du présent décret. &lt;DCFL 2007-05-25/39, art. 37, 1°, 010; En vigueur : 29-06-2007&gt;
+
+Un plan de délimitation établi suivant l'(article 30, § 1er,) est supprimé de droit en ce qui concerne l'élément pour lequel, par la suite, un plan d'adaptation de l'espace régional entre en vigueur et donne à cet élément une affectation en vertu de laquelle ce dernier ne peut plus être désigné comme zone naturelle d'imbrication en vertu de l'article 27, § 2 du présent décret. L'élément ainsi supprimé du plan de délimitation reprend sa force de droit si, et dans la mesure où, le plan d'adaptation visé par le Conseil d'Etat est suspendu ou annulé.) &lt;DCFL 2002-07-19/54, art. 17, 004; En vigueur : 10-09-2002&gt; &lt;DCFL 2007-05-25/39, art. 37, 2°, 010; En vigueur : 29-06-2007&gt;
+
+(Un plan de délimitation d'une zone de liaison naturelle fixé en vertu de l'article 30 § 2, peut être supprimé par un plan d'exécution provincial ou régional d'aménagement du territoire ou sur des délimitations sur la base des articles 21 ou 30, § 1er.) &lt;DCFL 2007-05-25/39, art. 37, 3°, 010; En vigueur : 29-06-2007&gt;
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 52, 013; En vigueur : 14-02-2009&gt;
+
+##### Art. 28
+
+§ 1er. Dans les zones naturelles d'imbrication, l'autorité administrative est tenue de prendre (, dans le cadre de ses compétences,) les mesures nécessaires, sans que les autres fonctions de la zone en subissent des effets disproportionnés, pour protéger et développer la nature existante, notamment en veillant dans l'exécution de la politique à : &lt;DCFL 2002-07-19/54, art. 18, 004; En vigueur : 10-09-2002&gt;
+
+1° la préservation de la qualité des habitats et la quantité des richesses naturelles;
+
+2° la préservation d'un régime hydraulique propice aux richesses naturelles et la lutte contre l'assèchement et la dépréciation du relief et du sol;
+
+3° dans les zones d'espaces verts, les zones de parcs, les zones-tampons et les zones forestières figurant sur les plans d'exécution d'application, dans le cadre de l'aménagement du territoire, la préservation d'un régime hydraulique propice aux richesses naturelles et la lutte contre l'assèchement et la depréciation du relief et du sol, ainsi que sa restauration;
+
+4° la préservation ou la restauration des propriétés structurelles des cours d'eau propices à la nature.
+
+§ 2. (A l'exception des zones d'espaces verts et des zones forestières et des zones de destination comparables à l'une de ces zones, figurant sur les plans d'aménagement ou les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire, outre les mesures énoncées au chapitre IV, à la section 4 du présent chapitre et au chapitre VI, seules des mesures incitatives peuvent être prises à l'encontre des propriétaires et des utilisateurs du sol, et ce pour favoriser :
+
+1° une sylviculture respectueuse de la nature et un boisement écologique conformes aux dispositions du décret forestier;
+
+2° la protection et la gestion de la végétation de petits éléments paysagers, de la faune et de la flore;
+
+3° la préservation d'un régime hydraulique propice à la nature et la lutte contre l'assèchement et la dépréciation du relief et du sol sans que les autres fonctions en subissent des effets disproportionnés;
+
+4° dans les zones d'espaces verts, les zones de parcs, les zones tampons et les zones forestières et les zones de destination comparables a l'une de ces zones, figurant sur les plans d'execution spatiaux d'application dans le cadre de l'aménagement du territoire, la préservation d'un régime hydraulique propice à la nature et la lutte contre l'assèchement et la dépréciation du relief et du sol ainsi que sa restauration sans que les zones environnantes en subissent des effets disproportionnés;
+
+5° la préservation ou la restauration des propriétés structurelles des cours d'eau propices à la nature;
+
+6 ° l'instauration d'un usage récréatif complémentaire compatible.) &lt;DCFL 2002-07-19/54, art. 18, 004; En vigueur : 10-09-2002&gt;
+
+##### Art. 29
+
+[<sup>1</sup> ...]<sup>1</sup> (A l'exception des zones d'espaces verts et des zones forestières et des zones de destination comparables à l'une de ces zones, figurant sur les plans d'amenagement ou les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire, (dans les zones naturelles de transition) outre les mesures énoncées au chapitre IV, à la section 4 du présent chapitre et au chapitre VI, seules des mesures incitatives peuvent être prises à l'encontre des propriétaires et des utilisateurs du sol, et ce en vue de : &lt;DCFL 2005-04-22/33, art. 14, 007; En vigueur : 01-01-2005&gt;
+
+1° un aménagement en vue de préserver ou d'améliorer la fonction de transition;
+
+2° l'entretien, le développement et la gestion des petits éléments paysagers et les autres éléments de transition, y compris les cours d'eau;
+
+3° la préservation et le développement des éléments naturels existants.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 53, 013; En vigueur : 14-02-2009&gt;
+
+##### Art. 30
+
+&lt;DCFL 2002-07-19/54, art. 20, 004; En vigueur : 10-09-2002&gt; (§ 1er.) &lt;DCFL 2007-05-25/39, art. 28, 010; En vigueur : 29-06-2007&gt; Pour délimiter une zone naturelle d'imbrication, le Gouvernement flamand dresse un plan de délimitation, en collaboration ou non avec des personnes morales de droit public ou de droit privé La délimitation se déroule suivant les dispositions de l'article 21, §§ 2 à 9, étant entendu que l'article 25 cité au § 4 doit être compris comme étant l'article 25.
+
+(§ 2. La deputation permanente délimite les zones de liaison naturelles. Le Gouvernement flamand fixe la procédure.) &lt;DCFL 2007-05-25/39, art. 38, 010; En vigueur : 29-06-2007&gt;
+
+##### Art. 31
+
+§ 1er. Un plan de délimitation d'une partie de l'IVON peut être revu à tout moment, dans les limites d'affectation prévues à l'article 27. Les dispositions concernant l'établissement d'un plan sont également applicables à sa révision.
+
+§ 2. Le plan mis en révision reste valable jusqu'à l'entrée en vigueur définitive du plan revu.
+
+### Section 3. - Réserves naturelles.
+
+##### Art. 32
+
+&lt;Abrogé par DCFL 2014-05-09/10, art. 84, 1°, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 33
+
+&lt;Abrogé par DCFL 2014-05-09/10, art. 84, 2°, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 34
+
+&lt;Abrogé par DCFL 2014-05-09/10, art. 84, 3°, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 35
+
+&lt;DCFL 2002-07-19/54, art. 22, 004; En vigueur : 10-09-2002&gt; § 1er. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 2. Dans les réserves naturelles, [<sup>3</sup> visées à l'article 16ter decies,]<sup>3</sup> il est interdit, sauf dispense accordée [<sup>3</sup> par un plan de gestion approuvé conformément au présent décret]<sup>3</sup> :
+
+1° de pratiquer des sports individuels ou en groupe;
+
+2° d'utiliser ou d'abandonner des véhicules à moteur, à moins que ceux-ci soient nécessaires pour la gestion et la surveillance de la réserve pour secourir des personnes en danger;
+
+3° d'ériger, même temporairement, des baraques, hangars, tentes ou autres constructions;
+
+4° de perturber la tranquillité ou de faire de la publicité, de quelque manière que soit;
+
+5° de perturber intentionnellement des espèces animales vivant dans la nature, notamment durant la période de reproduction, de dépendance, d'hibernation et de migration; de les capturer et de les tuer intentionnellement; de ramasser ou de détruire intentionnellement les oeufs, de détruire ou de detériorer leurs nids, leurs sites de reproduction, leurs aires de repos et leurs refuges;
+
+6° de cueillir, rassembler, couper, déraciner ou détruire intentionnellement des plantes ou d'endommager et détruire de quelque manière que soit, la végétation ou les plantes;
+
+7° d'effectuer des excavations, forages, terrassements ou d'exploiter des matériaux, procéder à des travaux susceptibles de modifier la nature du sol, l'aspect du terrain, les sources et le réseau hydrographique, de poser des canalisations souterraines ou aériennes, d'ériger des panneaux publicitaires et d'apposer des affiches;
+
+8° de faire du feu et de verser des déchets;
+
+9° d'utiliser des pesticides;
+
+10° d'épandre des engrais, à l'exclusion des déjections naturelles résultant d'un pâturage extensif;
+
+11° de modifier le niveau de l'eau et de procéder à des rejets d'eau artificiels;
+
+12° de survoler le terrain à basse altitude ou d'y atterrir avec des avions, hélicoptères, ballons et autres aéronefs de quelque nature que ce soit.
+
+Ces mesures ne peuvent toutefois imposer aucune servitude aux zones environnantes.
+
+Le Gouvernement flamand peut prendre, pour des raisons de conservation de la nature, des mesures générales supplémentaires en faveur des réserves naturelles.
+
+Dans l'intérêt de la conservation de la nature, de la santé publique ou de la recherche scientifique, le Gouvernement flamand peut accorder des dispenses d'interdictions visées au présent article afin d'éviter des dommages disproportionnés.
+
+[<sup>1</sup> Le Gouvernement flamand peut arrêter que l'Agence est habilité à accorder une dispense des interdictions énoncées au présent paragraphe, en vue du partage récréatif ou éducatif et pour autant que cette utilisation partagée s'inscrive dans les objectifs de la réserve naturelle.]<sup>1</sup>
+
+[<sup>2</sup> Conformément à l'article 6.4.4, § 3, du décret du 12 juillet 2013 relatif au patrimoine immobilier, pour l'octroi d'une dispense telle que visée aux alinéas quatre et cinq du paragraphe 2 du présent article, ayant trait à un acte au niveau de biens protégés ou dans des biens protégés tels que visés dans ce décret, un avis est demandé à l'entité qui est chargée par le Gouvernement flamand de l'exécution de la politique en matière de patrimoine immobilier.]<sup>2</sup>
+
+----------
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 54, 013; En vigueur : 14-02-2009&gt;
+
+(2)&lt;DCFL 2013-07-12/44, art. 12.1.14, 023; En vigueur : 01-01-2015 (AGF 2014-05-16/42, art. 13.4.1)&gt;
+
+(3)&lt;DCFL 2014-05-09/10, art. 85, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 36
+
+&lt;Abrogé par DCFL 2014-05-09/10, art. 86, 025; En vigueur : indéterminée &gt;
+
+### Section 3bis. - Les zones spéciales de conservation &lt;Inséré par DCFL 2002-07-19/54, art. 24; En vigueur : 10-09-2002&gt;
+
+##### Art. 36bis
+
+&lt;Inséré par DCFL 2002-07-19/54, art. 25; En vigueur : 10-09-2002&gt; § 1er Le Gouvernement flamand arrête, sur proposition de (l'Instituut voor Natuur- en Bosonderzoek), les sites susceptibles d'être désignés comme zones spéciales de conservation, par le biais d'un arrêté portant fixation. &lt;DCFL 2007-12-07/51, art. 64, 1°, 011; En vigueur : 14-01-2008&gt;
+
+L'arrêté portant fixation provisoire comprend un plan graphique qui indique le ou les sites pour lesquels le décret est d'application, de même qu'une description scientifique et une localisation du ou des sites. Le Gouvernement flamand peut arrêter les modalités ayant trait au contenu et à la forme dudit arrêté.
+
+Pour les zones spéciales de conservation d'application dans la directive "habitats ", la fixation provisoire a lieu sur la base des critères de l'annexe V du présent décret et des données scientifiques pertinentes.
+
+Pour les zones spéciales de conservation d'application dans la directive "oiseaux ", sont désignés les sites qui, en raison du nombre et de la superficie, sont les plus appropriés à la préservation :
+
+\- des espèces énumérées à l'annexe IV du présent décret;
+
+\- des oiseaux migrateurs non énumérés à l'annexe IV du présent décret et présents sur le territoire de la Région flamande, dont il convient de tenir compte des besoins de protection en matière de zones de couvée, de mue, d'avitaillement et d'hibernation ainsi que des aires de repos dans leurs zones de migration.
+
+§ 2. Le Gouvernement flamand soumet l'arrêté portant fixation provisoire à une enquête publique qui doit être annoncée dans les 30 jours qui suivent la fixation provisoire, au minium par :
+
+1° affichage dans toutes les communes concernées en tout ou en partie par la fixation;
+
+2° un avis au Moniteur Belge et dans au moins trois journaux diffusés dans la Région flamande.
+
+3° un avis qui sera diffusé trois fois par la radio et la télévision publiques.
+
+Cette annonce mentionne au moins :
+
+1° les communes concernées en tout ou en partie par le projet de plan;
+
+2° le ou les endroits où l'arrêté portant fixation et la note visée au § 3 sont mis à la disposition du public;
+
+3° la date de début et de cessation de l'enquête publique;
+
+4° l'adresse de (l'Agentschap voor Natuur- en Bosonderzoek) à laquelle les avis, les remarques et les réclamations visés au § 4 doivent parvenir ou peuvent être remis, et l'annonce selon laquelle les remarques et les réclamations peuvent également être remises à la maison communale des communes concernées en tout ou en partie par la fixation en question. &lt;DCFL 2007-12-07/51, art. 64, 2°, 011; En vigueur : 14-01-2008&gt;
+
+§ 3. Après l'annonce, l'arrêté portant fixation provisoire ainsi qu'une note concernant la méthode suivie pour la délimitation des sites provisoirement fixés sont mis à la disposition du public pendant 60 jours à la maison communale de chaque commune concernée en tout ou en partie par la fixation en question.
+
+§ 4. Les réclamations et remarques sont adressées à (l'Agentschap voor Natuur- en Bosonderzoek) au plus tard le dernier jour du délai de l'enquête publique par lettre recommandée à la poste ou remise contre récépissé. &lt;DCFL 2007-12-07/51, art. 64, 2°, 011; En vigueur : 14-01-2008&gt;
+
+Les réclamations et remarques peuvent également être remises au plus tard le dernier jour dudit délai à la maison communale de chaque commune visée au § 2, alinéa premier, 1 °, contre récépissé ou communiquées oralement au bourgmestre ou au fonctionnaire délégué qui en dresse procès-verbal. Dans ce cas, la commune fournit au plus tard le dixième jour ouvrable qui suit l'enquête publique les réclamations et remarques à (l'Agentschap voor Natuur- en Bosonderzoek). Les réclamations et remarques qui sont remises à (l'Agentschap voor Natuur- en Bosonderzoek) passé ce délai ne doivent pas être prises en compte. Le Gouvernement flamand peut arrêter les modalités concernant la réception et la conservation des réclamations et remarques par la commune et concernant la manière dont ces dernières sont transmises à (l'Agentschap voor Natuur- en Bosonderzoek). &lt;DCFL 2007-12-07/51, art. 64, 2°, 011; En vigueur : 14-01-2008&gt;
+
+L'administration chargée de l'aménagement du territoire peut rendre un avis à (l'Agentschap voor Natuur- en Bosonderzoek) au plus tard le dernier jour de l'enquête publique.
+
+§ 5. (L'Agentschap voor Natuur- en Bosonderzoek) rassemble et coordonne tous les avis, réclamations et remarques et rend un avis motivé au Gouvernement flamand dans les 90 jours de la fin de l'enquête publique. Cet avis comprend également l'avis de l'Institut afin de vérifier si les propositions de modifications des sites susceptibles d'être désignés comme zones spéciales de conservation satisfont aux critères énoncés au § 1er, troisième ou quatrième alinéa. &lt;DCFL 2007-12-07/51, art. 64, 2°, 011; En vigueur : 14-01-2008&gt;
+
+(l'Agentschap voor Natuur- en Bosonderzoek) transmet l'ensemble des avis, remarques et réclamations de même que l'avis motivé au Gouvernement flamand. &lt;DCFL 2007-12-07/51, art. 64, 2°, 011; En vigueur : 14-01-2008&gt;
+
+§ 6. Dans les (150 jours) après la cessation de l'enquête publique, le Gouvernement flamand arrête les sites susceptibles d'être désignés comme zones spéciales de conservation. &lt;DCFL 2005-04-22/33, art. 15, 007; En vigueur : 01-01-2005&gt;
+
+Lors de la fixation définitive des sites visés à l'alinéa premier, seules peuvent être apportées, par rapport à l'arrêté portant fixation provisoire, des modifications qui sont basées sur, ou découlent des réclamations et remarques ou des avis formulés au cours de l'enquête publique, et ce, pour autant que soient respectées les dispositions du § 1er, troisième ou quatrième alinéa.
+
+La fixation définitive des sites visés à l'alinéa premier ne peut toutefois pas concerner des parties de territoire ne figurant pas dans l'arrêté portant fixation provisoire.
+
+§ 7. L'arrêté portant fixation définitive est publié par le Gouvernement flamand, par extrait au Moniteur Belge dans les 30 jours après la fixation définitive.
+
+L'arrêté entre en vigueur 15 jours après sa publication. Les cartes ont priorité sur les parties de texte.
+
+Le Gouvernement flamand envoie une copie de l'arrêté portant fixation définitive à la (aux) province(s) concernée(s) et aux communes, où il peut être consulté.
+
+Pour les zones spéciales de conservation d'application dans la directive " oiseaux ", l'arrêté portant fixation définitive constitue également l'arrêté de désignation tel que visé au § 9.
+
+§ 8. Dans le délai visé au § 7, alinéa deux, le Gouvernement flamand envoie l'arrête visé au § 7 à la Commission européenne.
+
+§ 9. [<sup>1</sup> Après que la Commission a déclaré un site d'intérêt communautaire sur la base du § 8, le Gouvernement flamand désigne, par arrêté, ce site comme zone spéciale de protection, dans les meilleurs délais et au plus tard dans les six ans. Cela se fait dans le respect des dispositions du § 1er, deuxième alinéa.]<sup>1</sup>
+
+Cet arrêté de désignation est publié par extrait au Moniteur Belge par le Gouvernement flamand.
+
+L'arrêté de désignation entre en vigueur 15 jours après sa publication. Les cartes ont priorité sur les parties de texte.
+
+Le Gouvernement flamand envoie une copie de l'arrêté de désignation à la (aux) province(s) concernée(s) et aux communes, où il peut être consulté.
+
+§ 10. L'arrêté de désignation visé au § 9 remplace, dès son entrée en vigueur, l'arrêté visé au § 12 ou l'arrêté portant fixation définitive des sites visés au § 6, alinéa premier, ce qui concerne chaque domaine faisant l'objet du premier arrêté.
+
+Dans les trois mois après que la Commission a décidé de ne pas déclarer d'intérêt communautaire un site qui a été définitivement fixé en vertu du § 6 ou qui fait l'objet de l'arrêté visé au § 12, le Gouvernement flamand supprime l'arrêté concerné pour autant qu'il ait trait à ce site. Le Gouvernement flamand envoie une copie de l'arrêté de suppression à la (aux) province(s) et communes concernées.
+
+§ 11. En ce qui concerne les sites auxquels a trait la procédure de concertation visée à l'article 5 de la directive "habitats ", toute autorité administrative prend, dans le cadre de ses compétences, les mesures nécessaires pour prévenir une dépréciation grave de la qualité de la nature durant la période de concertation et dans l'attente d'un arrêté du Conseil européen. Dans les sites qui, à la suite d'une concertation ou en vertu de l'arrêté du Conseil européen, sont selectionnés comme site d'intérêt communautaire, les dispositions du § 9 sont applicables par analogie.
+
+§ 12. Les sites visés par l'arrêté du Gouvernement flamand du 24 mai 2002 portant fixation des sites qui, en application de l'article 4, alinéa premier de la Directive 92/43/CEE du Conseil des Communautés européennes du 21 mai 1992 concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages, sont proposés à la Commission européenne comme zones spéciales de conservation, sont considérés comme étant définitivement fixés, au sens du § 6.
+
+§ 13. Toute zone visée à l'article 1er, §2, de l'arrêté du Gouvernement flamand du 17 octobre 1988 portant désignation des zones spéciales de conservation au sens de l'article 4 de la directive " oiseaux " et toute zone visée à l'article 1er, § 3 dudit arrêté sont considérées comme etant définitivement fixées, au sens du § 6, pour autant qu'il s'agisse des zones de destination énoncées dans ledit paragraphe et des habitats cités pour cette zone.
+
+§ 14. Les dispositions du présent décret portant fixation des sites susceptibles d'être désignés comme zones spéciales de conservation et portant désignation des zones spéciales de conservation, sont également d'application à la révision de celui-ci.
+
+§ 15. Aussitôt qu'un site susceptible d'être désigné comme zone spéciale de conservation est fixé au sens du § 6 ou du § 12, il est considéré comme zone spéciale de conservation en ce qui concerne l'application des articles 13; § 4, 34, 36, 36ter , §§ (2) a 6, 47 et 48 du présent décret. &lt;DCFL 2006-05-19/36, art. 20, 008; En vigueur : 30-06-2006&gt;
+
+Un site définitivement fixé au sens du § 6 ou du § 12, est également soumis à l'article 19 du décret forestier, à l'article 16 du décret du 16 avril 1996 portant protection des sites ruraux, à l'article 13 du décret du 21 décembre 1988 portant création d'une "Vlaamse Landmaatschappij", aux articles 62 (, 70 et 71) de la loi du 22 juillet 1970 relative au remembrement légal de biens ruraux en vertu de la loi, et des articles 15ter , §§ 4 et 5, et 15sexies , § 1er, du décret relatif aux engrais. &lt;DCFL 2005-04-22/33, art. 16, 007; En vigueur : 01-01-2005&gt;
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 55, 013; En vigueur : 14-02-2009&gt;
+
+##### Art. 36ter
+
+&lt;Inséré par DCFL 2002-07-19/54, art. 26; En vigueur : 10-09-2002&gt; § 1er Dans les zones spéciales de conservation, quelle que soit l'affectation du site concerné, l'autorité administrative prend, dans le cadre de ses compétences, les mesures de conservation nécessaires qui doivent toujours répondre aux exigences écologiques des types d'habitats énoncés à l'annexe Ire du présent décret des espèces citées aux annexes II, III et IV du présent décret (ainsi que les oiseaux migrateurs qui ne sont pas mentionnés à l'annexe IV du présent décret mais qui se trouvent régulièrement sur le territoire de la Région flamande). (Le Gouvernement flamand peut arrêter les modalités concernant les mesures de conservation nécessaires et les exigences écologiques, ainsi que la procédure de fixation des objectifs de conservation.) &lt;DCFL 2006-05-19/36, art. 21, 1° et 2°, 008; En vigueur : 30-06-2006&gt;
+
+[<sup>7</sup> Si une zone de recherche est délimitée en vue de la mise en place optimale des objectifs de conservation fixés conformément à l'alinéa 1er, elle l'est sur la base de la valeur naturelle actuelle et potentielle pertinente pour la réalisation du solde de l'objectif visé à l'article 2, 70°.
+
+La délimitation de chaque zone de recherche est supérieure au solde, de telle sorte que ce solde puisse toujours être réalisé à l'intérieur de la zone de recherche. Le Gouvernement flamand peut en arrêter les modalités. Ce faisant, il peut déterminer le type et l'étendue de la zone à privilégier en tant que zone de recherche et le facteur à appliquer à la taille d'un solde spécifique pour définir la superficie d'une zone de recherche.
+
+Dans les parties de la zone de recherche où la valeur naturelle actuelle ou potentielle est la plus faible, la délimitation peut être adaptée aux intérêts socio-économiques. Cette adaptation respectera les dispositions des alinéas 3 et 4 et s'abstiendra de réduire la superficie totale de la zone de recherche.
+
+La carte des zones de recherche 2015, consultable sur le site Geopunt de l'administration flamande et établie pour les habitats à protéger au niveau européen, contient, pour chaque zone de protection spéciale désignée en application de la directive Habitats, des zones de recherche pour les habitats européens à protéger pour lesquels les zones de protection spéciale en question ont été désignées. Ces zones de recherche sont réputées être délimitées conformément aux dispositions des alinéas 3 à 5.
+
+Le Gouvernement flamand fixe les modalités d'application des alinéas 3 à 5.]<sup>7</sup>
+
+§ 2. Quelle que soit l'affectation du site concerné, l'autorité administrative prend également, dans le cadre de ses compétences, les mesures de conservation nécessaires pour :
+
+a) éviter toute détérioration de la qualité naturelle et de l'environnement naturel des habitats de l'annexe Ire du présent décret et des habitats des espèces citées aux annexes II, III et IV du présent décret (ainsi que les oiseaux migrateurs qui ne sont pas mentionnés à l'annexe IV du présent décret mais qui se trouvent régulièrement sur le territoire de la Région flamande) dans une zone spéciale de conservation; &lt;DCFL 2006-05-19/36, art. 21, 3°, 008; En vigueur : 30-06-2006&gt;
+
+b) éviter toute perturbation significative d'une espèce citée aux annexes II, III et IV du présent décret (ainsi que les oiseaux migrateurs qui ne sont pas mentionnés à l'annexe IV du présent décret mais qui se trouvent régulièrement sur le territoire de la Région flamande) dans une zone spéciale de conservation; &lt;DCFL 2006-05-19/36, art. 21, 3°, 008; En vigueur : 30-06-2006&gt;
+
+Le Gouvernement flamand arrête les modalités à cet égard.
+
+§ 3. Une activité soumise à autorisation ou un plan ou programme qui, individuellement ou en combinaison avec une ou plusieurs activités, plans ou programmes existants ou proposés, [<sup>6</sup> peut causer une dépréciation significative des caractéristiques naturelles d'une zone spéciale de conservation, sans que cette activité soumise à autorisation ou ce plan ou programme ait un rapport direct avec ou soit nécessaire à la gestion d'une zone dans la zone spéciale de conservation en question, doit faire l'objet d'une évaluation appropriée]<sup>6</sup> en ce qui concerne les incidences significatives sur la zone spéciale de conservation.
+
+L'obligation d'effectuer une évaluation appropriée vaut également lorsqu'il s'agit d'une demande de renouvellement d'autorisation après expiration de l'autorisation d'une activité soumise à autorisation.
+
+L'initiateur est chargé d'établir ladite évaluation appropriée.
+
+[<sup>1</sup>
+
+[<sup>5</sup> [<sup>8</sup> Un plan ou programme, tel que visé à l'article 4.1.1, 12°, du décret du 5 avril 1995 contenant des dispositions générales sur la politique de l'environnement, et sa modification, pour lequel, compte tenu de l'impact significatif sur une zone de protection spéciale, une évaluation appropriée est requise, relève du champ d'application du titre IV du décret précité.
+
+Pour un plan ou programme, tel que visé à l'alinéa 4, qui n'est pas un plan d'exécution spatiale, l'initiateur joint l'évaluation appropriée au screening du plan ou programme, visé à l'article 4.3.5, § 1er, du décret précité. Si un RIE de plan est élaboré, l'évaluation appropriée y sera intégrée.]<sup>8</sup>
+
+Dans le cas d'un plan ou d'un programme tel que visé à l'alinéa 4, qui est un plan d'exécution spatial, l'évaluation appropriée fait si possible déjà partie, lorsqu'aucun plan-MER ne doit être réalisé, de la note de lancement visée à l'article 2.2.4 du Code flamand de l'Aménagement du Territoire et, en tout état de cause, de la note de cadrage visée à l'article précité. S'il ressort de la note de cadrage qu'un plan-MER doit être réalisé, l'évaluation appropriée est intégrée dans le plan-MER.]<sup>5</sup>
+
+[<sup>8</sup> Si une activité soumise à autorisation est soumise à l'obligation d'établir un RIE du projet conformément à l'article 4.3.3 du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, un RIE du projet est établi conformément aux dispositions relatives à l'évaluation environnementale des projets, visée aux chapitre s 1, 2, 4 et 5 du titre IV du décret susmentionné.
+
+L'évaluation appropriée sera intégrée dans le RIE du projet.]<sup>8</sup>
+
+[<sup>5</sup> Le Gouvernement flamand peut arrêter les modalités d'intégration et d'identifiabilité de l'évaluation appropriée dans l'évaluation des incidences sur l'environnement.]<sup>5</sup>
+
+Si une activité, ou un plan ou programme soumis(e) à autorisation n'est pas soumis(e) à l'obligation d'évaluation des incidences sur l'environnement conformément à la législation en application de la directive sur l'évaluation des incidences de certains projets sur l'environnement ou de la directive sur l'évaluation des incidences de certains plans sur l'environnement, l'autorité administrative doit néanmoins demander l'avis de l'administration chargée de la conservation de la nature.
+
+Le Gouvernement flamand peut arrêter les modalités en rapport avec le contenu et la forme de l'évaluation appropriée.
+
+§ 4. L'autorité chargée de statuer sur une demande d'autorisation, un plan ou un programme ne peut accorder l'autorisation ou approuver le plan ou programme que si le plan ou programme d'exécution de l'activité ne cause aucune détérioration significative des zones spéciales de conservation concernées. L'autorité compétente veille toujours, en imposant des conditions, à ce qu'il ne puisse se produire aucune détérioration significative des caractéristiques naturelles d'une zone spéciale de conservation.
+
+§ 5. Contrairement aux dispositions du § 4, une activité soumise à autorisation ou un plan ou programme qui, individuellement ou en combinaison avec une ou plusieurs activités, plans ou programmes existants ou proposés, peut causer une dépréciation significative des caractéristiques naturelles d'une zone spéciale de conservation, ne peut être autorisé ou approuve que
+
+a) après qu'il est apparu qu'il n'y a pas d'autre solution alternative moins nuisible pour les caractéristiques naturelles de la zone spéciale de conservation
+
+et
+
+b) pour des raisons impératives d'intérêt public majeur, y compris d'ordre social et économique. Lorsque la zone spéciale de conservation concernée ou un site qui en fait partie est un site abritant un type d'habitat naturel ou une espèce prioritaire, seules peuvent être évoquées des considérations liées à la sante de l'homme et à la sécurité publique ou à des conséquences bénéfiques primordiales pour l'environnement ou, après avis de la Commission, à d'autres raisons impératives d'intérêt public majeur.
+
+La dérogation visée à l'alinéa précèdent ne peut en outre être autorisée qu'après qu'il a été satisfait aux conditions suivantes :
+
+1° les mesures compensatoires nécessaires ont été prises et les mesures actives nécessaires à la préservation sont ou vont être prises en vue de garantir la cohérence globale de la (ou des) zone(s) spéciale(s) de conservation;
+
+2° les mesures compensatoires sont de nature telle à développer activement, en principe, un habitat de même valeur ou l'environnement naturel de ce dernier, d'une surface au moins équivalente. [<sup>6</sup> L'initiateur rend compte à l'agence de la mise en oeuvre des mesures compensatoires au plus tard dans l'année suivant la décision définitive par laquelle la dérogation est accordée. L'agence consigne les mesures compensatoires rapportées dans un registre. Après réception du rapport, l'agence décide, dans les trois mois, du contenu et, le cas échéant, de la fréquence ultérieure du compte rendu.]<sup>6</sup>
+
+[<sup>10</sup> Si le site sur lequel sont prises les mesures compensatoires, visées à l'alinéa 2, ne fait pas encore partie d'une zone spéciale de conservation, le Gouvernement flamand peut, par dérogation à l'article 36 bis, § 14, le désigner comme zone spéciale de conservation après avis de l'Institut de Recherche des Forêts et de la Nature. Il prend cette décision en même temps que celle visée à l'alinéa 5. La décision contient les données, visées à l'article 36 bis, § 1er, alinéa 2. Les dispositions de l'article 36bis, § 9, alinéas 2 à 4, s'appliquent par analogie au présent arrêté.]<sup>10</sup>
+
+Le Gouvernement flamand peut arrêter les modalités selon lesquelles doit être établie une évaluation appropriée des incidences de l'activité sur les habitats, les habitats d'une espèce et l'espèce ou les espèces pour lesquelles une zone spéciale de conservation est désignée, pour l'examen d'alternatives moins nuisibles et en matière de mesures compensatoires.
+
+Le Gouvernement flamand évalue l'existence de raisons impératives d'intérêt public majeur y compris de nature sociale ou économique.
+
+Toute décision en application de la procédure de dérogation du présent paragraphe, est motivée.
+
+§ 6. Dans sa décision concernant l'action projetée et également, le cas échéant, lors de l'élaboration de celle-ci, l'autorité tient compte de l'évaluation approuvée des incidences sur l'environnement, de l'évaluation appropriée ou de l'avis de l'administration chargée de la conservation de la nature.
+
+L'autorité motive toute décision concernant l'action projetée, en particulier sur les points suivants :
+
+1° le choix de l'action projetée, une alternative déterminée ou des alternatives partielles déterminées;
+
+2° l'acceptabilité de la détérioration significative des caractéristiques naturelles d'une zone spéciale de conservation à laquelle il faut s'attendre;
+
+3° les mesures compensatoires et les mesures actives de préservation proposées dans le cadre de l'évaluation des incidences sur l'environnement, de l'évaluation appropriée ou de l'avis remis par l'administration chargée de la conservation de la nature.
+
+Si cette décision est prise dans le cadre d'un octroi d'autorisation ou de l'octroi d'une permission ou d'un mandat, l'autorité communique sa décision au demandeur de la même manière que pour la décision concernant la demande d'autorisation ou de permission ou mandat.
+
+§ 7. Pour les zones spéciales de conservation, le Gouvernement flamand peut élaborer un règlement spécifique d'application cumulative des procédures prevues au présent article et aux articles 13, 15 et 26bis.
+
+[<sup>9</sup> § 8. Par dérogation aux paragraphes 3 et 4, les projets d'énergie renouvelable, les nouvelles demandes pour des installations de production d'énergie renouvelable, y compris les installations qui combinent différents types de technologie en matière d'énergie renouvelable et le rééquipement de centrales électriques utilisant des sources d'énergie renouvelable dans des zones d'accélération des énergies renouvelables désignées pour la technologie concernée et le stockage colocalisé de l'énergie, ainsi que le raccordement de ces centrales et de ce stockage au réseau, ne sont pas soumis à une évaluation appropriée de leurs incidences sur des zones spéciales de conservation, à condition que ces projets d'énergie renouvelable répondent aux règles et mesures fixées conformément à l'article 2.2.5, § 2/1, du Code flamand de l'Aménagement du Territoire.
+
+Dans le présent paragraphe, on entend par :
+
+1° stockage colocalisé de l'énergie : une installation de stockage d'énergie combinée à une installation de production d'énergie renouvelable raccordée au même point d'accès au réseau ;
+
+2° zones d'accélération des énergies renouvelables : les zones désignées conformément à l'article 2.2.5, § 2/1, du Code flamand de l'Aménagement du Territoire ;
+
+3° rééquipement : la rénovation des centrales électriques produisant de l'énergie renouvelable, y compris le remplacement total ou partiel des installations ou des systèmes d'exploitation et des équipements, dans le but de remplacer la capacité ou d'augmenter l'efficacité ou la capacité de l'installation.]<sup>9</sup>
+
+----------
+
+(1)&lt;DCFL 2007-04-27/25, art. 1, 012; En vigueur : 01-12-2007&gt;
+
+(2)&lt;DCFL 2009-05-08/14, art. 5, 017; En vigueur : 13-07-2009&gt;
+
+(3)&lt;DCFL 2014-05-09/10, art. 87, En vigueur : 28-10-2017&gt;
+
+(4)&lt;DCFL 2014-04-25/M4, art. 226, 028; En vigueur : 23-02-2017 (AGF 2015-11-27/29, art. 797, alinéa 1er)&gt; (NOTE : par son arrêt n° 125/2016 du 6-10-2016 (M.B. 20-10-2016, p. 70856) la Cour constitutionnelle a annulé l'article 226 modificatif)
+
+(5)&lt;DCFL 2016-07-01/23, art. 11, 030; En vigueur : 01-05-2017&gt;
+
+(6)&lt;DCFL 2017-06-30/08, art. 44, 031; En vigueur : 17-07-2017&gt;
+
+(7)&lt;DCFL 2024-01-26/27, art. 66, 042; En vigueur : 23-02-2024&gt;
+
+(8)&lt;DCFL 2024-05-17/53, art. 96, 044; En vigueur : 01-12-2025&gt;
+
+(9)&lt;DCFL 2026-03-06/10, art. 5, 046; En vigueur : 06-04-2026&gt;
+
+(10)&lt;DCFL 2026-06-26/21, art. 50, 047; En vigueur : 20-08-2026&gt;
+
+##### Art. 36ter DROIT FUTUR
+
+&lt;Inséré par DCFL 2002-07-19/54, art. 26; En vigueur : 10-09-2002&gt; § 1er Dans les zones spéciales de conservation, quelle que soit l'affectation du site concerné, l'autorité administrative prend, dans le cadre de ses compétences, les mesures de conservation nécessaires qui doivent toujours répondre aux exigences écologiques des types d'habitats énoncés à l'annexe Ire du présent décret des espèces citées aux annexes II, III et IV du présent décret (ainsi que les oiseaux migrateurs qui ne sont pas mentionnés à l'annexe IV du présent décret mais qui se trouvent régulièrement sur le territoire de la Région flamande). (Le Gouvernement flamand peut arrêter les modalités concernant les mesures de conservation nécessaires et les exigences écologiques, ainsi que la procédure de fixation des objectifs de conservation.) &lt;DCFL 2006-05-19/36, art. 21, 1° et 2°, 008; En vigueur : 30-06-2006&gt;
+
+[<sup>7</sup> Si une zone de recherche est délimitée en vue de la mise en place optimale des objectifs de conservation fixés conformément à l'alinéa 1er, elle l'est sur la base de la valeur naturelle actuelle et potentielle pertinente pour la réalisation du solde de l'objectif visé à l'article 2, 70°.
+
+La délimitation de chaque zone de recherche est supérieure au solde, de telle sorte que ce solde puisse toujours être réalisé à l'intérieur de la zone de recherche. Le Gouvernement flamand peut en arrêter les modalités. Ce faisant, il peut déterminer le type et l'étendue de la zone à privilégier en tant que zone de recherche et le facteur à appliquer à la taille d'un solde spécifique pour définir la superficie d'une zone de recherche.
+
+Dans les parties de la zone de recherche où la valeur naturelle actuelle ou potentielle est la plus faible, la délimitation peut être adaptée aux intérêts socio-économiques. Cette adaptation respectera les dispositions des alinéas 3 et 4 et s'abstiendra de réduire la superficie totale de la zone de recherche.
+
+La carte des zones de recherche 2015, consultable sur le site Geopunt de l'administration flamande et établie pour les habitats à protéger au niveau européen, contient, pour chaque zone de protection spéciale désignée en application de la directive Habitats, des zones de recherche pour les habitats européens à protéger pour lesquels les zones de protection spéciale en question ont été désignées. Ces zones de recherche sont réputées être délimitées conformément aux dispositions des alinéas 3 à 5.
+
+Le Gouvernement flamand fixe les modalités d'application des alinéas 3 à 5.]<sup>7</sup>
+
+§ 2. Quelle que soit l'affectation du site concerné, l'autorité administrative prend également, dans le cadre de ses compétences, les mesures de conservation nécessaires pour :
+
+a) éviter toute détérioration de la qualité naturelle et de l'environnement naturel des habitats de l'annexe Ire du présent décret et des habitats des espèces citées aux annexes II, III et IV du présent décret (ainsi que les oiseaux migrateurs qui ne sont pas mentionnés à l'annexe IV du présent décret mais qui se trouvent régulièrement sur le territoire de la Région flamande) dans une zone spéciale de conservation; &lt;DCFL 2006-05-19/36, art. 21, 3°, 008; En vigueur : 30-06-2006&gt;
+
+b) éviter toute perturbation significative d'une espèce citée aux annexes II, III et IV du présent décret (ainsi que les oiseaux migrateurs qui ne sont pas mentionnés à l'annexe IV du présent décret mais qui se trouvent régulièrement sur le territoire de la Région flamande) dans une zone spéciale de conservation; &lt;DCFL 2006-05-19/36, art. 21, 3°, 008; En vigueur : 30-06-2006&gt;
+
+Le Gouvernement flamand arrête les modalités à cet égard.
+
+§ 3. Une activité soumise à autorisation ou un plan ou programme qui, individuellement ou en combinaison avec une ou plusieurs activités, plans ou programmes existants ou proposés, [<sup>6</sup> peut causer une dépréciation significative des caractéristiques naturelles d'une zone spéciale de conservation, sans que cette activité soumise à autorisation ou ce plan ou programme ait un rapport direct avec ou soit nécessaire à la gestion d'une zone dans la zone spéciale de conservation en question, doit faire l'objet d'une évaluation appropriée]<sup>6</sup> en ce qui concerne les incidences significatives sur la zone spéciale de conservation.
+
+L'obligation d'effectuer une évaluation appropriée vaut également lorsqu'il s'agit d'une demande de renouvellement d'autorisation après expiration de l'autorisation d'une activité soumise à autorisation.
+
+L'initiateur est chargé d'établir ladite évaluation appropriée.
+
+[<sup>1</sup>
+
+[<sup>5</sup> [<sup>8</sup> Un plan ou programme, tel que visé à l'article 4.1.1, 12°, du décret du 5 avril 1995 contenant des dispositions générales sur la politique de l'environnement, et sa modification, pour lequel, compte tenu de l'impact significatif sur une zone de protection spéciale, une évaluation appropriée est requise, relève du champ d'application du titre IV du décret précité.
+
+Pour un plan ou programme, tel que visé à l'alinéa 4, qui n'est pas un plan d'exécution spatiale, l'initiateur joint l'évaluation appropriée au screening du plan ou programme, visé à l'article 4.3.5, § 1er, du décret précité. Si un RIE de plan est élaboré, l'évaluation appropriée y sera intégrée.]<sup>8</sup>
+
+Dans le cas d'un plan ou d'un programme tel que visé à l'alinéa 4, qui est un plan d'exécution spatial, l'évaluation appropriée fait si possible déjà partie, lorsqu'aucun plan-MER ne doit être réalisé, de la note de lancement visée à l'article 2.2.4 du Code flamand de l'Aménagement du Territoire et, en tout état de cause, de la note de cadrage visée à l'article précité. S'il ressort de la note de cadrage qu'un plan-MER doit être réalisé, l'évaluation appropriée est intégrée dans le plan-MER.]<sup>5</sup>
+
+[<sup>8</sup> Si une activité soumise à autorisation est soumise à l'obligation d'établir un RIE du projet conformément à l'article 4.3.3 du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, un RIE du projet est établi conformément aux dispositions relatives à l'évaluation environnementale des projets, visée aux chapitre s 1, 2, 4 et 5 du titre IV du décret susmentionné.
+
+L'évaluation appropriée sera intégrée dans le RIE du projet.]<sup>8</sup>
+
+[<sup>5</sup> Le Gouvernement flamand peut arrêter les modalités d'intégration et d'identifiabilité de l'évaluation appropriée dans l'évaluation des incidences sur l'environnement.]<sup>5</sup>
+
+Si une activité, ou un plan ou programme soumis(e) à autorisation n'est pas soumis(e) à l'obligation d'évaluation des incidences sur l'environnement conformément à la législation en application de la directive sur l'évaluation des incidences de certains projets sur l'environnement ou de la directive sur l'évaluation des incidences de certains plans sur l'environnement, l'autorité administrative doit néanmoins demander l'avis de l'administration chargée de la conservation de la nature.
+
+Le Gouvernement flamand peut arrêter les modalités en rapport avec le contenu et la forme de l'évaluation appropriée.
+
+§ 4. L'autorité chargée de statuer sur une demande d'autorisation, un plan ou un programme ne peut accorder l'autorisation ou approuver le plan ou programme que si le plan ou programme d'exécution de l'activité ne cause aucune détérioration significative des zones spéciales de conservation concernées. L'autorité compétente veille toujours, en imposant des conditions, à ce qu'il ne puisse se produire aucune détérioration significative des caractéristiques naturelles d'une zone spéciale de conservation.
+
+§ 5. Contrairement aux dispositions du § 4, une activité soumise à autorisation ou un plan ou programme qui, individuellement ou en combinaison avec une ou plusieurs activités, plans ou programmes existants ou proposés, peut causer une dépréciation significative des caractéristiques naturelles d'une zone spéciale de conservation, ne peut être autorisé ou approuve que
+
+a) après qu'il est apparu qu'il n'y a pas d'autre solution alternative moins nuisible pour les caractéristiques naturelles de la zone spéciale de conservation
+
+et
+
+b) pour des raisons impératives d'intérêt public majeur, y compris d'ordre social et économique. Lorsque la zone spéciale de conservation concernée ou un site qui en fait partie est un site abritant un type d'habitat naturel ou une espèce prioritaire, seules peuvent être évoquées des considérations liées à la sante de l'homme et à la sécurité publique ou à des conséquences bénéfiques primordiales pour l'environnement ou, après avis de la Commission, à d'autres raisons impératives d'intérêt public majeur.
+
+La dérogation visée à l'alinéa précèdent ne peut en outre être autorisée qu'après qu'il a été satisfait aux conditions suivantes :
+
+1° les mesures compensatoires nécessaires ont été prises et les mesures actives nécessaires à la préservation sont ou vont être prises en vue de garantir la cohérence globale de la (ou des) zone(s) spéciale(s) de conservation;
+
+2° les mesures compensatoires sont de nature telle à développer activement, en principe, un habitat de même valeur ou l'environnement naturel de ce dernier, d'une surface au moins équivalente. [<sup>6</sup> L'initiateur rend compte à l'agence de la mise en oeuvre des mesures compensatoires au plus tard dans l'année suivant la décision définitive par laquelle la dérogation est accordée. L'agence consigne les mesures compensatoires rapportées dans un registre. Après réception du rapport, l'agence décide, dans les trois mois, du contenu et, le cas échéant, de la fréquence ultérieure du compte rendu.]<sup>6</sup>
+
+Le Gouvernement flamand peut arrêter les modalités selon lesquelles doit être établie une évaluation appropriée des incidences de l'activité sur les habitats, les habitats d'une espèce et l'espèce ou les espèces pour lesquelles une zone spéciale de conservation est désignée, pour l'examen d'alternatives moins nuisibles et en matière de mesures compensatoires.
+
+Le Gouvernement flamand évalue l'existence de raisons impératives d'intérêt public majeur y compris de nature sociale ou économique.
+
+Toute décision en application de la procédure de dérogation du présent paragraphe, est motivée.
+
+§ 6. Dans sa décision concernant l'action projetée et également, le cas échéant, lors de l'élaboration de celle-ci, l'autorité tient compte de l'évaluation [<sup>9</sup> ...]<sup>9</sup> des incidences sur l'environnement, de l'évaluation appropriée ou de l'avis de l'administration chargée de la conservation de la nature.
+
+L'autorité motive toute décision concernant l'action projetée, en particulier sur les points suivants :
+
+1° le choix de l'action projetée, une alternative déterminée ou des alternatives partielles déterminées;
+
+2° l'acceptabilité de la détérioration significative des caractéristiques naturelles d'une zone spéciale de conservation à laquelle il faut s'attendre;
+
+3° les mesures compensatoires et les mesures actives de préservation proposées dans le cadre de l'évaluation des incidences sur l'environnement, de l'évaluation appropriée ou de l'avis remis par l'administration chargée de la conservation de la nature.
+
+Si cette décision est prise dans le cadre d'un octroi d'autorisation ou de l'octroi d'une permission ou d'un mandat, l'autorité communique sa décision au demandeur de la même manière que pour la décision concernant la demande d'autorisation ou de permission ou mandat.
+
+§ 7. Pour les zones spéciales de conservation, le Gouvernement flamand peut élaborer un règlement spécifique d'application cumulative des procédures prevues au présent article et aux articles 13, 15 et 26bis.
+
+[<sup>10</sup> § 8. Par dérogation aux paragraphes 3 et 4, les projets d'énergie renouvelable, les nouvelles demandes pour des installations de production d'énergie renouvelable, y compris les installations qui combinent différents types de technologie en matière d'énergie renouvelable et le rééquipement de centrales électriques utilisant des sources d'énergie renouvelable dans des zones d'accélération des énergies renouvelables désignées pour la technologie concernée et le stockage colocalisé de l'énergie, ainsi que le raccordement de ces centrales et de ce stockage au réseau, ne sont pas soumis à une évaluation appropriée de leurs incidences sur des zones spéciales de conservation, à condition que ces projets d'énergie renouvelable répondent aux règles et mesures fixées conformément à l'article 2.2.5, § 2/1, du Code flamand de l'Aménagement du Territoire.
+
+Dans le présent paragraphe, on entend par :
+
+1° stockage colocalisé de l'énergie : une installation de stockage d'énergie combinée à une installation de production d'énergie renouvelable raccordée au même point d'accès au réseau ;
+
+2° zones d'accélération des énergies renouvelables : les zones désignées conformément à l'article 2.2.5, § 2/1, du Code flamand de l'Aménagement du Territoire ;
+
+3° rééquipement : la rénovation des centrales électriques produisant de l'énergie renouvelable, y compris le remplacement total ou partiel des installations ou des systèmes d'exploitation et des équipements, dans le but de remplacer la capacité ou d'augmenter l'efficacité ou la capacité de l'installation.]<sup>10</sup>
+
+----------
+
+(1)&lt;DCFL 2007-04-27/25, art. 1, 012; En vigueur : 01-12-2007&gt;
+
+(2)&lt;DCFL 2009-05-08/14, art. 5, 017; En vigueur : 13-07-2009&gt;
+
+(3)&lt;DCFL 2014-05-09/10, art. 87, En vigueur : 28-10-2017&gt;
+
+(4)&lt;DCFL 2014-04-25/M4, art. 226, 028; En vigueur : 23-02-2017 (AGF 2015-11-27/29, art. 797, alinéa 1er)&gt; (NOTE : par son arrêt n° 125/2016 du 6-10-2016 (M.B. 20-10-2016, p. 70856) la Cour constitutionnelle a annulé l'article 226 modificatif)
+
+(5)&lt;DCFL 2016-07-01/23, art. 11, 030; En vigueur : 01-05-2017&gt;
+
+(6)&lt;DCFL 2017-06-30/08, art. 44, 031; En vigueur : 17-07-2017&gt;
+
+(7)&lt;DCFL 2024-01-26/27, art. 66, 042; En vigueur : 23-02-2024&gt;
+
+(8)&lt;DCFL 2024-05-17/53, art. 96, 044; En vigueur : 01-12-2025&gt;
+
+(9)&lt;DCFL 2024-05-17/53, art. 97, 044; En vigueur : indéterminée &gt;
+
+(10)&lt;DCFL 2026-03-06/10, art. 5, 046; En vigueur : 06-04-2026&gt;
+
+### Section 4. - Mesures générales pour la protection du milieu naturel.
+
+#### Sous-section A. - Acquisition.
+
+##### Art. 37
+
+§ 1er. [<sup>1</sup> La Banque foncière flamande a le droit de préemption en cas de vente de biens immobiliers :
+
+1° dans le VEN, à l'exception des biens immobiliers exclus par le Gouvernement flamand;
+
+2° [<sup>4</sup> dans les zones d'espaces verts et les zones forestières, les zones d'extension forestière et les zones de destination comparables à toutes ces zones, figurant sur les plans d'aménagement ou les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire, situées dans les zones spéciales de conservation;]<sup>4</sup>
+
+3° dans un périmètre délimité par le Gouvernement flamand, au sein des zones d'espaces verts et des zones forestières et les zones d'extension forestière et les zones de destination comparables à toutes ces zones, figurant sur les plans d'aménagement ou les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire, situées dans l'IVON;
+
+4° dans la délimitation d'un projet d'aménagement de la nature;
+
+[<sup>4</sup> 5° dans les terrains où l'agence a repris la gestion en application de l'article 16decies, § 1er et § 2;]<sup>4</sup>
+
+[<sup>4</sup> 6° [<sup>5</sup> dans la zone d'activité " Turnhouts Vennengebied " visée à l'article 41 du décret du 26 janvier 2024 relatif à l'approche programmatique de l'azote, pour autant qu'elle se situe dans les zones de protection spéciale visées à l'article 2, 43°, a) et c) ;]<sup>5</sup>]<sup>4</sup>
+
+[<sup>5</sup> 7° sur les terrains situés dans une zone de protection spéciale visée à l'article 2, 43°, a) ou c), et détenus par un exploitant d'un élevage auquel une indemnité d'arrêt a été accordée en application de l'article 39 du décret du 26 janvier 2024 sur l'approche programmatique de l'azote.]<sup>5</sup>
+
+Sans préjudice de l'article 8 du décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption, ce droit de préemption ne s'applique pas en cas de vente du bien aux membres de groupements forestiers agréés qui étaient agréés avant le 20 janvier 1998, conformément à l'article 85 du décret forestier du 13 juin 1990, dans la mesure où le bien susvisé fait partie des parcelles cadastrales concernées par l'agrément, et l'acheteur a déjà des biens immobiliers en propriété ou en copropriété dans la circonscription du groupement forestier.
+
+[<sup>4</sup> ...]<sup>4</sup> ]<sup>1</sup>
+
+§ 2. [<sup>3</sup>[<sup>5</sup> Le Gouvernement flamand peut prendre les mesures nécessaires pour que, en cas d'exercice du droit de préemption visé à l'article 1er, alinéa 1er, 7°, pour la réalisation des mesures d'assainissement de l'azote visées à l'article 4, § 5, alinéa 3, du décret du 26 janvier 2024 sur l'approche programmatique de l'azote, la possibilité soit donnée au candidat acquéreur d'acquérir le bien immobilier en question, à condition que le candidat acquéreur réalise lui-même lesdites mesures d'assainissement de l'azote.]<sup>5</sup>]<sup>3</sup>
+
+§ 3. [<sup>3</sup> ...]<sup>3</sup>
+
+[§ 4. Le Gouvernement flamand peut prendre les mesures nécessaires pour pouvoir faciliter un échange volontaire de terrain au cas où le droit de préemption est exercé sur une parcelle donnée à ferme.
+
+Pour les raisons précitées, il ne peut être mis fin à un bail à ferme en cours qu'à l'expiration de la période de fermage comme le prévoit l'article 7, 9 ° de la loi sur le bail à ferme, sauf si le fermier renonce plus tôt que prévu à son droit de fermage.] &lt;DCFL 2002-07-19/54, art. 27, 004; En vigueur : 10-09-2002&gt;
+
+[§ 5. Les dispositions du Titre IV, chapitre Ier, II et VI, du décret du 16 juin 2006 portant création d'une "Vlaamse Grondenbank" [Banque foncière flamande] et portant modification de diverses dispositions, s'applique au présent droit de préemption.] &lt;DCFL 2006-06-16/53, art. 34, 009; En vigueur : 01-08-2007&gt;
+
+[<sup>2</sup> § 6. Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2007-05-25/56, art. 24, 015; En vigueur : 01-10-2012&gt;
+
+(2)&lt;DCFL 2007-05-25/56, art. 25, 015; En vigueur : 01-10-2012&gt;
+
+(3)&lt;DCFL 2007-05-25/56, art. 38, 015; En vigueur : 01-10-2012&gt;
+
+(4)&lt;DCFL 2014-05-09/10, art. 88, 025; En vigueur : 17-07-2014&gt;
+
+(5)&lt;DCFL 2024-01-26/27, art. 67, 042; En vigueur : 23-02-2024&gt;
+
+##### Art. 37_REGION_FLAMANDE
+
+§ 1er. [<sup>1</sup> La Banque foncière flamande a le droit de préemption en cas de vente de biens immobiliers :
+
+1° dans le VEN, à l'exception des biens immobiliers exclus par le Gouvernement flamand;
+
+2° [<sup>4</sup> dans les zones d'espaces verts et les zones forestières, les zones d'extension forestière et les zones de destination comparables à toutes ces zones, figurant sur les plans d'aménagement ou les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire, situées dans les zones spéciales de conservation;]<sup>4</sup>
+
+3° dans un périmètre délimité par le Gouvernement flamand, au sein des zones d'espaces verts et des zones forestières et les zones d'extension forestière et les zones de destination comparables à toutes ces zones, figurant sur les plans d'aménagement ou les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire, situées dans l'IVON;
+
+4° dans la délimitation d'un projet d'aménagement de la nature;
+
+[<sup>4</sup> 5° dans les terrains où l'agence a repris la gestion en application de l'article 16decies, § 1er et § 2;]<sup>4</sup>
+
+[<sup>4</sup> 6° dans une zone de recherche délimitée conformément à l'article 50septies, § 4, premier alinéa, quelle que soit la destination planologique dans les plans d'aménagement approuvés ou les plans d'exécution spatiaux. Dès qu'une telle zone de recherche a été délimitée, le droit de préemption qui existe conformément au point 2° est abrogé dans la ou les zones spéciales de conservation en question.]<sup>4</sup>
+
+Sans préjudice de l'article 8 du décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption, ce droit de préemption ne s'applique pas en cas de vente du bien aux membres de groupements forestiers agréés qui étaient agréés avant le 20 janvier 1998, conformément à l'article 85 du décret forestier du 13 juin 1990, dans la mesure où le bien susvisé fait partie des parcelles cadastrales concernées par l'agrément, et l'acheteur a déjà des biens immobiliers en propriété ou en copropriété dans la circonscription du groupement forestier.
+
+[<sup>4</sup> ...]<sup>4</sup> ]<sup>1</sup>
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 3. [<sup>3</sup> ...]<sup>3</sup>
+
+[§ 4. Le Gouvernement flamand peut prendre les mesures nécessaires pour pouvoir faciliter un échange volontaire de terrain au cas où le droit de préemption est exercé sur une parcelle donnée à ferme.
+
+Pour les raisons précitées, il ne peut être mis fin à un bail à ferme en cours qu'à l'expiration de la période de fermage comme le prévoit [<sup>5</sup> l'article 11, 9°, du décret flamand sur le Bail à ferme du 13 octobre 2023]<sup>5</sup>, sauf si le fermier renonce plus tôt que prévu à son droit de fermage.] &lt;DCFL 2002-07-19/54, art. 27, 004; En vigueur : 10-09-2002&gt;
+
+[§ 5. Les dispositions du Titre IV, chapitre Ier, II et VI, du décret du 16 juin 2006 portant création d'une "Vlaamse Grondenbank" [Banque foncière flamande] et portant modification de diverses dispositions, s'applique au présent droit de préemption.] &lt;DCFL 2006-06-16/53, art. 34, 009; En vigueur : 01-08-2007&gt;
+
+[<sup>2</sup> § 6. Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2007-05-25/56, art. 24, 015; En vigueur : 01-10-2012&gt;
+
+(2)&lt;DCFL 2007-05-25/56, art. 25, 015; En vigueur : 01-10-2012&gt;
+
+(3)&lt;DCFL 2007-05-25/56, art. 38, 015; En vigueur : 01-10-2012&gt;
+
+(4)&lt;DCFL 2014-05-09/10, art. 88, 025; En vigueur : 17-07-2014&gt;
+
+(5)&lt;DCFL 2023-10-13/13, art. 78, 040; En vigueur : 01-11-2023&gt;
+
+##### Art. 38
+
+&lt;Abrogé par DCFL 2007-05-25/56, art. 38, 2°, 015; En vigueur : 01-10-2012&gt;
+
+##### Art. 39
+
+&lt;Abrogé par DCFL 2007-05-25/56, art. 38, 2°, 015; En vigueur : 01-10-2012&gt;
+
+##### Art. 40
+
+En cas de vente de biens immobiliers situés dans le VEN, dans un périmètre délimité par le Gouvernement flamand, dans les zones d'espaces verts et les zones forestières situées dans l'IVON, [<sup>1</sup> ...]<sup>1</sup> et dans la délimitation d'un projet d'aménagement de la nature, les associations de défense de la nature agréées pour la gestion de terrains ont également un droit de préemption pour les biens immobiliers faisant l'objet d'un bail ou d'un bail emphytéotique. &lt;DCFL 2002-07-19/54, art. 28, 004; En vigueur : 10-09-2002&gt;
+
+Ce droit de préemption ne porte pas atteinte aux régimes de droit de préemption existants à l'entrée en vigueur du présent décret, qui sont toujours prioritaires.
+
+Ce droit de préemption est subordonné au droit de préemption de la Région flamande, qui a toujours priorité.
+
+Les dispositions des articles 37, 38 et 39 sont applicables par analogie.
+
+----------
+
+(1)&lt;DCFL 2014-05-09/10, art. 89, 025; En vigueur : 17-07-2014&gt;
+
+##### Art. 41
+
+§ 1er. Pour des raisons de conservation de la nature, la Région flamande et les communes flamandes peuvent acquérir des biens immobiliers par expropriation d'utilité publique.
+
+§ 2. Pour des raisons de conservation de la nature et sur proposition du propriétaire, la Région flamande peut échanger le droit de propriété, le fermage, la location ou le droit d'usage d'un bien immobilier qu'elle détient en propriété ou dont elle dispose, contre le droit de propriété, le fermage, la location et le droit d'usage d'un autre bien immobilier, moyennant l'accord du titulaire du droit concerné.
+
+Les frais de l'acte d'échange et des formalités hypothécaires sont à charge de la Région flamande.
+
+L'éventuelle soulte, à verser au profit de la Région flamande, est versée au Fonds MINA.
+
+##### Art. 42
+
+[<sup>1</sup> Le propriétaire d'un bien immobilier peut exiger son acquisition par la Banque foncière flamande, s'il démontre que la désignation de ce bien immobilier comme une GEN ou une GENO, ou sa reprise dans un plan de gestion Natura 2000 arrêté, tel que visé à l'article 50octies, § 1er, a entraîné une dépréciation grave de la valeur de son bien immobilier ou a gravement compromis la viabilité de l'exploitation existante.
+
+Le Gouvernement flamand arrête les modalités de l'obligation d'acquisition, visées à l'alinéa 1er.
+
+Les dispositions du titre 3, chapitres 1er à 6, du Décret Instruments du 26 mai 2023 s'appliquent à cette obligation d'acquisition.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-05-26/06, art. 35, 043; En vigueur : 15-04-2024&gt;
+
+##### Art. 42bis.
+
+[<sup>1</sup> Le propriétaire d'un bien immobilier situé au sein du VEN ou dans une zone spéciale de conservation désignée par le Gouvernement flamand en application de l'article 4, alinéa 4, de la directive Habitats, peut exiger de la Banque foncière flamande l'acquisition de ce bien immobilier s'il démontre que, à la suite de dommages récurrents causés par une espèce protégée, et si ces dommages ne pouvaient raisonnablement être évités, la dépréciation de son bien immobilier est grave, ou que la viabilité de l'exploitation existante est gravement compromise.
+
+Le Gouvernement flamand arrête les modalités de l'obligation d'acquisition, visée à l'alinéa 1er.
+
+Les dispositions du titre 3, chapitres 1er à 6, du Décret Instruments du 26 mai 2023 s'appliquent à cette obligation d'acquisition.
+
+Si le propriétaire d'un bien immobilier fait valoir cette possibilité d'obligation d'achat par la Banque foncière flamande, il ne peut plus, à compter de la date d'acquisition effective, prétendre à une indemnisation de la part de la Région flamande ou de la Banque foncière flamande pour ce même bien immobilier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-06-26/21, art. 51, 047; En vigueur : 20-08-2026&gt;
+
+##### Art. 43
+
+&lt;DCFL 2002-07-19/54, art. 30, 004; En vigueur : 10-09-2002&gt; En cas d'usage d'un bien immobilier situé dans une GEN ou une GENO, une indemnité peut être réclamée à la Région flamande, dans la mesure où une perte de revenu peut être démontrée par suite de mesures conformes à l'article 25, § 3, 2 °, 1.
+
+##### Art. 44
+
+&lt;Abrogé par DCFL 2014-05-09/10, art. 91, 025; En vigueur : 28-10-2017&gt;
+
+#### Sous-section B. - Contrats de gestion volontaires.
+
+##### Art. 45
+
+§ 1er. Dans l'intérêt de la conservation de la nature, le Gouvernement flamand peut passer des contrats de gestion avec les utilisateurs du sol, à la condition que ces derniers en informent le propriétaire par lettre recommandée. Il arrête les modalités de passation des contrats. Pour les terrains régis par la législation sur les baux à ferme et qui ont été affermés les 5 dernières années, ces contrats de gestion ne peuvent être conclus qu'avec des agriculteurs professionnels.
+
+§ 2. Un contrat de gestion est une convention par laquelle l'utilisateur du sol s'engage à faire, à l'avance, une prestation déterminée [<sup>1</sup> sur la base de projets ou pendant un délai déterminé,]<sup>1</sup> , visant à atteindre une meilleure qualité que la qualité de base de la nature par l'entretien ou le développement de richesses naturelles contre paiement d'une indemnité fixée à l'avance, et ce dans les limites budgétaires.
+
+Cette indemnité est calculée sur la base des efforts consentis par l'utilisateur du sol et de l'éventuelle perte de revenu résultant de cette convention. L'indemnité peut être majorée en cas d'obtention des résultats spécifiques convenus.
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 56, 013; En vigueur : 14-02-2009&gt;
+
+##### Art. 46
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Des contrats de gestion peuvent être conclus en vue de :
+
+1° soit la gestion, la restauration et le développement de la nature dans les zones d'espaces verts et les zones forestières figurant sur les plans d'exécution d'application, dans le cadre de l'aménagement du territoire, en fonction d'une vision préétablie;
+
+2° soit la gestion et le développement de la nature dans la GEN et la GENO, en fonction des objectifs envisagés [<sup>2</sup> ...]<sup>2</sup>;
+
+3° soit le développement de la nature dans les zones naturelles d'imbrication, conformément au plan directeur de la nature dans l'IVON;
+
+4° soit la gestion et le développement de la nature dans les zones naturelles de transition, conformément au plan directeur de la nature dans l'IVON;
+
+5° soit la protection, la restauration et/ou l'extension optimales des habitats ou écosystèmes des organismes ou biocénoses désignés par le Gouvernement flamand;
+
+6° soit la préservation et la gestion des richesses naturelles dans les zones vallonneuses, les zones de sources, la zone agricole d'intérêt écologique et les zones de développement de la nature.
+
+[<sup>1</sup> § 2. En vue de l'applicabilité des différents types de contrats de gestion, le Gouvernement flamand peut définir les visions de gestion, priorités, périmètres ou autres conditions auxquels il doit être satisfait.
+
+Le Gouvernement flamand fixe les conditions auxquelles les groupes de gestion peuvent être agréés en vue de la planification, du soutien et de l'accompagnement de la conclusion et de l'exécution des contrats de gestion dans une certaine zone, ainsi qu'en vue de la concertation avec les autres acteurs exerçant des activités dans le cadre de la politique de gestion de la nature et des bois.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 57, 013; En vigueur : 14-02-2009&gt;
+
+(2)&lt;DCFL 2014-05-09/10, art. 92, 025; En vigueur : 17-07-2014&gt;
+
+#### Sous-section C. - Aménagement de la nature.
+
+##### Art. 47
+
+&lt;DCFL 2002-07-19/54, art. 31, 004; En vigueur : 10-09-2002&gt; § 1er Le Gouvernement flamand ou ses fonctionnaires délégués peuvent, [<sup>1</sup> ...]<sup>1</sup>, lancer un projet d'aménagement de la nature dans une zone ou dans les catégories de zone énoncées à l'article 20, 1° et 2° et dans les autres zones à désigner de façon motivée par le Gouvernement flamand ou ses fonctionnaires délégués.
+
+Par projets d'aménagement de la nature, on entend les mesures et travaux d'aménagement visant l'aménagement optimal d'une zone, en vue de la préservation, la restauration, la gestion et le développement de la nature et du milieu naturel dans le VEN, dans les zones spéciales de conservation et dans les zones d'espaces verts, les zones de parcs, les zones-tampons, les zones forestières et les zones d'extension forestière, ainsi que les zones comparables, figurant sur les plans d'aménagement ou les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire.
+
+Un projet d'aménagement de la nature pour une zone appartenant à une zone spéciale de conservation, mais pas au VEN, ne peut contenir, outre les mesures basées sur les articles 13, 27, 28, 29 et 51, que les mesures qui sont nécessaires a la préservation des habitats ou des habitats d'espèces pour lesquelles les zones spéciales de conservation ont été fixées ou désignées.
+
+§ 2. [<sup>2</sup> Pour réaliser un projet d'aménagement de la nature, le Gouvernement flamand peut exécuter les mesures suivantes :
+
+1° le relotissement volontaire et le relotissement imposé par force de loi, tels que visés aux articles 2.1.15 à 2.1.52 du décret du 28 mars 2014 ;
+
+2° les travaux d'aménagement, y compris les travaux d'aménagement imposés par force de loi, visés à l'article 2.1.1 du décret du 28 mars 2014 ;
+
+3° les mesures de conservation visant à éviter qu'à partir du moment de désignation, l'utilisation ou l'état des lieux de la zone soit modifié de manière à entraver le projet d'aménagement de la nature ;
+
+4° la suppression temporaire des compétences des autorités administratives et des pouvoirs publics au cours de la mise en oeuvre du projet d'aménagement de la nature ;
+
+5° la limitation temporaire de la jouissance de biens immobiliers durant l'exécution d'un projet d'aménagement de la nature ;
+
+6° la délocalisation volontaire de l'exploitation, la cessation de l'exploitation et la reconversion de l'exploitation, visées aux articles 2.1.69 à 2.1.74 du décret du 28 mars 2014 ;
+
+7° l'établissement de servitudes d'utilité publique, tel que visé à l'article 2.1.3 du décret du 28 mars 2014.
+
+Lors des travaux d'aménagement, visés à l'alinéa 1er, 2°, et des servitudes d'utilité publique, visées à l'alinéa 1er, 7°, l'indemnité en compensation de la dépréciation de terres visée à l'article 2.1.4 du décret du 28 mars 2014 s'applique par analogie.
+
+Pour la mesure visée à l'alinéa 1er, 3°, le Gouvernement flamand peut arrêter des modalités relatives à la procédure et à la durée de la mesure, et peut déterminer quelles mesures conservatrices sont possibles.
+
+Pour la mesure visée à l'alinéa 1er, 4°, le Gouvernement flamand peut arrêter des modalités relatives à la procédure et à la durée de la mesure.
+
+Pour la mesure visée à l'alinéa 1er, 5°, le Gouvernement flamand peut arrêter des modalités concernant le règlement temporaire de l'accès aux parcelles, le dépôt temporaire de matériaux, d'outils, d'objets ou de vase, et la modification temporaire du niveau d'eau. Le Gouvernement flamand peut accorder une indemnité pour les dommages résultant des restrictions imposées, visées à l'alinéa 1er, 5°, et peut arrêter des modalités à cet effet.]<sup>2</sup>
+
+§ 3. [<sup>2</sup> Le Gouvernement flamand établit un ou plusieurs rapports de projet par projet d'aménagement de la nature.
+
+Un rapport de projet comprend au moins une énumération des mesures à exécuter et une pondération des instruments pour la mise en oeuvre des mesures.
+
+Le Gouvernement flamand peut arrêter des modalités relatives au contenu du rapport de projet et à la procédure pour l'élaboration et l'établissement du rapport de projet.
+
+Le Gouvernement flamand peut arrêter des modalités concernant la préparation, l'exécution et le suivi de projets d'aménagement de la nature.]<sup>2</sup>
+
+§ 4. Le Gouvernement flamand peut déterminer des conditions stipulant que le propriétaire ou l'usufruitier d'un site concerné peuvent recevoir une indemnité pour l'exécution d'un projet d'aménagement de la nature.
+
+----------
+
+(1)&lt;DCFL 2004-04-30/45, art. 45, 005; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2023-05-26/06, art. 36, 043; En vigueur : indéterminée &gt;
+
+##### Art. 47bis
+
+&lt;Inséré par DCFL 2002-07-19/54, art. 32; En vigueur : 10-09-2002&gt; Le juge de paix du canton dans lequel la majeure partie du projet d'aménagement de la nature est située, prend connaissance des différends en matière d'aménagement de la nature.
+
+#### Sous-section D. - [<sup>1</sup> Encadrement planifié de la conservation de la nature]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-05-09/10, art. 93, 025; En vigueur : 17-07-2014&gt;
+
+##### Art. 48
+
+[<sup>1</sup> § 1er. Un plan de gestion peut être arrêté pour une zone située en dehors des zones spéciales de conservation pour contribuer à la réalisation des objectifs de conservation ou des objectifs de conservation de la nature propres à la région.
+
+Les plans de gestion visés au premier alinéa sont [<sup>2</sup> provisoirement]<sup>2</sup> arrêtés par le Gouvernement flamand ou son délégué.
+
+§ 2. Le Gouvernement flamand détermine la forme et le contenu des plans de gestion visés au paragraphe 1er ainsi que la procédure qui conduit à la fixation, la révision ou l'abrogation de ceux-ci [<sup>2</sup> dans le respect des dispositions du paragraphe 3]<sup>2</sup> .]<sup>1</sup>
+
+[<sup>2</sup> § 3. Après l'établissement provisoire du plan de gestion tel que visé au paragraphe 1er, alinéa 2, l'agence organise une enquête publique relative au plan de gestion établi provisoirement, dans les cas et selon les règles tels que fixés à l'article 50decies/1.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-05-09/10, art. 94, 025; En vigueur : 17-07-2014&gt;
+
+(2)&lt;DCFL 2017-01-27/08, art. 2, 029; En vigueur : 06-02-2017&gt;
+
+##### Art. 49
+
+[<sup>1</sup> Dans chaque plan de gestion, visé à l'article 48, il est établi une vision zonale en vue de déterminer les aspirations dans la zone sur laquelle porte le plan pour la réalisation des objectifs de conservation ou des objectifs de conservation de la nature propres à la région.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-05-09/10, art. 95, 025; En vigueur : 17-07-2014&gt;
+
+##### Art. 50
+
+&lt;Abrogé par DCFL 2014-05-09/10, art. 96, 025; En vigueur : 17-07-2014&gt;
+
+#### Sous-section E. [<sup>1</sup> - Encadrement planifié de la politique de conservation]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2014-05-09/10, art. 36, 025; En vigueur : 17-07-2014&gt;
+
+### Section 1re. [<sup>1</sup> - Objectif et objet de la politique de conservation]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2014-05-09/10, art. 37, 025; En vigueur : 17-07-2014&gt;
+
+##### Art. 50bis
+
+[<sup>1</sup> § 1er. Sans préjudice de l'application de l'article 7, troisième alinéa, la politique de conservation a pour but d'atteindre les objectifs de conservation.
+
+A cet effet, la politique de conservation comprend :
+
+1° au niveau de la Région flamande : un programme Natura 2000 flamand ;
+
+2° au niveau des zones spéciales de conservation : des plans de gestion Natura 2000 ;
+
+3° au niveau des habitats des espèces à protéger au niveau européen : les programmes de protection des espèces ;
+
+4° en dehors des zones spéciales de conservation : les plans de gestion, visés à l'article 48.
+
+§ 2. L'autorité administrative et les personnes physiques ou morales qui ont acquis des droits réels ou personnels sur des terrains avec l'intervention financière d'une autorité administrative en exécution du présent décret ont un rôle central dans la réalisation des objectifs de conservation.
+
+Le Gouvernement flamand peut arrêter des modalités relatives à la teneur de ce rôle central.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 38, 025; En vigueur : 17-07-2014&gt;
+
+### Section 2. [<sup>1</sup> - Programme Natura 2000 flamand]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2014-05-09/10, art. 39, 025; En vigueur : 17-07-2014&gt;
+
+##### Art. 50ter
+
+[<sup>1</sup> § 1er. Pour l'ensemble du territoire de la Région flamande, un programme Natura 2000 flamand est établi par le Gouvernement flamand, conformément à l'article 50quater.
+
+Le programme Natura 2000 flamand traverse des cycles successifs de six ans au maximum et son horizon temporel s'étend jusqu'en 2050.
+
+§ 2. Le programme Natura 2000 flamand est élaboré en vue de :
+
+1° réaliser graduellement les objectifs régionaux de conservation ;
+
+2° prévenir ou faire cesser la dégradation de la qualité de la nature et du milieu naturel des habitats à protéger au niveau européen et des habitats des espèces à protéger au niveau européen, en exécution de l'article 36ter, § 2, du présent décret ;
+
+3° éviter ou faire cesser la perturbation notable des espèces à protéger au niveau européen et de leurs habitats, en exécution de l'article 36ter, § 2.
+
+§ 3. Le programme Natura 2000 flamand contient au moins :
+
+1° une mission au niveau de la Région flamande qui se compose des efforts en rapport avec la conservation de la nature réputés nécessaires en vue de la réalisation des objectifs de conservation pendant le cycle du programme en question. La mission comprend une partie impérative, à savoir la partie des efforts qui doit être réalisée pendant le cycle du programme en question et une partie directrice, à savoir la partie des efforts dont on aspire à la réalisation pendant le cycle du programme en question et qui peut être réalisée en tout ou en partie dans un cycle ultérieur ;
+
+2° un relevé des actions pour la réalisation de la mission ;
+
+3° un aperçu des acteurs qui apportent une contribution à :
+
+a) la réalisation des actions ;
+
+b) la coordination de l'exécution du programme ;
+
+c) tous les autres aspects, à déterminer par le Gouvernement flamand, en rapport avec l'exécution du programme ;
+
+4° un relevé des dépenses estimées pour l'exécution du programme.
+
+La mission et les actions telles que visées à l'alinéa 1er, 1° et 2°, comprennent également un programme de désignation des zones dans lesquelles des objectifs de conservation et des mesures de conservation doivent être réalisés en dehors des zones spéciales de conservation et de l'élaboration de plans de gestion pour ces zones. Le Gouvernement flamand désigne ces zones avant le 1er janvier 2019 et arrête les modalités relatives à la procédure pour la désignation de ces zones.
+
+§ 4. En exécution du programme Natura 2000 flamand, une approche programmatique sera développée par le Gouvernement flamand, conformément à l'article 50quater, afin d'atténuer une ou plusieurs pressions sur l'environnement provenant de sources présentes en Région flamande, en vue de la réalisation des objectifs de conservation et de la prévention de la dégradation de la qualité de la nature et du milieu naturel des habitats à protéger au niveau européen et des espèces à protéger au niveau européen et de leurs habitats.
+
+Cette approche programmatique comprend au moins :
+
+1° une analyse, de portée régionale, de la pression correspondante sur l'environnement. Cette analyse décrit la portée de la pression sur l'environnement, les activités qui y apportent, le développement attendu et le contexte socio-économique ;
+
+2° un plan d'approche, basé sur l'analyse visée au point 1°, relatif au développement :
+
+a) d'une politique à la source qui est axée sur la réduction de la pression sur l'environnement au niveau nécessaire pour atteindre l'état favorable de conservation des habitats à protéger au niveau européen et des espèces à protéger au niveau européen et de leurs habitats ;
+
+b) une politique de restauration pour prévenir une dégradation de la qualité de la nature et du milieu naturel des habitats à protéger au niveau européen et des espèces à protéger au niveau européen et de leurs habitats en raison de la pression sur l'environnement.
+
+Le Gouvernement flamand peut arrêter des modalités relatives au développement d'une approche programmatique, telle que visée à l'alinéa 1er.
+
+§ 5. Le programme Natura 2000 flamand constitue le cadre des plans de gestion Natura 2000, visés à l'article 50septies.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-01-27/08, art. 3, 029; En vigueur : 06-02-2017&gt;
+
+##### Art. 50quater
+
+[<sup>1</sup> § 1er. Le Gouvernement flamand établit provisoirement :
+
+1° le programme Natura 2000 flamand ;
+
+2° toute approche programmatique telle que visée à l'article 50ter, § 4.
+
+§ 2. L'agence est chargée de la préparation du programme Natura 2000 flamand.
+
+Le Gouvernement flamand ou son délégué peut instaurer un groupe de travail qui assiste l'agence dans la préparation du programme et en détermine la composition.
+
+§ 3. Après l'établissement provisoire tel que visé au paragraphe 1er, l'agence organise une enquête publique relative au programme Natura 2000 flamand établi provisoirement, et relative à toute approche programmatique telle que visée à l'article 50ter, § 4, dans les cas et selon les règles tels que fixés à l'article 50decies/1.
+
+§ 4. Le programme définitivement établi tel que visé à l'article 50decies/1, § 6, alinéa 1er, est évalué sur la base du degré de réalisation des objectifs régionaux de conservation.
+
+Moyennant respect de cette évaluation, un nouveau programme est ensuite arrêté pour le cycle suivant, selon les règles fixées aux articles 50ter à 50sexies inclus. En tout cas, le programme existant reste en vigueur jusqu'à ce que le nouveau programme ait été définitivement arrêté conformément à l'article 50decies/1, § 6, alinéa 1er.
+
+Si le nouveau programme définitivement établi nécessite une ou plusieurs modifications d'une approche programmatique fixée en exécution du programme précédent telle que visée à l'article 50ter, § 4, cette approche programmatique est à nouveau établie selon les règles fixées aux articles 50ter à 50sexies inclus. En tout cas, l'approche programmatique existante reste en vigueur jusqu'à ce que l'approche programmatique ajustée ait été définitivement arrêtée.
+
+[<sup>2</sup> § 4/1. Une approche programmatique définitivement établie, telle que mentionnée à l'article 50decies/1, § 6, alinéa 2, peut également être modifiée en une ou plusieurs de ses parties pour des raisons autres que celles mentionnées au paragraphe 4, alinéa 3, pour autant que l'objectif de l'approche programmatique, mentionné à l'article 50ter, § 4, alinéa 1er, soit respecté. Si la modification porte sur l'analyse de portée régionale, visée à l'article 50ter, § 4, alinéa 2, 1°, les autres parties sont également modifiées dans la mesure où, compte tenu de l'objectif de l'approche programmatique, elles ne pourraient plus exister par suite de la modification de l'analyse de portée régionale.
+
+Les dispositions des articles 50ter à 50sexies relatives à une approche programmatique s'appliquent mutatis mutandis à la modification d'une approche programmatique. En tout état de cause, l'approche programmatique existante reste en vigueur jusqu'à ce que la nouvelle approche programmatique ait été définitivement établie, conformément à l'article 50decies/1, § 6, alinéa 2.]<sup>2</sup>
+
+§ 5. Tous les deux ans au moins, un rapport d'avancement du programme Natura 2000 flamand est élaboré. L'instance, visée à l'article 50quinquies, est chargée de l'élaboration du rapport d'avancement.
+
+Le rapport d'avancement est remis aux instances désignées par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-01-27/08, art. 4, 029; En vigueur : 06-02-2017&gt;
+
+(2)&lt;DCFL 2023-07-07/06, art. 2, 041; En vigueur : 14-08-2023&gt;
+
+##### Art. 50quinquies
+
+[<sup>1</sup> Le Gouvernement flamand ou son délégué désigne une instance de concertation régionale qui se charge à tout le moins :
+
+1° de contrôler l'avancement du programme Natura 2000 flamand ;
+
+2° d'émettre un avis motivé conformément à l'article 50decies/1, § 5, alinéa 2, sur le programme Natura 2000 flamand, toute approche programmatique afin d'atténuer une ou plusieurs pressions sur l'environnement, les plans de gestion Natura 2000 et les plans de gestion tels que visés à l'article 48, § 1er ;
+
+3° de formuler des recommandations à propos de problèmes politiques lies à la réalisation de la politique de conservation.
+
+L'instance de concertation est au moins composée de représentants :
+
+1° de l'agence ;
+
+2° des administrations flamandes qui sont associées à l'aménagement et à la gestion de l'espace extérieur ;
+
+3° des secteurs pertinents de l'espace extérieur.
+
+L'agence, visée à l'alinéa 2, 1°, a pour tâche d'organiser et de piloter les activités de l'instance.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-01-27/08, art. 5, 029; En vigueur : 06-02-2017&gt;
+
+##### Art. 50sexies
+
+[<sup>1</sup> Le Gouvernement flamand ou son délégué veille à assurer une large notoriété au programme Natura 2000 flamand et au rapport d'avancement du programme Natura 2000 flamand.
+
+Le Gouvernement flamand peut arrêter les modalités concernant :
+
+1° le contenu, la procédure d'élaboration, l'évaluation et la publication du programme Natura 2000 flamand ;
+
+2° le contenu, la forme et la publication du rapport d'avancement du programme Natura 2000 flamand ;
+
+3° la composition, l'action et la mission de l'instance de concertation visée à l'article 50quinquies ;
+
+4° les aspects d'exécution du programme, tel que visé à l'article 50ter, § 3, 3°, c), auxquels peuvent apporter une contribution les acteurs visés à l'article 50ter, § 3, 3°, et la façon dont cet engagement a formalisé ;
+
+5° l'harmonisation du programme Natura 2000 flamand avec d'autres plans ou programmes de mesures.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-01-27/08, art. 6, 029; En vigueur : 06-02-2017&gt;
+
+### Section 3. [<sup>1</sup> - Plans de gestion Natura 2000]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2014-05-09/10, art. 44, 025; En vigueur : 17-07-2014&gt;
+
+##### Art. 50septies
+
+[<sup>1</sup> § 1er. Pour chaque zone spéciale de conservation, un plan de gestion Natura 2000 est élaboré. Si plusieurs zones spéciales de conservation coïncident en tout ou en partie, un plan de gestion Natura 2000 conjoint peut être établi pour ces zones spéciales de conservation.
+
+Le plan de gestion Natura 2000 traverse des cycles successifs de six ans et son horizon temporel s'étend jusqu'en 2050.
+
+Dans un cycle du plan, le plan de gestion Natura 2000 est composé à l'aide de différentes versions successives du plan. Les versions du plan sont établies sur la base d'un contrôle intermédiaire du degré de réalisation de la mission du plan et en fonction des acteurs qui sont impliqués dans la réalisation du plan et du type d'instruments qui sont successivement utilisés à cet effet. Les dispositions en vigueur pour le plan de gestion Natura 2000 sont d'application également aux versions du plan.
+
+§ 2. Le plan de gestion Natura 2000 est établi en vue de :
+
+1° réaliser graduellement les objectifs de conservation pour la ou les zones spéciales de conservation en question, en exécution de l'article 36ter, § 1er ;
+
+2° prévenir ou faire cesser la dégradation des habitats à protéger au niveau européen et des habitats d'espèces à protéger au niveau européen, pour lesquels la ou les zones spéciales de conservation en question ont été déclarées ou qui sont présents dans cette ou ces zones, en exécution de l'article 36ter, § 2 ;
+
+3° prévenir ou faire cesser la perturbation notable des espèces à protéger au niveau européen, pour lesquelles la ou les zones spéciales de conservation en question ont été déclarées ou qui sont présentes dans cette ou ces zones, en exécution de l'article 36ter, § 2.
+
+La disposition, visée à l'alinéa 1er, 2°, n'empêche pas que des mesures doivent être prises à tout moment en vue de l'exécution de l'article 36ter, § 2, ou de l'exécution d'une autre réglementation, notamment des mesures d'exécution des titres XV et XVI du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, en particulier si c'est nécessaire pour prévenir ou faire cesser la dégradation de la qualité de la nature et du milieu naturel des habitats et des espèces à protéger au niveau européen et de leurs habitats.
+
+§ 3. Le plan de gestion Natura 2000 contient au moins :
+
+1° une mission pour la ou les zones spéciales de conservation en question qui se compose d'efforts en rapport avec la conservation de la nature réputés nécessaires pour la réalisation des objectifs de conservation visés au paragraphe 2, alinéa 1er, 1°, pendant le cycle du plan en question ;
+
+2° un relevé des actions pour la réalisation de la mission ;
+
+La mission, visée à l'alinéa 1er, 1°, indique également comment on contribue, dans la ou les zones spéciales de conservation, à la réalisation de la partie impérative de la mission, visée à l'article 50ter, § 3, 1°, en incluant, le cas échéant, le plan d'approche, visé à l'article 50ter, § 4, alinéa 2, 2°.
+
+§ 4.[<sup>2</sup> Pour la réalisation des objectifs de conservation visés au paragraphe 2, alinéa 1er, 1°, sont utilisées les zones de recherche délimitées conformément à l'article 36ter, § 1er, alinéas 3 à 5.]<sup>2</sup>.
+
+[<sup>2</sup> Toute modification de la carte des zones de recherche 2015 et visée à l'article 36ter, § 1er, alinéa 6, est réalisée dans le cadre de la préparation d'un plan de gestion Natura 2000 ou d'une version ultérieure d'un plan de gestion Natura 2000 établi, pour la ou les zones de protection spéciale en question. La carte des zones de recherche 2015 est actualisée tous les deux ans conformément aux dispositions des alinéas 3 à 5 de l'article 36ter, § 1er, et eu égard à l'avancement de la réalisation de l'objectif visé à l'article 4, § 5, alinéa 1er, du décret du 26 janvier 2024 sur l'approche programmatique de l'azote, ainsi qu'à l'évaluation visée à l'article 49, dernier alinéa, de ce même décret. ]<sup>2</sup>
+
+Pour la réalisation de la mission relative à l'état du milieu naturel pour la ou les zones spéciales de conservation en question, des rayons d'action sont arrêtés. Les rayons d'action s'appliquent pour une incidence déterminée sur l'environnement ou un groupe d'incidences pertinentes sur l'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-01-27/08, art. 7, 029; En vigueur : 06-02-2017&gt;
+
+(2)&lt;DCFL 2024-01-26/27, art. 68, 042; En vigueur : 23-02-2024&gt;
+
+##### Art. 50octies
+
+[<sup>1</sup> § 1er. Le plan de gestion Natura 2000, ou, le cas échéant, les versions du plan, sont provisoirement arrêtés par le Gouvernement flamand ou son délégué. Si des actions impératives, telles que visées au paragraphe 5, alinéa 2, sont présentes dans le plan ou dans une version déterminée du plan, le plan ou la version du plan en question sera en tout cas provisoirement arrêté par le Gouvernement flamand.
+
+§ 2. L'agence répond de la préparation du plan de gestion Natura 2000, ou, le cas échéant, des versions du plan.
+
+§ 3. Après l'établissement provisoire de chaque plan de gestion Natura 2000 ou, le cas échéant, chaque version du plan, l'agence organise une enquête publique relative au plan de gestion Natura 2000 établi provisoirement, ou à la version du plan, dans les cas et selon les règles tels que fixés à l'article 50decies/1.
+
+§ 4. L'agence est chargée de la coordination de l'exécution du plan de gestion Natura 2000 définitivement établi ou, le cas échéant, des versions du plan.
+
+A cette occasion, l'agence peut, en concertation avec l'instance de concertation régionale, faire appel aux acteurs, visés à l'article 50ter, § 3, 3°, b), qui apportent une contribution à la coordination.
+
+§ 5. Le plan de gestion Natura 2000 définitivement établi ou, le cas échéant, les versions du plan font l'objet d'un contrôle intermédiaire par l'agence tous les deux ans au moins à la lumière du degré de réalisation de la mission visée à l'article 50septies, § 3.
+
+Si le contrôle intermédiaire révèle que la partie impérative visée à l'article 50septies, § 3, alinéa 2, ne peut ou ne pourra vraisemblablement pas être réalisée pendant le cycle du plan en question, sa réalisation est assurée par des actions contraignantes.
+
+Les actions contraignantes, visées à l'alinéa 2, peuvent contenir des mesures de conservation pour la ou les zones spéciales de conservation.
+
+L'agence veille à ce que le destinataire de la mesure soit informé par lettre recommandée de la mesure et, le cas échéant, du délai dans lequel celle-ci doit être exécutée.
+
+§ 6. Le plan définitivement établi est évalué au moins tous les six ans sur la base du degré de réalisation des objectifs de conservation pour la ou les zones spéciales de conservation en question et le programme Natura 2000 flamand.
+
+Moyennant respect de cette évaluation, visée à l'alinéa 1er, un nouveau plan pour le cycle suivant de six ans ou pour une phase de celui-ci est ensuite arrêté selon les règles fixées aux articles 50septies à 50decies inclus. Le plan existant ou, le cas échéant, la version du plan reste en tout cas en vigueur jusqu'à ce que le nouveau plan ou la nouvelle version du plan ait été définitivement arrêté conformément à l'article 50decies/1, § 6, alinéa 2.
+
+§ 7. Le Gouvernement flamand peut arrêter les modalités de l'harmonisation ou de l'intégration procédurale du plan de gestion Natura 2000, du projet d'aménagement de la nature visé à l'article 47, et du plan de rénovation rurale visé à l'article 3.3.1 du décret du 28 mars 2014 relatif à la rénovation rurale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-01-27/08, art. 8, 029; En vigueur : 06-02-2017&gt;
+
+##### Art. 50novies
+
+[<sup>1</sup> L'agence organise, pour chaque zone spéciale de conservation pour laquelle un plan de gestion Natura 2000 est établi, une plate-forme de concertation qui est au moins chargée des missions suivantes :
+
+1° la surveillance de l'avancement du plan de gestion Natura 2000 ;
+
+2° l'initiation, le conseil et le suivi des processus de concertation qui interviennent dans le cadre de la réalisation des actions, visées à l'article 50septies, § 3, alinéa 1er, 2°.
+
+La plate-forme de concertation, visée à l'alinéa 1er, se compose d'au moins un ou plusieurs représentants :
+
+1° de l'agence ;
+
+2° des administrations flamandes qui sont associées à l'aménagement et à la gestion de l'espace extérieur ;
+
+3° des acteurs visés à l'article 50ter, § 3, 3°, autres que les représentants visés aux points 1° et 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-01-27/08, art. 9, 029; En vigueur : 06-02-2017&gt;
+
+##### Art. 50decies
+
+[<sup>1</sup> L'agence veille à donner une large notoriété au plan de gestion Natura 2000.
+
+Le Gouvernement flamand peut arrêter les modalités relatives au contenu, à la procédure d'élaboration, à l'évaluation, à la publication du plan de gestion Natura 2000 ou, le cas échéant, de la version du plan et à la notification, visée à l'article 50octies, § 5, alinéa 4.
+
+Le Gouvernement flamand fixe la façon dont, et les critères sur la base desquels, les zones de recherche, visées à l'article 50septies, § 4, alinéa 1er, sont délimitées et les rayons d'action, visés à l'article 50septies, § 4, alinéa 2, sont établis.
+
+Le Gouvernement flamand précise la composition de la plate-forme de concertation, telle que visée à l'article 50novies, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-01-27/08, art. 10, 029; En vigueur : 06-02-2017&gt;
+
+### Section 3/1. [<sup>1</sup> Enquête publique]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-01-27/08, art. 11, 029; En vigueur : 06-02-2017&gt;
+
+##### Art. 50decies/1
+
+[<sup>1</sup> § 1er. Le Gouvernement flamand ou son délégué soumet chaque programme Natura 2000 flamand provisoirement établi tel que visé à l'article 50quater, § 1er, chaque approche programmatique provisoirement établie afin d'atténuer une ou plusieurs pressions sur l'environnement telle que visée à l'article 50quater, § 1er, chaque plan de gestion Natura 2000 provisoirement établi ou, le cas échéant, chaque version de plan provisoirement établie telle que visée à l'article 50octies, § 1er, ou chaque plan de gestion provisoirement établi tel que visé à l'article 48, § 1er, alinéa 2, à une enquête publique qui est annoncée dans les trente jours après l'établissement provisoire, au moins par :
+
+1° l'affichage dans chaque commune sur laquelle le programme Natura 2000 flamand provisoirement établi, l'approche programmatique provisoirement établie, le plan de gestion Natura 2000 provisoirement établi ou le plan de gestion provisoirement établi, tel que visé à l'article 48, § 1er, alinéa 2, a trait ;
+
+2° un avis au Moniteur belge ;
+
+3° un avis dans trois journaux au moins qui sont distribués en Région flamande ;
+
+4° un avis sur le site web de l'agence.
+
+§ 2. L'enquête publique est annoncée avec mention des éléments suivants au minimum :
+
+1° les communes sur lesquelles le programme Natura 2000 flamand provisoirement établi, l'approche programmatique provisoirement établie, le plan de gestion Natura 2000 provisoirement établi ou, le cas échéant, la version du plan, ou le plan de gestion provisoirement établi, tel que visé à l'article 48, § 1er, alinéa 2, a trait ;
+
+2° la manière dont le programme Natura 2000 flamand provisoirement établi, l'approche programmatique provisoirement établie, le plan de gestion Natura 2000 provisoirement établi ou, le cas échéant, chaque version du plan provisoirement établie, ou le plan de gestion provisoirement établi, tel que visé à l'article 48, § 1er, alinéa 2, peut être consulté ;
+
+3° la date de début et de fin de l'enquête publique ;
+
+4° la manière dont les remarques et les objections, visées au paragraphe 4, peuvent être introduites.
+
+§ 3. A partir de la date de début de l'enquête publique, l'approche programmatique provisoirement établie ou le plan ou programme provisoirement établi peuvent être consultés pendant soixante jours de la manière visée à l'annonce.
+
+§ 4. Les remarques et objections sont transmises, au plus tard le dernier jour du délai de l'enquête publique, de la manière visée à l'annonce.
+
+Les remarques et objections ne peuvent concerner que les aspects suivants :
+
+1° en cas d'une enquête publique relative au programme Natura 2000 flamand provisoirement établi : les parties telles que visées à l'article 50ter, § 3 ;
+
+2° en cas d'une enquête publique relative à l'approche programmatique provisoirement établie : les parties telles que visées à l'article 50ter, § 4, alinéa 2 ;
+
+3° en cas d'une enquête publique relative au plan de gestion Natura 2000 provisoirement établi ou, le cas échéant, chaque version du plan provisoirement établie : les parties telles que visées à l'article 50septies, § 3 et § 4.
+
+[<sup>2</sup> Dans une enquête publique relative à une modification d'approche programmatique, telle que visée à l'article 50quater, § 4, alinéa 3, ou § 4/1, les remarques et objections ne peuvent porter que sur la modification.]<sup>2</sup>
+
+§ 5. L'agence rassemble et coordonne toutes les remarques et objections relatives au programme Natura 2000 flamand, aux plans de gestion Natura 2000, aux approches programmatiques et aux plans des plans de gestion tels que visés à l'article 48, § 1er, et les transmet dans les soixante jours après la fin de l'enquête publique à l'instance de concertation régionale, visée à l'article 50quinquies.
+
+Dans les soixante jours après la réception des remarques et objections rassemblées, l'instance de concertation régionale émet un avis motivé sur le programme Natura 2000 flamand, les plans de gestion Natura 2000, les approches programmatiques et les plans des plans de gestion tels que visés à l'article 48, § 1er, auprès du Gouvernement flamand ou, le cas échéant, son délégué.
+
+§ 6. Dans les 240 jours après la date de début de l'enquête publique, le Gouvernement flamand établit définitivement le programme Natura 2000 flamand.
+
+Dans les 240 jours après la date de début de l'enquête publique, le Gouvernement flamand ou son délégué établit définitivement l'approche programmatique afin d'atténuer une ou plusieurs pressions sur l'environnement, le plan de gestion Natura 2000 ou, le cas échéant, chaque version du plan, ou le plan de gestion tel que visé à l'article 48, § 1er.
+
+§ 7. L'arrêté portant établissement définitif du programme Natura 2000 flamand, de l'approche programmatique afin d'atténuer une ou plusieurs pressions sur l'environnement, du plan de gestion Natura 2000 et, le cas échéant, de chaque version ou plan, ou du plan de gestion tel que visé à l'article 48, § 1er, est publié par extrait au Moniteur belge dans les trente jours après l'établissement définitif.
+
+L'approche programmatique définitivement établie ou le plan ou programme définitivement établi entre en vigueur quatorze jours après la publication.
+
+§ 8. L'obligation d'organiser l'enquête publique susmentionnée ne s'applique pas aux approches programmatiques afin d'attéuner une ou plusieurs pressions sur l'environnement, au programme Natura 2000 flamand, aux plans de gestion Natura 2000 et, le cas échéant, à chaque version du plan, et aux plans de gestion tels que visés à l'article 48, § 1er, si un plan MER doit être établi pour cette approche programmatique ou ce plan ou programme en application de l'article 4.23 du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement.
+
+Dans ces cas, l'établissement provisoire du plan, du programme ou de l'approche programmatique vaut comme établissement définitif.
+
+Le cas échéant, le contenu du paragraphe 7[<sup>2</sup> du paragraphe 4, alinéa 3, et]<sup>2</sup> s'applique par analogie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-01-27/08, art. 12, 029; En vigueur : 06-02-2017&gt;
+
+(2)&lt;DCFL 2023-07-07/06, art. 3, 041; En vigueur : 14-08-2023&gt;
+
+### Section 4. [<sup>1</sup> - Programmes de surveillance]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2014-05-09/10, art. 49, 025; En vigueur : 17-07-2014&gt;
+
+##### Art. 50undecies
+
+[<sup>1</sup> En vue, notamment, de l'évaluation visée à l'article 50quater, § 3, et en vue du contrôle de l'avancement, visée à l'article 50quinquies, premier alinéa, 1° et à l'article 50novies, premier alinéa, 1°, des programmes de surveillance sont élaborés.
+
+La surveillance porte au moins sur l'état de conservation des zones spéciales de conservation et, en dehors de ces zones, sur la conservation des habitats et des espèces à protéger au niveau européen ainsi que des causes qui occasionnent ou peuvent occasionner une régression de cet état de conservation.
+
+La surveillance a également pour but de générer des données qui peuvent être utilisées pour satisfaire aux obligations qui découlent de l'article 36ter du présent décret.
+
+Le Gouvernement flamand arrête les modalités pour l'élaboration, le contenu et la gestion de ces programmes de surveillance et le contrôle de la qualité des données de la surveillance. Le Gouvernement flamand veille en tout cas au déroulement systématique et permanent de cette surveillance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 50, 025; En vigueur : 17-07-2014&gt;
+
+## CHAPITRE VI. - La protection des espèces animales et végétales et de leurs biocénoses.
+
+##### Art. 51
+
+&lt;DCFL 2002-07-19/54, art. 36, 004; En vigueur : 10-09-2002&gt; § 1er Le Gouvernement flamand prend, [<sup>1</sup> après avis du Conseil MiNa]<sup>1</sup>, toutes les mesures qu'il juge utiles :
+
+1° pour préserver les populations d'espèces ou de sous-espèces d'organismes énumérés aux annexes III et IV du présent décret et de leurs habitats;
+
+2° pour préserver, restaurer ou développer d'autres populations d'espèces ou de sous-espèces d'organismes.
+
+Ces mesures peuvent être prises partout ou pour des zones ou habitats déterminés, elles peuvent viser la protection d'espèces elles peuvent comprendre toutes les formes de développement des organismes et concerner entre autres :
+
+1° toutes les formes de développement d'organismes;
+
+2° l'interdiction de perturber intentionnellement des espèces et leurs habitats, durant la période de reproduction, de dépendance, de migration et d'hibernation;
+
+3° des mesures de protection d'oiseaux migrateurs régulièrement présents sur leurs sites de couvée, de mue, d'avitaillement et d'hibernation, ainsi que sur leurs aires de repos dans les zones de migration;
+
+4° l'interdiction de ramasser ou de détruire intentionnellement les oeufs des espèces vivant dans la nature;
+
+5° l'interdiction de détériorer ou détruire les habitats;
+
+6° l'interdiction de cueillir, rassembler, couper, déraciner ou détruire intentionnellement des espèces végétales;
+
+7° l'interdiction d'exploiter certaines populations;
+
+8° l'interdiction d'utiliser tous les moyens non sélectifs susceptibles d'entraîner localement la disparition ou de troubler gravement la tranquillité des populations des espèces énumérées à l'annexe III du présent décret;
+
+9° l'instauration d'un système d'autorisations de prélèvement de spécimens ou de quotas;
+
+10° la réhabilitation des espèces blessées vivant dans la nature.
+
+Ces mesures peuvent être d'application permanente, périodique ou temporaire et peuvent bénéficier d'indemnités pour lesquelles, dans les limites des moyens budgétaires, elles peuvent faire l'objet d'un règlement financier.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. Sans préjudice des dispositions du décret précité sur la chasse, le Gouvernement flamand peut prendre des mesures pour régler ou interdire les activités suivantes, que ce soit temporairement ou en permanence, localement ou sur l'ensemble du territoire : la possession à des fins personnelles ou commerciales, la capture, la mise à mort, le prélèvement, l'usage de certains moyens de capture et de mise à mort, le rassemblement, l'enlèvement ou la destruction, la commercialisation, l'échange, l'offre en vente ou en échange, la demande en vente, le transport et l'importation ou l'exportation de tout organisme, vivant ou mort, ou de parties ou produits facilement reconnaissables obtenus de ces organismes.
+
+§ 3. Le Gouvernement flamand peut prendre des mesures pour régler ou interdire le lâchage d'espèces animales ou végétales ou d'organismes, pour autant que ce lâchage menace la nature et le milieu naturel et pour régler ou interdire le transport d'espèces animales ou leurs cadavres ou d'espèces végétales.
+
+[<sup>3</sup> Sous réserve des compétences des fonctionnaires de surveillance en vertu d'autres lois ou décrets, l'agence ou des personnes mandatées par l'agence peuvent mettre en oeuvre d'office sur des terrains privés des mesures de gestion et de lutte contre :
+
+1° des espèces exotiques envahissantes sauvages préoccupantes pour l'Union européenne. Il s'agit des espèces exotiques dont les effets néfastes ont été jugés de nature à exiger une action concertée au niveau de l'Union en vertu de l'article 4, paragraphe 3, du règlement (UE) n° 1143/2014 du Parlement européen et du Conseil du 22 octobre 2014 relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes ;
+
+2° des espèces envahissantes sauvages préoccupantes pour la Région flamande. Il s'agit des espèces qui, en Région flamande, ont été inscrites sur une liste telle que visée à l'article 12 du règlement précité ;
+
+3° des espèces envahissantes sauvages préoccupantes pour la Belgique. Il s'agit des espèces qui ont été inscrites sur une liste nationale.
+
+Les mesures visées à l'alinéa 2 ne peuvent être que des mesures reprises dans un règlement de gestion arrêté par le Gouvernement flamand.
+
+Les mesures visées à l'alinéa 2 ne peuvent être mises en oeuvre d'office que si le propriétaire, le locataire, l'exploitant ou l'occupant d'un domaine privé ne pourvoit pas lui-même à la gestion ou à la lutte après demande écrite. La mise en oeuvre d'office est subordonnée à l'obtention de l'accord écrit du propriétaire, du locataire, de l'exploitant ou de l'occupant. Dans le cas où aucun accord n'est obtenu, le propriétaire, le locataire, l'exploitant ou l'occupant peut être tenu responsable des coûts liés à la gestion ou des coûts liés à la restauration découlant de la population de l'espèce concernée sur son terrain.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2004-04-30/45, art. 46, 005; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2004-04-30/45, art. 47, 005; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCFL 2019-04-26/31, art. 67, 035; En vigueur : 29-06-2019&gt;
+
+##### Art. 52
+
+[<sup>1</sup> § 1er. Les dommages que subissent les cultures, le bétail, les bois ou la pêche par la faute des espèces animales protégées en vertu des dispositions de l'article 51, sont indemnisés, par le fonds MiNa à condition qu'il a été répondu aux conditions suivantes :
+
+1° qu'il s'agit de dommages importants et justifiables;
+
+2° qu'il s'agit de dommages n'ayant pas pu être évités raisonnablement;
+
+3° qu'aucune dérogation n'a été accordée en vertu de l'article 56, 4°, pour éviter les dommages pour lesquels l'indemnité est demandée.
+
+[<sup>2</sup> Dans les zones spéciales de conservation, désignées par le Gouvernement flamand en application de l'article 4, alinéa 4, de la directive Habitats, ainsi que dans les zones du VEN, l'indemnisation peut être limitée dans le temps.]<sup>2</sup>
+
+[<sup>2</sup> Le Gouvernement flamand précise les règles d'évaluation des conditions visées à l'alinéa 1er, ainsi que celles relatives à la limitation dans le temps de l'indemnisation, visée à l'alinéa 2.]<sup>2</sup>
+
+§ 2. Pour pouvoir bénéficier de l'indemnité visée au § 1er, la personne lésée doit adresser à temps une demande au fonctionnaire de l'Agence de la Nature et des Forêts désigné par le Gouvernement flamand.
+
+Le Gouvernement flamand arrête les modalités et le délai dans lequel la demande doit être présentée ainsi que les données que celle-ci doit contenir.
+
+§ 3. Le fonctionnaire visé au paragraphe 2 statue sur la demande après une visite sur place et l'avis d'un ou plusieurs fonctionnaires désignés par le Gouvernement flamand. Si, et dans la mesure où les conditions prévues au paragraphe 1er, sont remplies et à la condition que la demande ait été présentée dans les délais, cette décision fixe le montant des dommages qui donnent droit à une indemnité en vertu du paragraphe 1er.
+
+Le Gouvernement flamand arrêté les modalités de l'examen de la demande et peut déterminer le mode d'estimation des dommages. Il détermine le mode de notification de la décision et les destinataires ainsi que les données qu'elle doit contenir.
+
+§ 4. Le demandeur peut former un recours auprès du Ministre contre la décision visée au paragraphe 3.
+
+Le Gouvernement flamand arrête les modalités du recours.
+
+§ 5. La décision visée au paragraphe 3 qui a fixé un montant pour les dommages donnant droit à une indemnité en vertu du paragraphe 1er et contre laquelle aucun recours n'a été formé ou formé dans les délais, constitue le titre d'indemnisation par le Fonds MiNa.
+
+En cas de présentation du recours dans les délais, la décision ministérielle, dans la mesure où celle-ci a fixé un montant des dommages indemnisables en vertu du paragraphe 1er, constitue le titre d'indemnisation par le Fonds MiNa.
+
+§ 6. Le Gouvernement flamand prévoit, quant à la décision visée au paragraphe 3 contre laquelle aucun recours n'a été formé ou formé dans les délais prescrits, une procédure de révision visant la rectification d'erreurs matérielles dans cette décision et l'annulation de cette décision en cas de fraude ou si la décision a été prise sur la base de pièces ou de déclarations manifestement fausses ou inexactes. En cas d'annulation, il est à nouveau statué sur le fond si la décision est la même.
+
+La décision d'annulation ou de rectification est sujette au même recours que la décision annulée ou rectifiée et constitue le titre d'indemnisation par le Fonds MiNa ou donne lieu au remboursement des sommes indûment perçues, dès qu'elle n'est plus sujette à ce recours ou après la fin du recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 104, 020; En vigueur : 28-02-2011&gt;
+
+(2)&lt;DCFL 2026-06-26/21, art. 52, 047; En vigueur : 20-08-2026&gt;
+
+## CHAPITRE VII. - Dispositions concernant l'éducation à la nature, les groupes-cibles, les autorités provinciales, communales et décentralisées sur le plan fonctionnel.
+
+##### Art. 53
+
+§ 1er. Le Gouvernement flamand peut prendre des mesures pour promouvoir la connaissance de la nature auprès de la population en général ou de groupes déterminés de la population.
+
+(Le Gouvernement flamand prend et favorise en particulier les initiatives destinées à l'éducation et l'information concernant la nécessité de protéger les animaux sauvages et les espèces végétales et de préserver leurs habitats et habitats naturels conformément à la directive " habitats " et à la directive " oiseaux ".) &lt;DCFL 2002-07-19/54, art. 37, 004; En vigueur : 10-09-2002&gt;
+
+§ 2. Le Gouvernement flamand peut créer ou agréer des centres pour l'éducation à la nature.
+
+Ces centres ont pour but de promouvoir la formation de la population quant à la conservation de la nature au sens large et la relation entre l'homme et la nature.
+
+Le Gouvernement flamand règle l'organisation et la mission spécifique des centres qu'il crée. Il arrête les conditions d'agrément et de subventionnement dans les limites du budget.
+
+§ 3. Le Gouvernement flamand peut accorder, aux conditions qu'il arrête, des subventions pour des travaux d'infrastructure en matière d'éducation à la nature et pour des projets en matière d'éducation à la nature qui ne bénéficient déjà de subventions à charge du budget de la Communauté flamande.
+
+##### Art. 54
+
+&lt;Abrogé par DCFL 2023-06-09/07, art. 34, 039; En vigueur : 20-07-2023&gt;
+
+##### Art. 54bis
+
+[<sup>1</sup> § 1er. Un groupement forestier responsabilise et stimule principalement les gestionnaires de terrain en vue d'exercer durablement la fonction écologique, économique et/ou sociale par le biais de la gestion intégrée en exécution du décret. Le groupement forestier vise également la coordination d'activités de gestion, un service de base sur le plan de la gestion et l'élaboration de plans de gestion communs.
+
+En exécutant leurs tâches, les groupements forestiers recherchent une harmonisation et des synergies optimales avec d'autres acteurs, en particulier avec les paysages régionaux.
+
+§ 2. Un groupement forestier est un accord de collaboration durable entre gestionnaires de terrain. Tous les gestionnaires de terrain peuvent adhérer à un groupement forestier et recourir à ses services. Un groupement forestier a le statut de personne morale de droit privé, sous la forme d'une association sans but lucratif.
+
+§ 3. Les provinces sont compétentes pour l'agrément, le subventionnement et le suivi des groupements forestiers. [<sup>2</sup> Le Gouvernement flamand peut prévoir des subventions complémentaires afin de soutenir le fonctionnement des groupes forestiers, dans le but de contribuer à la réalisation d'objectifs politiques flamands spécifiques autres que ceux visés au paragraphe 1er.]<sup>2</sup>
+
+§ 4. Outre des moyens financiers, les provinces peuvent également mettre à disposition des infrastructures et du personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/10, art. 52, 025; En vigueur : 17-07-2014&gt;
+
+(2)&lt;DCFL 2026-06-26/21, art. 53, 047; En vigueur : 20-08-2026&gt;
+
+##### Art. 55
+
+§ 1er. Le Gouvernement flamand peut prendre des mesures d'appui pour promouvoir la nature dans l'espace bâti par les communes.
+
+§ 2. Le Gouvernement flamand peut prendre des mesures d'appui pour promouvoir l'élaboration de mesures pour les zones naturelles de transition et les éléments ligniformes et ponctuels par les provinces et les communes; à cet effet une convention peut être passée avec elles.
+
+## CHAPITRE VIII. - Dispositions particulières.
+
+##### Art. 56
+
+&lt;DCFL 2002-07-19/54, art. 38, 004; En vigueur : 10-09-2002&gt; Le Gouvernement flamand ou ses fonctionnaires délégués peuvent déroger aux interdictions du présent décret ou ses dispositions d'exécution :
+
+1° au profit de la recherche scientifique entreprise par des établissements scientifiques et des universités;
+
+2° au profit de la gestion de la nature, de l'éducation à la nature et dans l'intérêt de la protection de la nature et de la préservation des habitats;
+
+3° au profit de la santé publique ou de la sécurité publique;
+
+4° pour éviter que les cultures, le bétail et les animaux domestiques, les bois et la pêche subissent des dommages importants;
+
+5° au profit de l'enseignement et du repeuplement.
+
+Lorsqu'il est dérogé à une disposition prise en vertu d'un traité, d'une convention ou d'un acte internationaux visés à l'article 7, les conditions imposées par ce traité, convention ou acte doivent avant tout être respectées.
+
+Si la dérogation concerne une activité susceptible d'engendrer une détérioration significative des caractéristiques naturelles d'une zone spéciale de conservation, il ne peut être dérogé que pour les raisons visées et suivant les procédures déterminées à l'article 36ter , §§ 3 à 6.
+
+Si la dérogation concerne une activité susceptible d'engendrer des préjudices inévitables et irréparables a la nature dans le VEN, il ne peut être dérogé que pour les raisons visées et suivant les procédures déterminées à l'article 26bis , § 3.
+
+Sans préjudice des dispositions des deuxième, troisième et quatrième alinéa, les dérogations visées à l'alinéa premier peuvent exclusivement être autorisées lorsqu'il n'existe aucune alternative satisfaisante et pour autant qu'elles concernent les espèces de l'annexe III du présent décret, ne nuisent pas au maintien, dans un état de conservation favorable, des populations des espèces concernées dans leur aire de répartition naturelle. (L'Agentschap voor Natuur en Bos) communique cette dérogation et sa motivation à la Commission européenne. &lt;DCFL 2007-12-07/51, art. 63, 011; En vigueur : 14-01-2008&gt;
+
+[<sup>1</sup> Conformément à l'article 6.4.4, § 3, du décret du 12 juillet 2013 relatif au patrimoine immobilier, pour l'octroi d'une dérogation telle que visée à l'alinéa premier du présent article, ayant trait à un acte au niveau de biens protégés ou dans des biens protégés tels que visés dans ce décret, un avis est demandé à l'entité qui est chargée par le Gouvernement flamand de l'exécution de la politique en matière de patrimoine immobilier. ]<sup>1</sup>
+
+Le Gouvernement flamand peut déterminer les conditions et procédures d'application de ces possibilités de dérogation.
+
+§ 2. Le Gouvernement flamand peut prevoir une dispense ou une harmonisation procédurale au cas où, par ou en vertu du présent décret, pour une même activité, plusieurs obligations s'appliquent à l'obtention d'un mandat, d'une autorisation, d'une suppression ou d'une dérogation. Cette réglementation ne peut pas, toutefois, déroger aux dispositions des articles 26bis , § 3, et 36ter , §§ 3 à 6.
+
+----------
+
+(1)&lt;DCFL 2013-07-12/44, art. 12.1.16, 023; En vigueur : 01-01-2015 (AGF 2014-05-16/42, art. 13.4.1)&gt;
+
+##### Art. 57
+
+Les recettes profitant à la Région flamande, qui résultent de l'application du présent décret et des arrêtés pris ou maintenus pour son exécution, y compris les éventuelles subventions allouees en vertu d'actes internationaux, les dommages-intérêts et les produits dont benéficie la Région flamande, qui résultent de l'application du présent décret, à la condition que ces recettes ne constituent pas des moyens prévus au budget administratif, sont verses au fonds MINA.
+
+##### Art. 57bis
+
+&lt;DCFL 2002-07-19/54, art. 39, 004; En vigueur : 10-09-2002&gt; Les personnes qui, dans le cadre de leur fonction ou mandatées par le gouvernement, travaillent au profit d'affaires ressortissant du présent décret, peuvent, en fonction de leur mission, pénétrer dans des propriétés immobilières, à l'exception des habitations et bâtiments destinés à des activités privées ou professionnelles, afin d'y effectuer des mesurages et des examens. Ils doivent justifier leur identité et être en mesure de fournir la preuve de leur mission. Le Gouvernement flamand peut arrêter des modalités à ce sujet.
+
+##### Art. 57ter
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 41, 045; En vigueur : 01-04-2026&gt;
+
+## CHAPITRE IX. - [<sup>1</sup> Maintien]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-04-30/87, art. 126, 016; En vigueur : 25-06-2009&gt;
+
+### Section 1. - Dispositions pénales. [<sup>1</sup> intitulé de section supprimé]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-04-30/87, art. 127, 016; En vigueur : 25-06-2009&gt;
+
+##### Art. 58
+
+[<sup>1</sup> Le titre XVI du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement s'applique au maintien du présent décret et de ses arrêtés d'exécution, y compris les obligations qui sont imposées en vertu de celle-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 42, 045; En vigueur : 01-04-2026&gt;
+
+##### Art. 59
+
+&lt;Abrogé par DCFL 2009-04-30/87, art. 129, 016; En vigueur : 25-06-2009&gt;
+
+### Section 2. - Du contrôle. [<sup>1</sup> abrogée]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-04-30/87, art. 130, 016; En vigueur : 25-06-2009&gt;
+
+##### Art. 60
+
+&lt;Abrogé par DCFL 2009-04-30/87, art. 130, 016; En vigueur : 25-06-2009&gt;
+
+##### Art. 61
+
+&lt;Abrogé par DCFL 2009-04-30/87, art. 130, 016; En vigueur : 25-06-2009&gt;
+
+##### Art. 62
+
+&lt;Abrogé par DCFL 2009-04-30/87, art. 130, 016; En vigueur : 25-06-2009&gt;
+
+## CHAPITRE X. - Dispositions modificatives, abrogatoires et transitoires.
+
+##### Art. 63
+
+Les articles 1er a 4, 6 à 34, 36 à 39 et 41 à 46 de la loi du 12 juillet 1973 sur la conservation de la nature sont abrogés pour ce qui concerne la Région flamande.
+
+Les dispositions reglementaires, prises en exécution des dispositions abrogées de la loi précitée, restent d'application, pour autant qu'elles n'ont pas été abrogées, modifiees ou complétées par le Gouvernement flamand.
+
+##### Art. 64
+
+Dans l'article 52, § 1er, de la même loi, inséré par le décret du 14 juillet 1993 portant des mesures de protection des dunes côtières et modifié par le décret du 2 décembre 1994, les mots " Par dérogation aux dispositions des chapitres précédents, l'Exécutif flamand peut ", sont remplacés par les mots " Par dérogation aux dispositions du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, le Gouvernement flamand peut ".
+
+##### Art. 65
+
+Dans l'article 56 de la même loi, inséré par le décret du 14 juillet 1993 portant des mesures de protection des dunes côtières, les mots " les articles 45 et 46 " sont remplacés par les mots " les articles 58 à 62 inclus du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel ".
+
+##### Art. 66
+
+§ 1er. L'article 43 du décret forestier du 13 juin 1990 est complété par un § 6, libellé comme suit :
+
+" § 6. Lorsqu'un bois public est situe dans le réseau écologique flamand, tel que visé dans le décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, le plan de gestion est soumis pour avis à l'Administration chargée de la Conservation de la nature. Après approbation du plan de gestion, l'Administration chargée de la Conservation de la nature est informée périodiquement sur les mesures d'exécution du plan envisagées.
+
+Ce plan de gestion contient au moins les renseignements inclus dans le plan de gestion pour les réserves forestières, tels que prévus à l'article 25 du présent décret. ".
+
+##### Art. 67
+
+Entre le premier et le deuxième alinéa de l'article 46 du décret forestier du 13 juin 1990, est inséré un alinéa, libellé comme suit :
+
+" Pour les bois situés dans le réseau écologique flamand, tel que visé dans le décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, les plans de gestion, approuvés apres l'entrée en vigueur du décret précité, contiennent explicitement les mesures devant être prises pour réaliser les objectifs définis à l'article 18 du décret forestier du 13 juin 1990 et conformes au plan directeur de la nature, conformément aux articles 48 et 50 du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel.
+
+L'administration chargée de la Conservation de la nature peut surveiller la politique menée. ".
+
+##### Art. 68
+
+L'article 47 du décret forestier du 13 juin 1990 est remplacé par la disposition suivante :
+
+" Art. 47. Par dérogation aux articles 43 à 46 inclus, les bois, situés dans des réserves naturelles visées au décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, font l'objet d'un seul plan de gestion par réserve naturelle, l'Administration forestière étant entendue, conformément au décret du 21 octobre 1997. Le fonctionnaire de l'Administration chargée de la Conservation de la nature recueille l'avis de l'Administration forestière, qui doit être émis dans les trente jours. Passé ce délai, l'avis devient nul.
+
+Par dérogation à l'article 42 du décret sur l'aménagement du territoire, coordonné le 22 octobre 1996, une simple notification préalable au fonctionnaire est requise pour les opérations de déboisement prévues par le plan de gestion et approuvées en vertu de la législation sur la conservation de la nature, effectuees dans les réserves naturelles, conformément au présent décret, Cette notification est communiquée, sans délai, par le fonctionnaire, au Collège des bourgmestre et échevins et à l'Administration de l'Aménagement du territoire. ".
+
+##### Art. 69
+
+Au décret forestier du 13 juin 1990, est ajoute un nouvel article 90bis, libellé comme suit :
+
+" Art. 90bis. Le déboisement, tel que défini à l'article 4, point 15, est interdit à moins que ne soient respectées les prescriptions de l'aménagement du territoire et de l'urbanisme et que ne soit recueilli l'avis de l'Administration forestière.
+
+Cet avis est recueilli par l'Administration chargée, par le Gouvernement flamand, de l'Urbanisme et de l'Aménagement du territoire, ou si celle-ci n'est pas associée à la délivrance de l'autorisation, par l'autorité délivrant l'autorisation. L'Administration forestière rend son avis dans les 30 jours. Passé ce délai, l'avis est censé favorable.
+
+Une autorisation de déboisement n'est délivrée, conformément à la législation sur l'aménagement du territoire et l'urbanisme, que si le déboisement se fait en fonction de l'exécution des travaux d'utilite publique conformes aux plans d'aménagement d'application.
+
+En vue de préserver la superficie forestière, le Gouvernement flamand arrête les criteres de compensation du déboisement. Les mesures compensatoires conditionnent le déboisement autorisé. ".
+
+##### Art. 70
+
+Dans le décret forestier du 13 juin 1990, est inséré un article 19bis, libellé comme suit :
+
+" Art. 19bis. Le Gouvernement flamand peut, après avis du Conseil supérieur des Bois et du Conseil supérieur flamand de la Conservation de la nature, aux conditions et suivant les normes qu'il fixe, allouer des subventions dans les limites des crédits budgétaires, pour des mesures favorisant le développement de la nature dans les bois, le cas échéant, en adéquation avec les catégories zonales prévues par la politique de la nature et/ou la politique de l'aménagement du territoire. ".
+
+##### Art. 71
+
+Le dernier alinéa de l'article 87 du décret forestier du 13 juin 1990 est remplacé par la disposition suivante :
+
+" Pour le boisement de terrains situés dans les zones naturelles, les zones naturelles d'intérêt scientifique, les zones vallonneuses, les zones de sources, les zones agricoles d'intérêt écologique et les zones agricoles d'intérêt particulier, les zones de développement de la nature, le réseau écologique flamand, les zones désignées en exécution de la directive 79/409/CEE concernant la conservation des oiseaux sauvages, les zones désignées en exécution de la directive 92/43/CEE concernant la conservation des habitats naturels, ainsi que de la flore et de la faune sauvages et les zones désignées en vertu de la Convention relative aux zones humides d'importance internationale, faite à Ramsar le 2 février 1971, l'avis préalable de l'Administration chargée de la Conservation de la nature doit être recueillie. La distance prescrite à l'article 35bis, § 5, du Code rural reste intégralement d'application.
+
+Le Gouvernement flamand arrête les critères de boisement et d'extension forestière écologiques. ".
+
+##### Art. 72
+
+&lt;Abrogé par DCFL 2014-05-09/10, art. 97, 025; En vigueur : 28-10-2017&gt;
+
+##### Art. 73
+
+Pour les terrains acquis, moyennant une subvention d'achat allouée par la Région flamande, avant l'entrée en vigueur du présent décret, la procédure d'agrément d'avant l'entrée en vigueur reste d'application.
+
+##### Art. 74
+
+A l'article 20, alinéa 2, du décret du 28 juin 1985 sur l'autorisation écologique, est ajoutée la disposition suivante :
+
+" Pour les réserves naturelles agréées situées hors du VEN et agréées sur la base de l'article 36, §§ 2 et 3, du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, aucune règle en matière de distance est d'application. ".
+
+##### Art. 75
+
+&lt;Abrogé par DCFL 2014-05-09/10, art. 98, 025; En vigueur : 17-07-2014&gt;
+
+## ANNEXES.
+
+##### Art. N1
+
+[<sup>1</sup> (Image non reprise pour des raisons techniques, voir M.B. du 22-02-2024, p. 26176) ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-01-26/27, art. 69, 042; En vigueur : 23-02-2024&gt;
+
+##### Art. N2
+
+Annexe II. Les espèces de la faune et de la flore de l'Annexe II de la directive " Habitats " présents en Flandre. &lt;Inséré par DCFL 2002-07-19/54, art. 43; En vigueur : 10-09-2002&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+<table><tr><td>Code</td><td>Mammiferes</td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td>1304</td><td>Rhinolophus ferrumequinum</td><td>Grand Rhinolophe</td></tr><tr><td>1308</td><td>Barbastella barbastellus</td><td>Barbastelle</td></tr><tr><td>1323</td><td>Myotis bechsteini</td><td>Vespertilion de Bechstein</td></tr><tr><td>1318</td><td>Myotis dasycneme</td><td>Vespertilion des marais</td></tr><tr><td>1321</td><td>Myotis emarginatus</td><td>Vespertilion a oreilles echancrees</td></tr><tr><td>1324</td><td>Myotis myotis</td><td>Grand murin</td></tr><tr><td>1355</td><td>Lutra lutra</td><td>Loutre</td></tr><tr><td>[<sup><font>1</font></sup> 1337</td><td>Castor fiber]<sup><font>1</font></sup></td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td> </td><td>Amphibiens</td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td>1166</td><td>Triturus cristatus</td><td>Triton crete</td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td> </td><td>Poissons</td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td>1099</td><td>Lampetra fluviatilis (V)</td><td>Lamproie de riviere</td></tr><tr><td>1096</td><td>Lampetra planeri (o)</td><td>Lamproie de Planer</td></tr><tr><td>1134</td><td>Rhodeus sericeus amarus (o)</td><td>Bouviere</td></tr><tr><td>1149</td><td>Cobitis taenia (o)</td><td>Loche de riviere</td></tr><tr><td>1145</td><td>Misgurnus fossilis (o)</td><td>Loche d`etang</td></tr><tr><td>1163</td><td>Cottus gobio</td><td>Chabot</td></tr><tr><td>[<sup><font>1</font></sup> 1103</td><td>Alose falax falax ]<sup><font>1</font></sup></td><td> </td></tr><tr><td>[<sup><font>1</font></sup> 1106</td><td>Salmo salar ]<sup><font>1</font></sup></td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td> </td><td>Insectes</td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td>1042</td><td>Leucorrhinia pectoralis</td><td>Leucorrhine a gros thorax</td></tr><tr><td>1083</td><td>Lucanus cervus</td><td>Lucane cerf-volant</td></tr><tr><td>[<sup><font>1</font></sup> 1078</td><td>Callimorpha quadripunctaria]<sup><font>1</font></sup></td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td> </td><td>Mollusques</td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td>1016</td><td>Vertigo moulinsiana</td><td>Vertigo moulinsiana</td></tr><tr><td>1014</td><td>Vertigo angustior</td><td>Vertigo angustior</td></tr><tr><td>[<sup><font>1</font></sup> 4056</td><td>Anisus vorticulus ]<sup><font>1</font></sup></td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td> </td><td>Plantes</td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td>1393</td><td>Drepanocladus vernicosus</td><td>Drepanoclade brillant</td></tr><tr><td>1614</td><td>Apium repens</td><td>Ache rampant</td></tr><tr><td>1831</td><td>Luronium natans</td><td>Fluteau nageant</td></tr><tr><td>1903</td><td>Liparis loeselii</td><td>Liparis de Loesel</td></tr><tr><td colspan="3">(<font>1</font>)&lt;AGF <a>2009-05-15/33</a>, art. 52, § 1er, 018; En vigueur : 01-09-2009 ; dispositions transitoires : voir art. 57, alinéa 2&gt;</td></tr></table>
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 59, 013; En vigueur : 14-02-2009&gt;
+
+##### Art. N3
+
+Annexe III. - Les espèces de la faune et de la flore d'intérêt communautaire de l'Annexe IV de la directive "Habitats " présents en Flandre. &lt;Inséré par DCFL 2002-07-19/54, art. 43; En vigueur : 10-09-2002&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+<table><tr><td>A) ESPECES ANIMALES</td><td> </td></tr><tr><td>MICROCHIROPTERA</td><td>MICROCHIROPTERES</td></tr><tr><td>Rhinolophus ferrumequinum</td><td>Grand Rhinolophe</td></tr><tr><td>Myotis mystacinus</td><td>Vespertillon a moustaches</td></tr><tr><td>Myotis brandtii</td><td>Murin de Brandt</td></tr><tr><td>Myotis daubentonii</td><td>Murin de Daubenton</td></tr><tr><td>Myotis nattereri</td><td>Murin de Natterer</td></tr><tr><td>Myotis emarginatus</td><td>Vespertilion a oreilles echancrees</td></tr><tr><td>Myotis dasycneme</td><td>Vespertilion des marais</td></tr><tr><td>Myotis bechsteinii</td><td>Vespertilion de Bechstein</td></tr><tr><td>Myotis myotis</td><td>Grand murin</td></tr><tr><td>Plecotus auritus</td><td>Oreillard roux</td></tr><tr><td>Plecotus austriacus</td><td>Oreillard gris</td></tr><tr><td>Pipistrellus pipistrellus</td><td>Pipistrelle commune</td></tr><tr><td>Pipistrellus nathusii</td><td>Pipistrelle de Nathusius</td></tr><tr><td>Eptesicus serotinus</td><td>Serotine commune</td></tr><tr><td>Nyctalus noctula</td><td>Noctule commune</td></tr><tr><td>Nyctalus leisleri</td><td>Noctule de Leisler</td></tr><tr><td>Barbastella barbastellus</td><td>Barbastelle d'Europe</td></tr><tr><td>RODENTIA</td><td> </td></tr><tr><td>Muscardinus avellanarius</td><td>Muscardin</td></tr><tr><td>[<sup><font>2</font></sup> Castor fiber</td><td>Castor d'Eurasie</td></tr><tr><td>Cricetus cricetus</td><td>Hamster</td></tr><tr><td>CARNIVORA</td><td> </td></tr><tr><td>Canis lupus lupus</td><td>Loup gris commun</td></tr><tr><td>Felis silvestris</td><td>Chat sauvage</td></tr><tr><td>Lutra lutra</td><td>Loutre</td></tr><tr><td>Lynx lynx</td><td>Lynx boréal</td></tr><tr><td>AMPHIBIENS ET REPTILES</td><td>]<sup><font>2</font></sup></td></tr><tr><td>Triturus cristatus</td><td>Triton crete</td></tr><tr><td>Alytes obstetricans</td><td>Crapaud accoucheur</td></tr><tr><td>Rana arvalis</td><td>Grenouille oxyrhine</td></tr><tr><td>Pelobates fuscus</td><td>Pelobate brun</td></tr><tr><td>Bufo calamita</td><td>Crapaud calamite</td></tr><tr><td>Hyla arborea</td><td>Rainette verte</td></tr><tr><td>Coronellea autriaca</td><td>Coronelle lisse</td></tr><tr><td>[<sup><font>1</font></sup> Rana lessonae]<sup><font>1</font></sup></td><td>Petite grenouille verte d'Europe</td></tr><tr><td>[<sup><font>2</font></sup> Podarcis muralis</td><td>Lézard des murailles]<sup><font>2</font></sup></td></tr><tr><td>INVERTEBRES ARTHROPODES</td><td> </td></tr><tr><td>Odonata</td><td> </td></tr><tr><td>Leucorrhina pectoralis</td><td>Leucorrhine a gros thorax</td></tr><tr><td>[<sup><font>1</font></sup> Gomphus flavipest]<sup><font>1</font></sup></td><td>Gomphe à pattes jaunes</td></tr><tr><td>[ -2 Cucujus cinnabarinus</td><td>Cucujus vermillon</td></tr><tr><td>Leucorrhinia caudalis</td><td>Leucorrhine à large queue</td></tr><tr><td>Ophiogomphus cecilia</td><td>Ophiogomphe serpentin</td></tr><tr><td>Osmoderma eremita</td><td>Scarabée pique-prune]<sup><font>2</font></sup></td></tr><tr><td>[<sup><font>1</font></sup> MOLLUSQUES]<sup><font>1</font></sup></td><td> </td></tr><tr><td>[<sup><font>1</font></sup> Anisus vorticulus]<sup><font>1</font></sup></td><td> </td></tr><tr><td>B) ESPECES VEGETALES</td><td> </td></tr><tr><td>Drepanocladus vernicosus</td><td>Drepanoclade brillant</td></tr><tr><td>Apium repens</td><td>Ache rampant</td></tr><tr><td>Luronium natans</td><td>Fluteau nageant</td></tr><tr><td>Liparis loeselii</td><td>Liparis de Loesel</td></tr><tr><td colspan="2">(<font>1</font>)&lt;AGF <a>2009-05-15/33</a>, art. 52, § 2, 018; En vigueur : 01-09-2009 ; dispositions transitoires : voir art. 57, alinéa 2&gt;</td></tr><tr><td colspan="2">(<font>2</font>)&lt;AGF <a>2020-07-10/29</a>, art. 1, 036; En vigueur : 21-08-2020&gt; </td></tr></table>
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 59, 013; En vigueur : 14-02-2009&gt;
+
+##### Art. N4
+
+Annexe IV. Les espèces d'oiseaux de l'Annexe I de la directive " oiseaux " présents en Flandre. &lt;Inséré par DCFL 2002-07-19/54, art. 43; En vigueur : 10-09-2002&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+<table><tr><td>Acrocephalus paludicola</td><td>Phragmite aquatique</td></tr><tr><td>Alcedo atthis</td><td>Martin-pecheur d`Europe</td></tr><tr><td>Anser erythropus</td><td>Oie naine</td></tr><tr><td>Anthus campestris</td><td>Pipit rousseline</td></tr><tr><td>Ardea purpurea</td><td>Heron pourpre</td></tr><tr><td>Asio flammeus</td><td>Hibou des marais</td></tr><tr><td>Aythya nyroca</td><td>Fuligule nyroca</td></tr><tr><td>Botaurus stellaris</td><td>Butor etoile</td></tr><tr><td>Branta leucopsis</td><td>Bernache nonnette</td></tr><tr><td>Branta ruficollis</td><td>Bernache a cou roux</td></tr><tr><td>Burhinus oedicnemus</td><td>Oedicneme criard</td></tr><tr><td>Caprimulgus europaeus</td><td>Engoulevent d`Europe</td></tr><tr><td>[<sup><font>1</font></sup> Charadrius alexandrinus1</td><td>pluvier à collier interrompu]<sup><font>1</font></sup></td></tr><tr><td>Charadrius morinellus</td><td>Pluvier guignard</td></tr><tr><td>Chlidonias niger</td><td>Guifette noire</td></tr><tr><td>Ciconia ciconia</td><td>Cigogne blanche</td></tr><tr><td>Ciconia nigra</td><td>Cigogne noire</td></tr><tr><td>Circus aeruginosus</td><td>Busard des roseaux</td></tr><tr><td>Circus cyaneus</td><td>Busard Saint-Martin</td></tr><tr><td>Circus pygargus</td><td>Busard cendre</td></tr><tr><td>Crex crex</td><td>Rale des genets</td></tr><tr><td>Cygnus columbianus</td><td>Cygne de Bewick</td></tr><tr><td>Cygnus cygnus</td><td>Cygne chanteur</td></tr><tr><td>Dendrocopus medius</td><td>Pic mar</td></tr><tr><td>Dryocopus martius</td><td>Pic noir</td></tr><tr><td>Egretta alba</td><td>Aigrette blanche</td></tr><tr><td>Egretta garzetta</td><td>Aigrette garzette</td></tr><tr><td>Emberiza hortulana</td><td>Bruant ortolan</td></tr><tr><td>Ficedula parva</td><td>Gobemouche nain</td></tr><tr><td>Falco columbarius</td><td>Faucon emerillon</td></tr><tr><td>Falco peregrinus</td><td>Faucon pelerin</td></tr><tr><td>Gallinago media</td><td>Becassine double</td></tr><tr><td>Gavia arctica</td><td>Plongeon arctique</td></tr><tr><td>Gavia immer</td><td>Plongeon imbrin</td></tr><tr><td>Gavia stellata</td><td>Plongeon catmarin</td></tr><tr><td>Grus grus</td><td>Grue cendree</td></tr><tr><td>Haliaeetus albicilla</td><td>Pygargue a queue blanche</td></tr><tr><td>Himantopus himantopus</td><td>Echasse blanche</td></tr><tr><td>Ixobrychus minutus</td><td>Blongios nain</td></tr><tr><td>Lanius collurio</td><td>Pie-grieche ecorcheur</td></tr><tr><td>Larus melanocephalus</td><td>Mouette melanocephale</td></tr><tr><td>Limosa lapponica</td><td>Barge rousse</td></tr><tr><td>Lullula arborea</td><td>Alouette lulu</td></tr><tr><td>Luscinia svecica</td><td>Gorgebleue a miroir</td></tr><tr><td>Mergellus albellus</td><td>Harle piette</td></tr><tr><td>Milvus migrans</td><td>Milan noir</td></tr><tr><td>Milvus milvus</td><td>Milan royal</td></tr><tr><td>Nycticorax nycticorax</td><td>Bihoreau gris</td></tr><tr><td>Pandion haliaetus</td><td>Balbuzard pecheur</td></tr><tr><td>Pernis apivorus</td><td>Bondree apivore</td></tr><tr><td>Phalaropus lobatus</td><td>Phalarope a bec etroit</td></tr><tr><td>Philomachus pugnax</td><td>Combattant varie</td></tr><tr><td>Platalea leucorodia</td><td>Spatule blanche</td></tr><tr><td>Pluvialis apricaria</td><td>Pluvier dore</td></tr><tr><td>Podiceps auritus</td><td>Grebe esclavon</td></tr><tr><td>Porzana pusilla</td><td>Marouette de Baillon</td></tr><tr><td>Porzana porzana</td><td>Marouette ponctuee</td></tr><tr><td>Porzana parva</td><td>Marouette poussin</td></tr><tr><td>Recurvirostra avocetta</td><td>Avocette elegante</td></tr><tr><td>Sterna albifrons</td><td>Sterne naine</td></tr><tr><td>Sterna dougallii</td><td>Sterne de Dougall</td></tr><tr><td>Sterna hirundo</td><td>Sterne pierregarin</td></tr><tr><td>Sterna paradisaea</td><td>Sterne arctique</td></tr><tr><td>Sterna sandvicensis</td><td>Sterne caugek</td></tr><tr><td>Sylvia nisoria</td><td>Fauvette</td></tr><tr><td>Tetrao tetrix</td><td>Tetras lyre</td></tr><tr><td>Tringa glareola</td><td>Chevalier sylvain</td></tr><tr><td colspan="2">(<font>1</font>)&lt;AGF <a>2009-05-15/33</a>, art. 52, §§ 3, 018; En vigueur : 01-09-2009 ; dispositions transitoires : voir art. 57, alinéa 2&gt;</td></tr></table>
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 59, 013; En vigueur : 14-02-2009&gt;
+
+##### Art. N5
+
+Annexe V. &lt;Inséré par DCFL 2002-07-19/54, art. 43; En vigueur : 10-09-2002&gt;
+
+Cette annexe contient les critères de la phase 1 visée à l'annexe III de la directive " habitats " et concernant la sélection des sites susceptibles d'être désignés comme sites d'intérêt communautaire et comme zones speciales de conservation.
+
+A. Critères d'évaluation du site pour un type d'habitat naturel donné de l'annexe I du présent décret
+
+a) degré de représentativité du type d'habitat naturel sur le site;
+
+b) superficie du site couverte par le type d'habitat naturel par rapport à la superficie totale couverte par ce type d'habitat naturel sur le territoire national;
+
+c) degré de conservation de la structure et des fonctions du type d'habitat naturel concerné et possibilité de restauration;
+
+d) évaluation globale de la valeur du site pour la conservation du type d'habitat naturel concerné.
+
+B. Critères d'évaluation du site pour une espèce donnée de l'annexe II du présent décret
+
+a) taille et densité de la population de l'espèce présente sur le site par rapport aux populations présentes sur le territoire national;
+
+b) degré de conservation des éléments de l'habitat importants pour l'espèce concernée et possibilité de restauration;
+
+c) degré d'isolement de la population présente sur le site par rapport à l'aire de répartition naturelle de l'espèce;
+
+d) évaluation globale de la valeur du site pour la conservation de l'espèce concernée.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 21 octobre 1997.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+Le Ministre flamande l'Environnement et de l'Emploi,
+
+Th. KELCHTERMANS
