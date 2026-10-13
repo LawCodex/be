@@ -1,0 +1,821 @@
+---
+title: "[Décret relatif à la mobilité durable et à l'accessibilité] <DRW 2022-11-24/10 , art. 1, 005; En vigueur : 30-12-2022>"
+identifier: "2004027085"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/01/2004027085/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2004-04-01
+published: 2004-05-13
+entry_into_force: 2004-11-01
+last_amended: 2025-12-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/01/2004027085/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 13-05-2004 et mise à jour au 29-12-2025"
+retrieved: 2026-10-12
+---
+
+# 1 AVRIL 2004. - [Décret relatif à la mobilité durable et à l'accessibilité] &lt;DRW 2022-11-24/10 , art. 1, 005; En vigueur : 30-12-2022&gt;
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## TITRE Ier. - Généralités : objectifs et définitions.
+
+#### Art. 1
+
+[<sup>1</sup> Le présent décret a pour objet :
+
+1° l'élaboration d'une Vision à long terme de la mobilité durable et de la Stratégie régionale de Mobilité;
+
+2° l'élaboration concertée dans les communes et les bassins urbains de mobilité d'un outil de planification destiné à organiser et à améliorer l'accessibilité aux lieux de vie et d'activités, tant pour les personnes que pour les marchandises, dans un souci de développement durable;
+
+3° la mise en oeuvre coordonnée des mesures d'organisation ou d'infrastructure issues de cette planification et leur évaluation;
+
+4° les principes de la politique cyclable et l'élaboration des plans d'actions Wallonie cyclable;
+
+5° la mise en place d'un droit de tirage des pouvoirs locaux relatif aux infrastructures dans le cadre de la mobilité durable.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2022-11-24/10, art. 2, 005; En vigueur : 30-12-2022&gt;
+
+#### Art. 2
+
+Dans le présent décret, il faut entendre par :
+
+1° agglomération urbaine : l'ensemble des communes, définies par le Gouvernement, constituant un bassin cohérent en termes de déplacements urbains autour de Charleroi, La Louvière, Liège, Mons, Namur, Tournai et Verviers;
+
+2° [<sup>2</sup> Pôle "Mobilité" : le pôle institué à l'article 2/3 du décret du 6 novembre 2008 portant rationalisation de la fonction consultative]<sup>2</sup>
+
+3° [<sup>1</sup> commission consultative : la commission consultative communale d'aménagement du territoire et de mobilité telle que définie à l'article D.I.7 du Code du Développement territorial]<sup>1</sup>;
+
+4° commission locale de développement rural : la commission locale de développement rural telle que définie à l'article 4 du décret du 6 juin 1991 relatif au développement rural;
+
+5° [<sup>3</sup> Pôle "Environnement" : le pôle institué à l'article 2/4 du décret du 6 novembre 2008 portant rationalisation de la fonction consultative]<sup>3</sup>
+
+6° conseiller en mobilité : la personne disposant de compétences en matière de mobilité, selon les critères déterminés par le Gouvernement.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 91, 002; En vigueur : 01-06-2017&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 36, 003; En vigueur : 04-07-2017&gt;
+
+(3)&lt;DRW 2017-02-16/37, art. 45, 003; En vigueur : 04-07-2017&gt;
+
+## TITRE I/1. [<sup>1</sup> - Vision à long terme de la mobilité durable et Stratégie régionale de Mobilité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 1, 005; En vigueur : 30-12-2022&gt;
+
+#### Art. 2/1
+
+[<sup>1</sup> Pour la période courant jusqu'en 2027 puis tous les dix ans à partir de 2027, le Gouvernement adopte une Vision à long terme de la mobilité durable.
+
+La Vision à long terme de la mobilité durable fixe les objectifs à atteindre en termes de mobilité en vue de faire face aux enjeux économiques, sociaux, et environnementaux pour les dix prochaines années.
+
+Le Gouvernement sollicite l'avis du pôle " Mobilité " et concerte les différents acteurs institutionnels et associatifs concernés par la mobilité et qu'il désigne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 1, 005; En vigueur : 30-12-2022&gt;
+
+#### Art. 2/2
+
+[<sup>1</sup> Pour la période courant jusqu'en 2029 puis tous les dix ans à partir de 2029, le Gouvernement adopte la Stratégie régionale de Mobilité.
+
+La Stratégie régionale de Mobilité met en oeuvre les objectifs de la Vision à long terme de la mobilité durable.
+
+Le Gouvernement sollicite l'avis du pôle " Mobilité " et concerte les différents acteurs institutionnels et associatifs concernés par la mobilité et qu'il désigne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 5, 005; En vigueur : 30-12-2022&gt;
+
+## TITRE II. - De l'organisation des déplacements, de l'accessibilité et du stationnement à l'échelle de l'agglomération urbaine.
+
+### CHAPITRE Ier. - Du plan urbain de mobilité, outil de conception et de coordination.
+
+#### Art. 3
+
+§ 1er. Le plan urbain de mobilité est un document d'orientation de l'organisation et de la gestion des déplacements, du stationnement et de l'accessibilité générale relevant de l'échelle d'une agglomération urbaine.
+
+§ 2. Le plan urbain de mobilité poursuit les objectifs suivants :
+
+1° l'organisation des éléments structurants des déplacements, du stationnement et de l'accessibilité aux lieux de vie et d'activités à l'échelle de l'agglomération urbaine;
+
+2° la réalisation d'un développement territorial cohérent en matière de mobilité, notamment par la recherche d'une adéquation entre les profils d'accessibilité des sites disponibles et les profils de mobilité des activités et services en développement;
+
+3° la coordination de tous les acteurs concernés par la problématique de la mobilité.
+
+§ 3. Le plan urbain de mobilité contient au minimum :
+
+1° un diagnostic de la mobilité dans l'agglomération urbaine, comportant notamment une carte des profils d'accessibilité selon les différents modes de transport pour l'ensemble du territoire et une présentation des enjeux et des dysfonctionnements majeurs;
+
+2° les objectifs à atteindre en matière de déplacements des personnes et des marchandises et en matière d'accessibilité, pour chacun des modes de déplacement, ainsi que les priorités à assurer, notamment par une représentation cartographiée de la situation projetée à moyen et long termes;
+
+3° des mesures visant à rencontrer les objectifs à atteindre au niveau de l'agglomération urbaine qui nécessitent une coordination entre les communes, concernant notamment la sécurité routière, le développement d'un réseau de transport public structurant, la hiérarchisation et la catégorisation du réseau routier, la réalisation d'un réseau cyclable structurant et l'amélioration du cadre de vie;
+
+4° des recommandations sur l'aménagement du territoire considéré visant à limiter le volume global de déplacements et à mettre en adéquation les profils de mobilité des nouvelles activités à développer avec les profils d'accessibilité définis sur la carte.
+
+§ 4. Le cas échéant, le plan urbain de mobilité mentionne les modifications à apporter aux plans communaux de mobilité existants afin d'assurer les objectifs du plan urbain de mobilité.
+
+### CHAPITRE II. - De l'élaboration du plan urbain de mobilité.
+
+#### Art. 4
+
+§ 1er. Le Gouvernement élabore un plan urbain de mobilité pour chacune des agglomérations urbaines selon les modalités qu'il définit.
+
+§ 2. Le plan urbain de mobilité est réalisé en concertation avec les communes de l'agglomération urbaine, qui peuvent à tout moment formuler les suggestions qu'elles jugent utiles. [<sup>1</sup> [<sup>2</sup> Le pôle "Mobilité" est informé régulièrement de l'avancement des travaux et peut à tout moment formuler les suggestions qu'il juge utiles]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>3</sup> § 3. Le plan urbain de mobilité est réalisé en tenant compte des conditions d'exploitation des services de cyclopartage visées dans le décret du 8 juillet 2021 relatif au cyclopartage en flotte libre et modifiant les articles 4 et 12 du décret du 1er avril 2004 relatif à la mobilité et à l'accessibilité locales.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 92, 002; En vigueur : 01-06-2017&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 36, 003; En vigueur : 04-07-2017&gt;
+
+(3)&lt;DRW 2021-07-08/19, art. 32, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 5
+
+Le Gouvernement adopte provisoirement le projet de plan urbain de mobilité et détermine, conformément à l'article 27, si le projet de plan est soumis à une évaluation de ses incidences environnementales.
+
+#### Art. 6
+
+§ 1er. Le Gouvernement soumet le projet de plan urbain de mobilité ainsi que, le cas échéant, le rapport sur les incidences environnementales à une enquête publique.
+
+L'enquête publique est annoncée, dans chacune des communes de l'agglomération urbaine, tant par voie d'affiches que par un avis inséré dans les pages locales de trois quotidiens d'expression française ou allemande selon le cas. Lorsqu'il existe un bulletin communal d'information ou un journal publicitaire distribué gratuitement sur le territoire communal, l'avis y est inséré. L'enquête publique est également annoncée par un communiqué diffusé à deux reprises par une ou des radios locales et par au moins une télévision locale.
+
+Dès l'annonce de l'enquête, le projet de plan urbain de mobilité, accompagné, le cas échéant, du rapport sur les incidences environnementales, est déposé dans la commune de l'agglomération urbaine, pendant quarante-cinq jours, aux fins de consultation. Les documents sont accessibles les jours ouvrables et, au moins, un jour jusqu'à vingt heures ou le samedi matin.
+
+Au minimum trois séances d'information, dont une au moins après dix-neuf heures, sont organisées en différents lieux répartis sur l'agglomération urbaine, dont une dans la ville centre.
+
+Le début et la fin de l'enquête publique et les lieux, jours et heures des séances d'information sont détaillés dans l'annonce. L'enquête publique est suspendue entre le 16 juillet et le 15 août.
+
+§ 2. Le Gouvernement soumet le projet de plan urbain de mobilité ainsi que, le cas échéant, le rapport sur les incidences environnementales à l'avis de chacune des communes de l'agglomération urbaine, [<sup>1</sup> ainsi qu'à l'avis [<sup>2</sup> du pôle "Mobilité"]<sup>2</sup>]<sup>1</sup>. Lorsque le plan est soumis à une évaluation de ses incidences environnementales, le projet de plan urbain de mobilité est également soumis au [<sup>3</sup> pôle "Environnement"]<sup>3</sup>.
+
+Les communes remettent leur avis dans les quarante-cinq jours qui suivent la clôture de l'enquête publique, [<sup>1</sup> [<sup>2</sup> le pôle "Mobilité"]<sup>2</sup> et]<sup>1</sup>, le cas échéant, le [<sup>3</sup> pôle "Environnement"]<sup>3</sup> dans les quarante-cinq jours de leur saisine; à défaut, il est passé outre à leur avis.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 93, 002; En vigueur : 01-06-2017&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 36, 003; En vigueur : 04-07-2017&gt;
+
+(3)&lt;DRW 2017-02-16/37, art. 45, 003; En vigueur : 04-07-2017&gt;
+
+#### Art. 7
+
+Le Gouvernement adopte le plan urbain de mobilité, pour autant que la majorité des communes de l'agglomération urbaine représentant au moins les deux tiers de la population ait émis un avis favorable, accompagné, le cas échéant, du rapport sur les incidences environnementales. Lorsque le Gouvernement s'écarte de l'avis d'une des communes de l'agglomération urbaine ou [<sup>1</sup> de l'avis [<sup>2</sup> du pôle "Mobilité"]<sup>2</sup>]<sup>1</sup>, la décision est motivée.
+
+Le plan est mis à la disposition du public selon les modalités arrêtées par le Gouvernement.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 94, 002; En vigueur : 01-06-2017&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 36, 003; En vigueur : 04-07-2017&gt;
+
+### CHAPITRE III. - Des effets, de la mise en oeuvre et du suivi du plan urbain de mobilité.
+
+#### Art. 8
+
+Le plan urbain de mobilité a valeur indicative.
+
+#### Art. 9
+
+Le Gouvernement rédige un rapport annuel destiné à apprécier l'efficacité des politiques menées en comparant leurs résultats aux objectifs assignés et aux moyens budgétaires disponibles et à évaluer les adaptations à apporter, le cas échéant, au plan urbain de mobilité et aux plans communaux de mobilité à l'intérieur de l'agglomération urbaine.
+
+Ce rapport est adopté par le Gouvernement et ensuite déposé sur le bureau du Conseil régional wallon. Il est mis à la disposition du public selon les modalités visées à l'article 7.
+
+#### Art. 10
+
+Lorsque le plan a fait l'objet d'un rapport sur ses incidences environnementales, le Gouvernement intègre, dans le rapport visé à l'article 9, le suivi des incidences notables sur l'environnement de la mise en oeuvre du plan urbain de mobilité et les éventuelles mesures correctrices à engager.
+
+#### Art. 11
+
+§ 1er. Sur la base du rapport annuel, le Gouvernement peut modifier le plan urbain de mobilité.
+
+A cette fin, le Gouvernement soumet le projet de plan à l'avis de chacune des communes du bassin de mobilité [<sup>1</sup> et [<sup>2</sup> du pôle "Mobilité"]<sup>2</sup>]<sup>1</sup>. [<sup>2</sup> Les communes et le pôle "Mobilité"]<sup>2</sup> remettent leur avis dans les quarante-cinq jours de la demande; à défaut, il est passé outre à leur avis.
+
+Le Gouvernement adopte le plan révisé et le met à la disposition du public selon les modalités qu'il arrête.
+
+§ 2. Par dérogation au paragraphe 1er, les dispositions réglant l'élaboration du plan urbain de mobilité sont applicables à la révision d'un plan urbain de mobilité lorsque :
+
+1° la révision implique la modification des objectifs définis en application de l'article 3, § 3, 2°;
+
+2° la révision implique que l'une des hypothèses visées à l'article 27 est rencontrée.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 95, 002; En vigueur : 01-06-2017&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 36, 003; En vigueur : 04-07-2017&gt;
+
+## TITRE III. - De l'organisation des déplacements, de l'accessibilité et du stationnement à l'échelle d'une commune.
+
+### CHAPITRE Ier. - Du plan communal de mobilité, outil de planification : définition et contenu.
+
+#### Art. 12
+
+§ 1er. Le plan communal de mobilité est un document d'orientation de l'organisation et de la gestion des déplacements, du stationnement et de l'accessibilité générale relevant de l'échelle d'une commune.
+
+§ 2. Dans la continuité des objectifs du plan urbain de mobilité, le cas échéant, le plan communal de mobilité poursuit les objectifs suivants :
+
+1° l'organisation des éléments structurants des déplacements, du stationnement et de l'accessibilité aux lieux de vie et d'activités à l'échelle de la commune;
+
+2° la réalisation d'un développement territorial cohérent en matière de mobilité, notamment par la recherche d'une adéquation entre les profils d'accessibilité des sites disponibles et les profils de mobilité des activités et services en développement.
+
+§ 3. Le plan communal de mobilité contient au minimum :
+
+1° un diagnostic de la mobilité sur le territoire communal, mettant notamment en évidence les enjeux et les dysfonctionnements majeurs;
+
+2° les objectifs à atteindre en matière de déplacements des personnes et des marchandises et en matière d'accessibilité pour chacun des modes de déplacement, ainsi que les priorités à assurer;
+
+3° des mesures et recommandations, comprenant notamment :
+
+\- des mesures visant à hiérarchiser et à catégoriser le réseau routier, à apposer une signalisation directionnelle appropriée et à rechercher une complémentarité entre les modes de déplacement, ceci tant pour le déplacement des personnes que pour le déplacement des marchandises;
+
+\- des mesures destinées à développer les modes de déplacement les moins polluants;
+
+\- des mesures destinées à réduire le nombre et la gravité des accidents de la route;
+
+\- des mesures visant à faciliter les déplacements des personnes à mobilité réduite;
+
+\- des mesures visant à améliorer la qualité du cadre de vie, notamment par une amélioration de la convivialité des espaces publics et par une diminution des nuisances liées à la mobilité;
+
+\- des mesures destinées à assurer la planification optimale et coordonnée des investissements;
+
+\- des recommandations sur l'aménagement du territoire considéré visant à limiter le volume global de déplacements.
+
+[<sup>1</sup> § 4. Le plan communal de mobilité est réalisé en tenant compte des conditions d'exploitation des services de cyclopartage visées dans le décret du 8 juillet 2021 relatif au cyclopartage en flotte libre et modifiant les articles 4 et 12 du décret du 1er avril 2004 relatif à la mobilité et à l'accessibilité locales. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2021-07-08/19, art. 33, 004; En vigueur : 01-01-2023&gt;
+
+### CHAPITRE II. - De la commission de suivi, des agréments et des subventions.
+
+#### Art. 13
+
+Pour chaque plan communal de mobilité, il est créé une commission, ci-après dénommée " commission de suivi ", chargée d'accompagner les communes dans l'élaboration des plans communaux de mobilité et de rendre un avis sur les projets de plans.
+
+La commission est composée de :
+
+\- un représentant de l'administration ayant en charge les autoroutes et routes;
+
+\- un représentant de l'administration ayant en charge les transports;
+
+\- un représentant de l'administration ayant en charge les pouvoirs locaux;
+
+\- un représentant de l'administration ayant en charge l'aménagement du territoire;
+
+\- un représentant de la ou des sociétés de transport en commun couvrant la commune considérée.
+
+Le secrétariat de la commission est assuré par l'administration ayant en charge les transports.
+
+La commission peut consulter toute personne ou instance qu'elle estime utile.
+
+#### Art. 14
+
+Le Gouvernement agrée, selon les critères et la procédure qu'il arrête, les personnes physiques ou morales, privées ou publiques, qui peuvent être chargées de l'élaboration ou de la révision des plans communaux de mobilité.
+
+#### Art. 15
+
+§ 1er. Dans les limites des budgets disponibles, le Gouvernement peut accorder aux communes des subventions pour l'élaboration d'un plan communal de mobilité.
+
+§ 2. Le Gouvernement définit les conditions de l'octroi de subvention pour l'élaboration d'un plan communal de mobilité.
+
+### CHAPITRE III. - De l'élaboration du plan communal de mobilité.
+
+#### Art. 16
+
+§ 1er. Le plan communal de mobilité est élaboré par le conseil communal.
+
+A cette fin, le conseil communal désigne, parmi les personnes agréées conformément à l'article 14, un auteur de projet qu'il charge de l'élaboration du projet de plan communal de mobilité et, lorsqu'il est requis en vertu du titre 4 du présent décret, du rapport sur les incidences environnementales.
+
+Le conseil communal notifie au Gouvernement sa décision d'élaborer le plan communal de mobilité et la désignation de l'auteur de projet.
+
+§ 2. Le projet de plan communal de mobilité est élaboré après examen du schéma de structure communal lorsqu'il existe ainsi que des plans de déplacements scolaires existants des écoles situées sur le territoire de la commune.
+
+§ 3. La commission de suivi est informée des études préalables et est associée à l'élaboration du plan communal de mobilité. Elle peut à tout moment demander les informations ou formuler les suggestions qu'elle juge utiles, tant à la commune qu'à l'auteur de projet.
+
+Le conseil communal et la commission consultative, ou, à défaut, la commission locale de développement rural, sont informés des études préalables et peuvent à tout moment formuler les suggestions qu'ils jugent utiles.
+
+§ 4. Une synthèse du diagnostic de la mobilité ainsi que, le cas échéant, des objectifs à atteindre est publiée soit dans le bulletin communal, s'il existe, soit dans un feuillet " toutes-boîtes ", soit encore dans un journal distribué gratuitement dans toutes les boîtes aux lettres de la commune.
+
+#### Art. 17
+
+Le conseil communal adopte le projet de plan communal de mobilité et détermine, conformément à l'article 27, si le projet de plan est soumis à une évaluation de ses incidences environnementales.
+
+#### Art. 18
+
+§ 1er. Le conseil communal soumet le projet de plan communal de mobilité, accompagné d'une note de synthèse non technique et, le cas échéant, du rapport sur les incidences environnementales, à une enquête publique.
+
+L'enquête publique est annoncée tant par voie d'affiches que par un avis inséré dans les pages locales de trois quotidiens d'expression française ou allemande selon le cas. Lorsqu'il existe un bulletin communal d'information ou un journal publicitaire distribué gratuitement sur le territoire communal, l'avis d'enquête publique y est inséré. L'enquête publique est également annoncée par un communiqué diffusé à deux reprises par une ou des radios locales ou par au moins une télévision locale.
+
+Dès l'annonce de l'enquête publique, le projet de plan communal de mobilité, accompagné, le cas échéant, du rapport sur les incidences environnementales, est déposé à l'administration communale, pendant quarante-cinq jours, aux fins de consultation. Les documents sont accessibles les jours ouvrables et, au moins, un jour jusqu'à vingt heures ou le samedi matin.
+
+Une ou plusieurs séances d'information, dont une au moins après dix-neuf heures, sont organisées, auxquelles le ou un des conseillers en mobilité de la commune est invité.
+
+Le début et la fin de l'enquête publique et les lieux, jours et heures des séances d'information sont détaillés dans l'annonce. L'enquête publique est suspendue entre le 16 juillet et le 15 août.
+
+§ 2. Le collège des bourgmestre et échevins soumet le projet de plan communal de mobilité, les réclamations et observations de l'enquête publique, ainsi que, le cas échéant, le rapport sur les incidences environnementales à la commission consultative, ou, à défaut, à la commission locale de développement rural, pour avis. L'avis est rendu dans les quarante-cinq jours à dater de la demande. A défaut, la procédure est poursuivie.
+
+Le collège des bourgmestre et échevins peut également soumettre le projet de plan communal de mobilité à l'avis des personnes et instances qu'il juge utile de consulter. Celles-ci rendent leur avis dans les quarante-cinq jours à dater de la demande. A défaut, il est passé outre à leur avis.
+
+#### Art. 19
+
+Le collège soumet le projet de plan communal de mobilité, accompagné, le cas échéant, du rapport sur les incidences environnementales, les réclamations et observations de l'enquête publique et de l'avis de la commission consultative ou de l'avis de la commission locale de développement rural, à la commission de suivi.
+
+Dans les soixante jours de la réception du plan, la commission de suivi transmet au conseil communal un avis, exprimant le cas échéant les avis spécifiques de ses membres, sur :
+
+1° la conformité du plan communal de mobilité aux schémas, plans et programmes régionaux, ainsi qu'au plan urbain de mobilité, si la commune relève d'un bassin urbain de mobilité et que ce plan a été adopté;
+
+2° l'opportunité des mesures et recommandations du plan communal de mobilité qui portent sur des infrastructures régionales ou sur des services des sociétés de transport en commun;
+
+3° l'adéquation du plan communal de mobilité au regard du contenu défini à l'article 12 du présent décret.
+
+Le délai de soixante jours est suspendu entre le 16 juillet et le 15 août. A défaut d'un avis, la procédure est poursuivie.
+
+#### Art. 20
+
+Sur avis de la commission de suivi, ou en l'absence d'avis transmis dans le délai prescrit à l'article 19, le conseil communal adopte le plan communal de mobilité accompagné, le cas échéant, du rapport sur les incidences environnementales.
+
+Le conseil communal motive les éléments du plan communal de mobilité qui seraient contraires aux avis de la commission de suivi, de la commission consultative, ou, à défaut, de la commission locale de développement rural, ou de l'enquête publique.
+
+Le public est informé de l'adoption du plan suivant les modes prévus à l'article 112 de la loi communale.
+
+#### Art. 21
+
+§ 1er. Le conseil communal adresse, pour information, une copie du plan communal de mobilité [<sup>1</sup> [<sup>2</sup> au pôle "Mobilité"]<sup>2</sup>]<sup>1</sup> et à la commission de suivi.
+
+§ 2. Le conseil communal adresse une expédition du plan communal de mobilité avec le dossier au Gouvernement.
+
+Le Gouvernement peut annuler la décision du conseil communal par arrêté motivé envoyé dans les soixante jours à dater de la réception du dossier complet.
+
+Par décision motivée, le Gouvernement peut proroger le délai de trente jours.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 96, 002; En vigueur : 01-06-2017&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 36, 003; En vigueur : 04-07-2017&gt;
+
+### CHAPITRE IV. - Des effets, de la mise en oeuvre et du suivi des plans communaux.
+
+#### Art. 22
+
+Le plan communal de mobilité a valeur indicative à l'égard de la commune.
+
+#### Art. 23
+
+§ 1er. Le Gouvernement peut octroyer à une commune ayant adopté un plan communal de mobilité des moyens financiers en vue de réaliser :
+
+\- des études complémentaires;
+
+\- des projets issus du plan communal de mobilité.
+
+Le Gouvernement détermine les catégories d'études et de projets susceptibles d'être financés, et les modalités de financement.
+
+§ 2. Le Gouvernement peut, selon les modalités qu'il fixe, octroyer une subvention aux communes qui réunissent les données nécessaires à la construction d'indicateurs de mobilité, dont il détermine la liste.
+
+§ 3. Aux conditions qu'il détermine, le Gouvernement peut octroyer une subvention aux communes pour l'engagement ou le maintien de l'engagement d'un conseiller en mobilité.
+
+#### Art. 24
+
+§ 1er. Le collège des bourgmestre et échevins transmet annuellement au conseil communal, à la commission de suivi et à la commission consultative, ou, à défaut, à la commission locale de développement rural un rapport d'évaluation destiné à apprécier l'avancement du plan communal de mobilité et les modifications éventuelles à apporter au plan communal de mobilité.
+
+La commission consultative, ou, à défaut, la commission locale de développement rural, et la commission de suivi peuvent formuler au conseil communal toute suggestion qu'elles jugent utile à la lecture du rapport.
+
+§ 2. Le rapport d'évaluation analyse la situation de chaque mode de déplacement, du stationnement et de la sécurité routière au moins une fois sur l'espace de trois ans.
+
+Le public en est informé suivant les modes prévus à l'article 112 de la loi communale.
+
+#### Art. 25
+
+Lorsque le plan a fait l'objet d'un rapport sur ses incidences environnementales, le rapport d'évaluation intègre le suivi des incidences notables sur l'environnement de la mise en oeuvre du plan communal de mobilité et les éventuelles mesures correctrices à engager.
+
+#### Art. 26
+
+§ 1er. Le conseil communal peut décider la révision du plan communal de mobilité, notamment lorsqu'un plan urbain de mobilité le prévoit, lorsque le rapport d'évaluation le préconise ou sur avis de la commission de suivi.
+
+A cette fin, le conseil communal prend l'avis de la commission consultative, ou, à défaut, de la commission locale de développement rural et de la commission de suivi sur le projet de plan révisé. Cet avis est remis dans les quarante-cinq jours de la demande; à défaut, la procédure est poursuivie.
+
+Le conseil communal adopte le plan révisé et en adresse une copie à la commission de suivi et au Gouvernement conformément à l'article 21. Le public est informé suivant les modes prévus à l'article 112 de la loi communale.
+
+§ 2. Par dérogation au paragraphe 1er, les dispositions réglant l'élaboration du plan communal de mobilité sont applicables à la révision d'un plan communal de mobilité lorsque :
+
+1° la révision est globale ou implique la modification des objectifs définis en application de l'article 12, § 3, 2°;
+
+2° la révision implique que l'une des hypothèses visées à l'article 27 est rencontrée.
+
+## TITRE IV. - De la procédure d'évaluation des incidences sur l'environnement des plans urbains et plans communaux de mobilité.
+
+#### Art. 27
+
+Conformément à l'article 5 ou à l'article 17 du présent décret, le Gouvernement, dans le cas d'un plan urbain de mobilité, ou le conseil communal, dans le cas d'un plan communal de mobilité, détermine si le projet de plan :
+
+1° est susceptible de définir le cadre dans lequel pourra être autorisée la mise en oeuvre des projets soumis à étude d'incidences, conformément au décret du 11 septembre 1985 organisant l'évaluation des incidences sur l'environnement dans la Région wallonne;
+
+2° est susceptible d'affecter de manière significative une zone désignée conformément aux directives 79/409/C.E.E. du Conseil du 2 avril 1979, concernant la conservation des oiseaux sauvages, et 92/43/C.E.E. du Conseil du 21 mai 1992, concernant la conservation des habitats naturels, ainsi que de la faune et de la flore sauvages.
+
+#### Art. 28
+
+Lorsqu'il estime que les hypothèses définies à l'article 27 ne sont pas rencontrées, le Gouvernement sollicite à cet égard l'avis [<sup>1</sup> [<sup>2</sup> du pôle "Mobilité"]<sup>2</sup>]<sup>1</sup> et du [<sup>3</sup> pôle "Environnement"]<sup>3</sup>. Les avis portent sur l'existence d'une des hypothèses de l'article 27. Les avis sont transmis dans les trente jours de la demande au Gouvernement. A défaut, il est passé outre à leur avis. Au vu des avis émis, le Gouvernement détermine, par décision motivée, si le projet de plan ne doit pas faire l'objet d'un rapport sur les incidences environnementales.
+
+Lorsqu'il estime que les hypothèses définies à l'article 27 ne sont pas rencontrées, le conseil communal sollicite à cet égard l'avis de la commission consultative ou, à défaut, de la commission locale de développement rural. Les avis portent sur l'existence d'une des hypothèses de l'article 27. Les avis sont transmis dans les trente jours de la demande au conseil communal. A défaut, il est passé outre à leur avis. Au vu des avis émis, le conseil communal détermine, par décision motivée, si le projet de plan ne doit pas faire l'objet d'un rapport sur les incidences environnementales.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 97, 002; En vigueur : 01-06-2017&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 36, 003; En vigueur : 04-07-2017&gt;
+
+(3)&lt;DRW 2017-02-16/37, art. 45, 003; En vigueur : 04-07-2017&gt;
+
+#### Art. 29
+
+Lorsque l'une des hypothèses définies à l'article 27 est rencontrée, le Gouvernement ou le conseil communal élabore un projet de contenu du rapport sur les incidences environnementales relatif à la mise en oeuvre du plan projeté comprenant les informations énumérées en annexe du présent décret.
+
+Le Gouvernement soumet le projet de contenu du rapport sur les incidences environnementales et le projet de plan adopté provisoirement pour avis [<sup>1</sup> [<sup>2</sup> au pôle "Mobilité"]<sup>2</sup>]<sup>1</sup> ainsi qu'au [<sup>3</sup> pôle "Environnement"]<sup>3</sup>.
+
+Le conseil communal soumet le projet de contenu du rapport sur les incidences environnementales et le projet de plan adopté provisoirement pour avis à la commission consultative ou, le cas échéant, à la commission locale de développement rural. Les avis portent sur l'ampleur et la précision des informations que le rapport doit contenir. Les avis sont transmis dans les trente jours de la demande du Gouvernement ou du conseil communal. A défaut, il est passé outre à ces avis.
+
+Au regard des avis émis sur le projet de contenu du rapport sur les incidences environnementales, le Gouvernement ou le conseil communal arrête le contenu dudit rapport, compte tenu des informations qui peuvent être raisonnablement exigées, des connaissances et des méthodes d'évaluation existantes, du degré de précision du plan, et du fait que certains de ses aspects peuvent devoir être intégrés à un autre niveau planologique où il peut être préférable de réaliser l'évaluation, afin d'éviter une répétition de celle-ci.
+
+Le rapport sur les incidences environnementales peut être fondé notamment sur les renseignements utiles obtenus lors d'évaluations environnementales effectuées précédemment sur des plans ou des programmes.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 98, 002; En vigueur : 01-06-2017&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 36, 003; En vigueur : 04-07-2017&gt;
+
+(3)&lt;DRW 2017-02-16/37, art. 45, 003; En vigueur : 04-07-2017&gt;
+
+#### Art. 30
+
+Lorsque le projet de plan fait l'objet d'un rapport sur les incidences environnementales et qu'il est susceptible d'avoir des incidences notables sur l'environnement d'une autre Région, d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à la Convention d'Espoo du 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, le projet de plan accompagné du rapport sur les incidences environnementales et des informations éventuelles sur les incidences transfrontières est transmis aux autorités compétentes de cette autre Région, de cet autre Etat membre de l'Union européenne ou de cet autre Etat partie à la Convention d'Espoo.
+
+Le Gouvernement détermine :
+
+1° les instances chargées de la transmission des documents aux autorités visées à l'alinéa 1er;
+
+2° les modalités selon lesquelles les autorités compétentes de la Région ou de l'Etat susceptibles d'être affectés peuvent participer à la procédure d'évaluation des incidences sur l'environnement;
+
+3° les modalites suivant lesquelles le plan, la déclaration environnementale et les avis émis visés aux articles 6, § 2, ou 18, § 2, du présent décret sont communiqués aux autorités visées à l'alinéa 1er.
+
+#### Art. 31
+
+Lorsque le projet de plan a fait l'objet d'un rapport sur ses incidences environnementales, le Gouvernement ou le conseil communal élabore, concomitamment à l'adoption du plan, une déclaration environnementale résumant la manière dont les considérations environnementales ont été intégrées dans le plan et dont le rapport sur les incidences environnementales, les avis, réclamations et observations émis sur le projet de plan ont été pris en considération, ainsi que les raisons des choix du plan tel qu'adopté, compte tenu des autres solutions raisonnables envisagées.
+
+La déclaration environnementale est portée à la connaissance du public, en même temps que le plan adopté, conformément aux modalités de publicité des articles 7 et 20.
+
+Lorsqu'elle concerne un plan urbain de mobilité, elle est notifiée pour information, accompagnée d'une copie du plan, au [<sup>1</sup> pôle "Environnement"]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 45, 003; En vigueur : 04-07-2017&gt;
+
+## TITRE IV/1. [<sup>1</sup> - La politique cyclable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 6, 005; En vigueur : 30-12-2022&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> - Généralités.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 7, 005; En vigueur : 30-12-2022&gt;
+
+#### Art. 31/1
+
+[<sup>1</sup> La politique cyclable vise à augmenter la part modale du vélo en offrant des alternatives attractives à l'usage de la voiture individuelle et permettant de réduire les émissions de gaz à effets de serre en Région wallonne. La politique cyclable participe plus globalement à la mobilité durable, dans ses aspects sociaux, environnementaux et économiques.
+
+La politique cyclable s'applique sur l'ensemble du territoire en tenant compte de toutes ses dynamiques et ses spécificités, à travers une bonne gouvernance des actions, autour d'un maillage cohérent d'infrastructures qualitatif et sécurisé ainsi que de services et d'une communication qui soutient le transfert modal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 8, 005; En vigueur : 30-12-2022&gt;
+
+### CHAPITRE II. [<sup>1</sup> - Le Plan d'actions " Wallonie cyclable ".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 9, 005; En vigueur : 30-12-2022&gt;
+
+#### Art. 31/2
+
+[<sup>1</sup> Le Gouvernement définit un Plan d'actions " Wallonie cyclable ", au début de chaque législature, dans les 18 mois suivant la formation du Gouvernement et pour une durée de cinq ans.
+
+Le Plan d'actions " Wallonie cyclable " est concerté avec les acteurs institutionnels et associatifs concernés par la politique cyclable et désignés par le Gouvernement. Il contient les actions et le projet de politique cyclable afin de mettre en oeuvre la Stratégie régionale de Mobilité et est basé sur les thématiques suivantes :
+
+1° la gouvernance;
+
+2° les infrastructures et le réseau cyclable;
+
+3° les services;
+
+4° la communication.
+
+Le plan prévoit les modalités de financement des actions de manière pluriannuelle, le cas échéant.
+
+Un bilan du plan précédent est réalisé par le Gouvernement, préalablement à chaque nouveau plan. Le plan contient un chapitre relatif au bilan du plan précédent.
+
+Le Gouvernement définit les méthodes et les outils de récolte de données permettant de mesurer les effets de la politique cyclable.
+
+Un état de la situation de mise en oeuvre du plan est présenté annuellement au Parlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 10, 005; En vigueur : 30-12-2022&gt;
+
+### CHAPITRE III. [<sup>1</sup> - Le réseau cyclable structurant wallon.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 11, 005; En vigueur : 30-12-2022&gt;
+
+#### Art. 31/3
+
+[<sup>1</sup> Le Gouvernement établit un réseau cyclable structurant wallon.
+
+Le réseau cyclable structurant wallon est un réseau cyclable fonctionnel qui se concrétise par des aménagements cyclables qualitatifs tels que définis par le Gouvernement, en ce compris des mesures de circulation visant à limiter sensiblement le trafic automobile et les vitesses de circulation.
+
+Le réseau cyclable structurant wallon emprunte les voiries ou les emprises les plus adaptées du point de vue des critères suivants :
+
+1° la cohérence de réseau;
+
+2° la rapidité;
+
+3° le caractère direct de la liaison entre deux pôles;
+
+4° la sécurité;
+
+5° le confort; 6° les pentes;
+
+7° les agréments.
+
+Des itinéraires alternatifs et des aménagements cyclables temporaires peuvent être localement mis en place dans l'attente de l'aménagement cyclable qualitatif définitif.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 12, 005; En vigueur : 30-12-2022&gt;
+
+#### Art. 31/4
+
+[<sup>1</sup> Le réseau cyclable structurant wallon est composé de cyclostrades et de liaisons fonctionnelles supra-locales.
+
+Les cyclostrades constituent l'épine dorsale du réseau cyclable structurant et relient des zones à haut potentiel de déplacements, en offrant une alternative attractive aux déplacements en voiture. Les cyclostrades sont potentiellement utilisées de manière intensive et bénéficient d'une infrastructure de grande qualité permettant de se déplacer dans les meilleures conditions de confort, de sécurité et d'efficacité sur des distances moyennes à longues et sur des aménagements cyclables reconnaissables. Le Gouvernement liste les cyclostrades et en définit l'identité visuelle.
+
+Les liaisons cyclables fonctionnelles supra-locales constituent un réseau cyclable maillé d'itinéraires reliant des polarités urbaines ou rurales, d'équipements, de commerces, de services ou d'intermodalité.
+
+Le réseau cyclable structurant wallon est défini en collaboration avec les acteurs locaux, et en particulier les communes, et les usagers cyclistes utilitaires.
+
+Le réseau cyclable structurant est complété localement par des liaisons cyclables de desserte locale offrant une desserte cyclable fine du territoire. Elles relient des polarités de niveau local à des polarités de niveau supérieur, aux liaisons cyclables fonctionnelles supra-locales ou aux cyclostrades.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 13, 005; En vigueur : 30-12-2022&gt;
+
+#### Art. 31/5
+
+[<sup>1</sup> Le Gouvernement peut déterminer des modalités de financement des aménagements cyclables qualitatifs sur le réseau cyclable structurant wallon et les liaisons de dessertes locales.
+
+Les investissements liés à la mise en oeuvre de cyclostrades sont définis et, en principe, pris en charge par le Gouvernement.
+
+Les gestionnaires d'un domaine ou d'une voirie peuvent déléguer à une personne morale de droit public le soin de mener des études, d'attribuer un marché de services ou de travaux ou d'investir sur ce domaine ou cette voirie, par voie de conventions. Le Gouvernement arrête les modalités et le contenu de ces conventions de délégation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 14, 005; En vigueur : 30-12-2022&gt;
+
+#### Art. 31/6
+
+[<sup>1</sup> Le propriétaire ou le gestionnaire de la voirie entretient le réseau cyclable structurant wallon.
+
+Par dérogation à l'alinéa 1er, le Gouvernement peut arrêter des modalités de l'entretien du réseau cyclable structurant wallon.
+
+Par dérogation aux alinéas 1er et 2, la Région prend en charge l'entretien ou le financement de l'entretien des cyclostrades selon les modalités à définir par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 15, 005; En vigueur : 30-12-2022&gt;
+
+#### Art. 31/7
+
+[<sup>1</sup> Le Gouvernement tient à jour un inventaire des aménagements du réseau cyclable structurant wallon et leur état.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 16, 005; En vigueur : 30-12-2022&gt;
+
+## TITRE IV/2. [<sup>1</sup> - Le droit de tirage des pouvoirs locaux relatif aux infrastructures dans le cadre de la mobilité durable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-11-24/10, art. 17, 005; En vigueur : 30-12-2022&gt;
+
+### CHAPITRE Ier.
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/8
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE II.
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 3, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/9
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/10
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/11
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE III.
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/12
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE IV.
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/13
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/14
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/15
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/16
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/17
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/18
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/19
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/20
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/21
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/22
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE V.
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/23
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE VI.
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+#### Art. 31/24
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 72, 006; En vigueur : 01-01-2026&gt;
+
+## TITRE V. - Dispositions finales.
+
+#### Art. 32
+
+Les communes disposant d'un plan de mobilité adopté au moment de l'entrée en vigueur du présent décret peuvent bénéficier des moyens de financement prévus à l'article 23 du présent décret durant une période limitée aux deux années budgétaires qui suivent l'entrée en vigueur du présent décret.
+
+#### Art. 33
+
+Les plans communaux de mobilité existants peuvent être assimilés au plan communal de mobilité défini à l'article 12, lorsque la commission de suivi, à laquelle le conseil communal soumet le plan communal de mobilité existant, remet un avis favorable :
+
+\- quant à la conformité du plan communal de mobilité existant aux schemas, plans et programmes régionaux en matière de mobilité, ainsi qu'au plan urbain de mobilité, si la commune relève d'un bassin urbain de mobilité et que ce plan a été adopté;
+
+\- quant à la qualité du plan communal de mobilité existant au regard du contenu défini à l'article 12 du présent décret.
+
+Le Gouvernement décide si le plan communal de mobilité existant est assimilé au plan communal de mobilité défini à l'article 12 dans les soixante jours de l'avis favorable de la commission de suivi.
+
+Lorsque la commission émet un avis défavorable ou conditionnel, le conseil communal peut réviser ou compléter le plan communal de mobilité. Le Gouvernement peut accorder des subventions pour les études nécessaires à ces modifications des plans communaux de mobilité existants.
+
+#### Art. 34
+
+Au Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine sont apportées les modifications suivantes :
+
+1° à l'alinéa 1er de l'article 6, les termes " par le présent Code " sont remplacés par les termes " par le présent Code ou par décret ";
+
+2° à l'article 7, § 3, 2°, les termes " patrimoniaux et environnementaux " sont remplacés par les termes " patrimoniaux, environnementaux et de mobilité ";
+
+3° à l'alinéa 1er de l'article 48, les termes " après examen du schéma de structure s'il existe " sont remplacés par les termes " après examen du schéma de structure et du plan communal de mobilité s'ils existent ".
+
+#### Art. 35
+
+Le Gouvernement fixe l'entrée en vigueur du présent décret.
+
+(NOTE : Entrée en vigueur fixée au 01-11-2004 par ARW 2004-05-27/58, art. 17)
+
+## ANNEXE.
+
+#### Art. N
+
+Les informations que doit comporter le rapport sur les incidences environnementales comprennent :
+
+1° un résumé du contenu, une description des objectifs du plan ainsi que ses liens avec d'autres plans et programmes pertinents;
+
+2° les aspects pertinents de la situation environnementale ainsi que son évolution probable si le plan n'est pas mis en oeuvre;
+
+3° les caractéristiques environnementales des zones susceptibles d'être touchées de manière notable;
+
+4° les problèmes environnementaux liés au plan, en particulier ceux qui concernent les zones revêtant une importance particulière pour l'environnement telles que celles désignées conformément aux directives 79/409/C.E.E. du Conseil du 2 avril 1979 concernant la conservation des oiseaux sauvages et 92/43/C.E.E. du Conseil du 21 mai 1992 concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages;
+
+5° les objectifs pertinents en matière de protection de l'environnement et la manière dont ils sont pris en considération dans le cadre de l'élaboration du plan;
+
+6° les effets notables probables sur l'environnement, y compris sur la diversité biologique, la population, la santé humaine, la faune, la flore, les sols, les eaux, l'air, les facteurs climatiques, les biens matériels, le patrimoine culturel en ce compris le patrimoine architectural et archéologique, les paysages et les interactions entre ces facteurs;
+
+7° les mesures à mettre en oeuvre pour éviter, réduire et, dans la mesure du possible, compenser toute incidence négative notable de la mise en oeuvre du plan sur l'environnement;
+
+8° la présentation des alternatives possibles, de leur justification et les raisons des choix retenus;
+
+9° une description de la méthode d'évaluation retenue et des difficultés rencontrées lors de la collecte des informations requises;
+
+10° les mesures envisagées pour assurer le suivi de la mise en oeuvre du plan;
+
+11° un résumé non technique des informations visées ci-dessus.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 1er avril 2004.
+
+Le Ministre-Président,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Economie, des P.M.E, de la Recherche et des Technologies nouvelles,
+
+S. KUBLA
+
+Le Ministre des Transports, de la Mobilité et de l'Energie,
+
+J. DARAS
+
+Le Ministre du Budget, du Logement, de l'Equipement et des Travaux publics,
+
+M. DAERDEN
+
+Le Ministre de l'Aménagement du Territoire, de l'Urbanisme et de l'Environnement,
+
+M. FORET
+
+Le Ministre de l'Agriculture et de la Ruralité,
+
+J. HAPPART
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ch. MICHEL
+
+Le Ministre des Affaires sociales et de la Santé,
+
+Th. DETIENNE
+
+Le Ministre de l'Emploi et de la Formation,
+
+Ph. COURARD

@@ -1,0 +1,887 @@
+---
+title: "[Décret relatif aux commissaires du Gouvernement et aux missions de contrôle des réviseurs au sein des organismes d'intérêt public.] <DRW 2009-04-30/26 , art. 1, 003; En vigueur : 05-06-2009>"
+identifier: "2004200756"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/12/2004200756/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2004-02-12
+published: 2004-03-22
+entry_into_force: 2004-04-01
+last_amended: 2025-01-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/12/2004200756/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 22-03-2004 et mise à jour au 24-01-2025"
+retrieved: 2026-10-12
+---
+
+# 12 FEVRIER 2004. - [Décret relatif aux commissaires du Gouvernement et aux missions de contrôle des réviseurs au sein des organismes d'intérêt public.] &lt;DRW 2009-04-30/26 , art. 1, 003; En vigueur : 05-06-2009&gt;
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Généralités.
+
+### Art. 1
+
+Le présent décret règle des matières visées par l'article 39 de la Constitution.
+
+### Art. 2
+
+Pour l'application du présent décret, on entend par :
+
+1° " Commissaire du Gouvernement " : la personne désignée par le Gouvernement, quelle que soit la dénomination de sa fonction, pour exercer des missions d'information et de contrôle de la légalité et de l'intérêt général au sein d'un organisme;
+
+2° " organisme " : toute personne morale visée à l'article 3;
+
+3° " organe de gestion " : le conseil d'administration de l'organisme ou, à défaut, tout autre organe, quelle que soit sa dénomination, qui dispose de tous les pouvoirs nécessaires à la réalisation de la mission ou de l'objet social de l'organisme;
+
+[<sup>2</sup> 3° /1 le bureau exécutif : l'organe restreint de gestion qui, quelle que soit, sa dénomination inclus un ou plusieurs administrateurs et se voit déléguer une partie des pouvoirs de l'organe de gestion]<sup>2</sup>
+
+4° " charte du Commissaire du Gouvernement " : l'engagement formel conclu entre le Gouvernement ou le Ministre de tutelle et le Commissaire du Gouvernement, conformément à l'article 20.
+
+5° " Ministre de tutelle " : le Ministre du Gouvernement qui s'est vu attribuer un pouvoir de contrôle particulier sur l'organisme visé à l'article 3, §§ 1er et 2, en vertu du décret ou de l'arrêté portant création dudit organisme ou de l'arrêté portant répartition des compétences au sein du Gouvernement.
+
+6° " Gouvernement " : le Gouvernement de la Région wallonne.
+
+[<sup>1</sup> 7° " informations individuelles et [<sup>2</sup> nominatives]<sup>2</sup> " : données figurant dans le rapport de rémunération relatives à une personne concernée [<sup>2</sup> et]<sup>2</sup> dont le prénom et le nom [<sup>2</sup> sont]<sup>2</sup> transmis au Gouvernement et au Parlement wallon;]<sup>1</sup>
+
+[<sup>2</sup> 8° " mandat, fonction et charge publics d'ordre politique " : tout mandat, fonction ou charge publics d'ordre politique tels que définis à l'article L5111-1, 6°, du Code de la démocratie locale et de la décentralisation;]<sup>2</sup>
+
+[<sup>2</sup> 9° " mandat, fonction dirigeante ou profession, quelle qu'en soit la nature, exercés tant dans le secteur public que pour le compte de toute personne physique ou morale, de tout organisme ou association de fait, établis en Belgique ou à l'étranger " : mandats, fonctions dirigeantes ou professions tels que définis à l'article L5111-1, 8°, du Code de la démocratie locale et de la décentralisation; ]<sup>2</sup>
+
+[<sup>2</sup> 10° " organe de contrôle " : l'organe de contrôle institué en application de l'article L5111-1, 15° du Code de la démocratie locale et de la décentralisation;]<sup>2</sup>
+
+[<sup>2</sup> 11° " accord de coopération du 20 mars 2014 " : l'accord de coopération du 20 mars 2014 entre la Région wallonne et la Communauté française relatif à la gouvernance dans l'exécution des mandats publics au sein des organismes publics et des entités dérivées de l'autorité publique;]<sup>2</sup>
+
+[<sup>2</sup> 12° " voie électronique sécurisée " : tout mode de communication sécurisée en vue d'assurer la transmission électronique d'informations, émanant de l'organe de contrôle ou adressée à celui-ci dans le cadre de ses compétences, selon les modalités que le Gouvernement détermine dans le respect des exigences fixées à l'article 5 du décret du 27 mars 2014 relatif aux communications par voie électronique entre les usagers et les autorités publiques wallonnes;]<sup>2</sup>
+
+[<sup>2</sup> 13° " gestionnaire " : toute personne chargée de la gestion journalière, ou agissant au sein de l'organe chargé de la gestion journalière de l'organisme;]<sup>2</sup>
+
+[<sup>2</sup> 14° " mandat dérivé " : le mandat ou la fonction exercé par l'administrateur public, le gestionnaire ou le membre du personnel d'un organisme et qui lui a été confié par ou sur proposition de l'organisme dont il est issu;]<sup>2</sup>
+
+[<sup>2</sup> 15° " mandat public " : un mandat public tel que défini par l'article 1er, § 2, 1°, de l'accord de coopération du 20 mars 2014 entre la Région wallonne et la Communauté française relatif à la gouvernance dans l'exécution des mandats publics au sein des organismes publics et des entités dérivées de l'autorité publique. ]<sup>2</sup>
+
+[<sup>2</sup> Concernant l'alinéa 1er, 3° /1, le bureau exécutif est composé du président, du vice-président et est composé au maximum de vingt-cinq pour cent des membres du conseil d'administration en ce compris le président et le vice-président. Le gestionnaire participe au bureau exécutif en qualité d'invité.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2016-11-24/16, art. 8, 007; En vigueur : 22-12-2016&gt;
+
+(2)&lt;DRW 2018-03-29/46, art. 16, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 3
+
+§ 1er. [<sup>1</sup> § 1er. Le présent décret est applicable aux organismes suivants :
+
+1° l'Agence wallonne à l'exportation (AWEX);
+
+2° [<sup>6</sup> la [<sup>7</sup> " Wallonie Entreprendre (WE)"]<sup>7</sup>;]<sup>6</sup>
+
+3° [<sup>8</sup> [<sup>9</sup> Filière Bois Wallonie]<sup>9</sup>]<sup>8</sup>;
+
+4° l'Agence du Numérique (AdN);
+
+5° la Société anonyme Wallimage SA;
+
+6° la Société anonyme Wallimage Coproductions;
+
+7° le Port autonome du Centre et de l'Ouest (PACO);
+
+8° le Port autonome de Charleroi (PAC);
+
+9° le Port autonome de Namur (PAN);
+
+10° le Port autonome de Liège (PAL);
+
+11° la Société de développement de Liège Guillemins (SDLG);
+
+12° la Société wallonne de financement complémentaire des infrastructures (SOFICO);
+
+13° la Société publique d'aide à la qualité de l'environnement (Spaque);
+
+14° la Société de rénovation et d'assainissement des sites industriels (Sorasi);
+
+15° la Société d'assainissement et de rénovation des sites industriels du Brabant wallon (Sarsi);
+
+16° la Société régionale wallonne du Transport public de personnes (SRWT);
+
+17° la Société de Transport en commun du Brabant Wallon;
+
+18° la Société de Transport en commun de Charleroi;
+
+19° la Société de Transport en commun du Hainaut;
+
+20° la Société de Transport en commun de Liège-Verviers;
+
+21° la Société de Transport en commun de Namur-Luxembourg;
+
+22° la Société wallonne des aéroports (SOWAER);
+
+23° la Société wallonne des Eaux (SWDE);
+
+24° la Société Publique de Gestion de l'Eau (SPGE);
+
+[<sup>4</sup> 24° l'Agence wallonne pour la Promotion d'une Agriculture de qualité (APAQ-W);]<sup>4</sup>
+
+25° le Fonds du logement des familles nombreuses de Wallonie (FLW);
+
+26° la Société wallonne du logement (SWL);
+
+27° la Société wallonne du crédit social (SWCS);
+
+28° l'Office wallon de la Formation professionnelle et de l'Emploi (Forem);
+
+29° la Société anonyme IMMOWAL;
+
+30° la Société anonyme de droit public "Le Circuit de Spa-Francorchamps";
+
+31° [<sup>5</sup> ...]<sup>5</sup>;
+
+32° [<sup>7</sup> ...]<sup>7</sup>
+
+33° [<sup>7</sup> ...]<sup>7</sup>
+
+34° la SOWAFINAL;
+
+35° la SOFIPOLE;
+
+36° la GELIGAR;
+
+37° la FIWAPAC;
+
+38° la SOWECSOM;
+
+39° la SOFRIWAL;
+
+40° la SOWASPACE;
+
+41° la Caisse d'investissement de Wallonie (CIW);]<sup>1</sup>
+
+[<sup>2</sup> 42° [<sup>7</sup> ...]<sup>7</sup>]<sup>2</sup>
+
+[<sup>2</sup> 43° la Société "Brussels South Charleroi Airport" (BSCA);]<sup>2</sup>
+
+[<sup>2</sup> 44° la Société aéroportuaire de Bierset (Liège Airport) ";
+
+[<sup>10</sup> 45° VISITWallonia;]<sup>10</sup>
+
+[<sup>2</sup> les commissaires du Gouvernement désignés dans l'organisme visé au 33° du paragraphe 1er sont chargés des missions visées aux articles 10, 12, 13, 15, 16, 17, 18 et 19 du présent décret, auprès des organismes suivants :
+
+\- Wapinvest;
+
+\- Sambrinvest;
+
+\- Invest Mons Borinage centre;
+
+\- Nivelinvest;
+
+\- Namurinvest;
+
+\- Luxembourg développement;
+
+\- Meusinvest;
+
+\- Ostbelgen-invest.]<sup>2</sup>
+
+§ 2. Après son entrée en vigueur, le présent décret s'applique à toute personne morale dont le décret ou l'arrêté qui en porte création institue un Commissaire du Gouvernement.
+
+[<sup>3</sup> § 4. Les commissaires du Gouvernement désignés dans les organismes visés aux 43° et 44° du paragraphe 1er sont chargés des missions visées aux articles 10, 12, 16, 17, 18 et 19, du présent décret.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2016-11-24/16, art. 9, 007; En vigueur : 22-12-2016&gt;
+
+(2)&lt;DRW 2018-03-29/46, art. 17, 008; En vigueur : 24-05-2018&gt;
+
+(3)&lt;DRW 2018-07-17/04, art. 170, 009; En vigueur : 18-10-2018&gt;
+
+(4)&lt;DRW 2018-07-17/04, art. 372, 009; En vigueur : 18-10-2018&gt;
+
+(5)&lt;DRW 2022-10-06/19, art. 2, 010; En vigueur : 17-12-2022&gt;
+
+(6)&lt;DRW 2022-10-19/01, art. 30, 011; En vigueur : 26-10-2022&gt;
+
+(7)&lt;ARW 2023-04-27/11, art. 8, 012; En vigueur : 09-01-2023&gt;
+
+(8)&lt;DRW 2023-12-13/13, art. 238, 013; En vigueur : 01-01-2024&gt;
+
+(9)&lt;DRW 2024-12-18/05, art. 13, 014; En vigueur : 01-01-2025&gt;
+
+(10)&lt;DRW 2024-02-08/18, art. 40,§3, 015; En vigueur : 01-07-2025&gt;
+
+## CHAPITRE II. - Désignation et révocation du Commissaire du Gouvernement.
+
+### Art. 4
+
+§ 1er. Le Commissaire du Gouvernement est nommé par le Gouvernement.
+
+Préalablement à la nomination, le Gouvernement vérifie :
+
+1° que le candidat offre une disponibilité suffisante pour exercer son mandat;
+
+2° par la production d'un curriculum vitae, que le candidat dispose des compétences professionnelles, de l'expérience utile, notamment dans les domaines d'activité de l'organisme;
+
+3° par la production d'un certificat de bonnes conduite, vie et moeurs, que le candidat n'a encouru aucune condamnation pénale incompatible avec l'exercice de la fonction de Commissaire du Gouvernement ou, à défaut, d'une déclaration sur l'honneur qu'il n'a pas encouru une telle condamnation;
+
+4° que le candidat atteste par une déclaration sur l'honneur, par écrit, qu'il ne se trouve pas dans les hypothèses visées par l'article 5;
+
+5° qu'il n'existe pas dans le chef du candidat de conflit d'intérêt fonctionnel ou personnel, direct ou indirect, en raison de l'exercice d'une activité ou de la détention d'intérêts dans une personne morale exerçant une activité concurrente à celle de l'organisme.
+
+§ 2. En cas de démission, de décès ou de révocation du Commissaire du Gouvernement, ou de l'exercice d'une fonction incompatible par celui-ci, ce dernier est remplacé, dans les meilleurs délais, selon la procédure prévue au § 1er.
+
+### Art. 5
+
+Le Gouvernement ne peut désigner, en qualité de Commissaire du Gouvernement, une personne membre ou sympathisante de tout organisme, parti, association ou personne morale quelle qu'elle soit, qui ne respecte pas les principes démocratiques énoncés notamment par la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, par les protocoles additionnels à cette Convention en vigueur en Belgique, par la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie, et par la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation du génocide commis par le régime national-socialiste pendant la Seconde Guerre mondiale ou toute autre forme de génocide.
+
+Si le Gouvernement rejette la candidature d'une personne sur la base de l'alinéa précédent, il motive spécialement sa décision.
+
+### Art. 6
+
+§ 1er. Sans préjudice d'autres limitations prévues par ou en vertu d'une loi, d'un décret, d'un arrêté ou des statuts de l'organisme, les missions du Commissaire du Gouvernement sont incompatibles avec le mandat ou les fonctions de :
+
+1° membre du Gouvernement de l'Etat fédéral, d'une Région ou d'une Communauté;
+
+2° membre du Parlement européen, des Chambres législatives fédérales ou d'un parlement de Région ou de Communauté;
+
+3° gouverneur ou député provincial;
+
+4° membre du personnel de l'organisme ou de son organe de gestion, ou d'une de ses filiales ou de l'organe de gestion d'une des filiales;
+
+5° conseiller externe ou consultant régulier de l'organisme;
+
+6° bourgmestre, échevin, président de centre public d'aide sociale et président d'intercommunale.
+
+[<sup>1</sup> 7° titulaire d'une fonction dirigeante d'un organisme sur lequel l'organisme public relevant des compétences du commissaire exerce un contrôle.]<sup>1</sup>
+
+§ 2. Si au cours de son mandat, le Commissaire du Gouvernement accepte d'exercer une fonction ou un mandat visé au § 1er, son mandat prend fin de plein droit. Il est remplacé par un Commissaire du Gouvernement nommé conformément à l'article 4.
+
+----------
+
+(1)&lt;DRW 2011-04-07/05, art. 9, 004; En vigueur : 15-05-2011&gt;
+
+### Art. 7
+
+Sans préjudice de la possibilité de mettre fin à tout moment aux missions du Commissaire, le Gouvernement peut, après audition du Commissaire du Gouvernement, révoquer celui-ci, dans les hypothèses suivantes :
+
+1° s'il a commis sciemment un acte incompatible avec la mission ou l'objet social de l'organisme;
+
+2° s'il a commis une faute ou une négligence grave dans l'exercice de ses missions;
+
+3° s'il est, au cours d'une même année, absent, sans justification, à plus de trois réunions régulièrement convoquées et auxquelles sa présence est requise, en vertu du décret ou de l'arrêté portant création de l'organisme;
+
+4° s'il ne remplit plus les conditions prévues à l'article 4, § 1er.
+
+Au cours de son audition, le Commissaire du Gouvernement peut être assisté par la personne de son choix.
+
+## CHAPITRE III. - Missions du Commissaire du Gouvernement.
+
+### Art. 8
+
+§ 1er. Le Commissaire du Gouvernement est chargé du contrôle, au regard de la légalité et de l'intérêt général, de l'organisme au sein duquel il exerce ses missions.
+
+§ 2. Dans un délai de quatre jours francs, le Commissaire du Gouvernement exerce un recours contre toute décision qu'il juge contraire aux lois, aux décrets, aux arrêtés, au contrat de gestion et à l'intérêt général.
+
+Ce recours est suspensif.
+
+Le délai de quatre jours prend cours à partir du jour de la réunion à laquelle la décision a été prise, pour autant que le Commissaire y ait été régulièrement convoqué ou, dans le cas contraire, à partir du jour où il a reçu connaissance de ladite décision.
+
+Si le Commissaire du Gouvernement exerce le recours visé à l'alinéa 1er, le Gouvernement dispose d'un délai de trente jours francs prenant cours le même jour que celui visé à l'alinéa précédent, pour annuler la décision de l'organisme. Passé ce délai, la décision de l'organisme est définitive. Le délai de trente jours peut être prorogé d'un nouveau délai de dix jours par décision du Gouvernement.
+
+La décision de prorogation ou d'annulation est notifiée à l'organisme par lettre recommandée à la poste avec accusé de réception.
+
+### Art. 8bis
+
+[<sup>1</sup> Le commissaire du Gouvernement assiste aux conseils d'administration des organismes d'intérêt public visés par la loi du 16 mars 1954 relative au contrôle de certains organismes publics au sein duquel il a été désigné, ainsi qu'aux comités de ces organismes qui disposent d'un pouvoir décisionnel par délégation du conseil d'administration.
+
+Pour les organismes publics qui ne sont pas visés au premier alinéa, le commissaire du Gouvernement assiste au conseil d'administration et aux comités de ces organismes, pour les points qui relèvent des missions déléguées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2011-04-07/05, art. 10, 004; En vigueur : 15-05-2011&gt;
+
+### Art. 9
+
+Le Commissaire du Gouvernement peut faire inscrire à l'ordre du jour des organes dans lesquels il est appelé à siéger tous les points qu'il juge utiles dans le cadre de l'accomplissement de sa mission, et notamment les points en rapport avec :
+
+1° le respect du décret ou de l'arrêté portant création de l'organisme;
+
+2° le respect des statuts de l'organisme;
+
+3° le cas échéant, le respect des obligations de l'administrateur public découlant du décret organisant le statut de l'administrateur public;
+
+4° le cas échéant, le respect des obligations découlant du décret relatif au contrat de gestion dans certains organismes publics wallons ou du contrat de gestion lui-même.
+
+### Art. 10
+
+Le Commissaire du Gouvernement fait spécialement rapport au Ministre-Président, [<sup>1</sup> aux Vice-présidents,]<sup>1</sup> au Ministre de tutelle et au Ministre du Budget à propos de toute décision ou tout acte de l'organe de gestion qui risque d'avoir une incidence significative sur la mise en oeuvre de la mission de service public de l'organisme, sur le budget de la Région wallonne ou, le cas échéant, sur les obligations découlant du contrat de gestion.
+
+Le Commissaire du Gouvernement fait, de même, spécialement rapport au Ministre ayant la fonction publique dans ses attributions à propos de toute décision ou tout acte de l'organe de gestion qui risque d'avoir une incidence significative sur le statut des agents de l'organisme.
+
+----------
+
+(1)&lt;DRW 2018-03-29/46, art. 18, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 11
+
+Le Commissaire du Gouvernement communique au Ministre-Président, [<sup>1</sup> aux Vice-Présidents, ]<sup>1</sup> au Ministre de tutelle et au Ministre du Budget :
+
+1° dans les deux jours ouvrables de sa réception, l'ordre du jour de chacune des réunions auxquelles sa présence est requise en vertu du décret ou de l'arrêté portant création de l'organisme, en attirant, le cas échéant, l'attention des Ministres sur les points essentiels et, en toute hypothèse, sur les points touchant à sa mission relatifs aux décisions stratégiques visées à l'article 12, § 1er, du décret organisant le statut de l'administrateur public;
+
+2° dans les cinq jours ouvrables qui suivent les réunions visées au 1°, un rapport circonstancié comprenant, à tout le moins, toute observation utile relative aux points essentiels et aux décisions stratégiques adoptées ou envisagées lors desdites réunions.
+
+----------
+
+(1)&lt;DRW 2018-03-29/46, art. 19, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 12
+
+Le Commissaire du Gouvernement ou un seul des Commissaires du Gouvernement lorsque plusieurs Commissaires sont nommés au sein de l'organisme communique, dans les meilleurs délais, au Ministre-Président, [<sup>1</sup> aux Vice-Présidents,]<sup>1</sup> au Ministre de tutelle et au Ministre du Budget, les informations relatives à sa mission qu'ils sollicitent, assorties le cas échéant de ses commentaires.
+
+----------
+
+(1)&lt;DRW 2018-03-29/46, art. 20, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 13
+
+Le Commissaire du Gouvernement communique au Ministre-Président, [<sup>1</sup> aux Vice-Présidents,]<sup>1</sup> au Ministre de tutelle et au Ministre du Budget un rapport trimestriel sur la situation de la trésorerie de l'organisme, ainsi qu'un rapport semestriel sur les évolutions marquantes de celle-ci.
+
+----------
+
+(1)&lt;DRW 2018-03-29/46, art. 21, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 14
+
+Le Commissaire du Gouvernement rédige à l'attention du Ministre-Président, du Ministre de tutelle et au Ministre du budget, un avis écrit et circonstancié, dans l'hypothèse où :
+
+1° les Commissaires-réviseurs ou, le cas échéant, à défaut, les Commissaires aux comptes, dont le décret ou l'arrêté portant création de l'organisme prévoit l'intervention, informent l'organe de gestion qu'ils ont constaté une situation susceptible de compromettre la continuité de l'organisme;
+
+2° il constate certains manquements commis par un administrateur public au regard des obligations qui lui incombent en vertu du décret organisant le statut de l'administrateur public ou en vertu de la charte de l'administrateur public.
+
+### Art. 15
+
+Dans l'exercice de ses missions, le Commissaire du Gouvernement dispose des pouvoirs les plus étendus. Il peut, à tout moment, prendre connaissance, sans déplacement, des livres, de la correspondance, des procès-verbaux et généralement de tous documents et de toutes les écritures de l'organisme. Il reçoit, en temps utile, tous les documents ayant trait aux questions portées à l'ordre du jour des organes dans lesquels il est appelé à siéger.
+
+Le Commissaire du Gouvernement peut requérir de tous les administrateurs, agents ou préposés, toutes les explications ou informations et procéder à toutes les vérifications qui lui paraissent nécessaires à l'exécution de ses missions.
+
+### Art. 16
+
+§ 1er. Sans préjudice des dispositions contenues aux articles 10 à 14, ni des obligations qui découlent de la loi ou du décret, le Commissaire du Gouvernement ne peut utiliser ou divulguer des informations dont il a eu connaissance dans le cadre de ses missions, si l'utilisation ou la divulgation de ces informations est de nature à porter préjudice aux intérêts de l'organisme.
+
+§ 2. Les destinataires des informations communiquées en vertu des articles 10 à 14 ne sont pas autorisés à utiliser ou divulguer ces informations, si l'utilisation ou la divulgation est de nature à porter préjudice aux intérêts de l'organisme.
+
+### Art. 17
+
+Le Commissaire du Gouvernement se tient au courant des évolutions législatives et réglementaires, générales et sectorielles, ayant trait à son statut, à ses fonctions, ainsi qu'à la mission ou à l'objet social de l'organisme considéré.
+
+A cet égard, l'organisme met sur pied ou finance, à l'intention du Commissaire du Gouvernement, des séances d'information ou des cycles de formation pour permettre au Commissaire du Gouvernement d'assurer sa formation permanente.
+
+### Art. 18
+
+Selon une procédure arrêtée par le Gouvernement, celui-ci informe le Commissaire du Gouvernement des orientations d'opportunité relatives aux statuts, aux missions et à l'objet social de l'organisme.
+
+### Art. 19
+
+Lorsque, en application de l'article 12, § 2, du décret organisant le statut de l'administrateur public, le Gouvernement fait part à l'organe de gestion de l'organisme de sa position à propos d'une décision stratégique envisagée, il en informe également le Commissaire du Gouvernement.
+
+## Chapitre III/1. [<sup>1</sup> Droits et obligations du commissaire du Gouvernement ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/46, art. 22, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 19/1
+
+[<sup>1</sup> § 1er. Le président de l'organe de gestion communique annuellement au Gouvernement le rapport d'activités de l'organisme ou, à défaut, le rapport de gestion, qui comprend un rapport de rémunération dont le modèle est fixé par le Gouvernement et comprenant les informations [<sup>2</sup> individuelles et nominatives]<sup>2</sup> prévues au paragraphe 2.
+
+Ce rapport de rémunération vise à assurer la transparence quant à l'application des règles relatives à l'encadrement des rémunérations prévues à l'article 19 et à en permettre le contrôle parlementaire.
+
+§ 2. Le rapport de rémunération visé au paragraphe 1er comprend, pour les commissaires, les informations suivantes :
+
+1° la date de la désignation et la durée du mandat;
+
+2° le montant des rémunérations brutes annuelles, indemnités, avantages et jetons de présence accordés directement ou indirectement en raison de leur qualité de commissaires;
+
+3° le nombre annuel de réunions des organes de gestion et la participation des commissaires du Gouvernement à ces réunions.
+
+§ 3. Le Gouvernement communique annuellement au Parlement wallon les informations contenues dans le rapport de rémunération visé au § 1er selon des modalités qu'il arrête.
+
+Le rapport d'activités de l'organisme ou, à défaut, le rapport de gestion, est accessible sur simple demande. La demande peut être refusée dans les cas visés à l'article 6 du décret du 30 mars 1995 relatif à la publicité de l'Administration.
+
+§ 4. Chaque organisme communique annuellement au Ministre de tutelle le rapport de rémunération précisant les montants individualisés et [<sup>2</sup> nominatifs ]<sup>2</sup> de la rémunération de chaque commissaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-11-24/16, art. 11, 007; En vigueur : 22-12-2016&gt;
+
+(2)&lt;DRW 2018-03-29/46, art. 23, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 19/2
+
+[<sup>1</sup> § 1er. Le commissaire du Gouvernement est soumis à l'obligation de déposer une déclaration annuelle de mandats, de fonctions et de rémunération à l'organe de contrôle. S'il est également soumis à cette obligation en vertu de la cinquième partie du Code de la démocratie locale et de la décentralisation, sa déclaration est transmise par le biais des formulaires établis pour les assujettis à l'obligation en vertu dudit Code.
+
+§ 2. La déclaration qui est remplie par le commissaire du Gouvernement comprend, pour l'année qui précède celle où la déclaration est remplie, les volets suivants :
+
+1°. indication des mandats de commissaire du Gouvernement, ainsi que du montant de la rémunération payée en contrepartie de l'exercice de ces mandats de commissaire du Gouvernement - volet 1;
+
+2°. indication des mandats confiés ou proposés par l'organisme dans lequel le commissaire du Gouvernement exerce son mandat - volet 2;
+
+3° indication des mandats, fonctions et charges publics d'ordre politique, ainsi que des montants des jetons et de la rémunération payés en contrepartie de l'exercice de ces mandats, fonctions et charges publics d'ordre politique et des avantages en nature qui y sont liés - volet 3;
+
+4° indication des mandats, fonctions dirigeantes ou professions, quelle qu'en soit la nature, exercés tant dans le secteur public que pour le compte de toute personne physique ou morale, de tout organisme ou association de fait, établis en Belgique ou à l'étranger- volet 4.
+
+Concernant l'alinéa 1er, 4°, la déclaration mentionne lesquels de ces mandats, fonctions dirigeantes ou professions donnent lieu à l'octroi de jetons, rémunérations ou d'avantages en nature. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/46, art. 24, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 19/3
+
+[<sup>1</sup> § 1er. Au plus tard le 1er juin de chaque année, le commissaire du Gouvernement adresse à l'organe de contrôle, par envoi recommandé, par voie électronique sécurisée ou selon les modalités que l'organe de contrôle détermine, une déclaration comprenant les volets visés à l'article 19/2.
+
+Les fiches fiscales permettant le contrôle des rémunérations visées à l'alinéa 1er par l'organe de contrôle sont jointes à la déclaration par le commissaire du Gouvernement lorsque celui-ci en dispose.
+
+Les modèles de déclaration sont établis par l'organe de contrôle.
+
+Une déclaration unique est introduite par le commissaire du Gouvernement qui exerce un mandat d'administrateur public ou une fonction de gestionnaire au sens du décret du 12 février 2004 relatif au statut de l'administrateur public et du décret du 12 février 2004 relatif au statut de l'administrateur public pour les matières réglées en vertu de l'article 138 de la Constitution.
+
+L'organe de contrôle est le responsable du traitement au sens de l'article 1er, § 4, alinéa 2, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.
+
+L'organe de contrôle conserve les déclarations et les fiches fiscales visées à l'alinéa 2 qui lui sont remises pendant une période de six ans. A l'issue de ce délai, il veille à leur destruction.
+
+§ 2. Sans préjudice des missions visées dans la cinquième partie du Code de la démocratie locale et de la décentralisation, l'organe de contrôle :
+
+1° vérifie la conformité de toutes les déclarations aux dispositions des articles 19/2 et 19/3;
+
+2° vérifie le respect des obligations en matière de plafonds et d'avantages en nature visés à l'article 19bis, alinéa 5;
+
+3° vérifie le respect du plafond de rémunération visé à l'article 19bis alinéa 8.
+
+L'organe de contrôle peut se faire communiquer par la personne soumise à son contrôle son avertissement extrait de rôle, sa déclaration fiscale ainsi que tout document comptable ou toute pièce justificative en sa possession.
+
+Il peut également procéder à son audition.
+
+S'il existe des indices d'infraction aux obligations prévues dans les articles visés à l'alinéa 1er, l'organe de contrôle peut se faire communiquer par tout tiers l'avertissement extrait de rôle de la personne soumise à son contrôle, sa déclaration fiscale ainsi que tout document comptable ou toute pièce justificative en sa possession. Il peut également procéder à l'audition de ce tiers.
+
+L'organe de contrôle établit un cadastre des mandats pour chaque commissaire du Gouvernement. Ce cadastre comprend les indications fournies par le déclarant dans les différents volets de sa déclaration tels qu'énumérés à l'article 19/2.
+
+Ce cadastre est publié annuellement au Moniteur belge ainsi que sur le site internet de la Région.
+
+La publication est réalisée au plus tard le 31 décembre de l'année qui suit l'année pendant laquelle les fonctions et les mandats ont été exercés.
+
+La liste des commissaires du Gouvernement qui n'ont pas déposé les déclarations visées à l'article 19/2 au terme de la procédure de vérification des déclarations prévue à l'article 19/4, §§ 1er et 2, est publiée au Moniteur belge ainsi que sur le site internet de la Région en même temps que la publication du cadastre.
+
+Si le commissaire constate, dans un délai de deux mois après la publication du cadastre des mandats au Moniteur belge et sur le site internet de la Région, une différence entre le cadastre publié et la déclaration qu'il a adressée à l'organe de contrôle, il transmet une correction à celui-ci par envoi recommandé ou selon les modalités que ce dernier détermine. L'organe de contrôle assure la publication de la correction au Moniteur belge et sur le site internet de la Région.
+
+Les corrections apportées à la déclaration par le commissaire du Gouvernement entre le 15 novembre et la publication du cadastre ne pourront pas être prises en compte pour la publication qui intervient au plus tard le 31 décembre.
+
+L'organe de contrôle assure la publication ultérieure de ces corrections au Moniteur belge et sur le site internet de la Région.
+
+Le personnel de l'organe de contrôle est tenu au secret professionnel conformément à l'article 458 du Code pénal. Il peut diffuser des informations relatives à l'exercice de sa mission uniquement dans le respect des règles de publicité prévues par le présent décret.
+
+§ 3. La Cour des comptes vérifie au minimum tous les trois ans les processus mis en place par l'organe de contrôle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/46, art. 25, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 19/3 DROIT FUTUR
+
+[<sup>1</sup> § 1er. Au plus tard le 1er juin de chaque année, le commissaire du Gouvernement adresse à l'organe de contrôle, par envoi recommandé, par voie électronique sécurisée ou selon les modalités que l'organe de contrôle détermine, une déclaration comprenant les volets visés à l'article 19/2.
+
+Les fiches fiscales permettant le contrôle des rémunérations visées à l'alinéa 1er par l'organe de contrôle sont jointes à la déclaration par le commissaire du Gouvernement lorsque celui-ci en dispose.
+
+Les modèles de déclaration sont établis par l'organe de contrôle.
+
+Une déclaration unique est introduite par le commissaire du Gouvernement qui exerce un mandat d'administrateur public ou une fonction de gestionnaire au sens du décret du 12 février 2004 relatif au statut de l'administrateur public et du décret du 12 février 2004 relatif au statut de l'administrateur public pour les matières réglées en vertu de l'article 138 de la Constitution.
+
+L'organe de contrôle est le responsable du traitement au sens de l'article 1er, § 4, alinéa 2, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.
+
+L'organe de contrôle conserve les déclarations et les fiches fiscales visées à l'alinéa 2 qui lui sont remises pendant une période de six ans. A l'issue de ce délai, il veille à leur destruction.
+
+§ 2. Sans préjudice des missions visées dans la cinquième partie du Code de la démocratie locale et de la décentralisation, l'organe de contrôle :
+
+1° vérifie la conformité de toutes les déclarations aux dispositions des articles 19/2 et 19/3;
+
+2° vérifie le respect des obligations en matière de plafonds et d'avantages en nature visés à l'article 19bis, alinéa 5;
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+L'organe de contrôle peut se faire communiquer par la personne soumise à son contrôle son avertissement extrait de rôle, sa déclaration fiscale ainsi que tout document comptable ou toute pièce justificative en sa possession.
+
+Il peut également procéder à son audition.
+
+S'il existe des indices d'infraction aux obligations prévues dans les articles visés à l'alinéa 1er, l'organe de contrôle peut se faire communiquer par tout tiers l'avertissement extrait de rôle de la personne soumise à son contrôle, sa déclaration fiscale ainsi que tout document comptable ou toute pièce justificative en sa possession. Il peut également procéder à l'audition de ce tiers.
+
+L'organe de contrôle établit un cadastre des mandats pour chaque commissaire du Gouvernement. Ce cadastre comprend les indications fournies par le déclarant dans les différents volets de sa déclaration tels qu'énumérés à l'article 19/2.
+
+Ce cadastre est publié annuellement au Moniteur belge ainsi que sur le site internet de la Région.
+
+La publication est réalisée au plus tard le 31 décembre de l'année qui suit l'année pendant laquelle les fonctions et les mandats ont été exercés.
+
+La liste des commissaires du Gouvernement qui n'ont pas déposé les déclarations visées à l'article 19/2 au terme de la procédure de vérification des déclarations prévue à l'article 19/4, §§ 1er et 2, est publiée au Moniteur belge ainsi que sur le site internet de la Région en même temps que la publication du cadastre.
+
+Si le commissaire constate, dans un délai de deux mois après la publication du cadastre des mandats au Moniteur belge et sur le site internet de la Région, une différence entre le cadastre publié et la déclaration qu'il a adressée à l'organe de contrôle, il transmet une correction à celui-ci par envoi recommandé ou selon les modalités que ce dernier détermine. L'organe de contrôle assure la publication de la correction au Moniteur belge et sur le site internet de la Région.
+
+Les corrections apportées à la déclaration par le commissaire du Gouvernement entre le 15 novembre et la publication du cadastre ne pourront pas être prises en compte pour la publication qui intervient au plus tard le 31 décembre.
+
+L'organe de contrôle assure la publication ultérieure de ces corrections au Moniteur belge et sur le site internet de la Région.
+
+Le personnel de l'organe de contrôle est tenu au secret professionnel conformément à l'article 458 du Code pénal. Il peut diffuser des informations relatives à l'exercice de sa mission uniquement dans le respect des règles de publicité prévues par le présent décret.
+
+§ 3. La Cour des comptes vérifie au minimum tous les trois ans les processus mis en place par l'organe de contrôle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/46, art. 25, 008; En vigueur : 24-05-2018&gt;
+
+(2)&lt;DRW 2018-03-29/46, art. 31,5°, 008; En vigueur : 5555-55-55&gt;. Cessent d'être en vigueur à la date de la désignation de l'ensemble des membres de la Commission de déontologie et d'éthique, en application de l'article 5 de l'accord de coopération du 13 mars 2014 entre la Communauté française, la Commission communautaire française et la Région wallonne portant création d'une Commission de déontologie et d'éthique
+
+### Art. 19/4
+
+[<sup>1</sup> § 1er. L'organe de contrôle dresse, à l'encontre du commissaire de Gouvernement, un avis lorsqu'il constate l'absence de déclaration alors que celle-ci était requise, relève une anomalie ou suspecte une irrégularité aux dispositions des articles 19/2, 19/3 et 19bis, alinéas 5 et 8.
+
+L'avis visé à l'alinéa 1er :
+
+1° reprend les manquements qui sont susceptibles d'être reprochés au commissaire du Gouvernement;
+
+2° est notifié, par envoi recommandé, à la personne concernée.
+
+§ 2. La personne concernée dispose d'un délai de quinze jours à partir de la notification de l'avis pour faire valoir, par envoi recommandé adressé à l'organe de contrôle, ses observations ou sa déclaration rectifiée, accompagnée d'une éventuelle demande d'audition
+
+L'audition, si elle est sollicitée, a lieu dans un délai de quarante jours à partir de la date de réception par l'organe de contrôle du recommandé visé à l'alinéa 1er. La personne concernée peut être assistée d'un conseil.
+
+Un procès-verbal de l'audition est établi et communiqué dans les huit jours suivant l'audition, par envoi recommandé, à la personne concernée. Celle-ci dispose d'un délai de trois jours francs à dater de la réception du procès-verbal pour faire valoir ses observations par envoi recommandé. A défaut, le procès-verbal est considéré comme définitif.
+
+L'organe de contrôle rend sa décision dans les :
+
+1° septante-cinq jours francs de la notification de son avis si la personne concernée n'y a pas réagi;
+
+2° septante-cinq jours francs de la réception des observations ou de la déclaration rectifiée du mandataire s'il n'y pas eu d'audition de la personne concernée;
+
+3° septante-cinq jours francs de l'établissement définitif du procès-verbal de l'audition si celle-ci a eu lieu.
+
+L'organe de contrôle adresse sa décision par envoi recommandé à la personne concernée.
+
+L'organe de contrôle adresse l'avis visé au paragraphe 1er, alinéa 1er, dans les onze mois suivant la réception de la déclaration.
+
+La déclaration est présumée conforme aux dispositions du présent décret pour l'année de référence si l'organe de contrôle n'a pas adressé l'avis visé au paragraphe 1er, alinéa 1er, dans le délai.
+
+§ 3. La décision de l'organe de contrôle porte sur l'existence et la conformité des déclarations aux dispositions visées à l'article 19/3, § 2, alinéa 1er, qui ont fait l'objet de la procédure visée aux paragraphes 1er et 2. Elle comporte, s'il y a lieu, le décompte des sommes trop perçues par le commissaire du Gouvernement pour le passé et les conditions du remboursement.
+
+La personne concernée rembourse, dans les soixante jours francs de la réception de la notification de la décision de l'organe de contrôle, les sommes trop perçues visées à l'alinéa 1er.
+
+L'organe de contrôle peut prolonger le délai visé à l'alinéa 2 d'une durée qu'il détermine si l'intéressé fait valoir par envoi recommandé, dans les quinze jours de la notification de la décision, les motifs exceptionnels qui fondent sa requête.
+
+Le remboursement des sommes trop perçues par le commissaire du Gouvernement au regard de l'article 19bis, alinéa 8, se fait au bénéfice des organismes dans lesquels il exerce ses mandats rémunérés proportionnellement à la somme trop perçue.
+
+La personne concernée adresse, sans délai, à l'organe de contrôle la preuve du remboursement.
+
+L'organe de contrôle transmet la décision au Gouvernement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/46, art. 26, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 19/4 DROIT FUTUR
+
+[<sup>1</sup> § 1er. L'organe de contrôle dresse, à l'encontre du commissaire de Gouvernement, un avis lorsqu'il constate l'absence de déclaration alors que celle-ci était requise, relève une anomalie ou suspecte une irrégularité aux dispositions des articles 19/2, 19/3 et 19bis, alinéas 5 [<sup>2</sup> ...]<sup>2</sup>.
+
+L'avis visé à l'alinéa 1er :
+
+1° reprend les manquements qui sont susceptibles d'être reprochés au commissaire du Gouvernement;
+
+2° est notifié, par envoi recommandé, à la personne concernée.
+
+§ 2. La personne concernée dispose d'un délai de quinze jours à partir de la notification de l'avis pour faire valoir, par envoi recommandé adressé à l'organe de contrôle, ses observations ou sa déclaration rectifiée, accompagnée d'une éventuelle demande d'audition
+
+L'audition, si elle est sollicitée, a lieu dans un délai de quarante jours à partir de la date de réception par l'organe de contrôle du recommandé visé à l'alinéa 1er. La personne concernée peut être assistée d'un conseil.
+
+Un procès-verbal de l'audition est établi et communiqué dans les huit jours suivant l'audition, par envoi recommandé, à la personne concernée. Celle-ci dispose d'un délai de trois jours francs à dater de la réception du procès-verbal pour faire valoir ses observations par envoi recommandé. A défaut, le procès-verbal est considéré comme définitif.
+
+L'organe de contrôle rend sa décision dans les :
+
+1° septante-cinq jours francs de la notification de son avis si la personne concernée n'y a pas réagi;
+
+2° septante-cinq jours francs de la réception des observations ou de la déclaration rectifiée du mandataire s'il n'y pas eu d'audition de la personne concernée;
+
+3° septante-cinq jours francs de l'établissement définitif du procès-verbal de l'audition si celle-ci a eu lieu.
+
+L'organe de contrôle adresse sa décision par envoi recommandé à la personne concernée.
+
+L'organe de contrôle adresse l'avis visé au paragraphe 1er, alinéa 1er, dans les onze mois suivant la réception de la déclaration.
+
+La déclaration est présumée conforme aux dispositions du présent décret pour l'année de référence si l'organe de contrôle n'a pas adressé l'avis visé au paragraphe 1er, alinéa 1er, dans le délai.
+
+§ 3. La décision de l'organe de contrôle porte sur l'existence et la conformité des déclarations aux dispositions visées à l'article 19/3, § 2, alinéa 1er, qui ont fait l'objet de la procédure visée aux paragraphes 1er et 2. Elle comporte, s'il y a lieu, le décompte des sommes trop perçues par le commissaire du Gouvernement pour le passé et les conditions du remboursement.
+
+La personne concernée rembourse, dans les soixante jours francs de la réception de la notification de la décision de l'organe de contrôle, les sommes trop perçues visées à l'alinéa 1er.
+
+L'organe de contrôle peut prolonger le délai visé à l'alinéa 2 d'une durée qu'il détermine si l'intéressé fait valoir par envoi recommandé, dans les quinze jours de la notification de la décision, les motifs exceptionnels qui fondent sa requête.
+
+Le remboursement des sommes trop perçues par le commissaire du Gouvernement au regard de l'article 19bis, alinéa 8, se fait au bénéfice des organismes dans lesquels il exerce ses mandats rémunérés proportionnellement à la somme trop perçue.
+
+La personne concernée adresse, sans délai, à l'organe de contrôle la preuve du remboursement.
+
+L'organe de contrôle transmet la décision au Gouvernement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/46, art. 26, 008; En vigueur : 24-05-2018&gt;
+
+(2)&lt;DRW 2018-03-29/46, art. 31,6°, 008; En vigueur : 5555-55-55&gt;. Cessent d'être en vigueur à la date de la désignation de l'ensemble des membres de la Commission de déontologie et d'éthique, en application de l'article 5 de l'accord de coopération du 13 mars 2014 entre la Communauté française, la Commission communautaire française et la Région wallonne portant création d'une Commission de déontologie et d'éthique
+
+### Art. 19/5
+
+[<sup>1</sup> § 1er. Le Gouvernement peut, au terme de la procédure prévue au paragraphe 2, révoquer le commissaire du Gouvernement lorsque la personne concernée :
+
+1° n'a pas déposé de déclaration;
+
+2° a établi sciemment une fausse déclaration;
+
+3° a omis de rembourser les sommes indûment perçues dans le délai qui lui est imparti;
+
+4° n'a pas respecté les obligations prévues aux articles 19bis, alinéa 8.
+
+§ 2. L'organe de contrôle communique à la personne concernée par recommandé une notification des faits de nature à entraîner la déchéance.
+
+Vingt jours au plus tôt après la transmission de la notification, et après avoir entendu si elle en a fait la demande dans un délai de huit jours à dater de la réception de la notification la personne concernée éventuellement accompagnée du conseil de son choix, le Gouvernement peut constater la déchéance.
+
+La décision de l'autorité intervient dans un délai d'un mois maximum qui suit le terme de la procédure décrite aux alinéas 1 et 2.
+
+Cette décision est notifiée à la personne concernée.
+
+En cas de révocation du commissaire du Gouvernement, la décision est également notifiée à l'organe dans lequel la personne concernée exerce son mandat.
+
+Si, ayant connaissance de la cause de sa révocation suite à la réception de la notification visée à l'alinéa 4, la personne concernée continue l'exercice de ses fonctions, il est passible des peines commuées par l'article 262 du Code pénal.
+
+Un recours, fondé sur l'article 16 des lois coordonnées sur le Conseil d'Etat, est ouvert contre cette décision. Il doit être introduit dans les quinze jours de sa notification.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/46, art. 27, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 19/5 DROIT FUTUR
+
+[<sup>1</sup> § 1er. Le Gouvernement peut, au terme de la procédure prévue au paragraphe 2, révoquer le commissaire du Gouvernement lorsque la personne concernée :
+
+1° n'a pas déposé de déclaration;
+
+2° a établi sciemment une fausse déclaration;
+
+3° a omis de rembourser les sommes indûment perçues dans le délai qui lui est imparti;
+
+4°[<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. L'organe de contrôle communique à la personne concernée par recommandé une notification des faits de nature à entraîner la déchéance.
+
+Vingt jours au plus tôt après la transmission de la notification, et après avoir entendu si elle en a fait la demande dans un délai de huit jours à dater de la réception de la notification la personne concernée éventuellement accompagnée du conseil de son choix, le Gouvernement peut constater la déchéance.
+
+La décision de l'autorité intervient dans un délai d'un mois maximum qui suit le terme de la procédure décrite aux alinéas 1 et 2.
+
+Cette décision est notifiée à la personne concernée.
+
+En cas de révocation du commissaire du Gouvernement, la décision est également notifiée à l'organe dans lequel la personne concernée exerce son mandat.
+
+Si, ayant connaissance de la cause de sa révocation suite à la réception de la notification visée à l'alinéa 4, la personne concernée continue l'exercice de ses fonctions, il est passible des peines commuées par l'article 262 du Code pénal.
+
+Un recours, fondé sur l'article 16 des lois coordonnées sur le Conseil d'Etat, est ouvert contre cette décision. Il doit être introduit dans les quinze jours de sa notification.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/46, art. 27, 008; En vigueur : 24-05-2018&gt;
+
+(2)&lt;DRW 2018-03-29/46, art. 31,7°, 008; En vigueur : 5555-55-55&gt;. Cessent d'être en vigueur à la date de la désignation de l'ensemble des membres de la Commission de déontologie et d'éthique, en application de l'article 5 de l'accord de coopération du 13 mars 2014 entre la Communauté française, la Commission communautaire française et la Région wallonne portant création d'une Commission de déontologie et d'éthique
+
+### Art. 19/6
+
+[<sup>1</sup> Le commissaire du Gouvernement qui est révoqué en application de l'article 19/5 ne peut pas être désigné à nouveau à cette fonction pendant une durée de deux ans à compter de la notification de la décision de révocation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/46, art. 28, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 19/7
+
+[<sup>1</sup> Lorsque le Gouvernement désigne un commissaire du Gouvernement dans l'un des organismes, il en fait mention dans le registre visé à l'article 15/6 du décret du 12 février 2004 relatif au statut de l'administrateur public. "
+
+L'informateur institutionnel établit une liste des Commissaires de Gouvernement assujettis à l'obligation de déclaration prévue par le présent décret et les informe de leurs obligations, au plus tard pour le 30 avril de chaque année. Le Gouvernement ou l'organe de contrôle peut, sans aucune condition, solliciter les preuves du respect de la présente disposition. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/46, art. 29, 008; En vigueur : 24-05-2018&gt;
+
+## CHAPITRE IIIbis. [<sup>1</sup> - Rémunération du commissaire du Gouvernement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2011-04-07/05, art. 11, 004; En vigueur : 15-05-2011&gt;
+
+### Art. 19bis
+
+[<sup>1</sup> Lors de la désignation des commissaires, le Gouvernement, sur proposition du Ministre de tutelle, détermine les formes, montants et modalités d'attribution de leur rémunération.
+
+Cette détermination se fait en tenant compte du secteur d'activités de chaque organisme.
+
+[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> Le commissaire du Gouvernement peut être rémunéré uniquement par des jetons de présence dus en cas de présence effective de celui-ci aux réunions de l'organe qui peuvent faire l'objet d'une rémunération, conformément aux alinéas 4 et 5.
+
+Il peut être accordé au même commissaire du Gouvernement seulement un jeton de présence par jour, quels que soient la nature et le nombre de réunions auxquelles il a assisté au sein du même organisme, pour sa participation à l'entièreté de la réunion.
+
+La rémunération annuelle d'un commissaire du Gouvernement ne dépasse pas 4.999,28 euros. Le montant s'entend " avantages de toute nature compris " et est rattaché à l'indice pivot 138,01 du 1er janvier 1990.
+
+Les frais de parcours résultant de déplacements effectués pour les besoins inhérents à l'exercice du mandat de commissaire donnent lieu à une intervention dans les formes et conditions fixées par l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le Code de la Fonction publique wallonne.
+
+Les montants perçus indûment par le commissaire du Gouvernement sont remboursés à l'organisme qui a versé le trop-perçu.
+
+Le montant total perçu par une personne non-élue en contrepartie de l'exécution de l'ensemble de ses mandats publics est égal ou inférieur à 50% du montant de l'indemnité parlementaire perçue par les membres de la Chambre des représentants.
+
+Les règles prévues au présent article s'appliquent à l'ensemble des actes de désignation des commissaires du Gouvernement, en ce compris les actes adoptés antérieurement à l'entrée en vigueur de la présente disposition.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2016-11-24/16, art. 12, 007; En vigueur : 22-12-2016&gt;
+
+(2)&lt;DRW 2018-03-29/46, art. 30, 008; En vigueur : 24-05-2018&gt;
+
+### Art. 19bis DROIT FUTUR
+
+[<sup>1</sup> Lors de la désignation des commissaires, le Gouvernement, sur proposition du Ministre de tutelle, détermine les formes, montants et modalités d'attribution de leur rémunération.
+
+Cette détermination se fait en tenant compte du secteur d'activités de chaque organisme.
+
+[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> Le commissaire du Gouvernement peut être rémunéré uniquement par des jetons de présence dus en cas de présence effective de celui-ci aux réunions de l'organe qui peuvent faire l'objet d'une rémunération, conformément aux alinéas 4 et 5.
+
+Il peut être accordé au même commissaire du Gouvernement seulement un jeton de présence par jour, quels que soient la nature et le nombre de réunions auxquelles il a assisté au sein du même organisme, pour sa participation à l'entièreté de la réunion.
+
+La rémunération annuelle d'un commissaire du Gouvernement ne dépasse pas 4.999,28 euros. Le montant s'entend " avantages de toute nature compris " et est rattaché à l'indice pivot 138,01 du 1er janvier 1990.
+
+Les frais de parcours résultant de déplacements effectués pour les besoins inhérents à l'exercice du mandat de commissaire donnent lieu à une intervention dans les formes et conditions fixées par l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le Code de la Fonction publique wallonne.
+
+Les montants perçus indûment par le commissaire du Gouvernement sont remboursés à l'organisme qui a versé le trop-perçu.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Les règles prévues au présent article s'appliquent à l'ensemble des actes de désignation des commissaires du Gouvernement, en ce compris les actes adoptés antérieurement à l'entrée en vigueur de la présente disposition.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2016-11-24/16, art. 12, 007; En vigueur : 22-12-2016&gt;
+
+(2)&lt;DRW 2018-03-29/46, art. 30, 008; En vigueur : 24-05-2018&gt;
+
+(3)&lt;DRW 2018-03-29/46, art. 31,8°, 008; En vigueur : 5555-55-55&gt;. Cessent d'être en vigueur à la date de la désignation de l'ensemble des membres de la Commission de déontologie et d'éthique, en application de l'article 5 de l'accord de coopération du 13 mars 2014 entre la Communauté française, la Commission communautaire française et la Région wallonne portant création d'une Commission de déontologie et d'éthique
+
+## CHAPITRE IV. - Charte du Commissaire du Gouvernement.
+
+### Art. 20
+
+Le Gouvernement ou le Ministre de tutelle conclut avec le Commissaire du Gouvernement une charte du Commissaire du Gouvernement.
+
+Le Gouvernement détermine le contenu de cette charte.
+
+Celle-ci contient au moins l'engagement du Commissaire du Gouvernement :
+
+1° d'assurer que l'intérêt général, la légalité et les objectifs de l'organisme, tels que définis dans le cadre réglementaire et dans le contrat de gestion, soient respectés;
+
+2° de préserver, en conformité avec les normes en vigueur, les intérêts de l'actionnaire public tant dans les services publics que dans les autres activités de l'organisme;
+
+3° de développer et de mettre à jour ses compétences professionnelles dans les domaines d'activité de l'organisme;
+
+4° de rédiger et de transmettre avec la diligence requise tous les rapports et avis écrits aux Ministres concernés conformément aux dispositions du présent décret;
+
+5° de communiquer les informations conformément aux dispositions du présent décret;
+
+6° de respecter la plus grande discrétion à propos de l'exercice de sa mission, plus particulièrement à propos des informations et indications qu'un Ministre viendrait à lui donner.
+
+## CHAPITRE IVbis. [<sup>1</sup> - Missions de contrôle des réviseurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-04-30/26, art. 2, 003; En vigueur : 05-06-2009&gt;
+
+### Art. 20bis
+
+[<sup>1</sup> § 1er. Lorsque le décret organique de l'organisme prévoit la désignation d'un ou de plusieurs réviseurs, au sein d'un collège ou non, pour le contrôle des comptes de l'organisme, le ou les réviseurs sont nommés parmi les membres, personnes physiques, personnes morales ou entités quelle que soit leur forme juridique, de l'Institut des réviseurs d'entreprises, pour une durée maximale de trois ans, renouvelable une seule fois de façon successive au niveau d'un même cabinet ou d'un même réseau.
+
+§ 2. Le mandat de réviseur ne peut être attribué à un membre du Parlement wallon ou du Gouvernement wallon, ou à un membre d'un réseau dont fait partie une personne morale ou une entité dans laquelle un membre du Parlement wallon ou du Gouvernement wallon détient un intérêt patrimonial direct ou indirect. Le réviseur d'entreprises qui souhaite soumissionner pour un mandat de contrôle des comptes de l'organisme doit transmettre au moment de sa candidature une déclaration sur l'honneur attestant du respect de cette disposition.
+
+§ 3. Le réviseur qui souhaite soumissionner pour un mandat de contrôle des comptes de l'organisme doit également transmettre au moment de sa candidature un rapport de transparence. Ce rapport est publié sur le site Internet de la Région wallonne dans les trois mois suivant la fin de chaque exercice comptable.
+
+Ce rapport inclut, dans le chef du réviseur d'entreprises personne physique, les informations suivantes :
+
+a) lorsqu'il appartient à un réseau : une description de ce réseau et des dispositions juridiques et structurelles qui l'organisent;
+
+b) une liste des organismes pour lesquels il a effectué un contrôle légal des comptes au cours de l'exercice écoulé;
+
+c) les dates auxquelles ces informations ont été mises à jour.
+
+Les cabinets de réviseurs confirment les informations suivantes :
+
+a) une description de leur structure juridique et de leur capital ainsi que leur actionnariat. Ils précisent les personnes morales et physiques qui composent cet actionnariat;
+
+b) lorsqu'un cabinet de révision appartient à un réseau : une description de ce réseau et des dispositions juridiques et structurelles qui l'organisent;
+
+c) une description de la structure de gouvernance du cabinet de révision;
+
+d) une liste des organismes pour lesquels le cabinet de révision a effectué un contrôle légal des comptes au cours de l'exercice écoulé;
+
+e) une déclaration concernant les pratiques d'indépendance du cabinet de révision et confirmant qu'une vérification interne du respect de ces exigences d'indépendance a été effectuée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-04-30/26, art. 2, 003; En vigueur : 05-06-2009&gt;
+
+## CHAPITRE V. - Disposition transitoire et finale.
+
+### Art. 21
+
+Les organismes veillent à mettre leurs statuts en concordance avec les dispositions du présent décret.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 12 février 2004.
+
+Le Ministre-Président,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Economie, des P.M.E, de la Recherche et des Technologies nouvelles,
+
+S. KUBLA
+
+Le Ministre des Transports, de la Mobilité et de l'Energie,
+
+J. DARAS
+
+Le Ministre du Budget, du Logement, de l'Equipement et des Travaux publics,
+
+M. DAERDEN
+
+Le Ministre de l'Aménagement du Territoire, de l'Urbanisme et de l'Environnement,
+
+M. FORET
+
+Le Ministre de l'Agriculture et de la Ruralité,
+
+J. HAPPART
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ch. MICHEL
+
+Le Ministre des Affaires sociales et de la Santé,
+
+Th. DETIENNE
+
+Le Ministre de l'Emploi et de la Formation,
+
+Ph. COURARD.

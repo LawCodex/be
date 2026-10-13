@@ -1,0 +1,259 @@
+---
+title: "Décret relatif au contrat de gestion et aux obligations d'information pour les matières réglées en vertu de l'article 138 de la Constitution"
+identifier: "2004200760"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/12/2004200760/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2004-02-12
+published: 2004-03-23
+entry_into_force: 2004-02-04
+last_amended: 2018-03-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/12/2004200760/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 23-03-2004 et mise à jour au 01-03-2018"
+retrieved: 2026-10-12
+---
+
+# 12 FEVRIER 2004. - Décret relatif au contrat de gestion et aux obligations d'information pour les matières réglées en vertu de l'article 138 de la Constitution
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Généralités.
+
+### Art. 1
+
+Le présent décret règle, en vertu de l'article 138 de la Constitution, certaines matières visées aux articles 127, § 1er, et 128 de la Constitution.
+
+### Art. 2
+
+Pour l'application du présent décret, on entend par :
+
+1° "contrat de gestion" : la convention passée entre le Gouvernement et l'organe de gestion d'un organisme visé à l'article 3 du présent décret, en vue de définir les règles et conditions spéciales en vertu desquelles cet organisme exerce ses missions de service public;
+
+2° "organisme" : toute personne morale visée à l'article 3;
+
+3° "organe de gestion" : le conseil d'administration d'un organisme ou, à défaut, tout autre organe, quelle que soit sa dénomination, qui dispose de tous les pouvoirs nécessaires à la réalisation des missions ou de l'objet social de l'organisme;
+
+4° "plan d'entreprise" : le programme établi par l'organe de gestion exposant les moyens et ressources permettant à l'organisme de remplir ses missions et de rencontrer les objectifs définis par le contrat de gestion;
+
+5° "Ministre de tutelle" : le Ministre du Gouvernement qui s'est vu attribuer un pouvoir de contrôle particulier sur l'organisme visé à l'article 3, §§ 1er, 2 et 3, en vertu du décret ou de l'arrêté portant création dudit organisme ou de l'arrêté portant répartition des compétences au sein du Gouvernement;
+
+6° "Gouvernement" : le Gouvernement de la Région wallonne.
+
+### Art. 3
+
+§ 1er. Les chapitres II, III, IV et VI du présent décret sont applicables aux organismes suivants :
+
+1° [<sup>2</sup> l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles]<sup>2</sup>
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° l'Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises.
+
+[<sup>3</sup> 5° la Caisse publique wallonne d'allocations familiales.]<sup>3</sup>
+
+§ 2. Après l'entrée en vigueur du présent décret, les chapitres II, III et IV s'appliquent, sauf disposition contraire, à toute personne morale créée par décret ou par arrêté et pour laquelle il est prévu un contrat de gestion.
+
+§ 3. Après l'entrée en vigueur du présent décret, le chapitre V s'applique, sauf disposition contraire, à toute personne morale créée par décret ou par arrêté et pour laquelle il n'est pas prévu de contrat de gestion.
+
+----------
+
+(1)&lt;DRW 2009-04-30/63, art. 39, 002; En vigueur : 01-07-2009&gt;
+
+(2)&lt;DRW 2015-12-03/18, art. 151, 003; En vigueur : 01-01-2016&gt;
+
+(3)&lt;DRW 2018-02-08/09, art. 116, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE II. - Elaboration, approbation et durée du contrat de gestion.
+
+### Art. 4
+
+§ 1er. Préalablement à la rédaction du projet de contrat de gestion, le Gouvernement, en concertation avec l'organisme, à l'intervention de son organe de gestion, procède à l'évaluation du fonctionnement et de l'état du service public dont est chargé l'organisme.
+
+Cette évaluation comporte les aspects relatifs au contexte économique, social et environnemental dans lequel travaille l'organisme, aux perspectives d'avenir du secteur d'activité, à la satisfaction des usagers et, le cas échéant, une analyse des effets du contrat de gestion précédent.
+
+§ 2. Lors du renouvellement du contrat de gestion, le Gouvernement procède lui-même, en concertation avec l'organisme, à l'intervention de son organe de gestion, à l'évaluation visée au paragraphe 1er. Il fait également procéder parallèlement par un tiers à cette évaluation.
+
+### Art. 5
+
+§ 1er. Sur proposition du Ministre de tutelle, le Gouvernement adopte une note d'orientation déterminant les lignes directrices du projet de contrat de gestion.
+
+§ 2. Dans le respect de la note d'orientation visée au paragraphe 1er, le Ministre de tutelle établit un projet de contrat de gestion en tenant compte de l'évaluation visée à l'article 4. Ce projet est soumis à l'organisme pour concertation, à l'intervention de son organe de gestion.
+
+§ 3. Le contrat de gestion est approuvé par le Gouvernement, sur proposition du Ministre de tutelle, et par l'organe de gestion.
+
+§ 4. Dans le mois de sa conclusion, le Gouvernement transmet le contrat de gestion au Conseil régional wallon et le publie au Moniteur belge.
+
+§ 5. Sans préjudice des règles applicables à la concertation sociale, le personnel de l'organisme est informé du contenu du contrat de gestion par une procédure définie par l'organisme et approuvée par le Ministre de tutelle.
+
+### Art. 6
+
+Après la conclusion du contrat de gestion, l'organisme établit son plan d'entreprise.
+
+### Art. 7
+
+§ 1er. Le contrat de gestion est conclu pour une durée de trois ans au moins et cinq ans au plus.
+
+§ 2. Le contrat de gestion peut être modifié selon la procédure prévue à l'article 5.
+
+§ 3. Au plus tard six mois avant l'expiration du contrat de gestion, le Ministre de tutelle procède à l'évaluation prévue à l'article 4.
+
+Si un nouveau contrat de gestion n'entre pas en vigueur à l'expiration du précédent, le contrat de gestion venu à expiration peut être prorogé par le Ministre de tutelle pour une période non renouvelable de six mois. Cette prorogation est publiée au Moniteur belge par le Ministre de tutelle.
+
+Si, à l'expiration du contrat de gestion éventuellement prorogé, un nouveau contrat de gestion n'est pas entré en vigueur, le Gouvernement arrête les règles provisoires applicables à la poursuite de l'exécution des missions de service public de l'organisme, comprenant au moins les matières visées aux articles 9 à 16. Ces règles provisoires sont applicables jusqu'à l'entrée en vigueur du nouveau contrat de gestion conclu conformément aux articles 4 et 5.
+
+## CHAPITRE III. - Contenu du contrat de gestion.
+
+### Art. 8
+
+Le Gouvernement détermine le contenu du contrat de gestion, qui porte sur les matières visées aux articles 9 à 16, auxquelles il peut, le cas échéant, apporter des précisions, eu égard aux spécificités des missions de l'organisme.
+
+### Art. 9
+
+Le contrat de gestion précise les tâches que l'organisme assume en vue de l'exécution de ses missions de service public.
+
+Les objectifs d'impact, de qualité, d'efficacité, d'efficience et d'économie à atteindre, sont déterminés par des critères mesurables, précis et assortis de délais de réalisation.
+
+### Art. 10
+
+§ 1er. Si l'organisme bénéficie d'une dotation, le contrat de gestion en fixe le montant initial nécessaire à la couverture des charges qui découlent de l'exécution du contrat de gestion, en tenant compte des coûts et recettes de l'organisme relatifs à l'exécution de ses tâches.
+
+§ 2. Le contrat de gestion détermine les règles de mise à disposition, d'adaptation de la dotation et les modalités de report de solde de la dotation.
+
+§ 3. A moins que des lois ou décrets en disposent autrement, le contrat de gestion fixe les principes et les conditions de tarification pour les prestations fournies dans le cadre des tâches assumées, en vue de la mise en oeuvre des missions de service public.
+
+§ 4. Le contrat de gestion prévoit l'obligation de distinguer les coûts liés à la mise en oeuvre des tâches et en particulier les dépenses d'investissement et les dépenses d'exploitation.
+
+§ 5. Le contrat de gestion prévoit l'affectation des recettes des missions de service public.
+
+### Art. 11
+
+Le contrat de gestion décrit les engagements de l'organisme vis-à-vis des usagers des services publics, notamment en matière d'information, ainsi que les mécanismes de compensation en cas de défaillance dans l'exécution des tâches.
+
+### Art. 12
+
+Le contrat de gestion règle les conditions d'application des incitants ou des sanctions, notamment budgétaires, liés au niveau de réalisation des objectifs et des engagements de l'organisme.
+
+### Art. 13
+
+Le contrat de gestion définit les indicateurs qualitatifs et quantitatifs liés à la réalisation de tous les objectifs visés à l'article 9 et composant le tableau de bord visé à l'article 17.
+
+Pour chacun de ces indicateurs, une valeur de référence sera indiquée. Ces indicateurs seront repris dans le tableau de bord qui périodiquement indiquera leur degré de réalisation et leur évolution.
+
+### Art. 14
+
+Le contrat de gestion règle ses procédures de modification et de renouvellement et ses règles de solution de conflits.
+
+### Art. 15
+
+Le contrat de gestion contient des dispositions à prendre pour assurer le respect des politiques que le Gouvernement met en oeuvre dans les autres matières qui relèvent de sa compétence.
+
+### Art. 16
+
+Toute clause résolutoire expresse dans le contrat de gestion est réputée non écrite.
+
+L'article 1184 du Code civil n'est pas applicable au contrat de gestion. La partie envers laquelle une obligation contenue dans le contrat de gestion n'est pas exécutée ne peut poursuivre que l'exécution de l'obligation et, le cas échéant, demander des dommages-intérêts, sans préjudice de l'application de toute sanction spéciale prévue dans le contrat de gestion.
+
+## CHAPITRE IV. - Suivi et contrôle.
+
+### Art. 17
+
+Le tableau de bord visé à l'article 13 fait l'objet d'une présentation périodique au Ministre-Président, au Ministre du Budget et au Ministre de tutelle, selon la fréquence choisie par le Ministre de tutelle, qui ne peut être inférieure à une présentation par an.
+
+### Art. 18
+
+§ 1er. L'organe de gestion établit un rapport annuel sur la mise en oeuvre du contrat de gestion. Ce rapport annuel est transmis au Gouvernement par le Ministre de tutelle.
+
+Le Gouvernement détermine le contenu minimal du rapport visé à l'alinéa 1er. Ce rapport comprend au minimum, d'une part, un examen de l'état de réalisation des objectifs sur la base des indicateurs visés à l'article 13 et, d'autre part, un bilan social sur l'application des règles relatives à la gestion du personnel et à la concertation sociale.
+
+§ 2. Dans les meilleurs délais, le Ministre de tutelle et l'organe de gestion examinent en concertation le rapport visé au paragraphe 1er.
+
+Le Ministre de tutelle peut, s'il l'estime nécessaire, faire procéder par un tiers à une évaluation de la mise en oeuvre du contrat de gestion.
+
+§ 3. Le Ministre de tutelle fait rapport au Gouvernement.
+
+§ 4. Le Gouvernement communique au Conseil régional wallon le rapport annuel visé au paragraphe 1er.
+
+## CHAPITRE V. - Informations particulières.
+
+### Art. 19
+
+Les personnes morales visées à l'article 3, § 3, établissent un rapport d'information annuel dont le Gouvernement arrête le contenu et qui comprend au moins les points suivants, sans préjudice des règles existantes :
+
+1° les comptes annuels du dernier exercice certifiés au moins par un réviseur d'entreprise;
+
+2° les budgets de l'exercice suivant;
+
+3° un bilan social sur l'application des règles relatives à la gestion du personnel et à la concertation sociale;
+
+4° une présentation de la réalisation de l'objet social et le cas échéant, de la réalisation des objectifs définis par le Gouvernement et des effets de cette mise en oeuvre pour les usagers et les bénéficiaires;
+
+5° un plan qui expose, pour l'exercice suivant, les mesures et projets pris pour rencontrer ou améliorer la réalisation de l'objet social ou des objectifs fixés par le Gouvernement.
+
+### Art. 20
+
+Le Gouvernement communique ce rapport annuel au Conseil régional wallon.
+
+### Art. 21
+
+Le Conseil régional wallon peut solliciter du Gouvernement, du Ministre de tutelle ou de la personne morale tout complément d'information.
+
+## CHAPITRE VI. - Dispositions transitoires et finales.
+
+### Art. 22
+
+A l'égard des organismes visés à l'article 3 qui disposent d'un contrat de gestion lors de l'entrée en vigueur du présent décret, les chapitres II à IV sont applicables à l'échéance du contrat de gestion en cours.
+
+### Art. 23
+
+A l'égard des organismes visés à l'article 3 qui ne disposent pas d'un contrat de gestion lors de l'entrée en vigueur du présent décret, le processus d'élaboration d'un nouveau contrat de gestion est engagé dans les trois mois de l'entrée en vigueur du présent décret.
+
+Le contrat de gestion doit être signé dans l'année qui suit l'entrée en vigueur du présent décret.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 12 février 2004.
+
+Le Ministre-Président,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Economie, des P.M.E, de la Recherche et des Technologies nouvelles,
+
+S. KUBLA
+
+Le Ministre des Transports, de la Mobilité et de l'Energie,
+
+J. DARAS
+
+Le Ministre du Budget, du Logement, de l'Equipement et des Travaux publics,
+
+M. DAERDEN
+
+Le Ministre de l'Aménagement du Territoire, de l'Urbanisme et de l'Environnement,
+
+M. FORET
+
+Le Ministre de l'Agriculture et de la Ruralité,
+
+J. HAPPART
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ch. MICHEL
+
+Le Ministre des Affaires sociales et de la Santé,
+
+Th. DETIENNE
+
+Le Ministre de l'Emploi et de la Formation,
+
+Ph. COURARD.
