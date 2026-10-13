@@ -1,0 +1,1917 @@
+---
+title: "Décret relatif à l'enseignement fondamental ordinaire (Traduction)"
+identifier: "1999033086"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/26/1999033086/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1999-04-26
+published: 1999-10-06
+entry_into_force: 1998-08-20
+last_amended: 2025-10-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/26/1999033086/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 06-10-1999 et mise à jour au 31-10-2025"
+retrieved: 2026-10-12
+---
+
+# 26 AVRIL 1999. - Décret relatif à l'enseignement fondamental ordinaire (Traduction)
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales et définitions.
+
+##### Art. 1
+
+Champ d'application.
+
+Le présent décret est applicable aux écoles fondamentales ordinaires organisées et subventionnées par la Communauté germanophone. Les articles 16 et 17 sont applicables aux écoles reconnues conformément au chapitre IV, section 1.
+
+##### Art. 2
+
+Qualifications.
+
+Dans le présent décret, les qualifications s'appliquent aux deux sexes.
+
+##### Art. 3
+
+Définitions.
+
+Pour l'application du présent décret, l'on entend par :
+
+1° école fondamentale, ci-après " école " : une école qui dispense soit exclusivement un enseignement primaire ou un enseignement primaire et un enseignement maternel, qui compte une ou plusieurs implantations et est placée sous la direction d'un chef d'établissement;
+
+2° section maternelle : partie de l'école fondamentale qui dispense un enseignement maternel;
+
+3° école primaire : partie de l'école fondamentale qui dispense un enseignement primaire ou école fondamentale qui dispense uniquement un enseignement primaire;
+
+4° implantation : bâtiment ou ensemble de bâtiments situé(s) à une seule adresse et où, pour ordre d'un pouvoir organisateur, sont organisées des activités préscolaires et/ou est dispensé un enseignement primaire;
+
+5° période de cours : unité de 50 minutes pendant laquelle est dispensé l'enseignement ou sont organisées d'autres activités pédagogiques dans le cadre de la formation scolaire;
+
+6° capital emplois : nombre d'emplois dont dispose une école;
+
+7° chef d'établissement : directeur ou instituteur en chef d'une école fondamentale;
+
+8° programme d'études : grille-horaire hebdomadaire et plans d'études dans l'enseignement primaire.
+
+## CHAPITRE II. - Conditions d'admission.
+
+### Section 1. - Disposition préliminaire.
+
+##### Art. 4
+
+Disposition préliminaire.
+
+Les conditions d'admission suivantes sont d'application nonobstant les dispositions de la première section du chapitre IV du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires.
+
+### Section 2. - Admission en section maternelle.
+
+##### Art. 5
+
+Condition générale d'admission.
+
+Est admis en section maternelle l'enfant non encore soumis à l'obligation scolaire et qui est âgé d'au moins trois ans ou atteindra cet âge pour le 31 décembre de l'année scolaire en cours.
+
+##### Art. 5 DROIT FUTUR
+
+Condition générale d'admission.
+
+[<sup>1</sup> Est admis en section maternelle l'enfant [<sup>2</sup> qui a entre deux ans et six mois et cinq ans]<sup>2</sup>. [<sup>2</sup> Par "enfant de cinq ans", il faut entendre tout enfant qui atteindra l'âge de cinq ans au plus tard le 31 décembre de l'année calendrier au cours de laquelle l'année scolaire commence.]<sup>2</sup>
+
+Pour un enfant âgé de deux ans et six mois à trois ans, les dates suivantes s'appliquent pour l'entrée en maternelle :
+
+1° le premier jour d'école après les vacances scolaires;
+
+2° le premier jour d'école du mois de février;
+
+3° le premier jour d'école après l'Ascension.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2018-06-25/08, art. 13, 032; En vigueur : indéterminée ou 01-09-2024&gt;
+
+(2)&lt;DCG 2020-06-22/15, art. 90, 034; En vigueur : 01-09-2020&gt;
+
+##### Art. 6
+
+Inscription en section maternelle d'un élève domicilié à l'étranger.
+
+§ 1. Un enfant domicilié à l'étranger ne peut être inscrit en section maternelle.
+
+1° que lorsqu'il remplit les conditions générales d'admission fixées à l'article 5;
+
+2° que sur production d'une demande approuvée par le Ministère, dont il ressort que des circonstances personnelles particulières justifient l'inscription;
+
+3° que lorsque, le cas échéant, un droit d'inscription a été acquitté conformément à l'article 32, § 3 décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires.
+
+Par dérogation aux conditions énoncées au premier alinéa, 2° et 3°, un enfant domicilié dans le ressort d'une entité étrangère de droit public ne doit ni produire une demande approuvée par le Ministère ni acquitter un droit d'inscription si cette entité participe proportionnellement aux frais de personnel et de fonctionnement encourus par la Communauté germanophone pour cette section maternelle, à condition que cette participation fasse l'objet d'une convention écrite.
+
+§ 2. Le § 1, 1° ne s'applique pas à l'élève inscrit au registre des étrangers, au registre d'attente ou au registre de la population d'une commune belge.
+
+##### Art. 7
+
+Prolongation de la fréquentation de la section maternelle.
+
+[<sup>1</sup> Par dérogation à l'article 5, un enfant âgé de six ans peut fréquenter la section maternelle. Par "enfant de six ans", il faut entendre tout enfant qui atteindra l'âge de six ans au plus tard le 31 décembre de l'année calendrier au cours de laquelle l'année scolaire commence.]<sup>1</sup>
+
+Les personnes chargées de son éducation prennent une décision allant dans ce sens après avoir pris connaissance d'un avis motivé émis par le conseil de classe et le centre PMS compétent.
+
+Lorsqu'il s'agit d'un enfant n'ayant pas encore fréquenté la section maternelle, seul est requis l'avis d'un centre PMS.
+
+----------
+
+(1)&lt;DCG 2020-06-22/15, art. 91, 034; En vigueur : 01-09-2020&gt;
+
+### Section 3. - Admission à l'école primaire.
+
+##### Art. 8
+
+Conditions générales d'admission.
+
+Est admis à l'école primaire l'élève qui, au 31 décembre de l'année scolaire en cours, aura au moins six ans et n'aura pas plus de quinze ans.
+
+Un élève titulaire du certificat d'études de base ne peut être admis à l'école primaire.
+
+##### Art. 9
+
+&lt;DCG 2007-06-25/34, art. 46, 013; En vigueur : 01-07-2007&gt; § 1er. Un élève domicilié à l'étranger et qui remplit les conditions générales d'admission fixées à l'article 8 produit, avant de pouvoir s'inscrire à l'école primaire, une attestation délivrée par l'autorité scolaire compétente de son pays de domicile et dont il ressort qu'il peut fréquenter une école primaire en Belgique. Cette attestation ne doit être présentée que lors de la première inscription.
+
+Pour pouvoir être inscrit dans une école primaire en Communauté germanophone, l'élève domicilié à l'étranger doit de plus remplir une des conditions suivantes :
+
+1° un de ses parents occupe un emploi en Communauté germanophone [<sup>1</sup> dans le cadre d'un contrat de travail d'une durée d'au moins six mois]<sup>1</sup>;
+
+2° un frère ou une soeur de l'enfant sont déjà inscrits [<sup>1</sup> dans la même école]<sup>1</sup> en Communauté germanophone;
+
+3° il y a cas de force majeure, d'ordre pédagogique ou social, qui doit être approuvé par le Gouvernement.
+
+Pour les élèves dont le domicile relève d'une entité territoriale étrangère de droit public, les conditions d'admission reprises au deuxième alinéa ne s'appliquent pas lorsqu'il existe une convention écrite entre cette entité territoriale et la Communauté germanophone.
+
+§ 2. Le premier paragraphe ne s'applique pas à l'élève inscrit au registre des étrangers, au registre d'attente ou au registre de la population d'une commune belge.
+
+----------
+
+(1)&lt;DCG 2008-06-23/39, art. 58, 015; En vigueur : 01-07-2008&gt;
+
+##### Art. 10
+
+Entrée précoce à l'école primaire.
+
+Par dérogation à l'article 8, un enfant [<sup>1</sup> ...]<sup>1</sup> peut fréquenter l'école primaire à partir de l'année scolaire débutant l'année civile au cours de laquelle il atteint l'âge de cinq ans.
+
+Les personnes chargées de son éducation prennent une décision allant dans ce sens après avoir pris connaissance d'un avis motivé émis par le conseil de classe et le centre PMS compétent.
+
+Lorsqu'il s'agit d'un enfant n'ayant pas encore fréquenté la section maternelle, seul est requis l'avis d'un centre PMS.
+
+----------
+
+(1)&lt;DCG 2020-06-22/15, art. 92, 034; En vigueur : 01-09-2020&gt;
+
+### Section 4. - Durée de l'école primaire.
+
+##### Art. 11
+
+Disposition générale.
+
+L'élève fréquente l'école primaire pendant six années scolaires.
+
+##### Art. 12
+
+Prolongation du temps passé à l'école primaire.
+
+[<sup>1</sup> Par dérogation à l'article 11, le conseil de classe peut décider que l'élève, durant ses études primaires, recommencera une année d'études. En cas de changement d'école, cette décision est contraignante pour toutes les écoles.]<sup>1</sup>
+
+Sur proposition du conseil de classe et sur base d'un avis [<sup>1</sup> positif]<sup>1</sup> émis par le centre PMS, les personnes chargées de l'éducation peuvent décider que leur enfant [<sup>1</sup> à la fin de la scolarité primaire]<sup>1</sup> passera une 8ème année à l'école primaire.
+
+----------
+
+(1)&lt;DCG 2019-05-06/10, art. 145, 033; En vigueur : 01-09-2019&gt;
+
+##### Art. 13
+
+Réduction du temps passé à l'école primaire.
+
+Par dérogation à l'article 11 et sur avis positif du conseil de classe, les personnes chargées de l'éducation peuvent décider que le temps passé à l'école primaire par leur enfant sera réduit d'un an.
+
+### Section 5. - Elève régulier et changement d'école.
+
+##### Art. 14
+
+Elève régulier.
+
+Est considéré comme élève régulier de la section maternelle l'élève de l'enseignement maternel qui :
+
+1° remplit les conditions figurant à la section 2 du présent chapitre;
+
+2° est inscrit dans une seule et même école;
+
+3° s'il fréquente la section maternelle en application de l'article 7, est présent à l'école et participe aux activités organisées pour lui ou pour sa classe.
+
+Est considéré comme élève régulier à l'école primaire l'élève de l'enseignement primaire qui :
+
+1° remplit les conditions figurant à la section 3 du présent chapitre;
+
+2° est inscrit dans une seule et même école;
+
+3° est présent à l'école primaire et participe aux activités d'enseignement organisées pour lui ou pour sa classe.
+
+##### Art. 15
+
+[<sup>1</sup> Inscription dans une école primaire et [<sup>3</sup> changement d'école dans l'enseignement fondamental]<sup>3</sup>
+
+§ 1er. L'inscription dans une école primaire intervient au plus tard le dernier jour ouvrable précédant le début de l'année scolaire.
+
+§ 2. Un [<sup>3</sup> changement d'école dans l'enseignement fondamental]<sup>3</sup> d'année scolaire n'est autorisé qu'en cas de changement de domicile. [<sup>2</sup> Le chef d'établissement "accueillant" en informe l'[<sup>4</sup> inspection scolaire]<sup>4</sup> dès que l'élève fréquente la nouvelle école.]<sup>2</sup>.
+
+S'il n'y a pas de changement de domicile en cours d'année scolaire, les personnes chargées de l'éducation peuvent, dans des cas exceptionnels, introduire une demande motivée de changement d'une [<sup>3</sup> école fondamentale]<sup>3</sup> à une autre auprès de l'[<sup>4</sup> inspection scolaire]<sup>4</sup>. Cette demande contient l'avis émis par le chef d'établissement de l'école où devrait être inscrit l'enfant, ainsi que l'avis du chef d'établissement de l'école dont provient l'élève. L'[<sup>4</sup> inspection scolaire]<sup>4</sup> statue dans les dix jours ouvrables, les vacances scolaires n'étant pas considérées comme jours ouvrables. Au terme du délai et si l'[<sup>4</sup> inspection scolaire]<sup>4</sup> n'a pas statué, le changement d'école n'est réputé approuvé que lorsque les avis émis par les deux chefs d'établissement sont positifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2010-10-25/05, art. 33, 021; En vigueur : 01-09-2010&gt;
+
+(2)&lt;DCG 2012-01-16/06, art. 30, 023; En vigueur : 01-01-2012&gt;
+
+(3)&lt;DCG 2012-07-16/05, art. 19, 025; En vigueur : 01-09-2012&gt;
+
+(4)&lt;DCG 2012-06-25/09, art. 52, 024; En vigueur : 01-09-2013&gt;
+
+## CHAPITRE III. - Offre d'enseignement, certification et organisation de la scolarité.
+
+### Section 1. - Offre d'enseignement.
+
+#### Sous-section 1. - Section maternelle.
+
+##### Art. 16
+
+Le plan d'activités comporte obligatoirement les activités suivantes :
+
+1° [<sup>1</sup> activités dans la langue de l'enseignement et dans la première langue étrangère]<sup>1</sup> ;
+
+2° activités de psychomotricité;
+
+3° activités créatives;
+
+4° activités mathématiques et de sciences naturelles;
+
+5° activités visant l'apprentissage d'aptitudes requises dans la vie pratique [<sup>2</sup> ...]<sup>2</sup> ;
+
+[<sup>2</sup> 6° activités visant à promouvoir les compétences personnelles et sociales.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2008-06-16/36, art. 16, 016; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCG 2012-07-16/05, art. 20, 025; En vigueur : 01-09-2012&gt;
+
+#### Sous-section 2. - Ecole primaire.
+
+##### Art. 17
+
+Disciplines et domaines.
+
+L'enseignement proposé comporte obligatoirement.
+
+1° les disciplines ou domaines suivants :
+
+a) [<sup>1</sup> langue de l'enseignement;]<sup>1</sup>
+
+b) [<sup>1</sup> sport;]<sup>1</sup>
+
+c) [<sup>1</sup> musique et art;]<sup>1</sup>
+
+d) mathématiques;
+
+e) [<sup>1</sup> e) sciences et technologie;]<sup>1</sup>
+
+f) première langue étrangère;
+
+g) religion ou morale non confessionnelle[<sup>1</sup> ;]<sup>1</sup>
+
+[<sup>1</sup> h) histoire et géographie.]<sup>1</sup>
+
+2° [<sup>1</sup> Soutien des compétences transversales mentionnées à l'[<sup>2</sup> ...]<sup>2</sup> de l'article 13 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2008-06-16/36, art. 17, 016; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCG 2012-07-16/05, art. 21, 025; En vigueur : 01-09-2012&gt;
+
+### Section 2. - Certification dans l'enseignement primaire.
+
+##### Art. 18
+
+&lt;DCG 2002-12-16/44, art. 5, 007; En vigueur : 01-09-2009&gt; Certificat d'études de base.
+
+La fréquentation de l'école fondamentale est sanctionnée par la délivrance d'un certificat d'études de base.
+
+Le certificat d'études de base est délivré à l'élève régulier [<sup>1</sup> ...]<sup>1</sup> , qui maîtrise de façon suffisante les compétences attendues dans les cours " langue de l'enseignement, sport, musique et art, mathématiques, première langue étrangère, [<sup>2</sup> histoire et géographie, ainsi que sciences et technologie]<sup>2</sup> ". Pour la délivrance de ce certificat de base, une attention particulière est accordée aux disciplines " langue de l'enseignement, première langue étrangère et mathématiques. &lt;DCG 2008-06-16/36, art. 18, 016; En vigueur : 01-09-2008&gt;
+
+----------
+
+(1)&lt;DCG 2009-05-11/15, art. 173, 017; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 50, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 19
+
+Attestation de fréquentation scolaire.
+
+L'élève régulier [<sup>1</sup> ...]<sup>1</sup> qui ne reçoit pas de certificat d'études de base à la fin de sa scolarité fondamentale a droit à une déclaration écrite du chef d'établissement où sont reprises les compétences atteintes et le nombre d'années scolaires suivies.
+
+----------
+
+(1)&lt;DCG 2009-05-11/15, art. 173, 017; En vigueur : 01-09-2009&gt;
+
+##### Art. 20
+
+[<sup>1</sup> Délivrance extrascolaire du certificat d'études de base
+
+§ 1er. Le Gouvernement institue un jury d'examens pour la délivrance extrascolaire du certificat d'études de base, ci-après dénommé jury; celui-ci est chargé d'élaborer, d'organiser et de corriger les examens et de participer aux délibérations.
+
+Le jury se compose comme suit :
+
+1° un président choisi parmi les membres du personnel du département du Ministère compétent pour la pédagogie;
+
+2° au moins un membre choisi parmi les membres du personnel du département du Ministère compétent pour la pédagogie;
+
+3° au moins quatre membres choisis parmi les membres du personnel directeur et enseignant des écoles fondamentales de la Communauté germanophone en activité de service ou retraités.
+
+Pour chaque membre effectif mentionné au deuxième alinéa, il est désigné un suppléant sélectionné selon les mêmes critères.
+
+Le jury compte aussi un secrétaire et un secrétaire suppléant désignés parmi les membres du personnel du Ministère; ils n'ont pas voix délibérative.
+
+Le président veille au bon déroulement des examens et préside les délibérations.
+
+Le Gouvernement désigne les membres sur proposition de l'inspection scolaire et détermine l'indemnisation pour les membres mentionnés à l'alinéa 2, 3°.
+
+§ 2. L'appel aux examens est publié dans la presse et sous toute autre forme appropriée.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Les inscriptions se font jusqu'au 30 avril de l'année scolaire en cours par lettre recommandée adressée au président du jury par les candidats ou, pour les mineurs d'âge, par les personnes chargées de leur éducation. L'inscription sera accompagnée d'une copie de la carte d'identité.
+
+L'inscription s'effectue pour toutes les matières à examiner, fixées à l'article 18, alinéa 2. Il n'est pas accordé de dispense.
+
+Il y a une session par année scolaire, en juin. Dans des cas exceptionnels, le président peut convoquer les membres du jury à une session extraordinaire.
+
+Le président décide, en concertation avec le secrétaire, du lieu où les examens sont organisés.
+
+§ 3. Le jury vérifie si les candidats ont acquis les compétences attendues dans les disciplines et domaines mentionnés à l'article 18, alinéa 2, à l'exception des disciplines "musique et art" et "sport". L'allemand est la langue de l'enseignement et le français, la première langue étrangère.
+
+Tous les examens sont écrits, sauf la vérification de l'expression orale dans la langue de l'enseignement et la première langue étrangère. Pour les épreuves orales, il y a chaque fois deux membres du jury présents.
+
+Les examens se déroulent à huis clos.
+
+Le candidat qui n'est pas ponctuel lors d'un examen peut utiliser le temps qu'il lui reste pour présenter l'examen. Le temps imparti pour l'examen n'est pas prolongé et l'examen ne peut pas être représenté.
+
+Le candidat absent lors de l'examen ou la personne chargée de son éducation, selon le cas, introduit auprès du président un certificat médical ou une justification écrite de l'absence. En cas de justification écrite, le président statue sur sa recevabilité. En cas d'absence non excusée, le candidat est exclu des autres examens de la session.
+
+§ 4. Les examens sont corrigés et évalués par le président et l'examinateur concerné, qui s'accordent sur une note commune.
+
+Obtient le certificat d'études de base le candidat qui maîtrise de manière suffisante les compétences attendues dans chacune des disciplines faisant l'objet d'un examen. Une attention particulière est accordée aux disciplines suivantes : "langue de l'enseignement", "première langue étrangère" et "mathématiques".
+
+Le jury peut délibérer valablement si au moins la moitié des membres mentionnés au § 1er, alinéa 2, sont présents.
+
+Les décisions concernant l'attribution du certificat d'études de base sont prises à la majorité des voix émises lors des délibérations. En cas de parité des voix, la voix du président est prépondérante. Les abstentions ne sont pas admises. Ont voix délibérative le président ainsi que les examinateurs présents, mentionnés aux alinéas 2 et 3. ]<sup>1</sup>
+
+[<sup>2</sup> § 5. Un recours auprès de la chambre de recours mentionnée à l'article 38 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires et spécialisées peut être introduit contre la non-délivrance d'un certificat d'études de base, et ce, conformément à l'article 39 du même décret.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2015-06-29/19, art. 51, 028; En vigueur : 01-09-2015&gt;
+
+(2)&lt;DCG 2016-06-20/09, art. 142, 029; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCG 2018-06-18/08, art. 113, 031; En vigueur : 01-09-2018&gt;
+
+##### Art. 20.1
+
+[<sup>1</sup> - Dispense d'examen, compensation des désavantages et protection des notes en cas de délivrance extrascolaire du certificat d'études de base
+
+§ 1er. Par dérogation à l'article 20, § 2, alinéa 4, § 3, alinéa 1er, première phrase, et § 4, alinéa 2, les personnes chargées de l'éducation d'enfants nécessitant un soutien pédagogique spécialisé peuvent, lors de l'inscription aux examens, demander [<sup>3</sup> auprès du président du jury une dispense pour un, plusieurs ou l'ensemble des examens pour une durée respective de deux ans au plus, plusieurs prolongations étant possibles]<sup>3</sup>.
+
+La demande est accompagnée d'un avis émis par le centre pour le développement sain des enfants et des jeunes, de moins de six mois de date, et qui confirme que l'enfant nécessite un soutien pédagogique spécialisé et n'est pas en mesure de présenter avec fruit les examens devant le jury. L'avis est sollicité par les personnes chargées de l'éducation. Si l'avis est établi par un organisme autre que le centre de développement sain des enfants et des jeunes, les personnes chargées de l'éducation doivent le faire approuver par ledit centre.
+
+Le jury d'examens statue sur la ou les dispenses conformément à l'article 20, § 4, alinéas 3 et 4, et communique la décision par écrit aux personnes chargées de l'éducation.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Par dérogation aux § 2, alinéa 4, § 3, alinéa 1er, première phrase, et § 4, alinéa 2, les personnes chargées de l'éducation peuvent demander la compensation des désavantages et la protection des notes, telles que mentionnées aux articles 93.33 et 93.38 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires et spécialisées.
+
+Lors de l'inscription aux examens, les personnes chargées de l'éducation introduisent auprès du président du jury une demande en vue d'obtenir la compensation des désavantages ou la protection des notes. Pour ce faire, elles utilisent le formulaire de demande établi par le Gouvernement. Si cette demande est introduite après le délai d'inscription aux examens, elle est rejetée d'office.
+
+Un avis rendu par un organisme expert en la matière et correspondant à celui mentionné à l'article 93.34, § 1er, alinéas 2 et 3, du même décret du 31 août 1998, est joint à la demande visant la compensation des désavantages. Un avis rendu par un organisme expert en la matière et correspondant à celui mentionné à l'article 93.39, § 1er, alinéas 2 et 3, du même décret du 31 août 1998, est joint à la demande visant la protection des notes.
+
+L'introduction d'une demande n'ouvre aucun droit aux mesures de compensation ou à la protection des notes dans les sous-domaines recommandés dans l'avis.
+
+Les articles 93.35 et 93.40 du même décret du 31 août 1998 s'applique au jury; au lieu de "chef d'établissement" et "membres du personnel directeur, enseignant, auxiliaire d'éducation, paramédical et sociopsychologique", il faut respectivement lire "président du jury" et "membres du jury".]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-06-20/09, art. 143,§1, 029; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCG 2016-06-20/09, art. 143,§2, 029; En vigueur : 01-09-2018&gt;
+
+(3)&lt;DCG 2024-05-08/14, art. 76, 038; En vigueur : 01-09-2024&gt;
+
+##### Art. 21
+
+Modalités.
+
+Le Gouvernement règle les modalités de la délivrance scolaire et extra-scolaire de certificats d'études de base ainsi que de la délivrance des attestations de fréquentation scolaire et détermine la forme du certificat et de l'attestation.
+
+### Section 3. - Organisation de la scolarité.
+
+##### Art. 22
+
+Jour scolaire et horaire hebdomadaire.
+
+§ 1. Le chef d'établissement d'une école communautaire ou, selon le cas, le pouvoir organisateur d'une école subventionnée détermine, sur proposition du Conseil pédagogique et après concertation avec les délégués des parents d'élèves et d'une organisation des travailleurs reconnue, s'il y en a, les heures d'ouverture de l'école, l'heure de début et de fin des cours ainsi que la durée du temps de midi.
+
+Par dérogation à l'article 64 décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires, les cours sont dispensés entre 8 et 16 heures.
+
+§ 2. Les heures d'ouverture de l'école tiennent compte du transport scolaire organisé officiellement.
+
+Le matin et l'après-midi, l'école accueille les élèves quinze minutes avant le début de la première période de cours et quinze minutes après la dernière période de cours ainsi que pendant les récréations, sans préjudice du premier alinéa.
+
+Pendant les heures d'ouverture, le pouvoir organisateur assure une surveillance adéquate des élèves.
+
+§ 3. L'horaire hebdomadaire de l'élève est de 28 périodes de cours.
+
+## CHAPITRE IV. - Reconnaissance et subsidiation.
+
+### Section 1. - Reconnaissance.
+
+##### Art. 23
+
+Conditions.
+
+Une école peut être reconnue quand.
+
+1° elle est sous la responsabilité d'un pouvoir organisateur;
+
+2° elle est installée dans des locaux qui répondent aux critères d'hygiène, de sécurité et d'habitabilité;
+
+3° elle comprend une école primaire ou une école primaire et une section maternelle, structurées conformément aux dispositions décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires et du présent décret;
+
+4° elle constitue une unité pédagogique;
+
+5° elle dispose d'un matériel didactique suffisant et d'un équipement scolaire adapté;
+
+6° elle satisfait aux dispositions légales et réglementaires concernant le régime linguistique dans l'enseignement;
+
+7° elle satisfait aux dispositions relatives aux périodes de congé et de cours;
+
+8° elle suit un plan d'activités ou un programme d'études approuvé par le Gouvernement;
+
+9° elle réalise le projet de société et atteint les objectifs de développement et les [<sup>1</sup> compétences décrites dans les référentiels de compétences pour les cours de la langue de l'enseignement]<sup>1</sup> , de première langue étrangère et de mathématique;
+
+10° elle se soumet au contrôle du Ministère en ce qui concerne le respect des conditions figurant aux points 1° à 9°.
+
+11° [<sup>2</sup> elle se soumet au contrôle organisé par le décret du 25 juin 2012 relatif à l'inspection scolaire et [<sup>3</sup> , la guidance en développement scolaire et la guidance pour l'inclusion et l'intégration]<sup>3</sup>.]<sup>2</sup> &lt;DCG 2003-03-24/41, art. 9, 006; En vigueur : 24-03-2003&gt;
+
+----------
+
+(1)&lt;DCG 2008-06-16/36, art. 19, 016; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCG 2012-06-25/09, art. 53, 024; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCG 2019-05-06/10, art. 146, 033; En vigueur : 01-09-2019&gt;
+
+##### Art. 24
+
+Procédure de reconnaissance.
+
+Le Gouvernement octroie la reconnaissance. Elle vaut à partir du premier jour d'une année scolaire et ne peut être prononcée avec effet rétroactif.
+
+Le Gouvernement détermine la procédure de reconnaissance.
+
+##### Art. 25
+
+Rapport de la reconnaissance.
+
+Le Gouvernement peut rapporter la reconnaissance d'une école ou d'une implantation lorsque l'école ou l'implantation ne remplit plus une ou plusieurs conditions de l'article 23.
+
+Le Gouvernement détermine la procédure selon laquelle la reconnaissance est rapportée. La procédure prévoit suffisamment de possibilités de recours.
+
+##### Art. 26
+
+Délivrance de titres.
+
+Le pouvoir organisateur d'une école reconnue peut, de plein droit, délivrer les certificat et attestation prévus aux articles 18 et 19.
+
+### Section 2. - Subsides de fonctionnement.
+
+##### Art. 27
+
+Droit. Une école non organisée par la Communauté qui remplit les conditions de la première section du présent chapitre et du chapitre V, sections 1 à 3, ainsi que toutes les conditions du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires a droit à des subsides de fonctionnement dès le début de l'année scolaire où elle remplit ces conditions.
+
+##### Art. 28
+
+Utilisation des subsides de fonctionnement.
+
+Les subsides de fonctionnement sont utilisés.
+
+1° pour couvrir des frais de fonctionnement et d'équipement;
+
+2° pour acquérir des manuels scolaires et du matériel gratuitement mis à disposition des élèves;
+
+3° pour acheter ou louer des bâtiments, des locaux, du mobilier et des installations;
+
+4° pour supporter le coût de travaux de réparation et d'entretien ainsi que le remboursement d'emprunts contractés pour des mesures d'infrastructure.
+
+##### Art. 29
+
+Modalités de liquidation.
+
+Dès le début de l'année budgétaire, les subsides de fonctionnement sont liquidés mensuellement en douzièmes, pour le 22 de chaque mois, aux pouvoirs organisateurs.
+
+##### Art. 30
+
+&lt;DCG 2000-10-23/31, art. 11, 002; En vigueur : 01-09-1999&gt; Montant des subsides de fonctionnement
+
+§ 1er. Pour les sections maternelles, le montant des subsides de fonctionnement s'élève à (182 euros) par élève. &lt;DCG 2002-01-07/53, art. 7, 005; En vigueur : 01-09-2001&gt;
+
+Le jour de référence pour le calcul est le [<sup>3</sup> 30 septembre]<sup>3</sup>. Sont pris en considération les élèves réguliers de l'enseignement maternel qui, jusqu'à ce jour, ont été présents pendant au moins [<sup>2</sup> cinq]<sup>2</sup> jours d'école à raison de demi-journées.
+
+§ 2. Pour les écoles primaires, le montant des subsides de fonctionnement s'élève à (245 euro) par élève. &lt;DCG 2002-01-07/53, art. 8, 005; En vigueur : 01-09-2001&gt;
+
+Le jour de référence pour le calcul est le [<sup>3</sup> 30 septembre]<sup>3</sup>. Sont pris en considération les élèves réguliers de l'enseignement primaire [<sup>1</sup> ...]<sup>1</sup> , qui fréquentent une école primaire ordinaire et suivent au moins 14 périodes de cours par semaine.
+
+§ 3. Pour les surveillances du temps de midi, organisées conformément à l'article 77, § 1er, le pouvoir organisateur obtient par implantation - pour le premier groupe entamé de 75 élèves réguliers - une subvention de (8 euros) pour les surveillants titulaires d'un titre pédagogique ou de (6 euros) pour les surveillants non titulaires d'un titre pédagogique. &lt;DCG 2002-01-07/53, art. 9, 005; En vigueur : 01-09-2001&gt;
+
+Si l'école ou, selon le cas, l'implantation compte plus de 75 élèves réguliers, le pouvoir organisateur a droit pour chaque autre groupe entamé de 75 élèves réguliers à un subside supplémentaire égal aux montants fixés au premier alinéa lorsqu'il oblige des surveillants supplémentaires à assurer les surveillances du temps de midi.
+
+Le jour de référence pour le calcul est le [<sup>3</sup> 30 septembre]<sup>3</sup>. Sont pris en considération les élèves visés aux §§ 1er et 2.
+
+(Le Gouvernement peut déroger à la règle relative au nombre d'élèves réguliers, tel que visé aux alinéas 1er et 2, lorsque la surveillance ne peut être suffisamment garantie en raison de l'infrastructure d'une implantation.) &lt;DCG 2001-06-25/37, art. 10, 004; En vigueur : 01-09-2001&gt;
+
+§ 4. (Les montants des subventions de fonctionnement fixés aux §§ 1er à 3 sont adaptés annuellement au mois de septembre selon l'évolution de l'indice des prix à la consommation (indice complet).
+
+L'indice du mois de septembre 2001 (109,84) sert d'indice de base; l'indice du mois de septembre de l'année d'adaptation sert de nouvel indice.) &lt;DCG 2002-01-07/53, art. 10, 005; En vigueur : 01-09-2001&gt;
+
+----------
+
+(1)&lt;DCG 2009-05-11/15, art. 174, 017; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCG 2012-01-16/06, art. 31, 023; En vigueur : 01-01-2012&gt;
+
+(3)&lt;DCG 2015-06-29/19, art. 52, 028; En vigueur : 01-09-2015&gt;
+
+### Section 3. - Subventions-traitements.
+
+##### Art. 31
+
+Droit. § 1. Une école non organisée par la Communauté a droit, dès le début de l'année scolaire, à des subventions-traitements pour les membres du personnel des catégories " personnel directeur " et " personnel enseignant "
+
+1° lorsque l'école remplit les conditions de la première section du présent chapitre et du chapitre V, sections 1 à 3, ainsi que toutes les conditions du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires;
+
+2° lorsqu'il s'agit de membres du personnel.
+
+a) qui sont belges ou citoyens de l'Union européenne; le Gouvernement peut accorder une dérogation;
+
+b) qui jouissent des droits civils et politiques;
+
+c) qui sont titulaires d'un titre requis ou jugé suffisant en vertu des dispositions légales et réglementaires;
+
+d) dont l'état de santé ne met en danger ni celui des élèves ni celui des autres membres du personnel;
+
+e) qui satisfont aux dispositions légales et réglementaires concernant le régime linguistique dans l'enseignement;
+
+f) qui ont été recrutés ou engagés dans le respect des dispositions relatives à la réaffectation et à la remise au travail.
+
+§ 2. Les dispositions du § 1 sont également applicables aux membres du personnel de la catégorie " personnel administratif " dans l'enseignement libre subventionné.
+
+§ 3. Les subventions-traitements sont liquidées mensuellement, directement aux membres du personnel des écoles subventionnées.
+
+## CHAPITRE V. - Création, maintien et fermeture d'écoles.
+
+### Section 1. - Champ d'application des normes.
+
+##### Art. 32
+
+Champ d'application.
+
+Les normes énumérées dans le présent chapitre sont valables par école ou implantation, section linguistique et niveau d'enseignement.
+
+### Section 2. - Création.
+
+##### Art. 33
+
+&lt;DCG 2000-10-23/31, art. 12, 003; En vigueur : 01-09-2001&gt; Création d'une école primaire.
+
+§ 1er. (Sans préjudice de l'article 3 du décret du 19 avril 2004 relatif à la transmission des connaissances linguistiques et à l'emploi des langues dans l'enseignement,) une école primaire est, l'année de sa création, organisée ou subventionnée dès le premier jour de l'année scolaire si elle compte au [<sup>1</sup> 30 septembre]<sup>1</sup> au moins (75 élèves primaires réguliers [<sup>2</sup> ...]<sup>2</sup>; les élèves qui, dans la localité où se trouve leur domicile ou leur résidence habituelle, ont une école de libre choix conformément à l'article 24 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires, ne sont pris en compte que pour calculer la norme de l'école de libre choix la plus proche). &lt;DCG 2004-04-19/36, art. 51, 009; En vigueur : 01-09-2004&gt; &lt;DCG 2007-06-25/34, art. 49, 013; En vigueur : 01-01-2008&gt;
+
+Si l'école primaire n'atteint pas la norme correspondante, elle est fermée ou n'est plus subsidiée à partir [<sup>1</sup> 1er octobre]<sup>1</sup>. Dans ce cas, le pouvoir organisateur supporte les frais de traitement et de fonctionnement encourus jusqu'au [<sup>1</sup> 30 septembre]<sup>1</sup>.
+
+§ 2. Une école primaire créée conformément au § 1er doit remplir la norme de création correspondante la deuxième, la troisième et la quatrième année de son existence. Le jour de référence est chaque fois le [<sup>1</sup> 15 mars]<sup>1</sup> de l'année scolaire précédente.
+
+Si l'école primaire n'atteint pas la norme correspondante, elle est fermée ou n'est plus subsidiée à partir du premier jour de l'année scolaire en cours.
+
+----------
+
+(1)&lt;DCG 2015-06-29/19, art. 53, 028; En vigueur : 01-09-2015&gt;
+
+(2)&lt;DCG 2020-06-22/15, art. 93, 034; En vigueur : 01-09-2020&gt;
+
+##### Art. 34
+
+Création d'une section maternelle.
+
+§ 1. Une section maternelle ne peut être créée qu'en tant que niveau d'enseignement d'une école fondamentale.
+
+(Sans préjudice de l'article 3 du décret du 19 avril 2004 relatif à la transmission des connaissances linguistiques et à l'emploi des langues dans l'enseignement,) une section maternelle est, l'année de sa création, organisée ou subventionnée dès le premier jour de l'année scolaire si elle compte au [<sup>2</sup> 30 septembre]<sup>2</sup> (au moins 25 élèves; les élèves qui, dans la localité où se trouve leur domicile ou leur résidence habituelle, ont une section maternelle de libre choix conformément à l'article 24 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires, n'étant pris en compte que pour calculer la norme de la section maternelle de libre choix la plus proche). Sont pris en compte les élèves réguliers de l'enseignement maternel domiciliés en Belgique qui, [<sup>1</sup> jusqu'au [<sup>2</sup> 30 septembre]<sup>2</sup>, ont été présents dans l'école concernée pendant au moins cinq jours d'école à raison de demi-journées]<sup>1</sup>. &lt;DCG 2004-04-19/36, art. 51, 009; En vigueur : 01-09-2004&gt; &lt;DCG 2007-06-25/34, art. 35, 013; En vigueur : 01-01-2008&gt;
+
+Si la section maternelle ne remplit pas les conditions fixées aux alinéas 1 et 2, elle est fermée ou n'est plus subsidiée à partir [<sup>1</sup> du [<sup>2</sup> 1er octobre]<sup>2</sup>]<sup>1</sup>. Dans ce cas, le pouvoir organisateur supporte les frais de traitement et de fonctionnement [<sup>1</sup> jusqu'au au [<sup>2</sup> 30 septembre]<sup>2</sup>]<sup>1</sup>.
+
+§ 2. (Une section maternelle créée conformément au § 1er doit remplir la norme de création correspondante la deuxième, la troisième et la quatrième année de son existence. Sont pris en compte les élèves de l'enseignement maternel visés au § 1er qui, pendant [<sup>2</sup> le mois de mars]<sup>2</sup> de l'année scolaire précédente, ont été présents dans la section maternelle concernée pendant au moins cinq jours d'école à raison de demi-journées. [<sup>2</sup> Le jour de référence est chaque fois le 15 mars de l'année scolaire précédente.]<sup>2</sup>
+
+Si la section maternelle ne remplit pas la condition énoncée au premier alinéa, elle est fermée ou n'est plus subsidiée à partir du premier jour de l'année scolaire en cours.) &lt;DCG 2000-10-23/31, art. 13, 003; En vigueur : 01-09-2001&gt;
+
+----------
+
+(1)&lt;DCG 2012-01-16/06, art. 33, 023; En vigueur : 01-01-2012&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 54, 028; En vigueur : 01-09-2015&gt;
+
+### Section 3. - Fermeture et réouverture.
+
+##### Art. 35
+
+&lt;DCG 2007-06-25/34, art. 51, 013; En vigueur : 01-01-2008&gt; Fermeture et réouverture d'une école primaire
+
+§ 1er. [<sup>5</sup> Sans préjudice de l'article 33, une école primaire qui, le [<sup>6</sup> 30 septembre]<sup>6</sup> de l'année précédente, ne compte pas 12 élèves primaires régulièrement inscrits, sera fermée ou ne sera plus subsidiée au plus tard le [<sup>6</sup> 30 septembre]<sup>6</sup> de l'année scolaire suivante, à moins qu'elle compte à nouveau au moins 12 élèves réguliers le [<sup>6</sup> dernier jour d'école précédent le 30 septembre]<sup>6</sup> de l'année scolaire en cours. Si cette norme n'est pas atteinte, le pouvoir organisateur supportera les traitements et coûts de fonctionnement engagés jusqu'au[<sup>6</sup> 30 septembre]<sup>6</sup>]<sup>5</sup>
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+§ 2. Sans préjudice de l'article 33, une école primaire qui a été fermée ou n'a plus été subsidiée peut, à partir de la deuxième année et dans les [<sup>2</sup> trois ans]<sup>2</sup> de sa fermeture, être rouverte ou à nouveau subsidiée dès le premier jour de l'année scolaire dans la mesure où elle compte 12 élèves réguliers au [<sup>6</sup> 30 septembre]<sup>6</sup>
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+Si l'école primaire n'atteint pas cette norme, elle est fermée ou n'est plus subsidiée, selon le cas. Le pouvoir organisateur supportera alors les traitements et coûts de fonctionnement engagés jusqu'[<sup>5</sup> au [<sup>6</sup> 30 septembre]<sup>6</sup>]<sup>5</sup>.
+
+[<sup>1</sup> § 3. Comptent pour les nombres minimaux d'élèves mentionnés au § 1, alinéa 1 et au § 2, alinéa 1, [<sup>3</sup> les élèves qui sont domiciliés depuis trois mois au moins en région de langue allemande, et ce dans l'une des localités suivantes]<sup>3</sup> :
+
+1\. dans la localité où se situe l'école concernée, ou
+
+2\. dans une autre localité, si la localité du domicile ne possède aucune école à pédagogie nouvelle au sens de l'article 24 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires et spéciales, ou
+
+3\. dans une autre localité, s'il y a, dans cette autre localité, une école qui n'est pas l'école à pédagogie nouvelle la plus proche aux termes de l'article 24 du même décret du 31 août 1998 [<sup>4</sup> , dans ce cas, les élèves ne sont pris en compte que pour calculer la norme de l'école de libre choix la plus proche]<sup>4</sup>.]<sup>1</sup>
+
+[<sup>3</sup> La durée de trois mois mentionnée au premier alinéa peut être réduite lorsque l'élève, au plus tard le [<sup>6</sup> 30 septembre]<sup>6</sup> de l'année scolaire en cours, est domicilié dans l'une des localités mentionnées au premier alinéa et qu'un de ses parents remplit l'une des conditions suivantes :
+
+1° il a, depuis au moins 12 mois, introduit auprès de l'administration communale une demande de permis de bâtir son propre logement dans la localité concernée;
+
+2° il produit un titre de propriété pour son propre logement situé dans la localité en question.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCG 2009-05-25/27, art. 81, 018; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCG 2010-06-28/08, art. 62, 020; En vigueur : 01-09-2010&gt;
+
+(3)&lt;DCG 2010-10-25/05, art. 34, 021; En vigueur : 01-09-2009&gt;
+
+(4)&lt;DCG 2011-06-27/03, art. 64, 022; En vigueur : 01-09-2011&gt;
+
+(5)&lt;DCG 2012-01-16/06, art. 34, 023; En vigueur : 01-01-2012&gt;
+
+(6)&lt;DCG 2015-06-29/19, art. 55, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 36
+
+&lt;DCG 2007-06-25/34, art. 52, 013; En vigueur : 01-01-2008&gt; Fermeture et réouverture d'une section maternelle
+
+§ 1er. [<sup>3</sup> Une section maternelle qui, le [<sup>4</sup> 30 septembre]<sup>4</sup> de l'année scolaire précédente, ne compte pas 6 élèves, sera fermée ou ne sera plus subsidiée au plus tard le [<sup>4</sup> 30 septembre]<sup>4</sup> de l'année scolaire suivante, à moins qu'elle compte à nouveau au moins 6 élèves réguliers le [<sup>4</sup> dernier jour d'école précédant le 30 septembre]<sup>4</sup>. Si cette norme n'est pas atteinte, le pouvoir organisateur supportera les traitements et coûts de fonctionnement engagés jusqu'au [<sup>4</sup> 30 septembre]<sup>4</sup>]<sup>3</sup>
+
+[<sup>2</sup> Sont pris en compte les élèves réguliers de l'enseignement maternel qui [<sup>3</sup> jusqu'au [<sup>4</sup> 30 septembre]<sup>4</sup>]<sup>3</sup> ont été présents pendant au moins cinq jours d'école à raison de demi-journées.]<sup>2</sup>
+
+§ 2. Sans préjudice de l'article 34, une section maternelle qui a été fermée ou n'a plus été subsidiée peut, à partir de la deuxième année et dans les [<sup>1</sup> trois ans]<sup>1</sup> de sa fermeture, être rouverte ou à nouveau subsidiée dès le premier jour de l'année scolaire dans la mesure où elle compte 6 élèves le [<sup>4</sup> 30 septembre]<sup>4</sup>-3.
+
+Si la section maternelle ne remplit pas la condition énoncée au premier alinéa, elle est fermée ou n'est plus subsidiée, selon le cas. Le pouvoir organisateur supportera alors les traitements et coûts de fonctionnement engagés jusqu'[<sup>3</sup> au [<sup>4</sup> 30 septembre]<sup>4</sup>]<sup>3</sup>.
+
+[<sup>2</sup> Sont pris en compte les élèves réguliers de l'enseignement maternel qui, jusqu'[<sup>3</sup> au [<sup>4</sup> 30 septembre]<sup>4</sup>, ont été présents pendant au moins cinq jours d'école]<sup>3</sup> à raison de demi-journées.]<sup>2</sup>
+
+[<sup>2</sup> § 2.1. Sont pris en considération pour la norme mentionnée aux § 1er, alinéa 1er, et § 2, alinéa 1er, les élèves de l'enseignement maternel qui sont domiciliés depuis trois mois au moins en région de langue allemande, et ce dans l'une des localités suivantes :
+
+1° dans la localité où se situe l'école concernée, ou
+
+2° dans une autre localité, si cette localité ne compte pas d'école de libre choix conformément à l'article 24 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires et spécialisées, ou
+
+3° dans une autre localité, si cette localité compte une école qui n'est pas l'école de libre choix la plus proche conformément à l'article 24 du même décret du 31 août 1998; dans ce cas, les élèves de l'enseignement maternel ne sont pris en compte que pour calculer la norme de l'école de libre choix la plus proche.
+
+La durée de trois mois mentionnée au premier alinéa peut être réduite lorsque l'élève de l'enseignement maternel, au plus tard le [<sup>3</sup> [<sup>4</sup> 30 septembre]<sup>4</sup>]<sup>3</sup> de l'année scolaire en cours, est domicilié dans l'une des localités mentionnées au premier alinéa et qu'un parent de cet élève remplit l'une des conditions suivantes :
+
+1° il a introduit une demande de permis de bâtir son propre logement depuis au moins douze mois dans la localité concernée;
+
+2° il peut produire un titre de propriété pour son propre logement situé dans la localité en question.]<sup>2</sup>
+
+§ 3. Par dérogation au [<sup>2</sup> § 2.1, alinéa 1er,]<sup>2</sup> sont également pris en considération les élèves dont le domicile relève d'une entité territoriale belge ou étrangère de droit public, si cette entité territoriale participe proportionnellement aux frais de personnel et de fonctionnement engendrés pour la Communauté germanophone par cette section maternelle, à condition que cette participation fasse l'objet d'une convention écrite.
+
+----------
+
+(1)&lt;DCG 2010-06-28/08, art. 63, 020; En vigueur : 01-09-2010&gt;
+
+(2)&lt;DCG 2011-06-27/03, art. 66, 022; En vigueur : 01-09-2011&gt;
+
+(3)&lt;DCG 2012-01-16/06, art. 35, 023; En vigueur : 01-01-2012&gt;
+
+(4)&lt;DCG 2015-06-29/19, art. 56, 028; En vigueur : 01-09-2015&gt;
+
+### Section 4. - [<sup>1</sup> Fusion, restructuration et regroupement]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2012-07-16/05, art. 22, 025; En vigueur : 01-09-2012&gt;
+
+#### Sous-section 1. - Fusion.
+
+##### Art. 37
+
+Définition.
+
+Une fusion d'écoles peut revêtir les formes suivantes :
+
+1° la fusion de deux ou plusieurs écoles fermées simultanément en une nouvelle école placée sous la direction d'un chef d'établissement;
+
+2° la fusion de deux ou plusieurs écoles en une école placée sous la direction d'un chef d'établissement, l'une des écoles continuant d'exister et reprenant une ou plusieurs autres écoles.
+
+##### Art. 38
+
+Modalités de la fusion.
+
+§ 1. (Chaque école peut fusionner avec une ou plusieurs autres. Une fusion d'écoles entre en vigueur le premier jour de l'année scolaire sans effet rétroactif.) &lt;DCG 2000-10-23/31, art. 16, 003; En vigueur : 01-09-2001&gt;
+
+Pour l'application de la section 2 du présent chapitre, une école résultant d'une fusion ne vaut pas comme école nouvellement fondée.
+
+§ 2. En cas de fusion d'écoles, le Gouvernement peut déroger annuellement et pour quatre années scolaires au plus aux dispositions du chapitre VI. La dérogation ne peut toutefois avoir pour conséquence que le capital emplois dépasse celui déterminé en application du chapitre VI pour les écoles concernées par la fusion au cours de l'année scolaire précédant celle-ci.
+
+#### Sous-section 2. - Restructuration.
+
+##### Art. 39
+
+Principe. Les pouvoirs organisateurs peuvent, dans les limites de la commune où elle(s) est (sont) située(s), " restructurer " une ou plusieurs de leurs écoles existant au jour de l'entrée en vigueur du présent décret. Les normes de création fixées aux articles 33 et 34 ne sont pas d'application.
+
+##### Art. 40
+
+Conditions.
+
+Une restructuration peut être opérée aux conditions suivantes :
+
+1° [<sup>1</sup> elle ne peut entraîner une augmentation du nombre d'écoles ou d'implantations existant au jour d'entrée en vigueur du présent décret, sauf accord du Gouvernement;]<sup>1</sup>
+
+2° les normes figurant aux [<sup>2</sup> articles 35, § 1er]<sup>2</sup>, alinéa 1 et 36, § 1, alinéa 1 doivent être atteintes.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2008-06-23/39, art. 59, 015; En vigueur : 01-04-2008&gt;
+
+(2)&lt;DCG 2010-10-25/05, art. 35, 021; En vigueur : 01-09-2010&gt;
+
+#### Sous-section 3. [<sup>1</sup> - Regroupement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/05, art. 23, 025; En vigueur : 01-09-2012&gt;
+
+##### Art. 40.1
+
+[<sup>1</sup> - Définition.
+
+Il y a regroupement sur base pédagogique commune lorsque des écoles ayant des formes scolaires différentes décident de fusionner pour créer un campus commun, et ce moyennant l'accord du ou des pouvoirs organisateurs, selon le cas, et l'approbation du Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/05, art. 23, 025; En vigueur : 01-09-2012&gt;
+
+##### Art. 40.2
+
+[<sup>1</sup> - Modalités relatives au regroupement.
+
+En cas de regroupement d'écoles sur base pédagogique commune, le Gouvernement peut déroger chaque année aux dispositions du chapitre VI pour une durée de quatre ans au plus. La dérogation ne peut toutefois avoir pour conséquence que le capital emploi dépasse celui qui, l'année scolaire précédant le regroupement, a été déterminé en application du chapitre VI pour chaque école concernée avant le regroupement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/05, art. 23, 025; En vigueur : 01-09-2012&gt;
+
+##### Art. 41
+
+Entrée en vigueur.
+
+La restructuration entre en vigueur au premier jour d'une année scolaire et non rétroactivement.
+
+## CHAPITRE VI. - Calcul du nombre d'emplois.
+
+### Section 1. - Direction d'école et personnel administratif.
+
+#### Sous-section 1. - Principe.
+
+##### Art. 42
+
+Chef d'établissement.
+
+§ 1. Un emploi de chef d'établissement est organisé ou subventionné par école.
+
+Suivant le nombre d'élèves, le chef d'établissement est libéré en tout ou partie de sa charge professorale. A cet effet, le pouvoir organisateur obtient, pour l'école concernée et d'après le nombre d'élèves, le nombre d'emplois suivant :
+
+[<sup>3</sup> 1° de 50 à 99 élèves : deux quarts d'emploi;
+
+2° de 100 à 149 élèves : trois quarts d'emploi;
+
+3° à partir de 150 élèves : un emploi à temps plein. ]<sup>3</sup>
+
+4° [<sup>3</sup> ...]<sup>3</sup>.
+
+(Par dérogation à l'alinéa 2, un chef d'établissement est totalement libéré de sa charge d'enseignement et le pouvoir organisateur obtient un emploi à temps plein lorsque l'école compte au moins [<sup>1</sup> 125]<sup>1</sup> élèves et regroupe au moins 3 implantations.) &lt;DCG 2005-06-06/32, art. 15, 011; En vigueur : 01-09-2005&gt;
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2011-06-27/03, art. 65, 022; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCG 2021-06-28/11, art. 213, 035; En vigueur : 01-09-2021&gt;
+
+(3)&lt;DCG 2023-06-26/12, art. 102, 037; En vigueur : 01-09-2023&gt;
+
+##### Art. 43
+
+Correspondant-comptable.
+
+Pour une école organisée par la Communauté germanophone ou une école libre subventionnée qui ne se situe pas dans une implantation d'une école secondaire ou supérieure du même pouvoir organisateur, le pouvoir organisateur obtient d'après le nombre d'élèves le nombre d'emplois suivant pour la fonction de correspondant-comptable.
+
+1° jusqu'à 49 élèves : 1/4 d'emploi;
+
+2° de 50 à 149 élèves : 2/4 d'emploi;
+
+3° de 150 à 249 élèves : 3/4 d'emploi;
+
+4° [<sup>1</sup> de 250 à 429 élèves]<sup>1</sup> : 1 emploi à temps plein [<sup>1</sup> ;]<sup>1</sup>
+
+[<sup>1</sup> 5° à partir de 430 élèves : un emploi et demi à temps plein.]<sup>1</sup>
+
+[<sup>1</sup> Pour une école fondamentale organisée par la Communauté germanophone ou une école fondamentale libre subventionnée qui se situe dans une implantation d'une école secondaire du même pouvoir organisateur mais pas au même endroit que l'école secondaire, le pouvoir organisateur obtient d'après le nombre d'élèves le nombre d'emplois suivant pour la fonction de correspondant-comptable :
+
+1° jusqu'à 199 élèves : 1/4 d'emploi;
+
+2° à partir de 200 élèves : 1/2 emploi.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2014-05-05/12, art. 37, 027; En vigueur : 01-09-2014&gt;
+
+#### Sous-section 2. - Base de calcul.
+
+##### Art. 44
+
+Principe. Le calcul du capital emplois s'effectue par école.
+
+(Le jour de référence pour le calcul est le [<sup>1</sup> 15 mars]<sup>1</sup> de l'année scolaire précédente.) &lt;DCG 2000-10-23/31, art. 17, 003; En vigueur : 01-09-2001&gt;
+
+----------
+
+(1)&lt;DCG 2015-06-29/19, art. 57, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 45
+
+&lt;DCG 2000-10-23/31, art. 18, 003; En vigueur : 01-09-2001&gt; Mode de calcul
+
+Les élèves suivants sont additionnés :
+
+1° les élèves réguliers de l'enseignement maternel qui, [<sup>1</sup> pendant le mois de mars]<sup>1</sup>, ont été présents pendant au moins cinq jours d'école à raison de demi-journées;
+
+2° les élèves réguliers de l'enseignement primaire;
+
+3° (...) &lt;DCG 2004-05-17/49, art. 27, 010; En vigueur : 01-05-2004&gt;
+
+----------
+
+(1)&lt;DCG 2015-06-29/19, art. 58, 028; En vigueur : 01-09-2015&gt;
+
+#### Sous-section 3. - Utilisation du capital emplois.
+
+##### Art. 46
+
+Durée d'application.
+
+Le capital emplois déterminé conformément aux articles 42 à 45 est disponible pour l'année scolaire en cours.
+
+##### Art. 47
+
+Utilisation.
+
+Le capital emplois visé aux articles 42 à 45 est utilisé dans l'école dont le nombre d'élèves donne droit à ces emplois.
+
+### Section 2. [<sup>1</sup> Section 2 - Coordination administrative et projets pédagogiques ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2024-05-08/14, art. 77, 038; En vigueur : 01-09-2024&gt;
+
+#### Sous-section 1. - Principe.
+
+##### Art. 48
+
+[<sup>1</sup> Coordination administrative
+
+§ 1er - Pour les tâches de coordination administrative, le pouvoir organisateur obtient, pour l'ensemble de ses écoles fondamentales et d'après le nombre total d'élèves, le nombre d'emplois suivant dans la fonction de secrétaire en chef :
+
+1° jusqu'à 100 élèves : un quart d'emploi;
+
+2° de 101 à 200 élèves : deux quarts d'emploi;
+
+3° de 201 à 300 élèves : trois quarts d'emploi;
+
+4° de 301 à 400 élèves : un emploi à temps plein;
+
+5° pour tout nouveau groupe entamé de 100 élèves : un quart d'emploi supplémentaire.
+
+Le pouvoir organisateur détermine le ou les lieux d'affectation du secrétaire en chef. Dans le respect du temps de travail hebdomadaire mentionné à l'article 73, le pouvoir organisateur peut répartir le capital emplois entre plusieurs membres du personnel lors de la désignation ou de l'engagement à titre temporaire ainsi que lors de la nomination ou de l'engagement à titre définitif. "
+
+§ 2 - Si le pouvoir organisateur obtient, conformément au § 1er, un emploi à temps plein pour les tâches de coordination administrative, il peut, avec l'accord du Gouvernement, utiliser jusqu'à un tiers du capital emplois obtenu en vertu du § 1er pour concrétiser des projets dans le domaine du développement scolaire ou de la pédagogie. Toute utilisation du même capital emplois pour l'organisation de l'enseignement est exclue.
+
+Aux fins de l'alinéa 1er, le pouvoir organisateur introduit, avant le 31 mai, auprès du Gouvernement une demande reprenant une description des projets dont il envisage la concrétisation l'année scolaire suivante, ainsi que le nombre d'emplois qui seront affectés à ladite concrétisation de ces projets. Le Gouvernement statue sur la demande avant le 15 juillet de la même année [<sup>2</sup> ...]<sup>2</sup>.
+
+En cas d'acceptation de la demande, les emplois pouvant être affectés aux projets sont ajoutés au capital emplois mentionné à la section 3 du présent chapitre.
+
+[<sup>2</sup> Une utilisation du capital emplois pour des projets dans le domaine du développement scolaire ou de la pédagogie conformément à l'alinéa 1er ne peut entrainer la mise en disponibilité par défaut d'emploi de membres du personnel occupant la fonction de secrétaire en chef.]<sup>2</sup>
+
+§ 3 - Une école qui a reçu, en application de l'article 43, des emplois dans la fonction de correspondant-comptable peut utiliser, pour cette fonction, en tout ou partie les emplois lui octroyés par le pouvoir organisateur dans la fonction de secrétaire en chef.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2018-06-18/08, art. 114, 031; En vigueur : 01-07-2018&gt;
+
+(2)&lt;DCG 2025-06-30/15, art. 64, 039; En vigueur : 31-05-2025&gt;
+
+##### Art. 48.1
+
+[<sup>1</sup> (Antérieurement 48bis.) Projets dans les écoles fondamentales.
+
+Suivant le nombre total d'élèves, le pouvoir organisateur obtient - pour l'ensemble de ses écoles fondamentales - le nombre d'emplois suivant pour mener des projets pédagogiques :
+
+1° de 1 à 599 élèves : 1/4 d'emploi;
+
+2° de 600 à 899 élèves : 2/4 d'emploi;
+
+3° de 900 à 1 199 élèves : 3/4 d'emploi;
+
+4° de 1 200 à 1 499 élèves : 4/4 d'emploi;
+
+5° de 1 500 à 1 799 élèves : 5/4 d'emploi.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2010-04-19/17, art. 15, 019; En vigueur : 01-01-2010&gt;
+
+#### Sous-section 2. - Base de calcul.
+
+##### Art. 49
+
+Principe.
+
+(Le calcul du capital emplois s'effectue [<sup>4</sup> pour l'ensemble des écoles fondamentales d'un pouvoir organisateur ]<sup>4</sup>.) &lt;DCG 2004-05-17/49, art. 29, 010; En vigueur : 01-05-2004&gt;
+
+(Le jour de référence pour le calcul est le [<sup>2</sup> 15 mars]<sup>2</sup> de l'année scolaire précédente.) &lt;DCG 2000-10-23/31, art. 19, 003; En vigueur : 01-09-2001&gt;
+
+----------
+
+(1)&lt;DCG 2013-06-24/47, art. 121, 026; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCG 2015-06-29/19, art. 59, 028; En vigueur : 01-09-2015&gt;
+
+(4)&lt;DCG 2024-05-08/14, art. 78, 038; En vigueur : 01-09-2024&gt;
+
+##### Art. 50
+
+&lt;DCG 2000-10-23/31, art. 20, 003; En vigueur : 01-09-2001&gt; Mode de calcul
+
+Les élèves suivants sont additionnés :
+
+1° les élèves réguliers de l'enseignement maternel qui, [<sup>1</sup> pendant le mois de janvier et jusqu'au 15 mars]<sup>1</sup>, ont été présents pendant au moins cinq jours d'école à raison de demi-journées;
+
+2° les élèves réguliers de l'enseignement primaire;
+
+3° (...) &lt;DCG 2004-05-17/49, art. 30, 010; En vigueur : 01-05-2004&gt;
+
+----------
+
+(1)&lt;DCG 2015-06-29/19, art. 60, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 50bis
+
+&lt;Inséré par DCG 2003-06-30/32, art. 12; En vigueur : 01-09-2003 et vaut pour les années scolaires 2003-2004 et 2004-2005&gt; Limitation
+
+Le capital emplois déterminé conformément aux articles 48, 49 et 50 n'excède pas le capital emplois déterminé sur la base du nombre d'élèves au 31 janvier 2002.
+
+#### Sous-section 3. - Utilisation du capital emplois.
+
+##### Art. 51
+
+&lt;DCG 2003-06-30/32, art. 13, 008; En vigueur : 01-09-2003 et vaut pour les années scolaires 2003-2004 et 2004-2005&gt; Durée d'utilisation
+
+Le capital emplois déterminé conformément aux articles 48 à 50bis est disponible pour l'année scolaire en cours.
+
+##### Art. 52
+
+&lt;DCG 2004-05-17/49, art. 31, 010; En vigueur : 01-05-2004&gt; Utilisation
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le capital emplois déterminé [<sup>1</sup> à l'article 48 et à l'article 48bis]<sup>1</sup> est utilisé par le pouvoir organisateur dans une ou plusieurs de ses écoles.
+
+Il est ajouté au capital emplois déterminé à la section 3 du présent chapitre.
+
+----------
+
+(1)&lt;DCG 2024-05-08/14, art. 79, 038; En vigueur : 01-09-2024&gt;
+
+### Section 2bis. [<sup>1</sup> - Soutien particulier accordé aux élèves en difficulté d'apprentissage dans les écoles fondamentales ordinaires]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCG 2009-05-11/15, art. 17, 017; En vigueur : 01-09-2009&gt;
+
+#### Sous-section 1re. [<sup>1</sup> - Principe]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCG 2009-05-11/15, art. 17, 017; En vigueur : 01-09-2009&gt;
+
+##### Art. 52.1
+
+[<sup>1</sup> Diagnostic et soutien particulier dans les écoles fondamentales ordinaires.
+
+§ 1er. [<sup>2</sup> Afin de stimuler l'aptitude au diagnostic et d'élargir les compétences en pédagogie de soutien dans les écoles ordinaires, nonante quarts d'emploi sont mis à la disposition de l'enseignement ordinaire.]<sup>2</sup>
+
+§ 2. Chaque pouvoir organisateur de lenseignement fondamental ordinaire reçoit un certain nombre de quarts demploi calculé selon la formule suivante :
+
+A x B/C
+
+A= nombre de quarts demploi mis à disposition de lenseignement fondamental ordinaire conformément au § 1er.
+
+B = nombre délèves dans les écoles fondamentales ordinaires du pouvoir organisateur.
+
+C = nombre total délèves dans les écoles fondamentales ordinaires en Communauté germanophone.
+
+Si la première décimale du nombre de quarts demploi calculé est inférieure à 5, le résultat est arrondi au quart demploi inférieur. Si elle est égale ou supérieure à 5, le résultat est arrondi au quart demploi supérieur.
+
+§ 3. Les quarts demploi visés au § 1er sont mis à disposition dans les six ans suivant lentrée en vigueur du décret. Le Gouvernement fixe le moment et les modalités de leur mise à disposition.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2009-05-11/15, art. 17, 017; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCG 2013-06-24/47, art. 122, 026; En vigueur : 01-09-2013&gt;
+
+#### Sous-section 2. [<sup>1</sup> - Base de calcul]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCG 2009-05-11/15, art. 17, 017; En vigueur : 01-09-2009&gt;
+
+##### Art. 52.2
+
+[<sup>1</sup> Principe.
+
+Le calcul du capital emplois seffectue collectivement pour toutes les écoles fondamentales dun même pouvoir organisateur.
+
+Le jour de référence pour calculer le capital emplois est le [<sup>2</sup> 15 mars]<sup>2</sup> de lannée scolaire précédente.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2009-05-11/15, art. 18, 017; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 61, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 52.3
+
+[<sup>1</sup> Mode de calcul
+
+Les nombres d'élèves suivants sont additionnés :
+
+1\. les élèves réguliers de lenseignement maternel qui [<sup>2</sup> pendant le mois de mars]<sup>2</sup> ont été présents pendant au moins cinq jours décole à raison de demi-journées ;
+
+2\. les élèves réguliers de lenseignement primaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2009-05-11/15, art. 17, 017; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 62, 028; En vigueur : 01-09-2015&gt;
+
+#### Sous-section 3. [<sup>1</sup> - Utilisation du capital emplois]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCG 2009-05-11/15, art. 17, 017; En vigueur : 01-09-2009&gt;
+
+##### Art. 52.4
+
+[<sup>1</sup> Durée dutilisation.
+
+Le capital emplois calculé conformément aux articles 52.1 à 52.3 est disponible [<sup>2</sup> chaque fois pour quatre années scolaires consécutives.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2009-05-11/15, art. 17, 017; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 63, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 52.5
+
+[<sup>1</sup> Utilisation.
+
+Le pouvoir organisateur peut utiliser le capital emplois calculé conformément aux articles 52.1 à 52.3 dans une ou plusieurs de ses écoles pour :
+
+1° [<sup>2</sup> remplacer des membres du personnel qui sollicitent le congé défini à l'article 19 du décret du 11 mai 2009 relatif au Centre de pédagogie de soutien, visant l'amélioration du soutien pédagogique spécialisé dans les écoles ordinaires et spécialisées et encourageant le soutien des élèves à besoins spécifiques ou en difficulté d'adaptation ou d'apprentissage dans les écoles ordinaires et spécialisées]<sup>2</sup>
+
+2° [<sup>2</sup> occuper des membres du personnel dans la fonction de pédagogue de soutien dans l'enseignement fondamental ordinaire [<sup>3</sup> avec un maximum d'un tiers du capital emplois pouvant être utilisé pour engager des membres du personnel qui sont porteurs de l'un des titres mentionnés à l'article 7, 8°, c), de l'arrêté royal du 22 avril 1969 fixant les titres requis des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical et sociopsychologique des établissements d'enseignement gardien, primaire, spécialisé, moyen, technique, artistique et normal de l'Etat et des internats dépendant de ces établissements]<sup>3</sup>.]<sup>2</sup>
+
+Le capital emplois est ajouté au capital emplois calculé conformément à la section 3 du présent chapitre. Le capital emplois calculé conformément aux articles 52.1 à 52.3 [<sup>2</sup> peut, moyennant le respect du temps de travail hebdomadaire mentionné à l'article 76, être réparti entre plusieurs membres du personnel lors de la désignation ou de l'engagement à titre temporaire ainsi que lors de la nomination ou de l'engagement à titre définitif.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2009-05-11/15, art. 17, 017; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 64, 028; En vigueur : 01-09-2015&gt;
+
+(3)&lt;DCG 2020-06-22/15, art. 94, 034; En vigueur : 22-06-2020&gt;
+
+### Section 3. - Personnel enseignant.
+
+#### Sous-section 1. - Enseignement maternel.
+
+##### Art. 53
+
+[<sup>1</sup> Nombre d'emplois
+
+Dans l'enseignement maternel, le pouvoir organisateur obtient, en fonction du nombre d'élèves, le nombre d'emplois suivants :
+
+1° jusqu'à 19 élèves : 1 emploi à temps plein
+
+2° de 20 à 32 élèves : 2 emplois à temps plein
+
+3° de 33 à 55 élèves : 3 emplois à temps plein
+
+4° de 56 à 78 élèves : 4 emplois à temps plein
+
+5° de 79 à 100 élèves : 5 emplois à temps plein
+
+6° de 101 à 123 élèves : 6 emplois à temps plein
+
+7° de 124 à 145 élèves : 7 emplois à temps plein
+
+8° pour tout nouveau groupe entamé de 20 élèves : un emploi supplémentaire.
+
+En plus des emplois mentionnés à l'alinéa 1er, le pouvoir organisateur dans l'enseignement maternel obtient, pour l'intervention de maîtres spéciaux d'activités en langue étrangère en section maternelle, en fonction du nombre d'élèves, le nombre de périodes suivantes :
+
+1° jusqu'à 19 élèves : 1 période
+
+2° de 20 à 32 élèves : 2 périodes
+
+3° de 33 à 55 élèves : 3 périodes
+
+4° de 56 à 78 élèves : 4 périodes
+
+5° de 79 à 100 élèves : 5 périodes
+
+6° de 101 à 123 élèves : 6 périodes
+
+7° de 124 à 145 élèves : 7 périodes
+
+8° pour tout nouveau groupe entamé de 20 élèves : une période supplémentaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-06-26/12, art. 103, 037; En vigueur : 01-09-2023&gt;
+
+##### Art. 54
+
+Mode de calcul.
+
+Les règles suivantes sont valables lors du calcul :
+
+1° il y a un comptage séparé par section linguistique;
+
+2° si une école compte plusieurs implantations, les élèves des différentes implantations sont comptés distinctement par section linguistique.
+
+Par dérogation à l'alinéa 1, 2°, les élèves d'implantations séparées de moins de 2 km sont additionnés. L'on prend pour base la distance la plus courte possible mesurée par la route telle que décrite dans l'article 2, 1° de l'arrêté royal du 1er décembre 1975 portant règlement général de la police de la circulation routière, sans qu'il soit tenu compte de déviations ou de sens uniques.
+
+##### Art. 55
+
+&lt;DCG 2000-10-23/31, art. 21, 003; En vigueur : 01-09-2001&gt; Jour de référence et élèves pris en compte
+
+Le jour de référence pour le calcul est [<sup>2</sup> 15 mars]<sup>2</sup>] de l'année scolaire précédente.
+
+Sont pris en compte les élèves réguliers qui, pendant [<sup>1</sup> le mois de mars]<sup>1</sup> de l'année scolaire précédente, ont été présents pendant au moins 5 jours d'école à raison de demi-journées.
+
+----------
+
+(1)&lt;DCG 2014-05-05/12, art. 38, 027; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 65, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 56
+
+&lt;DCG 2000-10-23/31, art. 22, 003; En vigueur : 01-09-2001&gt; Nouveau calcul du capital emplois en cours d'année scolaire
+
+§ 1er. Il est procédé à un nouveau calcul du capital emplois au [<sup>4</sup> 30 septembre]<sup>4</sup>.
+
+[<sup>1</sup> Sont pris en compte les élèves réguliers qui, jusqu'au [<sup>4</sup> 30 septembre]<sup>4</sup> de l'année scolaire en cours, ont été présents pendant au moins cinq jours d'école à raison de demi-journées.]<sup>1</sup>
+
+[Par dérogation à l'alinéa 2, sont également pris en considération les élèves réguliers de maternelle dont la section maternelle a été fermée en application de l'article 36 et qui ont été nouvellement inscrits dans la section maternelle en question le [<sup>4</sup> 30 septembre]<sup>4</sup>. &lt;DCG 2007-06-25/34, art. 53, 013; En vigueur : 01-01-2008&gt;
+
+[<sup>5</sup> § 1.1 - A la demande du pouvoir organisateur, un nouveau calcul du capital emplois intervient le cinquième jour d'école du mois de janvier.
+
+Sont pris en compte les élèves réguliers de l'enseignement maternel qui, pendant le mois de décembre et jusqu'au cinquième jour d'école du mois de janvier de l'année scolaire en cours, ont été présents pendant au moins cinq jours d'école à raison de demi-journées. ]<sup>5</sup>
+
+§ 2. [<sup>2</sup> A la demande du pouvoir organisateur, une réévaluation du capital emplois intervient le cinquième jour d'école [<sup>5</sup> après les vacances de Pâques]<sup>5</sup>.]<sup>2</sup>
+
+[<sup>3</sup> Sont pris en compte les élèves réguliers qui, pendant le mois de mars et jusqu'au cinquième jour d'école [<sup>5</sup> après les vacances de Pâques]<sup>5</sup> de l'année scolaire en cours, ont été présents pendant au moins cinq jours d'école à raison de demi-journées.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCG 2012-01-16/06, art. 42, 023; En vigueur : 01-01-2012&gt;
+
+(2)&lt;DCG 2013-06-24/47, art. 123, 026; En vigueur : 01-04-2013&gt;
+
+(3)&lt;DCG 2014-05-05/12, art. 39, 027; En vigueur : 01-04-2013&gt;
+
+(4)&lt;DCG 2015-06-29/19, art. 66, 028; En vigueur : 01-09-2015&gt;
+
+(5)&lt;DCG 2023-06-26/12, art. 104, 037; En vigueur : 01-09-2023&gt;
+
+##### Art. 56bis
+
+&lt;Inséré par DCG 2003-06-30/32, art. 14; En vigueur : 01-09-2003 et vaut pour les années scolaires 2003-2004 et 2004-2005&gt; Limitation
+
+Le capital emplois déterminé conformément aux articles 53, 54, 55 et 56 n'excède pas le capital emplois déterminé sur la base du nombre d'élèves au 31 janvier 2002.
+
+Par dérogation à l'alinéa 1er, une implantation dont le nombre d'élèves au 31 janvier donne droit à au moins un demi-emploi de plus que le capital emplois déterminé au 31 janvier 2002 se voit accorder un demi-emploi supplémentaire.
+
+##### Art. 57
+
+&lt;DCG 2003-06-30/32, art. 15, 008; En vigueur : 01-09-2003 et vaut pour les années scolaires 2003-2004 et 2004-2005&gt; Durée d'utilisation
+
+§ 1er. Le capital emplois déterminé conformément aux articles 53 à 55 et 56bis est disponible pour l'année scolaire en cours.
+
+§ 2. Le capital emplois déterminé conformément aux articles [<sup>6</sup> 53, alinéa 1er]<sup>6</sup>, 54, 56, § 1er, et 56bis est disponible du [<sup>5</sup> 1er octobre]<sup>5</sup> au dernier jour de l'année scolaire en cours si le calcul donne [<sup>4</sup> au moins un emploi [<sup>6</sup> ...]<sup>6</sup> de plus]<sup>4</sup> que le capital emplois accordé au pouvoir organisateur le premier jour d'école pour l'implantation concernée.
+
+[<sup>6</sup> Le capital emplois déterminé conformément aux articles 53, alinéa 2, 54 et 56, § 1er, est disponible du 1er octobre au dernier jour de l'année scolaire en cours si le calcul donne au moins une période de plus que le capital emplois accordé au pouvoir organisateur le premier jour d'école pour l'implantation concernée.]<sup>6</sup>
+
+Par dérogation [<sup>6</sup> aux alinéas 1er et 2]<sup>6</sup>, le pouvoir organisateur peut utiliser le capital emplois visé [<sup>6</sup> aux alinéas 1er et 2]<sup>6</sup> dès le premier jour d'école. Si, en raison du nouveau calcul intervenu, le pouvoir organisateur dispose d'un nombre d'emplois inférieur à celui qu'il a organisé le premier jour d'école, ces emplois sont à sa charge.
+
+[<sup>6</sup> § 2.1 - Le capital emplois déterminé conformément aux articles 53, alinéa 1er, 54 et 56, § 1.1, est disponible du sixième jour d'école du mois de janvier au dernier jour d'école si le calcul donne au moins un emploi de plus que le capital emplois accordé au pouvoir organisateur au 1er octobre pour l'implantation concernée.
+
+Le capital emplois déterminé conformément aux articles 53, alinéa 2, 54 et 56, § 1.1, est disponible du sixième jour d'école du mois de janvier au dernier jour de l'année scolaire en cours si le calcul donne au moins une période de plus que le capital emplois accordé au pouvoir organisateur le premier jour d'école pour l'implantation concernée.]<sup>6</sup>
+
+§ 3. Le capital emplois déterminé conformément aux articles [<sup>6</sup> 53, alinéa 1er]<sup>6</sup>, 54, 56, § 2, et 56bis est disponible [<sup>6</sup> du sixième jour d'école après les vacances de Pâques]<sup>6</sup> au dernier jour d'école si le calcul donne au moins 1 emploi [<sup>6</sup> ...]<sup>6</sup> de plus que le capital emplois accordé au pouvoir organisateur [<sup>6</sup> le sixième jour du mois de janvier]<sup>6</sup> pour l'implantation concernée.
+
+[<sup>6</sup> Le capital emplois déterminé conformément aux articles 53, alinéa 2, 54 et 56, § 2, est disponible du sixième jour d'école après les vacances de Pâques au dernier jour d'école si le calcul donne au moins une période de plus que le capital emplois accordé au pouvoir organisateur le sixième jour du mois de janvier pour l'implantation concernée.]<sup>6</sup>
+
+----------
+
+(1)&lt;DCG 2009-05-25/27, art. 83, 018; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCG 2012-01-16/06, art. 43, 023; En vigueur : 01-01-2012&gt;
+
+(3)&lt;DCG 2012-07-16/05, art. 24, 025; En vigueur : 01-09-2012&gt;
+
+(4)&lt;DCG 2014-05-05/12, art. 40, 027; En vigueur : 01-09-2014&gt;
+
+(5)&lt;DCG 2015-06-29/19, art. 67, 028; En vigueur : 01-09-2015&gt;
+
+(6)&lt;DCG 2023-06-26/12, art. 105, 037; En vigueur : 01-09-2023&gt;
+
+##### Art. 57bis
+
+&lt;Abrogé par DCG 2017-06-26/09, art. 43,2°, 030; En vigueur : 01-09-2017&gt;
+
+#### Sous-section 2. - Enseignement primaire.
+
+##### Art. 58
+
+&lt;DCG 2000-10-23/31, art. 24, 003; En vigueur : 01-09-2001&gt; Nombre d'emplois
+
+D'après le nombre d'élèves, le pouvoir organisateur obtient, pour l'enseignement primaire, le nombre d'emplois suivants :
+
+<table><tr><td>Elèves</td><td>Temps pleins</td></tr><tr><td>jusque 15</td><td>1,25</td></tr><tr><td>16-20</td><td>1,5</td></tr><tr><td>21-25</td><td>2</td></tr><tr><td>26-30</td><td>2,25</td></tr></table>
+
+1/4 d'emploi supplémentaire pour tout groupe entamé de 5 élèves.
+
+##### Art. 59
+
+Mode de calcul.
+
+Les règles suivantes sont valables lors du calcul :
+
+1° il y a un comptage séparé par section linguistique;
+
+2° si une école compte plusieurs implantations, les élèves des différentes implantations sont comptés distinctement par section linguistique.
+
+Par dérogation à l'alinéa 1, 2°, les élèves d'implantations séparées de moins de 2 km sont additionnés. L'on prend pour base la distance la plus courte possible mesurée par la route telle que décrite dans l'article 2, 1° de l'arrêté royal du 1er décembre 1975 portant règlement général de la police de la circulation routière, sans qu'il soit tenu compte de déviations ou de sens uniques.
+
+##### Art. 60
+
+&lt;DCG 2000-10-23/31, art. 25, 003; En vigueur : 01-09-2001&gt; Jour de référence et élèves pris en compte
+
+Le jour de référence pour le calcul du capital emplois est le [<sup>1</sup> 15 mars]<sup>1</sup> de l'année scolaire précédente.
+
+(Sont pris en compte les élèves réguliers de l'enseignement primaire.) &lt;DCG 2004-05-17/49, art. 32, 010; En vigueur : 01-051-2004&gt;
+
+----------
+
+(1)&lt;DCG 2015-06-29/19, art. 69, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 60bis
+
+(Inséré par DCG 2000-10-23/31, art. 26; En vigueur : 01-09-2001) Nouveau calcul du capital emplois en cours d'année scolaire
+
+Il est procédé à un nouveau calcul du capital emplois le [<sup>1</sup> 30 septembre]<sup>1</sup>.
+
+(Sont pris en compte les élèves réguliers de l'enseignement primaire.) &lt;DCG 2004-05-17/49, art. 33, 010; En vigueur : 01-05-2004&gt;
+
+----------
+
+(1) &lt;DCG 2015-06-29/19, art. 70, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 60ter
+
+&lt;Inséré par DCG 2003-06-30/32, art. 16; En vigueur : 01-09-2003 et vaut pour les années scolaires 2003-2004 et 2004-2005&gt; Limitation
+
+Le capital emplois déterminé conformément aux articles 58, 59, 60 et 60bis n'excède pas le capital emplois déterminé sur la base du nombre d'élèves au 31 janvier 2002.
+
+Par dérogation à l'alinéa 1er, une implantation dont le nombre d'élèves au 31 janvier donne droit à un demi-emploi de plus que le capital emplois déterminé au 31 janvier 2002 se voit accorder un demi-emploi supplémentaire.
+
+##### Art. 61
+
+&lt;DCG 2003-06-30/32, art. 16, 008; En vigueur : 01-09-2003 et vaut pour les années scolaires 2003-2004 et 2004-2005&gt; Durée d'utilisation
+
+§ 1er. Le capital emplois déterminé conformément aux articles 58 à 60 et 60ter est disponible pour l'année scolaire en cours.
+
+§ 2. Le capital emplois déterminé conformément aux articles 58, 59, 60bis et 60ter est disponible du [<sup>1</sup> 1er octobre]<sup>1</sup> au dernier jour de l'année scolaire en cours si le calcul donne au moins 1 emploi à temps plein de plus ou de moins que le capital emplois accordé au pouvoir organisateur le premier jour d'école pour l'implantation concernée.
+
+Par dérogation à l'alinéa 1er, le pouvoir organisateur peut utiliser le capital emplois visé au premier alinéa dès le premier jour d'école. Si, en raison du nouveau calcul intervenu, le pouvoir organisateur dispose d'un nombre d'emplois inférieur à celui qu'il a organisé le premier jour d'école, ces emplois sont à sa charge.
+
+----------
+
+(1)&lt;DCG 2015-06-29/19, art. 71, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 61bis
+
+&lt;Abrogé par DCG 2017-06-26/09, art. 43,2°, 030; En vigueur : 01-09-2017&gt;
+
+#### Sous-section 3. - Dispositions communes à l'enseignement maternel et à l'enseignement primaire.
+
+##### Art. 62
+
+Solidarité et transfert de capital emplois.
+
+§ 1. (A l'exception du capital emplois déterminé conformément [<sup>2</sup> à l'article 56, § 1.1 et § 2, ]<sup>2</sup> le capital emplois déterminé conformément à la section 3 de ce chapitre peut être transféré d'une école à l'autre, d'un niveau d'enseignement à l'autre, d'une implantation à l'autre et d'une section linguistique à l'autre.) &lt;DCG 2000-10-23/31, art. 28, 003; En vigueur : 01-09-2001&gt;
+
+Le transfert d'un niveau d'enseignement à l'autre ne peut s'effectuer que par 1/4 d'emplois.
+
+Le transfert dont question aux alinéas 1 et 2 n'intervient qu'au sein de l'enseignement officiel organisé par la Communauté germanophone, de l'enseignement officiel subventionné et de l'enseignement libre subventionné par elle.
+
+§ 2. Le transfert de capital emplois ne peut entraîner la mise en disponibilité de membres du personnel par défaut d'emploi.
+
+Une nomination ou un engagement à titre définitif n'est pas autorise(e) pour un emploi ou une partie d'emploi créé(e) en application du § 1.
+
+----------
+
+(1)&lt;DCG 2014-05-05/12, art. 41, 027; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCG 2024-05-08/14, art. 80, 038; En vigueur : 01-09-2024&gt;
+
+##### Art. 63
+
+Concertation et audition.
+
+Le pouvoir organisateur ou son délégué décide de l'utilisation du capital emplois après concertation avec le personnel directeur et enseignant et après audition des associations de parents d'élèves.
+
+##### Art. 64
+
+Dispositions limitatives.
+
+Les membres du personnel de l'enseignement organisé par la Communauté germanophone qui sont admis au stage et ceux qui sont nommés à titre définitif ne peuvent être mis en disponibilité par défaut d'emploi tant que des membres du personnel temporaires occupent la même fonction dans la même école.
+
+Les membres du personnel nommés à titre définitif dans l'enseignement officiel subventionné ne peuvent être mis en disponibilité par défaut d'emploi tant que des membres du personnel temporaires occupent la même fonction auprès du même pouvoir organisateur.
+
+Les membres du personnel engagés à titre définitif dans l'enseignement libre subventionné ne peuvent être mis en disponibilité par défaut d'emploi tant que des membres du personnel temporaires occupent la même fonction dans les écoles de l'enseignement libre subventionné situées dans la même commune.
+
+Un maître de cours spéciaux dont les prestations sont comprises dans le capital emplois ne peut être mis en disponibilité par défaut d'emploi pour pouvoir engager un instituteur primaire.
+
+Un instituteur primaire ne peut être mis en disponibilité par défaut d'emploi pour pouvoir engager un maître de cours spéciaux dont les prestations sont comprises dans le capital emplois calculé conformément aux articles 58 à 60 et 68, § 4.
+
+### Section 3.1. [<sup>1</sup> - Assistant en maternelle]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2018-06-25/08, art. 14, 032; En vigueur : 01-09-2018&gt;
+
+##### Art. 64.1
+
+[<sup>1</sup> Nombre d'emplois
+
+Dans l'enseignement maternel, le pouvoir organisateur reçoit pour toutes ses écoles fondamentales le nombre d'emplois suivant pour la fonction d'assistant en maternelle, et ce, relativement au nombre total d'élèves :
+
+1\. jusqu'à 25 élèves de maternelle : 0,5 emploi à temps plein;
+
+2\. de 26 à 50 élèves de maternelle : 1 emploi à temps plein;
+
+3\. de 51 à 75 élèves de maternelle : 1,5 emploi à temps plein;
+
+4\. de 76 à 100 élèves de maternelle : 2 emplois à temps plein;
+
+5\. de 101 à 125 élèves de maternelle : 2,5 emplois à temps plein
+
+et 1/2 emploi supplémentaire pour tout groupe entamé de 25 élèves.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2018-06-25/08, art. 15, 032; En vigueur : 01-09-2018&gt;
+
+##### Art. 64.1.1
+
+[<sup>1</sup> Affectation
+
+Le pouvoir organisateur peut organiser jusqu'à 50% du capital emplois déterminé conformément à l'article 64.1 dans la fonction d'instituteur maternel, [<sup>2</sup> , dans la fonction de maître spécial d'activités en langue étrangère en section maternelle ou dans la fonction de maître spécial de musique ou de surveillant-éducateur ]<sup>2</sup>.
+
+La décision du pouvoir organisateur d'organiser le capital emplois qui a été accordé dans la fonction d'assistant en maternelle dans une autre fonction ne peut avoir pour conséquence que des membres du personnel soient mis en disponibilité par défaut d'emploi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 106, 037; En vigueur : 01-09-2023&gt;
+
+(2)&lt;DCG 2024-05-08/14, art. 81, 038; En vigueur : 01-09-2024&gt;
+
+##### Art. 64.2
+
+[<sup>1</sup> Mode de calcul
+
+Sont pris en considération pour le calcul tous les élèves de maternelle régulièrement inscrits auprès du pouvoir organisateur concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2018-06-25/08, art. 16, 032; En vigueur : 01-09-2018&gt;
+
+##### Art. 64.3
+
+[<sup>1</sup> Jour de référence et élèves de maternelle pris en compte
+
+Le jour de référence est le 15 mars de l'année scolaire précédente. Sont pris en compte les élèves réguliers de l'enseignement maternel qui, jusqu'au 15 mars de l'année scolaire précédente, ont été présents pendant au moins cinq jours d'école, à raison de demi-journées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2018-06-25/08, art. 17, 032; En vigueur : 01-09-2018&gt;
+
+##### Art. 64.4
+
+[<sup>1</sup> Nouveau calcul du capital emplois en cours d'année scolaire
+
+§ 1er - Le capital emplois est recalculé le 30 septembre.
+
+Sont pris en compte les élèves réguliers de l'enseignement maternel qui, jusqu'au 30 septembre de l'année scolaire en cours, ont été présents pendant au moins cinq jours d'école, à raison de demi-journées.
+
+Par dérogation à l'alinéa 2, sont également pris en considération les élèves réguliers de maternelle dont la section a été fermée en application de l'article 36 et qui ont été nouvellement inscrits dans celle en question le 30 septembre.
+
+[<sup>2</sup> § 1.1 - A la demande du pouvoir organisateur, un nouveau calcul du capital emplois intervient le cinquième jour d'école du mois de janvier.
+
+Sont pris en compte les élèves réguliers de l'enseignement maternel qui, pendant le mois de décembre et jusqu'au cinquième jour d'école du mois de janvier de l'année scolaire en cours, ont été présents pendant au moins cinq jours d'école à raison de demi-journées.]<sup>2</sup>
+
+§ 2 - A la demande du pouvoir organisateur, un nouveau calcul du capital emplois intervient le cinquième jour d'école [<sup>2</sup> après les vacances de Pâques]<sup>2</sup>.
+
+Sont pris en compte les élèves réguliers qui, pendant le mois de mars et jusqu'au cinquième jour d'école [<sup>2</sup> après les vacances de Pâques]<sup>2</sup> de l'année scolaire en cours, ont été présents pendant au moins cinq jours d'école, à raison de demi-journées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2018-06-25/08, art. 18, 032; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCG 2023-06-26/12, art. 107, 037; En vigueur : 01-09-2023&gt;
+
+##### Art. 64.5
+
+[<sup>1</sup> Durée d'utilisation
+
+§ 1er - Le capital emplois déterminé conformément aux articles 64.1 à 64.4 est disponible pour l'année scolaire en cours.
+
+§ 2- Le capital emplois déterminé conformément aux articles 64.1, 64.2 et 64.4, § 1er, est disponible du 1er octobre au dernier jour de l'année scolaire en cours, si le calcul donne au moins un emploi à mi-temps de plus que le capital emplois accordé au pouvoir organisateur le premier jour d'école.
+
+Par dérogation à l'alinéa 1er, le pouvoir organisateur peut utiliser le capital emplois visé au premier alinéa dès le premier jour d'école. Si, en raison du nouveau calcul, le pouvoir organisateur dispose d'un nombre d'emplois inférieur à celui qu'il a organisé le premier jour d'école, ces emplois sont à sa charge.
+
+[<sup>2</sup> § 2.1 - Le capital emplois déterminé conformément aux articles 64.1, 64.2 et 64.4, § 1.1, est disponible du sixième jour d'école du mois de janvier au dernier jour d'école de l'année scolaire en cours si le calcul donne au moins un emploi à mi-temps de plus que le capital emplois accordé au pouvoir organisateur le 1er octobre.]<sup>2</sup>
+
+§ 3 - Le capital emplois déterminé conformément aux articles 64.1, 64.2 et 64.4, § 2, est disponible du sixième jour d'école [<sup>2</sup> après les vacances de Pâques]<sup>2</sup> au dernier jour d'école de l'année scolaire en cours, si le calcul donne au moins un emploi à mi-temps de plus que le capital emplois accordé au pouvoir organisateur [<sup>2</sup> le sixième jour du mois de janvier]<sup>2</sup>.
+
+§ 4 - Le pouvoir organisateur répartit à sa guise le capital emplois entre les sections maternelles de ses implantations.
+
+Dans le respect du temps de travail hebdomadaire mentionné à l'article 75, le pouvoir organisateur peut répartir le capital emplois entre plusieurs membres du personnel lors de la désignation ou de l'engagement à titre temporaire ainsi que lors de la nomination ou de l'engagement à titre définitif.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2018-06-25/08, art. 19, 032; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCG 2023-06-26/12, art. 108, 037; En vigueur : 01-09-2023&gt;
+
+### Section 4. - Religion et morale non confessionnelle.
+
+#### Sous-section 1. - Principe.
+
+##### Art. 65
+
+Nombre hebdomadaire de périodes de cours.
+
+Chaque élève de l'enseignement primaire reçoit deux périodes de cours de religion ou de morale non confessionnelle par semaine.
+
+[<sup>1</sup> A la demande des personnes chargées de l'éducation, chaque élève de maternelle soumis à l'obligation scolaire reçoit deux périodes de cours de religion ou de morale non confessionnelle dans l'école primaire annexée.]<sup>1</sup>
+
+A cette fin, le pouvoir organisateur obtient deux périodes de cours par semaine pour chaque cours de religion ou de morale non confessionnelle organisé dans son école.
+
+----------
+
+(1)&lt;DCG 2020-06-22/15, art. 95, 034; En vigueur : 22-06-2020&gt;
+
+#### Sous-section 2. - Organisation des cours et comptabilisation des élèves.
+
+##### Art. 66
+
+Règles de calcul.
+
+Les règles de calcul énoncées à l'article 59 sont applicables à la présente sous-section.
+
+##### Art. 67
+
+&lt;DCG 2000-10-23/31, art. 29, 003; En vigueur : 01-09-2001&gt; Sans préjudice de l'article 70, § 1er, alinéas 3 et 4, le jour de référence pour compter les élèves est le [<sup>1</sup> 30 septembre]<sup>1</sup> du mois de septembre. Sont pris en compte les élèves réguliers de l'enseignement primaire.
+
+----------
+
+(1)&lt;DCG 2015-06-29/19, art. 73, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 68
+
+Droit.
+
+§ 1. Dans chaque implantation disposant d'une classe [<sup>2</sup> de primaire]<sup>2</sup> ou deux, le cours de religion et/ou de morale non confessionnelle est organisé pour chaque classe.
+
+[<sup>2</sup> Les élèves de maternelle soumis à l'obligation scolaire qui, à la demande des personnes chargées de leur éducation, suivent un cours de religion ou de morale non confessionnelle, fréquentent à cette fin l'école primaire annexée.]<sup>2</sup>
+
+§ 2. Dans chaque implantation disposant de trois classes ou plus, le nombre de cours est déterminé comme suit :
+
+<table><tr><td>jusqu'à 23 élèves . . . . . . . . . . . . . . . . 1 cours</td></tr><tr><td>de 24 à 44 élèves . . . . . . . . . . . . . . . . 2 cours</td></tr><tr><td>de 45 à 71 élèves . . . . . . . . . . . . . . . . 3 cours</td></tr><tr><td>de 72 à 94 élèves . . . . . . . . . . . . . . . . 4 cours</td></tr><tr><td>de 95 à 117 élèves . . . . . . . . . . . . . . .. 5 cours</td></tr><tr><td>de 118 à 140 élèves . . . . . . . . . . . . . . . 6 cours</td></tr><tr><td>de 141 à 163 élèves . . . . . . . . . . . . . . . 7 cours</td></tr><tr><td>de 164 à 186 élèves . . . . . . . . . . . . . . . 8 cours</td></tr><tr><td>de 187 à 209 élèves . . . . . . . . . . . . . . . 9 cours</td></tr><tr><td>de 210 à 231 élèves . . . . . . . . . . . . . . 10 cours</td></tr><tr><td>de 232 à 256 élèves . . . . . . . . . . . . . . 11 cours</td></tr></table>
+
+plus un cours par groupe entame de 25 élèves.
+
+§ 3. Pour chaque cours de religion ou de morale non confessionnelle, les élèves sont additionnés par groupe de deux années d'études successives. Il s'agit de la première et de la deuxième année, de la troisième et de la 4ème année ainsi que de la 5ème et de la 6ème année, désignées à chaque fois par le terme " degré " [<sup>1</sup> dans l'article 70]<sup>1</sup>. [<sup>2</sup> Les élèves de maternelle soumis à l'obligation scolaire qui, à la demande des personnes chargées de leur éducation, suivent un cours de religion ou de morale non confessionnelle dans l'école primaire annexée sont additionnés aux élèves du premier degré.]<sup>2</sup>
+
+§ 4. Si le cours de religion et de morale non confessionnelle est dispensé par un instituteur primaire en application de l'article 71, le nombre de cours déterminé conformément aux §§ 1 et 2 est réduit du nombre de cours assurés par l'instituteur. Ceci ne peut entraîner la mise en disponibilité de membres du personnel par défaut d'emploi.
+
+Le nombre d'heures correspondant est ajouté au capital emplois déterminé en application des articles 58 à 60. Une nomination ou un engagement à titre définitif n'est pas admis(e) pour ces heures.
+
+----------
+
+(1)&lt;DCG 2010-04-19/17, art. 16, 019; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DCG 2020-06-22/15, art. 96, 034; En vigueur : 22-06-2020&gt;
+
+##### Art. 69
+
+&lt;Abrogé par DCG 2010-04-19/17, art. 17, 019; En vigueur : 01-01-2010&gt;
+
+#### Sous-section 3. - Utilisation des périodes de cours de religion et de morale non confessionnelle.
+
+##### Art. 70
+
+Durée d'application et dispositions limitatives.
+
+§ 1er. [Le capital emplois déterminé conformément aux articles 65 à [<sup>1</sup> 68]<sup>1</sup> est disponible du [<sup>2</sup> 1er octobre]<sup>2</sup> de l'année scolaire en cours jusqu'au [<sup>2</sup> 30 septembre]<sup>2</sup> de l'année scolaire suivante.
+
+Par dérogation au premier alinéa, le pouvoir organisateur peut, dès le premier jour de l'année scolaire, organiser des cours supplémentaires de religion ou de morale non-confessionnelle en devant supporter ceux qui, en raison du calcul intervenu, ne seront plus disponibles au [<sup>2</sup> 1er octobre ]<sup>2</sup>.] &lt;DCG 2000-10-23/31, art. 30, 003; En vigueur : 01-09-2001&gt;
+
+Dès qu'un élève [<sup>3</sup> ou, selon le cas, un élève de maternelle soumis à l'obligation scolaire]<sup>3</sup> s'inscrit dans une école ou implantation à comptage séparé et que le cours de religion ou de morale confessionnelle choisi par lui n'y est pas organisé ou subventionné pour le degré dans lequel il est inscrit, deux périodes de cours de religion ou de morale non confessionnelle sont organisées ou subventionnées pour l'élève en question.
+
+Si au cours d'une année scolaire [<sup>3</sup> , aucun élève ou, selon le cas, aucun élève de maternelle soumis à l'obligation scolaire]<sup>3</sup> d'un degré particulier ne suit plus le cours de religion ou de morale non confessionnelle, le cours n'est organisé ou subventionné dans ce degré que jusqu'au dernier jour du mois au cours duquel le dernier élève est retiré du cours.
+
+§ 2. Les maîtres de religion et de morale non confessionnelle de l'enseignement organisé par la Communauté germanophone qui sont admis au stage et ceux qui sont nommés à titre définitif ne peuvent être mis en disponibilité par défaut d'emploi tant que des membres du personnel temporaires occupent la même fonction dans la même école.
+
+Les maîtres de religion ou de morale non confessionnelle nommés à titre définitif dans l'enseignement officiel subventionné ne peuvent être mis en disponibilité par défaut d'emploi tant que des membres du personnel temporaires occupent la même fonction auprès du même pouvoir organisateur.
+
+Les maîtres de religion ou de morale non confessionnelle engagés à titre définitif et agrées dans l'enseignement libre subventionné ne peuvent être mis en disponibilité par défaut d'emploi tant que des membres du personnel temporaires occupent la même fonction dans les écoles de l'enseignement libre subventionné situées dans la même commune.
+
+§ 3. Un maître de religion ne peut être mis en disponibilité par défaut d'emploi lorsqu'un instituteur primaire donne cours de religion.
+
+----------
+
+(1)&lt;DCG 2010-04-19/17, art. 18, 019; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 74, 028; En vigueur : 01-09-2015&gt;
+
+(3)&lt;DCG 2020-06-22/15, art. 97, 034; En vigueur : 22-06-2020&gt;
+
+##### Art. 71
+
+[<sup>1</sup> Utilisation.
+
+Le cours de religion peut être dispensé par un instituteur primaire moyennant l'accord de l'autorité compétente pour le culte concerné, si elle existe, du pouvoir organisateur et de l'enseignant concerné.
+
+Le cours de morale non confessionnelle peut être dispensé par un instituteur primaire moyennant son accord et celui du pouvoir organisateur.
+
+Les périodes de cours de religion et de morale non confessionnelle sont utilisées dans l'implantation dont le nombre d'élèves donne droit à ces cours.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2010-04-19/17, art. 19, 019; En vigueur : 01-01-2010&gt;
+
+## CHAPITRE VII. - Temps de travail hebdomadaire.
+
+##### Art. 72
+
+Chef d'établissement.
+
+Le chef d'établissement exerce sa fonction pendant les heures d'ouverture de l'école et le temps servant à la réalisation du projet de l'établissement.
+
+##### Art. 73
+
+[<sup>1</sup> Correspondant-comptable et [<sup>2</sup> secrétaire en chef]<sup>2</sup>
+
+Le temps de travail du correspondant-comptable et du [<sup>2</sup> secrétaire en chef]<sup>2</sup> est de 36 heures de 60 minutes]<sup>1</sup> [<sup>2</sup> Dans les faits, le secrétaire en chef preste au moins neuf heures de soixante minutes auprès d'un pouvoir organisateur.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2013-06-24/47, art. 124, 026; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCG 2018-06-18/08, art. 115, 031; En vigueur : 01-07-2018&gt;
+
+##### Art. 74
+
+Personnel enseignant.
+
+Les prestations des membres du personnel enseignant comprennent les missions fixées à l'article 97 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires.
+
+Les prestations des membres du personnel enseignant fournies au sein de l'école sont de 26 heures de 60 minutes au plus et comprennent :
+
+1° la prestation d'enseignement à fournir dans le cadre de la période de cours concernée;
+
+2° la surveillance imposée au membre du personnel par le pouvoir organisateur dans l'espace de temps déterminé à l'article 22, § 2, alinéa 2;
+
+3° la surveillance assurée volontairement et après concertation avec les délégations du personnel par le membre du personnel en dehors de l'espace de temps déterminé à l'article 22, § 2, alinéa 2;
+
+4° la surveillance du temps de midi assurée volontairement par le membre du personnel en dehors de l'espace de temps détermine à l'article 22, § 2, alinéa 2, si aucune aide financière accordée conformément à l'article 30, § 1, alinéas 3 et 4, n'est liquidée pour cette surveillance;
+
+5° d'autres prestations fournies par le membre du personnel conformément à l'article 97 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires.
+
+##### Art. 75
+
+Section maternelle.
+
+[<sup>2</sup> L'instituteur maternel, le maître spécial d'activités en langue étrangère et le maître spécial de musique dispensent]<sup>2</sup> (...) 28 périodes de cours. &lt;DCG 2006-06-26/38, art. 67, 012; En vigueur : 01-09-2007 mais 01-01-2007 pour certaines matières&gt;
+
+[<sup>1</sup> Pour l'assistant en maternelle, la durée hebdomadaire de travail est de 36 heures de 60 minutes pour un emploi à temps plein. Dans les faits, l'assistant en maternelle preste au moins neuf heures de 60 minutes par semaine auprès d'un pouvoir organisateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2018-06-25/08, art. 20, 032; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCG 2024-05-08/14, art. 82, 038; En vigueur : 08-05-2024&gt;
+
+##### Art. 76
+
+Ecole primaire.
+
+L'instituteur primaire dispense de 24 à 26 périodes de cours.
+
+[<sup>1</sup> Le maître d'éducation physique, le maître de première langue étrangère [<sup>3</sup> , le maître spécial de musique ]<sup>3</sup> et le maître de religion ou de morale non confessionnelle dispensent de 24 à 26 périodes de cours.]<sup>1</sup>
+
+[<sup>2</sup> Les prestations fournies par le pédagogue de soutien dans l'enseignement fondamental ordinaire s'élèvent, dans le cadre d'une activité à temps plein, à 38 heures de 60 minutes par semaine en moyenne. Cette moyenne est calculée sur une période de référence de quatre mois. Dans les faits, le pédagogue de soutien dans l'enseignement fondamental ordinaire preste au moins 19 heures de 60 minutes par semaine auprès d'un pouvoir organisateur.
+
+Le temps de travail hebdomadaire ne peut en aucun cas dépasser 50 heures.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2008-04-21/31, art. 114, 014; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 75, 028; En vigueur : 01-09-2015&gt;
+
+(3)&lt;DCG 2024-05-08/14, art. 83, 038; En vigueur : 08-05-2024&gt;
+
+##### Art. 77
+
+Surveillance du temps de midi.
+
+§ 1. Dans le cadre du projet d'établissement, le pouvoir organisateur peut ouvrir ses écoles pendant le temps de midi.
+
+Dans ce cas, le pouvoir organisateur est tenu d'assurer la surveillance des élèves. Il obtient un soutien financier de la part du Gouvernement.
+
+Le Gouvernement en détermine les modalités.
+
+§ 2. Par dérogation au § 1, alinéa 2, le pouvoir organisateur n'obtient aucun soutien financier pour la surveillance du temps de midi assurée par un membre du personnel enseignant dans le cadre de son temps de travail tel que déterminé à l'article 74.
+
+## CHAPITRE VIII. - Récupérations et sanctions.
+
+### Section 1. - Récupérations.
+
+##### Art. 78
+
+&lt;Abrogé par DCG 2015-06-29/19, art. 76, 028; En vigueur : 01-09-2015&gt;
+
+##### Art. 79
+
+&lt;Abrogé par DCG 2015-06-29/19, art. 76, 028; En vigueur : 01-09-2015&gt;
+
+### Section 2. - Sanctions.
+
+##### Art. 80
+
+Retenue de subsides de fonctionnement.
+
+§ 1. Sans préjudice de l'application de l'article 78, les infractions suivantes sont sanctionnées :
+
+1° la non existence d'un projet éducatif à élaborer en application de l'article 16 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires;
+
+2° la non existence d'un projet d'établissement à élaborer en application de l'article 20 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires;
+
+3° la non existence d'un règlement scolaire à élaborer en application de l'article 40 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires;
+
+4° la non création d'un Conseil pédagogique à instaurer en application de l'article 48 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires.
+
+§ 2. La sanction infligée au pouvoir organisateur auprès duquel est constatée une des infractions énoncées au § 1 prend, après avertissement durant l'infraction, la forme d'une retenue provisoire des subsides de fonctionnement non encore liquidés.
+
+Le montant de la retenue ne peut dépasser 20 % des subsides de fonctionnement que l'école dans laquelle l'infraction a été constatée doit recevoir pour l'année scolaire en cours.
+
+##### Art. 81
+
+Récupération de subsides de fonctionnement.
+
+§ 1. Sans préjudice de l'application de l'article 78, les infractions suivantes sont sanctionnées :
+
+1° le non-respect des dispositions concernant les pratiques déloyales contenues dans l'article 19, § 2 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires;
+
+2° le non-respect du principe de la gratuité d'accès à l'enseignement primaire en application de l'article 32 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires;
+
+3° le non-respect des principes d'une procédure disciplinaire contenus dans les articles 42 à 45 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires;
+
+4° le non-respect des dispositions concernant la durée d'une année scolaire ainsi que le régime des congés et vacances contenues dans les articles 57 à 60 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires;
+
+5° le non-respect des conditions d'admission des articles 5 à 13 et 15;
+
+6° les abus lors de l'utilisation des subsides de fonctionnement visés aux articles 27 à 30;
+
+7° les abus lors du comptage des élèves réguliers de l'enseignement primaire et maternel dans le contexte de la création, du maintien et de la fermeture d'écoles;
+
+8° les abus lors du calcul et de l'utilisation du capital emplois.
+
+§ 2. La sanction infligée au pouvoir organisateur auprès duquel est constatée une des infractions énoncées au § 1 prend la forme d'une récupération des subsides de fonctionnement déjà liquidés.
+
+La récupération ne peut dépasser 20 % des subsides de fonctionnement que l'école dans laquelle l'infraction a été constatée a reçus pour l'année scolaire précédente.
+
+##### Art. 82
+
+Procédure.
+
+Le Gouvernement fixe les modalités de constatation des infractions et d'application des sanctions. Cette procédure prévoit suffisamment de possibilités de recours.
+
+## CHAPITRE IX. - Dispositions abrogatoires, modificatives et transitoires.
+
+##### Art. 83
+
+§ 1. Sont abrogés :
+
+1° les articles 13, 14 et 15 des lois sur l'enseignement primaire coordonnées le 20 août 1957;
+
+2° l'article 2, alinéa 2 de la loi du 11 juillet 1969 relative à la pension de certains membres du personnel de l'enseignement de l'Etat et de l'enseignement subventionné;
+
+3° l'article 4 de la loi du 29 juin 1983 concernant l'obligation scolaire;
+
+4° le décret du 30 juin 1997 portant création, maintien, fermeture et organisation de l'enseignement fondamental ordinaire sur base d'un capital emplois, modifié par le décret du 31 août 1998;
+
+5° l'arrêté royal du 2 décembre 1969 fixant les normes de création d'emplois de correspondant-comptable et de correspondant-comptable sélectionné dans les établissements d'enseignement de l'Etat;
+
+6° l'arrêté royal du 31 août 1971 portant exécution de l'article 2 de la loi du 11 juillet 1969 relative à la pension de certains membres du personnel de l'enseignement de l'Etat et de l'enseignement subventionné;
+
+7° l'arrêté royal du 28 janvier 1971 portant exécution de l'article 2 de la loi du 11 juillet 1969 relative à la pension de certains membres du personnel de l'enseignement de l'Etat et de l'enseignement subventionné;
+
+8° l'arrêté de l'Exécutif du 12 juin 1990 fixant les normes de création d'emplois de correspondant-comptable et de correspondant-comptable sélectionné dans les établissements d'enseignement fondamental autonomes libres subventionnes dont le chef d'école n'est pas entièrement dispensé de l'enseignement.
+
+§ 2. Sont abrogés en ce qui concerne l'enseignement fondamental ordinaire :
+
+1° les articles 24, 25, 28, 35, 36, § 1, et 37 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement;
+
+2° l'article 1, § 4, 1° et 2° de la loi du 29 juin 1983 concernant l'obligation scolaire;
+
+3° le décret du 18 avril 1994 fixant le montant des subventions de fonctionnement pour l'enseignement subventionné, modifié par le décret du 4 mars 1996.
+
+§ 3. L'article 6 de la loi du 29 juin 1983 concernant l'obligation scolaire sera, en ce qui concerne l'enseignement fondamental ordinaire, abrogé à un moment fixé par le Gouvernement.
+
+##### Art. 84
+
+Disposition transitoire en vue de la délivrance du certificat d'études de base par des écoles reconnues.
+
+Jusqu'à l'entrée en vigueur de l'article 26, les écoles reconnues en application des articles 23 à 25 peuvent délivrer le certificat d'études de base visé à l'article 6 de la loi du 29 juin 1983 concernant l'obligation scolaire.
+
+##### Art. 84bis
+
+(Inséré par DCG 2000-10-23/31, art. 31; En vigueur : 01-09-2001) Disposition transitoire relative au calcul du capital emplois pour les cours de religion et de morale non-confessionnelle
+
+Pour l'année scolaire 2000-2001, c'est le capital emplois accordé pour les cours de religion et de morale non-confessionnelle au pouvoir organisateur au cours de année scolaire 1999-2000 qui est appliqué pour la période allant du premier jour de l'année scolaire au 30 septembre.
+
+##### Art. 84ter
+
+[<sup>1</sup> Par dérogation à l'article 48, § 2, alinéa 2, et aux fins d'application de l'article 48, § 2, alinéa 1er, le pouvoir organisateur introduit, avant le 30 juin 2018, auprès du Gouvernement une demande reprenant une description des projets dont il envisage la concrétisation au cours de l'année scolaire 2018-2019, ainsi que le nombre d'emplois qui y seront affectés. Le Gouvernement statue sur la demande avant le 15 juillet 2018 en se basant sur un avis de l'inspection scolaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2018-06-18/08, art. 116, 031; En vigueur : 18-06-2018&gt;
+
+##### Art. 84quater
+
+[<sup>1</sup> Disposition transitoire relative à l'octroi du capital emplois dans la fonction d'assistant en maternelle
+
+Pour l'année scolaire 2018-2019, chaque pouvoir organisateur obtient 25 % du nombre d'emplois déterminé en application de l'article 64.1, chacun obtenant au moins un emploi à temps plein, dans la mesure où l'application de l'article 64.1 donne droit à au moins un emploi à temps plein.
+
+[<sup>2</sup> Pour les années scolaires 2019-2020 à 2022-2023,]<sup>2</sup> chaque pouvoir organisateur obtient 50 % du nombre d'emplois déterminé en application de l'article 64.1, chacun obtenant au moins un emploi à temps plein, dans la mesure où l'application de l'article 64.1 donne droit à au moins un emploi à temps plein.
+
+Pour l'année scolaire [<sup>2</sup> 2023-2024]<sup>2</sup>, chaque pouvoir organisateur obtient 75 % du nombre d'emplois déterminé en application de l'article 64.1.
+
+Si le nombre d'emplois calculé conformément aux alinéas 1er à 3 n'est pas un nombre entier de quarts d'emploi, il est arrondi au quart supérieur]<sup>1</sup>
+
+[<sup>3</sup> Pour l'année scolaire 2023-2024, le pouvoir organisateur peut organiser jusqu'à 25% du capital emplois déterminé conformément à l'article 64.1 dans la fonction d'instituteur maternel, dans celle de maître spécial d'activités en langue étrangère en section maternelle ou de surveillant-éducateur.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2018-06-25/08, art. 21, 032; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCG 2020-06-22/15, art. 98, 034; En vigueur : 22-06-2020&gt;
+
+(3)&lt;DCG 2023-06-26/12, art. 109, 037; En vigueur : 01-09-2023&gt;
+
+##### Art. 84quinquies
+
+[<sup>1</sup> Disposition transitoire
+
+Par dérogation à l'article 5, les enfants qui ont entre trois et cinq ans sont admis en section maternelle du 1er septembre 2020 au 31 août 2024.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2020-06-22/15, art. 99, 034; En vigueur : 22-06-2020&gt;
+
+##### Art. 84sexies
+
+[<sup>1</sup> Disposition transitoire
+
+Par dérogation à l'article 56, § 2, alinéa 2, tous les élèves régulièrement inscrits en maternelle pour l'année scolaire 2019-2020 sont pris en compte pour recalculer le capital emplois s'ils étaient inscrits dans l'école au cinquième jour d'école du mois d'avril de l'année scolaire en cours.
+
+Par dérogation à l'article 57, § 3, le capital emplois déterminé conformément à l'alinéa 1er est disponible du premier jour suivant la suspension des cours à la suite des mesures visant à enrayer la propagation du coronavirus (COVID-19) jusqu'au dernier jour de l'année scolaire en cours, si le calcul donne au moins un quart d'emploi supplémentaire par rapport au capital emplois accordé au pouvoir organisateur le 1er octobre pour l'implantation concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2020-06-22/15, art. 100, 034; En vigueur : 21-04-2020&gt;
+
+##### Art. 84septies
+
+[<sup>1</sup> Disposition transitoire
+
+Par dérogation à l'article 64.4, § 2, alinéa 2, tous les élèves régulièrement inscrits en maternelle pour l'année scolaire 2019-2020 sont pris en compte pour recalculer le capital emplois s'ils étaient inscrits dans l'école au cinquième jour d'école du mois d'avril de l'année scolaire en cours.
+
+Par dérogation à l'article 64.5, § 3, le capital emplois déterminé conformément à l'alinéa 1er est disponible du premier jour suivant la suspension des cours à la suite des mesures visant à enrayer la propagation du coronavirus (COVID-19) jusqu'au dernier jour de l'année scolaire en cours, si le calcul donne au moins un emploi à mi-temps supplémentaire par rapport au capital emplois accordé au pouvoir organisateur le 1er octobre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2020-06-22/15, art. 101, 034; En vigueur : 21-04-2020&gt;
+
+## CHAPITRE X. - Entrée en vigueur.
+
+##### Art. 85
+
+Entrée en vigueur.
+
+Les dispositions du présent décret entrent en vigueur le 20 août 1999, à l'exception des articles 6 et 70 qui produisent leurs effets au 1er septembre 1998 et des articles 16, 17, 18, 19, 23, 9°, 26, 80, 81 et 82 qui entreront en vigueur à une date fixée par le Gouvernement.
+
+(NOTE : Entrée en vigueur des articles 80, 81 et 82 fixée le 01-09-2000 par ACG 2001-03-02/32, art. 4)
+
+(NOTE : Entrée en vigueur des articles 18 et 19 fixée au 01-09-2009 par DCG 2009-05-11/15, art. 205)
+
+(NOTE : Entrée en vigueur des articles 16, 17, 23 chiffre 9 et 26 fixée au 01-09-2009 par ACG 2010-03-11/07, art. 1, 2°)
+
+---
+
+Kondigen dit decreet af en bevelen dat het door het Belgisch Staatsblad wordt bekendgemaakt.
+
+Eupen, 26 april 1999.
+
+J. MARAITE,
+
+Minister-President van de Regering van de Duitstalige Gemeenschap, Minister van Financiën, Internationale Betrekkingen, Gezondheid, Gezin en Bejaarden, Sport en Toerisme.
+
+K.-H. LAMBERTZ,
+
+Minister van Jeugd, Vorming, Media en Sociale Aangelegenheden.
+
+W. SCHRODER,
+
+Minister van Onderwijs, Cultuur, Wetenschappelijk Onderzoek, Monumenten en Landschappen.

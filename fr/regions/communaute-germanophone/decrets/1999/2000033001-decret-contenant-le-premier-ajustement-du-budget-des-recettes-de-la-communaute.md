@@ -1,0 +1,59 @@
+---
+title: "Décret contenant le premier ajustement du budget des recettes de la Communauté germanophone pour l'année budgétaire 1999. (Traduction)."
+identifier: "2000033001"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/11/16/2000033001/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1999-11-16
+published: 2000-05-19
+entry_into_force: 1999-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/11/16/2000033001/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 16 NOVEMBRE 1999. - Décret contenant le premier ajustement du budget des recettes de la Communauté germanophone pour l'année budgétaire 1999. (Traduction).
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'article 1 du décret du 17 juin 1998 contenant le budget des recettes de la Communauté germanophone pour l'année budgétaire 1999 est remplacé par le texte suivant :
+
+" Article 1. Pour l'année budgétaire 1999, les recettes courantes de la Communauté germanophone sont évaluées à 4 011,04 millions de francs.
+
+Les recettes courantes se composent de :
+
+\- 3 677,00 millions de francs en recettes générales;
+
+\- 334,04 millions de francs en recettes affectées. "
+
+## Art. 2
+
+Ce décret entre en vigueur le 1er janvier 1999.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 16 novembre 1999.
+
+K.-H. LAMBERTZ,
+
+Ministre-Président du Gouvernement de la Communauté germanophone, Ministre de l'Emploi, de la Politique des Handicapés, des Médias et des Sports.
+
+B. GENTGES,
+
+Ministre de l'Enseignement et de la Formation, de la Culture et du Tourisme.
+
+H. NIESSEN,
+
+Ministre de la Jeunesse et de la Famille, de la Protection des Monuments, de la Santé et des Affaires sociales.
+
+## ANNEXE.
+
+## Art. N
+
+Annexe. Budget des recettes 1999. (Tableau non repris pour des raisons techniques. Voir MB 19-05-2000, p. 16582 à 16583).

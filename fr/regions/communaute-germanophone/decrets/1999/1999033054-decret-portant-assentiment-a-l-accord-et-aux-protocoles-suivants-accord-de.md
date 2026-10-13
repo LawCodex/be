@@ -1,0 +1,51 @@
+---
+title: "Décret portant assentiment à l'accord et aux protocoles suivants : Accord de coopération en matière d'astrophysique (Santa Cruz de la Palma, le 26 mai 1979); Protocole d'amendement à l'accord de coopération en matière d'astrophysique en Espagne (Santa Cruz de la Palma, le 26 mai 1979); Protocole d'amendement du protocole de coopération en matière d'astrophysique (Madrid, le 18 avril 1988); Addendum au protocole de coopération en matière de recherche astrophysique entre les Gouvernements du Royaume d'Espagne, du Royaume du Danemark, du Royaume Uni de Grande Bretagne et d'Irlande du Nord et du Royaume de Suède (Madrid, le 8 avril 1983); Protocole d'amendement à l'addendum au protocole de Coopération en matière de recherche astrophysique entre les Gouvernements du Royaume d'Espagne, du Royaume du Danemark, du Royaume Uni de Grande Bretagne et d'Irlande du Nord, du Royaume de Suède et la République fédérale d'Allemagne (Madrid, le 18 avril 1988)."
+identifier: "1999033054"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/22/1999033054/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1999-02-22
+published: 2000-01-13
+entry_into_force: 2000-01-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/22/1999033054/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 22 FEVRIER 1999. - Décret portant assentiment à l'accord et aux protocoles suivants : Accord de coopération en matière d'astrophysique (Santa Cruz de la Palma, le 26 mai 1979); Protocole d'amendement à l'accord de coopération en matière d'astrophysique en Espagne (Santa Cruz de la Palma, le 26 mai 1979); Protocole d'amendement du protocole de coopération en matière d'astrophysique (Madrid, le 18 avril 1988); Addendum au protocole de coopération en matière de recherche astrophysique entre les Gouvernements du Royaume d'Espagne, du Royaume du Danemark, du Royaume Uni de Grande Bretagne et d'Irlande du Nord et du Royaume de Suède (Madrid, le 8 avril 1983); Protocole d'amendement à l'addendum au protocole de Coopération en matière de recherche astrophysique entre les Gouvernements du Royaume d'Espagne, du Royaume du Danemark, du Royaume Uni de Grande Bretagne et d'Irlande du Nord, du Royaume de Suède et la République fédérale d'Allemagne (Madrid, le 18 avril 1988).
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. L'accord et les protocoles suivants sortiront leur plein et entier effet :
+
+Accord de coopération en matière d'astrophysique (Santa Cruz de la Palma, le 26 mai 1979);
+
+Protocole d'amendement à l'accord de coopération en matière d'astrophysique en Espagne (Santa Cruz de la Palma, le 26 mai 1979);
+
+Protocole d'amendement du protocole de coopération en matière d'astrophysique (Madrid, le 18 avril 1988);
+
+Addendum au protocole de coopération en matière de recherche astrophysique entre les Gouvernements du Royaume d'Espagne, du Royaume du Danemark, du Royaume Uni de Grande Bretagne et d'Irlande du Nord et du Royaume de Suède (Madrid, le 8 avril 1983);
+
+Protocole d'amendement à l'addendum au protocole de Coopération en matière de recherche astrophysique entre les Gouvernements du Royaume d'Espagne, du Royaume du Danemark, du Royaume Uni de Grande Bretagne et d'Irlande du Nord, du Royaume de Suède et la République fédérale d'Allemagne (Madrid, le 18 avril 1988).
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 22 février 1999.
+
+J. MARAITE,
+
+Ministre-Président, Ministre des Finances, des Relations internationales, de la Santé, de la Famille et des Personnes âgées, du Sport et du Tourisme
+
+K.-H. LAMBERTZ,
+
+Ministre de la Jeunesse, de la Formation, des Médias et des Affaires sociales
+
+W. SCHRODER,
+
+Ministre de l'Enseignement, de la Culture, de la Recherche scientifique et des Monuments et Sites

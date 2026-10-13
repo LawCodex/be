@@ -1,0 +1,57 @@
+---
+title: "Décret modifiant le décret du 16 décembre 1991 relatif à la formation et la formation continue dans les classes moyennes et les PME (TRADUCTION)."
+identifier: "2000033046"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2000/02/14/2000033046/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2000-02-14
+published: 2000-06-27
+entry_into_force: 2000-02-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2000/02/14/2000033046/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 14 FEVRIER 2000. - Décret modifiant le décret du 16 décembre 1991 relatif à la formation et la formation continue dans les classes moyennes et les PME (TRADUCTION).
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+§ 1er. Dans l'article 17, § 1, alinéa 1, du décret du 16 décembre 1991 relatif à la formation et la formation continue dans les Classes moyennes et les P.M.E., un tiret libellé comme suit est inséré après le troisième tiret :
+
+" - trois membres délégués des organisations représentatives des travailleurs ".
+
+§ 2. Dans l'article 18, § 1, le passage " par chaque association nationale professionnelle et interprofessionnelle et par chaque centre " est remplacé par " par chaque association nationale professionnelle et interprofessionnelle, par chaque centre et par chaque organisation représentative des travailleurs ".
+
+§ 3. Dans l'article 18, § 3, alinéa 3, le passage " l'association ou le centre concerné " est remplacé par " l'association, le centre ou l'organisation représentative des travailleurs concerné ".
+
+## Art. 2
+
+Dans le même décret, le terme " Exécutif " est chaque fois remplacé par " Gouvernement ".
+
+## Art. 3
+
+Le présent décret entre en vigueur le jour de son adoption.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 14 février 2000.
+
+K.-H. LAMBERTZ
+
+Ministre-Président,
+
+Ministre de l'Emploi, de la Politique des Handicapés, des Médias et des Sports
+
+B. GENTGES
+
+Ministre de l'Enseignement et de la Formation, de la Culture et du Tourisme
+
+H. NIESSEN
+
+Ministre de la Jeunesse et de la Famille, de la Protection des Monuments, de la Santé et des Affaires sociales.

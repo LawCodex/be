@@ -1,0 +1,215 @@
+---
+title: "Décret relatif à l'organisation d'un enseignement à horaire réduit dans l'enseignement secondaire professionnel ordinaire. (TRADUCTION)."
+identifier: "1996033084"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/25/1996033084/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1996-06-25
+published: 1996-10-19
+entry_into_force: 1996-09-02
+last_amended: 2018-08-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/25/1996033084/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 19-10-1996 et mise à jour au 30-08-2018"
+retrieved: 2026-10-12
+---
+
+# 25 JUIN 1996. - Décret relatif à l'organisation d'un enseignement à horaire réduit dans l'enseignement secondaire professionnel ordinaire. (TRADUCTION).
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales.
+
+### Art. 1
+
+La Communauté germanophone organise, subventionne ou reconnaît un enseignement à horaire réduit dans l'enseignement secondaire professionnel ordinaire.
+
+S'il suit un enseignement à horaire réduit, l'élève satisfait à l'obligation scolaire à temps partiel.
+
+Cet enseignement comporte à la fois des cours généraux et professionnels.
+
+L'enseignement à horaire réduit est complété par une formation pratique.
+
+## CHAPITRE II. - Les centres d'enseignement à horaire réduit.
+
+### Art. 2
+
+Sous réserve de l'article 4, l'enseignement visé à l'article 1 est dispensé dans les centres d'enseignement à horaire réduit, dénommés ci-après "centres".
+
+Un centre ne peut être créé ou subventionné que s'il remplit les conditions suivantes :
+
+1° être rattaché à un établissement d'enseignement qui, à partir du deuxième degré de l'enseignement secondaire, organise exclusivement un enseignement technique ou professionnel;
+
+2° compter au 15 novembre de l'année scolaire au moins cinq élèves régulièrement inscrits qui sont soumis à l'obligation scolaire à temps partiel.
+
+(Le Gouvernement peut, sur demande motivée, accorder une dérogation à la condition figurant à l'alinéa 2, 2°. Cette dérogation ne vaut que pour l'année scolaire en question.) &lt;DCG 1998-06-29/30, art. 37, 002; En vigueur : 01-09-1997&gt;
+
+### Art. 3
+
+§ 1. La direction du centre est assurée par le directeur de l'établissement d'enseignement auquel ce centre est rattaché.
+
+§ 2. Une commission administrative est créé dans chaque centre. Sa composition, son fonctionnement et sa compétence sont régis conformément aux articles 15, 27 et 42 des lois sur l'enseignement technique, coordonnées le 30 avril 1957.
+
+L'alinéa 1 n'est pas applicable aux centres qui sont rattachés à un établissement au sein duquel existe déjà une commission administrative.
+
+### Art. 4
+
+Pour la partie professionnelle de l'enseignement, les centres peuvent recourir aux établissements suivants :
+
+1° à toutes les écoles secondaires et à tous les instituts de promotion sociale indépendamment du pouvoir organisateur;
+
+2° aux établissements extra-scolaires de formation et de formation continue.
+
+## CHAPITRE III. - Dispositions relatives à l'organisation des études.
+
+### Art. 5
+
+L'enseignement à horaire réduit est organisé annuellement pendant 600 périodes d'une durée de 50 minutes, réparties sur au moins 20 semaines.
+
+L'enseignement à horaire réduit peut être organisé par discipline ou de façon interdisciplinaire dans le cadre d'unités et de projets de cours.
+
+### Art. 6
+
+Les personnes qui remplissent l'une des deux conditions suivantes ont accès à l'enseignement à horaire réduit en tant qu'élèves réguliers :
+
+1° être soumis à l'obligation scolaire à temps partiel et être inscrit dans l'enseignement à horaire réduit au plus tard le 15 novembre de l'année scolaire concernée;
+
+2° avoir moins de 26 ans, avoir satisfait à l'obligation scolaire, être inscrit dans l'enseignement à horaire réduit au plus tard le 15 novembre de l'année scolaire concernée et avoir conclu (l'un des cinq contrats suivants) : &lt;DCG 2007-06-25/34, art. 36, 005; En vigueur : 01-09-2007&gt;
+
+a) (une convention de premier emploi conformément à l'article 27, 2°, de la loi du 24 décembre 1999 en vue de la promotion de l'emploi.) &lt;DCG 2007-06-25/34, art. 37, 005; En vigueur : 01-09-2007&gt;
+
+b) un contrat de formation en entreprise dans le cadre de l'arrêté du Gouvernement de la Communauté germanophone du 10 septembre 1993 instaurant et réglant un système de formation en entreprise en vue de préparer l'intégration professionnelle de personnes handicapées;
+
+c) [<sup>1</sup> un contrat d'apprentissage industriel dans le cadre de la loi du 19 juillet 1983 relative au contrat d'apprentissage industriel; ]<sup>1</sup>
+
+(d) une convention d'immersion professionnelle conformément au titre IV, chapitre X de la loi-programme du 2 août 2002.) &lt;DCG 2007-06-25/34, art. 38, 005; En vigueur : 01-09-2007&gt;
+
+e) (ancien d) &lt;DCG 2007-06-25/34, art. 38, 005; En vigueur : 01-09-2007&gt; un contrat, conforme à la législation sur le travail, dans le cadre d'une formation alternée approuvée par le Gouvernement de la Communauté germanophone, à condition que le contrat ait un lien direct avec l'enseignement à horaire réduit.
+
+Nul ne peut s'inscrire à une formation au terme de laquelle est délivré un certificat d'études que la personne en question à déjà acquis dans la même orientation d'études ou dans une orientation équivalente.
+
+----------
+
+(1)&lt;DCG 2016-06-20/05, art. 68, 009; En vigueur : 01-09-2016&gt;
+
+### Art. 7
+
+A la demande motivée du directeur du centre, le gouvernement peut, en raison de circonstances exceptionnelles et au cas par cas, déroger au délai d'inscription prévu à l'article 6.
+
+### Art. 8
+
+Dans l'enseignement à horaire réduit, certains certificats d'études correspondant à ceux de l'enseignement secondaire professionnel de plein exercice sont délivrés moyennant le respect de certaines conditions. Le Gouvernement détermine de quels certificats il s'agit.
+
+S'il s'agit d'un enseignement modulaire, l'élève reçoit, pour chaque module terminé avec fruit, un certificat correspondant.
+
+L'élève qui quitte un centre reçoit une attestation mentionnant les dates de début et de fin de fréquentation de cet enseignement ainsi que les capacités acquises.
+
+Le gouvernement détermine les modèles des certificats d'études et des attestations susmentionnés.
+
+## CHAPITRE IV. - Encadrement et frais de fonctionnement.
+
+### Art. 9
+
+[<sup>1</sup> § 1er. A partir du 1er septembre de chaque année scolaire, un centre reçoit 60 périodes/professeur.
+
+Un centre obtient un emploi à temps plein [<sup>2</sup> pour la fonction de coordinateur d'un centre d'enseignement à horaire réduit]<sup>2</sup>.
+
+Pour le suivi sociopédagogique, un centre obtient deux emplois et demi de 36 heures/semaine dans la fonction d'assistant social [<sup>4</sup> ou de surveillant-éducateur]<sup>4</sup>. Le temps de présence hebdomadaire obligatoire de l'assistant social [<sup>4</sup> ou du surveillant-éducateur]<sup>4</sup> est de 36 heures de 60 minutes au moins et de 38 heures au plus.
+
+§ 2. Par dérogation au § 1er, alinéa 1er, un nouveau calcul des périodes/professeur intervient, conformément à l'alinéa 3, le dernier jour d'école du mois de septembre de l'année scolaire en cours si, à cette date, un centre compte au total au moins 20 pourcent d'élèves réguliers en plus qu'au dernier jour d'école du mois de septembre de l'année scolaire précédente. Si le résultat du nouveau calcul est supérieur à 60 périodes/professeur, les périodes sont accordées du 1er octobre au 30 juin de l'année scolaire en cours. Si le résultat du nouveau calcul est inférieur à 60 périodes/professeur, c'est le § 1er, alinéa 1er, qui s'applique.
+
+Par dérogation au § 1er, alinéa 1er, un nouveau calcul des périodes/professeur intervient, conformément à l'alinéa 3, le dernier jour d'école du mois de janvier de l'année scolaire en cours si, à cette date, un centre compte au total au moins 20 pourcent d'élèves réguliers en plus qu'au dernier jour d'école du mois de janvier de l'année scolaire précédente. Si le résultat du nouveau calcul est supérieur à 60 périodes/professeur, les périodes sont accordées du 1er février au 30 juin de l'année scolaire en cours. Si le résultat du nouveau calcul est inférieur à 60 périodes/professeur, c'est le § 1er, alinéa 1er, qui s'applique.
+
+Le nouveau calcul mentionné aux alinéas 1 et 2 s'opère comme suit :
+
+1° Pour les élèves réguliers d'un centre qui ont conclu un contrat d'apprentissage industriel dans le cadre de [<sup>3</sup> la loi du 19 juillet 1983 relative à l'apprentissage industriel]<sup>3</sup> le nombre suivant de périodes/professeur est attribué au centre dans lequel ils sont inscrits :
+
+a) en première année de formation : 15 périodes, à condition qu'au moins 4 élèves soient inscrits dans la même orientation d'études et 8 périodes pour toute autre orientation dans laquelle au moins 4 élèves sont inscrits;
+
+b) pour toutes les autres années de formation : 8 périodes supplémentaires par orientation d'études et par année de formation. Si une première année de formation n'est pas organisée, 7 périodes supplémentaires seront attribuées au total.
+
+2° Pour les élèves réguliers d'un centre auxquels le 1° n'est pas applicable, le nombre suivant de périodes/professeur est attribué au centre dans lequel ils sont inscrits :
+
+a) jusqu'à 9 élèves : 22 périodes;
+
+b) à partir de 10 élèves : 10 périodes supplémentaires pour tout groupe entamé de 7 élèves.
+
+§ 3.[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2014-05-05/12, art. 25, 006; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 33, 008; En vigueur : 01-09-2015&gt;
+
+(3)&lt;DCG 2016-06-20/05, art. 69, 009; En vigueur : 01-09-2016&gt;
+
+(4)&lt;DCG 2018-06-18/08, art. 58, 010; En vigueur : 01-09-2010&gt;
+
+### Art. 10
+
+Les élèves régulièrement inscrits dans le centre pour le 30 septembre de l'année scolaire concernée sont pris en considération avec un coefficient de 0,5 pour le calcul des emplois du personnel directeur, auxiliaire d'éducation et administratif de l'école secondaire dans laquelle le centre d'enseignement à horaire réduit a son siège.
+
+Les périodes organisées le 30 septembre dans la partie professionnelle de l'enseignement à horaire réduit sont prises en considération pour le calcul des emplois de chef d'atelier.
+
+### Art. 11
+
+Un horaire complet de professeur dans l'enseignement à horaire réduit comprend le même nombre de périodes par semaine que celui exigé pour la fonction de professeur de cours généraux ayant un horaire complet dans l'enseignement secondaire supérieur de plein exercice.
+
+La position administrative et pécuniaire des enseignants du centre est réglée conformément aux dispositions applicables aux professeurs qui exercent leurs fonctions dans l'enseignement secondaire supérieur ordinaire de plein exercice.
+
+Les membres du personnel chargés de l'encadrement socio-pédagogique sont désignés et rémunérés en qualité d'assistant social [<sup>1</sup> ou de surveillant-éducateur]<sup>1</sup>. [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2018-06-18/08, art. 59, 010; En vigueur : 01-09-2010&gt;
+
+### Art. 12
+
+L'existence d'un centre est prise en considération lors de la fixation de la dotation ou du calcul des subventions de fonctionnement.
+
+Pour tout élève régulièrement inscrit pour le 15 novembre dans un centre subventionné par la Communauté germanophone, une subvention de fonctionnement est octroyée à l'école dans laquelle le centre est organisé, à concurrence du montant indiqué au point 7 de l'annexe du décret du 18 avril 1994 fixant le montant des subventions de fonctionnement pour l'enseignement subventionné.
+
+Si plusieurs établissements d'enseignement assurent la formation d'un élève, les subventions de fonctionnement sont réparties entre les établissements concernés proportionnellement au nombre de périodes effectivement suivies par l'élève dans les différents établissements.
+
+Pour tout élève qui s'inscrit dans un centre comme élève régulier après le 30 septembre mais avant le 16 novembre de l'année scolaire en question, l'école que quitte l'élève concerné verse au centre le montant visé à l'alinéa 2, si cette école bénéficie, au cours de la même année scolaire, d'une subvention de fonctionnement pour l'élève en question.
+
+### Art. 13
+
+&lt;Abrogé par DCG 2014-03-31/09, art. 10.1,15°, 007; En vigueur : 01-07-2014&gt;
+
+## CHAPITRE V. - Dispositions transitoires et dispositions finales.
+
+### Art. 14
+
+Les personnes qui étaient chargées de l'encadrement socio-pédagogique dans l'enseignement à horaire réduit pendant les années scolaires où cet enseignement a été organisé de façon expérimentale en Communauté germanophone par un arrêté, peuvent être admises au stage et nommées à titre définitif en qualité d'assistant social, même si elles ne sont pas titulaires du diplôme d'assistant social.
+
+### Art. 14.1
+
+&lt;Abrogé par DCG 2015-06-29/19, art. 34, 008; En vigueur : 01-09-2015&gt;
+
+### Art. 15
+
+Le présent décret entre en vigueur le 2 septembre 1996.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 25 juin 1996.
+
+Le Ministre-Président, Ministre des Finances, des Relations internationales, de la Santé, de la Famille et des Personnes âgées, du Sport et du Tourisme
+
+J. MARAITE
+
+Le Ministre de la Jeunesse, de la Formation, des Médias et des Affaires sociales
+
+K.H. LAMBERTZ
+
+Le Ministre de l'Enseignement, de la Culture, de la Recherche scientifique et des Monuments et Sites
+
+W. SCHRODER

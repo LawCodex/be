@@ -1,0 +1,57 @@
+---
+title: "Décret portant le premier ajustement du budget des recettes de la Communauté germanophone pour l'année budgétaire 1996."
+identifier: "1997033029"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1996/11/25/1997033029/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1996-11-25
+published: 1997-05-28
+entry_into_force: 1996-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1996/11/25/1997033029/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 25 NOVEMBRE 1996. - Décret portant le premier ajustement du budget des recettes de la Communauté germanophone pour l'année budgétaire 1996.
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'article 1 du décret du 21 décembre 1995 contenant le budget des recettes de la Communauté germanophone pour l'année budgétaire 1996 est remplacé par le libellé suivant :
+
+"Article 1. Pour l'année budgétaire 1996, les recettes courantes de la Communauté germanophone sont évaluées à 3.674, 68 millions de francs. Les recettes courantes se composent de :
+
+\- 3.468, 25 millions de francs en recettes générales;
+
+\- 206, 43 millions de francs en recettes affectées."
+
+## Art. 2
+
+Article 2. Le présent décret produit ses effets au 1er janvier 1996.
+
+## ANNEXE.
+
+## Art. N1
+
+Tableau. (Tableau non repris pour des raisons techniques, voir M.B. 28/05/1997, p. 13937 à 13938).
+
+Eupen, le 25 novembre 1996.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+J. MARAITE,
+
+Ministre-Président du Gouvernement de la Communauté germanophone, Ministre des Finances, des Relations internationales, de la Santé, de la Famille et des Personnes âgées, du Sport et du Tourisme
+
+K.-H. LAMBERTZ,
+
+Ministre de la Jeunesse, de la Formation, des Médias et des Affaires sociales
+
+W. SCHR\DER,
+
+Ministre de l'Enseignement, de la Culture, de la Recherche scientifique et des Monuments et Sites

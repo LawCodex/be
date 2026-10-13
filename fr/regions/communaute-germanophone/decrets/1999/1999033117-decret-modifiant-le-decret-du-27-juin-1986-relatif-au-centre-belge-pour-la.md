@@ -1,0 +1,81 @@
+---
+title: "Décret modifiant le décret du 27 juin 1986 relatif au Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone (TRADUCTION)."
+identifier: "1999033117"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/10/18/1999033117/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1999-10-18
+published: 2000-03-08
+entry_into_force: 1999-06-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/10/18/1999033117/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 18 OCTOBRE 1999. - Décret modifiant le décret du 27 juin 1986 relatif au Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone (TRADUCTION).
+
+Le Conseil de la Communauté germanophone a adopté et nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'article 8, § 1er du décret du 27 juin 1986 relatif au Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone, modifié par le décret du 16 octobre 1995, est remplacé par la disposition suivante :
+
+" § 1er. Le centre est placé sous l'autorité d'un conseil d'administration, dénommé ci-après "le conseil". Le conseil est composé de membres élus par le Conseil de la Communauté germanophone.
+
+A cet effet, chacun des groupes représentés au sein du Conseil de la Communauté germanophone propose une liste de candidats, proposés en qualité de membres effectifs. Cette liste mentionne, en regard du nom de chaque candidat, les noms de ses premier et second candidats suppléants. Le nombre de candidats d'une liste correspond au nombre des membres du conseil déterminé en application du § 2, deuxième alinéa.
+
+Pour l'élection des membres effectifs du conseil, il est fait application du système de la représentation proportionnelle des groupes représentés au sein du Conseil de la Communauté germanophone, chaque groupe étant représenté par au moins un membre, ainsi que des principes énoncés à l'article 172, alinéas 1er et 2 du Code électoral.
+
+Sont élus premier et second suppléants d'un membre effectif, les candidats dont les noms figurent sur la liste visée à l'alinéa 2 en regard du nom du membre effectif. ".
+
+## Art. 2
+
+L'article 8, § 2 du décret du 27 juin 1986 relatif au Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone, modifié par le décret du 16 octobre 1995, est remplacé par la disposition suivante :
+
+" § 2. Les membres du conseil sont élus pour la durée d'une législature du Conseil de la Communauté germanophone. Le mandat est renouvelable.
+
+Lors de la deuxième séance suivant son renouvellement, le Conseil de la Communauté germanophone détermine le nombre de membres du conseil.
+
+L'élection des membres du conseil a lieu lors de la troisième séance qui suit le renouvellement du Conseil de la Communauté germanophone. Jusqu'à cette date, les membres élus pour la législature précédente restent en fonction. ".
+
+## Art. 3
+
+L'article 36 du même décret est remplacé par le libellé suivant :
+
+" Article 36. Par dérogation à l'article 8, § 2, alinéa 2, c'est lors de la quatrième séance suivant son renouvellement que le Conseil de la Communauté germanophone détermine le nombre de membres du conseil pour la législature du Conseil de la Communauté germanophone ayant débuté le 13 juin 1999.
+
+Par dérogation à l'article 8, § 2, alinéa 3, c'est lors de la quatrième séance suivant le renouvellement du Conseil de la Communauté germanophone que sont élus les membres du conseil pour la législature du Conseil de la Communauté germanophone ayant débuté le 13 juin 1999.
+
+Jusqu'à la quatrième séance suivant le renouvellement du Conseil de la Communauté germanophone, les membres élus pour la législature précédente restent en fonction. ".
+
+## Art. 4
+
+L'article 11, § 1er, premier alinéa du décret du 27 juin 1986 relatif au Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone, modifié par le décret du 16 octobre 1995, est remplacé par la disposition suivante :
+
+" Le conseil ne peut délibérer valablement que si plus de la moitié des membres sont présents. ".
+
+## Art. 5
+
+Le présent décret produit ses effets le 21 septembre 1999.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur Belge.
+
+Eupen, le 18 octobre 1999.
+
+Le Ministre-Président du Gouvernement de la Communauté germanophone,
+
+Ministre de l'Emploi, de la Politique des Handicapés, des Médias et des Sports,
+
+K.-H. LAMBERTZ
+
+Le Ministre de l'Enseignement et de la Formation, de la Culture et du Tourisme,
+
+B. GENTGES
+
+Le Ministre de la Jeunesse et de la Famille, de la Protection des Monuments, de la Santé et des Affaires sociales,
+
+H. NIESSEN

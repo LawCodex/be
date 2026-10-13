@@ -1,0 +1,769 @@
+---
+title: "Décret-programme 1997 (TRADUCTION)."
+identifier: "1997033066"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1997/05/20/1997033066/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1997-05-20
+published: 1997-07-02
+entry_into_force: 1997-07-02
+last_amended: 2025-10-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1997/05/20/1997033066/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 02-07-1997 et mise à jour au 31-10-2025"
+retrieved: 2026-10-12
+---
+
+# 20 MAI 1997. - Décret-programme 1997 (TRADUCTION).
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Enseignement et formation.
+
+### Section 1. - Dérogations au décret du 18 avril 1994 fixant le montant des subventions de fonctionnement pour l'enseignement subventionné.
+
+#### Art. 1
+
+Les montants figurant au point 6° de l'annexe du décret du 18 avril 1994 fixant le montant des subventions de fonctionnement pour l'enseignement subventionné sont réduits de 20 % pour l'année scolaire 1996-1997 et l'année scolaire 1997-1998 et ne sont pas indexés en application de l'article 7 du même décret pour l'année 1996-1997.
+
+Sans préjudice de la disposition de l'alinéa précédent et par dérogation à l'article 7 du même décret, tous les montants de subventions fixés dans le décret seront, pour l'année scolaire 1996-1997 et l'année scolaire 1997-1998, majorés sur la base de l'indexation suivante :
+
+1° l'indice du mois de septembre 1992 (113,17) sert d'indice de base;
+
+2° l'indice du mois de septembre 1995 (120,64) sert de nouvel indice.
+
+### Section 2. - Complément au décret-programme du 4 mars 1996.
+
+#### Art. 2
+
+L'article 15 du décret-programme du 4 mars 1996 est complété par l'alinéa suivant :
+
+" Pour les lycées qui ont été transformés en athénées à partir de l'année scolaire 1991-1992, le nombre total de périodes-professeur déterminé en application de l'alinéa 1er est majoré de 9,7 %. ".
+
+### Section 3. - &lt;DCG 1999-05-25/76, art. 2, 003; En vigueur : 01-09-1999&gt; Calcul du nombre de périodes-professeur pour les établissements d'enseignement secondaire de plein exercice de type I à partir de l'année scolaire 1999-2000.
+
+#### Art. 3
+
+§ 1er. Pour l'application du présent article, on entend par :
+
+1° périodes-professeur : le nombre de périodes consacrées hebdomadairement à l'enseignement et aux autres prestations qui peuvent être reprises dans la grille horaire des cours, à l'exception des cours de religion et de morale non confessionnelle;
+
+2° premier degré : le premier degré de l'enseignement secondaire de plein exercice de type I, à savoir la première année A, la deuxième année commune, la première année B et la deuxième année d'enseignement professionnel;
+
+3° deuxième degré : le deuxième degré de l'enseignement secondaire de plein exercice de type I, y compris l'année de perfectionnement et/ou spécialisation accomplie au terme du deuxième degré;
+
+4° troisième degré : le troisième degré de l'enseignement secondaire de plein exercice de type I, y compris l'année de perfectionnement et/ou spécialisation ainsi que la septième année d'enseignement professionnel visant l'obtention du certificat de fin d'études de l'enseignement secondaire supérieur, années accomplies au terme du troisième degré;
+
+5° [<sup>2</sup> groupe A : les orientations d'études liées au secteur des services. Le Gouvernement fixe les orientations d'études du groupe A]<sup>2</sup>;
+
+6° [<sup>2</sup> groupe B : les orientations d'études à caractère industriel ou fortement axées sur la pratique, ou les orientations d'études qui exigent des mesures de sécurité plus strictes. Le Gouvernement fixe les orientations d'études du groupe B]<sup>2</sup>;
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2. A partir de l'année scolaire 1999-2000) et par dérogation aux articles 2 et 3 du décret du 5 juin 1990 fixant le nombre de périodes-professeur pour l'enseignement secondaire de plein exercice de type I, le nombre de périodes-professeur d'un établissement d'enseignement secondaire de plein exercice de type I est établi en effectuant les calculs suivants, dont les résultats seront arrondis : &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+1° dans le premier degré, le nombre de périodes-professeur accordé pour la première année A et la deuxième année commune est calculé comme suit :
+
+a) pour tout groupe entamé de 21 élèves régulièrement inscrits dans les deux années d'études précitées (au dernier jour d'école du mois de janvier de l'année scolaire précédente), l'établissement d'enseignement reçoit [<sup>1</sup> 21]<sup>1</sup> périodes; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+b) il reçoit en plus 0,9 période par élève jusqu'à 90 élèves inclus et [<sup>1</sup> 0,6]<sup>1</sup> période pour tout élève supplémentaire;
+
+2° dans le premier degré, le nombre de périodes-professeur accordé pour la première année B et de la deuxième année d'enseignement professionnel est calculé comme suit :
+
+a) pour tout groupe entamé de 12 élèves régulièrement inscrits dans les deux années d'études précitées (au dernier jour d'école du mois de janvier de l'année scolaire précédente), l'établissement d'enseignement reçoit 20 périodes; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+b) il reçoit en plus 1,4 périodes par élève jusqu'à 40 élèves inclus et 0,7 période pour tout élève supplémentaire;
+
+3° A partir de l'année scolaire 1999-2000), chaque établissement d'enseignement secondaire de plein exercice de type I reçoit en supplément au capital périodes calculé conformément aux points 1 et 2, un nombre de périodes-professeur calculé comme suit pour l'organisation et la coordination pédagogique générale : &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+a) chaque établissement d'enseignement reçoit 5 périodes-professeur;
+
+b) Il reçoit en plus 0,05 période pour tout élève régulièrement inscrit dans le premier degré (au dernier jour d'école du mois de janvier de l'année scolaire précédente); &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+4° pour l'enseignement général, le nombre d'élèves régulièrement inscrits au deuxième degré de cette forme d'enseignement (au dernier jour d'école du mois de janvier de l'année scolaire précédente) est multiplié par le coefficient 3,2 jusqu'à 40 élèves inclus et 1,4 pour tout élève supplémentaire; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+5° pour l'enseignement général, le nombre d'élèves régulièrement inscrits au troisième degré de cette forme d'enseignement (au dernier jour d'école du mois de janvier de l'année scolaire précédente) est multiplié par le coefficient 3,2 jusqu'à 40 élèves inclus et 1,4 pour tout élève supplémentaire; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+6° pour l'enseignement technique de transition ou l'enseignement technique de qualification du groupe A, le nombre d'élèves régulièrement inscrits dans [<sup>2</sup> l'orientation d'études]<sup>2</sup> concernée au deuxième degré de cette forme d'enseignement (au dernier jour d'école du mois de janvier de l'année scolaire précédente) est multiplié par le coefficient 3,3 jusqu'à 20 élèves inclus et 1,4 pour tout élève supplémentaire; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+7° pour l'enseignement technique de transition ou l'enseignement technique de qualification du groupe B, le nombre d'élèves régulièrement inscrits dans [<sup>2</sup> l'orientation d'études]<sup>2</sup> concernée au deuxième degré de cette forme d'enseignement (au dernier jour d'école du mois de janvier de l'année scolaire précédente) est multiplié par le coefficient 4,2 jusqu'à 20 élèves inclus et [<sup>1</sup> 3,6]<sup>1</sup> pour tout élève supplémentaire; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+8° pour l'enseignement technique de transition ou l'enseignement technique de qualification du groupe A, le nombre d'élèves régulièrement inscrits dans [<sup>2</sup> l'orientation d'études]<sup>2</sup> concernée au troisième degré de cette forme d'enseignement (au dernier jour d'école du mois de janvier de l'année scolaire précédente) est multiplié par le coefficient 3,3 jusqu'à 20 élèves inclus et 1,4 pour tout élève supplémentaire; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+9° pour l'enseignement technique de transition ou l'enseignement technique de qualification du groupe B, le nombre d'élèves régulièrement inscrits dans [<sup>2</sup> l'orientation d'études]<sup>2</sup> concernée au troisième degré de cette forme d'enseignement (au dernier jour d'école du mois de janvier de l'année scolaire précédente) est multiplié par le coefficient 4,2 jusqu'à 20 élèves inclus et 3,3 pour tout élève supplémentaire; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+10° pour l'enseignement professionnel du groupe A, le nombre d'élèves régulièrement inscrits dans [<sup>2</sup> l'orientation d'études]<sup>2</sup> concernée au deuxième degré de cette forme d'enseignement (au dernier jour d'école du mois de janvier de l'année scolaire précédente) est multiplié par le coefficient 3,2 jusqu'à 20 élèves inclus et 1,4 pour tout élève supplémentaire; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+11° pour l'enseignement professionnel du groupe B, le nombre d'élèves régulièrement inscrits dans [<sup>2</sup> l'orientation d'études]<sup>2</sup> concernée au deuxième degré de cette forme d'enseignement (au dernier jour d'école du mois de janvier de l'année scolaire précédente) est multiplié par le coefficient [<sup>1</sup> 4,2]<sup>1</sup> jusqu'à 20 élèves inclus et [<sup>1</sup> 3,6]<sup>1</sup> pour tout élève supplémentaire; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+12° pour l'enseignement professionnel du groupe A, le nombre d'élèves régulièrement inscrits dans [<sup>2</sup> l'orientation d'études]<sup>2</sup> concernée au troisième degré de cette forme d'enseignement (au dernier jour d'école du mois de janvier de l'année scolaire précédente), à l'exception, au terme du troisième degré, de la septième année d'enseignement professionnel visant l'obtention du certificat de fin d'études de l'enseignement secondaire supérieur, est multiplié par le coefficient 3,2 jusqu'à 20 élèves inclus et 1,4 pour tout élève supplémentaire; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+13° pour l'enseignement professionnel du groupe A, le nombre d'élèves régulièrement inscrits dans [<sup>2</sup> l'orientation d'études]<sup>2</sup> concernée au troisième degré de cette forme d'enseignement (au dernier jour d'école du mois de janvier de l'année scolaire précédente), à l'exception, au terme du troisième degré, de la septième année d'enseignement professionnel visant l'obtention du certificat de fin d'études de l'enseignement secondaire supérieur, est multiplié par le coefficient 4,1 jusqu'à 20 élèves inclus et 3,3 pour tout élève supplémentaire; &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+14° pour la septième année de l'enseignement professionnel accomplie au terme du troisième degré et visant l'obtention du certificat de fin d'études de l'enseignement secondaire supérieur des groupes A et B, le nombre d'élèves régulièrement inscrits dans [<sup>2</sup> l'orientation d'études]<sup>2</sup> concernée (au dernier jour d'école du mois de janvier de l'année scolaire précédente) est multiplié par le coefficient 3,8 jusqu'à 20 élèves inclus et 3,3 pour tout élève supplémentaire. &lt;DCG 1999-05-25/76, art. 3, 003; En vigueur : 01-09-1999&gt;
+
+15° [<sup>1</sup> ...]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Si, le dernier jour d'école du mois de septembre de l'année scolaire en cours, un établissement d'enseignement compte au moins 7,5 % d'élèves en plus qu'au dernier jour d'école du mois de janvier de l'année précédente, un nouveau calcul du capital périodes intervient conformément à l'article 3, §§ 1er et 2, le dernier jour d'école du mois de septembre de l'année en cours servant de jour de référence pour ce nouveau calcul.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2019-05-06/10, art. 107, 009; En vigueur : 01-07-2019&gt;
+
+(2)&lt;DCG 2025-06-30/15, art. 51, 016; En vigueur : 01-09-2025&gt;
+
+#### Art. 3bis
+
+&lt;Inséré par DCG 1999-05-25/76, art. 4; En vigueur : 01-09-1999&gt; Le capital périodes calculé conformément à l'article 3, §§ 1 et 2, est octroyé pour l'année scolaire en question.
+
+(Alinéa 2 abrogé) &lt;DCG 2003-06-30/32, art. 18, 005; En vigueur : 01-09-2003 et vaut pour les années scolaires 2003-2004 à 2006-2007 inclus&gt;
+
+[<sup>1</sup> Le capital périodes déterminé conformément à l'article 3, § 3, est octroyé du 1er octobre au dernier jour d'école de l'année scolaire en cours.]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa 2, le pouvoir organisateur peut utiliser le capital emplois mentionné à l'article 3, § 3, dès le premier jour d'école. Si, en application du nouveau calcul effectué conformément à l'article 3, § 3, le pouvoir organisateur dispose d'un nombre d'heures inférieur à celui qu'il a organisé le premier jour d'école, ces heures sont à sa charge.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2019-05-06/10, art. 108, 009; En vigueur : 01-07-2019&gt;
+
+(2)&lt;DCG 2020-06-22/15, art. 53, 010; En vigueur : 01-09-2020&gt;
+
+#### Art. 3ter
+
+&lt;Abrogé par DCG 2019-05-06/10, art. 109, 009; En vigueur : 01-07-2019&gt;
+
+### Section 4. - Fixation du capital-périodes et organisation de cours dans la formation scolaire continuée.
+
+#### Art. 4
+
+§ 1er. Les instituts de formation scolaire continuée reçoivent chaque année scolaire un capital-périodes qui correspond au capital-périodes de l'année scolaire 1996/97. Le Gouvernement peut, dans le cadre des crédits budgétaires disponibles, augmenter ce capital-périodes d'un pourcentage qui doit être le même pour tous les instituts et ne peut excéder 10 %.
+
+Le transfert d'un capital-périodes entre différents instituts de formation scolaire continuée est autorisé.
+
+§ 2. Ce capital-périodes permet aux instituts de formation scolaire continuée d'organiser des cours qui doivent être fréquentés par 8 élèves au moins. Si des cours s'étalant sur plusieurs années comptent moins de 8 élèves, les différentes années seront regroupées jusqu'à ce que la norme de 8 élèves soit atteinte. Les cours durant au moins un an ou la première année de cours qui s'étalent sur plusieurs années doivent compter au moins 8 élèves.
+
+Le Gouvernement peut fixer une dérogation à cette norme pour les cours dispensés dans le domaine technico-industriel.
+
+Si un institut de formation scolaire continuée souhaite organiser un cours déjà dispensé par un autre institut dans la même zone géographique, il doit pour cela obtenir une autorisation du Gouvernement sans préjudice des dispositions relatives à la création de cours.
+
+Si, dans la même zone géographique, le même cours est déjà dispensé dans plus d'un institut de formation scolaire continuée, le Gouvernement peut, après concertation avec les instituts concernés, décider de ne plus poursuivre l'organisation ou le subventionnement de ce cours dans un ou plusieurs instituts, et ce sans préjudice des dispositions relatives à la création de cours.
+
+La décision visée au 4e alinéa est subordonnée aux critères visant à éviter le regroupement de plusieurs années d'études en vue d'atteindre les normes de population scolaire, à privilégier la mise au travail d'enseignants en chômage complet ou partiel, à utiliser de préférence un matériel scolaire plus moderne recourant aux possibilités techniques et pédagogiques offertes par les nouveaux médias, à privilégier les cours proposés en collaboration avec d'autres pouvoirs organisateurs de formations et à amener les différents instituts à pratiquer, de commun accord, une spécialisation des cours proposés.
+
+Sous réserve des dispositions du § 1er, les cours d'une année d'études fréquentés par au moins 16 élèves ne sont pas soumis aux dispositions du 4e alinéa.
+
+(Les élèves ayant terminé un cours et obtenu, le cas échéant, un certificat d'études ne sont pas, en ce qui concerne ce cours, pris en considération pour déterminer la norme prévue dans les alinéas précédents.) &lt;DCG 2007-06-25/34, art. 40, 006; En vigueur : 01-07-2007&gt;
+
+§ 3. Les cours comprennent 20, 40, 80, 120, 160, 200 ou 240 périodes par année.
+
+[<sup>1</sup> § 3.1 - Les cours sont organisés du lundi au samedi.]<sup>1</sup>
+
+§ 4. L'arrêté royal n° 461 du 17 septembre 1986 fixant le plan de rationalisation et de programmation de l'enseignement de promotion sociale, modifié par le décret du 27 juin 1990, est abrogé.
+
+----------
+
+(1)&lt;DCG 2023-12-14/58, art. 66, 013; En vigueur : 01-09-2023&gt;
+
+#### Art. 4bis
+
+&lt;Inséré par DCG 2003-06-30/32, art. 19; En vigueur : 01-09-2003 et vaut pour les années scolaires 2003-2004 à 2006-2007 inclus&gt; Le capital périodes n'excède pas le capital périodes utilisé au cours de l'année scolaire 2002-2003.
+
+#### Art. 4ter
+
+&lt;Inséré par DCG 2007-06-25/34, art. 40; En vigueur : 01-07-2007&gt; § 1er. Les instituts de formation scolaire continuée dont le pouvoir organisateur dispose également d'un établissement d'enseignement secondaire ordinaire de plein exercice sont rattachés à cet établissement.
+
+Le cas échéant, l'article 5 de l'arrêté royal du 12 janvier 1966 fixant les conditions requises pour la détermination du nombre d'emplois dans les établissements d'enseignement technique de l'Etat n'est pas appliqué.
+
+§ 2. [<sup>1</sup> Le pouvoir organisateur peut transférer à un autre de ses instituts de formation scolaire continuée ou établissement d'enseignement de plein exercice tout ou partie du capital périodes octroyé conformément aux article 4 et 4bis à l'institut rattaché. Le pouvoir organisateur peut également transférer à l'un de ses instituts de formation scolaire continuée des parties du capital périodes octroyé à un établissement d'enseignement de plein exercice.]<sup>1</sup>
+
+Les transferts mentionnés au premier alinéa ne peuvent avoir pour conséquence que des membres du personnel soient mis en disponibilité par défaut d'emploi.
+
+Une nomination ou un engagement à titre définitif n'est pas autorisé pour un emploi créé en raison d'un transfert mentionné au premier alinéa.
+
+§ 3. Les écoles secondaires ordinaires auxquelles est " rattaché " un institut de formation scolaire continuée obtiennent, par semaine, le nombre d'heures suivant pour la coordination et l'administration :
+
+1° lorsque le capital périodes de la formation scolaire continuée est inférieur à 2 000 heures par an :
+
+a) pour l'administration : 4 heures pour la fonction [<sup>3</sup> d'assistant de secrétariat]<sup>3</sup>;
+
+b) pour la coordination : 3 heures;
+
+2° lorsque le capital périodes de la formation scolaire continuée se situe entre 2 000 et 4 000 heures par an :
+
+a) pour l'administration : 6 heures pour la fonction [<sup>3</sup> d'assistant de secrétariat]<sup>3</sup>;
+
+b) pour la coordination : 5 heures;
+
+3° lorsque le capital périodes de la formation scolaire continuée se situe entre 4 000 et 6 000 heures par an :
+
+a) pour l'administration : 8 heures pour la fonction [<sup>3</sup> d'assistant de secrétariat]<sup>3</sup>;
+
+b) pour la coordination : 5 heures;
+
+4° lorsque le capital périodes de la formation scolaire continuée est supérieur à 6000 heures par an :
+
+a) pour l'administration : 1/2 emploi [<sup>3</sup> d'assistant de secrétariat]<sup>3</sup>;
+
+b) pour la coordination : 1/2 emploi.
+
+Les heures mentionnées à l'alinéa 1, 1°, b), 2°, b), 3°, b) et 4°, b) pour la coordination sont rémunérées selon l'échelle 471 [<sup>3</sup> mentionnée dans l'annexe]<sup>3</sup> de l'arrêté royal du 27 juin 1974 fixant au 1er avril 1972 les échelles des fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement de l'Etat, des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, des membres du personnel du service d'inspection de l'enseignement par correspondance et de l'enseignement primaire subventionné et les échelles des grades du personnel des centres psycho-médico-sociaux de l'Etat.
+
+Les membres du personnel qui, au cours de l'année scolaire 2006-2007, ont occupé la fonction de surveillant-éducateur pendant au moins 15 semaines et exercent la fonction de commis-dactylo mentionnée au premier alinéa au cours des années scolaires 2007-2008 et 2008-2009 dans les instituts de formation scolaire continuée rattachés à une école secondaire ordinaire continuent de bénéficier jusqu'au 31 décembre 2008 de l'échelle de traitement leur attribuée dans la fonction de surveillant-éducateur.
+
+Une nomination ou un engagement à titre définitif [<sup>4</sup> ne sont autorisés que dans le cadre des heures réservées à l'administration énumérées dans l'alinéa 1er, 1°, a), 2°, a), 3°, a), et 4°, a)]<sup>4</sup>.
+
+[<sup>2</sup> [<sup>5</sup> Par dérogation à]<sup>5</sup> l'alinéa 1er, 4°, b), une école secondaire ordinaire rattachée à un institut de formation continuée dont le capital périodes est supérieur à 6 000 heures par an, obtient [<sup>5</sup> un emploi à temps plein dans la fonction de coordinateur d'un institut de formation scolaire continuée]<sup>5</sup> si, au dernier jour d'école du mois de septembre de l'année scolaire en cours, au moins 400 élèves y sont inscrits. [<sup>5</sup> Cet emploi]<sup>5</sup> est mis à disposition pour l'année scolaire en cours.
+
+[<sup>5</sup> ...]<sup>5</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2012-07-16/05, art. 14, 007; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCG 2018-06-18/08, art. 60, 008; En vigueur : 01-09-2018&gt;
+
+(3)&lt;DCG 2021-06-28/11, art. 140, 011; En vigueur : 01-01-2022&gt;
+
+(4)&lt;ACG 2022-06-27/13, art. 39, 012; En vigueur : 01-01-2023&gt;
+
+(5)&lt;DCG 2024-05-08/14, art. 44, 014; En vigueur : 01-09-2024&gt;
+
+### Section 5. - Formation et formation continue dans les Classes moyennes.
+
+#### Art. 5
+
+L'article 2 du décret du 16 décembre 1991 relatif à la formation et à la formation continue dans les Classes moyennes et les P.M.E. est complété comme suit :
+
+" Le Gouvernement peut étendre l'application du présent décret aux métiers déterminés par lui sur avis de l'Institut et du Comité subrégional de l'emploi et de la formation. ".
+
+### Section 6. - Organisation de la formation professionnelle et emploi.
+
+#### Art. 6
+
+L'article 4, § 2, alinéa 1er, 1° du décret du 19 décembre 1988 organisant la formation professionnelle, modifié par le décret du 29 juin 1992, est abrogé.
+
+#### Art. 7
+
+§ 1er. L'article 5, alinéa 1er du même décret, modifié par le décret du 29 juin 1992, est modifié comme suit :
+
+a) au point 2°, le passage " ainsi que la fixation de leur statut " est supprimé;
+
+b) Le point 6° est remplacé comme suit :
+
+" 6° la détermination du personnel nécessaire à l'exécution des tâches communes à la Région et à la Communauté; ".
+
+§ 2. Le même article est complété par l'alinéa suivant :
+
+" En outre, les statuts de l'organisme doivent prévoir que les dispositions du statut du personnel propres à l'établissement ainsi que son cadre seront déterminés par le Gouvernement wallon, moyennant l'accord préalable du Gouvernement de la Communauté germanophone. ".
+
+#### Art. 8
+
+L'article 9, alinéa 1er du même décret est complété comme suit :
+
+" L'arrêté du Gouvernement de la Communauté germanophone peut être remplacé par l'accord préalable du Gouvernement quant à l'arrêté du Gouvernement de la Région wallonne si les statuts de l'organisme d'intérêt public le prévoient. ".
+
+#### Art. 9
+
+Un article 7bis, libellé comme suit, est inséré après l'article 7 du décret du 25 juin 1991 soutenant des mesures en faveur de l'emploi :
+
+" Art. 7bis. § 1. Le Gouvernement de la Communauté germanophone peut accorder aux institutions de médiation de dettes reconnues, visées à l'article 3, 2° du décret du 29 avril 1996 concernant la médiation et l'apurement de dettes, des subventions destinées aux frais de personnel encourus pour le personnel administratif et de coordination, subventions dont le montant est limité par les crédits mis à cette fin à la disposition de la Communauté germanophone par d'autres instances officielles dans le cadre de mesures favorisant l'emploi.
+
+§ 2. Sont considérés comme frais de personnel pour lesquels des subventions peuvent être accordées le montant brut du traitement, le pécule de vacances, les primes de fin d'année décidées au sein de la Commission paritaire compétente et l'assurance pour accidents du travail des membres du personnel occupés qui exercent une fonction technico-administrative ou coordinatrice, ainsi que les cotisations patronales dues en application de la législation sur la sécurité sociale des travailleurs.
+
+§ 3. Pour pouvoir recevoir des subventions aux frais de personnel pour le personnel administratif et de coordination, la classification de ce personnel établie par l'employeur ainsi que le montant minimal des traitements en résultant doivent respecter les directives de la Commission paritaire compétente.
+
+§ 4. Le Gouvernement de la Communauté germanophone fixe la nature des documents à introduire en vue de l'octroi et du contrôle de l'utilisation des subventions, les délais d'introduction de ceux-ci, les conditions d'octroi d'avances ainsi que les conditions dans lesquelles une subvention annuelle peut être accordée pour plus d'un membre du personnel administratif ou de coordination par association. ".
+
+## Chapitre I.1 [<sup>1</sup> - Octroi de capitaux emplois ou périodes à des fins spécifiques dans l'enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 137, 015; En vigueur : 24-02-2025&gt;
+
+### Section 1re. [<sup>1</sup> - Introduction de la demande et octroi de capitaux emplois ou périodes à des fins spécifiques]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 138, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.1.
+
+[<sup>1</sup> - Champ d'application
+
+Le présent chapitre s'applique aux établissements d'enseignement organisés ou subventionnés par la Communauté germanophone ainsi qu'à leur pouvoir organisateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 139, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.2.
+
+[<sup>1</sup> - Utilisation du capital emplois ou du capital périodes
+
+Sur demande écrite à introduire auprès du Gouvernement, le capital emplois ou le capital périodes à des fins spécifiques peuvent être octroyés aux pouvoirs organisateurs ou aux établissements d'enseignement. Le capital emplois ou le capital périodes ne peuvent être utilisés que pour les objectifs et projets suivants :
+
+1° accompagnement individuel d'élèves et de groupes d'élèves - de la maternelle au secondaire - qui présentent des troubles psychiques, médicaux ou socio-affectifs;
+
+2° promotion de l'intégration à l'école maternelle;
+
+3° promotion de l'intégration à l'école primaire;
+
+4° soutien des élèves surdoués;
+
+5° soutien des projets en langues étrangères et des cours de langue itinérants;
+
+6° organisation du suivi des devoirs;
+
+7° organisation de cours de soutien;
+
+8° tâches d'éducation et de coordination et tâches administratives;
+
+9° pédagogie de soutien;
+
+10° projets du centre pour le développement sain des enfants et des jeunes visant le soutien du développement sain chez les enfants et les jeunes;
+
+11° restructurations décidées par le pouvoir organisateur qui, à long terme, permettent d'économiser du capital emplois ou périodes, selon le cas;
+
+12° projets pilotes confiés par le Gouvernement;
+
+13° projets de l'enseignement artistique à horaire réduit;
+
+14° projets de la haute école autonome;
+
+15° projets informatiques;
+
+16° projets pédagogiques;
+
+17° augmentation du capital périodes pour des raisons exceptionnelles.
+
+Le Gouvernement peut octroyer aux pouvoirs organisateurs ou aux établissements d'enseignement, sans qu'ils en aient fait la demande, du capital emplois ou périodes aux fins des objectifs mentionnés à l'alinéa 1er pour mettre en oeuvre des projets pilotes confiés par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 140, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.3.
+
+[<sup>1</sup> - Durée d'utilisation du capital emplois ou du capital périodes
+
+Le capital emplois ou le capital périodes à des fins spécifiques peut être octroyé pour une durée maximale de trois années scolaires par demande.
+
+Par dérogation à l'alinéa 1er, le capital emplois ou le capital périodes déjà mis à disposition dans le cas mentionné à l'article 9.2, alinéa 1er, 1°, peut être octroyé pour l'année scolaire en cours ou pour celle qui suit l'année de la demande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 141, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.4.
+
+[<sup>1</sup> - Introduction de la demande
+
+§ 1er - Pour les finalités mentionnées à l'article 9.2, alinéa 1er, le pouvoir organisateur ou le directeur de l'établissement d'enseignement introduit auprès du Gouvernement une demande d'octroi de capital emplois ou de capital périodes dument complétée conformément au § 2. A cette fin, le demandeur utilise le formulaire de demande mis à disposition par le Gouvernement. Toute demande qui n'est pas introduite dans les formes est rejetée d'office.
+
+La demande est introduite avant le 1er mars de l'année scolaire qui précède celle où le capital emplois ou le capital périodes sera utilisé. Toute demande qui n'est pas introduite dans les délais est rejetée d'office.
+
+Par dérogation à l'alinéa 2, toute demande qui concerne le cas mentionné à l'article 9.2, aliéna 1er, 1°, peut être introduite à tout moment au cours de l'année scolaire.
+
+§ 2 - La demande mentionnée au § 1er contient les informations suivantes :
+
+1° le nom et l'adresse du pouvoir organisateur ou de l'établissement d'enseignement;
+
+2° le nom et le prénom du demandeur;
+
+3° le numéro de téléphone et l'adresse électronique du demandeur;
+
+4° le volume de périodes ou d'emplois demandé;
+
+5° la période pour laquelle la mise à disposition du capital emplois ou du capital périodes est demandée;
+
+6° le titre du projet ou, selon le cas, de la mesure de soutien pour lesquels les périodes ou les emplois sont demandés;
+
+7° la description du contenu du projet ou, selon le cas, de la mesure de soutien;
+
+8° des précisions indiquant si le projet ou, selon le cas, la mesure de soutien a déjà bénéficié, le cas échéant, d'un soutien au cours de l'année scolaire précédente et, dans l'affirmative, sous quelle forme;
+
+9° la date de lancement du projet ou, selon le cas, de la mesure de soutien;
+
+10° la date de fin prévue pour le projet ou, selon le cas, la mesure de soutien;
+
+11° la structure et le déroulement du projet ou, selon le cas, de la mesure de soutien;
+
+12° les résultats visés dans le cadre du projet ou, selon le cas, de la mesure de soutien;
+
+13° l'évaluation prévue du projet ou, selon le cas, de la mesure de soutien;
+
+14° s'agissant du cas mentionné à l'article 9.2, alinéa 1er, 1° : les informations mentionnées à l'alinéa 2;
+
+15° la signature du demandeur.
+
+Si la demande concerne le cas mentionné à l'article 9.2, alinéa 1er, 1°, sont mentionnées dans la demande, sans préjudice de l'alinéa 1er, les informations suivantes :
+
+1° le nom, le prénom et la date de naissance de l'élève;
+
+2° la classe qui sera fréquentée par l'élève pendant la période pour laquelle les périodes ou les emplois sont demandés;
+
+3° les données relatives au contexte scolaire :
+
+a) les mesures déjà mises en place par l'école maternelle, primaire ou secondaire fréquentée par l'élève;
+
+b) le nombre de jours par semaine où l'élève fréquente l'école maternelle, primaire ou secondaire;
+
+c) si l'élève fréquente une classe d'apprentissage linguistique, y compris la durée de cette fréquentation;
+
+d) le niveau de langue de l'élève en ce qui concerne la langue de l'enseignement;
+
+e) la nécessité d'un soutien pédagogique spécialisé en précisant la date de l'avis constatant cette nécessité;
+
+f) les mesures de compensation des désavantages ou de protection des notes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 142, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.5.
+
+[<sup>1</sup> - Décision du Gouvernement
+
+Le Gouvernement statue sur la demande d'octroi de capital emplois ou périodes à des fins spécifiques dans la limite des crédits budgétaires disponibles et communique sa décision motivée par écrit.
+
+Toute demande acceptée reprend notamment les informations suivantes :
+
+1° le volume de périodes ou d'emplois octroyés;
+
+2° la durée du capital emplois ou du capital périodes octroyé, le cas échéant en précisant les dates de début et de fin;
+
+3° les éventuelles conditions auxquelles l'utilisation du capital emplois ou du capital périodes est soumise;
+
+4° un numéro de projet.
+
+Le Gouvernement rend sa décision avant le 30 juin si la demande a été introduite conformément à l'article 9.4, § 1er, alinéa 2, et dans un délai de soixante jours si elle a été introduite conformément à l'article 9.4, § 1er, alinéa 3.
+
+Par dérogation à l'article 9.4, § 1er, alinéa 2, le Gouvernement peut statuer sur une demande introduite après le 1er mars si le demandeur peut invoquer des raisons ou des événements exceptionnels ou imprévisibles qui justifient le non-respect du délai d'introduction d'une demande. Le Gouvernement statue sur la recevabilité de la demande et communique sa décision de faire droit à celle-ci ou de la rejeter dans un délai de quatre mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 143, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.6.
+
+[<sup>1</sup> - Attribution du capital emplois ou du capital périodes
+
+Aucun membre du personnel ne peut être désigné ou engagé en périodes octroyées en application du présent chapitre à titre temporaire pour une durée indéterminée dès l'entrée en service, ou encore nommé ou engagé à titre définitif.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 144, 015; En vigueur : 24-02-2025&gt;
+
+### Section 2. [<sup>1</sup> - Confidentialité et protection des données]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 145, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.7.
+
+[<sup>1</sup> - Confidentialité
+
+Sans préjudice de dispositions légales ou décrétales contraires, quiconque, à quelque titre que ce soit, participe à l'application et à l'exécution du présent décret et de ses dispositions d'exécution est tenu de traiter confidentiellement les données qui lui sont confiées dans le cadre de l'exercice de sa mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 146, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.8.
+
+[<sup>1</sup> - Traitement des données à caractère personnel
+
+Sans préjudice de l'article 9.9, le Gouvernement est responsable du traitement des données à caractère personnel mentionnées à l'article 9.10 au sens de l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).
+
+Le traitement des données à caractère personnel s'opère dans le respect de la législation applicable en matière de protection des données.
+
+Le Gouvernement informe à cet égard ses collaborateurs et conseillers externes de leurs devoirs en matière de sécurité de l'information et de protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 147, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.9.
+
+[<sup>1</sup> - Traitement de données relatives à la santé
+
+Le traitement de données relatives à la santé des personnes concernées s'opère sous la responsabilité d'un professionnel des soins de santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 148, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.10.
+
+[<sup>1</sup> - Catégories de données
+
+§ 1er - En ce qui concerne les élèves - de la maternelle au secondaire - qui présentent des troubles psychiques, médicaux ou socio-affectifs, le Gouvernement peut collecter et traiter toutes les données à caractère personnel des catégories suivantes qui sont appropriées, utiles et proportionnées :
+
+1° les données ci-après concernant les élèves :
+
+a) les données relatives à l'identité et les données de contact;
+
+b) les données relatives à la date de naissance;
+
+c) les données relatives à la fréquentation et à la formation scolaires;
+
+d) les données relatives à la santé et au développement, notamment les mesures de soutien, les capacités intellectuelles et le développement du langage;
+
+2° les données ci-après concernant le demandeur :
+
+a) les données relatives à l'identité et les données de contact.
+
+§ 2 - En ce qui concerne les élèves - de la maternelle au secondaire - qui présentent des troubles psychiques, médicaux ou socio-affectifs ainsi que les élèves surdoués, le pouvoir organisateur ou, selon le cas, le directeur de l'établissement d'enseignement peut collecter et traiter toutes les données à caractère personnel des catégories suivantes qui sont appropriées, utiles et proportionnées :
+
+1° les données ci-après concernant les élèves :
+
+a) les données relatives à l'identité et les données de contact;
+
+b) les données relatives à la date de naissance;
+
+c) les données relatives à la fréquentation et à la formation scolaires;
+
+d) les données relatives à la santé et au développement, notamment les mesures de soutien, les capacités intellectuelles et le développement du langage;
+
+2° les données ci-après concernant le demandeur :
+
+a) les données relatives à l'identité et les données de contact.
+
+§ 3 - Les données énumérées au § 1er, 2°, et au § 2, 2°, sont utilisées pour les finalités reprises à l'article 9.2.
+
+Les données énumérées au § 1er, 1°, et au § 2, 1°, sont utilisées pour la finalité reprise à l'article 9.2, alinéa 1er, 1°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 149, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.11.
+
+[<sup>1</sup> - Coopération
+
+Le Gouvernement coopère avec les établissements d'enseignement qui sont parties prenantes à l'exécution du présent décret. A cette fin, les établissements d'enseignement échangent les données relatives aux élèves mentionnées à l'article 9.10, lorsque la transmission des informations est nécessaire dans l'intérêt de l'élève et que les informations transmises sont appropriées, utiles et proportionnées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 150, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.12.
+
+[<sup>1</sup> - Utilisation de données pour établir des analyses et statistiques
+
+En principe, le Gouvernement recourt à des données anonymes pour établir des analyses et statistiques en ce qui concerne l'exercice de ses missions.
+
+Si les données anonymes mentionnées à l'alinéa 1er ne permettent pas d'établir des analyses et statistiques détaillées, le recours à des données pseudonymisées est autorisé.
+
+Pour l'application de l'alinéa 2, le Gouvernement mentionne dans la déclaration de traitement les raisons pour lesquelles le traitement de données anonymes ne permet pas d'établir les analyses et statistiques mentionnées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 151, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.13.
+
+[<sup>1</sup> - Durée du traitement des données
+
+Sans préjudice d'autres dispositions légales, décrétales ou règlementaires qui prévoient, le cas échéant, un délai de conservation plus long, les données sont traitées et conservées pendant dix ans à compter de la réception de la décision du Gouvernement.
+
+Sans préjudice des dispositions relatives à l'archivage, elles sont détruites au plus tard au terme des délais mentionnés à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 152, 015; En vigueur : 24-02-2025&gt;
+
+#### Art. 9.14.
+
+[<sup>1</sup> - Mesures de sécurité
+
+Le cas échéant, le Gouvernement fixe les mesures de sécurité nécessaires au traitement des données à caractère personnel prévu par la présente section.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 153, 015; En vigueur : 24-02-2025&gt;
+
+## CHAPITRE II. - Culture.
+
+### Section 1. - Bibliothèques publiques.
+
+#### Art. 10
+
+L'article 20 du décret du 15 juin 1994 relatif aux bibliothèques publiques est complété par l'alinéa suivant :
+
+" Le Gouvernement peut porter ce pourcentage à 75 % maximum pour les catégories II et III et à 85 % maximum pour la catégorie I. ".
+
+#### Art. 11
+
+A l'article 22 du même décret, le nombre " 70 " est remplacé par le nombre " 90 ".
+
+### Section 2. - Tourisme.
+
+#### Art. 12
+
+§ 1er. + l'article 4, 1° de l'arrêté réglementaire du 16 juin 1980 fixant les conditions de reconnaissance et de subventionnement des syndicats d'initiative ou de tourisme de la région de langue allemande, le pourcentage " 50 % " est remplacé par " 15 % ".
+
+§ 2. L'article 4, 2° du même arrêté est remplacé par la disposition suivante :
+
+" 2° une subvention de fonctionnement pour les bureaux d'informations touristiques dont le montant ne peut excéder 60 % des crédits disponibles; cette subvention est calculée sur la base des heures d'ouverture, du nombre et de la qualification des membres du personnel ainsi que des prestations fournies;
+
+3° une subvention pour l'organisation et la réalisation de manifestations et d'animations touristiques dont le montant ne peut excéder 25 % des crédits disponibles; cette subvention est calculée sur la base du nombre de manifestations ou d'activités ayant eu lieu en tenant compte du fait qu'elles ont été réalisées en régie propre ou en collaboration avec d'autres organisations. ".
+
+#### Art. 13
+
+L'article 6, § 1er du décret du 23 novembre 1992 relatif aux habitations de vacances est complété par un quatrième alinéa libellé comme suit :
+
+" Cette prime doit être remboursée selon les modalités fixées par le Gouvernement dans les 10 ans de sa liquidation ou de la liquidation de la dernière tranche. Cette disposition est applicable aux projets pour lesquels la demande de subsides a été introduite après le 31 mars 1997. ".
+
+### Section 3. - Modification de la loi du 6 février 1987 relative aux réseaux de radiodistribution et télédistribution et à la publicité commerciale à la radio et à la télévision.
+
+#### Art. 14
+
+L'article 12, § 2 de la loi du 6 février 1987 relative aux réseaux de radiodistribution et télédistribution et à la publicité commerciale à la radio et à la télévision est abrogé.
+
+### Section 4. - Création d'un fonds budgétaire pour promouvoir la création d'oeuvres audiovisuelles, sonores et multimédias.
+
+#### Art. 15
+
+Il est créé en Communauté germanophone un fonds budgétaire pour promouvoir la création d'oeuvres audiovisuelles, sonores et multimédias.
+
+Le fonds correspond à un fonds budgétaire au sens de l'article 45 des lois sur la comptabilité de l'Etat, coordonnées par l'arrêté royal du 17 juillet 1991.
+
+#### Art. 16
+
+Le fonds peut disposer de recettes émanant de :
+
+1° redevances prélevées par la Communauté germanophone pour la location de toute oeuvre, d'appareillage et d'infrastructures dans le domaine des médias;
+
+2° rétributions que percoit la Communauté germanophone en application de l'article 58, § 2 de la loi du 30 juin 1994 relative au droit d'auteur et aux droits voisins;
+
+3° taxes versées par les télédistributeurs reconnus par la Communauté germanophone.
+
+#### Art. 17
+
+Les crédits du fonds sont spécialement utilisés pour la réalisation de coproductions et pour promouvoir la création d'oeuvres audiovisuelles, sonores et multimédias.
+
+#### Art. 18
+
+Le Gouvernement désigne un comptable qui établit chaque année un rapport sur la situation des comptes.
+
+Chaque année au mois de mai, le Gouvernement soumet au Conseil un rapport relatif aux recettes et dépenses effectuées dans le cadre du Fonds ainsi qu'aux initiatives soutenues et aux critères de subventionnement appliqués.
+
+### Section 5. - Jeunesse.
+
+#### Art. 19
+
+L'article 3 de l'arrêté réglementaire du 3 juillet 1978 relatif aux critères d'agréation et de subventionnement pour les organisations et centres de jeunesse dans la Région de langue allemande est complété par un § 4 libellé comme suit :
+
+" § 4. Les associations qui ne répondent pas aux conditions particulières énumérées au § 2 mais qui visent :
+
+\- soit à faciliter l'accès des jeunes à la culture, à la formation et aux loisirs, à promouvoir leur mobilité en leur permettant ainsi de participer plus activement à la " vie européenne ", à les rendre davantage conscients de leur identité européenne commune et à leur permettre de mieux comprendre la diversité sociale et culturelle en Europe;
+
+\- soit à susciter l'intérêt des jeunes pour les différentes formes d'expression culturelle et à offrir aux jeunes artistes d'autres possibilités de se produire en public, peuvent également être reconnues en tant qu'organisations de la jeunesse d'expression allemande. ".
+
+## CHAPITRE III. - Famille et affaires sociales.
+
+### Section 1. - Centres publics d'aide sociale.
+
+#### Art. 20
+
+L'article 56, § 2 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, modifiée par la loi du 5 août 1992, est remplacé par la disposition suivante :
+
+" § 2. Le Conseil de l'aide sociale peut également engager le personnel nécessaire pour accomplir des tâches urgentes ou imprévues; cet engagement peut éventuellement être effectué hors cadre. ".
+
+### Section 2. - Aide à la jeunesse.
+
+#### Art. 21
+
+Dans l'article 19 du décret du 20 mars 1995 concernant l'aide à la jeunesse, l'alinéa suivant est inséré entre les alinéas 1er et 2 :
+
+" Le Gouvernement peut, dans le cadre d'un contrat, confier des tâches du service d'aide à la jeunesse à des personnes physiques ou morales. Les dispositions du présent chapitre s'appliquent à ces personnes. ".
+
+#### Art. 22
+
+Dans l'article 26, § 1 du même décret, l'alinéa suivant est inséré entre les alinéas 1er et 2 :
+
+" Le Gouvernement peut, dans le cadre d'un contrat, confier des tâches du service d'aide judiciaire à la jeunesse à des personnes physiques ou morales. Les dispositions du présent chapitre s'appliquent à ces personnes. ".
+
+Dans l'article 26, § 1er, alinéa 2, qui devient l'alinéa 3, le passage " l'article 19, alinéa 2 " est remplacé par le passage " l'article 19, alinéa 3 ".
+
+#### Art. 23
+
+§ 1er. + l'article 27, § 3 du même décret, les mots " durée maximale de sept jours " sont remplacés par les mots " durée maximale de quinze jours " et les mots " après trois jours " sont remplacés par les mots " après sept jours ".
+
+§ 2. A l'article 27 du même décret, il est inséré un § 4 libellé comme suit :
+
+" § 4. Par dérogation au § 1er, le tribunal de la jeunesse peut, dans les cas suivants, être saisi directement par le procureur du Roi d'une affaire concernant un jeune :
+
+1° lorsqu'une personne majeure est suspectée d'avoir commis un fait qualifié infraction à l'égard d'un jeune et qu'il s'avère nécessaire de prendre une mesure en vue de protéger ce jeune;
+
+2° lorsque, sur la base du présent décret ou de la loi du 8 avril 1965 relative à la protection de la jeunesse, le tribunal de la jeunesse est déjà saisi d'un dossier concernant un jeune et que le procureur du Roi juge nécessaire de prendre une mesure à l'égard d'un autre jeune de la même famille;
+
+3° lorsqu'une mesure adoptée à l'égard d'un jeune a pris fin il y a moins d'un an auprès du tribunal de la jeunesse et qu'il s'avère à nouveau nécessaire d'adopter une mesure à l'égard de ce jeune. ".
+
+#### Art. 24
+
+L'article 28 du même décret est complété comme suit :
+
+" 13° ne confier le jeune qu'à l'un de ses parents pour une durée maximale de deux ans. ".
+
+#### Art. 25
+
+A l'article 30, alinéa 2 du même décret, les mots " et 12° " sont remplacés par les mots " 12° et 13° ".
+
+#### Art. 26
+
+Il est inséré, dans le même décret, un article 32bis libellé comme suit :" Art. 32bis. Dans le cadre des crédits budgétaires disponibles, le Gouvernement peut déterminer dans un contrat de gestion et selon les modalités fixées par lui, le financement ainsi que les conditions auxquelles les personnes visées à l'article 32 remplissent leur tâche. ".
+
+#### Art. 27
+
+Le membre de phrase liminaire de l'article 37, alinéa 1er du même décret est remplacé par le membre de phrase suivant :" Nonobstant l'application de l'article 32bis, le Gouvernement fixe les conditions ".
+
+## CHAPITRE IV. - Redevances radio-TV.
+
+#### Art. 28
+
+En application de l'article 5bis, 5, alinéa 1er de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, le Gouvernement est habilité à assurer, selon les règles procédurales fixées par lui, la perception des redevances radio-TV qui doit être effectuée par la Communauté germanophone.
+
+## CHAPITRE V. - Entrée en vigueur.
+
+#### Art. 29
+
+Sauf dispositions contraires, le présent décret entre en vigueur le jour de sa publication.
+
+#### Art. 30
+
+Le Gouvernement fixe la date d'entrée en vigueur des articles 6 et 7 et rend possible, le cas échéant, une concordance avec la date à laquelle des prescriptions analogues de la Région wallonne entrent en vigueur.
+
+(NOTE : Entrée en vigueur des articles 6 et 7, fixée le 25-03-1998 par ACG 1998-03-25/37, art. 1)
+
+#### Art. 31
+
+Les articles 1er et 2 sortent leurs effets au 2 septembre 1996.
+
+Les articles 3 et 4 entrent en vigueur le premier jour de classe de l'année scolaire 1997-1998.
+
+L'article 28 produit ses effets au 1er janvier 1997.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Donné à Eupen, le 20 mai 1997.
+
+J. MARAITE,
+
+Ministre-Président du Gouvernement de la Communauté germanophone, Ministre des Finances, des Relations internationales, de la Santé, de la Famille et des Personnes âgées, du Sport et du Tourisme
+
+K.-H. LAMBERTZ,
+
+Le Ministre de la Jeunesse, de la Formation, des Médias et des Affaires sociales
+
+W. SCHRODER,
+
+Le Ministre de l'Enseignement, de la Culture, de la Recherche scientifique et des Monuments et Sites

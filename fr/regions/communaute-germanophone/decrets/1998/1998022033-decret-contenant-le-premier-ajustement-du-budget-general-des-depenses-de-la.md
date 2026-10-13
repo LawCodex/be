@@ -1,0 +1,73 @@
+---
+title: "Décret contenant le premier ajustement du Budget général des dépenses de la Communauté germanophone pour l'année budgétaire 1998 (TRADUCTION)."
+identifier: "1998022033"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/16/1998022033/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1998-02-16
+published: 1998-07-28
+entry_into_force: 1998-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/16/1998022033/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 16 FEVRIER 1998. - Décret contenant le premier ajustement du Budget général des dépenses de la Communauté germanophone pour l'année budgétaire 1998 (TRADUCTION).
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Dans l'article 1er du décret du 18 décembre 1997 contenant le budget des dépenses de la Communauté germanophone pour l'année budgétaire 1998 est remplacé par le tableau suivant :
+
+(en millions FB)
+
+1998
+
+Credits non dissocies : 3 668,69
+
+Credits dissocies :
+
+Credits d'engagement : 389,90
+
+Credits d'ordonnancements : 249,10
+
+Les tableaux 1a) et 1b) annexés à ce décret remplacent les annexes du décret du 18 décembre 1997.
+
+## Art. 2
+
+Le présent décret entre en vigueur le 1er janvier 1998.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 16 février 1998.
+
+J. MARAITE,
+
+Ministre-Président, Ministre des Finances, des Relations internationales, de la Santé, de la Famille et des Personnes âgées, du Sport et du Tourisme
+
+K.-H. LAMBERTZ,
+
+Ministre de la Jeunesse, de la Formation, des Médias et des Affaires sociales
+
+W. SCHR\DER,
+
+Ministre de l'Enseignement, de la Culture, de la Recherche scientifique et des Monuments et Sites
+
+## ANNEXES.
+
+## Art. N1
+
+a) Résumé du Budget 1998.
+
+(Tableau non repris pour des raisons techniques. Voir M.B. 28-07-1998, p. 24251 - 24252).
+
+## Art. N2
+
+b) Budget 1998 par Division organique, programme et allocation de base.
+
+(Tableau non repris pour des raisons techniques. Voir M.B. 28-07-1998, p. 24253 - 24281).

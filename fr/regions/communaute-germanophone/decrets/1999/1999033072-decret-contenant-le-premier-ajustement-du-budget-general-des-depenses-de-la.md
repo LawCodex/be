@@ -1,0 +1,75 @@
+---
+title: "Décret contenant le premier ajustement du budget général des dépenses de la Communauté germanophone pour l'année budgétaire 1999 (Traduction)."
+identifier: "1999033072"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/01/18/1999033072/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 1999-01-18
+published: 1999-10-14
+entry_into_force: 1999-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/01/18/1999033072/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 18 JANVIER 1999. - Décret contenant le premier ajustement du budget général des dépenses de la Communauté germanophone pour l'année budgétaire 1999 (Traduction).
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Dans l'article 1 du décret du 17 juin 1998 contenant le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 1999 le tableau est remplacé par le tableau suivant :
+
+(en millions FB)
+
+1999
+
+Credits non-dissocies 3 684,57
+
+Credits dissocies
+
+Credits d'engagement 337,48
+
+Credits d'ordonnancements 381,61
+
+Les tableaux 1a) et 1b) annexés au présent décret remplacent les annexes du décret du 17 juin 1998.
+
+## Art. 2
+
+L'annexe Ic) du même décret est remplacée par l'annexe Ic) du présent décret.
+
+## Art. 3
+
+Le présent décret entre en vigueur le 1 janvier 1999.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 18 janvier 1999.
+
+J. MARAITE,
+
+Ministre-Président,
+
+Ministre des Finances, des Relations internationales, de la Santé, de la Famille et des Personnes âgées, du Sport et du Tourisme.
+
+K.-H. LAMBERTZ,
+
+Ministre de la Jeunesse, de la Formation, des Médias et des Affaires sociales.
+
+W. SCHRODER,
+
+Ministre de l'Enseignement, de la Culture, de la Recherche scientifique et des Monuments et Sites.
+
+## Annexes.
+
+## Art. N1
+
+Annexe 1. a) Budget 1999 par programmes. (Tableau non repris pour des raisons techniques. Voir MB 14/10/1999, p. 39005 à 39006)
+
+b) Budget 1999 par divisions organiques, programmes et allocations de base. (Tableau non repris pour des raisons techniques. Voir MB 14/10/1999, p. 39007 à 39025)
+
+c) Dépenses sur fonds budgétaires. (Tableau non repris pour des raisons techniques. Voir MB 14/10/1999, p. 39026 à 39027)
