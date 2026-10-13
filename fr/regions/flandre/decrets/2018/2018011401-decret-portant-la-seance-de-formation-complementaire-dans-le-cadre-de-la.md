@@ -1,0 +1,377 @@
+---
+title: "Décret portant la séance de formation complémentaire dans le cadre de la formation à la conduite catégorie B"
+identifier: "2018011401"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/09/2018011401/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2018-03-09
+published: 2018-03-28
+entry_into_force: 2018-07-01
+last_amended: 2024-04-26
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/09/2018011401/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 28-03-2018 et mise à jour au 26-04-2024"
+retrieved: 2026-10-12
+---
+
+# 9 MARS 2018. - Décret portant la séance de formation complémentaire dans le cadre de la formation à la conduite catégorie B
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret portant la séance de formation complémentaire dans le cadre de la formation à la conduite catégorie B
+
+## CHAPITRE 1er. - Dispositions introductives
+
+### Art. 1er
+
+Le présent décret règle une matière régionale.
+
+### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° séance de formation complémentaire : la formation que doivent suivre les titulaires d'un permis de conduire catégorie B après avoir obtenu le permis, dans le but d'augmenter la compréhension et la gestion des risques de conduite, des principes de base en cas d'accidents et l'auto-réflexion ;
+
+2° organisme agréé : le centre agréé pour organiser la séance de formation complémentaire ;
+
+[<sup>1</sup> 3° administration : le département visé à l'article 28, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ]<sup>1</sup>;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/20, art. 24, 003; En vigueur : 31-12-2025&gt;
+
+## CHAPITRE 2. - Champ d'application territorial
+
+### Art. 3
+
+Le champ d'application territorial du présent décret s'étend à chaque personne qui, à l'expiration du délai pendant lequel la séance de formation complémentaire doit être suivie, est inscrite au registre de la population, au registre des étrangers ou au registre d'attente d'une commune flamande.
+
+## CHAPITRE 3. - Obligation de suivre la séance de formation complémentaire
+
+### Art. 4
+
+Dans un délai, fixé par le Gouvernement flamand, et au plus tard deux ans après avoir obtenu son permis de conduire, le titulaire d'un permis de conduire B est tenu de suivre une séance de formation complémentaire auprès d'un organisme agréé. Le Gouvernement flamand détermine les conditions et les modalités de la séance de formation complémentaire.
+
+L'obligation de suivre une séance de formation complémentaire s'applique dans la mesure où un permis de conduire B a été délivré aux personnes visées à l'article 3, par une commune flamande.
+
+### Art. 5
+
+Chaque personne qui suit la séance de formation complémentaire est tenue au paiement d'une indemnité. Le Gouvernement flamand détermine celui auquel l'indemnité revient, et arrête le montant et le mode de perception. Le Gouvernement flamand peut notamment prévoir que des suppléments sont dus lorsqu'un conducteur se présente tardivement pour suivre la séance de formation complémentaire.
+
+## CHAPITRE 4. [<sup>1</sup> - Agrément et subventionnement]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-26/34, art. 29, 002; En vigueur : 04-07-2019&gt;
+
+### Art. 6
+
+Le Gouvernement flamand arrête les règles pour l'attribution, le refus, la prolongation, la suspension et [<sup>1</sup> l'abrogation]<sup>1</sup> de l'agrément des organismes qui organisent la séance de formation complémentaire.
+
+[<sup>1</sup> Le Gouvernement flamand arrête les règles pour l'attribution, le refus, la prolongation, la suspension et l'abrogation de l'agrément des formateurs qui donnent une partie de la séance de formation complémentaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/20, art. 25, 003; En vigueur : 31-12-2025&gt;
+
+### Art. 6/1.
+
+[<sup>1</sup> L'institution souhaitant obtenir un agrément est redevable d'une redevance lors de l'introduction de la demande d'agrément et ensuite chaque année tant que l'agrément est maintenu.
+
+Le formateur qui souhaite donner une partie de la formation complémentaire et obtenir pour cela un agrément est redevable d'une redevance au moment de la demande.
+
+Le Gouvernement flamand fixe les montants de ces redevances de même que le mode de paiement de la redevance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/34, art. 30, 002; En vigueur : 04-07-2019&gt;
+
+### Art. 7
+
+Le Gouvernement flamand peut arrêter les modalités de l'octroi de subventions aux organismes agréés pour l'organisation de la séance de formation complémentaire.
+
+## CHAPITRE 4.1. [<sup>1</sup> Chapitre 4/1. L'octroi et le maintien de l'agrément ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/20, art. 26, 003; En vigueur : 31-12-2025&gt;
+
+### Art. 7/1.
+
+[<sup>1</sup> L'agrément comme organisme qui organise la séance de formation complémentaire et l'agrément comme formateur qui donne une partie de la séance de formation complémentaire, sont octroyés et sont conservés si le demandeur possède la moralité et la fiabilité nécessaires à l'exercice d'activités dans le cadre de la séance de formation complémentaire et si le demandeur satisfait aux autres conditions visées dans le présent décret et ses arrêtés d'exécution.
+
+Le Gouvernement flamand fixe les cas dans lesquels le demandeur ne possède en tout état de cause pas la moralité et la fiabilité nécessaires à l'exercice d'activités dans le cadre de la séance de formation complémentaire, visées à l'alinéa 1er ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-22/20, art. 27, 003; En vigueur : 31-12-2025&gt;
+
+### Art. 7/2.
+
+[<sup>1</sup> L'administration publie les listes suivantes via son site web :
+
+1° les organismes agréés ;
+
+2° les formateurs qui sont agréés pour donner une partie de la séance de formation complémentaire.
+
+L'administration mentionne dans les listes visées à l'alinéa 1er les données suivantes :
+
+1° le type d'agrément ;
+
+2° les données suivantes s'il s'agit d'un formateur :
+
+a) le nom et le prénom ;
+
+b) l'adresse ;
+
+3° les données suivantes s'il s'agit d'un organisme :
+
+a) la dénomination commerciale ;
+
+b) le siège social ;
+
+c) le numéro d'entreprise ;
+
+d) l'adresse du terrain d'entraînement ;
+
+e) l'adresse de la salle de classe ;
+
+4° la date d'octroi de l'agrément ;
+
+5° le numéro de l'agrément.
+
+Le Gouvernement flamand arrête les conditions et les modalités relatives à la publication des listes, visées à l'alinéa 1er ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/20, art. 28, 003; En vigueur : 31-12-2025&gt;
+
+### Art. 7/3
+
+[<sup>1</sup> § 1er. L'administration peut suspendre ou abroger en tout ou en partie l'agrément comme organisme qui organise la séance de formation complémentaire si les conditions, visées dans le présent décret et ses arrêtés d'exécution, ne sont pas ou plus remplies.
+
+La suspension prend fin selon les modalités définies dans la décision de suspension.
+
+§ 2. L'administration peut suspendre ou abroger en tout ou en partie l'agrément comme formateur qui donne une partie de la séance de formation complémentaire si les conditions, visées dans le présent décret et ses arrêtés d'exécution, ne sont pas ou plus remplies.
+
+La suspension prend fin selon les modalités définies dans la décision de suspension.
+
+§ 3. Le titulaire de l'agrément comme organisme qui organise la séance de formation complémentaire ou de l'agrément comme formateur qui donne une partie de la séance de formation complémentaire est informé par envoi sécurisé de l'initiative de suspension ou d'abrogation, en cas d'application des paragraphes 1er et 2. A sa demande, l'intéressé est entendu.
+
+Dans l'alinéa 1er, on entend par envoi sécurisé : un des modes de notification suivants :
+
+1° une lettre recommandée ;
+
+2° une remise contre récépissé ;
+
+3° tout autre mode de notification déterminé par le Gouvernement flamand dont la date de notification peut être établie avec certitude.
+
+§ 4. Le Gouvernement flamand peut préciser les conditions et modalités de la suspension ou abrogation visée dans le présent article ]<sup>1</sup>.
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/20, art. 29, 003; En vigueur : 31-12-2025&gt;
+
+### Art. 7/4.
+
+[<sup>1</sup> Si un agrément comme organisme qui organise la séance de formation complémentaire ou un agrément comme formateur qui donne une partie de la séance de formation complémentaire est suspendu ou abrogé conformément à l'article 7/3, l'administration le publie sur son site web. Les informations susmentionnées peuvent rester disponibles sur le site web jusqu'à un maximum de six mois après le terme de la suspension ou jusqu'à un maximum de six mois après la décision de l'abrogation d'un agrément.
+
+Dans la publication visée à l'alinéa 1er, l'administration mentionne les données suivantes :
+
+1° le type d'agrément qui a été suspendu ou abrogé ;
+
+2° les données suivantes s'il s'agit d'un formateur :
+
+a) le nom et le prénom ;
+
+b) l'adresse ;
+
+3° les données suivantes s'il s'agit d'un organisme :
+
+a) la dénomination commerciale ;
+
+b) le siège social ;
+
+c) le numéro d'entreprise ;
+
+d) l'adresse du terrain d'entraînement ;
+
+e) l'adresse de la salle de classe ;
+
+4° la date de la décision de suspension ou d'abrogation ;
+
+5° le numéro de l'agrément qui a été suspendu ou abrogé.
+
+Le Gouvernement flamand arrête les conditions et les modalités relatives à la publication visée à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/20, art. 30, 003; En vigueur : 31-12-2025&gt;
+
+## CHAPITRE 5. - Maintien
+
+### Art. 8
+
+[<sup>1</sup> Le décret-cadre Maintien flamand du 14 juillet 2023 s'applique, en ce compris le chapitre 10, sections 2, 4, 5, 10 et 12, au maintien du présent décret et de ses arrêtés d'exécution ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-22/20, art. 31, 003; En vigueur : 31-12-2025&gt;
+
+### Art. 9
+
+[<sup>1</sup> Le Gouvernement flamand peut uniquement désigner des membres du personnel de l'administration en tant qu'instance verbalisante telle que visée à l'article 2, 3°, du décret-cadre Maintien flamand du 14 juillet 2023 ou en tant qu'instance de réparation telle que visée à l'article 2, 15°, du décret-cadre Maintien flamand du 14 juillet 2023 ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-22/20, art. 32, 003; En vigueur : 31-12-2025&gt;
+
+### Art. 10
+
+[<sup>1</sup> Chaque personne qui ne suit pas à temps la séance de formation complémentaire, visée à l'article 4, est sanctionnée d'une amende administrative exclusive de 4 000 euros maximum par infraction constatée.
+
+Le montant visé à l'alinéa 1er est automatiquement adapté chaque année au 1er janvier à l'indice santé du mois de novembre de l'année précédente. Le résultat obtenu est arrondi à l'euro supérieur si la partie décimale est supérieure ou égale à 50 cents. Le résultat obtenu est arrondi à l'euro inférieur si la partie décimale est inférieure à 50 cents. L'indice de base est celui du mois de novembre 2023.
+
+Le Gouvernement flamand fixe le montant de l'amende administrative due par infraction, en fonction de la nature et de l'auteur de l'infraction, et dans les limites du montant visé à l'alinéa 1er, tel qu'indexé conformément à l'alinéa 2 ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-22/20, art. 4, 003; En vigueur : 31-12-2025&gt;
+
+### Art. 11
+
+[<sup>1</sup> . Les organismes et les formateurs qui organisent ou donnent la séance de formation complémentaire ou des parties de celle-ci en violation des dispositions du présent décret et de ses arrêtés d'exécution seront punis d'une amende administrative exclusive de maximum 10 000 euros par infraction constatée.
+
+Le montant visé à l'alinéa 1er est automatiquement adapté chaque année au 1er janvier à l'indice santé du mois de novembre de l'année précédente. Le résultat obtenu est arrondi à l'euro supérieur si la partie décimale est supérieure ou égale à 50 cents. Le résultat obtenu est arrondi à l'euro inférieur si la partie décimale est inférieure à 50 cents. L'indice de base est celui du mois de novembre 2023.
+
+Le Gouvernement flamand fixe le montant de l'amende administrative due par infraction, en fonction de la nature et de l'auteur de l'infraction, et dans les limites du montant visé à l'alinéa 1er, tel qu'indexé conformément à l'alinéa 2.
+
+En ce qui concerne la moralité et la fiabilité nécessaires à l'exercice d'activités dans le cadre de la séance de formation complémentaire, visées à l'article 7/1, alinéa 1er, la sanction visée à l'alinéa 1er s'applique uniquement dans les cas définis par le Gouvernement flamand conformément à l'article 7/2, alinéa 2. ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-22/20, art. 34, 003; En vigueur : 31-12-2025&gt;
+
+## CHAPITRE 5.1. [<sup>1</sup> - Traitement de données]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/34, art. 33, 002; En vigueur : 04-07-2019&gt;
+
+### Art. 11/1.
+
+[<sup>1</sup> L'administration collecte les données suivantes dans une banque de données :
+
+1° toutes les informations sur le permis de conduire B provisoire et le permis de conduire B des personnes qui doivent suivre la séance de formation complémentaire conformément aux articles 3 et 4 du présent décret ;
+
+2° toutes les informations sur les personnes qui doivent suivre la séance de formation complémentaire conformément aux articles 3 et 4 du présent décret ;
+
+3° toutes les informations sur les demandes de report de satisfaire à l'obligation de suivre la séance de formation complémentaire et les décisions prises ;
+
+4° toutes les informations sur les séances de formation complémentaire à organiser ainsi que toutes les informations sur les séances de formation complémentaire organisées et les participants, y compris les certificats ou attestations ;
+
+5° toutes les informations dans le cadre de demandes en vue d'obtenir un agrément comme organisme qui organise la séance de formation complémentaire ;
+
+6° toutes les informations sur les agréments et approbations délivrés à des organismes qui organisent la séance de formation complémentaire et sur les organismes auxquels ils ont été délivrés, visés à l'article 2, 2°, du présent décret, ainsi que toutes les informations sur les responsables des organismes ;
+
+7° toutes les informations dans le cadre de demandes en vue d'obtenir un agrément comme formateur qui donne une partie de la séance de formation complémentaire ;
+
+8° toutes les informations sur les agréments délivrés à des formateurs qui donnent une partie de la séance de formation complémentaire et sur les formateurs auxquels ils ont été délivrés ;
+
+9° toutes les informations sur l'approbation de formations et de perfectionnements par des opérateurs de formation ;
+
+10° toutes les informations sur les demandes d'agrément et d'approbation refusées et le motif du refus, y compris les condamnations pénales ;
+
+11° toutes les informations sur les formations et perfectionnements auxquels participent les formateurs qui donnent ou veulent donner une partie de la séance de formation complémentaire, y compris les certificats ou attestations délivrés,
+
+12° toutes les informations sur les agréments suspendus, la date à laquelle la décision de suspension a été prise et le motif, y compris les condamnations pénales ;
+
+13° toutes les informations sur les agréments abrogés, la date à laquelle la décision d'abrogation a été prise et le motif, y compris les condamnations pénales ;
+
+14° toutes les informations sur les rétributions par les organismes qui organisent la séance de formation complémentaire et les formateurs qui donnent une partie de la séance de formation complémentaire ;
+
+15° toutes les informations sur les subventions pour les organismes qui organisent la séance de formation complémentaire ;
+
+16° toutes les informations sur le contrôle, les constats, les sanctions et les mesures en application du décret-cadre Maintien flamand du 14 juillet 2023 ;
+
+17° les coordonnées et données d'identification, y compris le cas échéant les signatures, les données du registre national et les données de l'entreprise, qui sont nécessaires au traitement des données mentionnées aux points 1° à 16°.
+
+Le Gouvernement flamand peut préciser la liste de données visée à l'alinéa 1er.
+
+§ 2. Les données visées au paragraphe 1er sont collectées et traitées aux fins suivantes :
+
+1° l'exercice des compétences et l'exécution des tâches visées au présent décret et ses arrêtés d'exécution ;
+
+2° la gestion administrative par l'administration du système des agréments et des subventions ;
+
+3° le contrôle et le maintien des dispositions du présent décret et de ses arrêtés d'exécution ;
+
+4° des fins statistiques.
+
+Les données collectées et traitées aux fins visées à l'alinéa 1er, 4°, sont anonymisées.
+
+Le Gouvernement flamand peut, sans préjudice des finalités visées à l'alinéa 1er, déterminer les finalités ultérieures du traitement.
+
+§ 3. Les personnes et organismes suivants peuvent introduire des données dans la banque de données visée au paragraphe 1er :
+
+1° l'administration ;
+
+2° les organismes agréés, visés à l'article 2, 2° ;
+
+3° les formateurs qui sont agréés pour donner une partie de la séance de formation complémentaire ;
+
+4° les opérateurs de formation.
+
+Le Gouvernement flamand détermine quelle personne ou quel organisme saisit quel type de données dans la banque de données, visée au paragraphe 1er, ainsi que la fréquence de la saisie.
+
+§ 4. La banque de données visée au paragraphe 1er est soumise à une gestion stricte des utilisateurs et des accès. L'accès à la banque de données est limité aux données strictement nécessaires à l'application du présent décret et de ses arrêtés d'exécution, en tenant compte du rôle joué par le bénéficiaire d'accès.
+
+Le Gouvernement flamand peut déterminer à quelles données de la banque de données les personnes ou les organismes, visés au paragraphe 3, alinéa 1er, ont accès.
+
+Le Gouvernement flamand peut déterminer quelles données, telles que visées au paragraphe 1er, peuvent être échangées entre ou avec d'autres instances publiques et entités qui sont chargées d'une mission d'intérêt public en exécution du présent décret et de ses arrêtés d'exécution, et à quelles fins, visées au paragraphe 2. Le Gouvernement flamand peut arrêter les conditions et modalités pour l'échange de données.
+
+§ 5. Le Gouvernement flamand fixe le délai maximal de conservation des données. Les données à caractère personnel relatives à un agrément ou une approbation ne sont pas conservées au-delà d'une période de cinq ans après l'expiration de la validité de cet agrément ou approbation. Les données à caractère personnel autres que celles relatives à un agrément ou une approbation peuvent être conservées tout au long de la vie de la personne concernée ou jusqu'au moment où l'organisme arrête volontairement ou involontairement les activités. Les données d'un dossier sur le maintien du présent décret et de ses arrêtés d'exécution ne sont pas conservées plus de vingt ans après la constatation de l'infraction. Les données à caractère personnel ne sont pas conservées plus longtemps que nécessaire aux fins pour lesquelles elles sont traitées.
+
+§ 6. L'administration est le responsable du traitement, visé à l'article 4, 7), règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la Directive 95/46/CE (règlement général sur la protection des données) ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-22/20, art. 35, 003; En vigueur : 31-12-2025&gt;
+
+## CHAPITRE 6. - Modifications du Code judiciaire
+
+### Art. 12
+
+L'article 601ter du Code judiciaire, inséré par la loi du 13 mai 1999 et modifié par les lois des 24 juin 2013 et 15 juillet 2013 et par le décret du 27 novembre 2015, est complété par un point 7°, rédigé comme suit :
+
+" 7° le recours contre la décision d'imposer une amende administrative, visée à l'article 11, § 3, du décret du 9 mars 2018 portant la séance de formation complémentaire dans le cadre de la formation à la conduite catégorie B. ".
+
+## CHAPITRE 7. - Entrée en vigueur et champ d'application dans le temps
+
+### Art. 13
+
+Le présent décret entre en vigueur à la date fixée par le Gouvernement flamand, et au plus tard le 1er juillet 2018.
+
+Le Gouvernement flamand arrête les catégories de conducteurs auxquelles l'obligation de suivre la séance de formation complémentaire s'applique dans le temps.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 9 mars 2018.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+Le Ministre flamand de la Mobilité, des Travaux publics, de la Périphérie flamande de Bruxelles,
+
+du Tourisme et du Bien-être animal,
+
+B. WEYTS

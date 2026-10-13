@@ -1,0 +1,3269 @@
+---
+title: "Décret relatif à l'enseignement artistique à temps partiel"
+identifier: "2018011963"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/09/2018011963/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2018-03-09
+published: 2018-05-11
+entry_into_force: 2018-09-01
+last_amended: 2026-07-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/09/2018011963/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 11-05-2018 et mise à jour au 28-07-2026"
+retrieved: 2026-10-12
+---
+
+# 9 MARS 2018. - Décret relatif à l'enseignement artistique à temps partiel
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret relatif à l'enseignement artistique à temps partiel
+
+## CHAPITRE 1er. - Dispositions introductives
+
+##### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+##### Art. 2
+
+Sauf disposition contraire expresse, les dispositions du présent décret s'appliquent à l'enseignement artistique à temps partiel, agréé, financé et subventionné.
+
+##### Art. 3
+
+Dans le présent décret, on entend par :
+
+1° académie : une entité autonome organisant un enseignement artistique à temps partiel. Elle est dirigée par une direction, est fondée sur la même vision pédagogique et est agréée, le cas échéant, financée ou subventionnée par l'Autorité flamande. Une académie se compose d'une ou plusieurs implantations ;
+
+2° conseil d'académie : un organe de participation non obligatoire d'élèves, de personnes intéressées, de membres du personnel et de la communauté locale qui donne des avis à l'autorité scolaire sur des matières qui les concernent directement ;
+
+3° règlement de l'académie : un règlement régissant les relations entre l'autorité scolaire et les élèves et, le cas échéant, les personnes intéressées ;
+
+4° distance : la distance sur la voie publique ;
+
+[<sup>5</sup> 4° /1 Agence de l'Enseignement supérieur, de l'Education des Adultes, des Qualifications et des Allocations d'Etudes : l'agence créée par l'arrêté du Gouvernement flamand du 24 avril 2009 portant création de l'agence autonomisée interne Agence de l'Enseignement supérieur, de l'Education des Adultes, des Qualifications et des Allocations d'Etudes ;]<sup>5</sup>
+
+5° Agentschap voor Onderwijsdiensten : l'agence créée par l'arrêté du Gouvernement flamand du 2 septembre 2005 portant création de l'agence autonomisée interne " Agentschap voor Onderwijsdiensten " (Agence de Services d'Enseignement) ;
+
+6° contexte d'apprentissage alternatif : une forme de formation qui est complémentaire aux activités d'apprentissage de l'académie. Ce contexte peut être un contexte professionnel réel chez un employeur, où l'élève dans des conditions similaires à celles des travailleurs réguliers de cet employeur effectue un travail effectif, ou un contexte d'une association socioculturelle où l'élève participe au fonctionnement de cette association dans le but d'acquérir certaines compétences ;
+
+7° compétences de base : les objectifs dérivés d'un cadre de référence pour les connaissances, les aptitudes et les attitudes utilisées par l'élève d'une façon intégrée pour des activités sociales. Les compétences de base sont déterminées par orientation d'études et par degré au sein des domaines ;
+
+8° qualification professionnelle : un ensemble complet et intégré de compétences grâce auxquelles une profession peut être exercée ;
+
+9° personnes intéressées : les personnes exerçant l'autorité parentale ou assumant la garde en droit ou en fait de l'élève mineur, ou l'élève majeur lui-même ;
+
+10° attestation de qualification professionnelle : un titre reconnu d'office, délivré par l'académie à un élève ayant terminé avec succès une orientation d'études de longue durée et ayant obtenu la qualification professionnelle correspondante ;
+
+11° attestation de compétences : un titre reconnu d'office, délivré par l'académie à un élève ayant terminé avec succès un premier, deuxième ou troisième degré d'une orientation d'études de longue durée ;
+
+12° contribution : une somme qu'une autorité scolaire peut exiger d'un élève à l'inscription en plus des droits d'inscription, visés au point 30° ;
+
+13° [<sup>1</sup> implantation spéciale : un bâtiment ou complexe de bâtiments dans lequel se trouve un orgue ou carillon appartenant au patrimoine immobilier et seul le cours d'orgue ou de carillon est donné ou un bâtiment ou complexe de bâtiments où se trouvent des instruments de percussion difficiles à déplacer qui appartiennent à une association socioculturelle, à une école d'enseignement secondaire ou à une School of Arts et où seule la percussion est donnée, ou une prison ou un centre fédéral fermé situé dans la région de langue néerlandaise ou dans la région bilingue Bruxelles-Capitale [<sup>5</sup> ...]<sup>5</sup>;]<sup>1</sup>
+
+14° capacité : le nombre maximum d'élèves prévu par formation par l'autorité scolaire en vue de garantir la qualité de l'enseignement ;
+
+15° cluster : énumération d'options ou d'instruments de musique pour lesquels une autorité scolaire dans leur ensemble peut acquérir compétence d'enseignement ;
+
+16° enseignement artistique à temps partiel : l'enseignement artistique en arts plastiques et audiovisuels, danse, arts de la parole-théâtre et musique, agréé par l'Autorité flamande et qui ne fait pas partie de l'enseignement fondamental, secondaire, l'éducation des adultes ou l'enseignement supérieur ;
+
+17° commune densément peuplée : une commune de plus de 200 habitants par km. Pour la détermination du nombre d'habitants par km, le calcul le plus récent de l'Institut national de la Statistique est utilisé ;
+
+18° domaine : une forme d'expression artistique en respectivement arts plastiques et audiovisuels, danse, arts de la parole-théâtre et musique ;
+
+19° formation d'initiation transversale : une formation au niveau du premier degré dans lequel deux domaines ou plus sont étudiés au maximum ;
+
+20° commune faiblement peuplée : une commune de 200 habitants par km ou moins. Pour la détermination du nombre d'habitants par km, le calcul le plus récent de l'Institut national de la Statistique est utilisé ;
+
+21° [<sup>2</sup> objectifs pédagogiques]<sup>2</sup> : compétences de base, qualifications professionnelles ou objectifs finaux spécifiques ;
+
+22° électronique : un traitement électronique des données qui satisfait aux conditions de l'article 2281 du Code civil du 21 mars 1804 et en outre fournit la preuve de ce traitement, du moment où il a été effectué et de l'authenticité et de l'intégrité des données traitées ;
+
+23° agrément : la compétence octroyée par l'Autorité flamande à l'autorité scolaire de délivrer aux élèves des titres valables de plein droit ;
+
+24° élève admissible au financement : un élève régulier dans une orientation d'études de courte durée ou de longue durée qui, dans la même formation a prolongé son parcours d'apprentissage d'une année d'études au maximum et, en outre, est conforme à l'article 67 ;
+
+25° règlement de financement et de subventionnement : le règlement du paiement des traitements, subventions-traitements et moyens de fonctionnement ;
+
+26° fusion : le regroupement de deux ou plusieurs académies en une seule académie ;
+
+27° indice santé : l'indice des prix, visé à l'article 2 de l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays ;
+
+28° degré : un niveau qui désigne une subdivision horizontale dans une orientation d'études de longue durée, se composant d'un nombre d'années d'études. Les degrés sont indiqués par les numéros 1 à 4 ;
+
+29° programme adapté individuellement : un parcours d'apprentissage avec des objectifs d'apprentissage sur mesure de l'élève si, malgré les aménagements raisonnables déjà mis en place, l'élève réalise insuffisamment de gains d'apprentissage dans le programme d'études commun ;
+
+30° droits d'inscription : les droits payés par l'élève régulier lors de son inscription pour participer à des activités d'apprentissage d'une année d'études des orientations d'études de courte durée ou de longue durée ;
+
+31° orientation d'études de courte durée : un parcours d'apprentissage de deux ou trois années d'études menant à une attestation d'apprentissage; [<sup>3</sup> , une attestation de compétences, ou une attestation de qualification professionnelle]<sup>3</sup>.
+
+32° académie des arts : une académie qui propose au moins trois domaines, parmi lesquels arts plastiques et audiovisuels et musique ;
+
+33° orientation d'études de longue durée : un parcours d'apprentissage intégrant différents degrés menant à une qualification professionnelle ou à la partie spécifique d'une qualification d'enseignement ;
+
+34° unité de vie : une ou plusieurs personnes majeures, quel que soit leur sexe, avec éventuellement une ou plusieurs personnes mineures qui ont leur résidence principale à la même adresse, ainsi qu'un ou plusieurs élèves ou étudiants mineurs mariés, indépendants ou isolés, quel que soit leur sexe, avec éventuellement une ou plusieurs personnes mineures ou majeures qui ont leur résidence principale à la même adresse ;
+
+35° activité d'apprentissage : une activité au sein ou en dehors de l'académie permettant un processus d'apprentissage qui se concrétise par une interaction entre l'élève et l'enseignant, soit par le travail indépendant soit par d'autres formes de travail ;
+
+36° activités d'apprentissage sur mesure : activités d'apprentissage en fonction des besoins des élèves ou des diplômés d'une académie qui englobent une période de temps limitée et sont planifiées de manière flexible au cours de l'année scolaire ;
+
+37° une attestation d'apprentissage : un titre reconnu d'office, délivré par l'académie à un élève ayant terminé avec succès une orientation d'études de courte durée ou un degré au sein du programme adapté individuellement ;
+
+38° année d'études : une année scolaire comme partie d'une formation pluriannuelle dans laquelle un programme de cours est suivi ;
+
+39° période de cours : une période de cinquante minutes dans le domaine arts plastiques et audiovisuels ou de soixante minutes dans les domaines danse, arts de la parole-théâtre et musique ou de cinquante ou soixante minutes dans la formation d'initiation transversale comme unité pour la durée d'une activité d'apprentissage et unité pour l'attribution de l'encadrement du personnel enseignant ;
+
+40° comité local : l'organe local de concertation ou de négociation qui est compétent en matière de conditions de travail et de gestion des ressources humaines ;
+
+41° encadrement : la subvention ou le financement par l'Autorité flamande du traitement des personnels d'appui, directeur et enseignant et, le cas échéant, du personnel auxiliaire d'éducation de l'académie ;
+
+42° coefficient d'encadrement : le facteur de calcul pour calculer l'encadrement d'une certaine subdivision structurelle ;
+
+43° unités d'encadrement : unités de prestation pour la charge administrative dans l'enseignement artistique à temps partiel ;
+
+44° compétence d'enseignement : l'autorisation délivrée par l'Autorité flamande pour l'organisation d'une option ou d'un instrument de musique ;
+
+45° inspection de l'enseignement : l'inspection, visée au titre IV du décret du 8 mai 2009 relatif à la qualité de l'enseignement ;
+
+46° qualification d'enseignement : un ensemble complet et intégré de compétences requises pour fonctionner et participer socialement, par lesquelles des études ultérieures dans l'enseignement secondaire ou supérieur peuvent être entamées ou des activités professionnelles peuvent être entreprises ;
+
+47° réseau d'enseignement :
+
+\- l'enseignement communautaire : l'enseignement communautaire tel que visé à l'article 2 du décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire ;
+
+\- l'enseignement officiel subventionné : l'enseignement organisé par des personnes morales de droit public autres que l'enseignement communautaire et admissible au subventionnement par la Communauté flamande ;
+
+\- l'enseignement libre subventionné : l'enseignement organisé par des personnes physiques ou des personnes morales de droit privé et admissible au subventionnement par la Communauté flamande ;
+
+48° formation : Par formation, il faut entendre :
+
+\- la formation d'initiation transversale ;
+
+\- le premier degré du domaine arts plastiques et audiovisuels, danse, arts de la parole-théâtre et musique ;
+
+\- le deuxième degré du domaine danse ou arts de la parole-théâtre ;
+
+\- le deuxième degré du domaine arts plastiques et audiovisuels, en suivant une option déterminée ;
+
+\- le deuxième degré du domaine musique, en optant pour un certain instrument de musique ;
+
+\- le troisième degré du domaine arts plastiques et audiovisuels, danse ou arts de la parole-théâtre, en suivant une option déterminée ;
+
+\- [<sup>4</sup> le troisième degré du domaine musique, en suivant une option déterminée et, le cas échéant, en combinaison avec un instrument de musique spécifique ; ]<sup>4</sup>
+
+\- [<sup>1</sup> le quatrième degré d'une orientation d'études dans le domaine arts plastiques et audiovisuels]<sup>1</sup>, danse ou arts de la parole-théâtre, en suivant une option déterminée ;
+
+\- [<sup>1</sup> [<sup>4</sup> le quatrième degré d'une orientation d'études dans le domaine musique, en suivant une option déterminée et, le cas échéant, en combinaison avec un instrument de musique spécifique ; ]<sup>4</sup> ;
+
+\- l'orientation d'études de courte durée culture plastique et audiovisuelle ;
+
+\- l'orientation d'études de courte durée spécialisation arts plastiques et audiovisuels, en suivant une option déterminée ;
+
+\- l'orientation d'études de courte durée culture de la danse ;
+
+\- l'orientation d'études de courte durée spécialisation danse en suivant une option spécifique ;
+
+\- l'orientation d'études de courte durée arts de la parole-culture théâtrale ;
+
+\- [<sup>3</sup> -l'orientation d'études de courte durée écrivain en suivant une option déterminée]<sup>3</sup> ;
+
+\- l'orientation d'études de courte durée spécialisation arts de la parole-culture théâtrale en suivant une option déterminée ;
+
+\- [<sup>4</sup> l'orientation d'études de courte durée histoire de la musique, en suivant une option déterminée ;]<sup>4</sup> ;
+
+\- l'orientation d'études de courte durée histoire de la musique ;
+
+\- [<sup>4</sup> l'orientation d'études de courte durée spécialisation musique, en suivant une option déterminée et, le cas échéant, en combinaison avec un instrument de musique spécifique ;]<sup>4</sup>;
+
+49° option : le contenu d'une orientation d'études qui détermine les caractéristiques d'une formation et se compose d'un ou plusieurs cours fixés par le Gouvernement flamand ;
+
+50° transfert : le transfert d'une ou plusieurs subdivisions structurelles dans une implantation déterminée d'une académie à une autre, sur la base ou non d'un échange mutuel ;
+
+51° norme de programmation : le nombre d'élèves réguliers qui doit être inscrit à un jour de comptage déterminé dans une académie, un domaine ou une subdivision structurelle dans une implantation pour être inclus dans le règlement de financement ou de subventionnement ;
+
+52° norme de rationalisation : le nombre d'élèves réguliers qui doit être inscrit à un jour de comptage déterminé dans une académie, un domaine ou une subdivision structurelle dans une implantation pour continuer à être financée ou subventionnée après la période de programmation ;
+
+53° aménagements raisonnables : des mesures qui sont prises sur la base des principes et indicateurs visés à l'article 2 du protocole du 19 juillet 2007 relatif au concept d'aménagements raisonnables en Belgique en vertu de la loi du 25 février 2003 tendant à lutter contre la discrimination et modifiant la loi du 15 février 1993 créant un Centre pour l'égalité des chances et de lutte contre le racisme de manière à ce que les élèves à besoins éducatifs spécifiques puissent suivre les activités d'apprentissage dans l'académie ;
+
+54° élève régulier : un élève qui remplit les conditions visées au point 63° [<sup>1</sup> ...]<sup>1</sup>[<sup>3</sup> et qui, dès son inscription, suit effectivement et régulièrement toutes les activités d'apprentissage de l'année pour laquelle il est inscrit pendant toute l'année scolaire, sauf en cas d'absence justifiée ou de dispense d'une matière ]<sup>3</sup> ;
+
+55° autorité scolaire : le pouvoir organisateur visé à l'article 24, § 4, de la Constitution ; il s'agit de la personne morale ou physique responsable pour une ou plusieurs académies ;
+
+56° année scolaire : la période du 1er septembre au 31 août de l'année calendaire suivante ;
+
+57° spécialisation : une orientation d'études de courte durée d'un domaine s'axant sur le métier d'artiste individuel ;
+
+58° subdivision structurelle : une orientation d'études de courte durée dans un domaine, un ensemble d'orientations d'études de longue durée dans un degré déterminé d'un domaine à l'exception du troisième degré arts plastiques et audiovisuels pour adultes et du deuxième degré musique pour adultes, de la formation d'initiation transversale ou du troisième degré arts plastiques ou audiovisuels pour adultes ou du deuxième degré musique pour adultes ;
+
+59° volume des études : le temps que l'élève consacre aux activités d'apprentissage proposées par l'académie. Le volume des études est déterminé par orientation d'études et est exprimé comme un produit d'années d'études et de périodes de cours hebdomadaires ;
+
+60° période d'études : une période de temps délimitée exprimée en années d'études au cours de laquelle un élève achève une formation déterminée dans un degré déterminé ;
+
+61° orientation d'études : un parcours d'apprentissage dans un domaine s'axant sur l'obtention d'une qualification professionnelle donnée, de la partie spécifique d'une qualification d'enseignement donnée ou d'une attestation d'apprentissage donnée ;
+
+62° jour de comptage : le jour auquel les élèves sont comptés en vue de l'attribution de l'encadrement et des moyens et subventions de fonctionnement et de l'obtention des normes de rationalisation et de programmation ;
+
+63° condition d'admission : une condition à laquelle un élève doit satisfaire pour suivre une formation ;
+
+64° parcours : le nombre d'années d'études que dure une subdivision structurelle donnée ;
+
+65° options et instruments de musique uniques : des options et des instruments de musique suivis par très peu d'élèves à déterminer par le Gouvernement flamand ;
+
+66° cours : la partie d'une formation dans laquelle un élève suit un nombre d'activités d'apprentissage cohérents sur le fond ;
+
+67° personne de confiance : une personne en qui l'élève ou les personnes concernées placent leur confiance et qui les aide dans certains cas ;
+
+68° implantation : un bâtiment ou complexe de bâtiments où est installé une académie ou une partie d'une académie ;
+
+69° Vlaamse Onderwijsraad : le Conseil flamand de l'Enseignement, le conseil consultatif stratégique tel que décrit au titre IV du décret du 2 avril 2004 relatif à la participation à l'école et au " Vlaamse Onderwijsraad " ;
+
+70° adulte : l'élève du domaine arts de la parole- théâtre, danse ou musique ayant atteint l'âge de 15 ans au 31 décembre de l'année scolaire ou l'élève du domaine arts plastiques et audiovisuels ayant atteint l'âge de 18 ans à la même date ;
+
+71° dispense : le cours ou l'ensemble de cours pour lesquels l'élève ne doit pas participer aux activités d'apprentissage ou d'évaluation.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 151, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 176, 008; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2022-07-08/11, art. 52, 013; En vigueur : 01-09-2022&gt;
+
+(4)&lt;DCFL 2023-07-07/17, art. 139, 016; En vigueur : 01-09-2023&gt;
+
+(5)&lt;DCFL 2025-11-21/10, art. 36, 023; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE 2. - Mission et finalité de l'enseignement artistique à temps partiel
+
+### Section 1re. - Mission de l'enseignement artistique à temps partiel
+
+##### Art. 4
+
+L'enseignement artistique à temps partiel développe le talent et les compétences artistiques des élèves par la pratique, la réalisation, l'expérience et la contemplation de l'art de manière à ce qu'ils puissent passer à l'activité artistique pendant les loisirs ou sur le marché du travail ou faire la transition vers l'enseignement supérieur artistique.
+
+Dans le cadre de l'objectif, visé à l'alinéa 1er, une académie assure les missions suivantes :
+
+1° organiser un enseignement artistique conformément aux dispositions du présent décret ;
+
+2° accompagner les élèves dans leurs choix au cours du parcours d'apprentissage afin de leur permettre d'acquérir une autonomie dans leur développement artistique ;
+
+3° évaluer et certifier les compétences acquises.
+
+En vue de l'approfondissement ou l'élargissement de l'enseignement artistique, visé à l'alinéa 2, 1°, une académie peut proposer une offre d'activités d'apprentissage sur mesure. Cette offre répond à un ou plusieurs des objectifs suivants :
+
+1° une coopération interdisciplinaire à travers les domaines ou les orientations d'études dans le même domaine ;
+
+2° l'organisation de moments de retour pour les diplômés ;
+
+3° l'innovation de l'enseignement pour ce qui est contenu et méthodologie.
+
+[<sup>1</sup> 4° l'organisation d'activités privilégiant un apprentissage en profondeur pour les étudiants de l'enseignement supérieur sur avis d'une institution d'enseignement supérieur, en vue de renforcer leurs compétences artistiques et culturelles.]<sup>1</sup>
+
+Une académie peut organiser une offre d'activités d'apprentissage en vue des initiatives locales de coopération avec des écoles de l'enseignement maternel, obligatoire et supérieur.
+
+Une académie ne peut exécuter d'autres missions ou exercer d'autres compétences que celles qui lui sont attribuées par application du présent décret.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 152, 005; En vigueur : 01-09-2019&gt;
+
+### Section 2. [<sup>1</sup> - Objectifs pédagogiques]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 177, 008; En vigueur : 01-09-2020&gt;
+
+##### Art. 5
+
+Pour toute orientation d'études de longue durée sont déterminées les compétences de base pour les premier, deuxième et troisième degrés.
+
+Pour la formation d'initiation transversale, les compétences de base sont déterminées.
+
+Les qualifications professionnelles s'appliquent aux élèves [<sup>3</sup> des troisième et quatrième degré du domaine arts plastiques et audiovisuels, et du quatrième degré des domaines danse, musique et arts de la parole-théâtre]<sup>3</sup> qui passent à l'activité artistique pendant les loisirs ou sur le marché du travail, des qualifications professionnelles sont d'application. [<sup>1</sup> [<sup>4</sup> Les objectifs finaux spécifiques des subdivisions expression artistique et appréciation de l'art du domaine scientifique art et culture, visés à l'annexe 3 au décret du 14 juillet 2023 relatif aux objectifs pédagogiques pour les deuxième et troisième degrés de l'enseignement secondaire]<sup>4</sup>]<sup>1</sup> aux élèves [<sup>3</sup> des troisième et quatrième degré du domaine arts plastiques et audiovisuels, et du quatrième degré des domaines danse, musique et arts de la parole-théâtre ]<sup>3</sup> souhaitant transiter vers l'enseignement supérieur.
+
+Pour toute orientation d'études de courte durée [<sup>1</sup> , à l'exception de l'orientation d'étude de courte durée écrivain]<sup>1</sup>, l'autorité scolaire sélectionne un ensemble pertinent et consistent d'objectifs finaux spécifiques [<sup>2</sup> ou des compétences de base de l'enseignement artistique à temps partiel relevant principalement du domaine artistique concerné ]<sup>2</sup>.
+
+[<sup>1</sup> Pour l'orientation d'étude de courte durée, la qualification professionnelle d'écrivain littéraire amateur s'applique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 245, 010; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFL 2022-07-08/11, art. 53, 013; En vigueur : 01-09-2022&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 165, 018; En vigueur : 01-09-2024&gt;
+
+(4)&lt;DCFL 2024-05-17/57, art. 11, 019; En vigueur : 01-09-2024&gt;
+
+##### Art. 6
+
+Les objectifs finaux spécifiques et les compétences de base sont développés à l'aide des éléments de descripteur, visés à l'article 6 du décret du 30 avril 2009 relatif à la structure des certifications.
+
+Les objectifs finaux spécifiques sont fixés par le Parlement flamand, sous forme de sanction d'un arrêté du Gouvernement flamand fixé sur avis du Vlaamse Onderwijsraad.
+
+L'arrêté précité est sanctionné par décret au plus tard six mois après son approbation par le Gouvernement flamand. Si le Parlement flamand ne sanctionne pas cet arrêté, celui-ci cesse d'avoir force de droit.
+
+Les qualifications professionnelles sont reconnues suivant la procédure, visée aux articles 10 à 13/1 du décret du 30 avril 2009 relatif à la structure des certifications.
+
+Pour les orientations d'études de longue durée conduisant à une profession pour laquelle il n'existe pas de qualifications professionnelles reconnues et ce, aussi longtemps qu'il n'y a pas de qualifications professionnelles reconnues, le Gouvernement flamand détermine les cadres de référence dont sont dérivées les compétences de base. Comme pour les qualifications professionnelles reconnues, les compétences de base sont déterminées en utilisant des éléments de descripteur du cadre de qualifications. Le Vlaamse Onderwijsraad, le secteur socioculturel, et les fonds sectoriels et les fédérations professionnelles des professionnels artistiques seront invités à donner leur avis sur l'arrêté qui fixera les cadres de référence, le processus et les acteurs pour acquérir ces compétences.
+
+Les compétences de base sont déterminées par le Gouvernement flamand.
+
+[<sup>1</sup> Aux fins du contrôle de la qualité en vue de l'agrément et de l'audit visés à l'article 32, 1° et 2° du décret du 8 mai 2009 relatif à la qualité de l'enseignement, l'inspection de l'enseignement se base sur l'acquisition des compétences de base, des compétences de la qualification professionnelle ou des compétences de la partie spécifique de la qualification d'enseignement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 153, 005; En vigueur : 01-09-2019&gt;
+
+##### Art. 7
+
+§ 1er. Lorsqu'une autorité scolaire juge que les objectifs finaux spécifiques ou les compétences de base ne laissent pas assez de marge pour ses propres convictions pédagogiques ou sont inconciliables avec celles-ci, elle dépose une demande de dérogation auprès du Gouvernement flamand. Cette demande n'est recevable que s'il est indiqué précisément pourquoi ces objectifs finaux spécifiques ou ces compétences de base ne laissent pas assez de marge pour ses propres conceptions pédagogiques ou pourquoi ils sont inconciliables avec celles-ci. L'académie propose dans la même demande des objectifs finaux spécifiques ou compétences de base de remplacement dont apparaît l'équivalence avec les objectifs finaux spécifiques ou les compétences de base.
+
+§ 2. Le Gouvernement flamand juge de la recevabilité de la demande et décide, le cas échéant, si les objectifs finaux spécifiques ou compétences de base de remplacement sont équivalents dans leur ensemble aux objectifs finaux spécifiques fixés par arrêté ou par décret ou aux compétences de base fixées par arrêté du Gouvernement flamand et permettent de délivrer des titres équivalents.
+
+L'équivalence est jugée sur la base des critères suivants :
+
+1° le respect des droits et libertés fondamentaux ;
+
+2° le contenu requis : l'offre d'enseignement que renferment les objectifs finaux spécifiques ou les compétences de base comprend au moins des contenus pour les orientations d'études correspondantes. Ces contenus ne doivent être équivalents que dans leur ensemble aux contenus pour lesquels des objectifs finaux spécifiques sont déterminés par arrêté du Gouvernement flamand ou aux contenus pour lesquels des compétences de base sont déterminées par arrêté du Gouvernement flamand ;
+
+3° les objectifs finaux spécifiques ou compétences de base de remplacement sont formulés en des termes qui indiquent ce que l'on peut attendre des élèves ;
+
+4° les objectifs finaux spécifiques ou compétences de base de remplacement portent sur les connaissances, notions, aptitudes et attitudes ;
+
+5° les objectifs finaux spécifiques de remplacement portent sur des aptitudes, connaissances spécifiques, notions et attitudes permettant aux élèves d'entamer un enseignement complémentaire ;
+
+6° les objectifs finaux spécifiques ou compétences de base de remplacement sont formulés de façon à permettre de vérifier la mesure dans laquelle les élèves les acquièrent.
+
+Afin de juger de la recevabilité et de l'équivalence, le Gouvernement flamand demande l'avis [<sup>1</sup> de l'Agence de l'Enseignement supérieur, de l'Education des Adultes, des Qualifications et des Allocations d'Etudes, et]<sup>1</sup> d'une commission ad hoc d'experts externes. Le Gouvernement flamand fixe les modalités de cette procédure, à condition que le demandeur soit entendu.
+
+§ 3. L'académie dépose une demande de dérogation, au plus tard le 1er septembre de l'année scolaire précédant l'année scolaire pendant laquelle les objectifs finaux spécifiques et les compétences de base entreront en vigueur. Le Gouvernement flamand décide de la demande au plus tard le 31 décembre de l'année scolaire précédente.
+
+Un arrêté sur une demande de dérogation relative aux objectifs finaux spécifiques est ratifié par décret dans un délai de six mois. Lorsque l'arrêté n'est pas ratifié par décret dans le délai précité, celui-ci cesse d'avoir force de droit.
+
+§ 4. Par dérogation aux dispositions du paragraphe 3, l'académie peut déposer une demande de dérogation, dans un délai d'un mois de la publication d'un décret de ratification, si ce décret de ratification est publié après le 1er septembre de l'année scolaire précédant l'entrée en vigueur.
+
+Dans les cas visés à l'alinéa 1er, l'académie est liée par les objectifs finaux spécifiques à compter du 1er septembre suivant soit la publication d'un décret ratifiant un arrêté reconnaissant les objectifs finaux spécifiques équivalents, soit la décision du Gouvernement flamand déclinant la demande de dérogation.
+
+----------
+
+(1)&lt;DCFL 2025-11-21/10, art. 37, 023; En vigueur : 01-01-2026&gt;
+
+### Section 3. - Programme d'études et projet pédagogique artistique
+
+##### Art. 8
+
+§ 1er. Dans le respect des compétences de base, qualifications professionnelles et objectifs finaux spécifiques imposés ou déclarés équivalents par le Gouvernement flamand, chaque autorité scolaire dispose d'un programme d'études approuvé et choisit librement ses propres méthodes pédagogiques
+
+Les programmes d'études contiennent, le cas échéant, les objectifs que l'autorité scolaire formule explicitement pour ses élèves, à partir du propre projet pédagogique artistique. Dans les programmes d'études sont inclus de manière identifiable :
+
+1° les compétences de base ;
+
+2° les qualifications professionnelles ;
+
+3° les objectifs finaux spécifiques.
+
+[<sup>1</sup> Le programme d'études comprend un tableau de concordance entre les objectifs pédagogiques fixés par décret ou arrêté, et les objectifs du programme d'études. ]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Afin de garantir la qualité de l'enseignement artistique à temps partiel, l'autorité scolaire élabore des programmes d'études limités en volume qui laissent assez de marge de manoeuvre aux académies, enseignants, équipes d'enseignants et élèves pour apporter leur propre contribution.
+
+Les programmes d'études sont soumis pour approbation à l'Agence de l'Enseignement supérieur, de l'Education des Adultes, des Qualifications et des Allocations d'Etudes. L'agence précitée vérifie si les compétences de base, les qualifications professionnelles et les objectifs finaux spécifiques ont été intégralement et correctement transposés dans le programme d'études et si celui-ci ne contient aucun élément contraire aux objectifs minimums fixés.
+
+Le Gouvernement flamand peut arrêter des modalités relatives aux critères d'approbation et aux modalités de soumission des programmes d'études. Les programmes d'études constituent un instrument complémentaire permettant à l'inspection de l'enseignement d'évaluer la politique de qualité d'une académie]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2025-11-21/10, art. 38, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 9
+
+L'autorité scolaire détermine librement l'organisation de son enseignement artistique à temps partiel et sa vision artistique et pédagogique. Elle fixe cette organisation et vision dans le projet artistique et pédagogique.
+
+## CHAPITRE 3. - Structure de l'enseignement artistique à temps partiel
+
+### Section 1re. - Structure
+
+##### Art. 10
+
+L'enseignement artistique à temps partiel contient des orientations d'études dans les domaines artistiques suivants :
+
+1° arts plastiques et audiovisuels ;
+
+2° danse ;
+
+3° arts de la parole-théâtre ;
+
+4° musique.
+
+##### Art. 11
+
+Les orientations d'études de longue durée comportent quatre degrés consécutifs se composant de plusieurs années d'études.
+
+Les orientations d'études de courte durée comportent deux ou trois années d'études. Elles ne sont pas organisées en degrés.
+
+### Section 2. - Domaine arts plastiques et audiovisuels
+
+##### Art. 12
+
+§ 1er. Dans le domaine arts plastiques et audiovisuels, [<sup>1</sup> une académie peut proposer les orientations d'études de longue durée suivantes conduisant à une qualification professionnelle]<sup>1</sup> telles que déterminées par le secteur socioculturel, les fonds de secteur et les fédérations professionnelles de professionnels artistiques :
+
+1° artiste plasticien ;
+
+2° cinéaste ;
+
+3° photographe ;
+
+4° créateur de bijoux/orfèvre ;
+
+5° dentellier ;
+
+6° créateur ;
+
+7° artisan restaurateur de meubles ;
+
+8° spécialiste du fer forgé/ferronnier d'art.
+
+[<sup>1</sup> Le Gouvernement flamand détermine quelle qualification professionnelle peut être obtenue au moyen de quelle orientation d'études.]<sup>1</sup>
+
+§ 2. Les [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> des premier, deuxième et troisième degrés sont communes pour ces orientations d'études[<sup>2</sup>, à l'exception du troisième degré pour les élèves souhaitant transiter vers l'enseignement supérieur, auxquels les objectifs finaux spécifiques du domaine scientifique art et culture s'appliquent, conformément à l'article 5, alinéa 3]<sup>2</sup>.
+
+Les [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> du quatrième degré sont différentes pour chacune de ces orientations d'études.
+
+§ 3. La somme du volume des études des années d'études du premier degré est d'au moins quatre périodes de cours hebdomadaires réparties sur un parcours de deux années d'études.
+
+La somme du volume des études des années d'études du deuxième degré est d'au moins huit périodes de cours hebdomadaires réparties sur un parcours de quatre années d'études.
+
+La somme du volume des études des années d'études du troisième degré pour jeunes est d'au moins vingt-quatre périodes de cours hebdomadaires réparties sur un parcours de six ou sept années d'études.
+
+La somme du volume des études des années d'études du troisième degré pour adultes est d'au moins huit périodes de cours hebdomadaires réparties sur un parcours de deux années d'études.
+
+La somme du volume des études des années d'études du quatrième degré est d'au moins quarante périodes de cours hebdomadaires réparties sur un parcours de dix, cinq ou quatre années d'études.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 178, 008; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 166, 018; En vigueur : 01-09-2024&gt;
+
+##### Art. 13
+
+§ 1er. Dans le domaine arts plastiques et audiovisuels, une académie peut proposer les orientations d'études de courte durée suivantes :
+
+1° culture plastique et audiovisuelle ;
+
+2° spécialisation en arts plastiques et audiovisuels.
+
+§ 2. La somme du volume des études des années d'études de l'orientation d'études culture plastique et audiovisuelle est d'au moins six périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+La somme du volume des études des années d'études de l'orientation d'études spécialisation en arts plastiques et audiovisuels est d'au moins seize périodes de cours hebdomadaires réparties sur un parcours de deux années d'études.
+
+### Section 3. - Domaine danse
+
+##### Art. 14
+
+§ 1er. Dans le domaine danse, [<sup>1</sup> une académie peut proposer les orientations d'études de longue durée suivantes conduisant à une qualification professionnelle]<sup>1</sup> telles que déterminées par le secteur socioculturel :
+
+1° chorégraphe ;
+
+2° danseur-créateur ;
+
+3° danseur-interprète.
+
+[<sup>1</sup> Le Gouvernement flamand détermine quelle qualification professionnelle peut être obtenue au moyen de quelle orientation d'études.]<sup>1</sup>
+
+§ 2. Les [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> des premier, deuxième et troisième degrés sont communes pour ces orientations d'études.
+
+Les [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> du quatrième degré sont différentes pour chacune de ces orientations d'études.
+
+§ 3. La somme du volume des études des années d'études du premier degré est d'au moins deux périodes de cours hebdomadaires réparties sur un parcours de deux années d'études.
+
+La somme du volume des études des années d'études du deuxième degré est d'au moins huit périodes de cours hebdomadaires réparties sur un parcours de quatre ou deux années d'études.
+
+La somme du volume des études des années d'études du troisième degré est d'au moins sept périodes de cours hebdomadaires et demie réparties sur un parcours de trois années d'études.
+
+La somme du volume des études des années d'études du quatrième degré est d'au moins neuf périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 179, 008; En vigueur : 01-09-2020&gt;
+
+##### Art. 15
+
+§ 1er. Dans le domaine danse, une académie peut proposer les orientations d'études de courte durée suivantes :
+
+1° culture de la danse ;
+
+2° spécialisation en danse.
+
+§ 2. La somme du volume des études des années d'études de l'orientation d'études culture de la danse est d'au moins six périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+La somme du volume des études des années d'études de l'orientation d'études spécialisation en danse est d'au moins quatre périodes de cours hebdomadaires réparties sur un parcours de deux années d'études.
+
+### Section 4. - Domaine arts de la parole-théâtre
+
+##### Art. 16
+
+§ 1er. Dans le domaine arts de la parole-théâtre, [<sup>1</sup> une académie peut proposer les orientations d'études de longue durée suivantes conduisant à une qualification professionnelle ]<sup>1</sup> telles que déterminées par le secteur socioculturel :
+
+1° acteur-créateur ;
+
+2° metteur en scène de théâtre ;
+
+3° acteur-interprète.
+
+[<sup>1</sup> Le Gouvernement flamand détermine quelle qualification professionnelle peut être obtenue au moyen de quelle orientation d'études.]<sup>1</sup>
+
+§ 2. Les [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> des premier, deuxième et troisième degrés sont communes pour ces orientations d'études.
+
+Les [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> du quatrième degré sont différentes pour chacune de ces orientations d'études.
+
+§ 3. La somme du volume des études des années d'études du premier degré est d'au moins deux périodes de cours hebdomadaires réparties sur un parcours de deux années d'études.
+
+La somme du volume des études des années d'études du deuxième degré est d'au moins quatre périodes de cours hebdomadaires réparties sur un parcours de quatre ou deux années d'études.
+
+La somme du volume des études des années d'études du troisième degré est d'au moins six périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+La somme du volume des études des années d'études du quatrième degré est d'au moins six périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 180, 008; En vigueur : 01-09-2020&gt;
+
+##### Art. 16 DROIT FUTUR.
+
+§ 1er. Dans le domaine arts de la parole-théâtre, [<sup>1</sup> une académie peut proposer les orientations d'études de longue durée suivantes conduisant à une qualification professionnelle ]<sup>1</sup> telles que déterminées par le secteur socioculturel :
+
+1° acteur-créateur ;
+
+2° metteur en scène de théâtre ;
+
+3° acteur-interprète;
+
+[<sup>2</sup> 4° créateur audio]<sup>2</sup>.
+
+[<sup>1</sup> Le Gouvernement flamand détermine quelle qualification professionnelle peut être obtenue au moyen de quelle orientation d'études.]<sup>1</sup>
+
+§ 2. Les [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> des premier, deuxième et troisième degrés sont communes pour ces orientations d'études.
+
+Les [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> du quatrième degré sont différentes pour chacune de ces orientations d'études.
+
+§ 3. La somme du volume des études des années d'études du premier degré est d'au moins deux périodes de cours hebdomadaires réparties sur un parcours de deux années d'études.
+
+La somme du volume des études des années d'études du deuxième degré est d'au moins quatre périodes de cours hebdomadaires réparties sur un parcours de quatre ou deux années d'études.
+
+La somme du volume des études des années d'études du troisième degré est d'au moins six périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+La somme du volume des études des années d'études du quatrième degré est d'au moins six périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 180, 008; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2025-06-06/20, art. 79, 021; En vigueur : 01-09-2025&gt;
+
+##### Art. 17
+
+§ 1er. Dans le domaine arts de la parole-théâtre, une académie peut proposer les orientations d'études de courte durée suivantes :
+
+1° arts de la parole-théâtre ;
+
+2° écrivain ;
+
+3° spécialisation en arts de la parole-théâtre.
+
+§ 2. La somme du volume des études des années d'études de l'orientation d'études arts de la parole-théâtre est de six périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+La somme du volume des études des années d'études de l'orientation d'études écrivain est de neuf périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+La somme du volume des études des années d'études de l'orientation d'études spécialisation en arts de la parole-théâtre est de quatre périodes de cours hebdomadaires réparties sur un parcours de deux années d'études.
+
+### Section 5. - Domaine musique
+
+##### Art. 18
+
+§ 1er. Dans le domaine musique, [<sup>1</sup> une académie peut proposer les orientations d'études de longue durée suivantes conduisant à une qualification professionnelle ]<sup>1</sup> suivantes telles que déterminées par le secteur socioculturel :
+
+1° carillonneur ;
+
+2° musicien-créateur ;
+
+3° chef d'orchestre ;
+
+4° DJ ;
+
+5° musicien-interprète.
+
+[<sup>1</sup> Le Gouvernement flamand détermine quelle qualification professionnelle peut être obtenue au moyen de quelle orientation d'études.]<sup>1</sup>
+
+Par dérogation à l'alinéa 1er, l'orientation d'études carillonneur, visée au point 1°, ne peut être organisée que dans la Koninklijke Beiaardschool Jef Denyn à Mechelen.
+
+§ 2. Les [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> des premier, deuxième et troisième degrés sont communes pour ces orientations d'études.
+
+Les [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> du quatrième degré sont différentes pour chacune de ces orientations d'études.
+
+§ 3. La somme du volume des études des années d'études du premier degré est d'au moins deux périodes de cours hebdomadaires réparties sur un parcours de deux années d'études.
+
+A l'exception de l'orientation d'études carillonneur, la somme du volume des études des années d'études du deuxième degré pour jeunes est d'au moins douze périodes de cours hebdomadaires réparties sur un parcours de quatre années d'études.
+
+A l'exception de l'orientation d'études carillonneur, la somme du volume des études des années d'études du deuxième degré pour adultes est d'au moins neuf périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+A l'exception de l'orientation d'études carillonneur, la somme du volume des études des années d'études du troisième degré est d'au moins neuf périodes de cours hebdomadaires réparties sur un parcours de trois ou quatre années d'études.
+
+A l'exception de l'orientation d'études carillonneur, la somme du volume des études des années d'études du quatrième degré est d'au moins six périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+Le Gouvernement flamand détermine le volume des études et les parcours des deuxième, troisième et quatrième degrés de l'orientation d'études carillonneur.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 181, 008; En vigueur : 01-09-2020&gt;
+
+##### Art. 19
+
+§ 1er. Dans le domaine musique, une académie peut proposer les orientations d'études de courte durée suivantes :
+
+1° histoire de la musique ;
+
+2° culture musicale ;
+
+3° spécialisation en musique.
+
+§ 2. La somme du volume des études des années d'études des orientations d'études histoire de la musique et culture musicale est chacune de six périodes de cours hebdomadaires réparties sur un parcours de trois années d'études.
+
+La somme du volume des études des années d'études de la spécialisation en musique est de quatre périodes de cours hebdomadaires réparties sur un parcours de deux années d'études.
+
+### Section 6. - Dispositions communes
+
+##### Art. 20
+
+Par dérogation aux articles 10 à 19, une académie peut organiser dans le premier degré une formation d'initiation transversale se focalisant au maximum sur les deux ou plusieurs domaines. La somme du volume des études des années d'études de la formation d'initiation transversale est de deux périodes de cours réparties sur un parcours de deux années d'études.
+
+##### Art. 21
+
+Les orientations d'études de courte durée spécialisation offrent aux élèves brillants l'opportunité d'exceller et de contribuer ainsi à l'image de l'académie et de l'enseignement artistique à temps partiel. Les autres orientations d'études de courte durée ne ciblent pas la pratique artistique active et promeuvent la participation culturelle des élèves.
+
+##### Art. 22
+
+L'autorité scolaire répartit de façon équilibrée le volume des études, visé aux articles 12 à 20, sur les années d'études. A l'exception du troisième degré du domaine danse, le nombre de périodes de cours par année scolaire est toujours un nombre entier. Chaque année d'études contient un ensemble cohérent d'activités d'apprentissage.
+
+La répartition du volume des études est négociée dans le comité local.
+
+##### Art. 23
+
+Dans le respect des conditions imposées par le Gouvernement flamand, l'autorité scolaire détermine par orientation d'études, par degré et, le cas échéant, par option et pour la formation d'initiation transversale les cours suivis par élève en vue de l'obtention des compétences de base, des objectifs finaux spécifiques et des qualifications professionnelles. Ce faisant, elle respecte le volume des études, visé aux articles 12 à 20.
+
+##### Art. 24
+
+Le Gouvernement flamand détermine par domaine et par orientation d'études les options et les cours possibles.
+
+##### Art. 25
+
+Dans le domaine musique, le Gouvernement flamand détermine les instruments de musique possibles.
+
+### Section 7. - La Koninklijke Beiaardschool Jef Denyn à Mechelen
+
+##### Art. 26
+
+La Koninklijke Beiaardschool Jef Denyn à Mechelen est agréée et subventionnée par la Communauté flamande comme académie de l'enseignement artistique à temps partiel. Le Gouvernement flamand peut arrêter des normes, structures, cours et titres pour cette académie. Le Gouvernement flamand détermine les modalités de subventionnement de cette institution, la manière dont l'académie rend compte au Ministère flamand de l'Enseignement et quel est le statut qui s'applique au personnel.
+
+L'arrêté du Gouvernement flamand sur les matières énoncées à l'alinéa 1er est ratifié par décret.
+
+### Section 8. - Netoverschrijdend Samenwerkingsforum deeltijds kunstonderwijs Brussel (Forum de coopération transréseau de l'enseignement artistique à temps partiel à Bruxelles)
+
+##### Art. 27
+
+§ 1. Les autorités scolaires des académies situées dans la région bilingue de Bruxelles-Capitale font partie d'un Forum de coopération transréseau.
+
+Le Forum de coopération :
+
+1° optimise l'offre de formations organisées par les académies d'enseignement artistique à temps partiel et les harmonise ;
+
+2° s'efforce de coopérer avec des établissements néerlandophones d'enseignement fondamental ou secondaire ;
+
+3° développe des initiatives socioculturelles et, ce faisant, s'efforce de parvenir à une coopération avec des organisations et institutions socioculturelles dans les communes situées en Région flamande, mentionnées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966 ;
+
+4° signale à l'autorité des problèmes, des besoins et des solutions quant aux formations artistiques à temps partiel ;
+
+5° optimise les prestations de services aux élèves des académies ;
+
+6° stimule et soutient toutes les formes possibles de coopération entre les académies.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2. Le Forum de coopération accomplit au moins les missions suivantes :
+
+1° réaliser les objectifs visés au paragraphe 1er ;
+
+2° [<sup>1</sup> émettre un avis motivé au Gouvernement flamand sur les demandes des académies pour la programmation de domaines et subdivisions structurelles conformément aux conditions visées aux articles 115 à 118, et les demandes de compétence d'enseignement des académies, visées à l'article 130 ;]<sup>1</sup>
+
+3° accomplir toutes les missions qu'une autorité scolaire confère au Forum de coopération ou que les académies confèrent ensemble au Forum de coopération.
+
+§ 3. Le Forum de coopération ne peut jamais disposer de compétence d'enseignement lui-même.
+
+§ 4.[<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 154, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-11-23/33, art. 86, 017; En vigueur : 01-09-2023&gt;
+
+### Section 9. - Concertation relative aux réformes fondamentales de l'enseignement
+
+##### Art. 28
+
+Le Gouvernement flamand informe les délégués des autorités scolaires et des organisations syndicales représentatives sur tout projet de réforme fondamentale de l'enseignement.
+
+Avant que le Gouvernement flamand ne prenne une première décision de principe en la matière, une concertation séparée sur cette réforme fondamentale de l'enseignement est organisée, à la demande d'au moins un des délégués des autorités scolaires, entre le Ministre chargé de l'enseignement ou son délégué et les délégués des autorités scolaires.
+
+Avant que le Gouvernement flamand ne prenne une première décision de principe en la matière, une concertation séparée sur cette réforme fondamentale de l'enseignement est organisée, à la demande d'au moins une des organisations syndicales représentatives, entre le Ministre chargé de l'enseignement ou son délégué et les organisations syndicales représentatives.
+
+## CHAPITRE 4. - Elèves de l'enseignement artistique à temps partiel
+
+### Section 1re. - Conditions d'admission
+
+##### Art. 29
+
+§ 1er. Pour être admis à l'enseignement artistique à temps partiel, un élève doit avoir atteint l'âge de six ans au 31 décembre suivant la rentrée scolaire.
+
+§ 2. Par dérogation au paragraphe 1er, un élève qui n'a pas atteint l'âge de six ans à la date du 31 décembre suivant le début de l'année scolaire peut être inscrit dans l'enseignement artistique à temps partiel s'il est inscrit dans l'enseignement primaire.
+
+§ 3. Par dérogation au paragraphe 2, un élève qui n'a pas atteint l'âge de six ans le 31 décembre suivant le début de l'année scolaire et qui n'est pas inscrit dans une école primaire agréée mais qui suit l'enseignement à domicile visé à l'article 3, 24° du décret du 25 février 1997 relatif à l'enseignement fondamental, est également admis à l'enseignement artistique à temps partiel.
+
+##### Art. 30
+
+Un élève qui remplit les conditions d'admission à l'enseignement primaire visées aux articles 13, 14 et 14/1 du décret du 25 février 1997 relatif à l'enseignement fondamental, peut être admis au premier degré de l'enseignement artistique à temps partiel.
+
+##### Art. 31
+
+[<sup>1</sup> Pour être admis au deuxième degré dans les domaines danse, arts de la parole-théâtre ou au deuxième degré pour jeunes dans le domaine musique, l'élève doit remplir l'une des conditions suivantes :
+
+1° avoir acquis les compétences de base du premier degré ou avoir atteint l'âge de huit ans à la date du 31 décembre suivant le début de l'année scolaire ou être inscrit dans l'enseignement primaire depuis au moins deux années scolaires complètes ;
+
+2° dans le cas du domaine arts de la parole-théâtre ne pas être âgé de plus de quatorze ans à la date du 31 décembre suivant le début de l'année scolaire.
+
+Pour être admis au deuxième degré pour adultes du domaine musique, l'élève doit avoir atteint l'âge de quinze ans au 31 décembre suivant le début de l'année scolaire. Avec l'autorisation du directeur, un élève âgé de moins de quinze ans à ce moment peut toutefois être admis au deuxième degré pour adultes dans le domaine musique pour des raisons pédagogiques.
+
+[<sup>2</sup> Pour être admis au deuxième degré du domaine arts plastiques et audiovisuels, l'élève ne doit pas avoir atteint l'âge de douze ans à la date du 31 décembre suivant le début de l'année scolaire et doit remplir l'une des conditions suivantes :
+
+1° avoir acquis les compétences de base du premier degré ;
+
+2° avoir atteint l'âge de huit ans à la date du 31 décembre suivant le début de l'année scolaire.]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa trois, peut être admis dans le second degré [<sup>3</sup> l'élève qui est âgé de douze ans ou plus ]<sup>3</sup> à la date du 31 décembre suivant le début de l'année scolaire et qui est inscrit dans l'enseignement primaire.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 128, 002; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 246, 010; En vigueur : 01-09-2021&gt;
+
+(3)&lt;DCFL 2022-07-08/11, art. 54, 013; En vigueur : 01-09-2022&gt;
+
+##### Art. 32
+
+Pour être admis au troisième degré des domaines danse ou musique, l'élève doit avoir acquis les compétences de base du deuxième degré du domaine respectif.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, le directeur peut, sur avis des enseignants concernés, admettre au troisième degré de musique un élève qui n'a pas acquis pleinement les compétences instrumentales du deuxième degré de musique aux conditions suivantes :
+
+1° l'élève a acquis toutes les autres compétences ;
+
+2° l'élève suit un cours d'instrument dans le deuxième degré ;
+
+3° l'élève est dispensé pour le cours d'instrument dans le troisième degré.]<sup>1</sup>
+
+Pour être admis au troisième degré du domaine arts de la parole-théâtre, l'étudiant doit remplir l'une des conditions suivantes :
+
+1° avoir acquis les compétences de base du deuxième degré du domaine arts de la parole-théâtre ;
+
+2° avoir atteint l'âge de quinze ans à la date du 31 décembre suivant le début de l'année scolaire.
+
+[<sup>1</sup> Pour être admis au troisième degré pour jeunes du domaine des arts plastiques et audiovisuels, l'élève doit répondre aux conditions suivantes :
+
+1° avoir acquis les compétences de base du deuxième degré du domaine des arts plastiques et audiovisuels ou avoir atteint l'âge de douze ans au 31 décembre suivant la rentrée scolaire ;
+
+2° ne pas être âgé de plus de dix-sept ans au 31 décembre suivant la rentrée scolaire.]<sup>1</sup>
+
+Pour être admis au troisième degré pour adultes du domaine arts plastiques et audiovisuels, l'élève doit avoir atteint l'âge de dix-huit ans au 31 décembre suivant la rentrée scolaire.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 155, 005; En vigueur : 01-09-2019&gt;
+
+##### Art. 33
+
+§ 1er. Pour être admis à une orientation d'études dans le quatrième degré des domaines danse, arts de la parole-théâtre ou musique, l'élève doit avoir acquis les compétences de base du troisième degré du domaine auquel l'orientation d'études appartient.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, le directeur peut, sur l'avis des enseignants concernés, admettre au quatrième degré de musique un élève qui n'a pas acquis pleinement les compétences instrumentales du troisième degré de musique aux conditions suivantes :
+
+1° l'élève a acquis toutes les autres compétences ;
+
+2° l'élève suit un cours d'instrument dans le troisième degré ;
+
+3° l'élève est dispensé pour le cours d'instrument dans le quatrième degré.]<sup>1</sup>
+
+§ 2. Pour être admis à une orientation d'études dans le quatrième degré du domaine arts plastiques et audiovisuels, l'étudiant doit remplir l'une des conditions suivantes :
+
+1° avoir acquis les compétences de base du troisième degré du domaine auquel l'orientation d'études appartient ;
+
+2° avoir atteint l'âge de dix-huit ans à la date du 31 décembre suivant le début de l'année scolaire.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 156, 005; En vigueur : 01-09-2019&gt;
+
+##### Art. 34
+
+Le Gouvernement flamand détermine la manière dont l'élève peut démontrer qu'il remplit les conditions d'admission prévues aux articles 29 à 33 ou a acquis les compétences de base lui permettant d'accéder à un certain degré dans un domaine donné ou à une orientation d'études dans le quatrième degré.
+
+##### Art. 35
+
+L'autorité scolaire détermine l'âge minimum pour les orientations d'études de courte durée en tenant compte des conditions d'admission prévues à l'article 29.
+
+Sans préjudice de l'application des conditions d'admission [<sup>1</sup> visées aux articles 29 et 33]<sup>1</sup>, le directeur décide, sur la base des modalités établies par le Gouvernement flamand visées à l'article 34, après avis des enseignants concernés, si l'étudiant est admis à l'une des orientations d'études de courte durée - spécialisation, visées à l'article 13, § 1er, 2°, 15, § 1er, 2°, 17, § 1er, 3°, et 19, § 1er, 3°, en fonction de la motivation, des compétences et du potentiel de l'élève par rapport à la finalité de la spécialisation, telle que visée aux articles 3, 57° et 21. Le directeur motive sa décision par écrit à chaque élève.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 157, 005; En vigueur : 01-09-2019&gt;
+
+##### Art. 36
+
+L'autorité scolaire détermine les conditions d'admission aux activités d'apprentissage sur mesure prévues à l'article 4, alinéa 3, en tenant compte des conditions d'admission prévues à l'article 29.
+
+### Section 2. - Droits et obligations des élèves et des personnes concernées
+
+#### Sous-section 1re. - Inscription
+
+##### Art. 37
+
+§ 1er. Sans préjudice de l'application des conditions d'admission visées aux articles 29 à 36, toute personne a le droit de s'inscrire dans l'académie et la formation de son choix, compte tenu de l'offre d'enseignement disponible. Un élève se réinscrit à chaque année d'études de la formation.
+
+[<sup>1</sup> i une académie offre différents parcours pour une formation particulière, l'élève est libre de choisir le parcours de formation. Un élève peut changer de parcours[<sup>2</sup> au plus tard le premier jour de classe suivant les vacances de Noël ]<sup>2</sup> avec l'autorisation du directeur. Si, en conséquence, l'élève dépasse le volume des études global visé aux articles 12 à 20, ceci est considéré comme un prolongement du parcours d'apprentissage visé à l'article 62, alinéa 2.]<sup>1</sup>
+
+[<sup>2</sup> Les élèves qui ont changé de parcours et qui, à la fin de leur dernier parcours, ont par conséquent suivi moins de périodes de cours que le volume global des études, visé aux articles 12 à 20, peuvent suivre une année d'études supplémentaire. L'année d'études supplémentaire susmentionnée n'est pas considérée comme une prolongation du parcours d'apprentissage.]<sup>2</sup>
+
+Un élève qui est inscrit à une certaine formation ne peut plus se réinscrire à la même formation dans la même académie ou dans une académie différente. Un élève sorti avec un diplôme d'une certaine formation ne peut plus se réinscrire dans la même formation.
+
+[<sup>1</sup> Un élève qui, avant l'entrée en vigueur du présent décret, se voit décerner un diplôme d'une formation de l'ancienne structure, ne peut plus s'inscrire à nouveau dans la formation correspondante de la nouvelle structure[<sup>2</sup> ...]<sup>2</sup>. Le Gouvernement flamand détermine la concordance entre les formations de l'ancienne et de la nouvelle structure.]<sup>1</sup>
+
+§ 2. Les inscriptions pour une année scolaire déterminée peuvent démarrer au plus tôt le premier jour de classe de mars de l'année scolaire précédente. L'autorité scolaire publie le démarrage des inscriptions à toutes les personnes intéressées.
+
+Les inscriptions doivent être faites au plus tard le 30 septembre de l'année scolaire en cours.
+
+§ 3. Par dérogation au paragraphe 2, l'autorité scolaire peut déterminer librement la période d'inscription aux activités d'apprentissage sur mesure visées à l'article 4, alinéa 3, à condition qu'elle fournisse en temps utile aux personnes intéressées toutes les informations nécessaires à ce sujet.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 158, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 140, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 38
+
+Les élèves sont inscrits dans l'ordre dans lequel ils se présentent à l'académie et remplissent toutes les conditions suivantes :
+
+[<sup>1</sup> 1° [<sup>2</sup> s'être déclaré d'accord numériquement ou par écrit ]<sup>2</sup> avec le règlement d'académie ;
+
+2° [<sup>2</sup> s'être déclaré d'accord numériquement ou par écrit ]<sup>2</sup> avec le projet artistique et pédagogique de l'académie.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 159, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 141, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 39
+
+Par dérogation à l'article 38, tout élève qui prend déjà des cours dans une académie a priorité sur tous les nouveaux étudiants [<sup>2</sup> pour la suite de la formation qu'il suit et de la formation suivante]<sup>2</sup>, dans la même académie, s'il s'inscrit avant le [<sup>1</sup> [<sup>2</sup> 5 juillet]<sup>2</sup>]<sup>1</sup> de l'année scolaire précédente à laquelle se rapporte l'inscription.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 160, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 142, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 40
+
+Une autorité scolaire refuse d'inscrire une personne comme élève régulier si la personne ne remplit pas les conditions d'admission prévues aux articles 29 à 36. Une inscription dans le courant de l'année scolaire précédente est possible sous la condition suspensive que la personne remplisse les conditions d'admission le jour de l'entrée effective à l'école.
+
+##### Art. 41
+
+Une autorité scolaire peut refuser d'inscrire une personne si elle peut démontrer l'insuffisance de capacité au niveau de la formation à laquelle l'élève régulier a l'intention de s'inscrire. Des listes d'attente peuvent être créées.
+
+Lorsque la capacité d'accueil est dépassée, l'autorité scolaire informera la personne des alternatives possibles dans sa propre académie ou dans une autre académie.
+
+##### Art. 42
+
+Une autorité scolaire peut refuser l'inscription dans une académie où l'élève concerné fut définitivement exclu pendant l'année scolaire en cours, l'année scolaire précédente ou la pénultième année scolaire, conformément à l'article 50, § 2.
+
+##### Art. 43
+
+[<sup>1</sup> Une autorité scolaire peut refuser d'inscrire les élèves suivants :
+
+1° un élève non régulier ;
+
+2° un élève déjà inscrit à une formation dans le même domaine dans une autre académie.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/55, art. 167, 018; En vigueur : 01-09-2024&gt;
+
+##### Art. 44
+
+Une autorité scolaire peut refuser l'inscription d'un élève qui ne remplit pas les conditions prévues à l'article 3, 24°, pour cause d'insuffisance de capacité pour les élèves admissibles au financement.
+
+Une autorité scolaire peut refuser l'inscription à une formation complémentaire dans le même domaine pour cause d'insuffisance de capacité pour les élèves admissibles au financement.
+
+##### Art. 45
+
+Le déroulement d'inscriptions réalisées et non réalisées, et le cas échéant, les motifs de refus peut être soumis à un contrôle par l'Agentschap voor Onderwijsdiensten.
+
+##### Art. 46
+
+Une autorité scolaire qui refuse l'accès à un élève doit communiquer sa décision par écrit ou par voie électronique dans les dix jours ouvrables. A la demande de l'élève et des personnes intéressées, la décision de l'autorité scolaire leur est expliquée.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, une autorité scolaire qui refuse d'inscrire un élève sur la base de l'article 44, alinéa 2, notifie sa décision par écrit ou par voie électronique au plus tard le 30 septembre de l'année scolaire à laquelle la demande d'inscription se rapporte.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 161, 005; En vigueur : 01-09-2019&gt;
+
+##### Art. 47
+
+Lors de l'inscription, le directeur ou son représentant informe l'élève et les personnes intéressées par écrit ou par voie électronique sur :
+
+1° la nature juridique et la composition de l'autorité scolaire ;
+
+2° le projet artistique et pédagogique de l'académie ;
+
+3° l'organisation des activités d'apprentissage ;
+
+4° le règlement de l'académie, visé à l'article 58 ;
+
+5° les droits d'inscription et, plus particulièrement, le droit aux droits d'inscription réduits et les pièces justificatives qui doivent être présentées à cet effet et le régime de contribution ;
+
+6° le cas échéant, le fait que pour l'académie une demande d'agrément provisoire a été présentée à l'autorité compétente ou qu'un agrément provisoire pour une année scolaire a été délivré par l'autorité compétente ;
+
+7° le cas échéant, la composition du conseil d'académie.
+
+L'autorité scolaire informe sans tarder l'élève ou les personnes intéressées pendant l'année scolaire d'agrément provisoire, visée à l'alinéa 1er, 6°, de la décision de l'autorité compétente sur l'agrément sollicité.
+
+##### Art. 48
+
+Lorsqu'un élève change d'académie ou prend des cours dans plusieurs académies, les académies concernées peuvent transférer des données portant sur la carrière scolaire spécifique à l'élève, à moins que l'élève ou les personnes intéressées ne s'y opposent explicitement.
+
+##### Art. 49
+
+Pour chaque élève, l'académie enregistre les données suivantes, qu'elle transmet à l'Agentschap voor Onderwijsdiensten [<sup>1</sup> en vue de l'identification unique des élèves, du contrôle des conditions d'admission et de l'octroi de moyens]<sup>1</sup> :
+
+1° le nom, le prénom et l'adresse ;
+
+2° la date de naissance ;
+
+3° la nationalité ;
+
+4° les formations déjà suivies dans une académie d'enseignement artistique à temps partiel et les résultats ;
+
+5° la formation actuelle dans l'enseignement artistique à temps partiel ;
+
+6° le numéro de registre national ou numéro Bis;
+
+[<sup>1</sup> 7° les absences et présences aux activités d'apprentissages.]<sup>1</sup>
+
+Le Gouvernement flamand détermine les modalités et les dates auxquelles les données visées à l'alinéa 1er doivent être fournies au plus tard.
+
+Par numéro Bis tel que mentionné à l'alinéa 1er, 6°, on entend : le numéro d'identification de la sécurité sociale pour les personnes qui ont des droits au sein de la sécurité sociale belge, mais qui ne sont pas inscrites au Registre National.
+
+[<sup>1</sup> L'Agentschap voor Onderwijsdiensten, visée à l'alinéa 1er, est la responsable du traitement des données, visées à l'alinéa 1er. Les délais de conservation maximum des données visées à l'alinéa 1er qui sont conservées conformément à l'article 5, paragraphe 1er, e), du règlement général sur la protection des données, sont définis dans des règles de gestion visées à l'article III.81, § 2, du Décret de gouvernance du 7 décembre 2018. Pour définir ces délais de conservation, il est tenu compte de la garantie d'un bon déroulement du parcours d'apprentissage.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-04-28/14, art. 8, 015; En vigueur : 01-09-2021&gt;
+
+#### Sous-section 2. - Exclusion temporaire et définitive des élèves
+
+##### Art. 50
+
+§ 1er. Le directeur peut, dans des cas exceptionnels, exclure temporairement un élève. Une telle exclusion temporaire prive l'élève du droit de suivre effectivement et régulièrement les activités d'apprentissage dans l'année scolaire pendant une période d'au moins un jour de cours et au plus 14 jours consécutifs, selon le cas.
+
+§ 2. L'autorité scolaire peut, dans des cas exceptionnels, exclure définitivement un élève. Une exclusion définitive est une sanction disciplinaire qui implique que l'élève sanctionné est désinscrit. Cette décision peut faire l'objet d'un recours conformément au règlement de l'académie visé à l'article 58.
+
+§ 3. Dans l'attente d'une éventuelle exclusion temporaire ou permanente, l'élève peut être suspendu par l'autorité scolaire à titre de mesure conservatoire. Une telle suspension préventive prive l'élève du droit de suivre effectivement et régulièrement les activités d'apprentissage dans l'année scolaire pendant une période d'au maximum 14 jours consécutifs.
+
+L'autorité scolaire peut décider, sous réserve d'une justification claire donnée à l'élève et aux personnes intéressées, de prolonger une fois la période initiale d'un maximum de 14 jours consécutifs si, en raison de facteurs externes, l'enquête disciplinaire ne peut être achevée dans ce délai initial.
+
+La suspension peut avoir un effet immédiat, auquel cas l'élève et les personnes intéressées en sont informés.
+
+##### Art. 51
+
+Les exclusions temporaires et définitives ne peuvent être effectuées qu'après une procédure garantissant les droits de la défense et appliquant les principes suivants :
+
+1° l'avis préalable des enseignants intéressés est sollicité ;
+
+2° l'élève et les personnes intéressées sont informés, par écrit ou par voie électronique, de l'intention d'imposer une mesure disciplinaire ;
+
+3° l'élève et les personnes intéressées ont accès au dossier disciplinaire de l'élève, y compris l'avis des enseignants concernés, et sont entendus, et assistés, si besoin, d'une personne de confiance ;
+
+4° la sanction disciplinaire est proportionnelle à la gravité des faits ;
+
+5° l'élève concerné et, le cas échéant, les personnes intéressées sont informés de la décision prise soit par écrit, soit par voie électronique ; Dans la notification, l'académie fait référence à la possibilité de recours et reprend les dispositions du règlement de l'académie visées à l'article 58 qui s'y rapportent.
+
+### Section 3. - Elèves à besoins éducatifs spécifiques
+
+##### Art. 52
+
+[<sup>3</sup> Un élève peut suivre un programme adapté individuellement si le directeur et les enseignants concernés, après concertation avec l'élève et les personnes concernées, motivent l'incapacité de l'élève à réaliser des gains d'apprentissage suffisants dans le programme d'études commun en dépit d'aménagements raisonnables, si l'élève remplit l'une des conditions suivantes :
+
+1° être en possession d'un [<sup>4</sup> rapport IAC]<sup>4</sup> tel que visé à l'article 15 du décret relatif à l'enseignement fondamental du 25 février 1997 ;
+
+2° être en possession d'un [<sup>4</sup> rapport IAC]<sup>4</sup> tel que visé à l'article 294 du Code de l'enseignement secondaire ;
+
+3° avoir été reconnu comme personne handicapée en application d'une législation flamande, d'une autre législation belge ou d'une législation étrangère ;
+
+4° être en mesure de présenter un certificat médical dont il ressort que l'élève est atteint d'une affection qui l'empêche de suivre toutes les activités d'apprentissage prévues dans l'horaire des cours. Le certificat est signé par un médecin, un psychologue ou un membre de l'équipe multidisciplinaire agréé par l'Agence flamande pour les Personnes handicapées (Vlaams Agentschap voor Personen met een Handicap).]<sup>3</sup>
+
+Un élève avec un programme adapté individuellement, peut déroger à une ou plusieurs des dispositions suivantes :
+
+1° les dispositions relatives au volume des études, visées aux articles 12 à 20 ;
+
+2° les dispositions relatives aux [<sup>2</sup> objectifs pédagogiques]<sup>2</sup> et programmes d'études, visées aux articles 5 et 8 ;
+
+3° les dispositions relatives aux conditions d'admission, visées aux articles 29, [<sup>1</sup> paragraphes 2 et 3, et 30]<sup>1</sup>, à 36 ;
+
+4° les dispositions relatives à l'évaluation et la validation des études, visées aux articles 59 à 62.
+
+Le directeur et les enseignants concernés développent le programme adapté individuellement en concertation avec l'élève et les personnes intéressées, veillent à ce que ce programme soit axé sur le développement de l'élève et prennent les mesures pédagogiques, didactiques et organisationnelles nécessaires. Le directeur et les enseignants concernés peuvent faire appel à des experts externes ou au service d'accompagnement pédagogique.
+
+Un programme adapté individuellement dure au maximum une année d'études de plus que le degré concerné auquel l'élève est inscrit. L'élève ne peut pas prolonger le parcours d'apprentissage. Lors que l'élève achève le degré, l'académie délivre une attestation d'apprentissage à l'élève.
+
+[<sup>3</sup> L'Inspection de l'Enseignement et l'Agence de Services d'Enseignement peuvent consulter à tout moment le programme adapté individuellement auprès de l'académie. Les coefficients visés à l'article 67, § 3, alinéas 1er et 2, s'appliquent si l'académie n'est pas en mesure de présenter le programme adapté individuellement et l'élève suit un horaire qui déroge aux dispositions relatives au volume des études énoncées aux articles 12 à 20.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 162, 005; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 176, 008; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2022-07-08/10, art. 77, 012; En vigueur : 01-09-2022&gt;
+
+(4)&lt;DCFL 2024-04-19/55, art. 168, 018; En vigueur : 01-09-2023&gt;
+
+##### Art. 52 DROIT FUTUR.
+
+[<sup>3</sup> Un élève peut suivre un programme adapté individuellement si le directeur et les enseignants concernés, après concertation avec l'élève et les personnes concernées, motivent l'incapacité de l'élève à réaliser des gains d'apprentissage suffisants dans le programme d'études commun en dépit d'aménagements raisonnables, si l'élève remplit l'une des conditions suivantes :
+
+1° être en possession d'un [<sup>4</sup> rapport IAC]<sup>4</sup> tel que visé à l'article 15 du décret relatif à l'enseignement fondamental du 25 février 1997 ;
+
+2° être en possession d'un [<sup>4</sup> rapport IAC]<sup>4</sup> tel que visé à l'article 294 du Code de l'enseignement secondaire [<sup>5</sup> du 17 décembre 2010 ou être en possession d'un rapport OV4 tel que visé à l'article 294, § 2, 2°, du Code précité]<sup>5</sup>;
+
+3° avoir été reconnu comme personne handicapée en application d'une législation flamande, d'une autre législation belge ou d'une législation étrangère ;
+
+4° être en mesure de présenter un certificat médical dont il ressort que l'élève est atteint d'une affection qui l'empêche de suivre toutes les activités d'apprentissage prévues dans l'horaire des cours. Le certificat est signé par un médecin, un psychologue ou un membre de l'équipe multidisciplinaire agréé par l'Agence flamande pour les Personnes handicapées (Vlaams Agentschap voor Personen met een Handicap).]<sup>3</sup>
+
+Un élève avec un programme adapté individuellement, peut déroger à une ou plusieurs des dispositions suivantes :
+
+1° les dispositions relatives au volume des études, visées aux articles 12 à 20 ;
+
+2° les dispositions relatives aux [<sup>2</sup> objectifs pédagogiques]<sup>2</sup> et programmes d'études, visées aux articles 5 et 8 ;
+
+3° les dispositions relatives aux conditions d'admission, visées aux articles 29, [<sup>1</sup> paragraphes 2 et 3, et 30]<sup>1</sup>, à 36 ;
+
+4° les dispositions relatives à l'évaluation et la validation des études, visées aux articles 59 à 62.
+
+Le directeur et les enseignants concernés développent le programme adapté individuellement en concertation avec l'élève et les personnes intéressées, veillent à ce que ce programme soit axé sur le développement de l'élève et prennent les mesures pédagogiques, didactiques et organisationnelles nécessaires. Le directeur et les enseignants concernés peuvent faire appel à des experts externes ou au service d'accompagnement pédagogique.
+
+Un programme adapté individuellement dure au maximum une année d'études de plus que le degré concerné [<sup>5</sup> ou que l'orientation d'études de courte durée]<sup>5</sup> auquel l'élève est inscrit. L'élève ne peut pas prolonger le parcours d'apprentissage. Lorsque l'élève achève le degré [<sup>5</sup> ou que l'orientation d'études de courte durée]<sup>5</sup>, l'académie délivre une attestation d'apprentissage à l'élève.
+
+[<sup>3</sup> L'Inspection de l'Enseignement et l'Agence de Services d'Enseignement peuvent consulter à tout moment le programme adapté individuellement auprès de l'académie. Les coefficients visés à l'article 67, § 3, alinéas 1er et 2, s'appliquent si l'académie n'est pas en mesure de présenter le programme adapté individuellement et l'élève suit un horaire qui déroge aux dispositions relatives au volume des études énoncées aux articles 12 à 20.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 162, 005; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 176, 008; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2022-07-08/10, art. 77, 012; En vigueur : 01-09-2022&gt;
+
+(4)&lt;DCFL 2024-04-19/55, art. 168, 018; En vigueur : 01-09-2023&gt;
+
+(5)&lt;DCFL 2025-06-06/20, art. 80, 021; En vigueur : 01-09-2025&gt;
+
+##### Art. 53
+
+[<sup>1</sup> Après concertation avec le directeur et les enseignants concernés, un élève peut déroger, au sein du programme d'études commun, aux dispositions relatives au volume des études énoncées aux articles 12 à 20 et aux dispositions relatives aux évaluations énoncées aux articles 61 et 62, si l'élève remplit l'une des conditions suivantes :
+
+1° être en possession d'un [<sup>2</sup> rapport GC ]<sup>2</sup> tel que visé à l'article 16 du décret relatif à l'enseignement fondamental du 25 février 1997 ;
+
+2° [<sup>2</sup> disposer d'un rapport GC tel que visé à l'article 352 du Code de l'enseignement secondaire du 17 décembre 2010 ou d'un rapport OV4 tel que visé à l'article 294, § 2, 2° du même Code ;]<sup>2</sup> ;
+
+3° avoir été reconnu comme personne handicapée en application d'une législation flamande, d'une autre législation belge ou d'une législation étrangère ;
+
+4° être en mesure de présenter un certificat médical dont il ressort que l'élève est atteint d'une affection qui l'empêche de suivre toutes les activités d'apprentissage prévues dans l'horaire des cours. Le certificat est signé par un médecin, un psychologue ou un membre de l'équipe multidisciplinaire agréé par l'Agence flamande pour les Personnes handicapées (Vlaams Agentschap voor Personen met een Handicap).]<sup>1</sup>
+
+[<sup>2</sup> 5° être en possession d'un rapport IAC tel que visé à l'article 15 du décret relatif à l'enseignement fondamental du 25 février 1997 ;
+
+6° être en possession d'un rapport IAC tel que visé à l'article 294 du Code de l'enseignement secondaire.]<sup>2</sup>
+
+Dans l'alinéa 1er, il faut entendre par programme d'études commun, les programmes d'études approuvés comprenant au moins de manière reconnaissable les objectifs nécessaires pour atteindre les compétences de base, les qualifications professionnelles et les objectifs finaux spécifiques.
+
+[<sup>1</sup> Le directeur et les enseignants motivent les dérogations par rapport au gain d'apprentissage en vue de l'obtention de la certification d'apprentissage, de la certification des compétences et de la certification professionnelle. L'Inspection de l'Enseignement et l'Agence de Services d'Enseignement peuvent consulter à tout moment le dossier de motivation auprès de l'académie. Les coefficients visés à l'article 67, § 3, alinéas 1er et 2, s'appliquent si l'académie n'est pas en mesure de présenter le dossier de motivation et l'élève suit un horaire qui déroge aux dispositions relatives au volume des études énoncées aux articles 12 à 20.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-07-08/10, art. 78, 012; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 169, 018; En vigueur : 01-09-2023&gt;
+
+### Section 4. - Suivre des cours dans l'enseignement artistique à temps partiel
+
+##### Art. 54
+
+L'élève régulier [<sup>1</sup> ...]<sup>1</sup> est tenu de participer à toutes les activités d'apprentissage et de s'engager à atteindre les [<sup>2</sup> objectifs pédagogiques]<sup>2</sup> fixés, sauf en cas d'absence justifiée [<sup>3</sup> ...]<sup>3</sup> ou sauf en cas de dispense d'un cours.
+
+[<sup>4</sup> Un élève qui n'a participé à aucune activité d'apprentissage pendant trois semaines consécutives sans motif d'absence légitime n'est plus un élève régulier et est considéré comme désinscrit, sauf s'il justifie une ou plusieurs de ces absences dans le mois qui suit la troisième semaine d'absence.]<sup>4</sup>
+
+[<sup>3</sup> Le Gouvernement flamand détermine les motifs d'absence justifiée.]<sup>3</sup>
+
+L'académie est libre de déterminer la répartition des élèves en groupes de classe en fonction d'un cours particulier. Ce faisant, elle tient compte du développement cognitif et psychosocial lié à l'âge des enfants, des jeunes et des adultes.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 163, 005; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 176, 008; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2021-07-09/33, art. 247, 010; En vigueur : 01-09-2021&gt;
+
+(4)&lt;DCFL 2022-07-08/11, art. 55, 013; En vigueur : 01-09-2022&gt;
+
+##### Art. 55
+
+Le Gouvernement flamand détermine les conditions dans lesquelles un élève peut répartir sa formation sur différentes académies.
+
+##### Art. 56
+
+Le Gouvernement flamand fixe les procédures selon lesquelles un élève ayant déjà acquis des compétences requises a droit à une dispense pour un cours.
+
+##### Art. 57
+
+§ 1er. Après consultation du directeur et des enseignants concernés, un élève peut remplacer un cours dans lequel des connaissances, des aptitudes ou des attitudes, sont acquises de façon intégrée, en tout ou en partie, par des activités d'apprentissage dans un contexte d'apprentissage [<sup>1</sup> de qualité]<sup>1</sup> alternatif pertinent pour acquérir des compétences de base, des objectifs finaux spécifiques ou obtenir la qualification professionnelle [<sup>1</sup> ...]<sup>1</sup>:
+
+1° [<sup>1</sup> ...]<sup>1</sup> ;
+
+2° [<sup>1</sup> ...]<sup>1</sup> ;
+
+3° [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> Le Gouvernement flamand impose des critères afin de garantir la qualité du contexte d'apprentissage alternatif figurant à l'alinéa 1er.
+
+L'académie assure, en concertation avec toutes les parties concernées, le suivi du processus d'apprentissage. Cela se fait en application de la réglementation en matière de concertation et de négociation telle que prévue par l'arrêté royal du 28 septembre 1984 portant exécution de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités, l'arrêté du Gouvernement flamand du 28 août 2000 créant et composant les comités locaux pour les personnels de l'enseignement communautaire et le décret du 5 avril 1995 portant création de comités de négociation dans l'enseignement libre subventionné]<sup>1</sup>.
+
+L'académie évalue l'élève et prend toutes les mesures nécessaires à cet effet.
+
+Des activités d'enseignement et de formation d'autres dispensateurs de formation privés ou publics ne sont pas prises en considération.
+
+L'académie informe les élèves sur la possibilité de suivre des cours dans un contexte d'apprentissage alternatif.
+
+----------
+
+(1)&lt;DCFL 2025-11-21/10, art. 39, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 57/1.
+
+[<sup>1</sup> § 1er. Les activités d'apprentissage sont organisées par le biais de l'enseignement en présentiel, où l'élève et l'enseignant se trouvent dans le même environnement physique d'apprentissage.
+
+Par dérogation à l'alinéa 1er, une académie peut organiser une partie des activités d'apprentissage par le biais de l'enseignement interactif à distance pour un groupe de classe d'un cours d'une formation du deuxième degré de musique pour adultes, du troisième ou du quatrième degré d'une orientation d'études de longue durée ou d'une orientation d'études de courte durée, si les conditions suivantes sont remplies :
+
+1° l'académie procède à une analyse de la situation initiale, en prêtant attention au moins à la disponibilité et à la connaissance des matériels et des compétences nécessaires en matière de TIC, pour l'élève et l'enseignant ;
+
+2° lors de l'inscription, l'académie informe l'élève et les personnes concernées sur l'enseignement interactif à distance ;
+
+3° l'académie dispose d'une planification annuelle qui démontre un équilibre pédagogique entre les activités d'apprentissage par le biais de l'enseignement en présentiel dans l'académie et l'enseignement interactif à distance. La planification annuelle est remise aux élèves concernés le premier jour de classe de l'année scolaire ;
+
+4° les possibilités de participation des élèves sont garanties. L'élève a toujours la possibilité de suivre l'enseignement interactif à distance dans une implantation de l'académie.
+
+L'enseignement interactif à distance, tel que visé à l'alinéa 2, consiste en des activités d'apprentissage organisées via des médias numériques, indépendamment du lieu, où il y a une interaction synchrone entre l'élève et l'enseignant, pendant les heures d'ouverture de l'académie et sans préjudice de l'application de l'article 64.
+
+Sur la base de sa vision artistico-pédagogique, l'académie détermine le rapport entre les activités d'apprentissage qui se déroulent par le biais de l'enseignement interactif à distance et l'enseignement en présentiel qui se déroule physiquement dans l'académie. Cela exclut le choix d'organiser un cours entièrement par le biais de l'enseignement interactif à distance.
+
+Une académie peut organiser une activité d'apprentissage de remédiation par le biais de l'enseignement interactif à distance pour un élève individuel qui était absent pour une raison légitime.
+
+§ 2. Si l'académie organise un enseignement interactif à distance tel que visé au § 1er, alinéa 2, seules les données à caractère personnel sont enregistrées qui sont nécessaires à l'établissement d'une interaction synchrone entre l'enseignant et les élèves via des médias numériques dans le but de dispenser un enseignement et de remplir ainsi une mission d'intérêt général telle que visée à l'article 6, paragraphe 1, e) du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données). Les données à caractère personnel comprennent le nom et le prénom de l'enseignant et des élèves concernés, l'adresse e-mail qu'ils ont fournie pour créer un compte dans un environnement en ligne sécurisé, et les communications au cours de l'interaction.
+
+L'autorité scolaire est le responsable du traitement à l'égard des données à caractère personnel visées à l'alinéa 1er. L'autorité scolaire veille à ce que les données à caractère personnel soient correctes et mises à jour si nécessaire. L'autorité scolaire informe l'élève ou ses parents du traitement de leurs données à caractère personnel, afin qu'ils sachent clairement quels sont leurs droits et à qui ils doivent s'adresser pour les exercer.
+
+L'autorité scolaire détermine quels membres du personnel peuvent avoir accès aux données à caractère personnel visées à l'alinéa 1er. L'autorité scolaire et tous les membres du personnel ayant accès aux données à caractère personnel précitées sont tenus de préserver la confidentialité de ces données à caractère personnel.
+
+L'autorité scolaire prend les mesures techniques et organisationnelles appropriées pour sécuriser les données enregistrées, visées à l'alinéa 1er. Par le biais du règlement de l'académie et du règlement de travail, l'autorité scolaire prend des mesures pour limiter l'enregistrement et la diffusion des activités d'apprentissage organisées par le biais de l'enseignement interactif à distance en vertu du présent décret.
+
+Les données enregistrées, visées à l'alinéa 1er, sont conservées pendant l'année scolaire pour laquelle l'élève est inscrit. Une fois ce délai de conservation écoulé, les données doivent être détruites.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-12-20/53, art. 2, 020; En vigueur : 01-09-2024&gt;
+
+##### Art. 57/2.
+
+[<sup>1</sup> Une académie qui organise un enseignement interactif à distance tel que visé à l'article 57/1, § 1er, alinéa 2, inclut les éléments suivants dans son règlement d'académie, mentionné à l'article 58 :
+
+1° les cours organisés sous forme d'enseignement interactif à distance ;
+
+2° une indication de l'évaluation ou non des éléments du programme d'études offerts par le biais de l'enseignement interactif à distance ;
+
+3° la possibilité de suivre l'enseignement interactif à distance dans une implantation de l'académie. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-12-20/53, art. 3, 020; En vigueur : 01-09-2024&gt;
+
+##### Art. 57/3.
+
+[<sup>1</sup> Si une académie organise l'enseignement interactif à distance tel que visé à l'article 57/1, § 1er, alinéa 2, la manière dont les membres du personnel sont déployés est fixée dans le règlement de travail. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-12-20/53, art. 4, 020; En vigueur : 01-09-2024&gt;
+
+##### Art. 57/4.
+
+[<sup>1</sup> En vue d'un éventuel ajustement, l'enseignement interactif à distance tel que visé à l'article 57/1, § 1er, alinéa 2, dans l'enseignement artistique à temps partiel sera évalué au cours de l'année scolaire 2027-2028. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-12-20/53, art. 5, 020; En vigueur : 01-09-2024&gt;
+
+##### Art. 58
+
+Une académie rédige pour chacune de ses académies un règlement d'académie.[<sup>2</sup> L'autorité scolaire informe les élèves et les personnes concernées par écrit ou par voie électronique de toute modification du règlement académique. L'autorité scolaire leur fournit des explications à ce sujet s'ils le souhaitent. Les élèves ou les personnes concernées se déclarent ensuite à nouveau d'accord numériquement ou par écrit.]<sup>2</sup>
+
+Le règlement de l'académie comprend les éléments suivants :
+
+1° le règlement régissant la procédure disciplinaire et la transgression des règles de vie des élèves, y compris une exclusion temporaire ou définitive et régissant la procédure de recours telle que visée aux articles 50 et 51, y compris la mise en place de délais raisonnables et réalisables ;
+
+2° la procédure régissant la délivrance d'une l'attestation de compétences, d'une attestation de qualification professionnelle ou d'une attestation d'apprentissage de l'enseignement artistique à temps partiel ;
+
+3° les directives sur les absences et les arrivées tardives ;
+
+4° les accords relatifs à l'auto-apprentissage en dehors des cours, les agendas et l'évaluation de l'élève, tels que visés aux articles 60 et 61 ;
+
+5° le soutien financier et non financier qui ne provient pas de l'Autorité flamande et des personnes morales relevant de sa compétence ;
+
+6° le régime de contribution visé aux articles 95 et 96;
+
+7° la déclaration d'engagement entre l'académie et l'élève ou les personnes intéressées, dans laquelle des accords mutuels sont formulés au sujet des contacts parents, de la fréquentation suffisante et des formes d'accompagnement individuel de l'élève ;
+
+8° les accords quant à l'interdiction de fumer, visés aux articles 4 à 8 du décret du 6 juin 2008 instituant une interdiction de fumer dans les établissements d'enseignement et les centres d'encadrement des élèves, le contrôle du respect de l'interdiction et les sanctions qui peuvent être imposées en cas d'infraction à l'interdiction de fumer ;
+
+9° la manière dont le conseil d'académie est composé le cas échéant ;
+
+10° le droit d'accès de l'élève ou des personnes intéressées et leur droit à une explication des données, y compris les données d'évaluation, relatives à l'élève recueillies par l'académie. Si l'académie demande le remboursement des frais de photocopie, visé à l'alinéa 3, ce remboursement est prévu dans le régime de contribution du règlement de l'académie ;
+
+11° l'information sur des activités extra-muros ;
+
+12° l'indication qu'en cas de changement d'académie les données des élèves seront transférées à la nouvelle académie, à moins que l'élève ou les personnes intéressées ne s'y opposent explicitement, après avoir consulté les données à leur demande ;
+
+13° [<sup>3</sup> la procédure du contrôle de qualité relative au contexte d'apprentissage alternatif pertinent]<sup>3</sup>;
+
+[<sup>1</sup> 14° la date limite à laquelle l'élève paie les droits d'inscription conformément à l'article 90 et, le cas échéant, les possibilités de paiement échelonné[<sup>2</sup> , le régime de désinscription et le remboursement du droit d'inscription en cas de désinscription conformément à l'article 90 du présent décret ]<sup>2</sup>.]<sup>1</sup>
+
+Si, après l'explication visée à l'alinéa 2, 10°, il apparaît que l'élève ou les personnes intéressées souhaitent avoir une copie des données de l'élève, ils ont droit de copie. Toute copie doit être traitée de manière personnelle et confidentielle, ne peut être distribuée ni rendue publique et ne peut être utilisée que dans le cadre de la carrière scolaire de l'élève. Au cas où certaines données concernent également un tiers et que la consultation complète des données par l'élève concerné et les personnes intéressées porterait préjudice au droit du tiers à la protection de sa vie privée, l'accès à ces données est accordé par le biais d'un entretien, d'une consultation partielle ou d'un rapportage.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 164, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 143, 016; En vigueur : 01-09-2023&gt;
+
+(3)&lt;DCFL 2025-11-21/10, art. 40, 023; En vigueur : 01-01-2026&gt;
+
+### Section 5. - Evaluation et validation des études
+
+##### Art. 59
+
+L'académie où l'élève est inscrit, confère l'attestation d'apprentissage, l'attestation de compétences ou l'attestation de qualification professionnelle. La délivrance en vertu du présent décret, de l'attestation d'apprentissage, de l'attestation de compétences et de l'attestation de qualification professionnelle équivaut à la reconnaissance et à la validation de droit.
+
+Le Gouvernement flamand détermine la forme de l'attestation d'apprentissage, de l'attestation de compétences et de l'attestation de qualification professionnelle, ainsi que la procédure et les modalités de sa délivrance.
+
+##### Art. 60
+
+L'académie dispose d'une vision artistique et pédagogique soutenue concernant l'évaluation transparente, valide et fiable d'élèves. La vision explicite de quelle manière l'évaluation supporte le processus d'apprentissage des élèves.
+
+L'académie met cette vision en pratique et la motive par des actions concrètes auprès des élèves et des membres du personnel.
+
+Dans son règlement, tel que mentionné à l'article 58, l'académie inclut les principes de base de sa vision de l'évaluation des élèves et communique de la manière dont l'évaluation se déroule.
+
+L'académie explicite la manière dont elle surveille la qualité du processus d'évaluation.
+
+Au moins deux fois par année scolaire, l'académie associe chaque élève à l'évaluation de son progrès au moyen d'impressions écrites et documentées.
+
+Les élèves sont obligés de participer aux activités d'évaluation.
+
+##### Art. 61
+
+&lt;Abrogé par DCFL 2024-04-19/55, art. 170, 018; En vigueur : 01-09-2024&gt;
+
+##### Art. 62
+
+Le directeur et les enseignants concernés surveillent le rendement d'étude de l'élève au cours des différentes années d'études de la formation et prennent les mesures nécessaires pour l'encadrement des élèves à cette fin.
+
+Si le directeur et les enseignants concernés considèrent que, malgré les mesures d'encadrement des élèves, un élève n'a pas réalisé de gains d'apprentissage suffisants par rapport aux [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> à atteindre, ils peuvent considérer que l'élève peut bénéficier d'un parcours d'apprentissage prolongé. Par degré d'une orientation d'études de longue durée, le parcours d'apprentissage peut être prolongé d'une année d'études. Le parcours d'apprentissage des orientations d'études de courte durée peut être prolongé d'une année d'études.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 176, 008; En vigueur : 01-09-2020&gt;
+
+### Section 6. - Organisation de l'année scolaire
+
+##### Art. 63
+
+Le Gouvernement flamand détermine les périodes de congé, l'organisation de l'année scolaire et les cas dans lesquels les activités d'apprentissage peuvent être suspendues.
+
+##### Art. 64
+
+L'académie organise les activités scolaires pour les élèves en âge scolaire de manière à ce qu'elles ne chevauchent pas les activités scolaires de l'enseignement obligatoire.
+
+## CHAPITRE 5. - Moyens en personnel et moyens de fonctionnement
+
+### Section 1re. - Dispositions générales
+
+##### Art. 65
+
+Le présent chapitre s'applique à l'enseignement artistique à temps partiel financé ou subventionné.
+
+##### Art. 66
+
+Une autorité scolaire obtient pour ses membres du personnel appartenant aux catégories du personnel d'appui, directeur et enseignant et, le cas échéant, du personnel auxiliaire d'éducation un traitement si ces membres du personnel remplissent toutes les conditions suivantes :
+
+1° être ressortissant d'un Etat membre de l'Union européenne ou de l'Association européenne de Libre-Echange, sauf dispense à accorder par le Gouvernement flamand ;
+
+2° jouir des droits civils et politiques, sauf dispense à accorder par le Gouvernement flamand allant de pair avec la dispense visée au point 1° ;
+
+3° être porteur des titres visés à l'article 3, 6°, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire et à l'article 5, 8° du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné ;
+
+4° être engagé conformément à la réglementation en matière de réaffectation et de remise au travail ;
+
+5° être en service sur la base de la réglementation en matière de l'encadrement ;
+
+6° [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 248, 010; En vigueur : 01-01-2021&gt;
+
+##### Art. 67
+
+§1er. Pour le calcul de l'encadrement, visé aux articles 69 à 72, seuls les élèves admissibles au financement sont comptés.
+
+§ 2. Quel que soit le nombre de formations qu'il suit, un élève ne peut être financé qu'une seule fois par domaine.
+
+Pour l'application de l'alinéa 1er, la formation d'initiation transversale est considérée comme une formation dans un domaine séparé.
+
+Un élève qui accumule des absences injustifiées pour plus d'un tiers des activités d'apprentissage organisées entre [<sup>2</sup> [<sup>1</sup> le 1er octobre et le]<sup>2</sup>-]<sup>1</sup> et le jour de comptage pour le calcul de l'encadrement n'est pas admissible au financement.
+
+Par dérogation à l'alinéa 1er, un élève qui suit simultanément une formation dans le quatrième degré et dans une orientation d'études de spécialisation de courte durée est admissible au financement pour les deux formations.
+
+[<sup>1</sup> Un élève qui n'a pas payé de droit d'inscription avant le 1er novembre de l'année scolaire concernée, n'est pas [<sup>3</sup> régulier et pas ]<sup>3</sup> admissible au financement.]<sup>1</sup>
+
+§ 3. Tout élève admissible au financement compte pour une unité de comptage.
+
+Par dérogation à l'alinéa 1er, les élèves admissibles au financement avec une dispense pour un ou plusieurs cours dans le domaine arts plastiques et audiovisuels sont pondérés par le coefficient 0,85.
+
+Par dérogation à l'alinéa 1er, les élèves admissibles au financement avec une dispense pour un ou plusieurs cours dans les domaines danse, arts de la parole-théâtre et musique sont pondérés par le coefficient 0,70.
+
+Par dérogation à l'alinéa 1er, les élèves admissibles au financement qui prolongent leurs parcours d'apprentissage dans le quatrième degré ou une orientation d'études de courte durée sont pondérés par le coefficient 0,50.
+
+Par dérogation à l'alinéa 1er, les élèves admissibles au financement à l'exception des élèves dans le quatrième degré arts plastiques et audiovisuels et dans les orientations d'études de courte durée qui suivent leur formation entière dans des implantations en Région bilingue de Bruxelles-Capitale ou dans la commune de Fourons sont pondérés par le coefficient 1,4.
+
+Par dérogation à l'alinéa 1er, les élèves admissibles au financement qui suivent leur formation entière dans des implantations situées dans des communes faiblement peuplées sont pondérés par le coefficient 1,05.
+
+Les pondérations visées aux alinéas 2, 4 et 5 et les pondérations visées aux alinéas 3, 4 et 5 sont cumulatives.
+
+Les pondérations visées aux alinéas 2, 4 et 6 et les pondérations visées aux alinéas 3, 4 et 6 sont cumulatives.
+
+Les pondérations visées aux alinéas 5 et 6 ne sont pas cumulatives. La pondération de l'alinéa 5 prévaut.
+
+§ 4. Pour l'application des dispositions de la section 2 à 7 du présent chapitre, on entend par " élèves " des " élèves admissibles au financement pondérés ".
+
+[<sup>1</sup> § 5. Sans préjudice de l'application du paragraphe 2, un élève qui suit un ou plusieurs cours de l'horaire des cours de la même formation dans différentes académies, est porté en compte pour 50% dans deux académies au maximum. Les pondérations, visées au paragraphe 3, alinéa 5, ne sont appliquées que sur le calcul de l'encadrement de l'académie ayant une implantation en région bilingue de Bruxelles-Capitale ou dans la commune de Fourons dans la mesure où l'élève suit tous les cours dans une implantation située en région bilingue de Bruxelles-Capitale ou dans la commune de Fourons.
+
+Les pondérations, visées au paragraphe 3, alinéa 6, ne sont appliquées que sur le calcul de l'encadrement de l'académie ayant une implantation dans une commune faiblement peuplée dans la mesure où l'élève suit tous les cours dans une implantation située dans une commune faiblement peuplée.
+
+Un élève qui suit plusieurs formations du même domaine dans plusieurs académies, n'est admissible au financement que dans une seule académie. Sur la base des données fournies par l'Agence de Services d'Enseignement, les directeurs décident de commun accord dans quelle académie l'élève est admissible au financement. Elles communiquent leur décision par écrit à l'Agence de Services d'Enseignement avant le 1er février. Si les directeurs ne parviennent pas à un accord, l'élève est admissible au financement pour l'année scolaire 2019-2020 dans l'académie où il a payé en premier son droit d'inscription pour ladite année scolaire. A partir de l'année scolaire 2020-2021, l'élève est admissible au financement dans l'académie où son inscription pour ladite année scolaire est enregistrée en premier dans le système électronique d'échange des données des élèves de l'Agence de Services d'Enseignement.]<sup>1</sup>
+
+[<sup>3</sup> § 6. Un élève peut, dans le courant de l'année scolaire, poursuivre sa formation dans une autre académie si la capacité de cette académie est suffisante et si le directeur donne son autorisation. La nouvelle académie avise l'académie d'origine et l' " Agentschap voor Onderwijsdiensten " (Agence de Services d'Enseignement) de l'inscription de l'élève. Sans préjudice de l'application des conditions visées aux paragraphes 1er à 4, l'élève est compté comme élève admissible au financement dans l'académie dans laquelle il est inscrit au 1er février.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 182, 008; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2022-07-08/11, art. 56, 013; En vigueur : 01-09-2022&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 171, 018; En vigueur : 01-09-2024&gt;
+
+### Section 2. - Encadrement du personnel enseignant
+
+#### Sous-section 1re. - Calcul de l'encadrement pour des orientations d'études de longue durée et de courte durée
+
+##### Art. 68
+
+Pour l'application des dispositions de la présente section, les orientations d'études, visées aux articles 10 à 20, sont organisées en subdivisions structurelles.
+
+Toutes les orientations d'études de longue durée d'un certain degré dans un domaine forment une même subdivision structurelle.
+
+Toutes les orientations d'études de courte durée d'une formation d'initiation transversale forment chacune une subdivision structurelle distincte.
+
+Par dérogation à l'alinéa 2, le troisième degré pour jeunes et le troisième degré pour adultes du domaine des arts plastiques et audiovisuels forment des subdivisions structurelles distinctes.
+
+Par dérogation à l'alinéa 2, le deuxième degré pour jeunes et le deuxième degré pour adultes dans le domaine musique forment des subdivisions structurelles distinctes.
+
+##### Art. 69
+
+§ 1er. Pour l'année scolaire X/X+1, une académie a droit à des périodes de cours calculées selon la formule suivante :
+
+élèves x OC x S,
+
+où :
+
+1° élèves : le nombre d'élèves par parcours dans une subdivision structurelle au 1er février de l'année scolaire précédente dans l'académie ;
+
+2° OC : le coefficient d'encadrement par parcours de la subdivision structurelle, visé à l'article 70 ;
+
+3° S : le facteur de solidarité calculé conformément à l'article 71.
+
+Le nombre de périodes de cours qu'une académie acquiert pour un certain degré est la somme des périodes de cours de tous les parcours de toutes les subdivisions structurelles dans chaque degré, sur l'ensemble des implantations de cette académie.
+
+Par parcours dans une subdivision structurelle, les élèves sont toujours comptés séparément. Dans une académie à plusieurs implantations, les élèves de toutes les implantations sont additionnés.
+
+§ 2. Par dérogation au paragraphe 1er, les périodes de cours pour les orientations d'études de spécialisation de courte durée sont calculées comme suit :
+
+1° si, dans un domaine d'une académie, le nombre d'élèves suivant une spécialisation au 1er février de l'année scolaire précédente est inférieur ou égal à 25 % du nombre d'élèves suivant le quatrième degré au 1er février de l'année scolaire précédente, le nombre d'élèves en spécialisation au 1er février de l'année scolaire précédente est multiplié par le coefficient d'encadrement et le facteur de solidarité, calculé conformément à l'article 71.
+
+2° si, [<sup>2</sup> dans un domaine dans une académie]<sup>2</sup>, le nombre d'élèves suivant une spécialisation au 1er février de l'année scolaire précédente dépasse 25 % du nombre d'élèves dans le quatrième degré au 1er février de l'année scolaire précédente, 25 % du nombre d'élèves dans le quatrième degré au 1er février de l'année scolaire précédente dans ce domaine est multiplié par le coefficient d'encadrement et le facteur de solidarité, calculé conformément à l'article 71.
+
+§ 3. Les résultats des calculs visés aux paragraphes 1er et 2 sont arrondis au nombre entier supérieur si la première décimale est supérieure à quatre, et au nombre entier inférieur si la première décimale est inférieure ou égale à quatre.
+
+§ 4. [<sup>1</sup> Par dérogation aux paragraphes 1er et 2, le jour de comptage pour le calcul des périodes de cours pour les subdivisions structurelles des académies en cours de création et des domaines dont la création est entamée avant le 31 août 2018, est le 1er octobre de l'année scolaire en cours.
+
+En cas de création d'une académie ce jour de comptage s'applique à l'ensemble de l'académie à partir de l'année scolaire de création jusqu'aux onze années scolaires suivantes incluses.
+
+En cas de création d'un domaine dont la création est entamée avant le 31 août 2018, ce jour de comptage ne s'applique qu'au domaine en question jusqu'à l'année scolaire dans laquelle les années d'études des différents degrés du domaine sont développées conformément à l'article 157.]<sup>1</sup>
+
+§ 5. Le Gouvernement flamand détermine les fonctions et les échelles de traitement dans lesquelles une académie peut organiser des emplois avec les périodes de cours visées aux paragraphes 1er, 2 et 4 ainsi que le mode de conversion des périodes de cours visées aux paragraphes 1er, 2 et 4 vers ces emplois.
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 66, 003; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 144, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 70
+
+Les coefficients d'encadrement par parcours dans les subdivisions structurelles du domaine arts plastiques et audiovisuels sont :
+
+<table><tr><td> </td><td>Coefficient d'encadrement</td></tr><tr><td>1er degré parcours de deux années </td><td>0,14545</td></tr><tr><td>2e degré parcours de quatre années </td><td>0,14545</td></tr><tr><td>3e degré pour jeunes parcours de six années </td><td>0,29091</td></tr><tr><td>3e degré pour jeunes parcours de sept années </td><td>0,24935</td></tr><tr><td>3e degré pour adultes parcours de deux années </td><td>0,29091</td></tr><tr><td>4e degré parcours de dix années </td><td>0,29818</td></tr><tr><td>4e degré parcours de cinq années </td><td>0,59636</td></tr><tr><td>4e degré parcours de quatre années </td><td>0,74545</td></tr><tr><td>spécialisation parcours de deux années </td><td>0,59636</td></tr><tr><td>culture plastique et audiovisuelle parcours de trois années </td><td>0,25625</td></tr></table>
+
+Les coefficients d'encadrement par parcours dans les subdivisions structurelles du domaine danse sont :
+
+<table><tr><td> </td><td>Coefficient d'encadrement</td></tr><tr><td>1er degré parcours de deux années </td><td>0,12500</td></tr><tr><td>2e degré parcours de quatre années </td><td>0,25000</td></tr><tr><td>2e degré parcours de deux années </td><td>0,50000</td></tr><tr><td>3e degré parcours de trois années </td><td>0,31250</td></tr><tr><td>4e degré parcours de trois années </td><td>0,38438</td></tr><tr><td>spécialisation parcours de deux années </td><td>0,38438</td></tr><tr><td>culture de la danse parcours de trois années </td><td>0,25625</td></tr></table>
+
+Les coefficients d'encadrement par parcours dans les subdivisions structurelles du domaine arts de la parole-théâtre sont :
+
+<table><tr><td> </td><td>Coefficient d'encadrement</td></tr><tr><td>1er degré parcours de deux années </td><td>0,06667</td></tr><tr><td>2e degré parcours de quatre années </td><td>0,10782</td></tr><tr><td>2e degré parcours de deux années </td><td>0,21564</td></tr><tr><td>3e degré parcours de trois années </td><td>0,42750</td></tr><tr><td>4e degré parcours de trois années </td><td>0,76875</td></tr><tr><td>spécialisation parcours de deux années </td><td>0,76875</td></tr><tr><td>écrivain parcours de trois années </td><td>0,76875</td></tr><tr><td>arts de la parole-théâtre parcours de trois années </td><td>0,25625</td></tr></table>
+
+Les coefficients d'encadrement par parcours dans les subdivisions structurelles du domaine musique sont :
+
+<table><tr><td> </td><td>Coefficient d'encadrement</td></tr><tr><td>1er degré parcours de deux années </td><td>0,06667</td></tr><tr><td>2e degré pour jeunes parcours de quatre années </td><td>0,44716</td></tr><tr><td>2e degré pour adultes parcours de trois années </td><td>0,42750</td></tr><tr><td>3e degré parcours de trois années </td><td>0,64400</td></tr><tr><td>3e degré parcours de quatre années </td><td>0,48300</td></tr><tr><td>4e degré parcours de trois années </td><td>1,12997</td></tr><tr><td>spécialisation parcours de deux années </td><td>1,12997</td></tr><tr><td>culture musicale </td><td>0,25625</td></tr><tr><td>histoire de la musique </td><td>0,25625</td></tr></table>
+
+Le coefficient d'encadrement pour la subdivision structurelle formation d'initiation transversale est de 0,06667.
+
+##### Art. 71
+
+§ 1er. Le facteur de solidarité est calculé d'une part pour le domaine arts plastiques et audiovisuels et d'autre part pour l'ensemble des domaines danse, arts de la parole-théâtre et musique.
+
+§ 2. Le facteur de solidarité pour le domaine arts plastiques et audiovisuels est calculé suivant la formule :
+
+S = le facteur de solidarité = 1 - (A/B),
+
+où :
+
+1° A : les périodes de cours pour l'année scolaire X/X+1, calculées conformément aux articles 69 et 70, au moyen d'un facteur de solidarité de 1, de toutes les subdivisions structurelles du domaine arts plastiques et audiovisuels dans les implantations qui, au 1er février de l'année scolaire précédente, sont encore en cours de création conformément aux articles 114 à 118 ;
+
+2° B : le nombre total de périodes de cours dans le domaine arts plastiques et audiovisuels pour l'année scolaire X/X+1, calculé conformément aux articles 69 et 70, au moyen du facteur de solidarité 1 ;
+
+3° [<sup>1</sup> par dérogation à l'article 69, le jour de comptage pour le calcul du facteur de solidarité pour les académies en cours de création conformément à l'article 114 et pour les domaines dont la création est entamée avant le 31 août 2018 conformément à l'article 157, est le 1er février de l'année scolaire précédente.]<sup>1</sup>
+
+§ 3. Le facteur de solidarité pour l'ensemble des domaines danse, arts de la parole-théâtre et musique est calculé suivant la formule :
+
+S = le facteur de solidarité = 1 - (C/D),
+
+où :
+
+1° C : les périodes de cours pour l'année scolaire X/X+1, calculées, conformément aux articles 69 et 70, au moyen d'un facteur de solidarité 1, de toutes les subdivisions structurelles des domaines danse, arts de la parole-théâtre et musique dans les implantations qui, au 1er février de l'année scolaire précédente, sont encore en cours de création conformément aux articles 114 à 118 ;
+
+2° D : le nombre total de périodes de cours dans les domaines danse, arts de la parole-théâtre ou musique pour l'année scolaire X/X+1, calculé conformément aux articles 69 et 70, au moyen du facteur de solidarité 1 ;
+
+3° [<sup>1</sup> par dérogation à l'article 69, le jour de comptage pour le calcul du facteur de solidarité pour les académies en cours de création conformément à l'article 114 et pour les domaines dont la création est entamée avant le 31 août 2018 conformément à l'article 157, est le 1er février de l'année scolaire précédente.]<sup>1</sup>
+
+§ 4. Aux fins des paragraphes 2 et 3, les périodes de cours pour l'année scolaire X/X+1, calculées conformément aux articles 69 et 70, pour la subdivision structurelle formation d'initiation transversale dans les implantations encore en cours de création au 1er février de l'année scolaire précédente, conformément aux articles 114 à 118, sont multipliées par 0,25, ajoutées au calcul de A et B et multipliées par 0,75, ajoutées au calcul de C et D.
+
+Aux fins des paragraphes 2 et 3, les périodes de cours pour l'année scolaire X/X+1, calculées conformément aux articles 69 et 70, pour la subdivision structurelle formation d'initiation transversale dans les implantations auxquelles il n'est pas fait référence dans l'alinéa 1er, sont multipliées par 0,25, ajoutées au calcul de B et multipliées par 0,75, ajoutées au calcul de D.
+
+§ 5. L'impact du facteur de solidarité sur l'encadrement fait l'objet d'un suivi annuel à partir de l'année scolaire 2019-2020. Le Parlement flamand reçoit un rapport annuel à ce sujet.
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 67, 003; En vigueur : 01-01-2019&gt;
+
+##### Art. 72
+
+Tout en respectant les crédits budgétaires disponibles, le Gouvernement flamand peut fixer un pourcentage d'utilisation à appliquer, pour une ou plusieurs années scolaires, à tout ou partie du calcul de l'encadrement visé aux articles 69 et 70. Ce pourcentage d'utilisation est un facteur de calcul qui diminue ou augmente en pourcentage le coefficient d'encadrement.
+
+##### Art. 72/1
+
+[<sup>1</sup>Par dérogation aux dispositions des articles 69 à 72 et 79, le Gouvernement flamand peut, pour des raisons exceptionnelles de force majeure, autoriser que, pour les subdivisions structurelles organisées au sein des implantations touchées par la force majeure, le même nombre de périodes de cours et d'unités d'encadrement administratif que l'année scolaire précédente soient, une seule fois, attribuées. Si l'académie inscrit davantage d'élèves dans les subdivisions structurelles concernées qu'au cours de l'année scolaire précédente, le calcul de l'encadrement normal s'applique dans ce cas.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 172, 018; En vigueur : 01-09-2024&gt;
+
+#### Sous-section 2. - Utilisation de l'encadrement du personnel enseignant
+
+##### Art. 73
+
+§ 1er. En application de la réglementation en matière de concertation et de négociation, l'autorité scolaire décide de l'utilisation des périodes de cours.
+
+L'autorité scolaire peut utiliser le nombre total de périodes de cours attribuées pour organiser des activités d'apprentissage, l'accompagnement musical et des activités d'apprentissage sur mesure. Pour la coordination pédagogique, l'autorité scolaire peut utiliser un maximum de [<sup>4</sup> 5 %]<sup>4</sup> du nombre de périodes de cours attribuées. [<sup>4</sup> ...]<sup>4</sup>
+
+§ 2. Chaque période de cours utilisée pour des activités d'apprentissage donne lieu, pour chaque semaine de l'année scolaire, à une activité d'apprentissage d'au moins cinquante minutes pour le domaine arts plastiques et audiovisuels et d'au moins soixante minutes pour les domaines danse, arts de la parole-théâtre et musique, ou d'au moins cinquante ou soixante minutes pour la formation initiale transversale, en tenant compte des dispositions relatives à l'organisation de l'année scolaire, visées aux articles 63 et 64.
+
+Par dérogation à l'alinéa 1er, le Gouvernement flamand détermine les conditions dans lesquelles une académie peut regrouper les activités d'apprentissage hebdomadaires en ensembles plus grands [<sup>1</sup> les déplacer ou remplacer par des activités extra-muros]<sup>1</sup>.
+
+§ 3. [<sup>3</sup> ne autorité scolaire peut également utiliser les périodes de cours qui sont calculées conformément aux articles 69 à 72 inclus pour engager des enseignants invités. Le nombre de périodes de cours vacantes pouvant être affectées à des enseignants invités, est fixé par l'autorité scolaire après négociation dans le comité local.
+
+Un enseignant invité, tel que visé à l'alinéa 1er, est une personne qui ne fait pas partie de l'autorité scolaire ou du personnel de l'académie. Un enseignant invité, tel que visé à l'alinéa 1er, donne en nom propre ou au service d'une organisation ou entreprise du secteur public ou privé, des cours d'invité dans l'académie ou à un autre endroit dans le cadre de la réalisation des compétences de base, des objectifs finaux spécifiques et des qualifications professionnelles sur la base de son expertise ou expérience dans les arts amateurs, les arts professionnels, l'industrie créative ou le patrimoine culturel. Si la capacité le permet, outre les élèves de l'académie, d'autres personnes intéressées peuvent également assister aux cours d'invité.
+
+Un enseignant invité, tel que visé à l'alinéa 1er, a une conduite irréprochable. Ce qui précède ressort d'un extrait du casier judiciaire avec la finalité 596.2 - modèle destiné aux contacts avec des mineurs, qui n'a pas été délivré plus d'un mois avant sa présentation. De plus, l'enseignant invité précité qui donne des cours d'invité dans une académie située dans la région de langue néerlandaise, à l'exception des communes à facilités, démontre qu'il maîtrise la connaissance du néerlandais comme langue d'enseignement au niveau C1 du Cadre européen commun de référence pour les langues. L'enseignant invité précité prouve la connaissance linguistique requise précitée de l'une des manières suivantes :
+
+1° avec un titre fixé par le Gouvernement flamand pour une fonction de recrutement du personnel directeur et enseignant et qui a été obtenu dans la langue d'enseignement ;
+
+2° avec un titre de l'enseignement agréé, financé ou subventionné par la Communauté flamande démontrant le niveau requis de la connaissance linguistique ;
+
+3° avec un titre qui est équivalent à un titre de l'enseignement agréé, financé ou subventionné par la Communauté flamande démontrant le niveau requis de la connaissance linguistique ;
+
+4° avec un certificat de fin d'études, un certificat ou une attestation démontrant le niveau C1 requis du Cadre européen de référence pour les langues.
+
+A l'alinéa 4, on entend par Cadre européen commun de référence pour les langues : la traduction française du Common European Framework of Reference for Languages publié par le Conseil de l'Europe.
+
+Dans le mode d'affectation, visé à l'alinéa 1er, des périodes de cours sont converties en crédit à concurrence de la mission d'enseignement de l'enseignant invité. Le Gouvernement flamand détermine le mode de notification de la conversion précitée au service de l'administration désignée par le Gouvernement flamand, le montant du crédit par période de cours qui est convertie et le mode d'attribution du crédit.
+
+Les mesures, contenues au présent paragraphe, seront évaluées pendant l'année scolaire 2024-2025.]<sup>3</sup>
+
+-----------
+
+-----------
+
+-----------
+
+§ 4. Un maximum de cinq pour cent des périodes de cours, calculé conformément aux dispositions des articles 69 à 72, peut être utilisé pour organiser des activités d'apprentissage sur mesure visées à l'article 4, alinéa 3. Des activités d'apprentissage sur mesure ne peuvent être utilisées qu'aux fins visées à l'article 4, alinéa 3.
+
+L'autorité scolaire est libre de programmer les activités d'apprentissage sur mesure au cours de l'année scolaire.
+
+[<sup>2</sup>[<sup>3</sup> Une autorité scolaire peut convertir des périodes de cours pour des activités d'apprentissage sur mesure en un crédit pour rétribuer des experts spécialisés dans un ou plusieurs des objectifs visés à l'article 4, alinéa 3. Le décret relatif au statut de certains membres du personnel de l'enseignement communautaire du 27 mars 1991 et le décret relatif au statut de certains membres du personnel de l'enseignement subventionné du 27 mars 1991 ne s'appliquent pas à ces experts.
+
+Un expert, tel que visé à l'alinéa 3, a une conduite irréprochable. Ce qui précède ressort d'un extrait du casier judiciaire avec la finalité 596.2 - modèle destiné aux contacts avec des mineurs, qui n'a pas été délivré plus d'un mois avant sa présentation. De plus, l'expert précité dans une académie située dans la région de langue néerlandaise, à l'exception des communes à facilités, démontre qu'il maîtrise la connaissance du néerlandais comme langue d'enseignement au niveau C1 du Cadre européen commun de référence pour les langues. L'expert précité prouve la connaissance linguistique requise précitée de l'une des manières suivantes :
+
+1° avec un titre fixé par le Gouvernement flamand pour une fonction de recrutement du personnel directeur et enseignant et qui a été obtenu dans la langue d'enseignement ;
+
+2° avec un titre de l'enseignement agréé, financé ou subventionné par la Communauté flamande démontrant le niveau requis de la connaissance linguistique ;
+
+3° avec un titre qui est équivalent à un titre de l'enseignement agréé, financé ou subventionné par la Communauté flamande démontrant le niveau requis de la connaissance linguistique ;
+
+4° avec un certificat de fin d'études, un certificat ou une attestation démontrant le niveau C1 requis du Cadre européen de référence pour les langues.
+
+A l'alinéa 3, on entend par Cadre européen commun de référence pour les langues : la traduction française du Common European Framework of Reference for Languages publié par le Conseil de l'Europe.]<sup>3</sup>
+
+Le Gouvernement flamand arrête le mode de notification de la conversion à l'Agence de Services d'Enseignement, le volume du crédit par période de cours qui est converti et le mode d'octroi du crédit.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 165, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-08/10, art. 79, 012; En vigueur : 01-09-2022&gt;
+
+(3)&lt;DCFL 2023-07-14/14, art. 95, 014; En vigueur : 01-09-2023&gt;
+
+(4)&lt;DCFL 2023-07-07/17, art. 145, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 73 DROIT FUTUR.
+
+§ 1er. En application de la réglementation en matière de concertation et de négociation, l'autorité scolaire décide de l'utilisation des périodes de cours.
+
+L'autorité scolaire peut utiliser le nombre total de périodes de cours attribuées pour organiser des activités d'apprentissage, l'accompagnement musical et des activités d'apprentissage sur mesure. Pour la coordination pédagogique, l'autorité scolaire peut utiliser un maximum de [<sup>4</sup> 5 %]<sup>4</sup> du nombre de périodes de cours attribuées. [<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>5</sup> Le résultat du calcul de ce pourcentage est arrondi au nombre entier supérieur si le premier chiffre après la virgule est supérieur à quatre, et est arrondi au nombre entier inférieur si le premier chiffre après la virgule est inférieur ou égal à quatre.]<sup>5</sup>
+
+§ 2. Chaque période de cours utilisée pour des activités d'apprentissage donne lieu, pour chaque semaine de l'année scolaire, à une activité d'apprentissage d'au moins cinquante minutes pour le domaine arts plastiques et audiovisuels et d'au moins soixante minutes pour les domaines danse, arts de la parole-théâtre et musique, ou d'au moins cinquante ou soixante minutes pour la formation initiale transversale, en tenant compte des dispositions relatives à l'organisation de l'année scolaire, visées aux articles 63 et 64.
+
+Par dérogation à l'alinéa 1er, le Gouvernement flamand détermine les conditions dans lesquelles une académie peut regrouper les activités d'apprentissage hebdomadaires en ensembles plus grands [<sup>1</sup> les déplacer ou remplacer par des activités extra-muros]<sup>1</sup>.
+
+§ 3. [<sup>3</sup> ne autorité scolaire peut également utiliser les périodes de cours qui sont calculées conformément aux articles 69 à 72 inclus pour engager des enseignants invités. Le nombre de périodes de cours vacantes pouvant être affectées à des enseignants invités, est fixé par l'autorité scolaire après négociation dans le comité local.
+
+Un enseignant invité, tel que visé à l'alinéa 1er, est une personne qui ne fait pas partie de l'autorité scolaire ou du personnel de l'académie. Un enseignant invité, tel que visé à l'alinéa 1er, donne en nom propre ou au service d'une organisation ou entreprise du secteur public ou privé, des cours d'invité dans l'académie ou à un autre endroit dans le cadre de la réalisation des compétences de base, des objectifs finaux spécifiques et des qualifications professionnelles sur la base de son expertise ou expérience dans les arts amateurs, les arts professionnels, l'industrie créative ou le patrimoine culturel. Si la capacité le permet, outre les élèves de l'académie, d'autres personnes intéressées peuvent également assister aux cours d'invité.
+
+Un enseignant invité, tel que visé à l'alinéa 1er, a une conduite irréprochable. Ce qui précède ressort d'un extrait du casier judiciaire avec la finalité 596.2 - modèle destiné aux contacts avec des mineurs, qui n'a pas été délivré plus d'un mois avant sa présentation. De plus, l'enseignant invité précité qui donne des cours d'invité dans une académie située dans la région de langue néerlandaise, à l'exception des communes à facilités, démontre qu'il maîtrise la connaissance du néerlandais comme langue d'enseignement au niveau C1 du Cadre européen commun de référence pour les langues. L'enseignant invité précité prouve la connaissance linguistique requise précitée de l'une des manières suivantes :
+
+1° avec un titre fixé par le Gouvernement flamand pour une fonction de recrutement du personnel directeur et enseignant et qui a été obtenu dans la langue d'enseignement ;
+
+2° avec un titre de l'enseignement agréé, financé ou subventionné par la Communauté flamande démontrant le niveau requis de la connaissance linguistique ;
+
+3° avec un titre qui est équivalent à un titre de l'enseignement agréé, financé ou subventionné par la Communauté flamande démontrant le niveau requis de la connaissance linguistique ;
+
+4° avec un certificat de fin d'études, un certificat ou une attestation démontrant le niveau C1 requis du Cadre européen de référence pour les langues.
+
+A l'alinéa 4, on entend par Cadre européen commun de référence pour les langues : la traduction française du Common European Framework of Reference for Languages publié par le Conseil de l'Europe.
+
+Dans le mode d'affectation, visé à l'alinéa 1er, des périodes de cours sont converties en crédit à concurrence de la mission d'enseignement de l'enseignant invité. Le Gouvernement flamand détermine le mode de notification de la conversion précitée au service de l'administration désignée par le Gouvernement flamand, le montant du crédit par période de cours qui est convertie et le mode d'attribution du crédit.
+
+Les mesures, contenues au présent paragraphe, seront évaluées pendant l'année scolaire 2024-2025.]<sup>3</sup>
+
+-----------
+
+-----------
+
+-----------
+
+§ 4. Un maximum de cinq pour cent des périodes de cours, calculé conformément aux dispositions des articles 69 à 72, peut être utilisé pour organiser des activités d'apprentissage sur mesure visées à l'article 4, alinéa 3. Des activités d'apprentissage sur mesure ne peuvent être utilisées qu'aux fins visées à l'article 4, alinéa 3.
+
+L'autorité scolaire est libre de programmer les activités d'apprentissage sur mesure au cours de l'année scolaire.
+
+[<sup>2</sup>[<sup>3</sup> Une autorité scolaire peut convertir des périodes de cours pour des activités d'apprentissage sur mesure en un crédit pour rétribuer des experts spécialisés dans un ou plusieurs des objectifs visés à l'article 4, alinéa 3. Le décret relatif au statut de certains membres du personnel de l'enseignement communautaire du 27 mars 1991 et le décret relatif au statut de certains membres du personnel de l'enseignement subventionné du 27 mars 1991 ne s'appliquent pas à ces experts.
+
+Un expert, tel que visé à l'alinéa 3, a une conduite irréprochable. Ce qui précède ressort d'un extrait du casier judiciaire avec la finalité 596.2 - modèle destiné aux contacts avec des mineurs, qui n'a pas été délivré plus d'un mois avant sa présentation. De plus, l'expert précité dans une académie située dans la région de langue néerlandaise, à l'exception des communes à facilités, démontre qu'il maîtrise la connaissance du néerlandais comme langue d'enseignement au niveau C1 du Cadre européen commun de référence pour les langues. L'expert précité prouve la connaissance linguistique requise précitée de l'une des manières suivantes :
+
+1° avec un titre fixé par le Gouvernement flamand pour une fonction de recrutement du personnel directeur et enseignant et qui a été obtenu dans la langue d'enseignement ;
+
+2° avec un titre de l'enseignement agréé, financé ou subventionné par la Communauté flamande démontrant le niveau requis de la connaissance linguistique ;
+
+3° avec un titre qui est équivalent à un titre de l'enseignement agréé, financé ou subventionné par la Communauté flamande démontrant le niveau requis de la connaissance linguistique ;
+
+4° avec un certificat de fin d'études, un certificat ou une attestation démontrant le niveau C1 requis du Cadre européen de référence pour les langues.
+
+A l'alinéa 3, on entend par Cadre européen commun de référence pour les langues : la traduction française du Common European Framework of Reference for Languages publié par le Conseil de l'Europe.]<sup>3</sup>
+
+Le Gouvernement flamand arrête le mode de notification de la conversion à l'Agence de Services d'Enseignement, le volume du crédit par période de cours qui est converti et le mode d'octroi du crédit.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 165, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-08/10, art. 79, 012; En vigueur : 01-09-2022&gt;
+
+(3)&lt;DCFL 2023-07-14/14, art. 95, 014; En vigueur : 01-09-2023&gt;
+
+(4)&lt;DCFL 2023-07-07/17, art. 145, 016; En vigueur : 01-09-2023&gt;
+
+(5)&lt;DCFL 2025-06-06/20, art. 81, 021; En vigueur : 01-09-2025&gt;
+
+##### Art. 74
+
+L'autorité scolaire ne peut utiliser les périodes de cours du domaine arts plastiques et audiovisuels que pour ce domaine. Les périodes de cours des domaines danse, arts de la parole-théâtre et musique peuvent être échangées entre elles. [<sup>1</sup> ...]<sup>1</sup>.
+
+Les périodes de cours des subdivisions structurelles du quatrième degré peuvent être utilisées dans les premier, deuxième et troisième degrés. Les périodes de cours des subdivisions structurelles des premier, deuxième et troisième degrés ne peuvent être utilisées dans les subdivisions structurelles du quatrième degré mais peuvent être échangées entre elles.
+
+[<sup>1</sup> Les périodes de cours des orientations d'études de courte durée ne peuvent être échangées qu'entre elles. Ce n'est que dans le cas de la création d'une nouvelle orientation d'études, option ou d'un nouveau instrument de musique que les périodes de cours des orientations d'études de courte durée peuvent être échangées avec celles du quatrième degré ou vice versa et ce, pour la durée de la création.]<sup>1</sup>
+
+Aux fins de la réglementation applicable aux personnels, les orientations d'études de courte durée sont considérées comme une subdivision structurelle du quatrième degré.
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 129, 002; En vigueur : 01-09-2018&gt;
+
+##### Art. 75
+
+Au cours d'une année scolaire donnée, une autorité scolaire peut reporter à l'année scolaire suivante les périodes de cours qu'elle n'utilise pas dans une académie, [<sup>1</sup> ou à une autre académie ou à une académie d'une autre autorité scolaire]<sup>1</sup> si elle remplit toutes les conditions suivantes :
+
+1° le nombre maximum de périodes de cours d'une année scolaire donnée qui est reporté est fixé au plus tard le 1er novembre de l'année scolaire en question ;
+
+2° le nombre maximal de périodes de cours reportées d'une année scolaire à l'autre ne peut jamais dépasser 3 % du nombre de périodes de cours de cette année scolaire. Le nombre maximum de périodes de cours transférées est toujours arrondi à une période de cours entière ;
+
+3° les périodes de cours ne peuvent être utilisées que dans l'année scolaire en cours ou dans l'année scolaire suivante ;
+
+4° l'autorité scolaire de l'académie a déclaré sur l'honneur qu'elle ne doit prononcer, pendant cette année scolaire dans l'académie, conformément à la réglementation en vigueur, aucune mise en disponibilité par défaut d'emploi nouvelle ou supplémentaire dans la catégorie du personnel enseignant ou si les membres du personnel enseignant nouvellement ou supplémentairement mis en disponibilité par défaut d'emploi peuvent être réaffectés ou remis à l'emploi dans un emploi organique vacant ou non vacant dans une académie de l'autorité scolaire et ce, pour le reste de l'année scolaire.
+
+Par dérogation à la condition, visée à l'alinéa 1er, 4°, sont considérés pour l'application de l'alinéa 1er dans une académie des arts, le domaine arts plastiques et audiovisuels et l'ensemble des domaines danse, arts de la parole-théâtre et musique comme une académie séparée.
+
+S'il n'est pas satisfait aux conditions, visées à l'alinéa 1er, et, dans le cas d'une académie des arts, aux conditions visées aux alinéas 1er, 2 et 3, la mise en disponibilité par défaut d'emploi ne produit aucun effet à l'égard de l'autorité.
+
+Dans les périodes de cours transférées, visées à l'alinéa 1er, aucun membre du personnel ne peut être nommé à titre définitif. Lorsque la condition précitée n'est pas remplie, les nominations à titre définitif ne produisent aucun effet à l'égard de l'autorité.
+
+[<sup>1</sup> Le Gouvernement flamand détermine le délai et la manière de communication des périodes de cours transférées à l'Agence de Services d'Enseignement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 183, 008; En vigueur : 01-09-2020&gt;
+
+#### Sous-section 3. [<sup>1</sup> Périodes de cours complémentaires pour le soutien de la tâche principale du personnel enseignant]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-25/10, art. 50, 011; En vigueur : 01-09-2021&gt;
+
+##### Art. 75/1
+
+[<sup>1</sup> § 1er. Pour l'année scolaire 2021-2022, le nombre total de périodes de cours complémentaires pour le soutien de la tâche principale du personnel enseignant s'élève à 604 périodes de cours.
+
+Pour l'année scolaire X-X+1, à compter de l'année scolaire 2022-2023, les périodes de cours visées à l'alinéa premier sont multipliées par le coefficient d'adaptation A1 = X/Y, où :
+
+1° X : le nombre total d'élèves dans l'enseignement artistique à temps partiel au premier jour de classe de février X ;
+
+2° Y : le nombre total d'élèves dans l'enseignement artistique à temps partiel au premier jour de classe de février 2021.
+
+§ 2. Le nombre de périodes de cours complémentaires pour le soutien de la tâche principale du personnel enseignant, auquel l'académie d'enseignement artistique à temps partiel a droit, est calculé au moyen de la formule A\*B, où :
+
+1° A : le nombre de périodes de cours disponibles pour l'enseignement artistique à temps partiel, visé au paragraphe 1er, divisé par le nombre total de périodes de cours dans l'enseignement artistique à temps partiel de l'année scolaire précédente pour l'ensemble des académies ;
+
+2° B : le nombre total de périodes de cours de l'académie de l'année scolaire précédente, le nombre total de périodes de cours de l'académie étant la somme de tous les éléments suivants :
+
+a) les périodes de cours, visées à l'article 69 du présent décret ;
+
+b) les périodes de cours de transition, visées à l'article 6 du décret du 30 avril 2021 contenant des mesures temporaires urgentes dans le domaine de l'enseignement à la suite de la crise du coronavirus (VII) ;
+
+c) les périodes de cours de transition supplémentaires, visées à l'article 7 du décret précité du 30 avril 2021.
+
+Les périodes de cours, visées à l'alinéa premier, sont arrondies au sein d'une académie à l'unité supérieure si le premier chiffre après la virgule est supérieur à quatre. Si le premier chiffre après la virgule est inférieur ou égal à quatre, le nombre est arrondi à l'unité inférieure.
+
+§ 3. Le Gouvernement flamand détermine les fonctions dans lesquelles une académie peut organiser des emplois avec les périodes de cours complémentaires pour le soutien de la tâche principale du personnel enseignant, visées au paragraphe 1er, ainsi que le mode de conversion des périodes de cours complémentaires pour le soutien de la tâche principale du personnel enseignant, visées au paragraphe 1er, en ces emplois.
+
+§ 4. Les périodes de cours complémentaires pour le soutien de la tâche principale du personnel enseignant doivent être affectées à la diminution de la charge de travail du personnel enseignant avec un effet sur la mission d'enseignement. Au maximum une période de cours peut être accordée à un membre du personnel enseignant. Il ne peut être dérogé à ce principe que jusqu'à trois périodes de cours au maximum par membre du personnel enseignant, sur la base d'une demande motivée et après négociation au sein du comité local. Cette demande motivée peut être formulée tant par la délégation de l'autorité scolaire que par la délégation du personnel. Par dérogation à l'article 75, ces périodes de cours accordées ne peuvent pas être transférées à l'année scolaire suivante.
+
+§ 5. Par dérogation au paragraphe 4, en cas de pénurie de personnel enseignant, une autorité scolaire peut également affecter les périodes de cours complémentaires pour le soutien de la tâche principale du personnel enseignant dans les fonctions du personnel d'appui pendant les années scolaires 2021-2022 et 2022-2023. Les critères de détermination de la pénurie de personnel enseignant sont arrêtés au sein du comité local compétent et l'affectation dans des fonctions du personnel d'appui ne peut être appliquée qu'après une négociation au sein du comité local compétent.
+
+Les emplois organisés dans des fonctions du personnel d'appui, tels que visés à l'alinéa premier, n'entrent pas en ligne de compte pour une déclaration de vacance d'emploi et l'autorité scolaire ne peut en aucun cas nommer un membre du personnel à titre définitif, l'affecter ou le muter dans un de ces emplois.
+
+Le Gouvernement flamand détermine le mode de conversion des périodes de cours complémentaires en unités d'encadrement administratif pour les fonctions du personnel d'appui.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-25/10, art. 51, 011; En vigueur : 01-09-2021&gt;
+
+#### Sous-section 3/1. [<sup>1</sup> Périodes de cours complémentaires pour faire l'école ensemble]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-25/10, art. 52, 011; En vigueur : 01-09-2021&gt;
+
+##### Art. 75/2
+
+[<sup>1</sup> § 1er. A partir de l'année scolaire 2021-2022, les académies ont droit à des périodes de cours complémentaires pour faire l'école ensemble.
+
+§ 2. Le nombre de périodes de cours complémentaires pour faire l'école ensemble, auquel l'académie a droit, est calculé au moyen de la formule 0,002051981\*B.
+
+Dans l'alinéa premier, on entend par B : le nombre total de périodes de cours de l'académie de l'année scolaire précédente, le nombre total de périodes de cours de l'académie étant la somme de tous les éléments suivants :
+
+a) les périodes de cours, visées à l'article 69 du présent décret ;
+
+b) les périodes de cours de transition, visées à l'article 6 du décret du 30 avril 2021 contenant des mesures temporaires urgentes dans le domaine de l'enseignement à la suite de la crise du coronavirus (VII) ;
+
+c) les périodes de cours de transition supplémentaires, visées à l'article 7 du décret précité du 30 avril 2021.
+
+Les périodes de cours, visées à l'alinéa premier, sont arrondies au sein d'une académie à l'unité supérieure si le premier chiffre après la virgule est supérieur à quatre. Si le premier chiffre après la virgule est inférieur ou égal à quatre, le nombre est arrondi à l'unité inférieure.
+
+§ 3. Par dérogation au paragraphe 2, les académies qui, conformément au paragraphe 2, ont droit à plus de trois périodes de cours complémentaires pour faire l'école ensemble, ont droit à trois périodes de cours complémentaires.
+
+Par dérogation au paragraphe 2, les académies qui, conformément au paragraphe 2, ont droit à moins d'une période de cours complémentaire pour faire l'école ensemble, ont droit à une période de cours complémentaire.
+
+§ 4. Le Gouvernement flamand détermine les fonctions dans lesquelles une académie peut organiser des emplois avec les périodes de cours complémentaires pour faire l'école ensemble, visées au paragraphe 1er, ainsi que le mode de conversion des périodes de cours complémentaires pour faire l'école ensemble, visées au paragraphe 1er, en ces emplois. Le Gouvernement flamand détermine également la manière dont les périodes de cours peuvent être converties en points ou heures par le biais de tableaux de conversion.
+
+§ 5. Le Gouvernement flamand approuve le cadre d'accords entre l'enseignement communautaire et les associations représentatives des autorités scolaires de l'enseignement subventionné et les organisations syndicales représentatives sur le mode d'octroi, la répartition et l'utilisation des périodes de cours complémentaires pour faire l'école ensemble visant spécifiquement à renforcer la concertation sociale locale.
+
+Les académies peuvent collaborer pour l'affectation des périodes de cours pour faire l'école ensemble. Aux fins de cette collaboration, ces périodes de cours peuvent être regroupées par le biais d'un transfert tel que visé à l'article 75. Le cas échéant, les écoles collaborantes concluent des accords sur l'utilisation et l'affectation des périodes de cours. Par dérogation à l'article 75, ces périodes de cours accordées ne peuvent pas être transférées à l'année scolaire suivante.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-25/10, art. 53, 011; En vigueur : 01-09-2021&gt;
+
+#### Sous-section 4. - Dispositions particulières
+
+##### Art. 76
+
+§ 1er. A partir de quatre cents élèves comptés au 1er février de l'année scolaire précédente, les académies des arts ont droit à vingt périodes de cours pour l'appui à la gestion dans l'académie. En deçà de ce seuil, le nombre de périodes de cours pour l'appui à la gestion est attribué au prorata de 1/20 par série complète de vingt élèves.
+
+Par dérogation à l'alinéa 1er, le jour de comptage pour les académies en cours de création est le 1er octobre de l'année scolaire en cours. Ce jour de comptage s'applique à partir de l'année scolaire de création et pendant les onze années scolaires suivantes.
+
+Les académies qui, au 1er septembre 2017 organisaient un projet temporaire de coopération intercommunale ou un projet temporaire de coopération régionale, conservent les périodes de cours destinées à la coordination pédagogique qui leur sont attribuées en vertu des conditions du projet.
+
+Le Gouvernement flamand détermine les fonctions dans lesquelles une académie peut organiser des emplois avec les périodes de cours, visées aux alinéas 1er et 3, ainsi que le mode de conversion des périodes de cours vers ces emplois.
+
+§ 2. A partir de l'année scolaire 2019-2020, les académies, visées à l'annexe 2 du présent décret, ont droit à des périodes supplémentaires. Ces périodes de cours supplémentaires sont calculées annuellement suivant la formule figurant à l'alinéa 2.
+
+Si X pour les académies, énumérées à l'annexe 2 du présent décret, est inférieur à Z, l'académie en question a droit à Y périodes supplémentaires, calculées selon la formule :
+
+Y = Z - X,
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Y est arrondi au nombre entier supérieur si la première décimale est supérieure à quatre, et au nombre entier inférieur si la première décimale est inférieure ou égale à quatre.
+
+Si l'académie concernée a droit, conformément à l'article 155, à des périodes de cours additionnelles pour les premier, deuxième et troisième degrés, la moitié de Y sera déduite, pour l'académie concernée, des périodes de cours obtenues pour les premier, deuxième et troisième degrés, conformément à l'article 155. Si le nombre de périodes de cours ainsi obtenu est négatif, le nombre de périodes de cours pour l'académie concernée pour les premier, deuxième et troisième degrés est censé être égal à zéro conformément à l'article 155.
+
+Si l'académie concernée a droit, conformément à l'article 155, à des périodes de cours additionnelles pour le quatrième degré et les orientations d'études de courte durée, la moitié de Y sera déduite, pour l'académie concernée, des périodes de cours obtenues pour le quatrième degré et les orientations d'études de courte durée, conformément à l'article 155. Si le nombre de périodes de cours ainsi obtenu est négatif, le nombre de périodes de cours, pour l'académie concernée pour le quatrième degré et les orientations d'études de courte durée est censé être égal à zéro, conformément à l'article 155.
+
+----------
+
+(1)&lt;DCFL 2023-11-23/33, art. 87, 017; En vigueur : 01-09-2023&gt;
+
+##### Art. 76/1
+
+[<sup>1</sup> § 1er. [<sup>3</sup>[<sup>4</sup> Une académie a droit à des périodes de cours complémentaires pour l'encadrement initial qui sont calculées au moyen de la formule A\*B, où :
+
+1° A : le nombre total de périodes de cours de l'académie de l'année scolaire précédente, qui est calculé conformément à l'article 69 sur la base du comptage des élèves au 1er février de l'année scolaire qui précède celle-ci ;
+
+2° B : X/Y, où :
+
+a) X : le nombre total de périodes de cours complémentaires pour l'encadrement initial pour l'enseignement artistique à temps partiel ;
+
+b) Y : le nombre total de périodes de cours pour l'enseignement artistique à temps partiel de l'année scolaire précédente, qui est calculé conformément à l'article 69 sur la base du comptage des élèves au 1er février de l'année scolaire qui précède celle-ci. ]<sup>4</sup>.
+
+Pour l'année scolaire 2021-2022, le nombre total de périodes de cours complémentaires pour l'encadrement initial pour l'enseignement artistique à temps partiel, visé à l'alinéa premier, est de 454 périodes de cours.
+
+Pour l'année scolaire X-X+1, à compter de l'année scolaire 2022-2023, les périodes de cours visées à l'alinéa deux sont multipliées par le coefficient d'adaptation A = X/Y, où :
+
+1° X : le nombre total d'élèves admissibles au financement dans l'enseignement artistique à temps partiel [<sup>4</sup> le 1er février X-1 ]<sup>4</sup>;
+
+2° Y : le nombre total d'élèves admissibles au financement dans l'enseignement artistique à temps partiel le 1er février 2021.
+
+Le résultat du calcul, visé à l'alinéa premier, est arrondi à l'unité supérieure si le premier chiffre après la virgule est supérieur à quatre. Si le premier chiffre après la virgule est inférieur ou égal à quatre, le nombre est arrondi à l'unité inférieure.]<sup>3</sup>
+
+§ 2. [<sup>3</sup> Le Gouvernement flamand détermine la manière dont les périodes de cours calculées conformément au paragraphe 1 peuvent être affectées, et détermine également les catégories de personnel et les fonctions dans lesquelles des emplois peuvent être créés sur la base de ces périodes de cours. Le Gouvernement flamand détermine également la manière dont les périodes de cours peuvent être converties en points ou heures par le biais de tableaux de conversion.]<sup>3</sup>
+
+§ 3. [<sup>3</sup> Si les académies ne peuvent pas utiliser les périodes de cours complémentaires, visées au paragraphe 1er, pour l'encadrement initial, elles doivent les utiliser pour le soutien de la tâche principale du personnel enseignant conformément à l'article 75/1, § 4. Par dérogation à l'article 75, ces périodes de cours accordées ne peuvent pas être transférées à l'année scolaire suivante.]<sup>3</sup>
+
+§ 4. [<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-15/27, art. 46, 004; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 249, 010; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2022-02-25/10, art. 54, 011; En vigueur : 01-09-2021&gt;
+
+(4)&lt;DCFL 2024-04-19/55, art. 173, 018; En vigueur : 01-09-2024&gt;
+
+##### Art. 76/2
+
+[<sup>1</sup> § 1er. Pour l'application du présent article, on entend par :
+
+1° travailleur exerçant un flexi-job : un travailleur tel que visé à l'article 3, 3°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale ;
+
+2° contrat de travail flexi-job : un contrat de travail tel que visé à l'article 3, 4°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale.
+
+§ 2. En cas de pénurie de personnel enseignant ou de personnel d'appui sur le marché du travail, une autorité scolaire peut utiliser des fonds propres, moyens de fonctionnement tels que visés aux articles 83 et 84, ou une partie de son encadrement pouvant être converti en crédit, pour les fonctions de recrutement du personnel enseignant ou du personnel d'appui d'une ou de plusieurs de ses académies, afin d'employer dans cette ou ces académies, par le biais d'un contrat de travail flexi-job, un travailleur exerçant un flexi-job.
+
+La pénurie de personnel enseignant ou de personnel d'appui sur le marché du travail, visée à l'alinéa 1er, ressort du fait que l'autorité scolaire, dans l'académie où elle veut engager le travailleur exerçant un flexi-job, visé à l'alinéa 1er, pour une vacance dans une fonction de recrutement du personnel enseignant ou du personnel d'appui, ne peut pas pourvoir la vacance précitée par le biais d'une désignation régulière d'un membre du personnel qui possède à cet effet un titre requis ou jugé suffisant.
+
+Dans l'alinéa 2, on entend par vacance : un emploi complet ou incomplet qui est vacant ou pour lequel le titulaire absent ou son remplaçant peut être remplacé de manière régulière.
+
+§ 3. L'autorité scolaire conclut avec le travailleur exerçant un flexi-job un contrat de travail flexi-job. Les dispositions du décret relatif au statut de certains membres du personnel de l'enseignement communautaire du 27 mars 1991, du décret relatif au statut de certains membres du personnel de l'enseignement subventionné du 27 mars 1991 et les arrêtés d'exécution de ces décrets ne s'appliquent pas, sauf disposition expresse contraire, aux employés précités.
+
+Par dérogation à l'alinéa 1er, un travailleur exerçant un flexi-job doit satisfaire aux conditions visées à l'article 17, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ou à l'article 19, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné ;
+
+Le travailleur exerçant un flexi-job ne peut par ailleurs pas avoir d'autre occupation auprès de l'autorité scolaire.
+
+§ 4. Pour l'utilisation d'une partie de son encadrement telle que visée au paragraphe 2, une autorité scolaire peut uniquement utiliser le crédit obtenu via la conversion de cet encadrement, visée à l'article 73, § 3.
+
+La faculté d'utiliser le crédit, visée à l'alinéa 1er, prend fin :
+
+1° à partir du moment où le titulaire de l'emploi qui entre en ligne de compte pour un remplacement régulier revient de son absence de manière anticipée. De ce fait se termine également la désignation du travailleur exerçant un flexi-job ;
+
+2° lorsque le travailleur exerçant un flexi-job démissionne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 174, 018; En vigueur : 01-04-2024&gt;
+
+### Section 3. - Encadrement du personnel directeur
+
+##### Art. 77
+
+A partir de deux cents élèves comptés au 1er février de l'année scolaire précédente, les académies ont droit à une fonction de directeur. En deçà de ce seuil, une fonction de directeur est attribuée au prorata de 1/20 par série complète de dix élèves.
+
+Par dérogation à l'alinéa 1er, le jour de comptage pour les académies en cours de création est le 1er octobre de l'année scolaire en cours. Ce jour de comptage s'applique à partir de l'année scolaire de création et pendant les onze années scolaires suivantes.
+
+##### Art. 78
+
+Le membre du personnel qui est nommé à titre définitif dans la fonction de directeur dans une académie et qui, à la suite de la fusion d'académies, est mis en disponibilité par défaut d'emploi, peut être mis au travail à titre personnel dans un emploi non organique de directeur qui est ajouté à l'académie fusionnée. La mise au travail dans un emploi non organique est considérée comme une réaffectation et suspend toutes les obligations de réaffectation et de remise au travail en dehors de l'académie.
+
+L'emploi non organique, visé à l'alinéa 1er, est attribué sur la base du même calcul que celui pour la fonction de directeur, visée à l'article 77. L'emploi non organique n'est accordé que pour la durée pendant laquelle le membre du personnel visé à l'alinéa 1er y est mis au travail.
+
+Tant qu'un emploi non organique, tel que visé à l'alinéa 2, est attribué à l'académie des arts, aucune période de cours pour l'appui à la gestion ne peut être financée ou subventionnée, par dérogation à l'article 76, § 1er, dans cette académie des arts.
+
+### Section 4. - Encadrement du personnel d'appui et du personnel auxiliaire d'éducation
+
+##### Art. 79
+
+§ 1er. Toute académie a droit à des unités d'encadrement administratif calculées selon la formule suivante :
+
+(a x 0,001 x 38) - (b x 38/32),
+
+où :
+
+1° a : le nombre d'élèves au 1er février de l'année scolaire précédente dans l'académie ;
+
+2° b : le nombre d'heures d'un emploi de surveillant-éducateur ; limité au volume visé au paragraphe 3 ;
+
+3° 32 : le nombre d'heures d'un emploi à temps plein de surveillant-éducateur ;
+
+4° 38 : le nombre d'unités d'encadrement administratif pour un emploi à temps plein de collaborateur administratif.
+
+Par dérogation au jour de comptage, visé à l'alinéa 1er, 1°, le jour de comptage pour les académies en cours de création est le 1er octobre de l'année scolaire en cours. Ce jour de comptage s'applique à partir de l'année scolaire de création et pendant les onze années scolaires suivantes.
+
+§ 2. Si la première décimale est supérieure ou égale à cinq, le résultat de cette formule est arrondi à l'unité supérieure. Si ce chiffre est inférieur à cinq, le résultat est arrondi à l'unité inférieure.
+
+§ 3. Dans une académie qui, au 30 juin 2007, disposait d'un emploi financé ou subventionné dans la fonction de surveillant-éducateur, dont le titulaire était un membre du personnel nommé à titre définitif ou un membre du personnel temporaire occupant un emploi vacant, ou dans laquelle, au 30 juin 2007, un surveillant-éducateur nommé à titre définitif était mis en disponibilité par défaut d'emploi, cette fonction est financée ou subventionnée tant que le même membre du personnel est le titulaire.
+
+Le droit, visé à l'alinéa 1er, se limite au volume de l'emploi dont ce membre du personnel était titulaire le 30 juin 2007.
+
+##### Art. 80
+
+Le Gouvernement flamand détermine les fonctions dans lesquelles une académie peut organiser des emplois avec les unités d'encadrement administratif, visées à l'article 79, § 1er, ainsi que le mode de conversion des unités d'encadrement administratif vers ces emplois.
+
+##### Art. 81
+
+§ 1er. Pour les académies visées à l'annexe 1re au présent décret, l'encadrement administratif est calculé selon la formule suivante, en tenant compte du nombre de périodes de cours calculées conformément à l'article 69 :
+
+[(15 x a + 16 x b + 13 x c)/5000-d/32] x 38,
+
+où :
+
+1° a : le nombre de périodes de cours des subdivisions structurelles des premier et deuxième degrés ;
+
+2° b : le nombre de périodes de cours des subdivisions structurelles du troisième degré ;
+
+3° c : le nombre de périodes de cours des subdivisions structurelles du quatrième degré et des orientations d'études de courte durée ;
+
+4° d : le nombre d'heures d'un emploi de surveillant-éducateur limité au volume visé à l'article 79, § 3 ;
+
+5° 32 : le nombre d'heures d'un emploi à temps plein de surveillant-éducateur ;
+
+6° 38 : le nombre d'unités d'encadrement administratif pour un emploi à temps plein de collaborateur administratif.
+
+Le résultat du calcul, visé à l'alinéa 1er, est arrondi à l'unité immédiatement inférieure.
+
+§ 2. A partir de l'année scolaire pour laquelle la méthode, visée à l'article 79, fournit aux académies, visées à l'annexe 1re du présent décret, un encadrement du personnel d'appui et du personnel auxiliaire d'éducation identique ou supérieur que la méthode visée au paragraphe 1er, cet encadrement est calculé conformément à l'article 79.
+
+### Section 5. - Personnel à charge des moyens de fonctionnement ou des propres moyens
+
+##### Art. 82
+
+[<sup>1</sup> L'autorité scolaire peut engager du personnel à charge des moyens de fonctionnement visés aux articles 83 et 84, à charge des subventions qu'octroie le domaine politique de l'Enseignement et de la Formation, visé à l'article 7 de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande, pour renforcer la qualité de l'enseignement, à charge de la prime de soutien flamande versée par le VDAB [<sup>2</sup>, à charge d'une ou de plusieurs primes dans le cadre du travail adapté lors de l'intégration individuelle versée(s) par le [<sup>3</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>3</sup>]<sup>2</sup> ou à charge des fonds propres.]<sup>1</sup>
+
+Dans l'enseignement communautaire, une autorité scolaire peut tirer profit des moyens, visés à l'alinéa 1er, pour les catégories de personnel, visées à l'article 2, § 1er du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, d'application à l'enseignement artistique à temps partiel, à l'exception du personnel de maîtrise, gens de métier et de service statutaires.
+
+Dans l'enseignement subventionné, une autorité scolaire peut tirer profit des moyens, visés à l'alinéa 1er, pour les catégories de personnel, visées à l'article 4, § 1er, a) du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné, d'application à l'enseignement artistique à temps partiel.
+
+L'emploi organisé avec les moyens, visés à l'alinéa 1er, ne peut être déclaré vacant et le pouvoir organisateur ne peut en aucun cas nommer à titre définitif, affecter ou muter un membre du personnel dans cet emploi.
+
+Le membre du personnel qui est recruté conformément à l'alinéa 2 par une autorité scolaire d'une académie de l'enseignement communautaire, est toujours désigné en qualité de membre du personnel temporaire. Le décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire lui est applicable.
+
+Le membre du personnel qui est recruté par une autorité scolaire d'une académie de l'enseignement subventionné, est toujours désigné en qualité de membre du personnel temporaire. Le décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné lui est applicable.
+
+L'Agentschap voor Onderwijsdiensten paie le traitement ou la subvention-traitement directement aux membres du personnel en question. Cette Agentschap voor Onderwijsdiensten réclame le traitement brut ou la subvention-traitement brute, y compris indemnités, allocations, pécule de vacance, prime de fin d'année et cotisation patronale, de l'autorité scolaire.
+
+----------
+
+(1)&lt;DCFL 2022-07-08/10, art. 80, 012; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 175, 018; En vigueur : 01-07-2023&gt;
+
+(3)&lt;DCFL 2026-06-26/19, art. 48, 024; En vigueur : 07-08-2026&gt;
+
+##### Art. 82 DROIT FUTUR.
+
+[<sup>1</sup> L'autorité scolaire peut engager du personnel à charge des moyens de fonctionnement visés aux articles 83 et 84, à charge des subventions qu'octroie le domaine politique de l'Enseignement et de la Formation, visé à l'article 7 de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande, pour renforcer la qualité de l'enseignement, [<sup>3</sup> à charge des subventions qu'octroie la fondation Leerpunt pour renforcer la qualité de l'enseignement,]<sup>3</sup> à charge de la prime de soutien flamande versée par le VDAB [<sup>2</sup>, à charge d'une ou de plusieurs primes dans le cadre du travail adapté lors de l'intégration individuelle versée(s) par le Département de l'Emploi et de l'Economie sociale]<sup>2</sup> ou à charge des fonds propres.]<sup>1</sup>
+
+Dans l'enseignement communautaire, une autorité scolaire peut tirer profit des moyens, visés à l'alinéa 1er, pour les catégories de personnel, visées à l'article 2, § 1er du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, d'application à l'enseignement artistique à temps partiel, à l'exception du personnel de maîtrise, gens de métier et de service statutaires.
+
+Dans l'enseignement subventionné, une autorité scolaire peut tirer profit des moyens, visés à l'alinéa 1er, pour les catégories de personnel, visées à l'article 4, § 1er, a) du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné, d'application à l'enseignement artistique à temps partiel.
+
+L'emploi organisé avec les moyens, visés à l'alinéa 1er, ne peut être déclaré vacant et le pouvoir organisateur ne peut en aucun cas nommer à titre définitif, affecter ou muter un membre du personnel dans cet emploi.
+
+Le membre du personnel qui est recruté conformément à l'alinéa 2 par une autorité scolaire d'une académie de l'enseignement communautaire, est toujours désigné en qualité de membre du personnel temporaire. Le décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire lui est applicable.
+
+Le membre du personnel qui est recruté par une autorité scolaire d'une académie de l'enseignement subventionné, est toujours désigné en qualité de membre du personnel temporaire. Le décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné lui est applicable.
+
+L'Agentschap voor Onderwijsdiensten paie le traitement ou la subvention-traitement directement aux membres du personnel en question. Cette Agentschap voor Onderwijsdiensten réclame le traitement brut ou la subvention-traitement brute, y compris indemnités, allocations, pécule de vacance, prime de fin d'année et cotisation patronale, de l'autorité scolaire.
+
+[<sup>3</sup> Dans l'alinéa 1er, on entend par fondation Leerpunt : la fondation privée créée par le Gouvernement flamand par décision du 16 décembre 2022, portant le numéro d'entreprise 0795.192.043.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2022-07-08/10, art. 80, 012; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 175, 018; En vigueur : 01-07-2023&gt;
+
+(3)&lt;DCFL 2025-06-06/20, art. 82, 021; En vigueur : 01-09-2025&gt;
+
+### Section 6. - Moyens de fonctionnement
+
+##### Art. 83
+
+Toute académie de l'enseignement subventionné à droit à des moyens de fonctionnement. Le budget de fonctionnement pour l'année scolaire (X/X+1) est calculé selon la formule : nombre de périodes de cours attribuées pour l'année scolaire (X/X+1) x -montant par période de cours.
+
+Le montant par période de cours dans le domaine arts plastiques et audiovisuels et dans la formation initiale transversale s'élève à 79,34 euros.
+
+Le montant par période de cours dans les domaines danse, arts de la parole-théâtre et musique s'élève à 26,45 euros.
+
+A partir de l'année scolaire 2019-2020, les montants de l'année scolaire précédente sont multipliés annuellement par le coefficient d'adaptation A, qui est calculé comme suit :
+
+A = (CX-1/CX-2),
+
+où :
+
+1° CX-1 : l'indice santé du mois de janvier de l'année budgétaire X-1 ;
+
+2° CX-2 : l'indice santé du mois de janvier de l'année budgétaire X-2.
+
+Le coefficient A est porté en compte pour 100%.
+
+[<sup>1</sup> A partir de l'année budgétaire 2020, le budget total de fonctionnement est diminué de 170.00 0 euros. Ce montant est réparti sur les académies au prorata du nombre de [<sup>2</sup> moyens de fonctionnement attribués]<sup>2</sup> comme indiqué ci-dessus.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-12-20/13, art. 56, 007; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFL 2021-07-09/23, art. 33, 009; En vigueur : 01-09-2021&gt;
+
+##### Art. 84
+
+§ 1er. Pour l'année budgétaire 2019, qui comprend les crédits pour l'année scolaire 2018-2019, le montant destiné à l'enseignement artistique à temps partiel dans l'enseignement communautaire s'élève à 1.729.877 euros.
+
+A partir de l'année scolaire 2019-2020, le budget de fonctionnement de l'année scolaire précédente est multiplié annuellement par le coefficient d'adaptation A, qui est calculé comme suit pour une année scolaire (X, X+1) :
+
+A = (CX-1/CX-2),
+
+où :
+
+1° CX-1 : l'indice santé du mois de janvier de l'année budgétaire X-1 ;
+
+2° CX-2 : l'indice santé du mois de janvier de l'année budgétaire X-2.
+
+Le coefficient A est porté en compte pour 100%.
+
+§ 2. Le Gouvernement flamand arrête la manière dont le montant calculé conformément au paragraphe 1er est versé aux académies.
+
+[<sup>1</sup> § 3. A partir de l'année budgétaire 2020, le montant visé au paragraphe 1er est diminué de 104.000 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-12-20/13, art. 57, 007; En vigueur : 01-01-2020&gt;
+
+##### Art. 85
+
+Pour les marchés publics de travaux, fournitures ou services payés en tout ou en partie par les moyens visés aux articles 83 et 84, l'autorité scolaire conclut un contrat conformément à la procédure applicable et aux conditions applicables qui s'appliquent à l'Etat.
+
+##### Art. 86
+
+Chaque autorité scolaire d'une académie subventionnée est responsable devant l'Agentschap voor Onderwijsdiensten de l'utilisation de ses moyens de fonctionnement. L'Agentschap voor Onderwijsdiensten peut effectuer un contrôle sur place sans que ce contrôle soit motivés par des raisons d'opportunité.
+
+Le Gouvernement flamand détermine les mesures de contrôle de manière plus détaillée et développe une méthode permettant d'obtenir un aperçu annuel de l'utilisation des moyens de fonctionnement.
+
+##### Art. 86/1
+
+[<sup>1</sup> Le Gouvernement flamand peut, dans les limites des crédits budgétaires disponibles, prévoir des moyens à l'appui de projets promouvant la qualité de l'enseignement, et arrête les modalités à cet effet.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 184, 008; En vigueur : 01-09-2020&gt;
+
+### Section 7. - Recouvrements et sanctions
+
+#### Sous-section 1re. - Recouvrements
+
+##### Art. 87
+
+Conformément à l'article 13 de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes, tout financement ou subvention indûment versé est récupéré auprès de l'autorité scolaire. Une partie de traitement indûment payée est toutefois récupérée du membre du personnel intéressé, si l'autorité scolaire n'est pas responsable du paiement de celle-ci.
+
+#### Sous-section 2. - Sanctions
+
+##### Art. 88
+
+§ 1er. Sans préjudice de la poursuite pénale à laquelle peut donner lieu l'une des infractions suivantes, l'autorité scolaire peut être sanctionnée pour :
+
+1° toute déclaration inexacte faite dans l'intention d'influencer le calcul du montant d'une subvention-traitement ou d'un budget de fonctionnement, qui affecte le calcul du montant du financement ou de la subvention ;
+
+2° toute déclaration imprécise relative à la rémunération des personnels ;
+
+3° toute infraction à l'obligation de communiquer certaines données, conformément à l'article 49, de la manière dont et aux dates limites auxquelles elles doivent être transmises ;
+
+4° toute infraction aux dispositions relatives aux périodes des vacances et d'enseignement ;
+
+5° toute infraction à l'affectation des moyens financiers ;
+
+6° toute infraction à l'obligation de payer aux dates, conformément à l'article 93, les droits d'inscription ;
+
+7° tout non-respect des obligations de traiter l'élève et les membres du personnel dans le respect de leurs droits et obligations et de l'exercice des missions et compétences administratives et organisationnelles assignées aux académies par le présent décret ou par le Gouvernement flamand.
+
+[<sup>1</sup> 8° toute infraction à l'article 147, alinéa 2.]<sup>1</sup>
+
+§ 2. La sanction, visée au paragraphe 1er, est une sanction financière de 10 % au maximum des moyens de fonctionnement visés aux articles 83 ou 84.
+
+Par dérogation à l'alinéa 1er, la sanction financière pour l'infraction, visée au paragraphe 1er, 3°, s'élève à 0,75 euro au maximum par élève, générée par les élèves pour lesquels l'académie n'a pas fourni correctement et à temps les données, conformément à l'article 49.
+
+La sanction financière, visée aux alinéas 1er et 2, ne peut avoir comme effet que la proportion des moyens de fonctionnement à mettre au profit des personnels baisse, en chiffres absolus, au-dessous du niveau qu'elle atteindrait si la mesure n'avait pas été prise.
+
+La restitution des montants indûment versés comme subventionnement est exigée, sauf si la faute est due à l'autorité payante.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 185, 008; En vigueur : 01-09-2020&gt;
+
+##### Art. 89
+
+Le Gouvernement flamand fixe les modalités de la constatation des infractions et de l'application des sanctions. L'arrêté précité garantit les droits de la défense et prévoit la possibilité de faire appel.
+
+## CHAPITRE 6. - Droits d'inscription et régime de contribution
+
+##### Art. 90
+
+Un élève régulier paie des droits d'inscription pour chaque domaine dans lequel il s'inscrit. La totalité des droits d'inscription est payée avant le [<sup>1</sup> 1er novembre]<sup>1</sup> de l'année scolaire en question.[<sup>2</sup> L'élève qui n'a pas payé la totalité du droit d'inscription avant le 1er novembre est considéré comme un élève non régulier dont l'inscription peut être annulée par l'autorité scolaire.]<sup>2</sup>
+
+[<sup>2</sup> Si l'élève se désinscrit avant le 1er octobre de l'année scolaire en question, l'autorité scolaire lui rembourse intégralement le droit d'inscription. Après la date susmentionnée, l'autorité scolaire lui rembourse le droit d'inscription en tout ou en partie ou ne le lui rembourse pas conformément aux dispositions du règlement académique. L'Agence de Services d'Enseignement ne peut pas rembourser le droit d'inscription des élèves qui étaient encore inscrits au 1er octobre. ]<sup>2</sup>
+
+Pour l'application de l'alinéa 1er, la formation d'initiation transversale est considérée comme une formation dans un domaine séparé.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 166, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 146, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 91
+
+Pour l'année scolaire 2018-2019, les droits d'inscription s'élèvent à :
+
+1° 307 euros ;
+
+2° 129 euros si l'élève n'a pas encore atteint l'âge de 25 ans ou remplit une condition telle que visée à l'article 92, § 1er ou § 2 ;
+
+3° 65 euros si l'élève n'a pas atteint l'âge de 18 ans au 31 décembre de l'année scolaire en question ;
+
+4° 42 euros si l'élève n'a pas atteint l'âge de 18 ans au 31 décembre de l'année scolaire concernée et remplit une condition telle que visée à l'article 92.
+
+A partir de l'année scolaire 2019-2020, les droits d'inscription pour l'enseignement artistique à temps partiel sont multipliés annuellement par le coefficient d'adaptation A, qui est calculé comme suit :
+
+A = (CX-1/CX-2),
+
+où :
+
+1° CX-1 : l'indice santé du mois de janvier de l'année budgétaire X-1 ;
+
+2° CX-2 : l'indice santé du mois de janvier de l'année budgétaire X-2.
+
+Le montant est arrondi à l'unité supérieure.
+
+##### Art. 91 DROIT FUTUR.
+
+Pour l'année scolaire 2018-2019, les droits d'inscription s'élèvent à :
+
+1° 307 euros ;
+
+2° 129 euros si l'élève n'a pas encore atteint l'âge de 25 ans [<sup>1</sup> au 31 décembre de l'année scolaire en question]<sup>1</sup> ou remplit une condition telle que visée à l'article 92, § 1er ou § 2 ;
+
+3° 65 euros si l'élève n'a pas atteint l'âge de 18 ans au 31 décembre de l'année scolaire en question ;
+
+4° 42 euros si l'élève n'a pas atteint l'âge de 18 ans au 31 décembre de l'année scolaire concernée et remplit une condition telle que visée à l'article 92.
+
+A partir de l'année scolaire 2019-2020, les droits d'inscription pour l'enseignement artistique à temps partiel sont multipliés annuellement par le coefficient d'adaptation A, qui est calculé comme suit :
+
+A = (CX-1/CX-2),
+
+où :
+
+1° CX-1 : l'indice santé du mois de janvier de l'année budgétaire X-1 ;
+
+2° CX-2 : l'indice santé du mois de janvier de l'année budgétaire X-2.
+
+Le montant est arrondi à l'unité supérieure.
+
+----------
+
+(1)&lt;DCFL 2025-06-06/20, art. 83, 021; En vigueur : 01-09-2025&gt;
+
+##### Art. 92
+
+§ 1er. Pour bénéficier de la réduction des droits d'inscription visée à l'article 91, alinéa 1er, 2° ou 4°, l'élève doit remplir au jour de l'inscription au moins une des conditions suivantes :
+
+1° [<sup>1</sup> [<sup>3</sup> être chômeur complet indemnisé à la recherche d'un emploi ; ]<sup>3</sup>;]<sup>1</sup>
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+3° recevoir un revenu d'intégration du CPAS ou une allocation équivalente ;
+
+4° recevoir un revenu garanti pour personnes âgées ou un supplément à la rente ;
+
+5° être reconnu comme personne handicapée et recevoir une allocation du Service public fédéral Sécurité sociale [<sup>3</sup> ou percevoir un budget de soins pour les personnes âgées nécessitant des soins comme visé à l'article 4, alinéa 1er, 2°, du décret du 18 mai 2018 relatif à la protection sociale flamande, ou une même intervention auprès des instances équivalentes des autres communautés, comme prévu dans la loi spéciale de réformes institutionnelles, articles 1 et 5, § 1er, II ;]<sup>3</sup>;
+
+6° être atteint d'une incapacité de travail d'au moins 66% ;
+
+7° [<sup>3</sup> être un jeune ayant un besoin de soutien spécifique tel que visé à l'article 6, § 6, de l'arrêté du Gouvernement flamand du 7 décembre 2018 concernant les modalités d'obtention d'une allocation de soins ;]<sup>3</sup>
+
+8° résider dans un home familial ou dans un institut médico-pédagogique ou dans une famille d'accueil ;
+
+9° posséder le statut de réfugié politique reconnu ;
+
+10°[<sup>3</sup> être bénéficiaire de l'intervention majorée dans l'assurance maladie ;]<sup>3</sup>
+
+[<sup>1</sup> 11° être titulaire d'une European Disability Card conformément au protocole d'accord du 10 octobre 2016 relatif au projet de European Disability Card entre le Gouvernement fédéral, le Gouvernement flamand, le Gouvernement wallon, la Commission communautaire française et le Gouvernement germanophone.]<sup>1</sup>
+
+§ 2. Un [<sup>3</sup> jeune qui fait partie de l'unité de vie]<sup>3</sup> d'une personne remplissant au moins une des conditions visées au paragraphe 1er est également éligible à la réduction des droits d'inscription visée à l'article 91, alinéa 1er, 2° ou 4°.
+
+[<sup>3</sup> § 2bis. Lorsque, aux fins de l'application du paragraphe 1er, des données sont échangées par voie électronique avec d'autres autorités, les données suivantes sont échangées :
+
+1° pour les élèves répondant aux conditions 1°, 3°, 4°, 5°, 6°, 7° et 10° : le numéro de registre national ou le numéro d'identification disponible dans la Banque Carrefour de la Sécurité sociale ;
+
+2° pour les élèves répondant à la condition 8° : le numéro d'identification disponible dans les bases de données de l'Agence Grandir ;
+
+3° pour les élèves répondant à la condition 9° : le numéro de registre national.
+
+Les données sont traitées par le service compétent de l'Autorité flamande chargé de la perception du droit d'inscription. Ce service compétent est le responsable du traitement des données, visé à l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données). Le résultat du traitement des données est partagé avec les académies en vue de la perception du droit d'inscription.
+
+Les délais de conservation maximum de ces données qui sont conservées conformément à l'article 5, alinéa 1er, e), du règlement général sur la protection des données, sont définis dans des règles de gestion visées à l'article III.81, § 2, du Décret de gouvernance du 7 décembre 2018. A cette fin, les critères suivants sont pris en compte :
+
+1° le délai nécessaire au service compétent pour percevoir et contrôler le droit d'inscription des établissements d'enseignement sur base des données ;
+
+2° le délai nécessaire aux établissements d'enseignement pour justifier le droit d'inscription perçu.]<sup>3</sup>
+
+§ 3. Un élève qui n'a pas atteint l'âge de 18 ans au 31 décembre de l'année scolaire concernée, paie les droits d'inscription réduits, visés à l'article 91, alinéa 1er, 4° ;
+
+1° si, au moment de l'inscription, [<sup>2</sup> un autre membre de l'unité de vie à laquelle il appartient ou un frère, une soeur ou un parent ayant une autre résidence principale]<sup>2</sup>, a déjà payé les droits d'inscription dans la même académie ou dans une autre académie ;
+
+2° pour chaque inscription supplémentaire dans un domaine différent de la même académie ou d'une académie différente.
+
+§ 4. Par dérogation aux paragraphes 1 et 2, un élève qui, au jour de l'inscription, ne remplit pas au moins une des conditions énoncées aux paragraphes 1 et 2 peut bénéficier de la réduction à moins que l'élève ne la remplisse en septembre.
+
+§ 5. Le Gouvernement flamand détermine la manière dont le droit d'un élève est démontré.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 250, 010; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFL 2022-07-08/11, art. 57, 013; En vigueur : 01-09-2022&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 176, 018; En vigueur : 01-09-2024&gt;
+
+##### Art. 93
+
+Chaque autorité scolaire verse annuellement à l'Agentschap voor Onderwijsdiensten, pour chacune de ses académies subventionnées ou financées, un montant calculé selon la formule suivante :
+
+B = B1 + B2,
+
+où :
+
+1° B1 est payé au plus tard le 15 novembre de l'année scolaire (X/X+1) et, pour l'enseignement financé, est calculé selon la formule suivante : B1= i, et pour l'enseignement subventionné, est calculé selon la formule suivante :
+
+B1 = i - w,
+
+où :
+
+a) i : 95% des droits d'inscription des élèves régulièrement inscrits au 1er octobre de l'année scolaire (X-1, X) ;
+
+b) w : les moyens de fonctionnement pour l'année scolaire (X/X+1) calculés selon l'article 83 ;
+
+2° B2 est payé au plus tard le 15 avril de l'année scolaire (X/X+1) et calculé selon la formule suivante :
+
+B2 = I - i,
+
+où :
+
+a) I : 100% des droits d'inscription des élèves régulièrement inscrits au 1er octobre de l'année scolaire (X/X+1) ;
+
+b) i : 95% des droits d'inscription des élèves régulièrement inscrits au 1er octobre de l'année scolaire (X-1, X).
+
+Par dérogation à l'alinéa 1er, 1°, la composante B1 pour la Koninklijke Beiaardschool Jef Denyn à Mechelen est égale à i.
+
+Le Gouvernement flamand détermine la façon dont l'autorité scolaire effectue le transfert des droits d'inscription à l'Agentschap voor Onderwijsdiensten.
+
+##### Art. 94
+
+[<sup>1</sup> Les montants, visés à l'article 91 et recalculés comme prévu à l'article 93, sont affectés au fonds " Inschrijvingsgelden Deeltijds Kunstonderwijs " (Droits d'inscription de l'enseignement artistique à temps partiel), ci-après dénommé " le Fonds ".]<sup>1</sup>
+
+Dans l'alinéa 1er, il faut entendre par fonds : un fonds budgétaire, tel que visé à l'article 12 du décret du 8 juillet 2011 réglant le budget, la comptabilité, l'attribution de subventions et le contrôle de leur utilisation, et le contrôle par la Cour des Comptes.
+
+Les moyens du Fonds doivent être affectés à des dépenses pour le paiement de traitements et de subventions de traitement dans l'enseignement artistique à temps partiel.
+
+Le traitement comptable des opérations se fait pour chaque réseau d'enseignement séparément.
+
+----------
+
+(1)&lt;DCFL 2020-06-26/29, art. 46, 006; En vigueur : 01-09-2018&gt;
+
+##### Art. 95
+
+Si une autorité scolaire demande des contributions supplémentaires de l'élève, celle-ci doit garantir un traitement équitable à l'égard de tous les élèves et ne doit pas compromettre la possibilité de participer.
+
+Si une contribution est demandée pour du matériel didactique ou des droits d'auteur ou de reprographie, celle-ci est facturée au prix coûtant et doit être estimée au début de chaque année scolaire et communiquée à l'élève avant l'inscription.
+
+Par matériel didactique visé à l'alinéa 2, il faut entendre tout le matériel qui est spécifié par l'autorité scolaire comme étant nécessaire pour suivre la formation et qui est facturé par l'autorité scolaire.
+
+##### Art. 96
+
+Une autorité scolaire peut déterminer librement la contribution des élèves non réguliers ou des élèves suivant des activités d'apprentissage sur mesure visées à l'article 4, alinéa 3, à condition que le montant n'excède pas le montant qu'un élève régulier paierait pour son inscription dans un domaine.
+
+## CHAPITRE 7. - Conditions d'agrément, de financement et de subventionnement des académies
+
+### Section 1re. - Dispositions générales
+
+##### Art. 97
+
+Une académie peut organiser les formes d'enseignement suivantes :
+
+1° un enseignement agréé conformément au présent décret, pour lequel l'académie a compétence d'enseignement et dont les périodes de cours sont financées ou subventionnées dans le plein respect du présent décret ;
+
+2° un enseignement agréé conformément au présent décret, pour lequel l'académie a compétence d'enseignement et dont les périodes de cours sont financées ou subventionnées en tout ou en partie par des tiers.
+
+Des moyens de l'Autorité flamande ne peuvent pas être utilisés pour l'organisation de l'enseignement qui n'est ni financée ni subventionnée par l'Autorité flamande.
+
+##### Art. 98
+
+Pour l'application des dispositions du présent chapitre, les orientations d'études, visées aux articles 12 à 20, sont organisées en subdivisions structurelles.
+
+Toutes les orientations d'études de longue durée d'un certain degré dans un domaine forment une même subdivision structurelle.
+
+Toutes les orientations d'études de courte durée et la formation d'initiation transversale forment chacune une subdivision structurelle distincte.
+
+Par dérogation à l'alinéa 2, le troisième degré pour jeunes et le troisième degré pour adultes du domaine des arts plastiques et audiovisuels forment des subdivisions structurelles distinctes.
+
+Par dérogation à l'alinéa 2, le deuxième degré pour jeunes et le troisième degré pour adultes du domaine musique forment des subdivisions structurelles distinctes.
+
+##### Art. 98/1.
+
+[<sup>1</sup> Par dérogation aux articles 100, 101, 102, 114, § 2, 115, § 1er, 117, § 1er, 118 et 130, § 2, une direction d'école ne peut créer de nouvelles académies, de nouveaux domaines et de nouvelles subdivisions structurelles au cours de l'année scolaire 2026-2027 et ne peut obtenir une nouvelle compétence d'enseignement pour des groupes d'options, des groupes d'instruments de musique, une option unique ou un instrument de musique unique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-12-19/56, art. 99, 022; En vigueur : 01-01-2026&gt;
+
+### Section 2. - Agrément d'académies
+
+##### Art. 99
+
+L'agrément est nécessaire pour être admissible au financement ou aux subventions. L'offre de formation d'académies agréées n'est admissible à une subvention ou à un financement que si la compétence d'enseignement a été attribuée conformément à l'article 131.
+
+##### Art. 100
+
+Une académie peut être agréée si elle remplit toutes les conditions suivantes :
+
+1° elle est organisée sous la responsabilité d'une autorité scolaire ;
+
+2° elle est établie dans des bâtiments et des locaux répondant aux conditions d'hygiène, de sécurité et d'habitabilité ;
+
+3° elle adopte une structure telle que visée aux articles 10 à 25 du présent décret ;
+
+4° elle forme un ensemble pédagogique ;
+
+5° elle dispose d'un matériel pédagogique suffisant et d'un équipement scolaire adapté ;
+
+6° elle respecte les dispositions relatives au régime linguistique dans l'enseignement et aux connaissances linguistiques du personnel ;
+
+7° elle se soumet au contrôle de l'inspection de l'enseignement ;
+
+8° elle respecte la réglementation sur l'organisation de l'année scolaire ;
+
+9° elle respecte la réglementation en matière des [<sup>1</sup> objectifs pédagogiques]<sup>1</sup> et programmes d'études ;
+
+10° elle respecte dans l'ensemble de son fonctionnement, les principes constitutionnels et de droit international au niveau des Droits de l'Homme et de l'Enfant en particulier ;
+
+11° elle mène une politique efficace pour faire connaître et faire respecter l'interdiction de fumer, visée à l'article 4 du décret du 6 juin 2008 instituant une interdiction de fumer dans les établissements d'enseignement et les centres d'encadrement des élèves, et qui contrôle le respect de l'interdiction et impose des sanctions aux contrevenants, conformément à sa propre politique de sanctions, comme indiquée dans le règlement de l'académie ou du travail;
+
+[<sup>2</sup> 12° elle mène une politique de qualité telle que visée à l'article 4, § 2, alinéa 1er, du décret du 8 mai 2009 relatif à la qualité de l'enseignement, en vue de répondre au cadre de référence pour la qualité de l'enseignement]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 176, 008; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2025-11-21/10, art. 41, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 101
+
+Une académie en cours de création peut être agréée provisoirement si elle répond aux conditions visées à l'article 100, 1°, 2°, 3°, 7° et 10°.
+
+Une autorité scolaire souhaitant obtenir l'agrément provisoire pour une académie, présente à cette fin une demande à l'Agentschap voor Onderwijsdiensten au plus tard le [<sup>1</sup> le 1er mars]<sup>1</sup> précédant sa création. Ce délai vaut comme délai d'échéance. Le Gouvernement flamand fixe le modèle du formulaire de demande.
+
+[<sup>1</sup> ...]<sup>1</sup>. Conformément à l'article 35, § 1er, du décret du 8 mai 2009 relatif à la qualité de l'enseignement, l'inspection de l'enseignement vérifie si l'académie remplit les conditions énoncées à l'article 100, 1°, 2°, 3°, 7° et 10° du présent décret. Sur la base de l'avis de l'inspection de l'enseignement qui en découle, le Gouvernement flamand décide, conformément à l'article 35, § 1er, du décret précité du 8 mai 2009, d'accorder un agrément provisoire pour une année scolaire ou de ne pas accorder d'agrément provisoire.
+
+Au plus tard six mois après le début de l'année scolaire au cours de laquelle l'académie est provisoirement agréée, l'inspection de l'enseignement examinera, conformément à l'article 35, § 2, du décret précité du 8 mai 2009, au moyen d'un audit sur place, si l'académie remplit les conditions d'agrément. Sur la base de l'avis de l'inspection de l'enseignement qui en découle, le Gouvernement flamand décide, conformément à l'article 35, § 2, du décret précité du 8 mai 2009, au plus tard le 31 mars de l'année scolaire de l'agrément provisoire, que l'académie remplit les conditions d'agrément visées à l'article 100 du présent décret, ou que l'académie ne sera pas agréée à partir de l'année scolaire suivante.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 251, 010; En vigueur : 01-09-2021&gt;
+
+##### Art. 102
+
+Une autorité scolaire souhaitant faire agréer une subdivision structurelle ou un domaine d'une académie doit présenter à l'Agentschap voor Onderwijsdiensten une demande [<sup>1</sup> au plus tard le 1er mars]<sup>1</sup> de l'année scolaire précédant l'agrément.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le Gouvernement flamand arrête les modalités de la procédure de demande.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 252, 010; En vigueur : 01-09-2021&gt;
+
+##### Art. 103
+
+Le Gouvernement flamand peut supprimer l'agrément d'une académie ou d'une subdivision structurelle ou d'un domaine en tenant compte des articles 36 à 42 du décret du 8 mai 2009 relatif à la qualité de l'enseignement.
+
+##### Art. 104
+
+Une académie qui ne remplit pas les conditions énoncées à l'article 100, ou dans le cas d'agrément provisoire, à l'article 100, 1°, 2°, 3°, 7° et 10°, ne peut pas porter la dénomination " académie d'enseignement artistique à temps partiel ".
+
+##### Art. 105
+
+Si une académie est composée de plusieurs implantations, l'autorité scolaire peut décider de l'implantation où elle situera son siège administratif. Cette implantation est qualifiée d'implantation principale.
+
+##### Art. 106
+
+Les académies agréées au 31 août 2018 conservent leur agrément en tant qu'académie d'enseignement artistique à temps partiel, sans préjudice de l'application des articles 100 et 103.
+
+### Section 3. - Financement et subventionnement des académies
+
+#### Sous-section 1re. - Dispositions générales
+
+##### Art. 107
+
+La présente section est applicable aux académies qui sont agréées ou agréées provisoirement et éligibles à un financement ou à un financement.
+
+##### Art. 108
+
+Les académies d'enseignement artistique à temps partiel agréées le 31 août 2018 et incluses dans le régime de financement et de subvention sont éligibles à un financement ou un financement, sans préjudice de l'application de l'article 111.
+
+##### Art. 109
+
+Chaque autorité scolaire assume la responsabilité financière et, le cas échéant, les coûts de l'organisation de l'enseignement dans ses académies et implantations.
+
+Pour les académies qui remplissent les conditions énoncées à l'article 111, l'Autorité flamande intervient financièrement, par le biais d'un financement pour l'enseignement communautaire et par le biais d'une subvention sous forme d'encadrement et de moyens de fonctionnement, pour l'enseignement subventionnée.
+
+##### Art. 110
+
+Pour la réalisation des normes de rationalisation et de programmation, seuls les élèves réguliers sont comptés.
+
+[<sup>1</sup> [<sup>2</sup> Pour les normes de programmation ou de rationalisation d'un domaine, chaque élève régulier dans ce domaine compte pour une unité de comptage. Pour les normes de programmation ou de rationalisation d'une subdivision structurelle dans une implantation, chaque élève régulier dans cette subdivision structurelle dans cette implantation compte pour une unité de comptage.]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa 2, le nombre total qui suit la formation d'initiation transversale dans une académie est divisé par le nombre de domaines que l'académie organise. Le quotient est pris en compte pour la réalisation des normes de rationalisation et de programmation de chacun de ces domaines.]<sup>2</sup>
+
+Le jour de comptage pour la programmation est le 1er octobre de l'année scolaire en cours.
+
+Le jour de comptage pour la rationalisation est le 1er février de l'année scolaire précédente.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 167, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 186, 008; En vigueur : 01-09-2020&gt;
+
+##### Art. 111
+
+§ 1er. Sans préjudice de l'application des conditions particulières d'obtention des traitements prévues à l'article 66 du présent décret, une autorité scolaire obtient un financement ou une subvention pour chacune de ses académies qui remplissent toutes les conditions suivantes :
+
+1° remplir les conditions, visées à l'article 100, ou être agréée conformément à l'article 101 ;
+
+2° remplir les conditions de rationalisation et de programmation, visées aux articles 114 à 130 ;
+
+3° avoir une politique de participation concernant l'adaptation de l'offre d'enseignement et le fonctionnement de l'académie à son environnement culturel local, en particulier la pratique de l'art amateur.
+
+§ 2. Une autorité scolaire souhaitant obtenir un financement ou un subventionnement pour une académie ou une partie de celle-ci, présente, [<sup>1</sup> au plus tard le 1er mars]<sup>1</sup> de l'année scolaire précédant l'admission au financement ou au subventionnement, une demande auprès de l'Agentschap voor Onderwijsdiensten.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le Gouvernement flamand prend la décision sur l'admission au financement ou au subventionnement. La décision est notifiée soit par écrit, soit par voie électronique à l'autorité scolaire concernée et prend cours au début de l'année scolaire qui suit la demande de financement ou de subventionnement.
+
+[<sup>1</sup> Si l'autorité scolaire ne procède pas à la création de l'académie ou de la partie d'une académie durant [<sup>2</sup> les trois années scolaires suivant]<sup>2</sup> l'approbation de la demande de financement ou de subvention, elle perd cette approbation. L'autorité scolaire peut introduire une nouvelle demande conformément à l'alinéa 1er.]<sup>1</sup>
+
+§ 3. Dans une académie agréée provisoirement, l'affectation, la mutation ou la nomination à titre définitif de membres du personnel n'est pas possible.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 253, 010; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 177, 018; En vigueur : 01-09-2024&gt;
+
+##### Art. 112
+
+Une autorité scolaire perd le financement ou le subventionnement de son académie ou d'une partie de celle-ci si les conditions énoncées à l'article 111 ne sont plus remplies.
+
+##### Art. 113
+
+Si, pour une académie financée ou subventionnée ou une partie de celle-ci, les conditions, prévues à l'article 100 ou, en cas d'agrément provisoire, à l'article 100, 1°, 2°, 3°, 7° et 10° du présent décret, ne sont plus remplies, le Gouvernement flamand peut, après application de l'article 41 du décret du 8 mai 2009 relatif à la qualité de l'enseignement :
+
+1° supprimer l'agrément : l'académie ou une partie de celle-ci perd le financement ou le subventionnement dès que le Gouvernement flamand supprime l'agrément ;
+
+2° retenir, en tout ou en partie, le financement ou le subventionnement si l'autorité scolaire peut démontrer que les conditions, visées à l'article 100 ou, en cas d'agrément provisoire, à l'article 100, 1°, 2°, 3°, 7° et 10° du présent décret, seront à nouveau remplies dans un délai convenu avec le Gouvernement flamand.
+
+#### Sous-section 2. - Conditions de programmation pour de nouvelles académies, domaines et subdivisions structurelles
+
+##### Art. 114
+
+§ 1er. Une nouvelle académie, créée à partir du 1er septembre 2018, organise, à la fin de sa période de programmation, toutes les subdivisions structurelles d'au moins le domaine musique ou arts plastiques et audiovisuels, à l'exception des orientations d'études de courte durée.
+
+[<sup>1</sup> Au lieu du premier degré d'un domaine, une nouvelle académie peut organiser une subdivision structurelle d'une formation d'initiation transversale ou organiser à la fois le premier degré d'un domaine et la formation d'initiation transversale.]<sup>1</sup>
+
+Une nouvelle académie doit avoir pleinement développé l'offre minimale visée à l'alinéa 1er au plus tard la douzième année scolaire suivant sa fondation. Dans ce contexte, elle peut créer simultanément les subdivisions structurelles d'un domaine, à condition qu'elle crée chaque subdivision structurelle, année d'études par année d'études. Toutefois, elle peut établir les subdivisions structurelles du premier degré dans une période de temps donnée.
+
+§ 2. Une nouvelle académie est admise à partir du 1er septembre au régime de financement ou de subventionnement si elle remplit les conditions suivantes au 1er octobre de l'année de création :
+
+1° organiser au moins la première année d'études du deuxième degré dans les domaines qu'elle a créés ;
+
+2° [<sup>1</sup> atteindre un douzième des normes de programmation pour les domaines qu'elle a créés, visées aux articles 119 et 120 ]<sup>1</sup>
+
+3° être située dans une commune où, au cours de l'année scolaire précédant l'année de création, les formations créées n'étaient pas organisées.
+
+[<sup>2</sup> Le quotient de la division, visé à l'alinéa 1er, 2°, est arrondi comme suit : si le premier chiffre après la virgule est supérieur à quatre, le nombre est arrondi à l'unité supérieure. Si le premier chiffre après la virgule est inférieur ou égal à quatre, le nombre est arrondi à l'unité inférieure.]<sup>2</sup>
+
+[<sup>3</sup> Par dérogation à l'alinéa 1er, 3°, dans une commune qui, suite au décret du 22 décembre 2017 sur l'administration locale, est le résultat de la fusion de plusieurs communes en 2019 ou 2025, au maximum une nouvelle académie peut être admise à partir du 1er septembre au régime de financement ou de subventionnement si elle remplit les conditions suivantes au 1er octobre de l'année de création :
+
+1° il n'y a pas encore d'implantation principale d'une académie établie sur le territoire de la commune ;
+
+2° pendant trois années scolaires consécutives, l'autorité scolaire prend en charge le financement de la fonction de directeur, visée à l'article 77, et le cas échéant les périodes de cours pour l'appui à la gestion, visées à l'article 76, sur base de l'article 82. Dans l'enseignement communautaire, l'autorité scolaire désigne toujours, dans la fonction de directeur et le cas échéant dans les périodes de cours pour l'appui à la gestion, un membre du personnel à titre temporaire conformément à l'article 82, alinéa 2. Dans l'enseignement subventionné, l'autorité scolaire désigne toujours, dans la fonction de directeur et le cas échéant dans les périodes de cours pour l'appui à la gestion, un membre du personnel à titre temporaire conformément à l'article 82, alinéa 3.]<sup>3</sup>
+
+§ 3. [<sup>1</sup> Pour sécuriser le financement ou le subventionnement, la nouvelle académie doit atteindre, pendant les onze années scolaires suivant l'année de sa création, chaque fois au jour de comptage de l'année scolaire en cours, les normes de programmation des domaines qu'elle a créés, visées aux articles 119 et 120, proportionnellement au nombre d'années scolaires que la nouvelle académie est déjà en cours de création.]<sup>1</sup>
+
+[<sup>2</sup> Si la norme de programmation n'est pas atteinte deux jours de comptage successifs, l'académie n'est plus financée ou subventionnée à partir du 1er septembre de la même année scolaire.]<sup>2</sup>
+
+[<sup>2</sup> Si les normes de programmation ne sont pas atteintes pendant la dernière année scolaire de la période de création, la période de création est prolongée d'une année scolaire au maximum si l'académie a atteint les normes de programmation au jour de comptage précédent.]<sup>2</sup>
+
+§ 4. [<sup>2</sup> La norme de rationalisation vaut à partir de l'année scolaire qui suit l'année scolaire dans laquelle l'offre minimale de l'académie nouvellement créée a été développée pleinement et les normes de programmation, visées à l'article 119 ou 120, sont atteintes. Une académie est pleinement développée à la fin de la dernière année scolaire de la période de création.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 168, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 187, 008; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 178, 018; En vigueur : 01-03-2024&gt;
+
+##### Art. 115
+
+§ 1er. Une académie peut créer des domaines à partir de la deuxième année scolaire de son admission au régime de financement ou de subventionnement. A cette fin, l'académie doit atteindre [<sup>3</sup> les normes de rationalisation dans tous ses domaines et subdivisions structurelles déjà créés]<sup>3</sup> au jour du comptage de l'année scolaire précédant la création du nouveau domaine.
+
+La programmation d'un nouveau domaine comprend la création des subdivisions structurelles des premier et deuxième degrés au moins. Au lieu du premier degré du domaine, une académie peut mettre en place une subdivision structurelle d'une formation d'initiation transversale ou mettre en place à la fois le premier degré d'un domaine et la formation d'initiation transversale.
+
+[<sup>1</sup> Une académie doit avoir pleinement développé ce domaine au plus tard la huitième année scolaire suivant sa création. Dans ce contexte, elle peut créer simultanément les subdivisions structurelles d'un domaine, à condition qu'elle crée chaque subdivision structurelle, année d'études par année d'études. Toutefois, les subdivisions structurelles du premier degré peuvent être mises en place en une seule fois.
+
+Un nouveau domaine d'une académie peut être inclus dans le régime de financement ou de subventionnement à partir du 1er septembre, s'il atteint un huitième des normes de programmation visées aux articles 119 et 120 au jour de comptage de l'année de création.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> [<sup>4</sup> Pour bénéficier d'un financement ou de subventions supplémentaires, le nouveau domaine doit atteindre un huitième des normes de programme visées aux articles 119 et 120 le jour de comptage de l'année scolaire en cours, multiplié par le nombre d'années scolaires au cours desquelles le nouveau domaine a déjà été créé. Le résultat de ce calcul est arrondi comme suit : si le premier chiffre après la virgule est supérieur à quatre, le nombre est arrondi au nombre entier supérieur. Si le premier chiffre après la virgule est inférieur ou égal à quatre, le nombre est arrondi à l'unité inférieure]<sup>4</sup>.]<sup>2</sup>
+
+[<sup>2</sup> Si la norme de programmation n'est pas atteinte deux jours de comptage successifs, les élèves du domaine ne sont pas inclus dans le calcul de l'encadrement, visé aux articles 69 et 70, à partir de ladite année scolaire.]<sup>2</sup>
+
+[<sup>2</sup> Si la norme de programmation n'est pas atteinte dans la dernière année scolaire de la période de création, la période de création est prolongée d'une année scolaire au maximum, si le domaine a atteint la norme de programmation au jour de comptage précédent.]<sup>2</sup>
+
+§ 3. [<sup>2</sup> La norme de rationalisation vaut à partir de l'année scolaire qui suit l'année scolaire dans laquelle l'offre minimale du domaine nouvellement créé a été développée pleinement et la norme de programmation, visée à l'article 119 ou 120, est atteinte. Un domaine est pleinement développé à la fin de la dernière année scolaire de la période de création.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 169, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 188, 008; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2021-07-09/33, art. 254, 010; En vigueur : 01-09-2021&gt;
+
+(4)&lt;DCFL 2022-07-08/11, art. 58, 013; En vigueur : 01-09-2022&gt;
+
+##### Art. 116
+
+[<sup>1</sup> [<sup>3</sup> Il faut entendre par la création d'une subdivision structurelle, visée à l'alinéa trois et à l'article 117, la création d'une nouvelle subdivision structurelle d'un domaine dont l'académie organise déjà une ou plusieurs subdivisions structurelles dans une ou plusieurs implantations existantes ou nouvelles.]<sup>3</sup>]<sup>1</sup>
+
+[<sup>3</sup> Une autorité scolaire ne peut augmenter le nombre d'implantations de cette subdivision structurelle pendant sa période de création.]<sup>3</sup>
+
+[<sup>2</sup> La création de subdivisions structurelles se fait année d'études par année d'études. La période de création dure au minimum autant d'années scolaires que le parcours le plus court et au maximum autant d'années scolaires que le parcours le plus long de la subdivision structurelle que l'académie organise. Toutefois, les années d'études des subdivisions structurelles du premier degré peuvent être créées dans une période de temps donnée.]<sup>2</sup>
+
+[<sup>1</sup> Pour les subdivisions structurelles d'un domaine nouvellement créé, conformément à l'article 115, qui sont encore en cours de création dans la neuvième année d'existence du domaine nouvellement créé, les conditions de programmation mentionnées aux articles 117 et 118 s'appliquent jusqu'à ce que les subdivisions structurelles aient été complètement créées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 170, 005; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 189, 008; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2021-07-09/33, art. 255, 010; En vigueur : 01-09-2021&gt;
+
+##### Art. 117
+
+§ 1er. A partir de la deuxième année scolaire de son admission au régime de financement ou de subventionnement, une académie peut créer une subdivision structurelle aux conditions suivantes :
+
+1° atteindre les normes de rationalisation pour tous ses domaines et subdivisions structurelles au 1er février de l'année scolaire avant la programmation de la nouvelle subdivision structurelle.
+
+2° organiser le domaine dans lequel la subdivision structurelle est créée dans l'année de création de la subdivision structurelle ou avoir commencé la création au cours de l'année scolaire précédente;
+
+3° [<sup>2</sup> remplir, pour la subdivision structurelle créée par implantation au jour de comptage de l'année de création, la norme de programmation, au prorata du nombre d'années scolaires créées dans le parcours le plus long, visé à l'article 70, que l'académie organise dans cette implantation.]<sup>2</sup>
+
+[<sup>1</sup> Le quotient de la division, visé à l'alinéa 1er, 3°, est arrondi comme suit : si le premier chiffre après la virgule est supérieur à quatre, le nombre est arrondi à l'unité supérieure. Si le premier chiffre après la virgule est inférieur ou égal à quatre, le nombre est arrondi à l'unité inférieure.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> [<sup>2</sup> Pendant la période de création, la norme de programmation est atteinte par implantation au prorata du nombre d'années scolaires du parcours le plus long organisé dans cette implantation et du nombre d'années scolaires que la nouvelle subdivision structurelle est déjà en cours de création.]<sup>2</sup>
+
+Si la norme de programmation n'est pas atteinte deux jours de comptage successifs, les élèves de la subdivision structurelle [<sup>2</sup> dans cette implantation]<sup>2</sup> ne sont pas inclus dans le calcul de l'encadrement, visé aux articles 69 et 70, à partir de ladite année scolaire.
+
+Si la norme de programmation n'est pas atteinte pendant la dernière année scolaire de la période de création, la période de création est prolongée d'une année scolaire au maximum si la subdivision structurelle [<sup>2</sup> dans cette implantation]<sup>2</sup> a atteint la norme de programmation au jour de comptage précédent.]<sup>1</sup>
+
+[<sup>3</sup> Le Gouvernement flamand peut, pour des raisons exceptionnelles de force majeure, donner l'autorisation d'exempter les académies, les domaines et les subdivisions structurelles touchés par la force majeure du respect de la norme de programmation. Le Gouvernement flamand détermine la durée de l'exemption.]<sup>3</sup>
+
+§ 3. [<sup>1</sup> [<sup>2</sup> La norme de rationalisation vaut à partir de l'année scolaire qui suit l'année scolaire dans laquelle, dans une implantation, au moins un parcours de la nouvelle subdivision structurelle a été développé pleinement et la norme de programmation, visée à l'article 121 ou 122, est atteinte dans toutes les implantations.]<sup>2</sup> Une subdivision structurelle est pleinement développée à la fin de la dernière année scolaire de la période de création.]<sup>1</sup>
+
+§ 4. Les dispositions des paragraphes 1er, 2 et 3 ne s'appliquent pas aux subdivisions structurelles de spécialisation.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 190, 008; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 256, 010; En vigueur : 01-09-2021&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 179, 018; En vigueur : 01-09-2024&gt;
+
+##### Art. 118
+
+Une académie peut créer une subdivision structurelle de spécialisation à partir de la deuxième année scolaire de son admission au régime de financement ou de subventionnement, aux conditions suivantes :
+
+1° atteindre les normes de rationalisation pour tous ses domaines et subdivisions structurelles au 1er février de l'année scolaire avant la programmation de la nouvelle subdivision structurelle ;
+
+2° organiser le domaine dans lequel la subdivision structurelle de spécialisation est créée ou avoir commencé sa création dans l'année scolaire précédente ;
+
+3° organiser la subdivision structurelle quatrième degré dans le même domaine dans lequel la subdivision structurelle de spécialisation est créée ou avoir commencé sa création dans l'année scolaire précédente.
+
+##### Art. 118bis
+
+[<sup>1</sup> Le Gouvernement flamand peut autoriser une autorité scolaire à mettre en service une implantation spéciale, à condition qu'il existe un protocole des négociations au sein du comité local compétent concernant la mise en service de l'implantation.
+
+Le Gouvernement flamand arrête les modalités de notification de la mise en service d'une implantation spéciale à l'Agence de Services d'Enseignement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-11-21/10, art. 42, 023; En vigueur : 01-01-2026&gt;
+
+#### Sous-section 3. - Normes de programmation pour les académies, domaines et subdivisions structurelles dans les implantations
+
+##### Art. 119
+
+Les normes de programmation pour les domaines des académies, situées en tout ou en partie en Région flamande sont :
+
+1° domaine arts plastiques et audiovisuels 300 ;
+
+2° domaine danse : 30 ;
+
+3° domaine arts de la parole-théâtre 80 ;
+
+4° domaine musique 300.
+
+##### Art. 120
+
+Les normes de programmation pour les domaines des académies, situées uniquement dans la région bilingue de Bruxelles-Capitale, sont les suivantes :
+
+1° domaine arts plastiques et audiovisuels 120 ;
+
+2° domaine danse : 12 ;
+
+3° domaine arts de la parole-théâtre 32 ;
+
+4° domaine musique 120.
+
+##### Art. 121
+
+Les normes de programmation pour les subdivisions structurelles dans une implantation située en Région flamande dans une commune densément peuplée sont :
+
+<table><tr><td> </td><td>norme de programmation</td></tr><tr><td>premier degré formation d'initiation transversale </td><td>15</td></tr></table>
+
+<table><tr><td> </td><td>norme de programmation</td></tr><tr><td>premier degré arts plastiques et audiovisuels </td><td>14</td></tr><tr><td>deuxième degré arts plastiques et audiovisuels </td><td>21</td></tr><tr><td>troisième degré arts plastiques et audiovisuels pour jeunes </td><td>21</td></tr><tr><td>troisième degré arts plastiques et audiovisuels pour adultes </td><td>21</td></tr><tr><td>quatrième degré arts plastiques et audiovisuels </td><td>42</td></tr><tr><td>spécialisation en arts plastiques et audiovisuels. </td><td>non applicable</td></tr><tr><td>culture plastique et audiovisuelle </td><td>24</td></tr></table>
+
+<table><tr><td> </td><td>norme de programmation</td></tr><tr><td>premier degré danse </td><td>8</td></tr><tr><td>deuxième degré danse </td><td>12</td></tr><tr><td>troisième degré danse </td><td>12</td></tr><tr><td>quatrième degré danse </td><td>12</td></tr><tr><td>spécialisation danse. </td><td>non applicable</td></tr><tr><td>culture de la danse </td><td>24</td></tr></table>
+
+<table><tr><td> </td><td>norme de programmation</td></tr><tr><td>premier degré arts de la parole-théâtre </td><td>15</td></tr><tr><td>deuxième degré arts de la parole-théâtre </td><td>21</td></tr><tr><td>troisième degré arts de la parole-théâtre </td><td>11</td></tr><tr><td>quatrième degré arts de la parole-théâtre </td><td>4</td></tr><tr><td>spécialisation en arts de la parole-théâtre </td><td>non applicable</td></tr><tr><td>arts de la parole-culture théâtrale </td><td>24</td></tr><tr><td>écrivain </td><td>9</td></tr></table>
+
+<table><tr><td> </td><td>norme de programmation</td></tr><tr><td>premier degré musique </td><td>15</td></tr><tr><td>deuxième degré musique pour jeunes </td><td>11</td></tr><tr><td>deuxième degré musique pour adultes </td><td>11</td></tr><tr><td>troisième degré musique </td><td>8</td></tr><tr><td>quatrième degré musique </td><td>3</td></tr><tr><td>spécialisation musique </td><td>non applicable</td></tr><tr><td>culture musicale </td><td>24</td></tr><tr><td>histoire de la musique </td><td>24</td></tr></table>
+
+##### Art. 122
+
+Les normes de programmation pour les subdivisions structurelles dans une implantation située en Région flamande dans une commune faiblement peuplée ou située dans la région bilingue de Bruxelles-Capitale sont :
+
+<table><tr><td> </td><td>norme de programmation</td></tr><tr><td>premier degré formation d'initiation transversale </td><td>11</td></tr></table>
+
+<table><tr><td> </td><td>norme de programmation</td></tr><tr><td>premier degré arts plastiques et audiovisuels </td><td>10</td></tr><tr><td>deuxième degré arts plastiques et audiovisuels </td><td>15</td></tr><tr><td>troisième degré arts plastiques et audiovisuels pour jeunes </td><td>15</td></tr><tr><td>troisième degré arts plastiques et audiovisuels pour adultes </td><td>15</td></tr><tr><td>quatrième degré arts plastiques et audiovisuels </td><td>29</td></tr><tr><td>spécialisation en arts plastiques et audiovisuels. </td><td>non applicable</td></tr><tr><td>culture plastique et audiovisuelle </td><td>17</td></tr></table>
+
+<table><tr><td> </td><td>norme de programmation</td></tr><tr><td>premier degré danse </td><td>6</td></tr><tr><td>deuxième degré danse </td><td>8</td></tr><tr><td>troisième degré danse </td><td>8</td></tr><tr><td>quatrième degré danse </td><td>8</td></tr><tr><td>spécialisation danse. </td><td>non applicable</td></tr><tr><td>culture de la danse </td><td>17</td></tr></table>
+
+<table><tr><td> </td><td>norme de programmation</td></tr><tr><td>premier degré arts de la parole-théâtre </td><td>11</td></tr><tr><td>deuxième degré arts de la parole-théâtre </td><td>15</td></tr><tr><td>troisième degré arts de la parole-théâtre </td><td>7</td></tr><tr><td>quatrième degré arts de la parole-théâtre </td><td>3</td></tr><tr><td>spécialisation en arts de la parole-théâtre </td><td>non applicable</td></tr><tr><td>arts de la parole-culture théâtrale </td><td>8</td></tr><tr><td>écrivain </td><td>6</td></tr></table>
+
+<table><tr><td> </td><td>norme de programmation</td></tr><tr><td>premier degré musique </td><td>11</td></tr><tr><td>deuxième degré musique pour jeunes </td><td>7</td></tr><tr><td>deuxième degré musique pour adultes </td><td>7</td></tr><tr><td>troisième degré musique </td><td>5</td></tr><tr><td>quatrième degré musique </td><td>2</td></tr><tr><td>spécialisation en musique </td><td>non applicable</td></tr><tr><td>culture musicale </td><td>17</td></tr><tr><td>histoire de la musique </td><td>17</td></tr></table>
+
+##### Art. 123
+
+Les normes de programmation visées aux articles 121 et 122, ne sont pas d'application aux implantations spéciales.
+
+#### Sous-section 4. - Normes de rationalisation pour les académies, domaines et subdivisions structurelles dans les implantations
+
+##### Art. 124
+
+§ 1er. Après sa création, une académie reste éligible à un financement si chacun des domaines qu'elle organise répond à la norme de rationalisation visée à l'article 126.
+
+Pour être éligible au financement ou à la subvention après sa création, un domaine doit répondre aux normes de rationalisation énoncées à l'article 126.
+
+§ 2. Pour être éligible au financement ou à la subvention après sa création, une subdivision structurelle dans une implantation doit, selon sa situation géographique, répondre aux normes de rationalisation prévues à l'article 127 ou 128.
+
+Une subdivision structurelle dans une implantation répond aux normes de rationalisation si le nombre total d'élèves dans cette subdivision structurelle sur l'ensemble des lieux d'implantation où elle est organisée par l'académie est supérieur ou égal à
+
+(X x a)+(y x b),
+
+où :
+
+1° x : la norme de rationalisation, visée à l'article 127 ;
+
+2° y : la norme de rationalisation, visée à l'article 128 ;
+
+3° a : le nombre d'implantations dans des régions densément peuplées où la subdivision structurelle est organisée ;
+
+4° b : le nombre d'implantations dans des régions faiblement peuplées où la subdivision structurelle est organisée.
+
+[<sup>1</sup> Les implantations des subdivisions structurelles visées à l'article 129, auxquelles la norme de rationalisation ne s'applique pas, ne sont pas prises en compte dans l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 172, 005; En vigueur : 01-09-2019&gt;
+
+##### Art. 125
+
+Les académies, domaines et subdivisions structurelles dans des implantations qui, au jour de comptage, ne répondent pas aux normes de rationalisation qui leur sont applicables, restent subventionnés ou financés si les conditions suivantes étaient remplies au jour de comptage précédent :
+
+1° l'académie dans son ensemble répondait aux normes de rationalisation qui lui sont applicables ;
+
+2° tous les domaines et toutes les subdivisions structurelles dans les implantations répondaient aux normes de rationalisation qui leur sont applicables.
+
+[<sup>1</sup> Si une autorité scolaire procède à la fermeture d'une académie, d'un domaine ou d'une subdivision structurelle dans une implantation qui n'atteint pas la norme de rationalisation un ou deux jours de comptage successifs, les élèves peuvent continuer à y suivre les cours pendant l'année scolaire du jour de comptage. La fermeture implique que toutes les années d'études de l'académie, du domaine en question ou de la subdivision structurelle dans l'implantation en question sont cessées simultanément. La fermeture produit ses effets le 1er septembre.]<sup>1</sup>
+
+[<sup>2</sup> Le Gouvernement flamand peut, pour des raisons exceptionnelles de force majeure, donner l'autorisation d'exempter les académies, les domaines et les subdivisions structurelles touchés par la force majeure du respect de la norme de rationalisation. Le Gouvernement flamand détermine la durée de l'exemption. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 191, 008; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 180, 018; En vigueur : 01-09-2024&gt;
+
+#### Sous-section 5. - Normes de rationalisation pour les académies, domaines et subdivisions structurelles dans les implantations
+
+##### Art. 126
+
+§ 1er. Les normes de rationalisation pour les domaines des académies, situées en tout ou en partie, en Région flamande sont :
+
+1° domaine arts plastiques et audiovisuels 150 ;
+
+2° domaine danse : 15 ;
+
+3° domaine arts de la parole-théâtre : 40 ;
+
+4° domaine musique : 150.
+
+§ 2. Les normes de rationalisation pour les domaines des académies, situées uniquement en Région de Bruxelles-Capitale sont :
+
+1° domaine arts plastiques et audiovisuels : 60 ;
+
+2° domaine danse : 6 ;
+
+3° domaine arts de la parole-théâtre : 16 ;
+
+4° domaine musique : 60.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, la norme de rationalisation du domaine arts plastiques et audiovisuels est de 42 élèves, si l'autorité scolaire n'organise que les subdivisions structurelles du premier degré, du deuxième degré et du troisième degré pour jeunes.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Les normes de rationalisation visées aux paragraphes 1er et 2, ne s'appliquent pas aux académies d'enseignement artistique à temps partiel dont l'implantation principale est située dans la commune de Fourons.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 192, 008; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 257, 010; En vigueur : 01-09-2020&gt;
+
+##### Art. 127
+
+Les normes de rationalisation pour les subdivisions structurelles dans une implantation, située en Région flamande, dans une commune densément peuplée sont :
+
+<table><tr><td> </td><td>norme de rationalisation</td></tr><tr><td>premier degré formation d'initiation transversale </td><td>15</td></tr></table>
+
+<table><tr><td> </td><td>norme de rationalisation</td></tr><tr><td>premier degré arts plastiques et audiovisuels </td><td>14</td></tr><tr><td>deuxième degré arts plastiques et audiovisuels </td><td>14</td></tr><tr><td>troisième degré arts plastiques et audiovisuels pour jeunes </td><td>14</td></tr><tr><td>troisième degré arts plastiques et audiovisuels pour adultes </td><td>14</td></tr><tr><td>quatrième degré arts plastiques et audiovisuels </td><td>14</td></tr><tr><td>culture plastique et audiovisuelle </td><td>8</td></tr></table>
+
+<table><tr><td> </td><td>norme de rationalisation</td></tr><tr><td>premier degré danse </td><td>8</td></tr><tr><td>deuxième degré danse </td><td>8</td></tr><tr><td>troisième degré danse </td><td>8</td></tr><tr><td>quatrième degré danse </td><td>8</td></tr><tr><td>culture de la danse </td><td>8</td></tr></table>
+
+<table><tr><td> </td><td>norme de rationalisation</td></tr><tr><td>premier degré arts de la parole-théâtre </td><td>15</td></tr><tr><td>deuxième degré arts de la parole-théâtre </td><td>14</td></tr><tr><td>troisième degré arts de la parole-théâtre </td><td>7</td></tr><tr><td>quatrième degré arts de la parole-théâtre </td><td>3</td></tr><tr><td>arts de la parole-culture théâtrale </td><td>8</td></tr><tr><td>écrivain </td><td>3</td></tr></table>
+
+<table><tr><td> </td><td>norme de rationalisation</td></tr><tr><td>premier degré musique </td><td>15</td></tr><tr><td>deuxième degré musique pour jeunes </td><td>7</td></tr><tr><td>deuxième degré musique pour adultes </td><td>7</td></tr><tr><td>troisième degré musique </td><td>5</td></tr><tr><td>quatrième degré musique </td><td>2</td></tr><tr><td>culture musicale </td><td>8</td></tr><tr><td>histoire de la musique </td><td>8</td></tr></table>
+
+##### Art. 128
+
+Les normes de rationalisation pour les subdivisions structurelles dans une implantation, située en Région flamande, dans une commune faiblement peuplée ou en Région de Bruxelles-Capitale sont :
+
+<table><tr><td> </td><td>norme de rationalisation</td></tr><tr><td>premier degré formation d'initiation transversale </td><td>11</td></tr></table>
+
+<table><tr><td> </td><td>norme de rationalisation</td></tr><tr><td>premier degré arts plastiques et audiovisuels </td><td>10</td></tr><tr><td>deuxième degré arts plastiques et audiovisuels </td><td>10</td></tr><tr><td>troisième degré arts plastiques et audiovisuels pour jeunes </td><td>10</td></tr><tr><td>troisième degré arts plastiques et audiovisuels pour adultes </td><td>10</td></tr><tr><td>quatrième degré arts plastiques et audiovisuels </td><td>10</td></tr><tr><td>culture plastique et audiovisuelle </td><td>6</td></tr></table>
+
+<table><tr><td> </td><td>norme de rationalisation</td></tr><tr><td>premier degré danse </td><td>6</td></tr><tr><td>deuxième degré danse </td><td>6</td></tr><tr><td>troisième degré danse </td><td>6</td></tr><tr><td>quatrième degré danse </td><td>6</td></tr><tr><td>culture de la danse </td><td>6</td></tr></table>
+
+<table><tr><td> </td><td>norme de rationalisation</td></tr><tr><td>premier degré arts de la parole-théâtre </td><td>11</td></tr><tr><td>deuxième degré arts de la parole-théâtre </td><td>10</td></tr><tr><td>troisième degré arts de la parole-théâtre </td><td>5</td></tr><tr><td>quatrième degré arts de la parole-théâtre </td><td>2</td></tr><tr><td>arts de la parole-culture théâtrale </td><td>6</td></tr><tr><td>écrivain </td><td>2</td></tr></table>
+
+<table><tr><td> </td><td>norme de rationalisation</td></tr><tr><td>premier degré musique </td><td>11</td></tr><tr><td>deuxième degré musique pour jeunes </td><td>5</td></tr><tr><td>deuxième degré musique pour adultes </td><td>5</td></tr><tr><td>troisième degré musique </td><td>4</td></tr><tr><td>quatrième degré musique </td><td>1</td></tr><tr><td>culture musicale </td><td>6</td></tr><tr><td>histoire de la musique </td><td>6</td></tr></table>
+
+##### Art. 129
+
+Les normes de rationalisation, visées aux articles 127 et 128, ne sont pas d'application :
+
+1° aux implantations spéciales ;
+
+2° à une subdivision structurelle danse située dans une implantation à plus de 15 km d'une implantation où une subdivision structurelle danse est organisée ;
+
+3° aux subdivisions structurelles de spécialisation ;
+
+4° aux académies d'enseignement artistique à temps partiel dont l'implantation principale est située dans la commune de Fourons.
+
+### Section 4. - Acquisition et maintien de la compétence d'enseignement
+
+##### Art. 130
+
+§ 1er. Dans les subdivisions structurelles pour lesquelles elle remplit les conditions visées au présent chapitre, une académie ne peut organiser que les clusters d'options, les clusters d'instruments de musique, une option unique ou un instrument de musique unique pour lesquels elle a obtenu la compétence d'enseignement.
+
+§ 2. Toute autorité scolaire peut demander la compétence d'enseignement auprès du Gouvernement flamand.
+
+Les autorités scolaires qui reçoivent en transfert des subdivisions structurelles provenant d'une autre autorité scolaire et qui n'ont pas la compétence d'enseignement pour certains clusters d'options, un cluster d'instruments de musique, une option unique ou un instrument de musique unique doivent s'adresser au Gouvernement flamand pour obtenir la compétence d'enseignement à cet égard.
+
+Le Gouvernement flamand peut refuser ou octroyer la compétence sollicitée.
+
+Le Gouvernement flamand détermine la procédure de demande et de décision relative à l'octroi de la compétence d'enseignement. Pour ce faire, il tient compte des éléments suivants :
+
+1° l'offre de formation déjà existante dans l'académie ;
+
+2° la mesure dans laquelle l'académie dispose d'une infrastructure et de moyens didactiques adaptés ;
+
+3° les options et instruments de musique uniques et leur distribution rationnelle.
+
+Avant de prendre une décision telle que visée à l'alinéa 3, le Gouvernement flamand demande l'avis du Vlaamse Onderwijsraad [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 3. [<sup>1</sup> Une académie qui, pendant trois années scolaires consécutives, n'a organisé aucune option des clusters d'options, aucun instrument de musique des clusters d'instruments de musique, aucune option ou aucun instrument de musique perd, à partir de l'année scolaire suivante, la compétence d'enseignement pour ce cluster d'options, ce cluster d'instruments de musique, cette option ou cet instrument de musique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 173, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2025-11-21/10, art. 43, 023; En vigueur : 01-01-2026&gt;
+
+### Section 5. - Transfert, fusion, déménagement et hébergement temporaire
+
+##### Art. 131
+
+§ 1er. Une autorité scolaire peut transférer une ou plusieurs subdivisions structurelles dans une implantation [<sup>1</sup> une académie d'une autre autorité scolaire]<sup>1</sup>, pourvu que le transfert ne compromette pas la continuité des études de l'élève au degré suivant.
+
+Le transfert s'effectue en une seule opération et produit ses effets le jour du 1er septembre suivant la notification à l'Agentschap voor Onderwijsdiensten. Cette notification doit se faire [<sup>1</sup> au plus tard le 1er mars]<sup>1</sup>.
+
+[<sup>1</sup>[<sup>2</sup> La convention d'un transfert d'une subdivision structurelle devant être signée par les deux autorités scolaires, règle le transfert de l'encadrement, qui est calculé selon les données fournies par l'Agence de Services d'Enseignement.
+
+Jusqu'à un mois après la réception des données en matière d'encadrement vérifiées, l'Agence de Services d'Enseignement, les deux autorités scolaires peuvent convenir d'ajustements au régime applicable au transfert de périodes de cours tel que communiqué pour le 1er mars.]<sup>2</sup>-1
+
+§ 2. Tout transfert fait l'objet de négociations au sein du comité local tant de l'autorité scolaire procédant au transfert que de l'autorité scolaire d'accueil.
+
+§ 3. Pour le subventionnement ou le financement, le transfert de la subdivision structurelle visée au paragraphe 1er est réputé avoir eu lieu le jour du 1er février précédant la prise d'effet du transfert.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 258, 010; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 181, 018; En vigueur : 01-09-2024&gt;
+
+##### Art. 132
+
+Une autorité scolaire peut reprendre une académie d'une autre autorité scolaire.
+
+La reprise produit ses effets le jour du 1er septembre suivant la notification à l'Agentschap voor Onderwijsdiensten. Cette notification doit se faire [<sup>1</sup> au plus tard le 1er mars]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Toute reprise fait l'objet de négociations au sein du comité local tant de l'autorité scolaire procédant au transfert que de l'autorité scolaire d'accueil.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 259, 010; En vigueur : 01-09-2021&gt;
+
+##### Art. 133
+
+§ 1er. Une fusion d'académies produit ses effets le jour du 1er septembre suivant la notification à l'Agentschap voor Onderwijsdiensten. Cette notification doit se faire [<sup>1</sup> au plus tard le 1er mars]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Une académie née d'une fusion, n'est pas considérée comme une création. Les normes de programmation ne sont pas d'application. Les clusters d'options, les clusters d'instruments de musique, l'option unique ou l'instrument de musique unique pour lesquels une compétence d'enseignement a déjà été acquise, ne doivent pas faire l'objet d'une demande de compétence d'enseignement.
+
+La fusion s'effectue par l'un des regroupements suivants :
+
+1° par le regroupement en une académie de deux ou plusieurs académies qui sont supprimées simultanément ;
+
+2° par le regroupement de deux ou plusieurs académies, où une des académies continue à exister en absorbant l'autre.
+
+§ 2. Chaque fusion fait l'objet de négociations au sein du comité local de toutes les académies concernées.
+
+§ 3. Pour le subventionnement ou le financement, la fusion visée au paragraphe 1er est réputée avoir eu lieu le jour du 1er février précédant la prise d'effet du transfert.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 260, 010; En vigueur : 01-09-2021&gt;
+
+##### Art. 134
+
+[<sup>1</sup> Une académie ou une implantation entière ou une ou plusieurs subdivisions structurelles dans une implantation peuvent changer définitivement d'adresse, tous les élèves déménageant à leur nouvelle adresse en même temps. En cas de déménagement d'une académie entière, d'une implantation entière ou d'une subdivision structurelle entière, les normes de programmation ne s'appliquent pas.]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+L'occupation des bâtiments implantés dans un nouveau lieu à la suite du déménagement d'une académie ou d'une partie d'une académie doit être notifiée à l'Agentschap voor Onderwijsdiensten au plus tard au moment de la mise en service.
+
+[<sup>1</sup> Au début de l'année scolaire, une autorité scolaire peut transférer une partie des élèves d'une subdivision structurelle entièrement créée à une nouvelle implantation en raison des besoins en infrastructure. Les normes de programmation ne sont pas d'application. Les normes de rationalisation sont d'application. L'autorité scolaire avise l'Agentschap voor Onderwijsdiensten (Agence de Services d'Enseignement) de l'extension d'une subdivision structurelle existante à une nouvelle implantation au plus tard le 30 septembre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 174, 005; En vigueur : 01-09-2018&gt;
+
+##### Art. 135
+
+Pour des raisons exceptionnelles, le Gouvernement flamand peut autoriser l'hébergement des élèves dans des bâtiments en dehors de l'implantation existante. Les normes de programmation et de rationalisation ne sont pas d'application dans ce cas pour la durée de cet hébergement.
+
+Le Gouvernement flamand détermine la durée de l'hébergement.
+
+## CHAPITRE 8. - Des initiatives locales de coopération entre académies et écoles fondamentaleso u secondaires ou institutions d'enseignement supérieur
+
+### Section 1re. - Objectifs
+
+##### Art. 136
+
+A partir de l'année scolaire 2019-2020, des initiatives locales de coopération peuvent être organisées entre les académies et les écoles fondamentales ou secondaires ou les institutions d'enseignement supérieur. Ces initiatives locales de coopération réalisent les objectifs suivants :
+
+1° renforcer la conscience et l'expression culturelles des élèves concernés de l'enseignement fondamental ou secondaire ;
+
+2° renforcer la conscience et l'expression culturelles des étudiants de l'enseignement supérieur en vue de leurs activités professionnelles ultérieures ;
+
+3° créer un réseau de partage d'expériences durable entre les enseignants de l'enseignement fondamental, de l'enseignement secondaire et de l'enseignement artistique à temps partiel pour l'organisation d'activités d'apprentissage culturelles ;
+
+4° diriger vers l'enseignement artistique à temps partiel, les élèves de l'enseignement fondamental ou secondaire qui font preuve d'un intérêt et d'un talent pour l'art, plus particulièrement les élèves des écoles à majorité d'élèves répondant aux caractéristiques d'élèves visées à l'article 78, § 1er, 1° du décret du 25 février 1997 sur l'enseignement fondamental et aux indicateurs d'égalité des chances visés à l'article 225, § 1er, du Code de l'Enseignement secondaire.
+
+Au cours de l'année scolaire 2022-2023, les initiatives locales de coopération lancées au cours de l'année scolaire 2019-2020 seront évaluées en vue d'ajustements éventuels. Il sera examiné si la durée des initiatives locales de coopération et les autres conditions organisationnelles, la procédure de demande et d'attribution et l'octroi des aides contribuent à la réalisation des objectifs visés à l'alinéa 1er.
+
+### Section 2. - Conditions d'organisation
+
+##### Art. 137
+
+Au moins une académie et une école fondamentale ou secondaire ou une institution d'enseignement supérieur participent à une initiative locale de coopération. A la demande de ces partenaires, d'autres partenaires extérieurs qu'ils jugent pertinents pour la réalisation des objectifs peuvent être associés à l'initiative de coopération.
+
+Les autorités scolaires de toutes les académies, écoles et institutions d'enseignement supérieur concluent un accord de coopération contenant les éléments suivants :
+
+1° le planning des activités d'apprentissage ;
+
+2° les responsabilités mutuelles des écoles et/ou institutions d'enseignement supérieur et académies participantes pour la coordination générale et la mise à disposition de personnels, d'infrastructures scolaires, de moyens didactiques, de matériel et de transport ;
+
+3° en cas de coopération avec d'autres partenaires extérieurs tels que visés à l'alinéa 1er, la manière dont la coopération est structurée.
+
+Une initiative locale de coopération dure trois années scolaires.
+
+##### Art. 138
+
+L'initiative locale de coopération utilise l'enveloppe de points et le budget de fonctionnement, visés aux articles 139 à 141, pour l'organisation et la coordination d'activités d'apprentissage culturelles pour les élèves participants de l'école fondamentale ou secondaire ou de l'institution d'enseignement supérieur.
+
+A cette fin, l'autorité scolaire de l'académie organise des emplois temporaires dans la fonction d'enseignant afin de remplir la mission, visée à l'alinéa 1er.
+
+En ce qui concerne les initiatives de coopération avec l'enseignement fondamental ou secondaire, les activités d'apprentissage ont lieu pendant les cours de l'enseignement fondamental, comme le prévoit l'article 3 de l'arrêté du Gouvernement flamand du 17 avril 1991 organisant l'année scolaire dans l'enseignement fondamental et dans l'enseignement à temps partiel organisé, agréé ou subventionné par la Communauté flamande sur la base de l'article 48 du décret du 25 février 1997 relatif à l'enseignement fondamental et de l'article 12 du Code de l'Enseignement secondaire du 17 décembre 2010[<sup>1</sup> ou pendant les cours de l'enseignement secondaire, visés à l'article 3 de l'arrêté du Gouvernement flamand du 31 août 2001 organisant l'année scolaire dans l'enseignement secondaire]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/17, art. 147, 016; En vigueur : 01-09-2023&gt;
+
+### Section 3. - Soutien
+
+##### Art. 139
+
+Chaque année, le Gouvernement flamand attribue une enveloppe de points et un budget de fonctionnement à une académie organisant une initiative locale de coopération approuvée.
+
+[<sup>1</sup> Dans une initiative de coopération approuvée en 2019 ou 2020, mais non sélectionnée en raison d'un volume total insuffisant de points et de moyens de fonctionnement disponibles visés à l'article 140, paragraphes 1er et 2, une autorité scolaire peut désigner des membres du personnel pour un maximum de trois années scolaires à charge des moyens de fonctionnement ou des propres moyens, conformément à l'article 82. L'article 144 est applicable. Les dispositions visées à l'article 143, 1° et 2°, ne sont pas d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 175, 005; En vigueur : 01-09-2019&gt;
+
+##### Art. 140
+
+§ 1er. Au cours de l'année scolaire 2019-2020, un volume total de 2938 points et 100.333 euros de moyens de fonctionnement sont mis à disposition pour les initiatives locales de coopération approuvées par le Gouvernement flamand.
+
+§ 2. Pour l'année scolaire 2020-2021, ce volume maximal est de 6303 points et 200.667 euros de moyens de fonctionnement.
+
+§ 3. Pour l'année scolaire 2021-2022, ce volume maximal est de 9686 points et 301.000 euros de moyens de fonctionnement.
+
+§ 4. [<sup>2</sup> Avant ]<sup>2</sup> l'année budgétaire 2022-2023, le volume total de points est calculé au moyen de la formule suivante :
+
+P(X/X+1) = P(X-1/X) x y,
+
+où :
+
+1° P(X/X+1) = le volume total de points pour les initiatives locales de coopération pendant l'année scolaire au cours de laquelle il est affecté ;
+
+2° P(X-1/X) = le volume total de points pour les initiatives locales de coopération pendant l'année scolaire précédente ;
+
+3° y = A/B,
+
+où :
+
+a) A : l'encadrement pour l'enseignement artistique à temps partiel pendant l'année scolaire -(X-1/X);
+
+b) B : l'encadrement pour l'enseignement artistique à temps partiel pendant l'année scolaire -(X-2/X-1).
+
+Dans chaque cas, l'encadrement est calculé conformément aux articles 68 à 75.
+
+§ 5. A partir de l'année budgétaire 2022-2023, le volume global de moyens de fonctionnement est calculé au moyen de la formule suivante :
+
+W(X/X+1) = W(X-1/X) x z,
+
+où :
+
+1° W(X/X+1) : le volume global de moyens de fonctionnement pour les initiatives locales de coopération pendant l'année scolaire au cours de laquelle ils sont affectés ;
+
+2° W(X-1/X) : le volume global de moyens de fonctionnement pour les initiatives locales de coopération pendant l'année scolaire précédente ;
+
+3° z = A/B,
+
+où :
+
+A : les moyens de fonctionnement pour l'enseignement artistique à temps partiel qui sont calculés pour l'année scolaire (X-1/X) ;
+
+B : les moyens de fonctionnement pour l'enseignement artistique à temps partiel pendant l'année scolaire (X-2/X-1).
+
+Dans chaque cas, les moyens de fonctionnement sont calculés conformément aux articles 83 à 84.
+
+La totalité du volume de points est calculée conformément à l'article 140, § 4.
+
+[<sup>1</sup> § 6. A partir de l'année budgétaire 2020, les moyens de fonctionnement visés aux paragraphes 2 et 3 sont diminués de 13.000 euros.]<sup>1</sup>
+
+[<sup>2</sup> § 7. A partir de l'année scolaire 2023-2024, le volume total des initiatives locales de coopération approuvées par le gouvernement flamand s'élève à 9690 points. A partir de l'année scolaire précitée, le Gouvernement flamand mettra chaque année à disposition un maximum de 3230 points du volume total susvisé pour de nouvelles initiatives de coopération.
+
+§ 8. Le volume total du budget de fonctionnement pour l'année scolaire 2023-2024 est fixé à 289 000 euros.
+
+A partir de l'année scolaire 2024-2025, le montant de l'année scolaire précédente est multiplié annuellement par le coefficient d'adaptation A, qui est calculé comme suit : A = (CX-1/CX-2), où :
+
+1° CX-1 : l'indice santé du mois de janvier de l'année budgétaire x-1 ;
+
+2° CX-2 : l'indice santé du mois de janvier de l'année budgétaire x-2.
+
+Le coefficient A, visé à l'alinéa 2, est pris en compte à 100 %.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-12-20/13, art. 58, 007; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 148, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 141
+
+§ 1er.[<sup>2</sup> Le volume de points par initiative de coopération est de 35 points si au moins 53 élèves de l'enseignement fondamental ou secondaire ordinaire ou étudiants de l'enseignement supérieur[<sup>3</sup> u seize élèves de l'enseignement fondamental ou secondaire spécial ]<sup>3</sup> y participent. Si moins d'élèves participent, le nombre de points sera réduit au prorata.
+
+Le budget de fonctionnement par initiative de coopération est déterminé en multipliant le nombre de points attribués conformément à l'alinéa 1er par le facteur w, qui est calculé annuellement en divisant le volume total du budget de fonctionnement calculé conformément à l'article 140, § 8, par 9690. ]<sup>2</sup>.
+
+§ 2. Le volume maximal de points par initiative de coopération est de 35 points.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-12-20/13, art. 59, 007; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 149, 016; En vigueur : 01-09-2023&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 182, 018; En vigueur : 01-09-2024&gt;
+
+##### Art. 142
+
+Le Gouvernement flamand détermine les pondérations sur la base desquelles les emplois dans la fonction d'enseignant sont organisés. Ce nombre de points est fixé sur la base de l'échelle de traitement du membre du personnel exerçant l'emploi. Le Gouvernement flamand établit la pondération suivant l'échelle de traitement.
+
+##### Art. 143
+
+Le membre du personnel est toujours désigné comme membre du personnel temporaire.
+
+Les dispositions du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement communautaire et du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné s'appliquent, à l'exception des dispositions suivantes :
+
+1° l'emploi n'est pas régi par la réglementation sur la mise en disponibilité par défaut d'emploi, à la réaffectation et à la remise au travail. L'autorité scolaire peut toutefois désigner, sur une base volontaire, un membre du personnel mis en disponibilité par défaut d'emploi. Cette réaffectation, remise au travail ou mise au travail s'opère toujours avec le consentement du membre du personnel mis en disponibilité. La mise au travail est considérée comme une remise au travail ;
+
+2° l'autorité scolaire n'est pas obligée de désigner à cet emploi un membre du personnel ayant la priorité pour une désignation temporaire ou ayant acquis le droit à une désignation temporaire à durée ininterrompue, conformément aux dispositions du décret 27 mars 1991 relatif au statut des membres du personnel de l'Enseignement communautaire et du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné ;
+
+3° l'emploi ne peut être déclaré vacant. L'autorité scolaire ne peut en aucun cas nommer à titre définitif, affecter ou muter un membre du personnel dans cet emploi.
+
+##### Art. 144
+
+Sans préjudice des principes selon lesquels un membre du personnel est nommé à l'académie où l'emploi est réglementairement organisé, les membres du personnel visés à l'article 143 peuvent être occupés dans les écoles qui participent à l'initiative locale de coopération.
+
+Les principes suivants doivent être respectés à cet égard :
+
+1° le membre du personnel est toujours désigné à l'académie où l'emploi est réglementairement organisé ;
+
+2° la distance entre l'implantation principale de l'académie d'affectation et l'école où le membre du personnel est occupé ne peut jamais dépasser 25 km. Cette disposition ne s'applique pas si le membre du personnel accepte d'être occupé à une plus grande distance ;
+
+3° la situation statutaire du membre du personnel telle qu'elle est déterminée conformément au présent décret est toujours prise en compte.
+
+Les dispositions relatives à l'employabilité visées aux alinéas 1er et 2, sont, sans préjudice de l'application de l'article 20 du décret 27 mars 1991 relatif au statut des membres du personnel de l'Enseignement communautaire et du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné, formalisées dans l'accord, l'arrêté ou le document établissant la désignation, ainsi que dans la description de fonction.
+
+##### Art. 145
+
+[<sup>1</sup> Le Gouvernement flamand détermine la date limite d'introduction pour les demandes de soutien au titre d'initiatives locales de coopération.]<sup>1</sup>
+
+Le Gouvernement flamand détermine la procédure de demande et d'attribution en tenant compte des objectifs et conditions organisationnelles, visées aux articles 136 à 138.
+
+Le Gouvernement flamand détermine la manière dont les initiatives locales de coopération rendent compte de la manière dont le soutien est utilisé. Le Gouvernement flamand se limite à demander un rapport de synthèse annuel et un audit financier aléatoire à la fin de la coopération.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 193, 008; En vigueur : 01-09-2019&gt;
+
+### Section 4. - Gestion de la qualité
+
+##### Art. 146
+
+Les initiatives locales de coopération permettent un contrôle par l'inspection de l'enseignement, comme le prévoit le décret du 8 mai 2009 relatif à la qualité de l'enseignement.
+
+## CHAPITRE 9. - Bonne administration
+
+##### Art. 147
+
+Une autorité scolaire peut fournir des informations sur sa propre offre d'éducation et d'enseignement, mais ne peut pas poser des actes de concurrence déloyale.
+
+[<sup>1</sup> Lors de la fourniture de ces informations, y compris validation d'études, une académie utilise au moins les dénominations de subdivisions structurelles qui sont arrêtées par ou en vertu du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 194, 008; En vigueur : 01-09-2020&gt;
+
+##### Art. 148
+
+Toute propagande politique est interdite dans l'académie et aucune activité politique ne peut y être organisée.
+
+Par dérogation à l'alinéa 1er, des activités politiques sont admises dans l'académie en dehors des périodes dans lesquelles des activités scolaires ont lieu et en dehors de la période de 90 jours avant les élections. Les membres du personnel et les élèves ne sont pas sollicités ou incités à participer à ces activités. L'autorité scolaire ne peut pas être associée à l'organisation d'une activité politique et tient compte du principe de traitement égal lors de l'application de cette disposition.
+
+Aux paragraphes 1 et 2, on entend par activités politiques : toutes les activités qui sont organisées par des partis politiques ou des mandataires politiques de partis politiques, dont les positions et les comportements ne sont pas contraires à Convention de sauvegarde des droits de l'homme et des libertés fondamentales.
+
+##### Art. 149
+
+Une autorité scolaire peut effectuer des activités commerciales, à condition qu'il ne s'agisse pas d'actes de commerce et qu'elles soient compatibles avec la charge d'enseignement.
+
+##### Art. 150
+
+Une autorité scolaire autorisant le sponsoring ou des communications ayant directement ou indirectement pour but de promouvoir la vente de produits ou de services, veillent à ce que :
+
+1° les moyens didactiques fournis par l'autorité scolaire ne portent pas les communications précitées ;
+
+2° les activités restent libres des communications précitées, à moins que ces communications n'attirent simplement l'attention sur le fait que l'activité ou une partie de celle-ci a été organisée par le biais d'un don, d'une donation ou d'une prestation à titre gratuit ou a été effectuée en-dessous du prix réel par une personne physique, personne morale ou association de fait nommément désignée ;
+
+3° le sponsoring et les communications précitées soient manifestement incompatibles avec les missions et objectifs pédagogiques et didactiques de l'académie ;
+
+4° le sponsoring et les communications visées ne compromettent pas l'objectivité, la crédibilité, la fiabilité et l'indépendance de l'académie.
+
+##### Art. 151
+
+Les questions relatives à l'application des principes du présent chapitre et les plaintes relatives aux infractions à ces principes peuvent être soumises par toute partie intéressée à la " Commissie Zorgvuldig Bestuur " (Commission de bonne administration), visée à l'article V.21 du décret du 13 juillet 2001 relatif à l'enseignement-XIII-Mosaïque.
+
+## CHAPITRE 10. - Dispositions transitoires, abrogatoires, modificatives et d'entrée en vigueur
+
+### Section 1re. - Dispositions transitoires
+
+##### Art. 152
+
+Les élèves, inscrits dans la même académie ou dans une autre académie pendant l'année scolaire 2017-2018 et qui se réinscrivent pendant l'année scolaire 2018-2019, sont inscrits dans le domaine, le degré, l'année d'études et la formation qui, dans la nouvelle structure, correspondent à la même année d'études ou à l'année d'études suivante de la formation dans le degré et l'orientation d'études dans la structure existant avant le 1er septembre 2018, selon qu'ils ont ou non réussi ou non.
+
+Le Gouvernement flamand détermine les formations de la nouvelle structure qui correspondent aux formations de l'ancienne structure.
+
+##### Art. 153
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 88, 017; En vigueur : 01-09-2023&gt;
+
+##### Art. 154
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 88, 017; En vigueur : 01-09-2023&gt;
+
+##### Art. 155
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 88, 017; En vigueur : 01-09-2023&gt;
+
+##### Art. 156
+
+[<sup>1</sup> Par dérogation aux articles 117, 121 et 122, une académie peut, jusqu'à l'année scolaire 2020-2021, commencer l'organisation d'une subdivision structurelle culture plastique et audiovisuelle dans une de ses implantations où elle organisait le degré supérieur en arts plastiques au 31 août 2018. Cette subdivision structurelle doit répondre, le cas échéant, aux normes de rationalisation prévues à l'article 127 ou 128. A partir de l'année scolaire 2021-2022, les conditions de programmation visées aux articles 117, 121 et 122 s'appliquent.
+
+Par dérogation aux articles 117, 121 et 122, une académie peut, jusqu'à l'année scolaire 2020-2021, commencer l'organisation d'une subdivision structurelle culture de la danse dans une de ses implantations où elle organisait le degré supérieur en danse au 31 août 2018. Cette subdivision structurelle doit répondre, le cas échéant, aux normes de rationalisation prévues à l'article 127 ou 128. A partir de l'année scolaire 2021-2022, les conditions de programmation visées aux articles 117, 121 et 122 s'appliquent.
+
+Par dérogation aux articles 117, 121 et 122, une académie peut, jusqu'à l'année scolaire 2020-2021, commencer l'organisation d'une subdivision structurelle arts de la parole-culture théâtrale dans une de ses implantations où elle organisait le degré supérieur en arts de la parole au 31 août 2018. Cette subdivision structurelle doit répondre aux normes de rationalisation prévues à l'article 127 ou 128. A partir de l'année scolaire 2021-2022, les conditions de programmation visées aux articles 117, 121 et 122 s'appliquent.
+
+Par dérogation aux articles 117, 121 et 122, une académie peut, jusqu'à l'année scolaire 2020-2021, commencer l'organisation des subdivisions structurelles culture musicale et histoire de la musique dans une de ses implantations où elle organisait le degré supérieur en histoire de la musique au 31 août 2018. Cette subdivision structurelle doit répondre aux normes de rationalisation prévues à l'article 127 ou 128. A partir de l'année scolaire 2021-2022, les conditions de programmation visées aux articles 117, 121 et 122 s'appliquent.
+
+Par dérogation aux articles 117, 121 et 122, une académie organisant le domaine arts plastiques et audiovisuels sans les premier, deuxième et troisième degrés peut, jusqu'à l'année scolaire 2020-2021, commencer l'organisation de la subdivision structurelle du troisième degré pour adultes. Cette subdivision structurelle doit répondre aux normes de rationalisation prévues à l'article 127 ou 128. A partir de l'année scolaire 2021-2022, les conditions de programmation visées aux articles 117, 121 et 122 s'appliquent.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 195, 008; En vigueur : 01-09-2020&gt;
+
+##### Art. 157
+
+Les programmations commencées avant le 31 août 2018 restent soumises aux conditions de programmation alors en vigueur.
+
+##### Art. 158
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 88, 017; En vigueur : 01-09-2023&gt;
+
+### Section 2. - Dispositions abrogatoires
+
+##### Art. 159
+
+Les articles II.1 à II.60 de la partie II de l'arrêté du Gouvernement flamand du 28 octobre 2016 portant codification de certaines dispositions relatives à l'enseignement, à l'exception de l'article II.54 sont abrogés.
+
+L'article II.54 et les articles IV.46 à IV.51 du même arrêté sont abrogés au 31 août 2019.
+
+##### Art. 160
+
+Les arrêtés d'exécution en vigueur au moment de l'entrée en vigueur du présent décret continuent de s'appliquer jusqu'à ce qu'ils soient abrogés par leur auteur.
+
+### Section 3. - Dispositions modificatives
+
+##### Art. 161
+
+Dans l'article V.27, § 1er, de l'arrêté du Gouvernement flamand du 28 octobre 2016 portant codification de certaines dispositions relatives à l'enseignement, les mots " l'enseignement artistique à temps partiel " sont abrogés.
+
+### Section 4. - Entrée en vigueur
+
+##### Art. 162
+
+Les dispositions du présent décret entrent en vigueur le 1er septembre 2018, à l'exception des dispositions mentionnées aux articles 97 à 135 qui entrent en vigueur le jour de leur publication au Moniteur belge.
+
+Les dispositions, visées aux articles 10 à 25, entrent en vigueur le jour de leur publication au Moniteur belge, dans la mesure où tel est nécessaire pour l'application des articles 97 à 135.
+
+### ANNEXES.
+
+##### Art. N1
+
+Annexe 1.
+
+<table><tr><td>Indicatif </td><td>Nom </td><td>Commune fusionnée</td></tr><tr><td>BKANDERLECHT </td><td>Academie Beeldende Kunsten van het Gemeenschapsonderwijs </td><td>Anderlecht</td></tr><tr><td>BKANTWERPENKASK </td><td>Koninklijke Academie voor Schone Kunsten Deeltijds Kunstonderwijs </td><td>Antwerpen</td></tr><tr><td>BKARENDONK </td><td>Gemeentelijke Academie voor Schone Kunsten </td><td>Arendonk</td></tr><tr><td>BKBERCHEM </td><td>Stedelijke Academie voor Beeldende Kunsten Berchem &amp; Instituut Roger Avermaete </td><td>Antwerpen</td></tr><tr><td>BKDENDERMONDE </td><td>Koninklijke Academie voor Schone Kunsten </td><td>Dendermonde</td></tr><tr><td>BKEEKLO </td><td>Stedelijke Academie voor Schone Kunsten </td><td>Eeklo</td></tr><tr><td>BKETTERBEEK </td><td>Academie Beeldende Kunst van de Vlaamse Gemeenschap (RHOK) </td><td>Etterbeek</td></tr><tr><td>BKGENTSABK </td><td>Academie voor Beeldende Kunst </td><td>Gent</td></tr><tr><td>BKGENTSINTLUCAS </td><td>Sint-Lucasacademie </td><td>Gent</td></tr><tr><td>BKHERENTALS </td><td>Stedelijke Academie voor Beeldende Kunst </td><td>Herentals</td></tr><tr><td>BKHOBOKEN </td><td>Stedelijke Academie voor Beeldende Kunsten </td><td>Antwerpen</td></tr><tr><td>BKHOOGSTRATEN </td><td>Instituut voor Kreatieve Opvoeding </td><td>Hoogstraten</td></tr><tr><td>BKMECHELENIKA </td><td>Instituut voor Kunst en Ambacht van het Gemeenschapsonderwijs </td><td>Mechelen</td></tr><tr><td>BKMOL </td><td>Gemeentelijke Academie voor Beeldende Kunsten </td><td>Mol</td></tr><tr><td>BKSCHAARBEEK </td><td>Sint-Lukasacademie </td><td>Schaarbeek</td></tr></table>
+
+##### Art. N2
+
+Annexe 2.
+
+<table><tr><td>Indicatif </td><td>Nom </td><td>Avantage Bruxelles en périodes de cours/périodes-professeur (2016-2017)</td></tr><tr><td>BKANDERLECHT </td><td>Academie Beeldende Kunsten van het Gemeenschapsonderwijs </td><td>12</td></tr><tr><td>BKETTERBEEK </td><td>Academie Beeldende Kunst van de Vlaamse Gemeenschap (RHOK) </td><td>12</td></tr><tr><td>BKSCHAARBEEK </td><td>Sint-Lukasacademie </td><td>3</td></tr><tr><td>MANDERLECHT </td><td>Muziekacademie Anderlecht </td><td>91</td></tr><tr><td>MBRUSSEL </td><td>Hoofdstedelijke Academie voor Muziek, Woord en Dans </td><td>87</td></tr><tr><td>METTERBEEK </td><td>Muziekacademie van het Gemeenschapsonderwijs Etterbeek </td><td>46</td></tr><tr><td>MJETTE </td><td>Jetse Academie Muziek - Woord - Dans </td><td>45</td></tr><tr><td>MSCHAARBEEKMAGO </td><td>Muziekacademie Schaarbeek J. H. Fiocco </td><td>82</td></tr><tr><td>MSINTAGATHABERCHEM </td><td>Academie Voor Muziek En Woord Sint-Agatha-Berchem </td><td>115</td></tr><tr><td>MSINTLAMBRECHTSWOLUWE </td><td>Gemeentelijke academie voor muziek en woord Sint-Lambrechts-Woluwe </td><td>96</td></tr><tr><td>MSINTPIETERSWOLUWE </td><td>Gemeentelijke muziekacademie van Sint-Pieters-Woluwe </td><td>72</td></tr></table>
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 9 mars 2018.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+La Ministre flamande de l'Enseignement,
+
+H. CREVITS

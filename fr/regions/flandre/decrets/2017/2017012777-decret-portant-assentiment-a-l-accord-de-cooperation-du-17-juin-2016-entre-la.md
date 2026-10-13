@@ -1,0 +1,47 @@
+---
+title: "Décret portant assentiment à l'accord de coopération du 17 juin 2016 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant la transposition dans la législation des prestations familiales de la Directive 2011/98/UE du Parlement européen et du Conseil du 13 décembre 2011 établissant une procédure de demande unique en vue de la délivrance d'un permis unique autorisant les ressortissants de pays tiers à résider et à travailler sur le territoire d'un Etat membre et établissant un socle commun de droits pour les travailleurs issus de pays tiers qui résident légalement dans un Etat membre"
+identifier: "2017012777"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/02/2017012777/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2017-06-02
+published: 2017-07-03
+entry_into_force: 2017-07-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/02/2017012777/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 2 JUIN 2017. - Décret portant assentiment à l'accord de coopération du 17 juin 2016 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant la transposition dans la législation des prestations familiales de la Directive 2011/98/UE du Parlement européen et du Conseil du 13 décembre 2011 établissant une procédure de demande unique en vue de la délivrance d'un permis unique autorisant les ressortissants de pays tiers à résider et à travailler sur le territoire d'un Etat membre et établissant un socle commun de droits pour les travailleurs issus de pays tiers qui résident légalement dans un Etat membre
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+Assentiment est donné à l'accord de coopération du 17 juin 2016 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant la transposition dans la législation des prestations familiales de la Directive 2011/98/UE du Parlement européen et du Conseil du 13 décembre 2011 établissant une procédure de demande unique en vue de la délivrance d'un permis unique autorisant les ressortissants de pays tiers à résider et à travailler sur le territoire d'un Etat membre et établissant un socle commun de droits pour les travailleurs issus de pays tiers qui résident légalement dans un Etat membre.
+
+## Art. 3
+
+Le présent décret entre en vigueur le jour de sa publication au Moniteur belge.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 2 juin 2017.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+Le Ministre flamand du Bien-Etre, de la Santé publique et de la Famille,
+
+J. VANDEURZEN

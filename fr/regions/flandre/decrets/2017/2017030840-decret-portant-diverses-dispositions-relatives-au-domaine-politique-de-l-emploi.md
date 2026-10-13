@@ -1,0 +1,177 @@
+---
+title: "Décret portant diverses dispositions relatives au domaine politique [de l'Emploi, de l'Economie, des Sciences, de l'Innovation, de l'Agriculture et de l'Economie sociale](Intitulé modifié par DCFL 2026-06-26/19 , art. 47, 002; En vigueur : 07-08-2026)"
+identifier: "2017030840"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017030840/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2017-07-07
+published: 2017-08-01
+entry_into_force: 2017-08-11
+last_amended: 2026-07-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017030840/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 01-08-2017 et mise à jour au 28-07-2026"
+retrieved: 2026-10-12
+---
+
+# 7 JUILLET 2017. - Décret portant diverses dispositions relatives au domaine politique [de l'Emploi, de l'Economie, des Sciences, de l'Innovation, de l'Agriculture et de l'Economie sociale](Intitulé modifié par DCFL 2026-06-26/19 , art. 47, 002; En vigueur : 07-08-2026)
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+Le présent décret règle une matière communautaire et régionale.
+
+## CHAPITRE 2. - Modification du décret du 19 juillet 1973 réglant l'emploi des langues en matière de relations sociales entre employeurs et travailleurs, ainsi qu'en matière d'actes et de documents d'entreprise prescrits par la loi et les règlements
+
+### Art. 2
+
+Dans l'article 5 du décret du 19 juillet 1973 réglant l'emploi des langues en matière de relations sociales entre employeurs et travailleurs, ainsi qu'en matière d'actes et de documents d'entreprise prescrits par la loi et les règlements, remplacé par le décret du 14 mars 2014, les modifications suivantes sont apportées :
+
+1° il est inséré un paragraphe 2/1, rédigé comme suit :
+
+" § 2/1. Sans préjudice de l'application du paragraphe 1er, une version ayant force de loi peut être établie pour des factures dans une des langues suivantes comprises par toutes les parties intéressées :
+
+1° une langue officielle de l'Union européenne ;
+
+2° une langue officielle d'une des Etats membres de l'Espace économique européen non membres de l'Union européenne.
+
+L'alinéa premier s'applique uniquement si la personne physique ou le siège d'exploitation de l'entreprise à laquelle la facture est adressée, est établi dans un des Etats membres de l'Union européenne ou l'Espace économique européen, à l'exception de la Belgique. " ;
+
+2° dans le quatrième paragraphe, le membre de phrase ", 2/1 " est inséré entre le nombre " 2 " et le mot " et ".
+
+## CHAPITRE 3. - Modification de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales
+
+### Art. 3
+
+Dans l'article 124 de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales, remplacé par le décret du 24 avril 2015 et modifié par le décret du 23 décembre 2016, le membre de phrase " 113, " est inséré entre le mot " article " et le nombre " 115 ".
+
+## CHAPITRE 4. - Modifications de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité
+
+### Art. 4
+
+Dans l'article 2 de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, modifié par les lois des 22 décembre 2003, 27 décembre 2006, 8 juin 2008, 22 décembre 2008, 30 décembre 2009, 4 juillet 2011 et 22 juin 2012, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 1er, le point 7° est rétabli dans la rédaction suivante :
+
+" 7° essais pratiques : une méthode de détermination par laquelle les constateurs cachent ou négligent de communiquer leur qualité ou la finalité de leur intervention. " ;
+
+2° au paragraphe 2, alinéa premier, il est ajouté un point k), rédigé comme suit :
+
+" k) l'entreprise autorise les essais pratiques pour vérifier le respect des conditions visées aux points i) et j). L'entreprise s'engage à entreprendre les actions nécessaires à l'occasion des résultats de ces essais pratiques.
+
+Les essais pratiques visés à l'alinéa premier sont sous-traités par l'organisation à un contractant indépendant désigné à cet effet par le Gouvernement flamand.
+
+Le Gouvernement flamand peut arrêter les modalités de ces essais pratiques pour que l'objectivité, la solidité et la neutralité du contractant des essais pratiques soient garanties. Le Gouvernement flamand arrêtera également les conditions auxquelles des constatations répétées par le contractant sont transmises à la " Vlaamse Sociaalrechtelijke Inspectie " (Inspection flamande des lois sociales), visée au décret du 30 avril 2004 relatif au contrôle des lois sociales. ".
+
+### Art. 5
+
+Dans l'article 2bis, § 1er, alinéa deux, de la même loi, inséré par la loi du 22 juin 2012, les mots ", la durée pour laquelle le cautionnement doit être octroyé et les modalités en cas de remboursement " sont insérés entre les mots " la destination du cautionnement " et les mots " ainsi que ce qui se passe avec ce cautionnement en cas de faillite ".
+
+### Art. 6
+
+L'article 10 de la même loi, remplacé par la loi du 22 décembre 2003 et modifié par les lois des 8 juin 2008 et 22 décembre 2008, est abrogé.
+
+## CHAPITRE 5. - Modification de la loi-programme (I) du 24 décembre 2002
+
+### Art. 7
+
+Dans l'article 346, § 2, alinéa deux, de la loi-programme (I) du 24 décembre 2002, inséré par le décret du 4 mars 2016, les modifications suivantes sont apportées :
+
+1° le point 3° est remplacé par la disposition suivante :
+
+" 3° le jeune travailleur n'est plus soumis à la scolarité obligatoire ; " ;
+
+2° il est ajouté un point 4°, rédigé comme suit :
+
+" 4° le jeune travailleur ne suit aucune formation où il peut obtenir, dans les quatre mois à compter du jour de sa mise en service, un diplôme ou grade qui se trouve hors du champ d'application du point 2°. ".
+
+## CHAPITRE 6. - Modification du décret du 30 avril 2004 relatif au contrôle des lois sociales
+
+### Art. 8
+
+Dans l'article 2, § 1er, alinéa premier, 37°, du décret du 30 avril 2004 relatif au contrôle des lois sociales, inséré par le décret du 24 avril 2015 et modifié par le décret du 23 décembre 2016, le membre de phrase " 113, " est inséré entre le mot " article " et le nombre " 115 ".
+
+### Art. 9
+
+Dans l'article 17 du même décret, modifié en dernier lieu par le décret du 23 décembre 2016, il est inséré un paragraphe 3/1, rédigé comme suit :
+
+" § 3/1. Sur demande du contrevenant, le fonctionnaire désigné peut accorder un sursis de paiement de l'amende administrative, pendant une période d'essai qui ne peut être inférieure à un an ni supérieure à trois ans.
+
+Le sursis est accordé dans la décision d'imposition de l'amende administrative.
+
+Le sursis est révoqué de plein droit lorsqu'une nouvelle infraction définie au présent chapitre est commise pendant la période d'essai et que cette nouvelle infraction donne lieu à une amende administrative ou une décision judiciaire déclarant la culpabilité, une décision administrative d'imposition d'une amende administrative ou une condamnation judiciaire. ".
+
+### Art. 10
+
+Dans l'article 18 du même décret, modifié en dernier lieu par le décret du 23 décembre 2016, l'alinéa premier est remplacé par ce qui suit :
+
+" Lorsqu'un même fait constitue plusieurs infractions, les montants des amendes administratives sont cumulés, sans toutefois dépasser le montant de 20.000 euros, ou le double du maximum de l'amende administrative la plus élevée si ce montant est plus élevé.
+
+Lorsqu'un même fait constitue plusieurs infractions ou lorsque différentes infractions qui sont soumises simultanément à l'administration compétente constituent la manifestation successive et continue de la même intention délictueuse, l'infraction administrative la plus forte sera seule prononcée. ".
+
+### Art. 11
+
+Dans l'article 19 du même décret, modifié en dernier lieu par le décret du 23 décembre 2016, le membre de phrase " aux articles 13 à 13/3 inclus " est remplacé par le membre de phrase " aux articles 13 à 13/6 inclus ".
+
+### Art. 12
+
+Dans l'article 23 du même décret, modifié en dernier lieu par le décret du 23 décembre 2016, dans le paragraphe 4, le membre de phrase " à l'article 21 " est remplacé par le membre de phrase " aux articles 21 et 21/1 ".
+
+## CHAPITRE 7. - Modifications du décret du 10 décembre 2010 relatif au placement privé
+
+### Art. 13
+
+Dans l'article 20 du décret du 10 décembre 2010 relatif au placement privé, modifié par le décret du 19 décembre 2014, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 1er, alinéa premier, la phrase " Au sein du SERV est créée une commission consultative en matière d'activités intérimaires " est remplacée par la phrase " Une commission consultative en matière d'activités intérimaires est créée par le Gouvernement flamand " ;
+
+2° dans le paragraphe 1er, alinéa trois, le membre de phrase ", après avis du SERV, " est abrogé ;
+
+3° dans le paragraphe 2, alinéa premier, 4°, les mots " un représentant " sont remplacés par les mots " deux représentants " ;
+
+4° dans le paragraphe 2, alinéa premier, le point 5° est abrogé ;
+
+5° le paragraphe 2, alinéa deux, est remplacé par ce qui suit :
+
+" Le président et son suppléant sont indépendants par rapport aux organisations représentatives des employeurs et des travailleurs et sont nommés par le Gouvernement flamand. En l'absence du président, son suppléant assure la présidence. ".
+
+## CHAPITRE 8. - Prime de recrutement pour des demandeurs d'emploi de longue durée
+
+### Art. 14
+
+Le Gouvernement flamand est autorisé à créer un système qui prévoit une intervention aux employeurs pour promouvoir le recrutement et l'emploi de demandeurs d'emploi de longue durée.
+
+Le Gouvernement flamand fixe les conditions pour l'octroi, la procédure pour la demande, le montant et les modalités de l'intervention.
+
+## CHAPITRE 9. - Entrée en vigueur
+
+### Art. 15
+
+L'article 7 du présent arrêté entre en vigueur le premier jour du trimestre qui suit sa publication au Moniteur belge.
+
+### Art. 16
+
+L'article 13 du présent décret entre en vigueur à une date à fixer par le Gouvernement flamand.
+
+(NOTE : Entrée en vigueur de l'article 13 fixée au 01-01-2018 par AGF 2017-12-01/08, art. 5)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 juillet 2017.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+Le Ministre flamand de l'Emploi, de l'Economie, de l'Innovation et des Sports,
+
+Ph. MUYTERS

@@ -1,0 +1,85 @@
+---
+title: "Décret modifiant diverses dispositions du décret du 7 mai 2004 portant transformation de l'a.s.b.l. \" de Rand \" en une agence autonomisée externe de droit privé et portant fixation des compétences de la province du Brabant flamand relatives à l'appui du \" Vlaamse Rand \""
+identifier: "2017011141"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/17/2017011141/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2017-02-17
+published: 2017-03-15
+entry_into_force: 2017-03-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/17/2017011141/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 17 FEVRIER 2017. - Décret modifiant diverses dispositions du décret du 7 mai 2004 portant transformation de l'a.s.b.l. " de Rand " en une agence autonomisée externe de droit privé et portant fixation des compétences de la province du Brabant flamand relatives à l'appui du " Vlaamse Rand "
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+§ 1er. Au paragraphe 1er de l'article 6 de la version néerlandaise du décret du 7 mai 2004 portant transformation de l'a.s.b.l. " de Rand " en une agence autonomisée externe de droit privé et portant fixation des compétences de la province du Brabant flamand relatives à l'appui du " Vlaamse Rand ", les mots " raad van beheer " sont remplacés par les mots " raad van bestuur ".
+
+§ 2. Dans l'article 6 du même décret, les paragraphes 2 et 3 sont remplacés par ce qui suit :
+
+" § 2. L'assemblée générale de l'a.s.b.l. " de Rand " se compose de dix-neuf membres. Huit membres sont des représentants de la Communauté flamande et disposent chacun de trois voix à l'assemblée générale. Quatre membres sont des représentants de la province du Brabant flamand et disposent chacun de deux voix à l'assemblée générale. Sept membres sont chacun le représentant d'une commission de programmation et disposent chacun d'une voix à l'assemblée générale.
+
+§ 3. Le conseil d'administration de l'a.s.b.l. " de Rand " se compose de dix-huit membres. Trois membres sont nommés par l'assemblée générale sur la proposition de la Communauté flamande. Deux membres sont nommés par l'assemblée générale sur la proposition de la province de Brabant flamand. Sept membres sont nommés par l'assemblée générale sur la proposition des commissions de programmation. Six membres indépendants sont nommés conformément aux articles 4, 5, alinéas 1er à 3 inclus et alinéa 5, et 6 du décret du 22 novembre 2013 relatif à la bonne gouvernance au sein du secteur public flamand. Ils disposent chacun d'une voix au conseil d'administration.
+
+Les articles 7 à 9 inclus du décret du 22 novembre 2013 relatif à la bonne gouvernance au sein du secteur public flamand s'appliquent au conseil d'administration de l'a.s.b.l. " de Rand ". ".
+
+## Art. 3
+
+Aux paragraphes 1er et 2 de l'article 7 de la version néerlandaise du même décret, les mots
+
+" raad van beheer " sont remplacés par les mots " raad van bestuur ".
+
+## Art. 4
+
+Dans le même décret, modifié par les décrets des 12 juillet 2013, 25 avril 2014 et 4 décembre 2015, il est inséré un article 9/1, rédigé comme suit :
+
+" Art. 9/1. § 1er. Le Gouvernement flamand désigne un commissaire du gouvernement auprès de l'a.s.b.l. " de Rand ".
+
+Le commissaire du gouvernement surveille la conformité des opérations et du fonctionnement de l'a.s.b.l. " de Rand " aux principes légaux, aux statuts et à l'accord de coopération.
+
+Contre chaque décision du conseil d'administration qu'il estime contraire au décret, aux statuts et à l'accord de coopération, le commissaire du gouvernement du Gouvernement flamand introduit un recours auprès du Ministre compétent.
+
+Le recours est motivé et est exercé dans les cinq jours francs suivant la réception de la copie de la décision par le commissaire du gouvernement.
+
+Dans le délai précité, le conseil d'administration est mis au courant du recours.
+
+L'exécution de la décision est suspendue par le recours.
+
+§ 2. Le commissaire du gouvernement siège avec voix consultative dans le conseil d'administration de l'a.s.b.l. " de Rand ".
+
+Au moins cinq jours ouvrables avant la date des séances, le commissaire du gouvernement reçoit l'ordre du jour complet des séances du conseil d'administration de l'a.s.b.l. " de Rand ", ainsi que tous les documents en la matière. En cas d'urgence motivée, il peut être dérogé à cette disposition.
+
+Le commissaire du gouvernement peut, à tout moment et sur place, consulter tous les documents et écrits de l'a.s.b.l. " de Rand ".
+
+Le commissaire du gouvernement peut demander aux administrateurs de lui communiquer toutes les informations et tous les éclaircissements, et il peut effectuer toutes les vérifications qu'il estime nécessaires pour l'exercice de son mandat.
+
+§ 3. Le Gouvernement flamand fixe l'indemnité du commissaire du gouvernement.
+
+§ 4. Les articles 10 à 17 du décret du 22 novembre 2013 relatif à la bonne gouvernance au sein du secteur public flamand s'appliquent au commissaire du gouvernement de l'a.s.b.l. " de Rand ". ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 17 février 2017.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+Le Ministre flamand de la Mobilité, des Travaux publics, de la Périphérie flamande de Bruxelles, du Tourisme et du Bien-Etre des Animaux,
+
+B. WEYTS

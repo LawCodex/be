@@ -1,0 +1,55 @@
+---
+title: "Décret portant reprise des membres du personnel de l'asbl Plan C par la \" Openbare Vlaamse Afvalstoffenmaatschappij \" (Société publique des Déchets de la Région flamande)"
+identifier: "2016036686"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2016036686/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2016-12-23
+published: 2016-12-28
+entry_into_force: 2017-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2016036686/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 23 DECEMBRE 2016. - Décret portant reprise des membres du personnel de l'asbl Plan C par la " Openbare Vlaamse Afvalstoffenmaatschappij " (Société publique des Déchets de la Région flamande)
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+DECRET portant reprise des membres du personnel de l'asbl Plan C par la " Openbare Vlaamse Afvalstoffenmaatschappij " (Société publique des Déchets de la Région flamande)
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Les membres du personnel de l'asbl Plan C peuvent être repris par la " Openbare Vlaamse Afvalstoffenmaatschappij " aux modalités arrêtées par le Gouvernement flamand.
+
+S'il s'avère lors de la reprise des membres du personnel, visés à l'alinéa premier, que ceux-ci bénéficient d'une rétribution pécuniaire plus élevée que celle applicable pour la même fonction auprès de l'Autorité flamande, les membres du personnel concernés conservent la rétribution applicable au moment de la reprise, sans porter préjudice aux mécanismes légaux quant à l'ajustement des salaires à l'évolution des prix à la consommation, jusqu'au moment où la rétribution correspond à celle applicable à une même fonction. Lorsque la même fonction n'existe pas auprès de l'Autorité flamande, le Gouvernement flamand fixe les échelles de traitement des membres du personnel, visés à l'alinéa premier.
+
+Les membres du personnel, visés à l'alinéa premier, ne peuvent être repris qu'après avoir réussi une épreuve de sélection objective, dont les modalités sont arrêtées par le Gouvernement flamand.
+
+## Art. 3
+
+Le présent décret entre en vigueur à une date à fixer par le Gouvernement flamand.
+
+(NOTE : Entrée en vigueur fixée au 01-01-2017 par AGF 2017-05-12/07, art. 4)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 23 décembre 2016
+
+Le Ministre-Président du Gouvernement flamand,
+
+Geert BOURGEOIS
+
+La Ministre flamande de l'Environnement, de la Nature et de l'Agriculture,
+
+Joke SCHAUVLIEGE

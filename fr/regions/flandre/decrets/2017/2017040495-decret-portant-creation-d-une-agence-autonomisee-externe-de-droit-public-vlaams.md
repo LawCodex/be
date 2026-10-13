@@ -1,0 +1,753 @@
+---
+title: "Décret portant création d'une agence autonomisée externe de droit public \" Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid \" (Agence flamande de Paiement des Allocations dans le cadre de la Politique familiale), établissant des normes d'autorisation pour des acteurs de paiement privés et modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique \" Kind en Gezin \" (Enfance et Famille)"
+identifier: "2017040495"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017040495/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2017-07-07
+published: 2017-08-08
+entry_into_force: 2017-11-01
+last_amended: 2026-08-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017040495/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 08-08-2017 et mise à jour au 13-08-2026"
+retrieved: 2026-10-12
+---
+
+# 7 JUILLET 2017. - Décret portant création d'une agence autonomisée externe de droit public " Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid " (Agence flamande de Paiement des Allocations dans le cadre de la Politique familiale), établissant des normes d'autorisation pour des acteurs de paiement privés et modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique " Kind en Gezin " (Enfance et Famille)
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+#### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+#### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° agence : l'agence autonomisée externe de droit public " Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid ", (Agence flamande de Paiement des Allocations dans le cadre de la Politique familiale), qui agit comme seul acteur de paiement public ;
+
+[<sup>2</sup> 1° /1 agence Grandir régie : l'agence autonomisée interne dotée de la personnalité juridique créée par l'article 3 du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir régie (" Opgroeien regie ") ;]<sup>2</sup>
+
+2° bénéficiaire : la personne physique ou la personne morale à laquelle les allocations dans le cadre de la politique familiale sont payées ;
+
+3° [<sup>1</sup> Décret de gouvernance : le Décret de gouvernance du 7 décembre 2018]<sup>1</sup>
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+5° politique familiale : la politique familiale en ce compris toutes les formes d'aide et d'assistance aux familles et aux enfants, visée à l'article 5, § 1er, II, 1°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, et la politique en matière d'allocations familiales, visée à l'article 5, § 1er, IV, de la loi précitée ;
+
+6° " Huizen van het Kind " (Maisons de l'Enfant) : les " Huizen van het Kind ", visées au chapitre 3 du décret du 29 novembre 2013 portant organisation du soutien préventif aux familles ;
+
+7° [<sup>2</sup> ...]<sup>2</sup>
+
+8° acteur de paiement privé : une personne morale privée, autorisée en vue du paiement des allocations dans le cadre de la politique familiale ;
+
+9° allocations dans le cadre de la politique familiale : les allocations payées par l'autorité aux familles dans le cadre des allocations familiales, ou toute autre allocation octroyée directement par l'autorité à titre de soutien des frais d'éducation d'enfants ou pour d'autres objectifs dans le cadre de la politique familiale ;
+
+[<sup>3</sup> 9° /1 allocations dans le cadre de la politique familiale : les allocations et avantages que les communes et les centres publics d'action sociale accordent directement, en vertu d'un règlement qu'ils ont approuvé, afin de soutenir les coûts d'éducation des enfants, ou à d'autres fins de politique familiale locale ;]<sup>3</sup>
+
+10° acteurs de paiement : l'agence et les acteurs de paiement privés.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.258, 003; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 45, 004; En vigueur : 18-04-2019&gt;
+
+(3)&lt;DCFL 2022-11-10/18, art. 3, 005; En vigueur : 23-01-2023&gt;
+
+## CHAPITRE 2. - Création de l'agence
+
+#### Art. 3
+
+§ 1er. Il est créé une agence autonomisée externe de droit public dotée de la personnalité juridique, telle que visée à [<sup>1</sup> l'article III.7 du Décret de gouvernance]<sup>1</sup>.
+
+L'agence porte le nom de " Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid " (Agence flamande de Paiement des Allocations dans le cadre de la Politique familiale).
+
+§ 2. Le Gouvernement flamand détermine le domaine politique dont l'agence fait partie.
+
+§ 3. Le Gouvernement flamand détermine le lieu d'établissement de l'agence.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.259, 003; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE 3. - Mission et tâches
+
+#### Art. 4
+
+L'agence a pour mission le paiement ponctuel, correct et continu des allocations dans le cadre de la politique familiale, en collaboration avec les acteurs de paiement privés. [<sup>1</sup> Dans le cadre de sa mission, l'agence soutient également le développement de la politique familiale.]<sup>1</sup>
+
+Dans le cadre de la mission, visée à l'alinéa 1er :
+
+1° l'agence assure une offre performante, personnalisée et de qualité, dans laquelle les familles et en particulier les familles les plus vulnérables bénéficient d'une assistance maximale lors de l'exercice de leur droit aux allocations dans le cadre de la politique familiale ;
+
+2° l'agence examine de manière proactive le droit aux allocations, sur la base des données disponibles par le biais des flux de données électroniques, en vue de l'octroi automatique des droits et du paiement automatique des allocations dans le cadre de la politique familiale si possible.
+
+[<sup>1</sup> 3° l'agence peut assister les communes et les centres publics d'action sociale dans l'examen du droit aux allocations dans le cadre de la politique familiale locale et du paiement de celles-ci, dans le cadre d'un accord de coopération tel que mentionné à l'article 6, alinéa 2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-11-10/18, art. 4, 005; En vigueur : 23-01-2023&gt;
+
+#### Art. 5
+
+En vue de la réalisation de la mission visée à l'article 4, l'agence remplit les tâches suivantes :
+
+1° gérer ses crédits, payer les crédits nécessaires au fonctionnement aux acteurs de paiement privés, ainsi que suivre l'affectation des crédits accordés ;
+
+2° réaliser des gains d'efficacité dans sa fonction de paiement publique et auprès des acteurs de paiement privés ;
+
+3° soutenir les acteurs de paiement privés lors de l'information et de l'assistance aux familles afin de pouvoir exercer leurs droits ;
+
+4° opérationnaliser et concrétiser la réglementation relative à l'octroi d'allocations dans le cadre de la politique familiale par tous les acteurs de paiement ;
+
+5° contrôler le respect des règles relatives à l'octroi d'allocations dans le cadre de la politique familiale ;
+
+6° établir et gérer un système de qualité pour les acteurs de paiement ;
+
+7° assurer en tant qu'acteur de paiement public le paiement automatique, autant que possible, d'allocations dans le cadre de la politique familiale ;
+
+8° créer et développer un seul moteur commun de paiement qui permet aux acteurs de paiement de payer les allocations dans le cadre de la politique familiale de manière efficace, correcte et, autant que possible automatique ;
+
+9° assurer la responsabilisation financière des acteurs de paiement privés ;
+
+10° traiter des plaintes relatives à l'action des acteurs de paiement.
+
+Le Gouvernement flamand peut arrêter des modalités relatives aux matières, visées à l'alinéa 1er.
+
+[<sup>1</sup> 11° Lors de l'examen du droit aux allocations dans le cadre de la politique familiale locale et du paiement de celles-ci pour les communes ou les centres publics d'action sociale, mettre à disposition le moteur de paiement et les services de l'agence dans le cadre d'un accord de coopération tel que mentionné à l'article 6, alinéa 2, du présent décret ;]<sup>1</sup>
+
+[<sup>1</sup> 12° soutenir les initiatives dans le cadre de la politique familiale, en tenant compte des tâches et du rôle coordinateur de l'agence Grandir régie, énoncés à l'article 5, § 1er, alinéa 1er, 1°, c), et § 2, 1°, et aux articles 7/1 et 10/2 du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir regie. ]<sup>1</sup>
+
+[<sup>2</sup> 13° exécuter un processus de transition vers le paiement exclusif par l'agence sur la base de la décision, visée à l'article 26, § 2, alinéa 3. L'agence peut prendre toutes les mesures appropriées et proportionnées afin de veiller à ce que le processus de transition puisse être préparé et exécuté. Ces mesures comprennent au moins :
+
+a) la collecte d'avis ;
+
+b) l'organisation de la concertation avec les acteurs de paiement privés ;
+
+c) la concertation sociale ;
+
+d) l'exploration et le développement des systèmes informatiques ;
+
+e) la collecte de renseignements d'exploitation auprès des acteurs de paiement privés, notamment la composition du personnel, la structure de l'entreprise, le statut du personnel dont la rémunération y compris les avantages de toute nature, les conditions de travail et les obligations relatives au travail, et les obligations contractuelles en cours ;
+
+f) la demande de toutes les informations concernant les droits et obligations pouvant découler du transfert des activités des acteurs de paiement privés à l'agence, et qui sont connues ou auraient dû être connues à la date de la transition.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2022-11-10/18, art. 5, 005; En vigueur : 23-01-2023&gt;
+
+(2)&lt;DCFL 2026-07-10/14, art. 9, 008; En vigueur : 01-07-2026&gt;
+
+#### Art. 6
+
+En vue de la réalisation de la mission visée à l'article 4 et des tâches visées à l'article 5, l'agence est autorisée à effectuer toutes les activités qui contribuent à la réalisation de la mission précitée et des tâches précitées.
+
+[<sup>2</sup> Aux fins de l'exécution de la tâche, visée à l'article 5, alinéa 1er, 11°, l'agence conclut un accord de coopération avec la commune ou le centre public d'action sociale.]<sup>2</sup>
+
+Pour réaliser les tâches visées à l'article 5, l'agence collabore avec des instances, services et associations actifs dans le domaine des tâches précitées, en particulier avec [<sup>1</sup> l'agence Grandir régie]<sup>1</sup> [<sup>2</sup> , les " Huizen van het Kind ", les communes ou les centres publics d'action sociale, la Commission communautaire flamande et les autres partenaires de la politique familiale ]<sup>2</sup> .
+
+En coopération avec les acteurs de paiement privés, l'agence organise une fonction guichet bien élaborée, tant au niveau physique par le biais des " Huizen van het Kind ", que par voie numérique. En concertation avec les acteurs de paiement privés, l'agence veille à ce que les guichets physiques soient suffisamment répartis géographiquement et soient facilement accessibles.
+
+L'agence mettra la connaissance et l'expertise acquises à disposition de [<sup>1</sup> l'agence Grandir régie]<sup>1</sup> .
+
+L'agence assure l'optimisation et la modernisation permanentes de ses activités, sur la base des développements actuels en matière de connaissances et d'expertise [<sup>2</sup> , des communes ou des centres publics d'action sociale]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 46, 004; En vigueur : 18-04-2019&gt;
+
+(2)&lt;DCFL 2022-11-10/18, art. 6, 005; En vigueur : 23-01-2023&gt;
+
+#### Art. 7
+
+[<sup>1</sup> L'agence traite les catégories suivantes de données à caractère personnel des enfants et des bénéficiaires ainsi que de leurs ménages afin de réaliser sa mission, énoncée à l'article 4, et ses tâches, énoncées à l'article 5 :
+
+1° données d'identification ;
+
+2° particularités financières ;
+
+3° caractéristiques personnelles ;
+
+4° composition du ménage ;
+
+5° données relatives à la garde d'enfants ;
+
+6° données relatives au placement familial et à l'adoption ;
+
+7° enseignement et formation suivis ;
+
+8° situations professionnelles ou assimilées et données de sécurité sociale ;
+
+9° données relatives à la santé physique et mentale ;
+
+10° données relatives aux mesures judiciaires ;
+
+11° données relatives au placement au sens de l'article 68 du décret Panier de croissance 2018.
+
+Les données à caractère personnel sont traitées conformément à l'article 6, paragraphe 1, e), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).
+
+L'agence est le responsable du traitement, au sens de l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 précité, à l'égard des données à caractère personnel, visées à l'alinéa 1er du présent article, qu'elle traite dans le cadre de sa mission, énoncée à l'article 4 du présent décret, et de ses tâches, énoncées à l'article 5 du présent décret.
+
+Si des communes ou des centres publics d'action sociale sont impliqués dans le traitement des données, un contrat de sous-traitance tel que mentionné à l'article 28, point 3, du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 précité est conclu avec l'agence. Ce contrat de sous-traitance définit explicitement les personnes impliquées dans le traitement des données.
+
+Les données à caractère personnel, visées à l'alinéa 1er, sont conservées par l'agence jusqu'à cinq ans après la clôture du dossier du ménage.
+
+Le Gouvernement flamand arrête les modalités d'enregistrement et de traitement des données ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2022-11-10/18, art. 7, 005; En vigueur : 23-01-2023&gt;
+
+## CHAPITRE 4. - Organisation de l'agence
+
+### Section 1. - Conseil d'administration
+
+#### Art. 8
+
+§ 1er. L'agence est administrée par un conseil d'administration composé de :
+
+1° neuf administrateurs, désignés par le Gouvernement flamand ;
+
+2° un administrateur pour chaque acteur de paiement privé autorisé ;
+
+3° un membre suppléant, désigné par [<sup>2</sup> l'agence Grandir régie]<sup>2</sup> ;
+
+4° l'administrateur délégué, visé à l'article 9.
+
+§ 2. Conformément à [<sup>1</sup> l'article III.40, premier alinéa du Décret de gouvernance]<sup>1</sup>, au moins un tiers du nombre de membres ayant voix délibérative du conseil d'administration sont des administrateurs indépendants.
+
+Dès que le conseil d'administration est composé de deux tiers des membres ayant voix délibérative conformément au paragraphe 1er, le conseil d'administration ainsi composé partiellement commencera la procédure de désignation des administrateurs indépendants, visés à [<sup>1</sup> l'article III.41 du Décret de gouvernance]<sup>1</sup>.
+
+§ 3. Le Gouvernement flamand désigne un président et un vice-président parmi les membres du conseil d'administration.
+
+Le mandat de président du conseil d'administration est incompatible avec le mandat d'administrateur délégué.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.261, 003; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 46, 004; En vigueur : 18-04-2019&gt;
+
+#### Art. 9
+
+Le Gouvernement flamand désigne l'administrateur délégué qui est chargé de la gestion journalière de l'agence.
+
+La gestion journalière comprend :
+
+1° la direction quotidienne et le fonctionnement de l'agence ;
+
+2° la préparation et l'exécution des décisions du conseil d'administration ;
+
+3° la participation aux réunions du conseil d'administration ;
+
+4° l'exercice des compétences attribuées par le conseil d'administration ;
+
+5° la direction et le contrôle des membres du personnel de l'agence.
+
+[<sup>1</sup> Deux commissaires du gouvernement sont désignés conformément aux articles III.13 et III.49 du Décret de gouvernance.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.262, 003; En vigueur : 01-01-2019&gt;
+
+#### Art. 10
+
+§ 1er. Le conseil d'administration règle son propre fonctionnement dans le règlement d'ordre intérieur.
+
+Dans le règlement d'ordre intérieur, le conseil d'administration détermine les compétences supplémentaires qui sont déléguées à l'administrateur délégué et les conditions de cette délégation.
+
+§ 2. Le conseil d'administration ne peut pas déléguer les compétences suivantes :
+
+1° fixer les objectifs stratégiques de l'agence ;
+
+2° établir le plan d'entreprise annuel, visé à [<sup>1</sup> l'article III.61, § 1er du Décret de gouvernance]<sup>1</sup> ;
+
+3° établir le budget ;
+
+4° établir les comptes généraux ;
+
+5° exercer les compétences attribuées au conseil d'administration par le statut du personnel.
+
+Le conseil d'administration soumet le règlement d'ordre intérieur ainsi que toute modification ou addition à l'approbation du Gouvernement flamand. Le Gouvernement flamand prend sa décision d'approbation ou d'improbation du règlement d'ordre intérieur dans les trente jours après sa présentation. A défaut d'une décision dans ce délai, le règlement d'ordre intérieur est censé être approuvé.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.263, 003; En vigueur : 01-01-2019&gt;
+
+### Section 2. - Fonction de paiement publique et comptabilité
+
+#### Art. 11
+
+L'agence organise la fonction de paiement publique des allocations dans le cadre de la politique familiale [<sup>1</sup> et des allocations dans le cadre de la politique familiale locale, dans le cadre d'un accord de coopération tel que mentionné à l'article 6, alinéa 2]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2022-11-10/18, art. 8, 005; En vigueur : 23-01-2023&gt;
+
+#### Art. 12
+
+L'agence mène une comptabilité transparente qui démontre et justifie une affectation efficace des moyens publics et qui prévoit une séparation stricte entre les moyens, y compris les réserves, engagés pour le paiement d'allocations dans le cadre de la politique familiale, d'une part, et les moyens engagés pour le fonctionnement des acteurs de paiement, d'autre part.
+
+#### Art. 13
+
+[<sup>3</sup> La division de l'Inspection des Soins du Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande]<sup>3</sup>, contrôle, à la demande de [<sup>1</sup> l'agence Grandir régie]<sup>1</sup>, l'affectation des crédits opérationnels par l'acteur de paiement public [<sup>2</sup> ] à l'exception de l'affectation des allocations locales dans le cadre de la politique familiale-2.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 46, 004; En vigueur : 18-04-2019&gt;
+
+(2)&lt;DCFL 2022-11-10/18, art. 9, 005; En vigueur : 23-01-2023&gt;
+
+(3)&lt;DCFL 2023-04-21/07, art. 14, 006; En vigueur : 01-06-2023&gt;
+
+### Section 3. - Audit
+
+#### Art. 14
+
+Le conseil d'administration crée un comité d'audit au sein de l'agence.
+
+Le comité d'audit est compétent tant pour le contrôle interne des processus d'entreprise et activités de l'agence que pour le contrôle externe de tous les processus d'entreprise et activités des acteurs de paiement privés, dans le respect de [<sup>1</sup> l'article III.115 du Décret de gouvernance]<sup>1</sup> et de l'arrêté du Gouvernement flamand du 7 septembre 2012 relatif au contrôle et au single audit.
+
+Le comité d'audit assiste le conseil d'dministration dans les domaines suivants :
+
+1° la réalisation des objectifs imposés et la gestion effective et efficace des risques ;
+
+2° le respect de la réglementation et des procédures ;
+
+3° la fiabilité des rapports financiers et gestionnels ;
+
+4° le fonctionnement effectif et efficace des activités et l'utilisation efficace des moyens ;
+
+5° la sécurisation de l'actif de l'agence et la prévention de la fraude ;
+
+6° la responsabilisation financière des acteurs de paiement.
+
+Le comité d'audit peut faire appel à un service d'audit interne, un réviseur d'entreprise ou une personne physique ou morale tels que visés à la loi du 22 juillet 1953 créant un Institut des Réviseurs d'Entreprises et organisant la supervision publique de la profession de réviseur d'entreprises, coordonnée le 30 avril 2007 et, moyennant l'accord du conseil d'administration, à d'autres moyens pour effectuer sa tâche.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.264, 003; En vigueur : 01-01-2019&gt;
+
+#### Art. 15
+
+Le comité consultatif établit une charte d'audit et la soumet à l'approbation du Gouvernement flamand.
+
+La charte d'audit clarifie les aspects concernant les objectifs, les tâches, la place dans l'organisation, la responsabilité du respect des recommandations et le fonctionnement de la fonction d'audit, y compris le rapport aux acteurs de paiement où un audit a été effectué.
+
+#### Art. 16
+
+L'agence fait rapport à [<sup>1</sup> l'agence Grandir régie]<sup>1</sup> sur chaque audit.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 46, 004; En vigueur : 18-04-2019&gt;
+
+#### Art. 17
+
+Le conseil d'administration désigne les membres du comité d'audit pour une période de cinq ans. Le conseil d'administration désigne le président et le vice-président du comité d'audit.
+
+Le comité comprend au maximum cinq membres, à l'exclusion des membres du personnel de l'agence, y compris le président et le vice-président.
+
+Au maximum trois membres font partie du conseil d'administration de l'agence, à l'exclusion des membres présentés par les acteurs de paiement privés.
+
+### Section 4. - Service des plaintes et de médiation
+
+#### Art. 18
+
+Au sein de l'agence, il est créé un service des plaintes et de médiation.
+
+#### Art. 19
+
+Le service des plaintes et de médiation traite les plaintes sur le fonctionnement et les activités des acteurs de paiement, outre les plaintes sur le propre fonctionnement et activités, dans le respect des dispositions du [<sup>1</sup> titre II, chapitre 5 du Décret de gouvernance]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.265, 003; En vigueur : 01-01-2019&gt;
+
+#### Art. 20
+
+Le service des plaintes et de médiation se pose en médiateur entre un acteur de paiement et un bénéficiaire lors d'un litige relatif à un droit d'allocations ou au paiement d'allocations dans le cadre de la politique familiale.
+
+#### Art. 21
+
+[<sup>2</sup> A l'exception des plaintes sur les allocations dans le cadre de la politique familiale locale, l'agence fait annuellement rapport ]<sup>2</sup>sur les plaintes sur des acteurs de paiement et la médiation entre des acteurs de paiement et des bénéficiaires, à [<sup>1</sup> l'agence Grandir régie]<sup>1</sup> dans le délai et selon les exigences formelles arrêtés par le Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 46, 004; En vigueur : 18-04-2019&gt;
+
+(2)&lt;DCFL 2022-11-10/18, art. 10, 005; En vigueur : 23-01-2023&gt;
+
+### Section 5. - Service d'inspection sociale et d'encadrement
+
+#### Art. 22
+
+Au sein de l'agence, il est créé un service d'inspection sociale et d'encadrement.
+
+#### Art. 23
+
+Le service d'inspection sociale et d'encadrement assure l'accompagnement de familles ou contrôle, également à la demande d'un acteur de paiement, la disparité éventuelle entre la situation administrative et de fait de l'enfant ou du bénéficiaire, en vue de l'octroi correct des allocations dans le cadre de la politique familiale.
+
+Les tâches du service d'inspection sociale et d'encadrement pour la mission d'encadrement et de contrôle, visée à l'alinéa 1er, comprennent en tout cas :
+
+1° contrôler si les données des sources authentiques sont égales à la situation concrète des familles ;
+
+2° informer les familles, pendant des visites à domicile, sur leur droit à des allocations dans le cadre de la politique familiale ;
+
+3° contrôler la solvabilité des débiteurs, en cas de recouvrement de paiements indûment effectués d'allocations dans le cadre de la politique familiale, afin d'établir le cas échéant un plan d'apurement ;
+
+4° contrôler si la réglementation applicable est respectée.
+
+[<sup>1</sup> 5° les tâches confiées à l'agence dans le cadre d'un accord de coopération tel que mentionné à l'article 6, alinéa 2. ]<sup>1</sup>
+
+Le Gouvernement flamand arrête des modalités relatives aux missions du service d'inspection sociale et d'encadrement et, quant à la fonction d'inspection de l'agence, il peut arrêter des règles pour des partenariats avec d'autres services d'inspection au sein de l'autorité flamande et fédérale.
+
+----------
+
+(1)&lt;DCFL 2022-11-10/18, art. 11, 005; En vigueur : 23-01-2023&gt;
+
+## CHAPITRE 5. - Moyens financiers
+
+#### Art. 24
+
+[<sup>1</sup> ]<sup>1</sup> L'agence peut disposer des recettes suivantes :
+
+1° des crédits pour son propre fonctionnement, pour le fonctionnement des acteurs de paiement et pour le paiement d'allocations aux bénéficiaires affiliés à l'agence ;
+
+2° des dons et legs en espèces ;
+
+3° des produits de ventes ;
+
+4° des recettes résultant des actes de gestion ou de disposition relatifs aux biens propres ;
+
+5° des subventions pour lesquelles l'agence entre en ligne de compte ;
+
+6° des revenus issus du sponsoring ;
+
+7° le recouvrement de paiements effectués indûment ;
+
+8° des indemnités pour prestations à des tiers, en particulier les contributions des tiers au prix de revient ;
+
+9° des rétributions dans la mesure où elles sont attribuées par décret à l'agence.
+
+[<sup>1</sup> 10° des crédits accordés par les communes et les centres publics d'action sociale en exécution d'un accord de coopération tel que mentionné à l'article 6, alinéa 2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-11-10/18, art. 12, 005; En vigueur : 23-01-2023&gt;
+
+#### Art. 25
+
+[<sup>1</sup> Le Gouvernement flamand et les communes et centres publics d'action sociale peuvent]<sup>1</sup> mettre des biens mobiliers et immobiliers à disposition de l'agence, pour l'accomplissement de ses tâches. Il peut arrêter les modalités relatives à la mise à disposition de ces biens.
+
+----------
+
+(1)&lt;DCFL 2022-11-10/18, art. 13, 005; En vigueur : 23-01-2023&gt;
+
+## CHAPITRE 6. - Normes d'autorisation pour des acteurs de paiement privés
+
+### Section 1. - Dispositions générales
+
+#### Art. 26
+
+§ 1er. [<sup>1</sup> L'agence Grandir régie]<sup>1</sup> peut autoriser au maximum quatre acteurs de paiement privés conformément aux conditions visées au présent chapitre.
+
+Un acteur de paiement privé fait partie du conseil d'administration de l'agence.
+
+[<sup>2</sup> Le Gouvernement flamand peut fixer les modalités relatives à la durée de l'autorisation et au régime transitoire à l'expiration du délai de l'autorisation. En l'absence de modalités, la durée est indéterminée.]<sup>2</sup>
+
+§ 2. Après quatre ans de fonctionnement des acteurs de paiement privés, [<sup>1</sup> l'agence Grandir régie]<sup>1</sup> évaluera l'organisation du paiement des allocations dans le cadre de la politique familiale.
+
+Le Gouvernement flamand arrête les modalités relatives à la procédure de l'évaluation visée à l'alinéa 1er, qui ont au moins trait aux critères suivants :
+
+1° l'efficacité au niveau des coûts du fonctionnement ;
+
+2° le fonctionnement, visé à l'article 27, 11° ;
+
+3° l'accomplissement des tâches visées à l'article 28.
+
+Sur la base des résultats de cette évaluation, le Gouvernement flamand peut décider de faire effectuer le paiement des allocations dans le cadre de la politique familiale exclusivement par l'agence.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 47, 004; En vigueur : 18-04-2019&gt;
+
+(2)&lt;DCFL 2026-07-10/14, art. 10, 008; En vigueur : 01-07-2026&gt;
+
+### Section 2. - Conditions d'autorisation et de fonctionnement
+
+#### Art. 27
+
+Pour obtenir et maintenir une autorisation, un acteur de paiement privé répond aux conditions suivantes :
+
+1° l'acteur de paiement privé est créé comme association sans but lucratif conformément [<sup>2</sup> au Code des sociétés et des associations]<sup>2</sup>, où l'acteur de paiement privé constitue un partenariat avec une autre personne morale, et la prise de décision, la comptabilité et les moyens financiers de l'acteur de paiement privé sont tenus entièrement séparés de l'autre entité ;
+
+2° l'acteur de paiement privé n'a pas conclu de partenariat avec une mutualité dans le cadre de la politique de la santé, avec un syndicat dans le cadre du chômage ou avec une caisse d'assurance soins dans le cadre de la Protection sociale flamande ;
+
+3° l'acteur de paiement privé assume uniquement des tâches pour des activités dans le cadre de la politique familiale et n'exerce pas de tâches comme mutualité dans le cadre de la politique de la santé, comme syndicat dans le cadre du chômage ou comme caisse d'assurance soins dans le cadre de la Protection sociale flamande ;
+
+[<sup>3</sup> 3° /1 l'acteur de paiement privé utilise le nom de " Panier de croissance flamand " dans sa communication avec les ménages et ne conduit pas d'activités de marketing ;]<sup>3</sup>
+
+4° l'acteur de paiement privé n'associe aucun avantage à l'affiliation d'un bénéficiaire, visée à l'article 28, 11° ;
+
+5° l'acteur de paiement privé rend plausible qu'il gérera activement au moins 120.000 dossiers d'enfants dans les six mois après avoir obtenu l'autorisation ;
+
+6° après ce délai initial de six mois, l'acteur de paiement prive gérera activement, pendant chaque période de deux années calendaires consécutives, une moyenne d'au moins 120.000 dossiers d'enfants, la moyenne étant calculée à la fin de la période biennale, sur la base des données trimestrielles visées au cadastre, gérées par [<sup>1</sup> l'agence Grandir régie]<sup>1</sup> ;
+
+7° l'acteur de paiement privé reprend les dispositions suivantes dans les statuts :
+
+a) une formulation de l'objet social conformément aux dispositions du présent décret ;
+
+b) l'obligation, en cas de cessation des activités avant le paiement des allocations dans le cadre de la politique familiale, d'affecter les moyens et les réserves ou de les rembourser à l'autorité compétente conformément au présent décret et ses arrêtés d'exécution ;
+
+c) l'obligation, en cas de cessation des activités, de transmettre toutes les données nécessaires afin de garantir la continuité des paiements et des activités, par voie numérique à l'agence ;
+
+8° l'acteur de paiement privé soumet, en cas de fusions entre ou de reprises d'acteurs de paiement autorisés ou de leurs activités, le plan de fusion ou de reprise à l'approbation du conseil d'administration de l'agence ;
+
+9° l'acteur de paiement privé ne contracte aucun emprunt ou contrat de leasing financier qui dépasse le total de dettes relatives à des opérations de gestion au-dessus des 100 % des fonds propres, à l'exclusion des provisions pour risques et charges et des crédits opérationnels, sans l'autorisation préalable du conseil d'administration de l'agence ;
+
+10° l'acteur de paiement privé ne procède pas à l'acquisition ou à la renonciation de biens immobiliers, sans l'autorisation préalable du conseil d'administration de l'agence ;
+
+11° l'acteur de paiement privé organise le fonctionnement de sa personne morale et ses activités selon les principes suivants :
+
+a) élaborer une politique de qualité démontrable ;
+
+b) mener une politique du personnel et financière efficace et efficiente ;
+
+c) entendre les utilisateurs lors de l'évaluation des activités ;
+
+d) organiser les organes administratifs de manière correcte ;
+
+e) démontrer qu'il y a suffisamment de garanties pour la continuité des activités et du paiement des allocations dans le cadre de la politique familiale ;
+
+f) contribuer au paiement plus efficace des allocations dans le cadre de la politique familiale et au soutien de la politique familiale ; en tenant compte des critères de responsabilisation financière que le Gouvernement flamand établit à cet effet sur la base de paramètres objectifs ;
+
+g) développer un système de contrôle interne afin de procurer une sécurité raisonnable sur :
+
+1\) la réalisation des objectifs ;
+
+2\) le respect de la législation et des procédures ;
+
+3\) la disponibilité d'informations financières et de gestion fiables ;
+
+4\) l'utilisation économique et efficace des moyens ;
+
+5\) la protection des actifs ;
+
+6\) la prévention des fraudes ;
+
+12° l'acteur de paiement privé dispose de son propre compte bancaire ;
+
+13° l'acteur de paiement privé mène une politique financière qui prévoit une séparation stricte entre les moyens, y compris les réserves, engagés pour le fonctionnement propre de l'acteur de paiement, d'une part, et les moyens engagés pour le paiement d'allocations dans le cadre de la politique familiale, d'autre part ;
+
+14° l'acteur de paiement privé n'affecte les réserves, constituées à charge des moyens de fonctionnement, qu'à son propre fonctionnement ;
+
+15° l'acteur de paiement privé n'affecte les réserves, constituées à charge des allocations dans le cadre de la politique familiale, qu'aux allocations dans le cadre de la politique familiale ;
+
+16° l'acteur de paiement privé désigne un commissaire-réviseur qui, outre sa tâche et sa mission légales, atteste annuellement que les moyens destinés aux allocations dans le cadre de la politique familiale, ne sont affectés qu'au paiement de ces allocations, et que les moyens destinés au fonctionnement de l'acteur de paiement privé, ne sont affectés qu'à ce fonctionnement ;
+
+17° l'acteur de paiement privé garantit que, en cas de cessation des activités, sauf en cas d'une fusion avec ou reprise par un autre acteur de paiement privé, approuvée par l'agence, les réserves constituées par moyens de fonctionnement ou allocations dans le cadre de la politique familiale sont remboursées à l'autorité compétente, à l'exception :
+
+a) des réserves constituées pour le passif social moyennant l'approbation explicite de l'agence ;
+
+b) des réserves constituées pour un engagement pluriannuel, conclu par l'acteur de paiement privé avec des tiers, moyennant l'approbation explicite de l'agence de conclure cet engagement pluriannuel ;
+
+18° pour des allocations dans le cadre de la politique familiale, l'acteur de paiement privé développe un fonctionnement dans la Communauté flamande entière ;
+
+19° l'acteur de paiement privé apporte sa collaboration entière au contrôle par le comité d'audit, visé à l'article 14 du présent décret, et à toute autre forme de surveillance fixée par décret.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 48, 004; En vigueur : 18-04-2019&gt;
+
+(2)&lt;DCFL 2025-12-19/57, art. 19, 007; En vigueur : 09-01-2026&gt;
+
+(3)&lt;DCFL 2026-07-10/14, art. 11, 008; En vigueur : 01-07-2026&gt;
+
+#### Art. 28
+
+Un acteur de paiement privé remplit au moins les missions suivantes :
+
+1° payer les allocations dans le cadre de la politique familiale de manière ponctuelle, correcte, continue et, si possible, automatique aux familles affiliées, en utilisant le moteur commun de paiement, visé à l'article 5, alinéa 1er, 80, dans le respect de la réglementation relative à ces allocations et des instructions de l'agence ;
+
+2° examiner de manière proactive le droit aux allocations dans le cadre de la politique familiale, des dossiers gérés par lui, sur la base des données disponibles par le biais des flux de données électroniques, en vue de l'octroi automatique des droits si possible et l'information des bénéficiaires et des bénéficiaries éventuels de leur droit aux allocations dans le cadre de la politique familiale ;
+
+3° collaborer avec d'autres instances, services et associations actifs dans le domaine des missions attribuées, en particulier avec [<sup>2</sup> l'agence Grandir régie]<sup>2</sup>, l'agence et les " Huizen van het Kind " ;
+
+4° remplir, en collaboration avec l'agence, la fonction guichet, visée à l'article 6, [<sup>3</sup> alinéa 4 ]<sup>3</sup> ;
+
+5° enregistrer et traiter les données relatives aux activités dans le cadre de la politique familiale et le fonctionnement de la personne morale, et mettre des données à disposition de [<sup>2</sup> l'agence Grandir régie]<sup>2</sup> et l'agence sous la forme et dans les délais fixés par le Gouvernement flamand ;
+
+6° garantir que les données à caractère personnel sont enregistrées et traitées dans le respect de la relative à la protection de la vie privée ;
+
+7° établir une comptabilité [<sup>1</sup> analytique]<sup>1</sup> qui démontre et justifie une affectation efficace des moyens publics et qui prévoit une séparation stricte entre les moyens, y compris les réserves, engagés pour le paiement d'allocations dans le cadre de la politique familiale, d'une part, et les moyens engagés pour le fonctionnement, d'autre part ;
+
+8° constituer, gérer et affecter des réserves conformément à l'article 27, 14° et 15°. Le Gouvernement flamand arrête les modalités relatives à la constitution de réserves ;
+
+9° établir et respecter un plan de relance ou désigner, à ses propres frais, un gestionnaire de crise dans les cas et aux conditions fixés par le Gouvernement flamand ;
+
+10° en cas de cessation des activités ou d'abrogation de l'autorisation, mettre à disposition de l'autorité compétente toutes les données nécessaires à la reprise des activités, sous la forme et dans les délais fixés par le Gouvernement flamand ;
+
+11° [<sup>4</sup> accepter toute demande d'affiliation d'un bénéficiaire à la demande du bénéficiaire ou de l'agence]<sup>4</sup>, sauf si une disposition légale ou décrétale l'empêche ;
+
+12° participer à l'établissement de rapports, sous la forme et dans les délais fixés par le Gouvernement flamand ;
+
+[<sup>4</sup> 13° collaborer aux mesures appropriées et proportionnelles et au processus de transition, visés à l'article 5, alinéa 1er, 13°, et les exécuter.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2018-04-27/27, art. 205, 002; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 48, 004; En vigueur : 18-04-2019&gt;
+
+(3)&lt;DCFL 2022-11-10/18, art. 14, 005; En vigueur : 23-01-2023&gt;
+
+(4)&lt;DCFL 2026-07-10/14, art. 12, 008; En vigueur : 01-07-2026&gt;
+
+#### Art. 29
+
+[<sup>1</sup> L'agence Grandir régie]<sup>1</sup> accorde une autorisation aux acteurs de paiement privés conformément aux conditions d'autorisation, visées aux articles 27 et 28.
+
+Le Gouvernement flamand arrête les modalités de la procédure de demande d'une autorisation.
+
+L'attribution d'une autorisation à un acteur de paiement privé est publiée au Moniteur belge.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 49, 004; En vigueur : 18-04-2019&gt;
+
+#### Art. 30
+
+Un acteur de paiement privé qui souhaite arrêter ses activités, en informe l'agence par lettre recommandée, au moins douze mois avant la cessation effective. Pendant ce délai de douze mois, l'acteur de paiement privé reste responsable de la continuité des activités.
+
+Le Gouvernement flamand arrête les modalités de la procédure à suivre en cas de la cessation volontaire des activités d'un acteur de paiement privé autorisé, et prend les mesures nécessaires pour garantir la continuité du paiement aux bénéficiaires.
+
+## CHAPITRE 6/1. [<sup>1</sup> Subventions pour les acteurs de paiement privés]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-04-27/27, art. 200, 002; En vigueur : 01-01-2019&gt;
+
+#### Art. 30/1.
+
+[<sup>1</sup> Un acteur de paiement privé reçoit annuellement une subvention de [<sup>2</sup> l'agence Grandir régie]<sup>2</sup> afin de pouvoir payer les allocations dans le cadre de la politique familiale conformément à la réglementation relative au paiement d'allocations dans le cadre de la politique familiale. Cette subvention sert uniquement à couvrir les montants qui doivent être payés aux bénéficiaires d'allocations dans le cadre de la politique familiale.
+
+Le Gouvernement flamand arrête les modalités pour l'établissement et l'octroi des subventions visées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-04-27/27, art. 201, 002; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 50, 004; En vigueur : 18-04-2019&gt;
+
+#### Art. 30/2.
+
+[<sup>1</sup> § 1er. Un acteur de paiement privé reçoit annuellement de l'agence une subvention pour les frais de fonctionnement selon les dispositions suivantes. Cette subvention doit soutenir les activités de l'acteur de paiement privé afin de garantir et d'optimiser le paiement, visé à l'article 30/1. Les acteurs de paiement privés déterminent comment ils veulent affecter ces moyens dans le contexte des activités pour lesquelles ils ont obtenu une autorisation en exécution de l'article 29, et dans le contexte des normes d'autorisation, visées aux articles 27 et 28, qui concernent la politique financière menée. [<sup>2</sup> Les moyens de fonctionnement ne sont pas affectés aux activités de marketing.]<sup>2</sup>
+
+La première année après l'entrée en vigueur du présent décret, l'enveloppe totale de moyens de fonctionnement pour les acteurs de paiement privés égale le montant total de frais de fonctionnement qu'ils ont reçu pendant l'avant-dernière année avant l'entrée en vigueur du présent décret conformément à l'article 2, 7°, et l'article 4 de l'arrêté royal du 9 juin 1999 relatif au compte de gestion et à la réserve administrative des caisses d'allocations familiales.
+
+§ 2. A partir de la deuxième année après l'entrée en vigueur du présent décret, le mode de calcul et les conditions d'octroi de cette enveloppe sont déterminés par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-04-27/27, art. 202, 002; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2026-07-10/14, art. 13, 008; En vigueur : 01-07-2026&gt;
+
+#### Art. 30/3.
+
+[<sup>1</sup> Chaque acteur de paiement privé reçoit une partie de l'enveloppe totale pour moyens de fonctionnement, qui est basée sur le rapport entre le montant des allocations payées dans le cadre de la politique familiale et le montant total d'allocations dans le cadre de la politique familiale payées par les acteurs de paiement privés au cours d'une année de service. En outre, l'acteur de paiement privé reçoit 1,5% des allocations familiales indûment payées qui sont recouvrées. Le Gouvernement flamand peut arrêter des critères visant à réduire au minimum le montant d'allocations familiales indûment payées par un acteur de paiement privé.
+
+Le Gouvernement flamand peut accorder aux acteurs de paiement privés une subvention de fonctionnement complémentaire pour le paiement d'autres allocations dans le cadre de la politique familiale selon les conditions qu'il arrête.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-04-27/27, art. 203, 002; En vigueur : 01-01-2019&gt;
+
+#### Art. 30/3bis.
+
+[<sup>1</sup> Au plus tôt deux années après l'entrée en vigueur du présent décret et sur la base d'une évaluation approfondie des activités des acteurs de paiement privés par l'agence, une partie de la subvention pour frais de fonctionnement, visée aux articles 30/2 et 30/3, peut être supplémentairement soumise à des critères à fixer par le Gouvernement flamand pour pouvoir garantir le bon fonctionnement des acteurs de paiement privés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-04-27/27, art. 204, 002; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE 7. - Modifications du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique " Kind en Gezin " (Enfance et Famille)
+
+#### Art. 31
+
+L'article 2 du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique " Kind en Gezin ", est complété par un point 6° et un point 7°, rédigés comme suit :
+
+" 6° politique familiale : la politique familiale en ce compris toutes les formes d'aide et d'assistance aux familles et aux enfants, visée à l'article 5, § 1er, II, 1°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, et la politique en matière d'allocations familiales, visée à l'article 5, § 1er, IV, de la loi précitée ;
+
+7° allocations dans le cadre de la politique familiale : des allocations telles que visées à la réglementation relative aux allocations dans le cadre de la politique familiale. ".
+
+#### Art. 32
+
+Dans l'article 5 du même décret, le membre de phrase " , la régie des allocations dans le cadre de la politique familiale, " est inséré entre les mots " l'accueil des enfants " et les mots " et ".
+
+#### Art. 33
+
+Dans le même décret, il est inséré un article 7/1, rédigé comme suit :
+
+" Art. 7/1. La régie des allocations dans le cadre de la politique familiale par l'agence comprend en tout cas :
+
+1° la préparation et le développement politiques d'une politique familiale intégrée ;
+
+2° l'octroi d'une autorisation aux acteurs de paiement privés et l'exercice de la tutelle et du contrôle des acteurs de paiement ;
+
+3° la gestion et l'octroi de crédits opérationnels aux acteurs de paiement ;
+
+4° le développement, l'élaboration et la gestion d'un réseau de données dans le cadre des allocations en matière de politique familiale, qui permet l'échange de toutes les données nécessaires avec les sources authentiques de données flamandes et fédérales et les acteurs de paiement ;
+
+5° l'enregistrement et le traitement des données à caractère personnel nécessaires afin de créer et de gérer un cadastre des allocations dans le cadre de la politique familiale.
+
+A l'aide des allocations dans le cadre de la politique familiale, l'agence vise à aborder le soutien des familles et des enfants de manière intégrée, efficace et efficient, en prêtant également attention à la lutte contre la pauvreté des enfants. ".
+
+#### Art. 34
+
+A l'article 10 du même décret, modifié par le décret du 15 juillet 2016, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 1er, le membre de phrase " 7 et 8 " est remplacé par le membre de phrase " 7, 7/1 et 8 " ;
+
+2° dans l'alinéa 2, le membre de phrase " 7 et 8 " est remplacé par le membre de phrase " 7, 7/1 et 8 " ;
+
+3° dans l'alinéa 6, le membre de phrase " 7 et 8 " est remplacé par le membre de phrase " 7, 7/1 et 8 ".
+
+## CHAPITRE 8. - Dispositions finales
+
+#### Art. 35
+
+Les articles 90 et 91 du décret du 15 juillet 2016 portant diverses dispositions relatives au domaine politique Aide sociale, Santé publique et Famille sont abrogés.
+
+#### Art. 36
+
+Le Gouvernement flamand fixe, pour chaque disposition du présent décret, la date d'entrée en vigueur.
+
+(NOTE : Entrée en vigueur des articles 1 à 3, 8 à 10, 14, 15, 17, 18, 20, 22, 24 à 35 fixée au 01-11-2017 par AGF 2017-10-27/08, art. 13)
+
+(NOTE : Entrée en vigueur des articles 4 à 7, 11 à 13, 16, 19, 21, 23 fixée au 01-01-2019 par AGF 2017-10-27/08, art. 13)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 juillet 2017.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+Le Ministre flamand du Bien-être, de la Santé publique et de la Famille,
+
+J. VANDEURZEN
