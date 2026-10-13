@@ -1,0 +1,3061 @@
+---
+title: "Décret relatif à l'organisation du marché régional du gaz."
+identifier: "2003200080"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2003200080/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2002-12-19
+published: 2003-02-11
+entry_into_force: 2003-02-21
+last_amended: 2025-12-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2003200080/justel"
+department: "Région Wallonne"
+justel_notes:
+  - "art. 36 modifié avec effet à une date indéterminée par <DRW 2008-07-17/52 , art. 50, En vigueur : indéterminée >"
+  - "Consultation des versions antérieures à partir du 11-02-2003 et mise à jour au 30-12-2025"
+retrieved: 2026-10-12
+---
+
+# 19 DECEMBRE 2002. - Décret relatif à l'organisation du marché régional du gaz.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Généralités.
+
+##### Art. 1
+
+[<sup>1</sup> Le présent décret transpose la [<sup>2</sup> Directive 2009/73/CE du Parlement européen et du Conseil du 13 juillet 2009 concernant des règles communes pour le marché intérieur du gaz naturel et abrogeant la Directive 2003/55/CE]<sup>2</sup>.
+
+Il transpose partiellement la Directive 2006/32/C.E. du Parlement européen et du Conseil du 5 avril 2006 relative à l'efficacité énergétique dans les utilisations finales et aux services énergétiques et abrogeant la Directive 93/76/CEE du Conseil.]<sup>1</sup>
+
+[<sup>3</sup> Il transpose partiellement la Directive 2014/61/UE du Parlement européen et du Conseil du 15 mai 2014 relative à des mesures visant à réduire le coût du déploiement de réseaux de communications électroniques à haut débit.]<sup>3</sup>
+
+[<sup>4</sup> Il transpose partiellement la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables (refonte).]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 2, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 1, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2017-10-26/04, art. 5, 020; En vigueur : 20-11-2017&gt;
+
+(4)&lt;DRW 2024-03-28/66, art. 3, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 2
+
+[<sup>1</sup> Pour l'application du présent décret, il y a lieu d'entendre par :
+
+1° " gaz " : tout produit combustible qui est à l'état gazeux à la température de 15 degrés Celsius et à la pression absolue de 1,01325 bar. [<sup>7</sup> Le gaz peut être issu de sources d'énergie renouvelables, être bas carbone ou fossile;]<sup>7</sup>
+
+2° " gaz naturel " : tout produit combustible gazeux d'origine souterraine constitué essentiellement de méthane, y compris le gaz naturel liquéfié, en abrégé : " G.N.L. ", et à l'exception du grisou;
+
+3° " gaz compatible " gaz autre que le gaz naturel, qu'il est techniquement possible d'injecter et de distribuer en toute sécurité dans le réseau de distribution de gaz naturel;
+
+4° " gaz non compatible " : gaz autre que le gaz naturel, qu'il n'est techniquement pas possible d'injecter et de distribuer dans le réseau de distribution, pour des motifs de sécurité ou d'efficacité énergétique;
+
+5° " sources d'énergie renouvelables " (en abrégé SER) : toute source d'énergie, autre que les combustibles fossiles et les matières fissiles, dont la consommation ne limite pas son utilisation future, notamment l'énergie hydraulique, l'énergie éolienne, l'énergie solaire, l'énergie géothermique et la biomasse;
+
+6° [<sup>7</sup> gaz issu de sources d'énergies renouvelables " (en abrégé " gaz issu de SER " ou " gaz issu de renouvelables ") : gaz issu de la transformation de sources d'énergie renouvelables, notamment par fermentation, par traitement électrochimique et/ou thermochimique, ou par toute autre technologie utilisant exclusivement une ou plusieurs sources d'énergies renouvelables. Le Gouvernement détermine les types de gaz issu de renouvelables]<sup>7</sup>;
+
+[<sup>2</sup> 6°bis " gaz naturel comprimé " : gaz naturel ou compatible comprimé utilisé comme carburant pour véhicules;]<sup>2</sup>
+
+[<sup>7</sup> 6° ter " gaz bas carbone " : gaz issu de la transformation de sources d'énergie non renouvelables dont le niveau de réduction des émissions de gaz à effet de serre, calculé selon la méthodologie définie par le Gouvernement, atteint le niveau minimal fixé par celuici. Le Gouvernement détermine les types de gaz bas carbone;]<sup>7</sup>
+
+[<sup>7</sup> " 6° quater " gaz fossile " : gaz issu de la transformation de sources d'énergie non renouvelables et dont le niveau de réduction des émissions de gaz à effet de serre, calculé selon la méthodologie définie par le Gouvernement, n'atteint pas le niveau minimal fixé par celuici. Le Gouvernement détermine les types de gaz fossile; ]<sup>7</sup>
+
+7° " entreprise de gaz " : toute personne physique ou morale qui effectue la production, le transport, la distribution, la fourniture, l'achat ou le stockage ou plusieurs de ces activités, à l'exclusion des clients finals;
+
+8° " producteur " : toute personne physique ou morale qui produit du gaz, y compris tout autoproducteur;
+
+9° " autoproducteur " : toute personne physique ou morale produisant du gaz principalement pour son propre usage;
+
+[<sup>7</sup> 9° bis " site de production " : lieu d'implantation d'une installation constituée d'une ou plusieurs unités de production de gaz et, le cas échéant, d'une ou plusieurs unités de traitement de gaz; ]<sup>7</sup>
+
+10° " réseau " : ensemble d'infrastructures, de moyens de stockage et de canalisations connectées, géré à des fins de transmission de gaz;
+
+11° " réseau de distribution " : ensemble d'infrastructures, de moyens de stockage [<sup>2</sup> , de services auxiliaires]<sup>2</sup> et de canalisations connectées ou interconnectées géré à des fins de distribution de gaz à des clients finals [<sup>2</sup> et qui ne constitue pas un réseau privé, un réseau fermé professionnel ou une conduite directe]<sup>2</sup>;
+
+12° " réseau spécifique " : ensemble d'infrastructures, de moyens de stockage et de canalisations de gaz non compatibles, géré à des fins de distribution à des clients finals;
+
+13° " distribution " : l'activité ayant pour objet la transmission du gaz, [<sup>2</sup> ...]<sup>2</sup> aux fins d'approvisionnement de clients finals situés dans une zone géographiquement délimitée;
+
+14° " administrateur indépendant " : [<sup>4</sup> la personne physique, administrateur du gestionnaire de réseau]<sup>4</sup> ou de la filiale créée [<sup>4</sup> en vertu de l'article 17 ]<sup>4</sup>, qui :
+
+a) n'exerce aucune fonction ou activité, rémunérée ou non, au service d'un producteur [<sup>4</sup> , à l'exception d'un auto-producteur]<sup>4</sup>, d'un fournisseur ou d'un intermédiaire et n'a pas exercé une telle fonction ou activité au cours des vingt-quatre mois précédant sa nomination en tant qu'administrateur, et
+
+b) ne bénéficie d'aucun avantage matériel octroyé par l'une des personnes visées au litera a), ni par l'une de leurs entreprises associées ou liées, [<sup>4</sup> à l'exception des pouvoirs publics, ]<sup>4</sup> qui, de l'avis de la CWaPE, est susceptible d'influencer son jugement;
+
+15° " réseaux interconnectés " : réseaux connectés l'un à l'autre et permettant ainsi la transmission de gaz de l'un vers l'autre;
+
+16° " interconnexions " : équipements utilisés pour interconnecter les réseaux de gaz;
+
+17° [<sup>2</sup> " réseau privé " : ensemble des installations établies sur un ou plusieurs fonds privés, servant à la transmission de gaz à un ou plusieurs clients avals, sur lequel un gestionnaire de réseau ne dispose ni d'un droit de propriété, ni d'un droit lui en garantissant la jouissance au sens de l'article 3 et qui n'est pas reconnu comme " réseau fermé professionnel " ou " conduite directe ";]<sup>2</sup>
+
+[<sup>2</sup> 17°bis " réseau fermé professionnel " : un réseau qui ne constitue pas une conduite directe et sur lequel un gestionnaire de réseau ou un gestionnaire de réseau de transport ne dispose ni d'un droit de propriété, ni d'un droit lui garantissant la jouissance au sens de l'article 3 et, qui distribue du gaz à l'intérieur d'un site industriel, commercial ou de partage de services géographiquement limité, qui peut accessoirement approvisionner un petit nombre de clients résidentiels employés par le propriétaire du réseau, ou associés à lui de façon similaire et situés dans la zone desservie par le réseau et dans lequel, soit :
+
+a) pour des raisons spécifiques ayant trait à la technique ou à la sécurité, les opérations ou le processus de production des utilisateurs du réseau sont intégrés ou étaient historiquement intégrés;
+
+b) le gaz est fourni essentiellement pour leur propre consommation au propriétaire ou au gestionnaire du réseau fermé professionnel ou aux entreprises qui leur sont liées;
+
+17°ter " gestionnaire de réseau fermé professionnel " : personne physique ou morale propriétaire d'un réseau fermé professionnel ou disposant d'un droit de jouissance sur le réseau;]<sup>2</sup>
+
+18° [<sup>2</sup> " conduite directe " : toute canalisation de gaz naturel ou compatible reliant un site de production isolé à un client isolé ou reliant un producteur de gaz ou une entreprise de stockage pour approvisionner directement ses propres établissements, filiales, sociétés liées et clients éligibles;]<sup>2</sup>
+
+19° " gestionnaire de réseau " : le ou les gestionnaires des réseaux de distribution désignés conformément aux dispositions du chapitre II;
+
+20° " utilisateur du réseau " : toute personne physique ou morale qui alimente le réseau ou est desservi par celui-ci [<sup>2</sup> ...]<sup>2</sup>;
+
+21° " gestionnaire de réseau privé " : personne physique ou morale propriétaire d'un réseau privé de gaz ou disposant sur ce réseau d'un droit lui assurant la jouissance de ce réseau;
+
+22° " accès " : droit d'utiliser un réseau de gaz, permettant au fournisseur de fournir, et à l'utilisateur du réseau de prélever ou d'injecter du gaz sur ce réseau;
+
+23° " raccordement " : ensemble des équipements nécessaires pour relier au réseau les installations de l'utilisateur du réseau, y compris généralement les installations de mesure, et les services y relatifs;
+
+24° [<sup>2</sup> " raccordement standard " : raccordement qui répond aux conditions suivantes :
+
+\- la distance entre le point d'accès de l'utilisateur de réseau et le point de raccordement est de maximum 8 mètres;
+
+\- la capacité de raccordement est inférieure ou égale à 10 m3(n) par heure;
+
+\- la pression de fourniture est comprise entre 21 et 25 mbar;
+
+\- la pression maximale de service admissible de la canalisation principale et du branchement est inférieure ou égale à 4,90 bar ";]<sup>2</sup>
+
+25° [<sup>2</sup> " raccordement simple " : raccordement qui répond aux conditions suivantes :
+
+\- la capacité de raccordement est inférieure ou égale à 16 m3(n) par heure;
+
+\- la pression de fourniture demandée est comprise entre 21 et 25 mbar;
+
+\- la pression maximale de service admissible de la canalisation principale et du branchement est inférieure ou égale à 4,90 bar;
+
+\- la longueur du branchement n'excède pas 25 mètres;
+
+\- le tracé du branchement ne rencontre aucun obstacle nécessitant une technique spéciale complexe autre que les techniques classiques de tranchée ou forage dirigé pour un diamètre limité;]<sup>2</sup>
+
+26° " raccordement non simple " : raccordement qui ne répond pas aux conditions du raccordement [<sup>2</sup> ...]<sup>2</sup> simple;
+
+27° " plan d'investissement " : plan établi en application de l'article 16, envisageant d'une part les projets de remplacement, de rationalisation ou de développement du réseau, et d'autre part les extensions du réseau, au-delà de sa structure existante;
+
+28° " règlement technique " : règlement contenant les prescriptions techniques et administratives visant à assurer le bon fonctionnement des réseaux et de leurs interconnexions, ainsi que l'accès à ceux-ci, établi en application de l'article 14;
+
+[<sup>2</sup> 28°bis " Message Implementation Guide, en abrégé " MIG " " : le manuel décrivant les règles, les procédures et le protocole de communication suivis pour l'échange, entre le gestionnaire de réseau et les fournisseurs, des informations techniques et commerciales relatives aux points d'accès;]<sup>2</sup>
+
+[<sup>8</sup> 28°ter " Message Implementation Guide Third Party Data Access ", en abrégé " MIG TPDA " : le manuel décrivant les règles, les procédures et le protocole de communication suivis pour l'échange de données de comptage non validées entre le gestionnaire de réseau de distribution et les parties tierces mandatées par l'utilisateur du réseau;]<sup>8</sup>
+
+29° " services auxiliaires " : services nécessaires à l'exploitation du réseau;
+
+30° " fournisseur " : toute personne physique ou morale qui vend du gaz à des clients finals;
+
+31° [<sup>2</sup> ...]<sup>2</sup>
+
+32° [<sup>2</sup> " fournisseur de substitution " : fournisseur désigné par le gestionnaire de réseau, chargé de la fourniture de gaz dans les cas suivants :
+
+a) aux clients devenus éligibles tant que ceux-ci n'ont pas choisi un fournisseur;
+
+b) aux clients finals en cas de défaillance du fournisseur avec lequel ces clients ont conclu un contrat de fourniture; ]<sup>2</sup>
+
+33° " intermédiaire " : toute personne physique ou morale qui achète du gaz en vue de la revente à un autre intermédiaire ou à un fournisseur;
+
+34° " client " : tout client final, fournisseur ou intermédiaire;
+
+35° " client final " : toute personne physique ou morale achetant du gaz pour son propre usage;
+
+36° " client résidentiel " : client final dont l'essentiel de la consommation de gaz est destiné à l'usage domestique;
+
+37° " client protégé " : client final repris dans une catégorie visée à l'article 31bis ;
+
+38° [<sup>2</sup> " client aval " : client final et/ou producteur raccordé au réseau de distribution ou au réseau de transport par le biais d'un réseau privé ou d'un réseau fermé professionnel;]<sup>2</sup>
+
+39° " éligibilité " : droit attaché à tout client final de pouvoir choisir son fournisseur;
+
+40° " Ministre " : le Ministre wallon qui a l'Energie dans ses attributions;
+
+41° " CREG " : Commission de régulation de l'électricité et du gaz constituée par l'article 23 de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et par l'article 15 de la loi du 29 avril 1999 relative à l'organisation du marché du gaz et du statut fiscal des producteurs d'électricité;
+
+42° " CWaPE " : Commission wallonne pour l'énergie visée au chapitre XI du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité;
+
+43° [<sup>7</sup> " Administration " : le Département de l'Energie et du Bâtiment durable du Service public de Wallonie Territoire, Logement, Patrimoine et Energie]<sup>7</sup>;
+
+44° [<sup>2</sup> " Directive 2009/73/CE " : Directive 2009/73/CE du Parlement européen et du Conseil du 13 juillet 2009 concernant des règles communes pour le marché intérieur du gaz naturel et abrogeant la Directive 2003/55/CE;]<sup>2</sup>
+
+45° " Directive 2006/32/CE " Directive 2006/32/CE du Parlement européen et du Conseil du 5 avril 2006 relative à l'efficacité énergétique dans les utilisations finales et aux services énergétiques et abrogeant la Directive 93/76/CEE du Conseil;
+
+[<sup>7</sup> 45° bis " directive 2019/944/UE " : directive 2019/944/UE du Parlement européen et du Conseil du 5 juin 2019 concernant des règles communes pour le marché intérieur de l'électricité et modifiant la directive 2012/27/UE; ]<sup>7</sup>
+
+[<sup>7</sup> 45° ter " Règlement 2016/679/UE du 27 avril 2016 " : le Règlement 2016/679/UE du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données (règlement général sur la protection des données); ]<sup>7</sup>
+
+46° " décret électricité " : le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité;
+
+47° " tarif social " : tarif spécifique applicable aux clients protégés et déterminé par l'autorité compétente;
+
+48° " [<sup>6</sup> " période hivernale " : la période s'étendant entre le 1er novembre et le 31 mars. Le Gouvernement peut moduler cette période en fonction des conditions climatiques;]<sup>6</sup>]<sup>1</sup>
+
+[<sup>2</sup> 49° " ACER " : l'Agence de coopération des régulateurs de l'énergie instituée par le Règlement européen n° 713/2009 du Parlement européen et du Conseil du 13 juillet 2009 instituant une Agence de coopération des régulateurs de l'énergie;
+
+50° " jour ouvrable " : tous les jours du calendrier à l'exception des samedis, dimanches et jours fériés;]<sup>2</sup>
+
+[<sup>3</sup> 51° " réseau de communications électroniques à haut débit " : un réseau de communications électroniques pouvant fournir des services d'accès au haut débit à une vitesse supérieure ou égale à 30 Mbit/s;
+
+52° " infrastructure physique " : tout élément d'un réseau quelconque qui peut accueillir un élément d'un réseau de communications électroniques à haut débit sans devenir lui-même un élément actif de ce réseau, tels que les conduites, pylônes, gaines, chambres de tirage et regards, trous de visite, boîtiers, immeubles ou accès à des immeubles, installations liées aux antennes, tours et poteaux; les câbles, y compris la fibre noire, ainsi que les éléments de réseaux utilisés pour la fourniture des eaux destinées à la consommation humaine, telles qu'elles sont définies à l'article 2, point 1, de la directive 98/83/CE ne sont pas des infrastructures physiques;
+
+53° " organe de règlement des litiges en matière d'infrastructures de réseaux " : l'organe de règlement des litiges institué par l'accord de coopération du 10 juillet 2017 dans le cadre de la transposition de la Directive 2014/61/UE;
+
+54° " point d'information unique " : le système KLIM - CICC dénommé Federaal Kabels en leidingen Informatie Meldpunt, Point de Contact fédéral Information Câbles et Conduites et tout autre point d'information électronique unique donnant lieu aux mêmes obligations et droits d'information, créé ou désigné par décret ou ordonnance.]<sup>3</sup>
+
+[<sup>4</sup> 55° " pouvoirs publics " : la Région wallonne, les communes, C.P.A.S. et provinces ainsi que les organismes d'intérêt public visés à l'article 3 du décret du 12 février 2004 relatif aux commissaires du Gouvernement et aux missions de contrôle des réviseurs au sein des organismes d'intérêt public, à l'exception de la CWaPE, pour autant que ces organismes d'intérêt public soient des personnes morales de droit public et qu'ils soient détenus de façon exclusive par des personnes morales de droit public;]<sup>4</sup>
+
+[<sup>4</sup> 56° " intercommunale pure de financement " : intercommunale à laquelle aucune personne physique ni morale autre que les communes et le cas échéant les provinces et la Région ne participe et dont l'objet principal est la gestion des participations des pouvoirs publics, notamment dans le secteur énergétique;]<sup>4</sup>
+
+[<sup>5</sup> 57° " commune enclavée " : la commune dont tout ou partie du réseau de distribution situé sur son territoire est géré par un autre gestionnaire que le gestionnaire de réseau de toutes les communes limitrophes.]<sup>5</sup>
+
+[<sup>6</sup> 58° " compteur [<sup>7</sup> communicant ]<sup>7</sup> : un système électronique qui peut mesurer l'énergie prélevée en ajoutant des informations qu'un compteur classique ne fournit pas, qui peut transmettre et recevoir des données sous forme de communication électronique et qui peut être actionné à distance;
+
+59° [<sup>7</sup> activation de la fonction de prépaiement " : soit l'action de rendre actif un compteur à budget inactif; soit l'action de placer un compteur communicant et d'activer le prépaiement sur ce dernier; soit l'action d'activer le prépaiement sur un compteur communicant déjà placé]<sup>7</sup>.]<sup>6</sup>
+
+[<sup>7</sup> [<sup>8</sup> 60° " donnée issue du compteur communicant " : toute donnée traitée à la suite du placement d'un compteur communicant ou de l'activation de la fonction communicante d'un compteur communicant chez un client final, et qui concerne soit des données techniques, de comptage ou d'identification;]<sup>8</sup>]<sup>7</sup>
+
+[<sup>7</sup> [<sup>8</sup> 61° " gestionnaire du réseau de transport de gaz naturel " : le gestionnaire tel que défini à l'article 1°, 31°, de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations.]<sup>8</sup>]<sup>7</sup>
+
+[<sup>7</sup> 62° " décret tarifaire " : le décret wallon du 19 janvier 2017 relatif à la méthodologie tarifaire applicable aux gestionnaires de réseaux de distribution de gaz et d'électricité;]<sup>7</sup>
+
+[<sup>7</sup> " opérateur économique " : toute personne, physique ou morale, ou tout groupement de ces personnes, intervenant dans la chaine de production et d'approvisionnement en gaz. Sont visés, les producteurs, les intermédiaires et fournisseurs de gaz ainsi que les clients finals;]<sup>7</sup>
+
+[<sup>7</sup> 64° " communauté d'énergie " : communauté d'énergie au sens de l'article 2, 2° septies, du décret électricité. ]<sup>7</sup>
+
+(NOTE : La période hivernale visée à l'article 2, 48° est prolongée jusqu'au 31 mars 2013 par ARW 2013-03-14/02, art. 1)
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 3, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 2, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2017-10-26/04, art. 6, 020; En vigueur : 20-11-2017&gt;
+
+(4)&lt;DRW 2018-05-11/02, art. 13, 021; En vigueur : 28-05-2018&gt;
+
+(5)&lt;DRW 2018-11-08/04, art. 4, 023; En vigueur : 30-11-2018&gt;
+
+(6)&lt;DRW 2022-10-06/15, art. 1, 029; En vigueur : 01-01-2023&gt;
+
+(7)&lt;DRW 2024-03-28/66, art. 4, 031; En vigueur : 11-08-2024&gt;
+
+(8)&lt;DRW 2024-04-25/61, art. 44, 033; En vigueur : 14-10-2024&gt;
+
+##### Art. 2bis
+
+[<sup>1</sup> Pour la période du 20 septembre 2020 au 1er septembre 2024, par dérogation à l'article 2, 37°, on entend par " client protégé " : le client final repris dans une catégorie visée aux articles 33 et 66/1 du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et pouvant bénéficier de mesures sociales relatives au secteur gazier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-09-22/03, art. 4, 030; En vigueur : 23-10-2022&gt;
+
+## CHAPITRE II. - Désignation des gestionnaires de réseaux.
+
+##### Art. 3
+
+Tout gestionnaire [<sup>1</sup> de distribution]<sup>1</sup> de gaz est propriétaire ou titulaire d'un droit lui garantissant la jouissance des infrastructures, [<sup>1</sup> et équipements du réseau]<sup>1</sup> pour lequel il postule la gestion.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 4, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 4
+
+[<sup>1</sup> La gestion d'un réseau de distribution de gaz est assurée par un gestionnaire de réseau désigné conformément aux dispositions suivantes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 5, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 5
+
+§ 1. [<sup>4</sup> Le gestionnaire d'un réseau de distribution est une personne morale de droit public qui peut prendre la forme d'une intercommunale]<sup>4</sup>.
+
+§ 2. Le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> a son siège social, son administration centrale et son siège d'exploitation en Région wallonne. Toutefois, il peut être dérogé à cette disposition pour autant que le gestionnaire en question ait exercé l'activité de distribution sur ledit réseau lors de l'entrée en vigueur du présent décret.
+
+[<sup>3</sup> § 3. Le gestionnaire de réseau ne peut gager, nantir, mettre en garantie ou engager de quelconque manière les actifs liés à l'activité de gestionnaire de réseau, en ce compris l'infrastructure du réseau, pour d'autres causes et activités que celle de gestionnaire de réseau.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2008-07-17/52, art. 6, 011; En vigueur : 07-08-2008&gt;
+
+(3)&lt;DRW 2015-05-21/05, art. 3, 018; En vigueur : 31-12-2014&gt;
+
+(4)&lt;DRW 2018-05-11/02, art. 14, 021; En vigueur : 28-05-2018&gt;
+
+##### Art. 6
+
+[<sup>1</sup> Le gestionnaire de réseau de distribution, ainsi que le candidat gestionnaire de réseau de distribution remplit les conditions suivantes :
+
+1° au minimum septante-cinq pour cent plus une des parts représentatives du capital du gestionnaire du réseau de distribution et au minimum septante-cinq plus un des droits de vote sont détenus par les pouvoirs publics;
+
+2° les parts détenues par les communes et les provinces le sont, soit directement, soit par l'intermédiaire direct d'une intercommunale pure de financement;
+
+3° à l'exception des pouvoirs publics, et le cas échéant, de leurs intercommunales pures de financement, un producteur, fournisseur ou intermédiaire ou toute autre société liée ou associée, ne peut détenir, directement ou indirectement, des parts représentatives du capital social du gestionnaire du réseau de distribution;
+
+4° le conseil d'administration est composé exclusivement d'administrateurs indépendants au sens du présent décret;
+
+5° si des parts représentatives du capital social du gestionnaire du réseau de distribution sont détenues divisément [<sup>2</sup> soit ]<sup>2</sup> par des pouvoirs publics détenant directement ou indirectement des participations [<sup>2</sup> au sens de l'article 1:22 du Code des sociétés et des associations "]<sup>2</sup> dans le capital social d'un producteur, fournisseur ou intermédiaire [<sup>2</sup> sauf s'il s'agit d'une participation dans une communauté d'énergie, soit par des pouvoirs publics qui sont eux-mêmes producteurs mais non auto-producteurs, fournisseurs ou intermédiaires ]<sup>2</sup>, les statuts du gestionnaire du réseau de distribution empêche que l'un de ces actionnaires puisse individuellement, directement ou indirectement, rejeter, bloquer ou imposer une décision ou faire obstacle à une prise de décision;
+
+6° les dispositions du Code de la démocratie locale et de la décentralisation relatives à la rémunération des administrateurs et titulaires d'une fonction dirigeante locale s'appliquent aux administrateurs et gestionnaires du gestionnaire de réseau de distribution ainsi qu'à sa ou ses filiales, quelle que soit leur forme juridique.
+
+Par rémunération visée au 6°, l'on entend tout montant fixe et variable perçu dans le cadre des activités accomplies au sein du gestionnaire de réseau de distribution et, le cas échéant, de sa filiale.
+
+Le Gouvernement peut fixer des conditions complémentaires relatives à la composition, à la gouvernance, ainsi qu'au processus décisionnel du gestionnaire de réseau de distribution]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2018-05-11/02, art. 15, 021; En vigueur : 28-05-2018&gt;
+
+(2)&lt;DRW 2024-03-28/66, art. 5, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 6bis
+
+[<sup>1</sup> Sans préjudice de l'article 6, toute personne n'entrant pas dans la catégorie des actionnaires visés à l'article 6, alinéa 1er, 1° et 2°, ne peut détenir directement ou indirectement des parts représentatives du capital social du gestionnaire du réseau de distribution que si les conditions suivantes sont réunies :
+
+1° les statuts du gestionnaire de réseau de distribution stipulent que toute décision exige la majorité des voix exprimées par les délégués des personnes visées à l'article 6, alinéa 1er, 1° et 2°;
+
+2° ces statuts ne contiennent aucune disposition permettant aux actionnaires visés au présent article, individuellement ou collectivement, de rejeter, bloquer ou imposer une décision ou de faire obstacle à une prise de décision;
+
+3° nonobstant l'article 1523-12, § 2, du Code de la démocratie locale et de la décentralisation, les statuts du gestionnaire du réseau de distribution stipulent que toute modification statutaire, à l'exception de dispositions relatives à la protection légitime des associés minoritaires, exige la majorité simple des voix exprimées par les délégués présents à l'assemblée générale et la majorité des deux tiers des voix exprimées par les délégués des personnes visées à l'article 6, alinéa 1er, 1° et 2°;
+
+4° les statuts du gestionnaire du réseau de distribution prévoient que, toute personne n'entrant pas dans la catégorie des actionnaires visés à l'article 6, alinéa 1er, 1° et 2°, ne peut acquérir ou vendre de parts représentatives du capital social du gestionnaire du réseau de distribution qu'avec l'autorisation du Gouvernement, donnée après avis de la CWaPE]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2018-05-11/02, art. 16, 021; En vigueur : 28-05-2018&gt;
+
+##### Art. 6ter
+
+&lt;Abrogé par DRW 2018-05-11/02, art. 17, 021; En vigueur : 28-05-2018&gt;
+
+##### Art. 7
+
+[<sup>1</sup> § 1er. Le gestionnaire du réseau de distribution [<sup>4</sup> assure la mission de service public liée à]<sup>4</sup> la gestion de l'exploitation, la sécurité, l'entretien et le développement du réseau de distribution dans les conditions fixées à l'article 12.
+
+Le gestionnaire du réseau de distribution peut réaliser des activités de production de gaz issu de sources d'énergie renouvelable. Le gaz ainsi produit est exclusivement utilisé pour couvrir ses besoins, en ce compris la fourniture aux clients finals dans les cas prévus par le présent décret.
+
+[<sup>3</sup> Le gestionnaire du réseau de distribution peut réaliser des activités de gestion d'une ramification locale de CO2.]<sup>3</sup>
+
+Il peut uniquement réaliser, directement ou par le biais de ses filiales, les activités relevant de sa mission de service public telles que définies par ou en vertu du décret. Le gestionnaire de réseau de distribution ne détient pas directement ou indirectement des participations dans le capital de producteurs, fournisseurs et intermédiaires[<sup>2</sup> et communauté d'énergie et ne peut pas être membre de ces dernières]<sup>2</sup> .
+
+[<sup>2</sup> " § 1er/1. Par dérogation au paragraphe 1er, le gestionnaire de réseau de distribution peut exercer les activités d'opérateur de réseau d'énergie thermique, de production ou de fourniture d'énergie thermique aux conditions et selon les modalités suivantes :
+
+1° le gestionnaire de réseau de distribution crée une filiale spécifiquement dédiée à l'exercice de cette activité. La condition mentionnée à l'article 17, § 2, 5°, ne s'applique pas à cette filiale;
+
+2° au moins 20% des administrateurs de la filiale sont des administrateurs indépendants au sens de l'article 7:87, § 1er, du Code des sociétés et des associations;
+
+3° pour chaque projet de réseau d'énergie thermique, de production ou de fourniture d'énergie thermique, la filiale visée au 1°, crée une société au sens du Titre 1er du Code des sociétés et des associations. La société ainsi créée peut déroger aux dispositions de l'article 17 du présent décret;
+
+4° si un projet comprend l'exercice d'activités de production ou de fourniture d'énergie thermique, au moins 25% des parts du capital social de la société visée au 3° doivent être détenus par une entité privée ou publique autre que la filiale et ne détenant pas directement ou indirectement de participations dans le capital d'un gestionnaire de réseau de distribution.
+
+Afin de remplir cette obligation, la filiale organise une procédure d'appel à candidatures ouverte, transparente et non discriminatoire. Si à l'issue de celle-ci, aucune offre raisonnable n'a été reçue, la filiale peut déroger à ladite obligation;
+
+5° la filiale visée au 1°, peut réaliser les activités d'opérateur d'un réseau d'énergie thermique, de production ou de fourniture d'énergie thermique et créer une société au sens du 3° à condition que ces activités aient fait l'objet d'une procédure de mise en concurrence ouverte, transparente et non discriminatoire.
+
+Les gestionnaires de réseau de distribution peuvent exercer les activités de production et fourniture d'énergie thermique jusqu'au 1er juillet 2034. Le Gouvernement peut, sur base d'une analyse de maturité du marché établie par l'administration, prolonger cette échéance de 10 ans.
+
+Dans le cadre de son activité d'opérateur de réseaux d'énergie thermique, de production ou de fourniture d'énergie thermique, le gestionnaire de réseau de distribution est soumis aux droits et obligations visés dans le décret du 15 octobre 2020 relatif à l'organisation du marché de l'énergie thermique et aux réseaux d'énergie thermique.
+
+Dans le cadre de l'exercice des activités d'opérateur de réseau d'énergie thermique, de production ou de fourniture d'énergie thermique, le gestionnaire de réseaux de distribution respecte les obligations visées au paragraphe 4 relatives à la tenue d'une comptabilité séparée afin d'éviter toute subsidiation croisée entre activités régulées et non régulées conformément à l'article 4, § 2, alinéa 2, 18°, du décret tarifaire.
+
+Dans le cadre de l'exercice de sa mission de contrôle, la CWaPE peut requérir du gestionnaire de réseau de distribution concerné ainsi que de l'Administration de lui fournir tout document ou information relatifs à l'activité du gestionnaire de réseau de distribution en tant qu'opérateur de réseau d'énergie thermique en ce compris l'ensemble de ses comptes. ]<sup>2</sup>
+
+§ 2. Le gestionnaire du réseau de distribution ne réalise pas d'activité commerciale liée à l'énergie.
+
+Les activités commerciales visées à l'alinéa 1er sont notamment la production d'énergie et la fourniture d'énergie aux clients finals hors cas prévus par le décret, les audits d'énergie, les services d'efficacité énergétique, ainsi que toute autre activité ne relevant pas directement de la mission de service public du gestionnaire de réseau.
+
+Par dérogation à l'alinéa 1er, la CWaPE peut autoriser un gestionnaire du réseau de distribution à réaliser, seul ou en partenariat, notamment avec des producteurs, fournisseurs ou intermédiaires, des activités commerciales liées à l'énergie aux conditions cumulatives suivantes :
+
+1° à la suite d'une procédure de marché public ouverte, transparente et non discriminatoire, organisée par le gestionnaire de réseau de distribution, [<sup>2</sup> conformément aux lignes directrices établies, le cas échéant, par la CWaPE pour aider les gestionnaires de réseau de distribution à garantir l'équité des procédures de marché public, ]<sup>2</sup> aucun acteur du marché n'a démontré sa capacité à détenir, développer, gérer ou exploiter pareille activité par la remise d'une offre contenant un prix inférieur au coût que supporterait le gestionnaire de réseau de distribution en exerçant lui-même cette activité et par la démonstration de sa capacité à garantir une qualité de service au moins équivalente;
+
+2° l'activité visée à l'alinéa premier est techniquement et commercialement complémentaire aux tâches du gestionnaire de réseau de distribution et [<sup>2</sup> nécessaire ]<sup>2</sup> pour qu'il puisse remplir ses missions de service public;
+
+3° après avoir contrôlé la conformité de la procédure de marché public, la CWaPE évalue la nécessité d'une telle dérogation en tenant compte des conditions visées aux 1° et 2° et approuve son exercice par le gestionnaire de réseau de distribution.
+
+Concernant le 3°, dans son autorisation, la CWaPE, précise la ou les activités ainsi autorisées, en prenant soin de détailler leurs modalités d'exercice et notamment, leur durée maximale qui ne dépasse pas cinq ans, la zone géographique concernée s'il y a lieu, ainsi que les conditions de reconduction de l'autorisation et de retrait progressif du gestionnaire de réseau de distribution desdites activités.
+
+La CWaPE peut reconduire l'autorisation pour une durée inférieure ou équivalente à cinq ans si les conditions visées aux 1°, 2° et 3° sont remplies.
+
+L'activité autorisée en vertu du présent paragraphe doit être exercée de manière transparente et non-discriminatoire.
+
+§ 3. Toute aliénation de l'infrastructure et de l'équipement faisant partie du réseau de distribution, faite par le gestionnaire du réseau de distribution, est soumise à l'accord du Gouvernement après avis de la CWaPE.
+
+§ 4. Le gestionnaire de réseau tient, dans sa comptabilité interne, des comptes séparés pour ses activités de distribution et, le cas échéant, pour toutes les autres activités, en ce compris pour les activités obligatoires autorisées conformément au paragraphe 2, de la même façon que si ces activités étaient exercées par des entreprises juridiquement distinctes.
+
+Les comptes annuels reprennent, dans leur annexe, un bilan et un compte de résultats pour chaque catégorie d'activités, ainsi que les règles d'imputation des postes d'actif et de passif et des produits et charges qui ont été appliquées pour établir les comptes séparés.
+
+Les revenus de la propriété du réseau de distribution sont mentionnés dans la comptabilité.
+
+Le Gouvernement peut préciser les règles relatives à la transparence de la comptabilité applicables au gestionnaire de réseau ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2018-05-11/02, art. 18, 021; En vigueur : 28-05-2018&gt;
+
+(2)&lt;DRW 2024-03-28/66, art. 6, 031; En vigueur : 11-08-2024&gt;
+
+(3)&lt;DRW 2024-03-28/62, art. 35, 032; En vigueur : 22-07-2024&gt;
+
+(4)&lt;DRW 2025-12-19/70, art. 32, 034; En vigueur : 09-01-2026&gt;
+
+##### Art. 8
+
+[<sup>1</sup> Le gestionnaire de réseau désigne au moins un fournisseur de substitution.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-05-21/05, art. 7, 018; En vigueur : 12-06-2015&gt;
+
+##### Art. 9
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 11, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 10
+
+§ 1. [<sup>2</sup> [<sup>7</sup> Le Gouvernement désigne, après avis de la CWaPE et sur proposition de la ou des communes sur le territoire desquelles se situe le réseau, le gestionnaire du réseau de distribution.]<sup>7</sup>]<sup>2</sup>
+
+[<sup>7</sup> La désignation est faite dans le respect des conditions suivantes :
+
+1° la commune propose un gestionnaire de réseau de distribution, après appel public à candidats, sur la base d'une procédure transparente et non discriminatoire et sur la base de critères préalablement définis et publiés;
+
+2° le gestionnaire de réseau proposé répond aux conditions de désignation visées au présent décret et dispose de la capacité technique et financière requise;
+
+3° la commune ne peut pas être enclavée, sauf si le gestionnaire de réseau de distribution est spécifique à la commune. La condition de non enclavement ne s'applique pas aux communes enclavées au moment de l'entrée en vigueur du décret du 8 novembre 2018 modifiant le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et le décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz;
+
+4° la commune ne peut pas proposer plusieurs gestionnaires de réseaux de distribution sur son territoire pour la gestion du réseau de distribution de gaz.
+
+Si le gestionnaire de réseau désigné n'est, au moment de la désignation, pas propriétaire du réseau ou ne dispose pas d'un droit d'usage sur ce réseau, la désignation est faite sous condition suspensive de l'acquisition, par le gestionnaire de réseau, de ce droit de propriété ou d'usage.]<sup>7</sup>
+
+[<sup>5</sup> ...]<sup>5</sup>
+
+[<sup>2</sup> Le Gouvernement arrête la procédure de désignation et de renouvellement du ou des gestionnaires de réseaux.]<sup>2</sup>
+
+[<sup>6</sup> Le gestionnaire de réseau ne peut transférer à sa filiale la propriété de l'infrastructure ou de l'équipement du réseau.]<sup>6</sup>
+
+§ 2. [<sup>3</sup> Le gestionnaire de réseau est désigné pour un terme renouvelable de vingt ans maximum.
+
+[<sup>6</sup> ...]<sup>6</sup>
+
+Son mandat prend fin en cas de dissolution. [<sup>7</sup> ...]<sup>7</sup>.]<sup>3</sup>
+
+[<sup>7</sup> La procédure et les conditions visées au paragraphe 1er s'appliquent :
+
+1° lorsque la désignation d'un gestionnaire de réseau de distribution atteint le terme initialement fixé;
+
+2° lorsqu'il est procédé à un changement de gestionnaire de réseau de distribution avant le terme de la désignation, quelle que soit la circonstance ou l'opération juridique à l'origine de ce changement.
+
+Pour les cas prévus à l'alinéa 3, 2°, la nouvelle désignation est valable jusqu'au terme initialement prévu pour la désignation du gestionnaire de réseau de distribution précédent. Le Gouvernement peut décider de fixer un terme différent.]<sup>7</sup>
+
+[<sup>6</sup> § 3. ]<sup>6</sup> Le Gouvernement peut, après avis de la [<sup>1</sup> CWaPE]<sup>1</sup>, révoquer le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> pour cause de manquement grave à ces obligations en vertu du présent décret ou de ses arrêtés d'exécution. Le Gouvernement arrête la procédure de [<sup>7</sup> ...]<sup>7</sup> révocation. [<sup>6</sup> Est considéré comme manquement grave, le non-respect des dispositions relatives à l'actionnariat, aux organes de gestion ou aux missions des gestionnaires de réseau de distribution, et le cas échéant de leur filiale, ainsi que le manquement répété aux obligations imposées par et en vertu du présent décret. Le manquement grave est constaté après expiration du délai fixé par la CWaPE pour permettre au gestionnaire de réseau de distribution ou à sa filiale de se mettre en conformité. ]<sup>6</sup>
+
+§ 3. [<sup>4</sup>...]<sup>4</sup>
+
+[<sup>7</sup> § 4. Le Gouvernement peut préciser les conditions et la procédure de désignation, que celle-ci intervienne à terme ou avant le terme de la désignation initiale.]<sup>7</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2008-07-17/52, art. 12 et 13, 011; En vigueur : 07-08-2008&gt;
+
+(3)&lt;DRW 2008-07-17/52, art. 13, 011; En vigueur : 07-08-2008&gt;
+
+(4)&lt;DRW 2008-07-17/52, art. 14, 011; En vigueur : 07-08-2008&gt;
+
+(5)&lt;DRW 2015-05-21/05, art. 8, 018; En vigueur : 31-12-2014&gt;
+
+(6)&lt;DRW 2018-05-11/02, art. 19, 021; En vigueur : 28-05-2018&gt;
+
+(7)&lt;DRW 2018-11-08/04, art. 5, 023; En vigueur : 30-11-2018&gt;
+
+##### Art. 10bis
+
+[<sup>1</sup> § 1er. Dans l'hypothèse où [<sup>2</sup> la commune est soit enclavée, soit desservie par deux gestionnaires de réseaux de distribution, soit propose un autre gestionnaire de réseau de distribution que celui dont le mandat est en cours ou arrive à terme, le Gouvernement]<sup>2</sup> peut autoriser la commune à procéder à ses frais à l'expropriation pour cause d'utilité publique du réseau de distribution situé sur son territoire [<sup>2</sup> lorsque cette expropriation est nécessaire]<sup>2</sup> à la réalisation de la mission du gestionnaire de réseau proposé par celle-ci. A la demande de la commune, l'autorisation du Gouvernement peut viser des portions du réseau dont la commune est déjà propriétaire mais sur lesquelles elle a octroyé un droit réel ou personnel.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>3</sup> ...]<sup>3</sup>. L'indemnité d'expropriation est fixée sur la base de la valeur du réseau telle qu'approuvée par l'autorité de régulation compétente.
+
+Le plan du réseau de distribution à déposer en annexe à la requête d'expropriation est composé de l'inventaire des éléments constitutifs du réseau servant de base pour l'évaluation du réseau par l'autorité de régulation compétente, ainsi que, s'agissant des biens repris au cadastre, des documents cadastraux correspondants.
+
+Dans les trente jours de la réception de la demande, le gestionnaire de réseau est tenu de transmettre le plan du réseau à la commune qui en fait la demande dans le cadre ou en vue d'une procédure d'expropriation.
+
+§ 2. Si le gestionnaire de réseau de distribution dont une partie du réseau fait l'objet de l'expropriation est une intercommunale, la commune qui a procédé à l'expropriation est tenue de notifier à cette intercommunale qu'elle s'en retire. Dans cette hypothèse, nonobstant toute disposition statutaire, aucun vote n'est requis. La commune est tenue de réparer le dommage évalué à dire d'experts que son retrait cause à l'intercommunale et aux autres associés.
+
+Par dérogation à l'article L1523-22 du Code de la démocratie locale et de la décentralisation, si l'expropriation du réseau intervient, la reprise du réseau par la commune a lieu immédiatement après le versement de l'indemnité provisionnelle, sans attendre que tous les montants dus à l'intercommunale aient été effectivement payés à cette dernière. Toutefois, l'apport du réseau au gestionnaire de réseau désigné sous condition suspensive ne pourra intervenir qu'après le transfert, à ce gestionnaire de réseau, du personnel directement affecté à la distribution sur le territoire de la commune, l'activité continuant entre-temps à être exercée par l'ancien gestionnaire de réseau.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 14, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2018-11-08/04, art. 6, 023; En vigueur : 30-11-2018&gt;
+
+(3)&lt;DRW 2018-11-22/12, art. 78, 025; En vigueur : 01-07-2019&gt;
+
+##### Art. 11
+
+[<sup>1</sup> § 1er. Par dérogation aux articles 5 à 10, le Gouvernement peut autoriser une entreprise de gaz dont le gaz n'est pas compatible, à établir et gérer un réseau de distribution spécifique. Dans cette hypothèse, les différentes activités sont mentionnées dans les statuts du gestionnaire du réseau de distribution spécifique comme secteurs d'activité distincts.
+
+Sur proposition de la CWaPE, le Gouvernement fixe les critères et la procédure d'octroi des autorisations visées au paragraphe 1er.
+
+§ 2. La CWaPE établit, en concertation avec le gestionnaire du réseau de distribution spécifique un règlement technique spécifique pour la gestion et la sécurité de celui-ci.
+
+§ 3. Les gestionnaires de réseaux de distribution spécifiques ne sont pas considérés comme gestionnaires de réseaux au sens des articles 3 à 10.
+
+Après avis de la CWaPE, le Gouvernement détermine les dispositions des chapitres III à VII qui leur sont applicables.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 15, 011; En vigueur : 07-08-2008&gt;
+
+## CHAPITRE III. - Gestion des réseaux de distribution.
+
+##### Art. 12
+
+§ 1. La gestion des réseaux de distribution est assurée par le ou les gestionnaires désignés [<sup>2</sup> en exécution du Chapitre II]<sup>2</sup>.
+
+[<sup>2</sup> Le gestionnaire de réseau assure l'exercice des [<sup>5</sup> activités]<sup>5</sup> définies au présent décret de manière indépendante, transparente et non discriminatoire vis-à-vis de tout producteur, fournisseur, intermédiaire et client final.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Le gestionnaire de réseau est tenu de garantir l'exploitation, l'entretien et le développement du réseau pour lequel il a été désigné, dans des conditions socialement, techniquement et économiquement raisonnables, y compris les interconnexions avec d'autres réseaux gaziers, en vue d'assurer la sécurité et la continuité d'approvisionnement dans le respect de l'environnement et de l'efficacité énergétique. Le Gouvernement précise la notion de conditions socialement, techniquement et économiquement raisonnables.]<sup>2</sup>
+
+A cet effet, [<sup>2</sup> ...]<sup>2</sup> le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> est [<sup>3</sup> ...]<sup>3</sup> chargé des [<sup>5</sup> activités]<sup>5</sup> suivantes :
+
+1° l'amélioration, le renouvellement et l'extension du réseau, notamment dans le cadre du plan d'adaptation, en vue de garantir une capacité adéquate pour rencontrer les besoins;
+
+[<sup>2</sup> 1°bis le développement de capacités d'observation, de contrôle et de prévision des flux de gaz en vue d'assurer la gestion opérationnelle du réseau;]<sup>2</sup>
+
+2° la gestion des prélèvements et injections sur le réseau;
+
+3° assurer la sécurité, la fiabilité et l'efficacité du réseau et veiller à la disponibilité des services auxiliaires indispensables en vue, notamment, d'assurer une sécurité technique optimale visant l'élimination des fuites de gaz et des explosions;
+
+4° [<sup>2</sup> le comptage des flux de gaz aux points d'interconnexion avec d'autres réseaux et aux points d'accès des utilisateurs du réseau, de même que la pose et l'entretien des compteurs;]<sup>2</sup>
+
+5° [<sup>2</sup> la réalisation des obligations de service public qui lui sont imposées par ou en vertu du présent décret;]<sup>2</sup>
+
+[<sup>2</sup> 6° la constitution, la conservation et l'actualisation des plans du réseau, de même que l'inventaire des éléments constitutifs du réseau;]<sup>2</sup>
+
+[<sup>2</sup> 7° permettre l'injection sur le réseau du gaz issu de renouvelables compatible et donner la priorité à l'injection de ces installations;
+
+8° rechercher les fraudes aux installations gazières, remplacer ou supprimer les installations détériorées suite aux fraudes et récupérer directement auprès du client final et/ou des bénéficiaires de l'énergie dont le paiement a été éludé les coûts relatifs à l'énergie ainsi que les frais techniques et administratifs liés à la gestion de la fraude ou de la détérioration des installations, leur remplacement ou leur suppression et ce dans l'intérêt de la collectivité.]<sup>2</sup>
+
+[<sup>3</sup> 9° assurer un rôle de facilitateur de marché, notamment en vue de mettre en oeuvre la transition énergétique ]<sup>3</sup>
+
+[<sup>3</sup> Concernant le 9°, après avis de la CWaPE et concertation des gestionnaires de réseaux de distribution, le Gouvernement [<sup>4</sup> peut définir]<sup>4</sup> la description de ce rôle de facilitateur de marché et les modalités pratiques de son exercice.]<sup>3</sup>
+
+[<sup>3</sup> Après avis de la CWaPE, le Gouvernement peut définir des tâches complémentaires afin de permettre au gestionnaire de réseau de distribution d'assurer la gestion du réseau conformément au paragraphe 1er, alinéa 1er.]<sup>3</sup>
+
+[<sup>2</sup> Le cas échéant, le Règlement technique explicite les modalités techniques des tâches énumérées ci-avant, sans préjudice pour le Gouvernement d'arrêter les mesures d'exécution qu'il juge nécessaires.]<sup>2</sup>
+
+[<sup>5</sup> § 3. Dans leurs activités qui relèvent de leur mission de service public telle que définie par ou en vertu du décret, les gestionnaires de réseau de distribution coopèrent entre eux dans le but d'assurer une utilisation efficiente de leurs revenus autorisés, en réalisant des investissements communs et en favorisant les synergies, afin d'assurer l'interopérabilité de leurs équipements et de rechercher des économies d'échelles.
+
+La CWaPE contrôle la mise en oeuvre de cette coopération.
+
+Le Gouvernement peut préciser les modalités d'application de cette coopération.]<sup>5</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 9, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2018-05-11/02, art. 20, 021; En vigueur : 28-05-2018&gt;
+
+(4)&lt;DRW 2024-03-28/66, art. 7, 031; En vigueur : 11-08-2024&gt;
+
+(5)&lt;DRW 2025-12-19/70, art. 33, 034; En vigueur : 09-01-2026&gt;
+
+##### Art. 12bis
+
+[<sup>1</sup> Art. 12bis. § 1er. Le Gouvernement arrête les mesures de sécurité qui sont prises par les gestionnaires de réseaux de distribution à l'établissement et dans l'exploitation de leur réseau.
+
+§ 2. Le Gouvernement arrête les mesures, la procédure et les modalités visant à rechercher, constater et sanctionner le non-respect par les gestionnaires de réseaux de distribution des obligations arrêtées en vertu du § 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/66, art. 8, 031; En vigueur : indéterminée &gt;
+
+##### Art. 13
+
+§ 1. Après avis de la [<sup>1</sup> CWaPE]<sup>1</sup>, le Gouvernement définit les mesures suivantes en vue d'assurer l'indépendance et l'impartialité de la gestion du réseau :
+
+1° les règles relatives à la composition et au fonctionnement des organes de gestion du [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> visant à éviter que des producteurs, des [<sup>2</sup> fournisseurs]<sup>2</sup> et intermédiaires [<sup>2</sup> ne puissent contrevenir à l'indépendance du gestionnaire de réseau]<sup>2</sup>;
+
+2° les exigences en matière d'indépendance du personnel, visé à l'article 17, du [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> à l'égard des producteurs, fournisseurs aux clients éligibles et intermédiaires, notamment du point de vue financier;
+
+3° les précautions à prendre par le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> en vue de préserver la confidentialité des informations personnelles et commerciales dont le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> a connaissance dans l'exécution de ses tâches;
+
+4° des mesures visant à éviter toute discrimination entre des utilisateurs ou catégories d'utilisateurs du réseau et, en particulier, toute discrimination en faveur des associés du [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> ainsi que des entreprises liées à ces associés ou au gestionnaire de ce réseau.
+
+[<sup>3</sup> § 1erbis. Le gestionnaire de réseau préserve la confidentialité des informations commercialement sensibles dont il a connaissance au cours de l'exécution de ses activités et empêche que des informations sur ses activités, qui peuvent être commercialement avantageuses, soient divulguées de manière discriminatoire.
+
+Le gestionnaire de réseau s'abstient de transférer les informations susvisées à des entreprises actives, directement ou indirectement, dans la production et/ou la fourniture de gaz.
+
+Il s'abstient également de transférer son personnel à de telles entreprises.
+
+Le gestionnaire de réseau, [<sup>4</sup> ...]<sup>4</sup> n'exploite pas de façon abusive les informations commercialement sensibles qu'il a obtenues de tiers lors de leur accès au réseau ou de la négociation de leur accès au réseau.
+
+Les informations nécessaires à une concurrence effective et au bon fonctionnement du marché sont rendues publiques. Cette obligation ne porte pas atteinte à la protection de la confidentialité des informations commercialement sensibles.
+
+[<sup>4</sup> Le gestionnaire de réseau transmet à la CWaPE toute information commerciale éventuellement sensible dont il a connaissance au cours de l'exécution de ses activités et qui sont utiles à l'exécution, par la CWaPE, des missions qui lui sont confiées par ou en vertu du présent décret. ]<sup>4</sup>
+
+Le Gouvernement peut préciser les règles relatives à la confidentialité applicables au gestionnaire de réseau.]<sup>3</sup>
+
+§ 2. [<sup>2</sup> Au sein du conseil d'administration, seuls les administrateurs indépendants du gestionnaire de réseau peuvent avoir accès aux données confidentielles.
+
+Sont considérées comme confidentielles notamment les données suivantes :
+
+1° les informations par point de fourniture;
+
+2° les données individualisées du contrat d'accès;
+
+3° les données individualisées du contrat de raccordement;
+
+4° les demandes de raccordement ou de modification de capacité de raccordement;
+
+5° toutes les données communiquées par un utilisateur de réseau dans le cadre d'une étude d'orientation ou de détail ou de raccordement, sauf si elles ont été rendues publiques par l'utilisateur lui-même;
+
+6° les prescriptions de sécurité et procédures d'accès en vigueur chez l'utilisateur de réseau;
+
+7° les données de planification telles que visées au règlement technique transmises par l'utilisateur de réseau ou le fournisseur,
+
+8° le schéma de l'installation intérieure de l'utilisateur de réseau;
+
+9° les demandes de raccordement d'installations de production.
+
+Après avis de la CWaPE, le Gouvernement peut définir d'autres données confidentielles.
+
+Sans préjudice des incompatibilités applicables aux administrateurs du gestionnaire de réseau, il est interdit à tout administrateur d'être présent à la délibération d'un organe du gestionnaire de réseau sur des objets auxquels l'associé qui l'a présenté a un intérêt direct ou indirect.]<sup>2</sup>
+
+[<sup>2</sup> § 3. Si le gestionnaire de réseau a confié [<sup>5</sup> une ou plusieurs activités qui relèvent de sa mission de service public telles que visées par ou en vertu du décret]<sup>5</sup> à une filiale, conformément à l'article 17, § 2, les mesures définies parle Gouvernement en application du § 1er, 2°, 3° et 4° sont applicables à ladite filiale et à son personnel. Toutefois, les mesures visant à préserver la confidentialité des informations ne s'appliquent pas dans les relations entre la filiale et le ou les gestionnaire(s) de réseau(x) associé(s).
+
+Les dispositions du paragraphe 2 sont également applicables aux administrateurs de la filiale visée à l'article 17, § 2.
+
+Le Gouvernement peut énoncer des incompatibilités applicables aux administrateurs de cette filiale.
+
+§ 4. Le présent article ne s'applique pas au gestionnaire d'un réseau de distribution spécifique.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2008-07-17/52, art. 17, 011; En vigueur : 07-08-2008&gt;
+
+(3)&lt;DRW 2015-05-21/05, art. 10, 018; En vigueur : 12-06-2015&gt;
+
+(4)&lt;DRW 2024-03-28/66, art. 9, 031; En vigueur : 11-08-2024&gt;
+
+(5)&lt;DRW 2025-12-19/70, art. 34, 034; En vigueur : 09-01-2026&gt;
+
+##### Art. 14
+
+En concertation avec les gestionnaires de réseaux [<sup>6</sup> et après consultation du [<sup>7</sup> pôle "Energie"]<sup>7</sup>]<sup>6</sup>, la [<sup>1</sup> CWaPE]<sup>1</sup> [<sup>4</sup> arrête]<sup>4</sup> un règlement technique unique pour la gestion et l'accès aux réseaux de distribution. Le règlement technique est [<sup>9</sup> ...]<sup>9</sup> publié au Moniteur belge. Il définit notamment :
+
+1° [<sup>4</sup> les exigences techniques minimales pour le raccordement au réseau des installations des utilisateurs de ce réseau, ainsi que les délais de raccordement [<sup>6</sup> et les spécifications et modalités d'exécution du raccordement standard dont question à l'article 32]<sup>6</sup>;]<sup>4</sup>
+
+2° les exigences techniques minimales pour l'établissement des infrastructures du réseau [<sup>4</sup> ...]<sup>4</sup>;
+
+[<sup>4</sup> 2°bis les exigences techniques minimales pour l'établissement des conduites directes;]<sup>4</sup>
+
+3° la procédure et les règles complémentaires concernant la demande d'accès au réseau [<sup>4</sup> ...]<sup>4</sup>, en ce compris les délais dans lesquels le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> doit répondre aux demandes d'accès au réseau;
+
+4° les règles opérationnelles auxquelles le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> est soumis dans sa gestion technique des injections et prélèvements et dans les actions qu'il doit entreprendre en vue de remédier aux problèmes pouvant compromettre la sécurité et la continuité d'approvisionnement ainsi que des mesures à prendre en vue d'assurer une sécurité technique optimale visant l'élimination des fuites de gaz et des explosions;
+
+5° les services auxiliaires que le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> doit mettre en place;
+
+6° les informations et données à fournir par les utilisateurs du réseau au gestionnaire de ce réseau;
+
+7° [<sup>4</sup> les modalités de collaboration avec les gestionnaires de réseaux interconnectés, le contenu minimal des conventions de collaboration, ainsi que les informations à fournir par le gestionnaire de réseau à ces gestionnaires, en vue d'assurer une exploitation sûre et efficace,un développement coordonné et l'interopérabilité des réseaux interconnectés;]<sup>4</sup>
+
+8° la priorité à donner au [<sup>1</sup> gaz issu de SER]<sup>1</sup>, ainsi qu'au gaz fatal pour autant qu'ils soient compatibles avec le gaz du réseau [<sup>6</sup> et les modalités de collaboration du gestionnaire de réseau et du producteur]<sup>6</sup>;
+
+[<sup>4</sup> 9° les modalités et conditions de mise à disposition d'installations de l'utilisateur du réseau au profit du gestionnaire de réseau afin de rencontrer les besoins de gestion du réseau;]<sup>4</sup>
+
+[<sup>5</sup> 10° les informations à fournir par le gestionnaire de réseau de distribution aux fournisseurs, notamment en matière de comptage; le règlement technique définit les objectifs de performances que le gestionnaire de réseau doit respecter à cet égard;
+
+11° [<sup>6</sup> ...]<sup>6</sup>
+
+12° les modalités d'intervention du fournisseur de substitution;
+
+13° le contenu minimal du plan d'investissement ainsi que la procédure d'adoption de ce plan;
+
+14° les mesures en matière informatique indispensables à mettre en place par les gestionnaires de réseaux, de manière collective ou individuelle, afin d'assurer le bon fonctionnement du réseau;]<sup>5</sup>
+
+[<sup>6</sup> 15° les cas dans lesquels la suspension de l'accès, la mise hors service ou la suppression d'un raccordement, l'imposition d'adaptations aux installations de l'utilisateur du réseau voire la suppression de celles-ci par le gestionnaire de réseau sont autorisées et les modalités y afférentes;]<sup>6</sup>
+
+[<sup>8</sup> 16° les prescriptions techniques et administratives applicables aux réseaux fermés professionnels de gaz.]<sup>8</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(4)&lt;DRW 2008-07-17/52, art. 18, 011; En vigueur : 07-08-2008&gt;
+
+(5)&lt;DRW 2008-07-17/52, art. 19, 011; En vigueur : 07-08-2008&gt;
+
+(6)&lt;DRW 2015-05-21/05, art. 11, 018; En vigueur : 12-06-2015&gt;
+
+(7)&lt;DRW 2017-02-16/37, art. 63, 019; En vigueur : 04-07-2017&gt;
+
+(8)&lt;DRW 2018-07-17/04, art. 150, 022; En vigueur : 18-10-2018&gt;
+
+(9)&lt;DRW 2024-03-28/66, art. 10, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 14bis
+
+[<sup>1</sup> Le MIG applicable en Région wallonne est élaboré par les gestionnaires de réseaux après concertation des fournisseurs au sein d'une plateforme de collaboration où sont représentés l'ensemble des fournisseurs, des gestionnaires de réseaux fermés professionnels et gestionnaires de réseaux actifs en Région wallonne. La CWaPE dispose d'un droit de veto contre les décisions prise au sein de la plateforme. Le droit de veto est applicable en cas de décision contraire au décret, à ses arrêtés d'exécution ou à l'intérêt général. Le Gouvernement définit la procédure et les modalités d'exercice du droit de veto et de recours contre celui-ci, en concertation avec la CWaPE et la Plateforme.]<sup>1</sup>
+
+[<sup>2</sup> La CWaPE et les gestionnaires de réseaux publient un lien vers le site internet sur lequel est publié le MIG. Les dispositions du MIG respectent les dispositions du présent décret et de ses arrêtés d'exécution. ]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-05-21/05, art. 12, 018; En vigueur : 12-06-2015&gt;
+
+(2)&lt;DRW 2024-03-28/66, art. 11, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 15
+
+&lt;Abrogé par DRW 2024-03-28/66, art. 12, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 16
+
+[<sup>1</sup> § 1er. [<sup>2</sup> En concertation avec la CWaPE, les gestionnaires]<sup>2</sup> de réseau établissent chacun un plan d'investissement dont ils assument respectivement la gestion, en vue d'assurer la continuité d'approvisionnement, la sécurité, le développement et l'extension du réseau [<sup>2</sup> dans des conditions socialement, techniquement et économiquement raisonnables. Le Gouvernement précise la notion de conditions socialement, techniquement et économiquement raisonnables]<sup>2</sup>.
+
+Les règlements techniques précisent le planning et les modalités d'établissement [<sup>2</sup> et de mise à jour]<sup>2</sup> du plan d'investissement.
+
+Le plan d'investissement couvre une période [<sup>2</sup> correspondant à la période tarifaire]<sup>2</sup>. Il est adapté au fur et à mesure des besoins et au moins tous les ans pour les deux années suivantes, selon la procédure prévue dans le règlement technique.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Le plan d'investissement comprend un volet "adaptation" et un volet "extension".
+
+Chaque volet contient une estimation détaillée des besoins en capacité de distribution du réseau concerné, avec indication des hypothèses sous-jacentes tenant compte de l'évolution probable de la consommation ainsi que des installations de production de gaz issu de renouvelables et de l'utilisation du gaz à des fins de mobilité, et énonce le programme d'investissements que le gestionnaire de réseau s'engage à exécuter en vue de rencontrer les besoins dans des conditions socialement, techniquement et économiquement raisonnables.
+
+Le volet "extension" détermine les zones prioritaires de développement du réseau en tenant compte notamment des plans de secteur, des plans communaux d'aménagement ainsi que des moyens budgétaires disponibles.
+
+Chaque plan contient un rapport de suivi des plans précédents.
+
+Le plan d'investissement contient au moins les données suivantes :
+
+1° une description de l'infrastructure existante, de son état de vétusté;
+
+2° une estimation et une description des besoins en capacité, compte tenu de l'évolution probable du développement de l'injection sur le réseau de gaz issus de renouvelables et de l'utilisation du gaz à des fins de mobilité, de la consommation, des mesures d'efficacité énergétique et des échanges avec les autres réseaux;
+
+3° une description des moyens mis en oeuvre et des investissements à réaliser pour rencontrer les besoins estimés, y compris, le cas échéant, le renforcement ou l'installation d'interconnexions, ainsi qu'un répertoire des investissements importants déjà décidés, une description des nouveaux investissements importants devant être réalisés durant la période considérée et un calendrier pour les projets d'investissement;
+
+4° la fixation des objectifs de qualité de services poursuivis, en particulier concernant la durée des pannes;
+
+5° la liste des interventions d'urgence intervenues durant l'année écoulée;
+
+6° l'état des études, projets et réalisations des systèmes intelligents de mesure, le cas échéant;
+
+7° les mesures prises dans le cadre du raccordement des unités de production de gaz issu de renouvelable;
+
+8° la politique de recherche de concentration gaz et de réduction des pertes administratives.]<sup>2</sup>
+
+[<sup>3</sup> 9° le nombre de placements de compteurs communicants dans les cas visés à l'article 33bis/1 et l'activation de leur fonction communicante.]<sup>3</sup>
+
+§ 3. Si la CWaPE constate que le plan d'investissement ne permet pas au gestionnaire de réseau de remplir ses obligations légales, elle enjoint celui-ci de remédier à cette situation dans un délai raisonnable qu'elle détermine.]<sup>1</sup>
+
+[<sup>2</sup> § 4. Les gestionnaires de réseau sont tenus d'exécuter les investissements dont ils mentionnent la réalisation dans leurs plans d'investissement, sauf cas de force majeure ou raison impérieuse qu'ils ne contrôlent pas.
+
+§ 5. La CWaPE contrôle la mise en oeuvre des plans d'investissement. Elle peut imposer la réalisation par les gestionnaires de réseau de tout ou partie des investissements qui auraient dû être réalisés en vertu des plans d'investissements.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 21, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 14, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2024-04-25/61, art. 45, 033; En vigueur : 14-10-2024&gt;
+
+##### Art. 16bis
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Les réseaux privés sont interdits sauf dans les cas suivants :
+
+1° les réseaux privés dont les consommations des clients résidentiels avals ne sont que la composante d'un service global qui leur est offert [<sup>3</sup> par le gestionnaire du site dans le cadre notamment de l'occupation de garages, de chambres d'étudiants, de chambre dans une maison de repos ou d'une maison de vacances]<sup>3</sup>;
+
+2° les habitats permanents dont la liste est arrêtée par le Gouvernement; dans ce cas, le gestionnaire du réseau privé est la personne physique ou morale assurant la gestion de l'habitat permanent ou son délégué;
+
+3° les réseaux privés situés à l'intérieur d'un même immeuble de bureau;
+
+4° les réseaux privés de gaz issu de SER développés lorsque le réseau de distribution de gaz ne permet pas un raccordement économiquement justifié de l'installation de production de gaz issu de SER.]<sup>2</sup>
+
+§ 2. Le gestionnaire de réseau privé est responsable de l'exploitation [<sup>2</sup> , de l'entretien et de la sécurité du réseau privé]<sup>2</sup>. [<sup>2</sup> Les droits et obligations respectifs du gestionnaire de réseau privé et du client aval sont déterminés par le Gouvernement, après avis de la CWaPE]<sup>2</sup>.
+
+§ 3. [<sup>2</sup> Le gestionnaire de réseau privé conclut un contrat de raccordement avec le gestionnaire de réseau auquel il est connecté.]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> § 4. Le réseau privé est uniquement raccordé par un seul point au réseau de distribution ou de transport.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 22, 011; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 15, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2018-07-17/04, art. 152, 022; En vigueur : 18-10-2018&gt;
+
+##### Art. 16ter
+
+[<sup>1</sup> § 1er. Les réseaux fermés professionnels sont soumis à l'octroi d'une autorisation individuelle délivrée par la CWaPE après consultation du gestionnaire de réseau [<sup>2</sup> de distribution et, le cas échéant, du gestionnaire de réseau de transport]<sup>2</sup> auquel le réseau fermé entend se raccorder. Elle est publiée sur le site de la CWaPE.
+
+Par dérogation à l'alinéa 1er, pour les réseaux fermés professionnels existant au moment de l'entrée en vigueur de la présente disposition ou issus d'une cession à un tiers d'une partie d'un réseau interne existant au moment de l'entrée en vigueur de la présente disposition suite à l'acquisition d'une partie du site par une autre entreprise, le gestionnaire de réseau déclare son réseau à la CWaPE dans les six mois de l'entrée en vigueur de la présente disposition ou de l'acquisition. Par cette déclaration, il acquiert la qualité de gestionnaire de réseau fermé professionnel.
+
+Pour les réseaux fermés professionnels visés à l'alinéa 2, le gestionnaire de réseau fermé professionnel fait vérifier à ses frais, la conformité technique par un organisme agréé dont le rapport est transmis à la CWaPE dans l'année de la déclaration de son réseau.
+
+Les conditions, [<sup>2</sup> modalités, la procédure d'octroi de l'autorisation individuelle [<sup>3</sup> les situations ne correspondant pas à un réseau fermé professionnel, ainsi que la redevance à payer pour l'examen du dossier,]<sup>3</sup> et la redevance à payer pour l'examen du dossier]<sup>2</sup> sont déterminées par le Gouvernement, après avis de la CWaPE. L'autorisation visée à l'alinéa 1er contient en outre la désignation d'un gestionnaire de réseau fermé professionnel.
+
+§ 2. Par dérogation aux articles 12 et suivants du présent décret, les gestionnaires de réseaux fermés professionnels remplissent les obligations suivantes :
+
+1° tout gestionnaire de réseau fermé professionnel déclare auprès de la CWaPE son réseau fermé professionnel et le développement éventuel d'unités de production raccordées au réseau;
+
+2° tout gestionnaire de réseau fermé professionnel s'abstient, dans le cadre de la fonction, de discrimination entre les utilisateurs de son réseau fermé professionnel;
+
+3° tout gestionnaire de réseau fermé professionnel modalise le raccordement et l'accès à ce réseau par contrat avec les utilisateurs du réseau fermé professionnel, qui précise au minimum :
+
+a) les exigences techniques minimales de conception et de fonctionnement des installations raccordées au réseau fermé professionnel, les puissances maximales au raccordement et les caractéristiques des alimentations fournies;
+
+b) les modalités commerciales du raccordement au réseau fermé professionnel et d'accès à celui-ci;
+
+c) les conditions de coupure du raccordement pour non-respect des engagements contractuels ou pour la sécurité du réseau fermé professionnel;
+
+4° la rémunération des gestionnaires de réseau fermé professionnel respecte le cadre contraignant édicté en la matière par l'autorité compétente;
+
+5° tout gestionnaire de réseau fermé professionnel remet aux utilisateurs du réseau fermé professionnel qu'il gère :
+
+a) une facturation détaillée et claire, basée sur leurs consommations ou injections propres et sur les principes tarifaires et les rémunérations visées au présent article;
+
+b) une juste répartition, sur leurs factures, des surcoûts appliqués sur les factures de transport et de distribution dans le respect des principes de chaque surcoût;
+
+c) la communication des données pertinentes de leurs consommations et injections ainsi que les informations permettant un accès efficace au réseau;
+
+6° tout gestionnaire de réseau fermé professionnel préserve la confidentialité des informations commercialement sensibles des utilisateurs du réseau dont il a connaissance dans le cadre de ses activités, sauf obligation légale contraire;
+
+7° tout gestionnaire de réseau fermé professionnel démontre à la CWaPE la conformité technique de son réseau fermé professionnel avec le règlement technique, selon les modalités définies par la CWaPE;
+
+8° Le gestionnaire de réseau fermé professionnel garantit l'exploitation, l'entretien et le développement du réseau pour lequel il a été désigné dans des conditions économiquement acceptables, y compris les interconnexions avec d'autres réseaux gaziers, en vue d'assurer la sécurité et la continuité d'approvisionnement dans le respect de l'environnement et de l'efficacité énergétique;
+
+9° le gestionnaire de réseau fermé professionnel garantit l'éligibilité effective du client qui en fait la demande, lorsqu'aucun mandat n'a été consenti conformément à l'article 30bis,
+
+§ 1er. La CWaPE est compétente en cas de contestation par un utilisateur du réseau fermé professionnel des conditions de rémunération du gestionnaire du réseau fermé professionnel.
+
+§ 3. Le gestionnaire de réseau fermé professionnel conclut un contrat de raccordement avec le gestionnaire de réseau auquel il est connecté.
+
+§ 4. Sauf autorisation écrite préalable du gestionnaire de réseau ou convention explicite dans le contrat de raccordement avec précision des modalités, il n'y a qu'un seul raccordement entre le réseau de distribution et le réseau fermé professionnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-05-21/05, art. 16, 018; En vigueur : 12-06-2015&gt;
+
+(2)&lt;DRW 2018-07-17/04, art. 153, 022; En vigueur : 18-10-2018&gt;
+
+(3)&lt;DRW 2019-05-02/77, art. 15, 026; En vigueur : 23-09-2019&gt;
+
+##### Art. 16quater
+
+&lt;Abrogé par DRW 2015-05-21/05, art. 17, 018; En vigueur : 12-06-2015&gt;
+
+##### Art. 17
+
+[<sup>1</sup> § 1er. [<sup>3</sup> Le gestionnaire de réseau de distribution dispose d'un personnel qualifié, en nombre suffisant, dépendant directement du gestionnaire de réseau de distribution, et ne travaillant pas pour un producteur, fournisseur ou intermédiaire ou tout autre société liée ou associée, afin d'assurer l'exercice [<sup>5</sup> des activités qui relèvent de sa mission de service public telle que visée par ou en vertu du décret]<sup>5</sup>. Moyennant accord de la CWaPE, il peut toutefois confier, seul ou en association avec un ou plusieurs gestionnaires de réseau de distribution [<sup>5</sup> ou de transport local désignés par la Région wallonne, par la Région Bruxelles-Capitale ou la Région flamande ou avec le gestionnaire du réseau de transport, tout ou partie des activités qui relèvent de sa mission de service public telle que visée par ou en vertu du décret]<sup>5</sup> visées à l'article 12 à une filiale constituée conformément au paragraphe 2]<sup>3</sup>. [<sup>5</sup> Le gestionnaire de réseau de distribution et sa filiale sont réputés être solidairement responsables en cas de manquement aux obligations liées à l'exercice des activités qui ont été déléguées par le gestionnaire de réseau de distribution à la filiale.]<sup>5</sup>
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> La filiale visée au paragraphe 1er remplit les conditions suivantes: ]<sup>3</sup>
+
+1° la filiale constitue une entité juridiquement distincte de tout producteur, fournisseur ou intermédiaire;
+
+2° [<sup>3</sup> la filiale est détenue à cent pour cent par le ou les gestionnaires de réseau de distribution [<sup>5</sup> seuls, ou conjointement avec le gestionnaire de réseau de transport local, avec un ou plusieurs gestionnaires de réseau de distribution ou de transport local désignés par la Région de Bruxelles-Capitale ou la Région flamande, ou avec le gestionnaire du réseau de transport,]<sup>5</sup> qui lui ont confié, en tout ou en partie, [<sup>5</sup> les activités qui relèvent de leur mission de service public telle que visée par ou en vertu du décret]<sup>5</sup>, et, le cas échéant, les actionnaires de ceux-ci. [<sup>4</sup> Si la filiale est détenue par les actionnaires du ou des gestionnaires de réseau de distribution,]<sup>4</sup> [<sup>4</sup> les seuils de détention ]<sup>4</sup> du capital social de la filiale respectent les prescrits de l'article 6, alinéa 1er, 1° et 2° du présent décret]<sup>3</sup>;
+
+[<sup>2</sup> 2°bis [<sup>3</sup> dans l'éventualité où les parts représentatives du capital social de la filiale seraient détenues divisément [<sup>4</sup> soit]<sup>4</sup> par des pouvoirs publics détenant directement ou indirectement des participations [<sup>4</sup> au sens de l'article 1:22 du Code des sociétés et des associations ]<sup>4</sup> dans le capital social d'un producteur, fournisseur ou intermédiaire, [<sup>4</sup> sauf lorsqu'il s'agit d'une participation dans une communauté d'énergie, soit par des pouvoirs publics qui sont eux-mêmes producteurs mais non auto producteurs, fournisseurs ou intermédiaires,]<sup>4</sup> les statuts de celle-ci empêchent que l'un de ces actionnaires puisse individuellement, directement ou indirectement, rejeter, bloquer ou imposer une décision ou faire obstacle à une prise de décision;]<sup>3</sup>; ]<sup>2</sup>
+
+[<sup>3</sup> 2°ter la filiale ne détient pas directement ou indirectement de parts représentatives du capital des producteurs, fournisseurs ou intermédiaires; ]<sup>3</sup>
+
+3° ses statuts appliquent des règles strictes de corporate governance prévoyant à tout le moins ce qui suit :
+
+a) [<sup>3</sup> le conseil d'administration est composé uniquement d'administrateurs]<sup>3</sup> [<sup>4</sup> indépendants au sens de l'article 2, 14° ]<sup>4</sup>, [<sup>3</sup> et ceux-ci sont]<sup>3</sup> proposés par le ou les gestionnaire(s) de réseaux associé(s);
+
+b) [<sup>4</sup> ...]<sup>4</sup>
+
+c) le conseil d'administration crée en son sein les comités suivants, [<sup>3</sup> ...]<sup>3</sup> qui assistent le conseil d'administration dans ses décisions ou qui ont une compétence d'avis :
+
+\- un comité d'audit, chargé au moins de l'examen des comptes et du contrôle du budget;
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+\- un comité de nomination et de rémunération, chargé de faire des propositions au conseil d'administration au sujet de l'engagement de la personne en charge de la direction générale et des cadres rapportant directement à cette personne, ainsi que de leur rémunération;
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+5° [<sup>2</sup> [<sup>3</sup> la filiale ne peut ]<sup>3</sup> réaliser d'autres activités que celles liées [<sup>5</sup> aux activités relevant de la mission de service public du ou des gestionnaires de réseaux associés telle que visée par ou en vertu du présent décret ou du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité]<sup>5</sup>]<sup>2</sup>.
+
+[<sup>3</sup> 6° afin d'assurer [<sup>5</sup> les activités qui relèvent de leur mission de service public telle que visée par ou en vertu du décret]<sup>5</sup> confiées par le ou les gestionnaires de réseau de distribution, la filiale dispose de personnel qualifié, en nombre suffisant, dépendant directement de celle-ci et ne travaillant pas pour un producteur, fournisseur ou intermédiaire ou toute autre société liée ou associée. ]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+§ 3. Les statuts de la filiale et la convention d'actionnaires, de même que la liste des administrateurs et du personnel dirigeant sont transmis [<sup>3</sup> au ministre et à la CWaPE]<sup>3</sup> dans les trois mois de la constitution de la filiale.
+
+Toute modification de l'actionnariat de la filiale, de ses statuts, de la convention d'actionnaires [<sup>3</sup> et ]<sup>3</sup> du conseil d'administration sont transmis [<sup>3</sup> au ministre et à la CWaPE]<sup>3</sup> pour information.
+
+§ 4. Le présent article n'est pas applicable au gestionnaire de réseau spécifique visé à l'article Il.]<sup>1</sup>
+
+[<sup>2</sup> § 5.[<sup>3</sup> La filiale s'étant vu déléguer l'exercice de la mission, conformément au paragraphe 2, ne peut pas déléguer à une sous structure, l'exercice de leurs missions et obligations ainsi confiées.]<sup>3</sup>.]<sup>2</sup>.
+
+[<sup>3</sup> § 6. Tout actionnaire du gestionnaire du réseau de distribution n'entrant pas dans la catégorie des actionnaires visés à l'article 6, alinéa 1er, 1° et 2°, ne peut détenir directement ou indirectement des parts représentatives du capital social de la filiale créée par ce gestionnaire de réseau de distribution que si les conditions suivantes sont réunies :
+
+1° les statuts de la filiale stipulent que toute décision exige la majorité des voix exprimées par les délégués des personnes visées à l'article 6, alinéa 1er, 1° et 2°;
+
+2° ces statuts ne contiennent aucune disposition permettant aux actionnaires visés au présent paragraphe, individuellement ou collectivement, de rejeter, bloquer ou imposer une décision ou de faire obstacle à une prise de décision;
+
+3° nonobstant l'article 1523-12, § 2, du Code de la démocratie locale et de la décentralisation, les statuts de la filiale stipulent que toute modification statutaire, à l'exception de dispositions relatives à la protection légitime des associés minoritaires, exige la majorité simple des voix exprimées par les délégués présents à l'assemblée générale et la majorité des deux tiers des voix exprimées par les délégués des personnes visées à l'article 6, alinéa 1er, 1° et 2°;
+
+4° les statuts de la filiale stipulent que, toute personne n'entrant pas dans la catégorie des actionnaires visés à l'article 6, alinéa 1er, 1° et 2° ne peut acquérir ou vendre de parts représentatives du capital social de la filiale qu'avec l'autorisation du Gouvernement, donnée après avis de la CWaPE.]<sup>3</sup>
+
+[<sup>3</sup> § 7. Pour le surplus, les dispositions du Code de la démocratie locale et de la décentralisation applicables aux gestionnaires de réseaux de distribution s'appliquent à la filiale constituée conformément au paragraphe 2.]<sup>3</sup>
+
+[<sup>3</sup> § 8. Le gestionnaire de réseau de distribution et sa filiale constituée conformément au paragraphe 2 peuvent confier à un sous-traitant l'exécution de certains travaux ponctuels sans que ceux-ci ne puissent concerner l'entièreté d'une des rubriques des tâches listées à l'article 12, § 2, alinéa 2. Le gestionnaire de réseau de distribution, ou le cas échéant, sa filiale, est réputé être titulaire des missions et obligations découlant du présent décret.]<sup>3</sup>
+
+[<sup>3</sup> § 9. Par dérogation au paragraphe 2, le gestionnaire de réseau de distribution peut toutefois confier, après approbation de la CWaPE, à une filiale constituée avec d'autres associés publics ou privés, d'autres tâches que celles visées à l'article 12, dès lors qu'elles sont prévues par ou en vertu de dispositions légales et règlementaires.
+
+Par dérogation à l'alinéa précédent, l'approbation de la CWaPE n'est pas requise pour les tâches confiées par les gestionnaires de réseau de distribution à la plate-forme d'échange d'information créée en vertu de l'article 1er, 11° du décret du 30 avril 2009 relatif à l'information, la coordination et l'organisation des chantiers, sous, sur ou au- dessus des voiries ou des cours d'eau à la date d'entrée en vigueur du présent décret.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 23, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 18, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2018-05-11/02, art. 21, 021; En vigueur : 28-05-2018&gt;
+
+(4)&lt;DRW 2024-03-28/66, art. 13, 031; En vigueur : 11-08-2024&gt;
+
+(5)&lt;DRW 2025-12-19/70, art. 35, 034; En vigueur : 09-01-2026&gt;
+
+##### Art. 17bis
+
+[<sup>1</sup> § 1er. Les membres des organes de gestion et le personnel du gestionnaire de réseau sont soumis au secret professionnel; ils ne peuvent divulguer à quelque personne que ce soit les informations confidentielles dont ils ont eu connaissance en raison de leurs fonctions auprès du gestionnaire de réseau dans le cadre de l'exécution [<sup>3</sup> des activités qui relèvent de sa mission de service public telles que visées par ou en vertu du décret]<sup>3</sup>, hormis le cas où ils sont appelés à rendre témoignage en justice et sans préjudice des communications aux gestionnaires d'autres réseaux, à la CWaPE ou d'autres régulateurs ou au ministre [<sup>2</sup> ou à des tiers, agissant sous le couvert du secret professionnel, expressément prévues ou autorisées par des dispositions légales ou réglementaires]<sup>2</sup>.
+
+Toute infraction au présent article est punie des peines prévues par l'article 458 du Code pénal.
+
+Si le gestionnaire de réseau a confié [<sup>3</sup> des activités qui relèvent de sa mission de service public telles que visées par ou en vertu du décret]<sup>3</sup> à une filiale, les membres des organes de gestion et le personnel de cette filiale sont soumis à la même obligation en matière de secret professionnel. Toutefois, cette obligation ne vaut pas dans les rapports entre la filiale et le ou les gestionnaire(s) de réseau(x) associé(s).
+
+§ 2. Le gestionnaire de réseau et, le cas échéant, la filiale visée à l'article 17, § 2, définit la procédure et les conditions d'engagement de son personnel propre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 24, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2024-03-28/66, art. 14, 031; En vigueur : 11-08-2024&gt;
+
+(3)&lt;DRW 2025-12-19/70, art. 36, 034; En vigueur : 09-01-2026&gt;
+
+## CHAPITRE IV. - Droits et obligations des gestionnaires de réseaux de distribution.
+
+### Section 1. - [<sup>1</sup> Droits et obligations du gestionnaire de réseau sur le domaine public]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 25, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 18
+
+§ 1. Tout [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> de distribution a le droit d'exécuter sur, sous ou au-dessus du domaine public, tous les travaux nécessaires à l'établissement, au fonctionnement et à l'entretien des installations de distribution de gaz, dans le respect des dispositions légales et réglementaires en vigueur [<sup>2</sup> , et dans les conditions définies dans la présente section]<sup>2</sup>.
+
+§ 2. La Région [<sup>3</sup> et les personnes morales de droit public qui en dépendent]<sup>3</sup>, les provinces et les communes ont le droit de faire modifier l'implantation ou le tracé des installations de distribution de gaz établies sur leur domaine public, ainsi que les ouvrages qui s'y rapportent. Les modifications ainsi apportées sont réalisées aux frais du gestionnaire dudit réseau de distribution de gaz lorsqu'elles sont imposées soit pour un motif de sécurité publique, soit pour préserver la beauté d'un site, soit dans l'intérêt d'un service public ou des cours d'eau, canaux et voies publiques, soit en raison de changements apportés aux accès des propriétés situées en bordure de la voie publique. Dans les autres cas, elles sont à la charge de la Région [<sup>3</sup> ou des personnes morales de droit public qui en dépendent]<sup>3</sup>, de la province ou de la commune, qui peuvent alors exiger un devis préalable et, en cas de désaccord sur le prix des travaux à exécuter, procéder elles-mêmes à cette exécution.
+
+Par dérogation à l'alinéa précédent, lorsque des modifications sont imposées par la Région wallonne [<sup>4</sup> ou une personne morale de droit public qui en dépend]<sup>4</sup>, sur son domaine et dans le cadre de ses compétences, au [<sup>1</sup> gestionnaire de réseau]<sup>1</sup>, les frais de travaux sont à charge de la Région wallonne [<sup>4</sup> ou de la personne morale de droit public qui en dépend]<sup>4</sup>. Lorsque des personnes morales de droit privé sont membres du [<sup>1</sup> gestionnaire de réseau]<sup>1</sup>, les frais de travaux ne sont à charge de la Région wallonne qu'à la condition que le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> s'engage à attribuer la totalité de la compensation prise en charge par la Région wallonne aux personnes de droit public qui la composent.
+
+[<sup>5</sup> § 3. Le gestionnaire de réseau, le gestionnaire de réseau privé ou le gestionnaire de réseau fermé professionnel permet l'accès à ses infrastructures physiques à tout opérateur de communication électronique en vue du déploiement d'éléments de réseaux de communications électroniques à haut débit en réponse à une demande raisonnable d'accès selon des modalités et des conditions équitables et raisonnables, y compris au niveau du prix. Cette demande écrite indique de manière détaillée les éléments du projet pour lequel l'accès est demandé, y compris un échéancier précis. Le Gouvernement précise la procédure, les modalités et les conditions équitables et raisonnables de cet accès.
+
+Dans les deux mois à dater de la réception de la demande complète, le gestionnaire de réseau, le gestionnaire de réseau privé ou le gestionnaire de réseau fermé professionnel remet sa décision à l'opérateur de communication électronique. Tout refus d'accès est fondé sur des critères objectifs, transparents et proportionnés tels que :
+
+1° la capacité technique de l'infrastructure à laquelle l'accès a été demandé;
+
+2° l'espace disponible pour accueillir les éléments de réseaux de communication électronique à haut débit, y compris les besoins futurs de l'opérateur de communication électronique qui ont été démontrés de manière suffisante par celui-ci;
+
+3° des considérations de sûreté et de santé publique;
+
+4° l'intégrité et la sécurité du réseau;
+
+5° le risque d'interférence grave entre les services de communications électroniques en projet et les autres services fournis à l'aide des mêmes infrastructures physiques;
+
+6° la disponibilité d'autres moyens viables de fourniture en gros d'accès physique à l'infrastructure de réseau, offerts par le gestionnaire de réseau, le gestionnaire de réseau privé ou le gestionnaire de réseau fermé professionnel et adaptés à la fourniture de réseaux de communications électroniques à haut débit, pour autant que l'accès soit offert selon des modalités et des conditions équitables et raisonnables;
+
+7° l'utilisation proportionnelle de l'espace disponible en veillant à ce que les gestionnaires de réseaux, les gestionnaires de réseaux privés ou les gestionnaires de réseaux fermés professionnels propriétaires de l'infrastructure physique puissent disposer d'un espace de réserve suffisant pour leurs propres investissements futurs;
+
+8° le risque pour la sécurité des systèmes de communication des compteurs et des réseaux intelligents en cas d'accès à l'infrastructure du gestionnaire de réseau, du gestionnaire de réseau privé ou du gestionnaire de réseau fermé professionnel par du personnel tiers.
+
+Si l'accès est refusé ou si aucun accord n'est trouvé sur les modalités et conditions spécifiques, y compris le prix, dans un délai de deux mois à compter de la date de réception de la demande d'accès, chaque partie peut porter l'affaire devant l'organe de règlement des litiges en matière d'infrastructures de réseaux.
+
+§ 4. Les informations minimales relatives aux infrastructures physiques sont fournies :
+
+1° par voie électronique, par le point d'information unique;
+
+2° si ces informations ne sont pas disponibles par l'intermédiaire du point d'information unique, sur simple demande, par le gestionnaire de réseau, le gestionnaire de réseau privé ou le gestionnaire de réseau fermé professionnel à tout opérateur de communication électronique à haut débit qui souhaite demander l'accès aux infrastructures physiques.
+
+Les informations minimales visées à l'alinéa 1er concernent :
+
+1° l'emplacement et le tracé;
+
+2° le type et l'utilisation actuelle des infrastructures;
+
+3° un point de contact.
+
+Le Gouvernement définit les modalités de la demande.
+
+L'accès aux informations minimales peut être limité pour des raisons liées à la sécurité et à l'intégrité des réseaux, à la sécurité nationale, à la santé publique ou à la sûreté, à la confidentialité ou aux secrets commerciaux et d'affaires.
+
+§ 5. En réponse à une demande écrite spécifique formulée par une entreprise fournissant ou autorisée à fournir des réseaux de communications publics, le gestionnaire de réseau, le gestionnaire de réseau privé ou le gestionnaire de réseau fermé professionnel fait droit, sans préjudice des limites décrites au paragraphe 4, alinéa 4, aux demandes raisonnables d'enquête sur place sur des éléments spécifiques de leurs infrastructures physiques. Cette demande précise les éléments de réseau concernés par le déploiement d'éléments de réseaux de communications électroniques à haut débit.
+
+L'autorisation d'effectuer des enquêtes sur place sur des éléments spécifiés de l'infrastructure physique est accordée, selon des modalités proportionnées, non discriminatoires et transparentes, dans un délai d'un mois à partir de la date de réception de la demande écrite. Les personnes ayant reçu l'autorisation respectent les procédures et impositions de sécurité qui leur sont communiquées.
+
+Pour tout litige concernant les droits et obligations prévus dans le cadre des paragraphes 3, 4 et 5, chacune des parties peut porter le litige devant l'organe de règlement des litiges en matière d'infrastructures de réseaux, sans préjudice de la possibilité pour toute partie de saisir une juridiction.
+
+Les entreprises fournissant ou autorisées à fournir des réseaux de communications publics assurent le respect de la confidentialité et des secrets commerciaux et d'affaires.]<sup>5</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2008-07-17/52, art. 26, 011; En vigueur : 07-08-2008&gt;
+
+(3)&lt;DRW 2008-07-17/52, art. 27, 011; En vigueur : 07-08-2008&gt;
+
+(4)&lt;DRW 2008-07-17/52, art. 28, 011; En vigueur : 07-08-2008&gt;
+
+(5)&lt;DRW 2017-10-26/04, art. 7, 020; En vigueur : 20-11-2017&gt;
+
+##### Art. 19
+
+&lt;Abrogé par DRW 2009-04-30/77, art. 49, 012; En vigueur : indéterminée et au plus tard le 31-12-2012 ; dispositions transitoires : art. 51&gt;
+
+##### Art. 20
+
+[<sup>1</sup> § 1er. Tout gestionnaire de réseau doit s'acquitter d'une redevance annuelle auprès des communes, des provinces et de la Région pour occupation du domaine public par le réseau dont il assure la gestion. [<sup>2</sup> En cas de fusion de gestionnaires de réseau, une redevance régionale annuelle correspondant à la zone géographique desservie par les anciens gestionnaires de réseaux de distribution existants au 31 décembre 2012 peut être déterminée par le gestionnaire de réseau. Dans ce cas, les paramètres de la formule à prendre en compte pour l'établissement de la redevance sont ceux relatifs à la zone géographique desservie par l'ancien gestionnaire de réseaux.]<sup>2</sup>
+
+§ 2. Pour l'année n et pour une commune donnée, le montant global de la redevance est établi sur base des calculs suivants :
+
+1° pour chaque commune, un montant de base B est calculé selon la formule suivante :
+
+B = M x kWhGR x F
+
+où :
+
+\- M = un montant fixe compris entre 0,05 et 0,25 eurocent par kWh, déterminé par le Gouvernement;
+
+\- kWhGR = le volume total de gaz injecté dans le réseau en question diminué du gaz transféré sur un autre réseau pour l'année n - 1, ainsi que du gaz prélevé par la commune, par la province et par la Région en tant que clients finals;
+
+\- F = 0,6 K + 0,4 L;
+
+\- K = le nombre de kWhgaz relevés par le gestionnaire de réseau, pour le territoire de la commune sur le territoire de laquelle est situé le réseau, hors consommation de la commune, de la province et de la Région agissant comme clients finals, divisé par kWhGR;
+
+\- L = la longueur des canalisations de gaz gérées par le gestionnaire de réseau situées sur le territoire de la commune au cours de l'année n - 1 divisée par la longueur des canalisations de gaz gérées par le gestionnaire de réseau en question pour l'année susmentionnée;
+
+2° pour les besoins du calcul dont question au 3° ci-dessous, un pourcentage est déterminé correspondant à la somme des montants B pour les communes ressortissant d'un même gestionnaire de réseau divisée par ses coûts totaux, hors redevance pour l'occupation du domaine public par le réseau gazier, de l'année n pour ce gestionnaire de réseau;
+
+3° une surcharge S est ajoutée aux coûts du réseau. Cette surcharge S est exprimée en un montant par kWh. Celle-ci est déterminée de telle sorte que, pour un client-type de chaque catégorie, l'augmentation de la facture corresponde au pourcentage mentionné au 2° ci-dessus, sans que la surcharge S ne puisse dépasser le montant M;
+
+4° pour chaque gestionnaire de réseau, les surcharges S pour chaque catégorie de clients-type sont multipliées par le volume total de gaz prélevé dans l'année n - 1 par cette catégorie de clients-type, hors consommation de la commune, de la province et de la Région agissant comme clients finals. La somme de ces surcharges R sera le montant global de la redevance due par le gestionnaire de réseau.
+
+§ 3. Le montant global de la redevance R visée à l'alinéa précédent est affecté pour 35 % à la Région, pour 1 % à la province sur le territoire de laquelle est situé le réseau et le solde aux communes sur le territoire desquelles est situé le réseau du gestionnaire de réseau. La répartition du solde vers les communes est faite en multipliant le montant du solde par la division du montant F relatif à une commune par la somme des montants F pour toutes les communes dans lesquelles le gestionnaire de réseau est actif. Dans l'hypothèse où un gestionnaire de réseau desservirait des territoires répartis sur plusieurs provinces, la part revenant à chaque province sera établie proportionnellement en fonction du facteur F appliqué aux communes situées sur ce territoire.
+
+Lors de l'établissement de nouvelles infrastructures de réseau, la redevance est acquittée aux communes, à la (aux) province(s) et à la Région par le gestionnaire de réseau à partir de l'exercice d'imposition de l'année suivant l'année de notification ou permission visée à l'article 19.
+
+§ 4. Le gestionnaire de réseau répercute la redevance de l'année n de manière étalée sur l'année n + 1 en facturant aux fournisseurs une surcharge pour l'utilisation du réseau par leurs clients finals sur base des kWh facturés dans l'année n + 1. La surcharge S par kWh est facturée de la même manière par le fournisseur aux clients finals, excepté les communes, les provinces et la Région en tant que clients finals.
+
+Les différences, positives ou négatives, entre la redevance payée par un gestionnaire de réseau dans l'année n et les montants répercutés par un gestionnaire de réseau sur les fournisseurs dans l'année n + 1 seront ajustées dans la répercussion de l'année n + 2.
+
+§ 5. Le Gouvernement détermine la procédure et les modalités de perception de la redevance et le recours du gestionnaire de réseau, de la Région, de la province ainsi que de la commune.
+
+Le fournisseur s'abstient de porter en compte, respectivement des communes et provinces agissant comme clients finals et de la Région agissant comme client final, les sommes dues à titre de la redevance visée par le présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2010-12-22/23, art. 1, 015; En vigueur : 31-12-2010&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 19, 018; En vigueur : 12-06-2015&gt;
+
+### Section 2. - [<sup>1</sup> Droits du gestionnaire de réseau sur les propriétés privées]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 29, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 21
+
+§ 1. Le Gouvernement peut, après enquête, déclarer qu'il y a utilité publique à établir des installations de distribution de gaz sous, sur ou au-dessus des terrains privés non bâtis.
+
+Cette déclaration d'utilité publique confère au [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> de distribution au profit de qui elle est faite le droit d'établir de telles installations sous, sur ou au-dessus de ces terrains privés, d'en assurer la surveillance et d'exécuter les travaux nécessaires à leur fonctionnement et à leur entretien, le tout aux conditions déterminées dans ladite déclaration.
+
+Les travaux ne peuvent être entamés qu'après l'expiration d'un délai de deux mois à dater de la notification qui en est faite aux propriétaires [<sup>2</sup> , titulaires de droit réel]<sup>2</sup> et locataires intéressés, par lettre recommandée à la poste.
+
+[<sup>4</sup> § 1<sup>er</sup>bis. L'occupation partielle du fonds privé doit respecter l'usage auquel celui-ci est affecté. Elle n'entraîne aucune dépossession mais est constitutive d'une servitude légale d'utilité publique interdisant tout acte de nature à nuire aux installations de distribution de gaz ou à leur exploitation.]<sup>4</sup>
+
+§ 2. [<sup>3</sup> Le gestionnaire de réseau, bénéficiaire de la servitude prévue au § 1erbis]<sup>3</sup> est tenu au paiement d'une indemnité au profit du propriétaire du fonds grevé de cette servitude ou de détenteurs de droits réels attachés à ce fonds.
+
+L'indemnité peut faire l'objet d'un paiement unique, auquel cas elle tient lieu d'indemnité forfaitaire; elle est également payable sous la forme d'une redevance annuelle à régler par anticipation.
+
+§ 3. Le Gouvernement détermine :
+
+1° la procédure à suivre pour la déclaration d'utilité publique visée au paragraphe 1er, notamment la forme de la demande, les documents qui doivent l'accompagner, l'instruction du dossier et les enquêtes à effectuer par les autorités saisies d'une telle demande, les délais dans lesquels l'autorité compétente doit statuer et notifier sa décision au demandeur et la redevance à payer par le demandeur pour l'examen du dossier;
+
+2° le mode de calcul des redevances visées au paragraphe 2, ainsi que leur mode d'indexation.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2008-07-17/52, art. 30, 011; En vigueur : 07-08-2008&gt;
+
+(3)&lt;DRW 2008-07-17/52, art. 32, 011; En vigueur : 07-08-2008&gt;
+
+(4)&lt;DRW 2008-07-17/52, art. 31, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 22
+
+[<sup>2</sup> l'alinéa 1er devient l'article 21, § 1erbis]<sup>2</sup>
+
+Le propriétaire du fonds privé [<sup>3</sup> grevé d'une servitude telle que visée à l'article 21, § 1erbis]<sup>3</sup> peut, dans le délai fixé par le Gouvernement, informer le ministre qu'il demande au [<sup>3</sup> gestionnaire de réseau]<sup>3</sup> d'acheter le terrain occupé. Si aucun accord de vente amiable n'intervient entre le propriétaire du fonds grevé et le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup>, les dispositions de l'article 25 trouvent application.
+
+[<sup>3</sup> Le Gouvernement détermine les droits et obligations de l'éventuel titulaire de droit réel ou du locataire éventuel dans le cadre de la vente de ce fonds.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2008-07-17/52, art. 31, 011; En vigueur : 07-08-2008&gt;
+
+(3)&lt;DRW 2008-07-17/52, art. 33, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 23
+
+[<sup>1</sup> § 1er. Si le propriétaire du fonds grevé ou celui qui est en droit d'y ériger des constructions décide de construire sur le fonds, il notifie sa décision au gestionnaire de réseau par courrier recommandé à la poste. Celui-ci sera tenu de déplacer ou d'enlever les infrastructures de réseau si l'intéressé le requiert.
+
+§ 2. S'il demande le déplacement des infrastructures en vue de la construction sur le fonds grevé, l'intéressé ne peut entamer les travaux que six mois après la notification visée au § 1er. Le cas échéant, le ministre peut accorder un délai supplémentaire au gestionnaire de réseau pour lui permettre d'obtenir les autorisations requises par ce déplacement. Il en informe le propriétaire du fonds.
+
+Le coût du déplacement ou de l'enlèvement des infrastructures de réseau est à la charge du gestionnaire de réseau.
+
+§ 3. Si l'intéressé ne demande pas le déplacement des infrastructures, le gestionnaire de réseau conserve le droit d'exercer la surveillance de ces installations et d'exécuter les travaux nécessaires à leur fonctionnement, à leur entretien et à leur réparation.
+
+§ 4. Au moment de la réception de la notification visée au § 1er, le gestionnaire de réseau peut proposer au propriétaire du fonds grevé d'acheter le terrain. Il en informe le ministre. Si aucun accord amiable n'intervient, les dispositions de l'article 25 trouvent application.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 34, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 24
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 35, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 25
+
+Le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> au profit duquel un arrêté du Gouvernement de déclaration d'utilité publique a été pris peut, sur sa demande et dans les limites de cet arrêté, être autorisé par le Gouvernement à poursuivre au nom de la Région, mais à ses frais, les expropriations nécessaires. [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 36, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2018-11-22/12, art. 79, 025; En vigueur : 01-07-2019&gt;
+
+### Section 3. [<sup>1</sup> - Obligations d'indemnisation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 37, 011; En vigueur : 01-01-2009&gt;
+
+#### Sous-section 1re. [<sup>1</sup> - Indemnisation due suite à une erreur administrative ou à un retard de raccordement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-05-21/05, art. 20, 018; En vigueur : 12-06-2015&gt;
+
+##### Art. 25bis
+
+[<sup>1</sup> § 1er. Toute absence de fourniture de gaz intervenant en violation des prescriptions du présent décret ou de ses arrêtés d'exécution en suite d'une erreur administrative commise par le gestionnaire de réseau de distribution oblige ce gestionnaire à payer au client final une indemnité forfaitaire journalière de 125 euros jusqu'au rétablissement de l'alimentation avec un maximum de 1.875 euros. Les frais de fermeture et rétablissement de l'alimentation sont également supportés par le gestionnaire de réseau, sans pouvoir être répercutés auprès du client final.
+
+De même, en dehors du cas visé à l'alinéa 1er, tout client final a droit à une indemnité forfaitaire mensuelle de 100 euros à charge du gestionnaire de réseau de distribution lorsque, celui-ci n'ayant pas correctement donné suite à une demande de changement de fournisseur adressée par un fournisseur à la demande du client final, le contrat passé avec le nouveau fournisseur ne peut effectivement entrer en vigueur à la date convenue entre parties.
+
+§ 2. Le client final adresse la demande d'indemnisation au gestionnaire de réseau auquel il est raccordé, par courrier recommandé ou par tout moyen déclaré conforme par le Gouvernement, dans les [<sup>2</sup> soixante]<sup>2</sup> jours calendrier de la survenance de l'absence de fourniture ou de la prise de connaissance, par le client final, de l'erreur dans la procédure de changement de fournisseur. Le client final y mentionne les données essentielles au traitement de sa demande. En vue de faciliter la démarche du client concerné, le gestionnaire de réseau met à disposition des clients finals un formulaire de demande d'indemnisation approuvé par la CWaPE. Ce formulaire est notamment disponible sur le site Internet du gestionnaire de réseau.
+
+Le gestionnaire de réseau indemnise le client dans les trente jours calendrier de la réception de la demande d'indemnisation.
+
+Si le gestionnaire de réseau estime que l'absence de fourniture ou l'erreur dans la procédure de changement de fournisseur résulte d'une erreur d'un fournisseur, il en informe le client dans les trente jours calendrier de la réception de la demande d'indemnisation et, dans le même délai, adresse directement la demande à ce fournisseur.
+
+Le fournisseur est tenu de traiter la demande d'indemnisation et, le cas échéant, de verser celle-ci dans les mêmes délais que ceux applicables au gestionnaire de réseau.
+
+§ 3. A défaut d'une réponse du gestionnaire de réseau ou du fournisseur dans les délais requis, ou en cas de refus d'indemnisation, le client peut saisir du dossier le Service régional de médiation visé à l'article 48 du décret électricité. [<sup>2</sup> Sous peine d'irrecevabilité, la plainte est introduite au maximum dans un délai de trois mois à dater de la notification de la décision contestée ou, en l'absence de décision, à dater de la date ultime à laquelle le gestionnaire de réseau, ou le cas échéant, le fournisseur, devait se prononcer sur la demande d'indemnisation.]<sup>2</sup>
+
+Pour que la demande soit recevable, le demandeur doit apporter [<sup>2</sup> , dans le délai visé à l'alinéa 1er, ]<sup>2</sup> la preuve écrite qu'il a au préalable, tenté, sans succès, d'obtenir le paiement de l'indemnité directement auprès du gestionnaire de réseau et du fournisseur.
+
+Le Service régional de médiation instruit le dossier. [<sup>2</sup> Il peut requérir par écrit des compléments d'informations auprès du demandeur, du gestionnaire de réseau ou du fournisseur. Le service régional de médiation fixe le délai endéans lequel les informations sont transmises, à défaut le délai est de quinze jours calendrier à dater de la réception de la demande. Dans les trente jours calendrier de la réception du dossier ou des compléments d'information.]<sup>2</sup> S'il estime que la demande d'indemnisation est fondée, il établit [<sup>2</sup> ...]<sup>2</sup> une proposition d'avis en ce sens qu'il notifie par recommandé ou par tout moyen déclaré conforme par le Gouvernement au gestionnaire de réseau. Celui-ci dispose de quinze jours calendrier, à dater de la réception de la notification, pour faire valoir ses observations qu'il adresse au Service régional de médiation par courrier recommandé ou par tout moyen déclaré conforme par le Gouvernement. [<sup>2</sup> Si le gestionnaire de réseau constate]<sup>2</sup> que l'absence de fourniture ou l'erreur dans la procédure de changement de fournisseur résulte d'une erreur d'un fournisseur, il notifie à ce fournisseur la proposition d'avis, conformément à l'[<sup>2</sup> article 30ter, § 4]<sup>2</sup>. Il en informe le client final.
+
+Dans les trente jours calendrier de la réception des observations du gestionnaire de réseau ou du fournisseur, l'avis définitif du Service régional de médiation est notifié par courrier recommandé ou par tout moyen déclaré conforme par le Gouvernement au gestionnaire de réseau, au client final et aux fournisseurs intéressés. A défaut de réception d'observations du gestionnaire de réseau ou du fournisseur dans les cinquante jours calendrier de la notification de la proposition d'avis visée a l'alinéa précédent, l'avis définitif du Service régional de médiation est notifié sans délai par courrier recommandé ou par tout moyen déclaré conforme par le Gouvernement au gestionnaire de réseau, au client final et au fournisseur intéressés. Dans la mesure du possible, l'avis indique clairement qui, du gestionnaire de réseau ou du fournisseur, est responsable de l'absence de fourniture de gaz.
+
+Dans l'hypothèse où la personne désignée comme responsable par le Service régional de médiation s'abstient, sans motif légitime, de verser l'indemnité due au client final dans les trente jours calendrier de la réception de l'avis définitif, la CWaPE peut lui enjoindre de procéder à ce versement. [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 37, 011; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 21, 018; En vigueur : 12-06-2015&gt;
+
+##### Art. 25ter
+
+[<sup>1</sup> § 1er. [<sup>2</sup> [<sup>4</sup> Toute personne physique ou morale ayant demandé un raccordement ]<sup>4</sup> a droit à une indemnité forfaitaire journalière à charge du gestionnaire de réseau si le gestionnaire de réseau n'a pas réalisé le raccordement effectif [<sup>4</sup> , en ce compris la modification du raccordement existant, ]<sup>4</sup> dans les délais suivants :
+
+1° pour les raccordements standards et simples, dans un délai de trente jours ouvrables qui, sauf [<sup>4</sup> demande en sens contraire du demandeur de raccordement acceptée par le gestionnaire de réseau ]<sup>4</sup>, commence à courir à partir de la date de réception du paiement du montant de l'offre de raccordement par le gestionnaire de réseau. [<sup>3</sup> Le délai est suspendu pendant la période entre la demande et la réception des permis et autorisations requis]<sup>3</sup>. Lorsque la situation de la canalisation de distribution nécessite des travaux en voirie, ou une extension du réseau, le délai est porté à soixante jours ouvrables;
+
+2° pour les raccordements non-simples, dans le délai prévu par le contrat de raccordement [<sup>4</sup> , qui, sauf demande en sens contraire du demandeur de raccordement acceptée par le gestionnaire de réseau, ]<sup>4</sup> commence à courir à partir de la date de réception du paiement du montant de l'offre de raccordement par le gestionnaire de réseau. [<sup>3</sup> Le délai est suspendu pendant la période entre la demande et la réception des permis et autorisations requis]<sup>3</sup>;
+
+3° pour les raccordements non-simples et lorsque la capacité souscrite est égale ou supérieure à 250 m3, dans le délai prévu par le contrat de raccordement [<sup>4</sup> , qui, sauf demande en sens contraire du demandeur de raccordement acceptée par le gestionnaire de réseau,]<sup>4</sup> commence à courir à partir de la date de réception du paiement du montant de l'offre de raccordement par le gestionnaire de réseau. [<sup>3</sup> Le délai est suspendu pendant la période entre la demande et la réception des permis et autorisations requis]<sup>3</sup>.
+
+L'indemnité journalière due est de 25 euros pour les [<sup>4</sup> demandeurs de raccordement]<sup>4</sup> dont la capacité souscrite est inférieure à 250 m3 et de 50 euros pour les autres raccordements.
+
+Aucune indemnité n'est due dans les cas suivants :
+
+1° si le non-respect des délais visés à l'alinéa 1er résulte de la non-réalisation, par [<sup>4</sup> le demandeur de raccordement]<sup>4</sup>, des travaux à sa charge;
+
+2° si les obligations préalables à la réalisation du raccordement n'ont pas été respectées par [<sup>4</sup> le demandeur de raccordement]<sup>4</sup>.]<sup>2</sup>
+
+[<sup>4</sup> § 1er/1. Toute personne physique ou morale ayant demandé un raccordement a droit à une indemnité forfaitaire journalière à charge du gestionnaire de réseau si le gestionnaire de réseau n'a pas réalisé l'étude ou l'offre dans les délais prescrits dans le règlement technique.
+
+L'indemnité journalière due est de 25 euros pour les demandeurs de raccordement dont la capacité souscrite est inférieure à 250 m3 et de 50 euros pour les autres. ]<sup>4</sup>
+
+§ 2. [<sup>2</sup> Le [<sup>4</sup> demandeur de raccordemen]<sup>4</sup> adresse la demande d'indemnisation au gestionnaire de réseau [<sup>4</sup> concerné]<sup>4</sup>, par recommandé ou par tout moyen déclaré conforme par le Gouvernement, [<sup>3</sup> dans les soixante jours calendrier qui suivent le raccordement effectif]<sup>3</sup>. Le client final y mentionne les données essentielles au traitement de sa demande. En vue de faciliter la démarche du [<sup>4</sup> demandeur concerné ]<sup>4</sup>, le gestionnaire de réseau met à disposition des [<sup>4</sup> demandeurs de raccordement ]<sup>4</sup> un formulaire de demande d'indemnisation approuvé par la CWaPE. Ce formulaire est notamment disponible sur le site internet du gestionnaire de réseau.
+
+Le gestionnaire de réseau indemnise le [<sup>4</sup> demandeur de raccordement ]<sup>4</sup> dans les trente jours calendriers de la réception de la demande d'indemnisation.]<sup>2</sup>
+
+§ 3. [<sup>2</sup> A défaut d'une réponse du gestionnaire de réseau dans le délai requis, ou en cas de refus d'indemnisation, le [<sup>4</sup> demandeur ]<sup>4</sup> peut saisir du dossier le Service régional de médiation visé à l'article 48 du décret électricité. Sous peine d'irrecevabilité, la plainte est introduite au maximum dans les trois mois à dater de la notification de la décision contestée ou, en l'absence de décision, à dater de la date ultime à laquelle le gestionnaire de réseau devait se prononcer sur la demande d'indemnisation.
+
+Pour que la demande soit recevable, le demandeur apporte, dans le délai visé à l'alinéa 1er, la preuve écrite qu'il a, au préalable, tenté sans succès d'obtenir le paiement de l'indemnité directement auprès du gestionnaire de réseau.
+
+Le service régional de médiation instruit le dossier. Il peut requérir par écrit des compléments d'informations auprès du demandeur, du gestionnaire de réseau. Le service régional de médiation fixe le délai endéans lequel les informations sont transmises, à défaut le délai est de quinze jours calendrier à dater de la réception de la demande. Dans les trente jours calendrier de la réception du dossier ou des compléments d'information, s'il estime que la demande d'indemnisation est fondée, il établit une proposition d'avis en ce sens, qu'il notifie par recommandé ou par tout moyen déclaré conforme par le Gouvernement au gestionnaire de réseau. Celui-ci dispose de quinze jours calendrier, à dater de la réception de la notification pour faire valoir ses observations. Il les transmet au service régional de médiation par recommandé ou par tout moyen déclaré conforme par le Gouvernement.
+
+Dans les trente jours calendrier de la réception des observations du gestionnaire de réseau, l'avis définitif du service régional de médiation est notifié par recommandé ou par tout moyen déclaré conforme par le Gouvernement au gestionnaire de réseau et au [<sup>4</sup> demandeur ]<sup>4</sup>. A défaut de réception d'observations du gestionnaire de réseau dans les cinquante jours calendrier de la notification de la proposition d'avis visée à l'alinéa 3, l'avis définitif du service régional de médiation est notifié sans délai par recommandé ou par tout moyen déclaré conforme par le Gouvernement au gestionnaire de réseau, au client final.
+
+Si l'avis définitif conclut à la nécessité, pour le gestionnaire de réseau, d'indemniser le [<sup>4</sup> demandeur ]<sup>4</sup> mais que le gestionnaire s'abstient, sans motif légitime, de verser l'indemnité due au client final dans les trente jours calendrier de la réception de l'avis définitif, la CWaPE peut lui enjoindre de procéder au versement.]<sup>2</sup>
+
+§ 4. [<sup>2</sup> En cas d'urgence, le [<sup>4</sup> demandeur de raccordement]<sup>4</sup> peut requérir de la CWaPE qu'elle fasse injonction au gestionnaire de réseau de procéder [<sup>4</sup> à l'étude, à l'offre ou ]<sup>4</sup> au raccordement effectif dans le délai qu'elle détermine. A défaut pour le gestionnaire de réseau de se conformer au nouveau délai la CWaPE peut initier la procédure visée aux articles 48 et suivants et infliger, le cas échéant, une amende administrative au gestionnaire de réseau.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 37, 011; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 22, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2018-07-17/04, art. 154, 022; En vigueur : 18-10-2018&gt;
+
+(4)&lt;DRW 2024-03-28/66, art. 15, 031; En vigueur : 11-08-2024&gt;
+
+#### Sous-section II. [<sup>1</sup> - Indemnisation des dommages causes par le gestionnaire de réseau dans le cadre de l'exploitation de son réseau.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 37, 011; En vigueur : 01-01-2009&gt;
+
+##### Art. 25quater
+
+[<sup>1</sup> Sans préjudice des dispositions conventionnelles plus favorables au client final, tout dommage direct, corporel ou matériel, subi par un client final raccordé au réseau de distribution, du fait d'une explosion de gaz survenue en raison d'un défaut du réseau, d'une perturbation de la pression ou d'une coupure anormalement prolongée par rapport aux dispositions du règlement technique et des contrats, fait l'objet d'une indemnisation par le gestionnaire de réseau de distribution responsable.
+
+L'obligation d'indemnisation est exclue en cas de force majeure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 37, 011; En vigueur : 01-01-2009&gt;
+
+#### Sous-section III. [<sup>1</sup> - Dispositions communes aux sous-sections Ire et II.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 37, 011; En vigueur : 01-01-2009&gt;
+
+##### Art. 25quinquies
+
+[<sup>1</sup> § 1er. Les dispositions des sous-sections Ire et II ne font pas échec à l'application d'autres dispositions légales permettant de mettre en cause la responsabilité du gestionnaire de réseau. En tout état de cause, l'application conjuguée de différents régimes de responsabilité ne peut entraîner une indemnisation du client final supérieure à la réparation intégrale du préjudice subi.
+
+§ 2. Les gestionnaires de réseaux constituent toutes formes de garantie financière leur permettant d'assurer les indemnisations visées aux articles 25bis à 25quater. La charge liée à la garantie constituée pour assurer les indemnisations en cas de faute lourde sera clairement distinguée dans les comptes des gestionnaires de réseau et ne pourra pas être intégrée dans les tarifs des gestionnaires de réseaux conformément à l'article 32, § 1er, 20 g) du présent décret.
+
+Avant le 31 mars de chaque année, les gestionnaires de réseaux fournissent à la CWaPE la preuve de l'existence d'une telle garantie financière.
+
+[<sup>2</sup> Les montants fixés aux articles 25bis et 25ter sont indexés annuellement de plein droit en les multipliant par l'indice des prix à la consommation pour le mois de juin de l'année n-1 et en les divisant par l'indice des prix à la consommation du mois de juin 2008.]<sup>2</sup>
+
+§ 3. Les articles 25bis à 25quinquies sont reproduits intégralement dans les règlements et contrats de raccordement applicables aux clients raccordes au réseau de distribution.
+
+§ 4. Avant le 31 mars de chaque année, les gestionnaires de réseaux adressent à la CWaPE un rapport faisant état du nombre de demandes d'indemnisation fondées sur les articles 25bis à 25quater réceptionnées au cours de l'année écoulée, ainsi que de la suite qui leur a été réservée.
+
+La CWaPE établit à cet effet un modèle de rapport.
+
+Le rapport visé à l'alinéa 1er est adressé à chaque conseil communal des communes sur le territoire desquelles le gestionnaire de réseau est actif.
+
+Au minimum une fois par an, le conseil d'administration du gestionnaire de réseau inscrit à l'ordre du jour de ses délibérations la discussion d'un rapport actualisé relatif au nombre de demandes d'indemnisation fondées sur les articles 25bis à 25quater, ainsi qu'à la suite qui leur a été réservée.
+
+[<sup>3</sup> Dans un délai de soixante jours à dater de la notification de l'avis rendu en vertu d'une des dispositions du présent chapitre, le gestionnaire de réseau informe le service régional de médiation quant aux suites données à son avis, ou à celui de la CWaPE.]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 37, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2011-10-27/04, art. 18, 016; En vigueur : 04-12-2011&gt;
+
+(3)&lt;DRW 2015-05-21/05, art. 23, 018; En vigueur : 12-06-2015&gt;
+
+#### Sous-section IV. [<sup>1</sup> - Indemnisation due pour les dommages causés par les travaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 37, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 25sexies
+
+[<sup>1</sup> Le gestionnaire de réseau est tenu à réparation des dommages causés par les travaux auxquels il a procédé lors de l'établissement ou de l'exploitation de ses installations, ainsi qu'à l'indemnisation des dommages causés à des tiers, soit du fait de ces travaux, soit de l'utilisation du fonds grevé de la servitude; les indemnités du chef des dommages causés sont entièrement à charge de ce gestionnaire; elles sont dues aux personnes qui subissent ces dommages; leur montant est déterminé soit à l'amiable, soit par les tribunaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 37, 011; En vigueur : 07-08-2008&gt;
+
+## CHAPITRE V. - Accès aux réseaux.
+
+##### Art. 26
+
+§ 1er. L'accès aux réseaux [<sup>2</sup> ...]<sup>2</sup> est réglementé. Les producteurs, fournisseurs et clients [<sup>4</sup> finals]<sup>4</sup> ont un droit d'accès aux réseaux existants aux tarifs publiés conformément [<sup>6</sup> aux règles prévues dans le décret tarifaire]<sup>6</sup>.
+
+[<sup>2</sup> Tous les clients finals sont éligibles. [<sup>5</sup> Ils sont exclusivement alimentés par un réseau exploité par un gestionnaire de réseau, sauf exception relevée dans le décret pour un réseau privé, un réseau fermé professionnel ou une conduite directe ainsi qu'un projet pilote, autorisé par la CWaPE conformément à l'article 27, constituant un réseau alternatif au réseau public exploité par un gestionnaire de réseau ou visant à tester la généralisation d'un nouveau principe de tarification des réseaux de distribution.]<sup>5</sup>
+
+Les gestionnaires de réseaux ont accès aux réseaux avec lesquels ils sont interconnectés pour la quantité d'énergie qu'ils utilisent en qualité de fournisseur ou de client final.
+
+En leur qualité de gestionnaire de réseau, ils concluent une convention de collaboration avec les gestionnaires des réseaux avec lesquels ils sont interconnectés. Cette convention de collaboration est transmise à la CWaPE, qui peut suggérer des amendements pour des motifs d'intérêt général.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Les gestionnaires de réseaux garantissent un accès non discriminatoire et transparent à leur réseau.
+
+Ils ne peuvent en refuser l'accès que dans les cas suivants :]<sup>2</sup>
+
+1° si la sécurité du réseau est menacée;
+
+2° si le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> concerné ne dispose pas de la capacité technique nécessaire pour assurer la transmission [<sup>2</sup> du gaz]<sup>2</sup> sur son réseau;
+
+3° si le demandeur ne satisfait pas aux prescriptions [<sup>2</sup> du règlement technique]<sup>2</sup>;
+
+4° si l'accès au réseau concerné entrave l'exécution d'une obligation de service public dans le chef du gestionnaire dudit réseau.
+
+[<sup>2</sup> 5° lorsque la demande d'accès concerne un gaz non compatible.]<sup>2</sup>
+
+La décision de refus [<sup>2</sup> est]<sup>2</sup> dûment motivée [<sup>4</sup> justifiée par des critères objectifs, techniquement et économiquement fondés. Elle est]<sup>4</sup> notifiée au demandeur. [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>4</sup> Dans les trente jours suivant le refus d'accès visés à l'alinéa 2, 1°, 2° et 4°, le gestionnaire de réseau transmet à la CWaPE les informations pertinentes sur les mesures nécessaires pour adapter le réseau.]<sup>4</sup>
+
+[<sup>3</sup> § 3. [<sup>4</sup> Lorsqu'il existe un réseau de distribution de gaz accessible et que le maître de l'ouvrage choisit de recourir à cette source d'énergie pour une utilisation finale individuelle, le placement d'un compteur individuel est obligatoire pour toute maison d'habitation individuelle et tout immeuble à appartements neuf ou faisant l'objet de travaux de rénovation importants, c'est -à -dire :
+
+1° soit lorsque la maison ou l'immeuble fait l'objet de travaux portant sur au moins un quart de son enveloppe;
+
+2° soit lorsque le coût total de la rénovation portant sur l'enveloppe ou sur les installations énergétiques est supérieur à 25 % de la valeur du bâtiment; la valeur du bâtiment ne comprend pas la valeur du terrain sur lequel bâtiment est sis.
+
+Tout client final raccordé au réseau public de distribution et, le cas échéant, tout client final raccordé au réseau privé et au réseau fermé professionnel, a le droit d'exiger le placement d'un compteur individuel de gaz.
+
+Il peut être dérogé aux alinéas précédents en cas d'impossibilités techniques et en fonction des exceptions définies dans le règlement technique.
+
+Pour le 1er janvier 2024 au plus tard, le propriétaire d'un immeuble à appartements non équipé de compteurs individuels de gaz procède, à ses frais, à la rénovation de l'immeuble à appartements afin d'y faire placer des compteurs individuels de gaz.]<sup>4</sup>]<sup>3</sup>
+
+[<sup>2</sup> § 4. Tout client final est tenu, au moins une fois par an, d'autoriser le gestionnaire de réseau à relever les index du ou des compteurs correspondant aux points de raccordement dont il est titulaire, ou de les lui communiquer à sa demande. Le Gouvernement peut déterminer les conséquences dans le chef du client du non respect de cette obligation.
+
+[<sup>4</sup> Le client peut communiquer, suivant les modalités spécifiées par le gestionnaire de réseau, sur la base d'une périodicité qui ne peut pas être inférieure à trois mois ses relevés d'index à des fins d'informations, de simulation des consommations, ou d'adaptation des acomptes.]<sup>4</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DRW 2008-07-17/52, art. 38, 011; En vigueur : 07-08-2008&gt;
+
+(3)&lt;DRW 2008-07-17/52, art. 38, 011; En vigueur : 01-01-2009&gt;
+
+(4)&lt;DRW 2015-05-21/05, art. 24, 018; En vigueur : 12-06-2015&gt;
+
+(5)&lt;DRW 2018-07-17/04, art. 155, 022; En vigueur : 18-10-2018&gt;
+
+(6)&lt;DRW 2024-03-28/66, art. 16, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 27
+
+[<sup>1</sup> § 1er. La CWaPE peut autoriser, conformément au paragraphe 2 et aux conditions qu'elle détermine, le développement de projets pilotes constituant des réseaux alternatifs au réseau public exploité par un gestionnaire de réseau ou des projets pilotes visant à tester la généralisation d'un nouveau principe de tarification des réseaux de distribution.
+
+§ 2. Ces projets répondent notamment aux conditions suivantes :
+
+1° avoir pour objet l'étude de la mise en oeuvre de solutions technologiques optimales pour le marché wallon du gaz, notamment en matière d'efficacité énergétique, de flexibilité de la demande, d'optimisation du développement et de la gestion de la production décentralisée;
+
+2° présenter un caractère innovant et inédit;
+
+3° sans préjudice du paragraphe 1er, ne pas avoir pour effet ou pour but de déroger aux obligations imposées aux acteurs du marché régional du gaz par ou en vertu du présent décret, sauf s'il est démontré qu'il est nécessaire de déroger à ces règles pour le bon fonctionnement du projet ou pour l'atteinte des objectifs poursuivis par celui-ci;
+
+4° ne pas avoir pour principal objectif d'éluder ou de diminuer, dans le chef des participants au projet pilote, toutes formes de taxes et charges dont ils seraient redevables s'ils n'étaient pas dans le périmètre du projet pilote;
+
+5° présenter un caractère reproductible à l'ensemble du marché wallon de manière non discriminatoire;
+
+6° assurer la publicité des résultats du projet pilote;
+
+7° Avoir une durée limitée dans le temps qui n'excède pas cinq ans.
+
+§ 3. La CWaPE peut assortir sa décision d'autorisation de conditions particulières dérogeant au paragraphe 2, 3° et 4°.
+
+§ 4. [<sup>2</sup> Sur proposition de la CWaPE, le Gouvernement peut préciser les conditions d'autorisation ]<sup>2</sup>, les modalités et la procédure d'octroi de l'autorisation ainsi que les obligations auxquelles est soumis le titulaire d'une telle autorisation.
+
+Par dérogation à l'alinéa précédent, la CWaPE peut [<sup>2</sup> préciser les critères d'autorisation, le contenu du dossier de demande et ]<sup>2</sup> autoriser les demandes introduites avant que le Gouvernement n'ait déterminé les conditions, les modalités et la procédure d'octroi d'une autorisation, à condition que ces demandes respectent les conditions visées au paragraphe 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 156, 022; En vigueur : 18-10-2018&gt;
+
+(2)&lt;DRW 2024-03-28/66, art. 17, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 28
+
+&lt;Abrogé par DRW 2015-05-21/05, art. 25, 018; En vigueur : 12-06-2015&gt;
+
+##### Art. 29
+
+[<sup>1</sup> § 1er. Sans préjudice des dispositions applicables en matière d'aménagement du territoire, la construction de nouvelles conduites directes est soumise à l'octroi préalable d'une autorisation individuelle délivrée par [<sup>2</sup> ...]<sup>2</sup> la CWaPE, et est publiée [<sup>2</sup> ...]<sup>2</sup> sur le site de la CWaPE.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>2</sup> Sans préjudice de l'application éventuelle de l'amende administrative visée à l'article 48, la CWaPE peut régulariser une conduite directe construite sans autorisation préalable et répondant aux conditions prévues pour obtenir une autorisation. En cas de refus, la CWaPE peut ordonner le démantèlement de la conduite en question.]<sup>2</sup>
+
+§ 2. Après avis de la CWaPE, le Gouvernement détermine les critères [<sup>2</sup> objectifs et non discriminatoires, ainsi que la]<sup>2</sup> la procédure d'octroi [<sup>2</sup> ou de régularisation]<sup>2</sup> des autorisations visées au paragraphe 1er, [<sup>4</sup> les situations ne correspondant pas à une conduite directe, ]<sup>4</sup> la redevance à payer pour l'examen du dossier, ainsi que les droits et obligations du titulaire de l'autorisation.
+
+§ 3. Le titulaire d'une autorisation visée au paragraphe 1er est soumis aux articles 18 à 23.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 40, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 26, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2018-07-17/04, art. 157, 022; En vigueur : 18-10-2018&gt;
+
+(4)&lt;DRW 2019-05-02/77, art. 16, 026; En vigueur : 23-09-2019&gt;
+
+## CHAPITRE VI. - Fournisseurs et intermédiaires.
+
+##### Art. 30
+
+§ 1er. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 2. [<sup>3</sup> Sans préjudice du § 5, tout fournisseur de gaz et toute personne assurant elle-même sa propre fourniture de gaz sont soumis à l'octroi préalable d'une licence délivrée par [<sup>4</sup> la CWaPE]<sup>4</sup>.]<sup>3</sup>
+
+§ 3. [Il existe [<sup>4</sup> deux]<sup>4</sup> catégories de licences de fourniture :
+
+1° la licence générale;
+
+2° [<sup>4</sup> la licence limitée, octroyée dans une des situations suivantes :
+
+a) pour une quantité d'énergie plafonnée;
+
+b) pour une fourniture à l'intérieur d'une aire géographique restreinte et bien délimitée;
+
+c) à des clients déterminés;
+
+d) pour assurer sa propre fourniture, à l'exception des situations d'auto-production visées à l'article 30bis, § 2, alinéa 2, 1°;]<sup>4</sup>
+
+3° [<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>4</sup> Sont soumis à l'octroi de la licence visée à l'alinéa 1er, 2°, d), le producteur qui utilise les réseaux de transport ou de distribution en vue d'alimenter en gaz d'autres sièges ou établissements situés en Région wallonne, ainsi que le client qui s'alimente lui-même en gaz, notamment auprès d'une bourse.]<sup>4</sup>
+
+Le Gouvernement précise les caractéristiques des [<sup>4</sup> deux]<sup>4</sup> catégories susmentionnées.] &lt;DRW 2005-02-03/39, art. 136, 003; En vigueur : 11-03-2005&gt;
+
+[Après avis de la CWaPE, [<sup>3</sup> le Gouvernement]<sup>3</sup> définit, pour chaque catégorie de licences, les critères d'octroi, de révision ou de retrait ainsi que la durée de validité de la licence, dans le respect des conditions visées au présent paragraphe.] Ces critères portent notamment sur : &lt;DRW 2005-02-03/39, art. 136, 003; En vigueur : 11-03-2005&gt;
+
+1° l'honorabilité et l'expérience professionnelle, les capacités techniques et financières et la qualité de l'organisation garantissant la bonne réalisation des missions du fournisseur;
+
+2° l'autonomie juridique et de gestion du demandeur à l'égard des gestionnaires des réseaux, à l'exception des gestionnaires de réseaux de [<sup>2</sup> gaz issu exclusivement de SER]<sup>2</sup>;
+
+3° le respect des obligations de service public visées à l'article 33.
+
+[<sup>4</sup> Le Gouvernement peut [<sup>5</sup> exonérer les demandeurs]<sup>5</sup> de licence limitée de fourniture visée à l'alinéa 1er, 2°, ainsi que les fournisseurs titulaires d'une licence de fourniture accordée au niveau fédéral, dans les autres Régions ou dans un autre Etat membre de l'Espace économique européen, de certains des critères d'octroi.]<sup>4</sup>
+
+§ 4. Après avis de la [<sup>1</sup> CWaPE]<sup>1</sup>, le Gouvernement fixe :
+
+1° la procédure d'octroi et de retrait de la licence visée au paragraphe 2, notamment la forme de la demande, l'instruction du dossier, [<sup>3</sup> ainsi que]<sup>3</sup> les délais dans lesquels [<sup>4</sup> la CWaPE]<sup>4</sup> doit statuer et notifier sa décision au demandeur [<sup>3</sup> ...]<sup>3</sup>;
+
+2° les conditions de renonciation, le sort de la licence en cas de modification de contrôle, de fusion ou de scission du titulaire de la licence et, le cas échéant, les conditions à remplir et les procédures à suivre pour le maintien ou la révision de la licence dans ces cas. En cas de fusion entre fournisseurs titulaires de licences, la licence est [<sup>3</sup> de plein droit]<sup>3</sup> accordée à l'entité fusionnée.
+
+[<sup>4</sup> Le Gouvernement peut prévoir une procédure simplifiée pour les fournisseurs titulaires d'une licence de fourniture [<sup>5</sup> de gaz ou d'électricité accordée au niveau régional wallon,]<sup>5</sup> fédéral, dans les autres Régions ou dans un autre Etat membre de l'Espace économique européen [<sup>5</sup> ainsi que pour les demandeurs de licence limitée de fourniture visée au paragraphe 3, alinéa 1er, 2°.]<sup>5</sup>]<sup>4</sup>
+
+[<sup>5</sup> Sans préjudice de l'article 29, § 2, le Gouvernement peut, après avis de la CWaPE, prévoir un régime conjoint de licence limitée de fourniture et d'autorisation individuelle de construire une conduite directe.]<sup>5</sup>
+
+[<sup>3</sup> § 5. Lorsque, conformément au présent décret, le gestionnaire de réseau exerce une activité de fourniture, cette activité ne nécessite pas l'obtention d'une licence de fourniture.
+
+Les quantités de gaz consommées par les clients finals qui ne sont ni autoproduites, ni facturées par un fournisseur, sont facturées à ces clients finals à titre de fourniture, par le gestionnaire de réseau auxquels ils sont raccordés.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(3)&lt;DRW 2008-07-17/52, art. 41, 011; En vigueur : 07-08-2008&gt;
+
+(4)&lt;DRW 2015-05-21/05, art. 27, 018; En vigueur : 12-06-2015&gt;
+
+(5)&lt;DRW 2018-07-17/04, art. 157bis, 022; En vigueur : 18-10-2018&gt;
+
+##### Art. 30bis
+
+[<sup>2</sup> § 1er. Tout client final est libre de choisir son propre fournisseur. Au sein d'un réseau privé ou d'un réseau fermé professionnel, les clients avals connectés au réseau peuvent mandater le gestionnaire de réseau en question d'exercer, en leur nom et pour leur compte, leur éligibilité. Pour être valable, le mandat est prévu de manière expresse.]<sup>2</sup>
+
+[<sup>1</sup> [<sup>2</sup> § 2.]<sup>2</sup> Tout client final est tenu de recourir à un fournisseur disposant d'une licence de fourniture délivrée conformément à l'article précédent, à défaut de détenir lui-même une licence pour assurer sa propre fourniture, dans les cas visés à l' [<sup>2</sup> article 30, § 3, alinéa 1er, 2°, d)]<sup>2</sup>.
+
+Cette obligation ne s'applique toutefois pas au client final qui :
+
+1° produit tout ou partie du gaz qu'il consomme, pour la partie du gaz autoproduite et consommée sur le site de production;
+
+2° est fourni, par ou en vertu du présent décret, par un gestionnaire de réseau de distribution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 42, 011; Inwerkingtreding : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 28, 018; En vigueur : 12-06-2015&gt;
+
+##### Art. 30ter
+
+[<sup>1</sup> § 1er. Toute coupure de gaz réalisée [<sup>2</sup> ...]<sup>2</sup> en violation des prescriptions du présent décret ou de ses arrêtés d'exécution, ou intervenant en suite d'une erreur de gestion ou de facturation [<sup>2</sup> du]<sup>2</sup> fournisseur oblige celui-ci à payer au client final une indemnité forfaitaire journalière de 125 euros jusqu'à la date de la demande de rétablissement de l'alimentation, notifiée de manière non contestable par le fournisseur au gestionnaire de réseau.
+
+Le gestionnaire de réseau rétablit l'alimentation dans les délais prévus par le règlement technique. A défaut, le client peut recourir à l'application de l'article [<sup>2</sup> 25bis]<sup>2</sup>.
+
+L'indemnité est plafonnée à 1.875 euros. Les frais de fermeture et de rétablissement de l'alimentation sont également supportés par le fournisseur sans pouvoir être répercutés auprès du client final.
+
+§ 2. De même, en-dehors du cas visé au § 1er, tout client final a droit à une indemnité forfaitaire mensuelle de 100 euros à charge du fournisseur lorsque, celui-ci n'ayant pas correctement donné suite au contrat conclu avec le client final, le contrat ne peut effectivement entrer en vigueur à la date convenue entre les parties.
+
+§ 3. Le client final adresse la demande d'indemnisation au fournisseur par courrier recommandé ou par tout moyen déclaré conforme par le Gouvernement, dans les trente jours calendrier, selon le cas :
+
+1° de la survenance de la coupure visée au § 1er;
+
+2° de la prise de connaissance, par le client final, de l'erreur dans la procédure de changement de fournisseur, en application du § 2.
+
+Le client final mentionne dans sa demande les données essentielles au traitement de celle-ci. En vue de faciliter la démarche du client concerné, le fournisseur met à disposition des clients finals un formulaire de demande d'indemnisation approuvé par la CWaPE. Ce formulaire est également disponible sur le site Internet du fournisseur.
+
+Le fournisseur indemnise le client dans les trente jours calendrier de la réception de la demande d'indemnisation.
+
+§ 4. Si le fournisseur estime que la coupure ou l'erreur dans la procédure de changement de fournisseur résulte d'une erreur du gestionnaire de réseau, il en informe le client dans les trente jours calendrier de la réception de la demande d'indemnisation et, dans le même délai, adresse directement la demande au gestionnaire de réseau.
+
+Le gestionnaire de réseau est tenu de traiter la demande d'indemnisation et, le cas échéant, de verser celle-ci dans les mêmes délais que ceux applicables au fournisseur.
+
+§ 5. A défaut d'une réponse du fournisseur ou du gestionnaire de réseau dans les délais requis, ou en cas de refus d'indemnisation, le client peut saisir du dossier le Service régional de médiation vise à l'article 48 du décret Electricité.
+
+La procédure décrite à l'article 25bis, § 3, est d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 43, 011; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 29, 018; En vigueur : 12-06-2015&gt;
+
+##### Art. 30quater
+
+[<sup>1</sup> § 1er. Toute erreur de facturation commise au détriment du client final de la basse pression oblige le fournisseur à payer à ce client final une indemnité d'un montant équivalent à celui de la facture intermédiaire du client rapportée à un mois de consommation et relative à l'année en cours, dans les hypothèses suivantes :
+
+1° soit lorsque le fournisseur s'abstient de traiter, dans les trente jours calendrier à compter de la réception de celle-ci, la plainte adressée par courrier recommandé ou par tout moyen déclaré conforme par le Gouvernement d'un client final qui conteste le montant de la facture qu'il a honorée;
+
+2° soit lorsque le fournisseur, suite à une plainte adressée par courrier recommandé ou par tout moyen déclaré conforme par le Gouvernement par un client final ayant honoré la facture, confirme au client une erreur dans la facturation, quelle qu'en soit l'origine, mais s'abstient d'adresser au client final une facture rectificative et de procéder, le cas échéant, au remboursement dû dans les trente jours calendrier de la reconnaissance de l'erreur, sous réserve de l'hypothèse visée au paragraphe 3.
+
+§ 2. Le client final adresse la demande d'indemnisation au fournisseur par courrier recommandé ou par tout moyen déclaré conforme par le Gouvernement, dans les trente jours calendrier du dépassement des délais prévus au § 1er.
+
+Le client final mentionne dans sa demande les données essentielles au traitement de celle-ci. En vue de faciliter la démarche du client concerné, le fournisseur met à disposition des clients finals un formulaire de demande d'indemnisation approuvé par la CWaPE. Ce formulaire est également disponible sur le site Internet du fournisseur.
+
+Le fournisseur indemnise le client dans les trente jours calendrier de la réception de la demande d'indemnisation.
+
+§ 3. Si le fournisseur estime que le dépassement des délais prévus au § 1er est imputable au gestionnaire de réseau, le fournisseur en informe le client final dans les trente jours calendrier de la réception de la demande d'indemnisation et, dans le même délai, adresse directement la demande au gestionnaire de réseau.
+
+Le gestionnaire de réseau est tenu de traiter la demande d'indemnisation et, le cas échéant, de verser celle-ci dans les mêmes délais que ceux applicables au fournisseur.
+
+L'indemnité n'est pas due en cas de méconnaissance, par le client final, de l'obligation visée à l'article 26, § 4 ou, le cas échéant, de la transmission erronée par le client final des données permettant d'établir la facturation. [<sup>2</sup> Le fournisseur rectifie sa facturation dans un délai de deux mois à dater de la réception des corrections sous peine d'application de l'indemnité visée au présent article. La rectification porte sur l'ensemble de la période concernée par l'erreur.]<sup>2</sup>
+
+§ 4. A défaut d'une réponse du fournisseur ou du gestionnaire de réseau dans les délais requis, ou en cas de refus d'indemnisation, le client peut saisir du dossier le Service régional de médiation.
+
+La procédure décrite à l'article 25bis, § 3, est d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 43, 011; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 30, 018; En vigueur : 12-06-2015&gt;
+
+##### Art. 30quinquies
+
+[<sup>1</sup> § 1er. Avant le 31 mars de chaque année, les fournisseurs adressent à la CWaPE un rapport faisant état du nombre de demandes d'indemnisation fondées sur les articles 30ter et 30quater, réceptionnées au cours de l'année écoulée, ainsi que de la suite qui leur a été réservée.
+
+La CWaPE établit à cet effet un modèle de rapport.
+
+§ 2. Les articles 30ter et 30quater ne font pas échec à l'application d'autres dispositions légales permettant de mettre en cause la responsabilité du fournisseur. En tout état de cause, l'application conjuguée de différents régimes de responsabilité ne peut entraîner une indemnisation du client final supérieure à la réparation intégrale du préjudice subi.
+
+Les montants visés aux articles 30ter et 30quater sont indexés annuellement de plein droit en les multipliant par l'indice des prix à la consommation pour le mois de juin de l'année [<sup>2</sup> n-1]<sup>2</sup> et en les divisant par l'indice des prix à la consommation du mois de juin [<sup>2</sup> 2008]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>3</sup> § 3. Dans un délai de soixante jours à dater de la notification de l'avis rendu en vertu d'une des dispositions du présent chapitre, le fournisseur informe le service régional de médiation quant aux suites données à son avis, ou à celui de la CWaPE.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 43, 011; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DRW 2011-10-27/04, art. 19, 016; En vigueur : 04-12-2011&gt;
+
+(3)&lt;DRW 2015-05-21/05, art. 31, 018; En vigueur : 12-06-2015&gt;
+
+##### Art. 31
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Toute activité d'intermédiaire doit faire l'objet d'une déclaration préalable [<sup>2</sup> à la CWaPE]<sup>2</sup>. Cette déclaration mentionne :
+
+1° les nom, prénom, profession, domicile et nationalité du déclarant;
+
+2° s'il s'agit d'une société, la raison sociale ou la dénomination, la forme juridique, le siège social, les statuts et, le cas échéant, les documents attestant des pouvoirs du ou des déclarants.
+
+[<sup>1</sup> § 2. [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 44, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 32, 018; En vigueur : 12-06-2015&gt;
+
+## CHAPITRE VIbis. [<sup>1</sup> - Dispositions à caractère social]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 45, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 31/1
+
+[<sup>1</sup> Les dispositions du présent Chapitre peuvent uniquement s'appliquer aux clients résidentiels pour la fourniture de gaz au lieu de leur domicile.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 157ter, 022; En vigueur : 18-10-2018&gt;
+
+### Section 1re. [<sup>2</sup> - Clients protégés et procédure de défaut de paiement.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 45, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2022-10-06/15, art. 2, 029; En vigueur : 01-01-2023&gt;
+
+##### Art. 31bis
+
+[<sup>1</sup> § 1er. Les clients résidentiels relevant d'une des catégories suivantes sont des clients protégés :
+
+1° tout consommateur considéré comme client protégé bénéficiant du tarif social spécifique par ou en vertu de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité;
+
+2° tout consommateur qui bénéficie d'une décision de guidance éducative de nature financière prise par un centre public d'action sociale ou qui fait l'objet d'un suivi assuré par une institution agréée en application du décret du 7 juillet 1994 concernant l'agrément des institutions pratiquant la médiation de dettes et les médiateurs visés à l'article 1675/17 du Code judiciaire;
+
+3° [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2. Après avis de la CWaPE, le Gouvernement détermine la procédure et les modalités d'octroi et de perte du statut de client protégé. Il peut étendre la liste des clients protégés à d'autres catégories de clients finals.]<sup>1</sup>
+
+[<sup>3</sup> § 3. Tout client protégé visé au paragraphe 1er est un " consommateur vulnérable " au sens de la directive 2009/73/CE. Le Gouvernement peut étendre la liste des consommateurs vulnérables en tenant compte de critères tels que le niveau de revenus, la part des dépenses d'énergie dans le revenu disponible et l'efficacité énergétique du logement.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 45, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2018-07-17/04, art. 158, 022; En vigueur : 18-10-2018&gt;
+
+(3)&lt;DRW 2024-03-28/66, art. 18, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 31ter
+
+[<sup>1</sup> § 1er. Le gestionnaire de réseau fournit le gaz au tarif social au client protégé visés à [<sup>2</sup> l'article 31bis, § 1er, 2° et § 2]<sup>2</sup>, sauf si le client demande à être fourni, au tarif commercial, par un fournisseur de son choix. Le gestionnaire de réseau est habilité à fournir du gaz au tarif social au client protégé visé à [<sup>2</sup> l'article 31bis, § 1er, 1°]<sup>2</sup>, lorsque le client le demande.
+
+Le transfert du client [<sup>4</sup> protégé ]<sup>4</sup> vers le gestionnaire de réseau entraîne la résiliation de plein droit du contrat de fourniture en cours sans frais [<sup>4</sup> de résiliation ]<sup>4</sup> ni indemnité de résiliation.
+
+§ 2. [<sup>3</sup> L'échéance de la facture relative à la consommation de gaz ne peut être inférieure à quinze jours calendrier à dater de son émission. En cas de non-paiement du montant facturé, le fournisseur envoie un rappel. [<sup>5</sup> La nouvelle date d'échéance n'est pas inférieure à quatorze jours. Le délai de quatorze jours prend cours le troisième jour ouvrable qui suit celui où le rappel est envoyé au consommateur, ou le jour suivant si le jour auquel le délai prend cours est un samedi, un dimanche ou un jour férié légal. Lorsque le rappel est envoyé par voie électronique, le délai de quatorze jours prend cours le jour qui suit celui où le rappel est envoyé au consommateur]<sup>5</sup>. Le rappel informe le client de la nouvelle date d'échéance, de la faculté de faire appel au C.P.A.S. ou à un médiateur de dette agréé et de la procédure suivie si le client n'apporte pas de solution quant au paiement de la facture. En cas d'absence de réaction du client, le fournisseur envoie une mise en demeure par lettre recommandée et par voie postale. En cas de mise en demeure du client, le fournisseur est tenu d'inviter son client à le contacter pour conclure un plan de paiement raisonnable et d'informer son client de la possibilité de bénéficier de l'assistance d'un C.P.A.S. ou d'un service de médiation de dettes dans sa négociation. Le fournisseur informe son client du délai dont il dispose pour conclure avec lui un plan de paiement raisonnable.
+
+Après l'expiration du délai de quinze jours calendrier suivant la réception du courrier recommandé de mise en demeure qui ne peut viser qu'un montant supérieur au minimum de dette fixé par le Gouvernement, en cas d'absence de réaction du client, de refus de conclusion d'un plan de paiement raisonnable, le client est déclaré en défaut de paiement.
+
+Le Gouvernement arrête la forme et le contenu des formulaires que le fournisseur doit joindre aux courriers de mise en demeure et de déclaration de défaut de paiement qu'il adresse au client en application des alinéas 1er et 4. Ces formulaires indiquent, notamment, de façon explicite et lisible, que le client peut effectuer un ou plusieurs des choix suivants, en détaillant chacun d'eux en un court paragraphe :
+
+\- demander l'activation de la fonction de prépaiement. Si le client marque son accord de façon explicite par écrit, le fournisseur peut demander l'activation du prépaiement auprès du gestionnaire de réseau;
+
+\- demander la conclusion d'un plan de paiement raisonnable;
+
+\- demander l'aide du C.P.A.S.;
+
+\- faire appel au service de médiation de la CWaPE;
+
+\- demander le lancement d'une procédure de médiation de dettes;
+
+\- demander la saisine du juge de paix par requête conjointe.
+
+Le fournisseur informe le client en défaut de paiement par courrier et y joint le formulaire indiqué à l'alinéa 3 [<sup>4</sup> Le fournisseur peut proposer une version informatisée du formulaire. Dans ce cas, elle est mentionnée sur le formulaire papier]<sup>4</sup>. Ce courrier indique également au client que son nom, son prénom, son adresse postale, son numéro de téléphone et, le cas échéant, son adresse électronique seront transmises au C.P.A.S. dans les dix jours calendrier de la réception du courrier pour lui permettre de bénéficier de son assistance dans la négociation d'un plan de paiement raisonnable, d'aides financières ou de mesures de guidance. Le client peut s'y opposer par courrier dans les cinq jours calendrier.
+
+Il indique également que, dans les trente jours calendrier de la réception du courrier et en cas d'absence de réponse aux formulaires joints aux courriers de mise en demeure et de déclaration de défaut de paiement, le fournisseur demande l'activation de la fonction de prépaiement au gestionnaire de réseau ou saisit le juge de paix [<sup>4</sup> pour demander toute mesure visant au remboursement de la dette, l'activation du prépaiement ou la résolution du contrat de fourniture. La décision du juge peut prévoir que le fournisseur suspende l'alimentation du client en cas d'échec des mesures visant au remboursement de la dette ou de l'activation du prépaiement.]<sup>4</sup>. Le fournisseur informe également le client de son droit de refuser l'activation du prépaiement et des conséquences d'un éventuel jugement par défaut. Ce délai est allongé de maximum trente jours calendrier à la demande du C.P.A.S., le temps de l'analyse sociobudgétaire, d'une éventuelle prise de décision concernant une aide financière et de la négociation d'un plan de paiement raisonnable avec le fournisseur.
+
+A tout moment de la procédure, en cas de conclusion d'un plan de paiement raisonnable entre le client et son fournisseur, la procédure applicable en cas de non-paiement ou la procédure de défaut de paiement est suspendue.
+
+Le fournisseur communique par écrit au client le plan de paiement conclu ou toute modification de celui-ci.
+
+En cas de non-respect de la procédure choisie dans le formulaire joint aux courriers de mise en demeure et de déclaration de défaut de paiement ou en cas de non-respect du plan de paiement raisonnable, le fournisseur demande l'activation de la fonction de prépaiement au gestionnaire de réseau ou saisit le juge de paix pour demander la résiliation du contrat de fourniture. Le fournisseur informe également le client de son droit de refuser l'activation du prépaiement et des conséquences d'un éventuel jugement par défaut.
+
+Dans le cadre de son rapport annuel, la CWaPE communique au Gouvernement et au Parlement wallon un rapport sur les procédures menées devant la justice de paix dans le cadre d'un défaut de paiement. Ce rapport recense le nombre de dossiers, la durée moyenne de traitement, les fournisseurs concernés, l'issue des jugements concernés et les montants de l'impayé pour lequel la procédure a été initiée.
+
+Conformément à l'article 15/5bis, § 11/3, de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations, le client a la possibilité à tout moment de conclure un nouveau contrat de fourniture.
+
+Le Gouvernement peut préciser les modalités d'application du présent article sauf celles qui sont visées à l'alinéa 8.]<sup>3</sup>
+
+[<sup>4</sup> Tout jugement prononçant la résolution du contrat autorise de plein droit la coupure par le gestionnaire du réseau de distribution concerné, en ce compris l'accès au compteur avec l'aide de la force publique si nécessaire.]<sup>4</sup>
+
+[<sup>4</sup> Dans l'hypothèse où le client est domicilié à l'adresse de consommation, le fournisseur ne peut faire procéder à la coupure qu'un mois après la signification au ménage du jugement de résolution. Le fournisseur doit communiquer par écrit ou par voie électronique de sa décision de procéder à cette coupure en exécution de ce jugement au C.P.A.S. de la commune du domicile de son client, sauf si le ménage a précédemment refusé la communication de son nom.]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2015-05-21/05, art. 34, 018; En vigueur : 12-06-2015&gt;
+
+(2)&lt;DRW 2018-07-17/04, art. 159, 022; En vigueur : indéterminée &gt;
+
+(3)&lt;DRW 2022-10-06/15, art. 3, 029; En vigueur : 01-01-2023&gt;
+
+(4)&lt;DRW 2024-03-28/66, art. 19, 031; En vigueur : 11-08-2024&gt;
+
+(5)&lt;DRW 2025-12-19/70, art. 37, 034; En vigueur : 09-01-2026&gt;
+
+##### Art. 31ter/1
+
+[<sup>1</sup> § 1er. Aucune coupure de gaz ne peut être effectuée sans l'autorisation du juge de paix.
+
+Le fournisseur peut demander l'activation de la fonction de prépaiement au gestionnaire de réseau dans les cas prévus à l'article 31ter. L'activation du prépaiement ne peut être imposée si le client a demandé la saisine du juge de paix par requête conjointe ou s'il a refusé cette activation. Dans ce deuxième cas, le fournisseur saisit le juge de paix par requête contradictoire.
+
+Le client protégé est alimenté par son gestionnaire de réseau de distribution dès que son fournisseur l'a déclaré en défaut de paiement. Pendant la période hivernale, le gestionnaire de réseau octroie une aide permettant de maintenir la fourniture de gaz dans tout logement occupé au titre de résidence principale par un client protégé qui n'est plus en mesure d'alimenter son compteur à budget, que le prépaiement ait été activé sur base volontaire ou sur décision d'un juge de paix. Sans préjudice de l'article 31quater, § 2, alinéa 1er, 2°, le gaz consommé au cours de la période visée reste à charge du client protégé. Le Gouvernement précise la procédure d'octroi de cette aide.
+
+§ 2. Le paragraphe 1er n'est pas applicable lorsque la coupure est requise au motif que la sécurité des biens ou des personnes ou le bon fonctionnement du réseau de distribution est gravement menacé. Le paragraphe 1er n'est également pas applicable lorsque la coupure résulte de l'application de la procédure de régularisation prévue dans le cadre d'un déménagement ou en cas de bris de scellés.
+
+§ 3. Toute coupure effectuée sans l'autorisation du juge de paix sur la base du présent article fait l'objet d'une mesure d'information par courrier, mentionnant au client les raisons précises qui ont justifié cette coupure, ainsi que la durée de celle-ci. Une copie de la lettre est adressée à la CWaPE.
+
+§ 4. Le fait qu'un ménage ne procède pas à l'activation volontaire du prépaiement ne porte pas préjudice à l'octroi d'une aide prévue dans le cadre d'une autre législation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-10-06/15, art. 4, 029; En vigueur : 01-01-2023&gt;
+
+##### Art. 31ter/2
+
+[<sup>1</sup> Sans préjudice de l'article 31ter/1, la coupure d'un client ne peut intervenir durant la période hivernale, période durant laquelle la fourniture à charge du client est assurée par le gestionnaire de réseau de distribution. Cette interdiction de coupure d'un client concerne les demandes de coupure sur autorisation du juge de paix et les demandes de coupure d'un point de prélèvement pour lequel le contrat arrive à terme durant la période hivernale. Lorsque le motif de la demande de coupure d'un point de prélèvement est l'échéance du contrat durant la période hivernale, la demande de coupure est exécutée à l'expiration de la période hivernale, sauf si le consommateur dispose d'un nouveau contrat de fourniture portant sur le point de prélèvement concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-10-06/15, art. 5, 029; En vigueur : 01-01-2023&gt;
+
+### Section 2. [<sup>1</sup> - Commissions locales pour l'énergie]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 45, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 31quater
+
+[<sup>1</sup> § 1er. Dans chaque commune, il est constitué, à l'initiative du président du conseil de l'action sociale une commission locale pour la prévention des coupures et des interruptions de fourniture, en abrégé "commission locale pour l'énergie", composée :
+
+1° d'un représentant désigné par le conseil de l'action sociale;
+
+2° d'un représentant assurant la guidance sociale énergétique au sein du centre public d'action sociale;
+
+3° d'un représentant du gestionnaire de réseau auquel le client [<sup>3</sup> protégé]<sup>3</sup> est connecté, [<sup>2</sup> d'un représentant du fournisseur social auquel le client est connecté]<sup>2</sup>.
+
+Dans les six mois du renouvellement du conseil de l'action sociale, le président du conseil adresse à la CWaPE le nom des personnes qui ont été désignées en vue de siéger à la commission [<sup>3</sup> ainsi que le nom de leurs suppléants]<sup>3</sup>.
+
+§ 2. La commission est convoquée soit à l'initiative [<sup>2</sup> ...]<sup>2</sup>, du gestionnaire de réseau ou du CPAS, soit à l'initiative du client. Elle se prononce notamment :
+
+1° sur l'octroi de l'aide visée au paragraphe 2 de l'article 31ter pendant la période hivernale;
+
+2° sur la remise totale ou partielle de dette du client protégé à l'égard du gestionnaire de réseau agissant comme fournisseur;
+
+3° [<sup>2</sup> ...]<sup>2</sup>.
+
+La commission se prononce à la majorité des membres. Au moins quinze jours avant la tenue de la réunion, le client est invité à s'y présenter aux fins d'être entendu. Le cas échéant, il peut s'y faire assister ou représenter par une personne de son choix. La commission délibère à huis clos.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+La décision est notifiée au client et au gestionnaire de réseau dans les sept jours.
+
+§ 3. Le Gouvernement définit les modalités et la procédure de fonctionnement de la commission et peut en étendre la composition à toute personne qui a un intérêt à y être représentée.
+
+§ 4. Avant le 31 mars de chaque année, les gestionnaires de réseaux [<sup>2</sup> ...]<sup>2</sup> adressent à la CWaPE un rapport faisant état, pour chaque commune, du nombre de convocations de la commission locale pour l'énergie émises au cours de l'année écoulée, ainsi que de la suite qui leur a été réservée.
+
+Avant le 31 mars de chaque année, les commissions locales pour l'énergie peuvent adresser au conseil communal un rapport faisant état du nombre de convocations de la commission émises au cours de l'année écoulée, ainsi que de la suite qui leur a été réservée.
+
+S'il apparaît qu'au sein d'une commune, la commission locale pour l'énergie n'est pas constituée ou ne donne pas suite aux convocations du gestionnaire de réseau, le Ministre peut décider, après avis de la CWaPE, et après avoir adressé une lettre de rappel et une lettre de mise en demeure au bourgmestre et au président du centre public d'action sociale, que la redevance visée à l'article 20 n'est pas acquittée à la commune pour l'exercice en cours ou l'exercice suivant.
+
+§ 5. Les commissions locales pour l'énergie sont en outre chargées d'une mission d'information relative aux mesures à caractère social en matière de fourniture d'énergie et des tarifs applicables, de guidance sociale énergétique et de plans d'action préventive en matière d'énergie.
+
+§ 6. Les décisions des commissions locales pour l'énergie peuvent faire l'objet d'un recours devant le juge de paix du lieu de raccordement du client concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-05-21/05, art. 35, 018; En vigueur : 12-06-2015&gt;
+
+(2)&lt;DRW 2018-07-17/04, art. 160, 022; En vigueur : indéterminée &gt;
+
+(3)&lt;DRW 2024-03-28/66, art. 26, 031; En vigueur : 11-08-2024&gt;
+
+### Section 3. [<sup>1</sup> - Guidance sociale énergétique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 45, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 31quinquies
+
+[<sup>1</sup> Chaque centre public d'action sociale est chargé d'assurer une guidance sociale énergétique.
+
+La guidance consiste en des actions de nature préventive et curative. Elle est proposée à des clients résidentiels en difficulté de paiement et prioritairement les clients protégés.
+
+Le Gouvernement définit les modalités de la guidance sociale énergétique. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-05-21/05, art. 36, 018; En vigueur : 12-06-2015&gt;
+
+### Section 4. [<sup>1</sup> - Plans d'action préventive en matière d'énergie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 45, 011; En vigueur : 07-08-2008&gt;
+
+### Art. 31sexies. [<sup>1</sup> Chaque centre public d'action social peut s'engager dans un plan d'action préventive en matière d'énergie, ayant pour objectif d'aider les personnes à mieux utiliser l'énergie et à mieux maîtriser leurs consommations d'énergie, notamment par la mise en oeuvre d'un programme spécifique d'information et de sensibilisation conçu et adapté au public cible concerné.
+
+Le Gouvernement définit les modalités et le financement des plans d'action préventive en matière d'énergie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 45, 011; En vigueur : 07-08-2008&gt;
+
+### Art. 31sexies\_ COMMUNAUTE\_GERMANOPHONE.
+
+&lt;Abrogé par DCG 2021-12-13/12, art. 14, 028; En vigueur : 01-10-2021&gt;
+
+## CHAPITRE VII. - Obligations de service public.
+
+##### Art. 32
+
+[<sup>1</sup> § 1er. [<sup>7</sup> Les gestionnaires de réseau respectent les obligations de service public suivantes]<sup>7</sup>:
+
+1° assurer la sécurité, la régularité et la qualité des fournitures de gaz;
+
+2° en matière de service aux utilisateurs :
+
+a) sans préjudice du 5°, assurer le raccordement au réseau à tout client final qui en fait la demande, aux tarifs publiés [<sup>6</sup> , conformément aux règles prévues dans le décret tarifaire, et approuvés par la CWaPE]<sup>6</sup>;
+
+b) [<sup>2</sup> installer les appareils de mesurage et de comptages et gérer l'ensemble des données de mesure et de comptage nécessaires à la gestion des réseaux et aux processus de marché;]<sup>2</sup>
+
+c) assurer un service efficace de gestion des plaintes;
+
+d) respecter les objectifs de performance définis par la CWaPE, en concertation avec les gestionnaires de réseaux, à tout le moins en matière d'échange de données avec les fournisseurs, de demande de raccordement ou de modification du raccordement [<sup>2</sup> en ce compris le placement des compteurs à budget, de gestion des plaintes des utilisateurs du réseau et de gestion des demandes d'indemnisation et de procédure donnant droit à celle -ci, la CWaPE publie annuellement sur son site internet les performances respectives de chaque gestionnaire de réseau au regard des objectifs]<sup>2</sup>;
+
+e) [<sup>2</sup> ...]<sup>2</sup>
+
+f) assurer [<sup>6</sup> gratuitement ]<sup>6</sup> la communication des données de comptage [<sup>6</sup> à ]<sup>6</sup> tout client [<sup>6</sup> final qui en fait la demande endéans les 10 jours ]<sup>6</sup>
+
+g) assumer la charge liée à la garantie financière imposée par l'article 25quinquies, § 2, à l'exception de la charge liée à la garantie constituée pour assurer les indemnisations en cas de faute lourde, ainsi que les frais de gestion qu'impliquent les mécanismes d'indemnisation énoncés à la section III du chapitre IV;
+
+[<sup>2</sup> h) valider et transmettre au fournisseur les relevés d'index réalisés par les clients avec une périodicité qui ne peut pas être inférieure à trois mois à des fins d'information, de simulation des consommations ou d'adaptation des acomptes tenant compte d'un lissage des consommation sur douze mois;
+
+i) [<sup>3</sup>...]<sup>3</sup>
+
+j) mettre en place la structure adéquate afin que tout changement de fournisseur soit effectué dans les trois semaines suivant réception de la demande;]<sup>2</sup>
+
+[<sup>6</sup> k) mettre à disposition des clients finals un numéro de téléphone gratuit pour toute question utile relative aux missions des gestionnaires de réseaux ainsi qu'à l'utilisation et aux fonctionnalités du compteur communicant;]<sup>6</sup>
+
+[<sup>6</sup> l) sauf mauvaise foi prouvée du client final, en cas d'estimation d'index durant plusieurs années, une rectification des données de mesure ou de comptage et de la facturation qui en découle ne peut se rapporter à une période de plus de 24 mois précédant le dernier relevé réel des compteurs. La somme totale du gaz consommée entre les deux derniers relevés d'index réels est répartie par le gestionnaire de réseau de distribution sur toute la période de temps écoulée entre les deux relevés réels et seule la consommation correspondant aux 24 derniers mois peut être facturée au client final. Une rectification en faveur du client final portera au-delà de la période de 24 mois précédant le dernier relevé réel des compteurs.
+
+En cas de mauvaise foi prouvée du client final et dans l'hypothèse où le gestionnaire de réseau de distribution n'a pas respecté ses obligations en vertu des textes légaux et réglementaires qui lui sont applicables, notamment en matière de relevé de données de mesure ou de comptage et de dispositifs de comptage, prévues par le présent décret et ses arrêtés d'exécution, la rectification ne peut pas aller au-delà d'un délai de 5 ans.]<sup>6</sup>
+
+3° en matière sociale, notamment :
+
+a) appliquer les mesures définies par le Gouvernement lorsqu'un client final est en défaut de paiement envers son fournisseur;
+
+b) assurer, au tarif social, la fourniture de gaz au profit des clients protégés [<sup>2</sup> l'éventuelle différence constatée entre le tarif social appliqué au client protégé exclusivement régional, visé à l'article 31bis, § 1er, 2° et 3°, et § 2, et celui appliqué au client protégé fédéral visé à l'article 31bis, § 1er, 1°, reste à charge du gestionnaire de réseau]<sup>2</sup>;
+
+c) [<sup>5</sup> assurer l'activation de la fonction de prépaiement conformément à l'article 31ter. Le Gouvernement arrête le délai et les modalités d'activation et de désactivation, sur base volontaire et sur base d'une décision de justice, par le gestionnaire de réseau. Si le gestionnaire de réseau de distribution dépasse, pour des raisons qui lui sont imputables, le délai d'activation établi par le Gouvernement, il est redevable au fournisseur qui a introduit la demande d'activation de la fonction de prépaiement d'une intervention forfaitaire dont la méthode de calcul du montant est fixée par le Gouvernement après avis de la CWaPE;]<sup>5</sup>
+
+d) assurer, à titre temporaire et dans les cas spécifiquement prévus par le Gouvernement, la fourniture des clients finals qui se retrouvent provisoirement sans contrat de fourniture [<sup>2</sup> ...]<sup>2</sup>;
+
+e) tenir, au moins une fois par an, une réunion avec les Commissions locales pour l'énergie actives sur leur territoire, dans le but notamment de faire le bilan annuel de leur activité, en ce compris les difficultés éventuelles rencontrées dans le cadre de l'activité des Commissions locales pour l'énergie;
+
+4° en matière de protection de l'environnement, notamment :
+
+a) donner la priorité [<sup>2</sup> de raccordement et d'accès]<sup>2</sup> au gaz issu de SER pour autant qu'il soit compatible avec le gaz du réseau;
+
+b) [<sup>2</sup> procéder gratuitement au raccordement standard pour tout client résidentiel dont les installations sont situées à maximum 8 mètres de la canalisation principale du réseau de distribution majorés de l'éventuelle traversée de voirie.
+
+Le raccordement gratuit est conditionné à un début de prélèvement de gaz à des fins domestiques dans les douze mois qui suivent le raccordement. En dehors de ce délai, le gestionnaire de réseau peut procéder à la facturation de la partie de raccordement qui a fait l'objet de la gratuité;]<sup>2</sup>
+
+[<sup>2</sup> c) acheter, à la demande des producteurs et dans les limites de leurs besoins propres, en ce compris la fourniture aux clients finals dans les cas prévus par le présent décret, à un prix garanti, et suivant les modalités, définis par le Gouvernement après avis de la CWaPE, du gaz issus de SER produit et injecté dans le réseau de distribution ou de transport par des installations établies en Région wallonne;
+
+d) acheter, à la demande des producteurs, à un prix garanti, et suivant les modalités, définis par le Gouvernement après avis de la CWaPE, des garanties d'origines octroyées au gaz issus de SER produit et injecté dans le réseau de distribution ou de transport, par des installations établies en Région wallonne en application de l'article 34;
+
+e) dans les limites définies au Règlement technique, et suivant les modalités de partage des charges économiques définies par le Gouvernement et publiées dans les tarifs du gestionnaire de réseau, raccorder tout producteur qui en fait la demande, ainsi que construire et exploiter un module d'injection de gaz issu de SER, [<sup>6</sup> ...]<sup>6</sup>;]<sup>2</sup>
+
+5° intégrer dans le plan d'investissement toute extension du réseau de gaz demandée par un tiers intéressé, tant que cet investissement est économiquement justifié pour le gestionnaire de réseau, sur la base des données transmises par ce tiers ou connues du gestionnaire de réseau; [<sup>2</sup> le Gouvernement est habilité, après avis de la CWaPE, à définir la méthodologie permettant d'évaluer le caractère économiquement justifié d'une extension de réseau]<sup>2</sup>;
+
+6° en matière d'utilisation rationnelle de l'énergie :
+
+a) prendre toute mesure favorable à l'utilisation rationnelle de l'énergie pour toutes les catégories de clients et assurer à cet égard une information complète des utilisateurs du réseau;
+
+b) proposer des formules tarifaires favorisant l'utilisation rationnelle de l'énergie pour la clientèle, à l'exception de la clientèle participant au système d'échange de quotas d'émissions de gaz à effet de serre;
+
+c) informer au minimum une fois par an, le public des primes existantes en matière d'utilisation rationnelle de l'énergie ou d'énergies renouvelables et des réductions fiscales en la matière;
+
+d) proposer des services énergétiques à des prix compétitifs, en particulier à destination de la clientèle résidentielle socialement défavorisée;
+
+7° placer à la demande de tout client final un compteur adapté à son profil de consommation, aux tarifs publiés [<sup>6</sup> , conformément aux règles prévues dans le décret tarifaire, et approuvés par la CWaPE ]<sup>6</sup>;
+
+8° [<sup>4</sup> assurer l'information des utilisateurs du réseau relative au marché de l'énergie; le Gouvernement peut préciser le contenu et les modes de communication de l'information visée au présent point]<sup>4</sup>;
+
+9° assurer les interventions administratives et techniques liées aux obligations de service public, sauf exception expressément identifiée par le Gouvernement, après avis de la CWaPE.
+
+[<sup>2</sup> 10° développer des facilités de raccordement pour le gaz naturel comprimé au réseau, dans des conditions socialement, techniquement et économiquement raisonnables[<sup>6</sup> ;]<sup>6</sup>]<sup>2</sup>
+
+[<sup>6</sup> 11° informer et sensibiliser individuellement les utilisateurs sur l'utilisation, les caractéristiques, les fonctionnalités et les objectifs des compteurs communicants suite au placement de ces derniers et lors de la première activation de la fonction de prépaiement.]<sup>6</sup>
+
+[<sup>7</sup> Le Gouvernement peut préciser les modalités d'application des obligations de service public visées au présent paragraphe.
+
+Après avis de la CWaPE, le Gouvernement peut imposer aux gestionnaires de réseaux des obligations de service public supplémentaires.
+
+La CWaPE contrôle le respect des obligations de service public visées au présent paragraphe, ainsi que celles adoptées en application de l'alinéa 3.]<sup>7</sup>
+
+§ 2. S'agissant des demandes d'extension du réseau par des tiers visées au § 1er, 5°, les obligations de service public imposées aux gestionnaires de réseaux tiennent compte des dispositions suivantes.
+
+Après avis de la CWaPE, le Gouvernement arrête la forme et les modalités d'introduction de la demande d'extension du réseau, ainsi que le délai et le contenu minimal de la réponse à charge du gestionnaire de réseau concerné par la demande.
+
+Le gestionnaire de réseau est habilité à constituer une provision comptable pour couverture des charges futures liées aux extensions précitées sans compromettre la compétitivité du tarif d'utilisation du réseau de distribution. L'utilisation de cette provision comptable pourra être intégrée comme une diminution de charge dans le calcul du taux de rentabilité précité; le Gouvernement détermine la procédure et les modalités de constitution et d'utilisation de cette provision, ainsi que son plafond.
+
+Lorsque l'investissement n'est pas reconnu comme économiquement justifié, toute partie ayant un intérêt dans cette extension de réseau peut proposer sa contribution financière pour que le projet devienne économiquement justifié.
+
+La CWaPE contrôle l'appréciation du gestionnaire de réseau quant au caractère économiquement justifié d'une extension du réseau.
+
+§ 3. Après avis de la CWaPE, le Gouvernement détermine celles des obligations définies par ou en vertu du § 1er qui s'appliquent au gestionnaire de réseau spécifique. En tout état de cause, l'obligation visée à l'article 32, § 1er, 10 est applicable.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 46, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 37, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2018-05-11/02, art. 22, 021; En vigueur : 28-05-2018&gt;
+
+(4)&lt;DRW 2018-07-17/04, art. 161, 022; En vigueur : indéterminée &gt;
+
+(5)&lt;DRW 2022-10-06/15, art. 6, 029; En vigueur : 01-01-2023&gt;
+
+(6)&lt;DRW 2024-03-28/66, art. 21, 031; En vigueur : 11-08-2024&gt;
+
+(7)&lt;DRW 2025-12-19/70, art. 38, 034; En vigueur : 09-01-2026&gt;
+
+##### Art. 33
+
+[<sup>1</sup> § 1er. [<sup>5</sup> Les fournisseurs respectent les obligations de service public suivantes]<sup>5</sup> :
+
+1° assurer la régularité et la qualité des fournitures de gaz;
+
+2° en matière de service à la clientèle :
+
+a) assurer [<sup>4</sup> gratuitement ]<sup>4</sup> une facturation claire, transparente, non discriminatoire et contrôlable des fournitures de gaz [<sup>4</sup> ainsi qu'une information précise, claire et compréhensible y relative ]<sup>4</sup> ;
+
+b) assurer un service efficace [<sup>4</sup> simple, équitable et rapide ]<sup>4</sup> de gestion des plaintes;
+
+c) respecter les objectifs [<sup>2</sup> et communiquer les indicateurs]<sup>2</sup> de performance définis par la CWaPE après concertation avec les fournisseurs, à tout le moins en matière de qualité de service à la clientèle, de suivi des demandes de fourniture, de qualité des informations à fournir aux gestionnaires de réseaux, d'accessibilité des services d'information à la clientèle, de qualité de facturation, de suivi des demandes de changement de fournisseur, de suivi des déménagements et de gestion des plaintes et des demandes d'indemnisation; la CWaPE publie annuellement sur son site Internet les performances respectives de chaque fournisseur au regard de ces objectifs; sur proposition de la CWaPE, le Gouvernement impose la mise en place, par catégories de fournisseurs qu'il désigne, d'un système d'assurance qualité;
+
+d) assurer pendant la période précontractuelle, la parfaite information du client [<sup>4</sup> final ]<sup>4</sup> quant aux conditions contractuelles, notamment les caractéristiques du produit, le prix des fournitures [<sup>4</sup> et services offerts, la possibilité de recevoir des factures et des informations relatives à la facturation par voie électronique]<sup>4</sup>, les conditions d'acceptation d'un [<sup>2</sup> ...]<sup>2</sup> plan de paiement et le caractère liant ou non des documents soumis[<sup>4</sup>.]<sup>4</sup>[<sup>4</sup> Les conditions générales sont lisibles, équitables, transparentes, formulées dans un langage clair, dénué d'ambiguïté et ne contiennent pas d'obstacles non contractuels à l'exercice de leurs droits par les clients; ]<sup>4</sup>
+
+[<sup>2</sup> e) effectuer un changement de fournisseur dans un délai de maximum trois semaines à compter de la date de la demande du client final, dans le respect des termes et conditions des contrats;]<sup>2</sup>
+
+[<sup>4</sup> f) offrir un large choix de modes de paiement de façon non discriminatoire;
+
+g) informer de manière visible les clients finals en temps utile de toute modification des conditions contractuelles ou des ajustements de prix et de leur possibilité de résiliation;
+
+h) assurer un traitement équitable et non discriminatoire des clients, indépendamment de leur mode de paiement ou de l'existence de contrats de services. ]<sup>4</sup>
+
+3° en matière de protection de l'environnement, acheter prioritairement, aux conditions du marché et dans la limite des besoins de leurs clients finals, le gaz issu de SER [<sup>2</sup> injecté en Région wallonne]<sup>2</sup>;
+
+4° en matière sociale :
+
+a) faire au moins une offre liante à tout client résidentiel qui en fait la demande, a des conditions non discriminatoires à moins que, dans le cadre de la licence octroyée, le fournisseur ne déclare expressément à la CWaPE qu'il contracte exclusivement avec des clients non résidentiels;
+
+b) appliquer les mesures définies par le Gouvernement lorsqu'un client final est en [<sup>2</sup> difficulté]<sup>2</sup> de paiement envers son fournisseur [<sup>2</sup> , notamment [<sup>3</sup> inviter le client à le contacter pour conclure]<sup>3</sup> un plan de paiement raisonnable]<sup>2</sup>;
+
+[<sup>2</sup> c) [<sup>3</sup> ...]<sup>3</sup>;
+
+d) procéder à une adaptation des factures d'acompte du client sur la base des index relevés par le client et validés par le gestionnaire de réseau de distribution et tout en tenant compte d'un lissage des consommations sur douze mois;]<sup>2</sup>
+
+5° en matière d'utilisation rationnelle de l'énergie :
+
+a) prendre toute mesure favorable à l'utilisation rationnelle de l'énergie pour toutes les catégories de clients et assurer à leur égard une information complète, notamment en renseignant sur la facture les coordonnées d'un service ou d'un site d'information relatif à l'utilisation rationnelle de l'énergie;
+
+b) proposer des formules tarifaires favorisant l'utilisation rationnelle de l'énergie pour la clientèle, à l'exception de la clientèle participant au système d'échange des quotas d'émission de gaz à effet de serre;
+
+c) informer les clients au minimum une fois par an, des primes existantes en matière d'utilisation rationnelle de l'énergie ou d'énergies renouvelables et des réductions fiscales en la matière;
+
+6° [<sup>3</sup> assurer l'information des utilisateurs du réseau relative au marché de l'énergie; le Gouvernement peut préciser le contenu et les modes de communication de l'information visée au présent point]<sup>3</sup>.
+
+§ 2. Après avis de la CWaPE, le Gouvernement détermine, s'il y a lieu, les obligations de service public applicables au détenteur d'une licence limitée de fourniture en vue d'assurer sa propre fourniture, dans les cas visés à l'article 30, § 3, alinéa 1er, 2°, [<sup>2</sup> d)]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>5</sup> § 3. Le Gouvernement peut préciser les modalités d'application des obligations de service public visées au paragraphe 1er.
+
+La CWaPE contrôle le respect des obligations de service public visées ou adoptées en vertu du présent article.
+
+Après avis de la CWaPE, le Gouvernement peut imposer aux fournisseurs des obligations de service public supplémentaires.]<sup>5</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 47, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 38, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2018-07-17/04, art. 162, 022; En vigueur : indéterminée &gt;
+
+(4)&lt;DRW 2024-03-28/66, art. 9, 031; En vigueur : 11-08-2024&gt;
+
+(5)&lt;DRW 2025-12-19/70, art. 39, 034; En vigueur : 09-01-2026&gt;
+
+##### Art. 33bis
+
+[<sup>1</sup> Après avis de la CWaPE, le Gouvernement peut, s'il y a lieu, imposer au gestionnaire de réseau privé, de façon exclusive ou partagée avec les gestionnaires de réseaux, certaines des obligations de service public [<sup>2</sup> contrôlées par la CWaPE]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 48, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 39, 018; En vigueur : 12-06-2015&gt;
+
+## CHAPITRE VII/1. [<sup>1</sup> Compteurs communicants]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/61, art. 46, 033; En vigueur : 14-10-2024&gt;
+
+##### Art. 33bis/1
+
+[<sup>1</sup> § 1er. A moins que cela soit techniquement impossible ou non économiquement raisonnable ou en cas de refus de l'utilisateur du réseau conformément au paragraphe 3, l'installation et l'activation de la fonction communicante d'un compteur communicant ont lieu systématiquement dans les cas suivants :
+
+1° lorsque la fonction de prépaiement a été activée conformément au présent décret;
+
+2° lorsqu'un utilisateur du réseau de distribution le demande, et ce selon les tarifs publiés conformément aux règles prévues dans le décret tarifaire.
+
+Le Gouvernement détermine les conditions dans lesquelles le placement d'un compteur communicant ou l'activation de la fonction communicante d'un compteur communicant sont considérés comme techniquement impossibles ou non économiquement raisonnables.
+
+Le Gouvernement précise les obligations du gestionnaire de réseau de distribution en cas d'impossibilité d'activation de la fonction communicante, en termes d'information de l'utilisateur et de délai maximum d'activation.
+
+Le Gouvernement précise le délai maximum à charge du gestionnaire de réseau de distribution pour le placement du compteur communicant dans le cas visé à l'alinéa 1er, 2°.
+
+§ 2. La CWaPE publie annuellement un rapport sur l'évolution du nombre de placements des compteurs communicants en ce compris le développement de services annexes en Région wallonne. Ce rapport comprend également un volet sur l'évolution du nombre de compteurs à budget.
+
+Un état des lieux du nombre de placements des compteurs communicants gaz est présenté lors des réunions du Comité de suivi du déploiement des compteurs communicants en électricité tel que visé à l'article 35, § 2, alinéa 3, du décret électricité.
+
+§ 3. Tout client final peut refuser le placement d'un compteur communicant ou l'activation de la fonction communicante. En fonction de ses disponibilités techniques, le gestionnaire de réseau de distribution place soit un compteur communicant dont la fonction communicante est désactivée, soit un compteur non doté de la capacité de transmettre et de recevoir des données.
+
+Il informe le client final que son refus de placement d'un compteur communicant ou d'activation de la fonction communicante du compteur communicant entraîne les conséquences suivantes :
+
+1° l'obligation de relève manuelle des index lorsqu'un processus de marché le nécessite;
+
+2° l'impossibilité d'activer la fonction de prépaiement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/61, art. 47, 033; En vigueur : 14-10-2024&gt;
+
+##### Art. 33bis/2
+
+[<sup>1</sup> § 1er. Le compteur communicant fournit localement à l'utilisateur du réseau des informations en temps quasi réel sur le gaz qu'il prélève. Ces informations sont affichables en temps quasi réel sur l'écran du compteur.
+
+Le compteur communicant est conforme à l'arrêté royal du 3 août 2012 relatif au suivi en service des compteurs de gaz utilisés en milieu résidentiel, milieu commercial et milieu industriel léger.
+
+§ 2. Le compteur communicant est doté, dès son installation ou, le cas échéant, dès l'activation de la fonction communicante, des fonctionnalités suivantes :
+
+1° le fonctionnement en mode prépaiement et l'affichage d'une estimation du solde disponible sur l'écran du compteur;
+
+2° la lecture à distance, par le gestionnaire de réseau de distribution, de façon sécurisée, des index pour le gaz prélevé;
+
+3° la coupure et, après contrôle de l'étanchéité de l'installation, l'autorisation de rétablissement à distance du compteur;
+
+4° la supervision à distance et l'enregistrement d'alarmes;
+
+5° la réalisation de mises à jour à distance.
+
+Afin de permettre au client final en mode prépaiement un suivi suffisamment fréquent de l'évolution de sa consommation en termes budgétaires, l'estimation visée à l'alinéa 1er, 1°, est actualisée au minimum une fois par vingt-quatre heures sur le compteur et est enregistrée au maximum une fois par heure sur le compteur ou un autre support. Lorsque le crédit disponible passe sous le seuil fixé par le Gouvernement, cette information est communiquée au client final. Le Gouvernement précise les modalités de communication du dépassement du seuil ainsi que les modalités relatives au rechargement gratuit, sécurisé et au moyen de différents modes de paiement non discriminatoires des compteurs communicants dont la fonction de prépaiement est activée.
+
+§ 3. L'enregistrement des données sur le compteur communicant a lieu au maximum une fois par heure.
+
+Par défaut, les données enregistrées sont transmises au maximum une fois par jour du compteur communicant vers le gestionnaire du réseau de distribution. Le rapatriement de ces données vers le gestionnaire de réseau de distribution peut être plus fréquent dans le cas où la fonction de prépaiement est activée ou pour l'accomplissement par le gestionnaire de réseau de distribution de la mission de surveillance du réseau par et en vertu du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/61, art. 48, 033; En vigueur : 14-10-2024&gt;
+
+##### Art. 33bis/3
+
+[<sup>1</sup> § 1er. Le gestionnaire du réseau de distribution peut, à distance, fermer ou autoriser le rétablissement du compteur communicant d'un client sans préjudice des conditions et procédures fixées par ou en vertu du présent décret et, s'agissant d'un client résidentiel, du Livre VI du Code de droit économique et de la législation relative à la protection de la vie privée.
+
+§ 2. Sans préjudice des dispositions prévues en matière de prépaiement, le régime de comptage par défaut est celui dont seuls les volumes de gaz prélevés sont utilisés dans les processus de marché. La transmission de ces données agrégées vers les acteurs de marché est effectuée, par défaut, sur base annuelle. L'utilisateur du réseau équipé d'un compteur communicant peut choisir librement un autre régime de comptage défini dans le règlement technique.
+
+Sans préjudice des dispositions prévues en matière de prépaiement, la fréquence de facturation par défaut est annuelle. Chaque régime de comptage permet une facturation plus fréquente fondée sur la consommation réelle.
+
+§ 3. Le gestionnaire de réseau de distribution permet aux utilisateurs d'assurer la consultation libre et gratuite de leurs données de consommation. A cette fin, le gestionnaire de réseau de distribution est responsable de la conception, de la mise en oeuvre et de l'exploitation d'une plateforme informatisée permettant aux utilisateurs de consulter librement et gratuitement leurs données issues du compteur communicant, en ce compris les données non validées de prélèvement. Le Gouvernement détermine les modalités de consultation, dont notamment le type et le format des données ainsi que les périodes concernées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/61, art. 49, 033; En vigueur : 14-10-2024&gt;
+
+##### Art. 33bis/4
+
+[<sup>1</sup> § 1er. Les compteurs communicants et réseaux intelligents doivent être conçus de manière à éviter la destruction, accidentelle ou illicite, l'accès et la modification des données à caractère personnel ainsi qu'à permettre une communication sécurisée de ces données en tenant dûment compte des meilleures techniques disponibles pour garantir le plus haut niveau de protection en matière de cybersécurité, tout en veillant à la maîtrise des coûts et au respect du principe de proportionnalité.
+
+§ 2. Le gestionnaire de réseau de distribution est le responsable de traitement des données à caractère personnel qu'il collecte, issues du compteur communicant.
+
+Le gestionnaire de réseau de distribution traite les données issues du compteur communicant uniquement pour réaliser ses missions légales ou réglementaires qui lui incombent par ou en vertu du présent décret.
+
+§ 3. Sans préjudice du droit permanent du gestionnaire du réseau de distribution, nul ne peut lire, exporter ou traiter les données issues d'un compteur communicant sans l'accord préalable, libre, spécifique, éclairé, explicite et univoque de l'utilisateur du réseau concerné sauf lorsque la divulgation à un tiers est autorisée par une disposition légale ou réglementaire ou lorsque les données sont transmises à un sous-traitant agissant au nom et pour le compte du gestionnaire de réseau de distribution.
+
+Sont interdits, les traitements de données issues d'un compteur communicant ayant les finalités suivantes :
+
+1° le commerce de données à caractère personnel issues des compteurs communicants;
+
+2° le commerce de données ou de profils énergétiques établis statistiquement à partir des données issues des compteurs communicants à caractère personnel mesurées périodiquement qui permettent de déduire les comportements de consommation du client final;
+
+3° l'établissement de listes des clients finals concernant les fraudeurs et les mauvais payeurs.
+
+Le tiers qui collecte des données à caractère personnel via le port de sortie ou via tout autre dispositif devient responsable du traitement de ces données. Cette collecte de données n'a lieu qu'avec le consentement préalable, libre, spécifique, éclairé et explicite du client final, dans les conditions fixées à l'alinéa 1er. A cette fin, le tiers informe préalablement le client final des droits qu'il peut exercer sur ces données.
+
+§ 4. Dans les conditions fixées par et en vertu du présent décret, le gestionnaire de réseau de distribution peut communiquer les données qu'il collecte, issues des compteurs communicants, aux destinataires et aux catégories de destinataires suivants :
+
+1° les fournisseurs en vue de la fourniture de gaz et de services, de la facturation et de la gestion de la clientèle conformément aux obligations visées à l'article 33;
+
+2° les autres gestionnaires de réseau de distribution et le gestionnaire de réseau de transport de gaz naturel en vue d'assurer la gestion et la sécurité opérationnelle de leur réseau;
+
+3° la CWaPE en vue de l'exécution de ses tâches, missions et obligations qui lui sont imposées par ou en vertu du présent décret;
+
+4° les autorités publiques, les organismes et les personnes physiques ou morales en vue de l'accomplissement des missions d'intérêt public qui leur sont confiées par ou en vertu d'une loi, d'un décret ou d'une ordonnance;
+
+5° un tiers à condition que le gestionnaire de réseau de distribution, sur demande du tiers concerné, ait obtenu le consentement préalable, libre, univoque, éclairé et explicite du client final quant à la transmission de ses données par le gestionnaire de réseau de distribution à ce tiers.
+
+Chacun de ces destinataires est, pour ce qui le concerne, responsable du traitement des données à caractère personnel fournies par le gestionnaire de réseau de distribution.
+
+Le gestionnaire du réseau de distribution accorde aux destinataires énumérés à l'alinéa 1er uniquement l'accès aux données strictement nécessaires à l'exécution de leurs tâches et missions respectives.
+
+§ 5. Les données issues des compteurs communicants à caractère personnel, en ce compris les données dérivées, peuvent uniquement être conservées le temps nécessaire à la réalisation des finalités pour lesquelles elles ont été collectées. Ce délai ne peut pas excéder cinq ans à partir de la collecte des données.
+
+Par dérogation à l'alinéa 1er, les données peuvent être conservées pour une durée supérieure à cinq ans lorsque la réalisation des missions du responsable de traitement l'exige. Dans ce cas, le responsable de traitement motive la durée de conservation plus longue.
+
+Les données à caractère personnel sont anonymisées dès que leur individualisation n'est plus nécessaire pour la réalisation des finalités pour lesquelles elles ont été collectées.
+
+§ 6. Suite à l'installation du compteur communicant et préalablement à la mise en oeuvre du traitement des données issues des compteurs communicants, le gestionnaire de réseau de distribution communique aux utilisateurs du réseau les informations listées à l'article 13 du Règlement 2016/679/UE du 27 avril 2016.
+
+Ces informations, listées à l'article 13 du Règlement 2016/679/UE du 27 avril 2016, sont communiquées de manière neutre, uniforme et claire à travers différents canaux d'information tels que des brochures, lettres ou sites internet.
+
+Le gestionnaire de réseau de distribution indique sur son site internet les coordonnées du service compétent auprès duquel les personnes concernées peuvent exercer les droits précités en matière de vie privée.
+
+L'accès par le client final à ses propres données est gratuit.
+
+Les autres responsables de traitement visés au paragraphe 4 transmettent les informations visées à l'alinéa 1er aux clients finals préalablement à la mise en oeuvre du traitement des données issues des compteurs communicants conformément à l'alinéa 2.
+
+§ 7. L'accès automatisé par le fournisseur aux données issues des compteurs communicants disponibles dans les bases de données du gestionnaire du réseau de distribution à des fins de facturation a lieu via le MIG.
+
+L'accès automatisé par des tiers autres que le fournisseur du client final aux données issues des compteurs communicants disponibles dans les bases de données du gestionnaire du réseau de distribution à des fins autres que la facturation a lieu via le MIG TPDA dans le respect des finalités prescrites par le paragraphe 4.
+
+L'accès aux données est non-discriminatoire et peut avoir lieu de manière simultanée par plusieurs parties.
+
+Le MIG et le MIG TPDA sont élaborés conformément à l'article 14bis, selon la procédure établie par le règlement technique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/61, art. 50, 033; En vigueur : 14-10-2024&gt;
+
+## CHAPITRE VIII. [<sup>1</sup> - Certification des sites de production de gaz issu de SER [<sup>2</sup> et de gaz bas carbone ]<sup>2</sup> .]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-05-21/05, art. 40, 018; En vigueur : 12-06-2015&gt;
+
+(2)&lt;DRW 2024-03-28/66, art. 23, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 33ter
+
+[<sup>1</sup> Pour se voir octroyer des [<sup>3</sup> garanties d'origine]<sup>3</sup>, le producteur de gaz issu de SER [<sup>3</sup> ou de gaz bas carbone ]<sup>3</sup> obtient pour son site de production un certificat de garantie d'origine délivré par un organisme de contrôle agréé. [<sup>2</sup> Le ]<sup>2</sup> Gouvernement détermine les conditions d'agrément des organismes de contrôle.
+
+[<sup>3</sup> Le ]<sup>3</sup> Gouvernement définit les mentions qui figurent dans le certificat de garantie d'origine, ainsi que les critères et la procédure d'octroi, de révision et de retrait du certificat de garantie d'origine. Les critères portent notamment sur la capacité de contrôler la quantité de gaz réellement produit.
+
+Les installations de faible puissance peuvent faire l'objet d'une procédure simplifiée.[<sup>3</sup> Le ]<sup>3</sup> Gouvernement détermine le seuil de puissance sous lequel la procédure simplifiée est applicable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-05-21/05, art. 41, 018; En vigueur : 12-06-2015&gt;
+
+(2)&lt;DRW 2019-01-31/22, art. 32, 024; En vigueur : 01-05-2019&gt;
+
+(3)&lt;DRW 2024-03-28/66, art. 24, 031; En vigueur : 11-08-2024&gt;
+
+## CHAPITRE VIIIbis. [<sup>1</sup> Garanties d'origine ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2024-03-28/66, art. 25, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 33quater
+
+[<sup>1</sup> Un système de [<sup>2</sup> garanties d'origine ]<sup>2</sup> du gaz issu de SER [<sup>2</sup> et du gaz bas carbone ]<sup>2</sup> est instauré par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-05-21/05, art. 43, 018; En vigueur : 12-06-2015&gt;
+
+(2)&lt;DRW 2024-03-28/66, art. 26, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 33quinquies
+
+[<sup>1</sup> [<sup>2</sup> Le]<sup>2</sup>, le Gouvernement détermine les conditions d'attribution et fixe les modalités et la [<sup>3</sup> procédure d'octroi des garanties d'origine ]<sup>3</sup> au gaz issu de SER [<sup>3</sup> et au gaz bas carbone]<sup>3</sup> en Région wallonne.
+
+[<sup>3</sup> Une garantie d'origine ]<sup>3</sup> est [<sup>3</sup> attribuée]<sup>3</sup> par MWh produit de gaz issu de SER [<sup>3</sup> ou de gaz bas carbone]<sup>3</sup> injecté sur le réseau de distribution ou de transport.
+
+[<sup>2</sup> L'Administration]<sup>2</sup> attribue [<sup>3</sup> garanties d'origine ]<sup>3</sup> aux producteurs de gaz issu de SER [<sup>3</sup> ou de gaz bas carbone ]<sup>3</sup>. [<sup>3</sup> Ces garanties d'origine ]<sup>3</sup>.
+
+----------
+
+(1)&lt;Inséré par DRW 2015-05-21/05, art. 44, 018; En vigueur : 12-06-2015&gt;
+
+(2)&lt;DRW 2019-01-31/22, art. 33, 024; En vigueur : 01-05-2019&gt;
+
+(3)&lt;DRW 2024-03-28/66, art. 27, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 33sexies
+
+[<sup>1</sup> Après avis de la CWaPE, le Gouvernement fixe les modalités d'utilisation des [<sup>2</sup> garanties d'origine]<sup>2</sup> à présenter par [<sup>2</sup> les clients finals, ]<sup>2</sup> les fournisseurs, les gestionnaires de réseau et les détenteurs d'une licence limitée de fourniture en vue d'assurer leur propre fourniture, en vue d'établir le bilan des différentes sources d'énergie primaire utilisées par ces derniers.
+
+Le Gouvernement définit [<sup>2</sup> ...]<sup>2</sup> les conditions auxquelles les [<sup>2</sup> garanties d'origine produites]<sup>2</sup> produits en dehors de la Région wallonne peuvent y être [<sup>2</sup> reconnues]<sup>2</sup> en cette qualité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-05-21/05, art. 45, 018; En vigueur : 12-06-2015&gt;
+
+(2)&lt;DRW 2024-03-28/66, art. 28, 031; En vigueur : 11-08-2024&gt;
+
+## CHAPITRE VIIIter. [<sup>1</sup> - Promotion du gaz issu de SER.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-05-21/05, art. 46, 018; En vigueur : 12-06-2015&gt;
+
+##### Art. 34
+
+[<sup>3</sup> Pour encourager la production de gaz issu de SER en Région wallonne, le Gouvernement peut, après avis de la CWaPE et en concertation avec les gestionnaires de réseaux, établir un mécanisme d'aide à la production ou à l'injection dans un réseau de distribution de gaz naturel en faveur des producteurs de gaz issu de SER situés sur le territoire wallon.]<sup>3</sup>
+
+Le Gouvernement détermine annuellement[<sup>5</sup> ...]<sup>5</sup> le montant à accorder à chaque kWh de gaz produit [<sup>3</sup> ou injecté]<sup>3</sup> à partir de sources d'énergie renouvelables. Ce montant peut varier selon la source d'énergie renouvelable et la technologie utilisées.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(3)&lt;DRW 2008-07-17/52, art. 49, 011; En vigueur : 07-08-2008&gt;
+
+(4)&lt;DRW 2015-05-21/05, art. 47, 018; En vigueur : 12-06-2015&gt;
+
+(5)&lt;DRW 2019-01-31/22, art. 34, 024; En vigueur : 01-05-2019&gt;
+
+##### Art. 35
+
+[<sup>1</sup> Préalablement à l'exercice des voies de recours ordinaires, dans le cadre des chapitres VIII à VIIIter ou de leurs arrêtés d'exécution, toute partie lésée a le droit de présenter, devant le ministre, une plainte en réexamen conformément à la procédure fixée à l'article 42bis/1 du décret électricité. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2024-03-28/66, art. 16, 031; En vigueur : 11-08-2024&gt;
+
+## CHAPITRE VIIIquater [<sup>1</sup> Base de données de l'Union ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/66, art. 30, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 35/1
+
+[<sup>1</sup> . Les opérateurs économiques désignés par le Gouvernement introduisent dans la base de données de l'Union visée par la directive 2018/2001 les informations relatives aux transactions effectuées et les caractéristiques de durabilité du gaz faisant l'objet de ces transactions, y compris les émissions de gaz à effet de serre depuis le point de production jusqu'au moment où le gaz est consommé. Le Gouvernement détermine les informations à communiquer, le type de transactions visées, ainsi que les modalités de transmission et de vérification des données à introduire par les opérateurs économiques. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/66, art. 31, 031; En vigueur : 11-08-2024&gt;
+
+## CHAPITRE IX. - Commission wallonne pour l'énergie.
+
+##### Art. 36
+
+[<sup>3</sup> § 1er. Dans le cadre de ses missions, la CWaPE poursuit les objectifs suivants :
+
+1° promouvoir un marché régional de gaz concurrentiel, compétitif, sûr et durable et une ouverture effective du marché pour l'ensemble des clients et des fournisseurs de l'Espace économique européen, et garantir des conditions appropriées pour que les réseaux fonctionnent de manière effective et fiable, en tenant compte d'objectifs à long terme;
+
+2° contribuer à la mise en place de réseaux de gaz sûrs, fiables, performants, à un accès non-discriminatoire au réseau, à l'amélioration de l'efficacité énergétique ainsi qu'au développement et à l'intégration des productions de gaz issu de SER et faciliter l'accès au réseau des nouvelles capacités de production, notamment en supprimant les obstacles qui peuvent empêcher l'arrivée de nouveaux venus sur le marché;
+
+3° faire en sorte que les gestionnaires et les utilisateurs des réseaux de gaz en ce compris des réseaux privés et des réseaux fermés professionnels soient encouragés à améliorer les performances des réseaux et favoriser l'intégration du marché, tant à court terme qu'à long terme;
+
+4° contribuer à assurer un service public et universel de qualité dans le secteur de la fourniture de gaz, et contribuer à la protection des consommateurs, en particulier des clients protégés et à la compatibilité des mécanismes nécessaires d'échange de données pour permettre aux clients de changer de fournisseur.]<sup>3</sup>
+
+[<sup>3</sup> § 2.]<sup>3</sup>. [<sup>2</sup> La CWaPE est investie d'une mission de conseil auprès des autorités publiques et d'une mission générale de surveillance et de contrôle. Elle exerce ces missions tant en ce qui concerne l'organisation et le fonctionnement du marché régional du gaz qu'en ce qui concerne l'application du présent décret et de ses arrêtés d'exécution.
+
+Dans ce cadre, outre les missions qui lui sont confiées par d'autres dispositions du présent décret, la CWaPE assure en tout cas les tâches suivantes :
+
+1° le contrôle du respect, par les gestionnaires de réseaux [<sup>3</sup> , les gestionnaires de réseaux privés et les gestionnaires de réseaux fermés professionnels]<sup>3</sup> de leurs obligations imposées par le présent décret et ses arrêtés d'exécution, notamment le règlement technique; si les gestionnaires de réseaux ont confié [<sup>6</sup> des activités qui relèvent de leur mission de service public telles que visées par ou en vertu du décret]<sup>6</sup> à une filiale, conformément à l'article 17, § 2, le contrôle de la CWaPE s'exerce également sur cette filiale;
+
+[<sup>3</sup> 1°bis la surveillance de la gestion de la congestion des réseaux, y compris des interconnexions, et la mise en oeuvre des règles de gestion de la congestion;]<sup>3</sup>
+
+2° l'approbation des règlements [<sup>5</sup> , contrats]<sup>5</sup> [<sup>3</sup> et conditions générales]<sup>3</sup> [<sup>5</sup> imposés par les gestionnaires de réseaux aux fournisseurs, aux utilisateurs du réseau et aux détenteurs d'accès à l'occasion, en raison ou à la suite d'un raccordement, d'un accès au réseau]<sup>5</sup> et de leurs modifications;
+
+3° le contrôle du respect des conditions à remplir pour être reconnu fournisseur et pouvoir conserver cette qualité [<sup>3</sup> ainsi que l'octroi des licences de fourniture]<sup>3</sup>;
+
+4° le contrôle et l'évaluation de l'exécution des obligations de service public par les gestionnaires de réseaux [<sup>3</sup> , les gestionnaires de réseaux privés et les gestionnaires de réseaux fermés professionnels ainsi que]<sup>3</sup> les fournisseurs; si les gestionnaires de réseaux ont confié [<sup>6</sup> des activités qui relèvent de leur mission de service public telles que visées par ou en vertu du décret]<sup>6</sup> a une filiale, conformément à l'article 17, § 2, le contrôle de la CWaPE s'exerce également sur cette filiale;
+
+5° l'établissement, le cas échéant, par voie réglementaire, de la méthode de calcul des coûts réels nets des obligations de service public et la vérification des calculs effectués par chaque entreprise concernée conformément à cette méthodologie;
+
+6° le contrôle du respect des conditions émises pour les autorisations délivrées en vue de la construction de nouvelles conduites directes en vertu de l'article 29;
+
+7° [<sup>3</sup> 7° la détermination des informations à fournir par le gestionnaire de réseau et, le cas échéant, les gestionnaires de réseaux privés et les gestionnaires de réseaux fermés professionnels, en vue notamment de l'élaboration des bilans énergétiques et des obligations de rapportage de la Région wallonne auprès de l'Union européenne en matière d'énergie;]<sup>3</sup>
+
+8° le contrôle du respect des dispositions en matière de promotion des gaz issus des SER et de gestion de réseaux spécifiques [<sup>4</sup> , à l'exception des obligations prévues à l'article 32, § 1er, 4°, d), dont le contrôle est effectué par l'Administration]<sup>4</sup>;
+
+9° [<sup>4</sup> ...]<sup>4</sup>
+
+10° [<sup>3</sup> la coopération et la concertation régulière avec les autres régulateurs au niveau fédéral, régional et européen des marchés du gaz, notamment en vue de vérifier l'absence de subsides croisés entre catégories de clients, ainsi qu'avec ACER et toute autre autorité ou organisme belge, étranger ou international;]<sup>3</sup>
+
+11° [<sup>3</sup> le développement de toute étude, outil ou démarche visant à améliorer le fonctionnement du marché du gaz, à faciliter l'exercice, par le client final, de son éligibilité et à tenir informé le Gouvernement du comportement des acteurs du marché et des consommateurs;]<sup>3</sup>
+
+12° [<sup>3</sup> l'approbation des tarifs des gestionnaires des réseaux et, conformément [<sup>5</sup> à l'article 16ter ]<sup>5</sup>, les conditions de rémunération [<sup>5</sup> ...]<sup>5</sup> et des réseaux fermés professionnels;]<sup>3</sup>
+
+13° l'exécution de toutes autres missions qui lui sont confiées, par décret ou arrêté en matière d'organisation du marché régional du gaz;]<sup>2</sup>
+
+[<sup>3</sup> 14° [<sup>5</sup> l'exercice des compétences tarifaires, notamment la fixation de la méthodologie tarifaire et ]<sup>5</sup> la surveillance et le contrôle de la mise en oeuvre des plans d'investissement des gestionnaires de réseau, conformément à l'article 16, §§ 4 et 5.]<sup>3</sup> [<sup>5</sup> La CWaPE dispose d'un pouvoir d'appréciation dans le cadre de l'élaboration et du contrôle de la méthodologie tarifaire, qu'elle exerce en tenant compte notamment des critères de stabilité, de raisonnabilité et de proportionnalité, de l'intérêt général et de l'intérêt des utilisateurs du réseau de distributio]<sup>5</sup>
+
+[<sup>3</sup> § 3. Pour le 30 juin au plus tard, la CWaPE soumet chaque année au Gouvernement et au Parlement wallon un rapport sur l'exécution de ses missions et l'évolution du marché régional du gaz. La CWaPE présente son rapport annuel au Parlement. Le rapport est publié sur le site internet de la CWaPE.]<sup>3</sup>
+
+[<sup>5</sup> § 4. La CWaPE peut mettre certaines des informations auxquelles elle a accès dans l'exercice de ses missions à la disposition des acteurs du marché si elle ne divulgue pas d'informations commercialement sensibles sur des acteurs du marché ou des transactions déterminées et sans préjudice des cas dans lesquels la CWaPE est tenue de communiquer des informations, en vertu d'une disposition légale ou réglementaire. "]<sup>5</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2008-07-17/52, art. 50, 011; En vigueur : 07-08-2008&gt;
+
+(3)&lt;DRW 2015-05-21/05, art. 49, 018; En vigueur : 12-06-2015&gt;
+
+(4)&lt;DRW 2019-01-31/22, art. 35, 024; En vigueur : 01-05-2019&gt;
+
+(5)&lt;DRW 2024-03-28/66, art. 32, 031; En vigueur : 11-08-2024&gt;
+
+(6)&lt;DRW 2025-12-19/70, art. 40, 034; En vigueur : 09-01-2026&gt;
+
+##### Art. 36bis
+
+[<sup>1</sup> Les dispositions des articles 43bis [<sup>2</sup> à]<sup>2</sup> [<sup>3</sup> 47quinquies]<sup>3</sup> du décret électricité sont applicables au marché du gaz.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 51, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 50, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2024-03-28/66, art. 33, 031; En vigueur : 11-08-2024&gt;
+
+## CHAPITRE X. - [<sup>1</sup> Règlement des différends]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 52, 011; En vigueur : 07-08-2008&gt;
+
+### Section 1.
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 52, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 37
+
+[<sup>1</sup> Les procédés de règlement des différends, contenus dans les articles 48, 49 et 49bis [<sup>3</sup> , 50, 50bis]<sup>3</sup> [<sup>2</sup> et 50ter]<sup>2</sup> du décret Electricité, sont applicables au marché du gaz.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 52, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 51, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2024-03-28/66, art. 34, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 38
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 52, 011; En vigueur : 07-08-2008&gt;
+
+### Section 2.
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 52, 011; En vigueur : 07-08-2008&gt;
+
+#### Sous-section 1re.
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 52, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 39
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 52, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 40
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 52, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 41
+
+&lt;Abrogé par DRW 2008-07-17/52, art.52, 011; En vigueur : 07-08-2008&gt;
+
+#### Sous-section 2.
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 52, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 42
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 52, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 43
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 52, 011; En vigueur : 07-08-2008&gt;
+
+## CHAPITRE XI. [<sup>1</sup> - Pôle "Energie"]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 63, 019; En vigueur : 04-07-2017&gt;
+
+##### Art. 44
+
+[<sup>3</sup> Le pôle "Energie" visé à]<sup>3</sup> l'article 51 du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité [<sup>2</sup> a pour mission :
+
+1° d'initiative ou à la demande du Ministre, de définir des orientations pour l'application du présent décret et de ses arrêtés d'exécution;
+
+2° de formuler, dans les quarante jours suivant la réception de la demande de la CWaPE, un avis sur toute question qui lui est soumise par la CWaPE;
+
+3° d'être un forum de discussion sur les objectifs et les stratégies de la politique énergétique wallonne.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2015-05-21/05, art. 52, 018; En vigueur : 12-06-2015&gt;
+
+(3)&lt;DRW 2017-02-16/37, art. 63, 019; En vigueur : 04-07-2017&gt;
+
+## CHAPITRE XII.
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 53, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 45
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 53, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 46
+
+&lt;Abrogé par DRW 2008-07-17/52, art. 53, 011; En vigueur : 07-08-2008&gt;
+
+## CHAPITRE XIII. - Sanctions.
+
+##### Art. 47
+
+§ 1er. Sont punis d'un emprisonnement d'un mois à un an et d'une amende de 1 à 500 euros ou de l'une de ces peines seulement :
+
+1° ceux qui font obstacle aux vérifications et investigations de la [<sup>1</sup> CWaPE]<sup>1</sup> ou du Gouvernement en vertu du présent décret, refusent de leur donner les informations qu'ils sont tenus de fournir en vertu du présent décret ou leur donnent sciemment des informations inexactes ou incomplètes;
+
+2° ceux qui contreviennent aux dispositions des articles 29 et 30.
+
+§ 2. Si le contrevenant est une personne morale, une ou plusieurs des peines suivantes peuvent également être infligées en raison des faits mentionnés au paragraphe 1er :
+
+1° la dissolution, celle-ci ne pouvant être prononcée à l'égard des personnes morales de droit public;
+
+2° l'interdiction d'exercer une activité relevant de l'objet social, à l'exception des activités qui relèvent d'une mission de service public;
+
+3° la fermeture d'un ou plusieurs établissements, à l'exception d'établissements où sont exercées des activités qui relèvent d'une mission de service public;
+
+4° la publication ou la diffusion de la décision.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 48
+
+[<sup>1</sup> § 1er. [<sup>4</sup> Sans préjudice des autres mesures prévues par le présent décret, la CWaPE peut enjoindre à toute personne physique ou morale soumise à l'application du présent décret et sur qui pèsent des obligations en vertu du présent décret, du décret du 19 janvier 2017 relatif à la méthodologie tarifaire applicable aux gestionnaires de réseaux de distribution de gaz et d'électricité, et de leurs arrêtés d'exécution, y compris en ce qui concerne la méthodologie tarifaire applicable aux gestionnaires de réseaux de distribution de gaz et d'électricité ou les règlements techniques, de se conformer à ces dispositions, y compris les décisions prises par la CWaPE en vertu de ces dispositions, dans le délai qu'elle détermin]<sup>4</sup>.
+
+Si la CWaPE constate qu'à l'expiration du délai fixé dans l'injonction, la personne concernée reste en défaut de s'y conformer, la CWaPE peut lui infliger une amende administrative dont elle fixe le montant. Celui-ci ne peut être, par jour calendrier, inférieur à 250 euros ni supérieur à 100.000 euros. La décision de la CWaPE doit intervenir au maximum six mois après [<sup>3</sup> l'expiration du délai fixé par]<sup>3</sup> l'injonction visée à l'alinéa 1er.
+
+La CWaPE peut également infliger, [<sup>2</sup> dans les six mois de la prise de connaissance de leur commission et au plus tard dans les cinq ans de leur commission]<sup>2</sup>, une amende administrative pour des manquements [<sup>3</sup> ...]<sup>3</sup> à des dispositions déterminées du présent décret. [<sup>4</sup> , de ses arrêtés d'exécution, du décret du 19 janvier 2017 relatif à la méthodologie tarifaire applicable aux gestionnaires de réseaux de distribution de gaz et d'électricité, des règlements techniques ou de la méthodologie tarifaire ]<sup>4</sup> [<sup>3</sup> Le montant de l'amende administrative est compris entre 250 euros et 200.000 euros ou 3 % du chiffre d'affaires]<sup>3</sup> que la personne en cause a réalisé sur le marché régional du gaz au cours du dernier exercice écoulé si ce dernier montant est supérieur.
+
+§ 2. La CWaPE peut infliger une amende administrative à un gestionnaire de réseau ou à un fournisseur qui néglige de manière systématique et caractérisée les [<sup>4</sup> indicateurs ]<sup>4</sup> de performance fixés en vertu des articles 14, 10°, 32, § 1er, 2°, d) et e), et 33, § 1er, 2°, c). Le Gouvernement fixe, après avis de la CWaPE, les seuils minima de performance et la méthodologie applicable à cet égard.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 55, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2011-10-27/04, art. 20, 016; En vigueur : 04-12-2011&gt;
+
+(3)&lt;DRW 2018-07-17/04, art. 163, 022; En vigueur : 18-10-2018&gt;
+
+(4)&lt;DRW 2024-03-28/66, art. 35, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 48bis
+
+[<sup>1</sup> Préalablement à la fixation d'une amende administrative, la CWaPE informe la personne concernée par lettre recommandée et l'invite à lui transmettre un mémoire contenant ses moyens de défense.
+
+La lettre recommandée reproduit intégralement le présent article et contient les éléments suivants :
+
+1° la mention du ou des griefs retenus;
+
+2° le montant de l'amende envisagée;
+
+3° les lieux, jours et heures pendant lesquels le dossier peut être consulté;
+
+4° la date fixée pour l'audition.
+
+Le mémoire doit être notifié à la CWaPE par lettre recommandée, dans les quinze jours qui suivent la réception de la lettre visée à l'alinéa 1er.
+
+L'audition se déroule au plus tôt vingt-cinq jours ouvrables après l'envoi de la lettre recommandée visée à l'alinéa précédent. La personne concernée peut s'y faire assister par un avocat ou par les experts de son choix. La CWaPE dresse un procès-verbal de l'audition, et invite la personne concernée à le signer, le cas échéant après qu'elle y ait consigné ses observations.
+
+La CWaPE fixe le montant de l'amende administrative par une décision motivée et en informe la personne concernée dans les dix jours de l'audition, par lettre recommandée. Passé ce délai, elle est réputée renoncer définitivement à toute amende fondée sur les faits mis à charge de la personne concernée, sauf élément nouveau.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 56, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 48ter
+
+[<sup>1</sup> La notification de la décision de la CWaPE d'infliger une amende administrative fait mention du recours ouvert contre celui-ci [<sup>2</sup> en vertu de l'article 50ter du décret électricité ]<sup>2</sup> et du délai dans lequel le recours peut être exercé.
+
+Si le montant de l'amende est fixé par jour calendrier, il est dû à compter du lendemain de la notification de la décision; dans ce cas, l'amende est applicable jusqu'à la date à laquelle la personne concernée s'est conformée à ses injonctions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 56, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2024-03-28/66, art. 36, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 48quater
+
+[<sup>1</sup> L'amende administrative est payable dans les trente jours.
+
+La CWaPE peut accorder un délai de grâce qu'elle détermine. Si la personne en cause est en défaut de paiement de l'amende administrative, celle-ci est recouvrée par voie de contrainte. Le Gouvernement désigne les fonctionnaires chargés de délivrer et de déclarer exécutoires les contraintes. Celles-ci sont notifiées par exploit d'huissier avec injonction de payer.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 56, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 48quinquies
+
+[<sup>1</sup> Aucune amende administrative ne peut être infligée a une personne qui a fait l'objet, pour les mêmes faits, de poursuites pénales entamées sur la base de l'article 52 et ayant abouti, indistinctement, à une déclaration de culpabilité, un non-lieu ou un acquittement.
+
+La notification de la décision fixant le montant de l'amende administrative éteint l'action publique, le cas échéant intentée sur la base de l'article 47.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 56, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 48sexies
+
+&lt;Abrogé par DRW 2024-03-28/66, art. 16, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 48septies
+
+[<sup>1</sup> Par la même décision que celle par laquelle elle inflige une amende administrative, la CWaPE peut accorder, en tout ou en partie, le sursis a l'exécution du paiement de cette amende.
+
+Le sursis n'est possible que si la CWaPE n'a pas infligé d'amende administrative à la personne concernée pendant l'année qui précède la date de la commission du manquement donnant lieu à l'amende administrative pour laquelle un sursis est envisagé.
+
+Le sursis vaut pendant un délai d'épreuve d'un an qui commence à courir a partir de la date de la notification de la décision infligeant l'amende administrative.
+
+En cas de nouvelle infraction pendant le délai d'épreuve, donnant lieu à une nouvelle amende, la CWaPE décide s'il y a lieu ou non de révoquer le sursis.
+
+L'amende administrative dont le paiement devient exécutoire suite à la révocation du sursis est cumulée sans limite avec celle infligée du chef de la nouvelle infraction.
+
+En cas de recours contre la décision de la CWaPE, [<sup>2</sup> la Cour des marchés]<sup>2</sup> dispose des mêmes pouvoirs que la CWaPE en matière de sursis.
+
+Toutes les modalités précitées relatives au sursis sont d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-07-17/52, art. 56, 011; En vigueur : 07-08-2008&gt;
+
+(2)&lt;DRW 2018-07-17/04, art. 165, 022; En vigueur : 18-10-2018&gt;
+
+##### Art. 48octies
+
+[<sup>1</sup> § 1er. Dans l'accomplissement des missions qui lui sont assignées aux chapitres VIII à VIIIter, l'Administration peut enjoindre aux gestionnaires de réseau de distribution, aux fournisseurs intervenant sur le marché régional et à toute personne qui peut se voir octroyer des garanties d'origine pour le gaz issu de SER, de lui fournir, dans un délai qu'elle précise, toutes les informations nécessaires pour l'exécution des tâches qui lui sont assignées en vertu des chapitres VIII à VIIIter.
+
+§ 2. En l'absence de réaction suite à la décision formulée conformément au paragraphe 1er, un agent constatateur de l'Administration peut :
+
+1° pénétrer, à tout moment, dans les installations, locaux, terrains et autres lieux, sauf s'ils constituent un domicile au sens de l'article 15 de la Constitution;
+
+2° prendre copie des informations demandées ou les emporter contre récépissé;
+
+3° interroger toute personne sur tout fait en rapport avec le présent article et enregistrer ses réponses.
+
+A cette occasion, l'agent constatateur est porteur d'un document attestant de sa qualité d'agent constatateur et d'un document contenant les motifs du contrôle sur place approuvé par un supérieur hiérarchique de rang A3 au moins.
+
+L'agent constatateur établit un procès-verbal qui fait foi jusqu'à preuve du contraire.
+
+Les gestionnaires de réseau de distribution, les fournisseurs intervenant sur le marché régional et toute personne qui peut se voir octroyer des garanties d'origine pour le gaz issu de SER, [<sup>2</sup> et le gaz bas carbone ]<sup>2</sup> se soumettent au contrôle sur place exécuté en vertu du présent paragraphe, sous peine de se voir infliger une amende administrative au sens de l'article 48novies.
+
+Le Gouvernement peut étendre le champ d'application du présent paragraphe à certaines catégories d'utilisateurs qu'il détermine.
+
+La liste des agents constatateurs est arrêtée par le Gouvernement. Le Gouvernement délivre à ces agents un document attestant la qualité d'agent constatateur.
+
+§ 3. L'Administration peut, en tout état de cause, procéder d'office à un contrôle sur place des données de comptage de toute personne qui peut se voir délivrer des [<sup>2</sup> garanties d'origine ]<sup>2</sup> pour le gaz issu de SER [<sup>2</sup> ou le gaz bas carbone ]<sup>2</sup> par l'Administration.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2019-01-31/22, art. 1, 024; En vigueur : 01-05-2019&gt;
+
+(2)&lt;DRW 2024-03-28/66, art. 38, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 48novies
+
+[<sup>1</sup> Sans préjudice des autres mesures prévues par le présent décret dont notamment la compétence générale de contrôle et de sanction de la CWaPE en matière de respect des obligations de service public, l'Administration peut enjoindre à toute personne physique ou morale soumise à l'application du présent décret de se conformer à des dispositions déterminées des chapitres VIII à VIIIter du présent décret ou de ses arrêtés d'exécution dans le délai qu'elle détermine.
+
+Si l'Administration constate qu'à l'expiration du délai fixé par l'injonction visée à l'alinéa 1er, la personne concernée reste en défaut de s'y conformer, l'Administration peut lui infliger une amende administrative dont elle fixe le montant. Celui-ci ne peut pas être, par jour, inférieur à 250 euros ni supérieur à 100 000 euros. La décision de l'Administration intervient au maximum six mois après l'expiration du délai fixé par l'injonction visée à l'alinéa 1er]<sup>1</sup>
+
+[<sup>2</sup> L'Administration peut également infliger, dans les six mois de la prise de connaissance de leur commission, et au plus tard dans les cinq ans de leur commission, une amende administrative pour des manquements à des dispositions déterminées des chapitres VIII à VIIIter ou de leurs arrêtés d'exécution. Le montant de l'amende administrative est compris entre 250 euros et 200 000 euros ou trois pour cent du chiffre d'affaires que la personne en cause a réalisé sur le marché régional du gaz au cours du dernier exercice écoulé, si ce dernier montant est supérieur.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2019-01-31/22, art. 37, 024; En vigueur : 01-05-2019&gt;
+
+(2)&lt;DRW 2024-03-28/66, art. 39, 031; En vigueur : 11-08-2024&gt;
+
+##### Art. 48decies
+
+[<sup>1</sup> Préalablement à la fixation d'une amende administrative, l'Administration informe la personne concernée par envoi recommandé avec accusé de réception et l'invite à lui transmettre un mémoire contenant ses moyens de défense.
+
+L'envoi visé à l'alinéa 1er reproduit intégralement le présent article et contient les éléments suivants :
+
+1° la mention de tout grief retenu;
+
+2° le montant de l'amende envisagée;
+
+3° les lieux, jours et heures pendant lesquels le dossier peut être consulté;
+
+4° la date fixée pour l'audition.
+
+Le mémoire visé à l'alinéa 1er est envoyé à l'Administration par recommandé, dans les quinze jours qui suivent la réception de l'envoi visé à l'alinéa 1er.
+
+L'audition se déroule au plus tôt vingt-cinq jours ouvrables après l'envoi visée à l'alinéa 3. La personne concernée peut s'y faire assister par un avocat ou par les experts de son choix. L'Administration dresse un procès-verbal de l'audition et invite la personne concernée à le signer, le cas échéant après qu'elle y a consigné ses observations.
+
+L'Administration fixe le montant de l'amende administrative par une décision motivée et en informe la personne concernée dans les dix jours de l'audition ou à défaut d'audition dans les trente jours suivant l'envoi visé à l'alinéa 1er, par envoi recommandé avec accusé de réception. Passé ce délai, elle est réputée renoncer définitivement à toute amende fondée sur les faits mis à charge de la personne concernée, sauf élément nouveau. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2019-01-31/22, art. 38, 024; En vigueur : 01-05-2019&gt;
+
+##### Art. 48undecies
+
+[<sup>1</sup> La notification de la décision de l'Administration d'infliger une amende administrative fait mention du recours ouvert contre celle-ci en vertu de l'article 48quaterdecies et du délai dans lequel ce recours peut être exercé.
+
+Si le montant de l'amende est fixé par jour, il est dû à compter du lendemain de la notification de la décision, dans ce cas, l'amende est applicable jusqu'à la date à laquelle la personne concernée s'est conformée à ses injonctions. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2019-01-31/22, art. 40, 024; En vigueur : 01-05-2019&gt;
+
+##### Art. 48duodecies
+
+[<sup>1</sup> L'amende administrative est payable dans les trente jours à dater de la notification de la décision de l'Administration d'infliger une amende administrative.
+
+L'Administration peut accorder un délai de grâce qu'elle détermine. Si la personne en cause est en défaut de paiement de l'amende administrative, celle-ci est recouvrée par voie de contrainte. Le Gouvernement désigne les fonctionnaires chargés de délivrer et de déclarer exécutoires les contraintes. Celles-ci sont notifiées par exploit d'huissier avec injonction de payer.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2019-01-31/22, art. 40, 024; En vigueur : 01-05-2019&gt;
+
+##### Art. 48terdecies
+
+[<sup>1</sup> Aucune amende administrative ne peut être infligée à une personne qui a fait l'objet, pour les mêmes faits, de poursuites pénales entamées sur la base de l'article 47, et ayant abouti, indistinctement, à une déclaration de culpabilité, un non-lieu ou un acquittement.
+
+La notification de la décision fixant le montant de l'amende administrative éteint l'action publique, le cas échéant intentée sur la base de l'article 47 ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2019-01-31/22, art. 41, 024; En vigueur : 01-05-2019&gt;
+
+##### Art. 48quaterdecies
+
+[<sup>1</sup> La décision de l'Administration d'infliger une amende administrative peut faire l'objet d'un recours auprès du Ministre de l'Energie dans les trente jours de la notification de la décision, selon les formes et procédures prévues par le Code judiciaire.
+
+Le recours auprès du Ministre de l'Energie est suspensif. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2019-01-31/22, art. 42, 024; En vigueur : 01-05-2019&gt;
+
+##### Art. 48quinquiesdecies
+
+[<sup>1</sup> Par la même décision que celle par laquelle elle inflige une amende administrative, l'Administration peut accorder, en tout ou en partie, le sursis à l'exécution du paiement de cette amende.
+
+Le sursis est possible uniquement si l'Administration n'a pas infligé d'amende administrative à la personne concernée pendant l'année qui précède la date de la commission du manquement donnant lieu à l'amende administrative pour laquelle un sursis est envisagé.
+
+Le sursis vaut pendant un délai d'épreuve d'un an. Le délai d'épreuve commence à courir à partir de la date de la notification de la décision infligeant l'amende administrative. En cas de nouvelle infraction pendant le délai d'épreuve, donnant lieu à une nouvelle amende, l'Administration décide s'il y a lieu ou non de révoquer le sursis.
+
+L'amende administrative dont le paiement devient exécutoire suite à la révocation du sursis est cumulée sans limite avec celle infligée du chef de la nouvelle infraction.
+
+En cas de recours contre la décision de l'Administration, le Ministre de l'énergie dispose des mêmes pouvoirs que l'Administration en matière de sursis ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2019-01-31/22, art. 43, 024; En vigueur : 01-05-2019&gt;
+
+##### Art. 49
+
+§ 1. Il est interdit de détruire totalement ou partiellement des infrastructures de production, [<sup>1</sup> ...]<sup>1</sup> distribution et utilisation de gaz et d'empêcher ou entraver volontairement la transmission de gaz sur [<sup>1</sup> les réseaux]<sup>1</sup>.
+
+Tout manquement à l'alinéa 1er sera condamné à un emprisonnement de quinze jours a trois ans et à une amende de 1 à 10 euros.
+
+§ 2. Ceux qui, par défaut de précaution, auront involontairement détruit ou degradé des infrastructures de production, transformation, transport local, distribution et utilisation de gaz, empêché ou entravé la transmission de gaz sur le réseau, seront punis d'une amende de 40 cents à 6 euros et d'un emprisonnement d'un jour à sept jours ou d'une de ces peines seulement.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 57, 011; En vigueur : 07-08-2008&gt;
+
+## CHAPITRE XIV. - Dispositions modificatives.
+
+##### Art. 50
+
+L'article 2 du décret relatif à l'organisation du marché régional de l'électricité est modifié [comme suit] : &lt;DRW 2003-12-18/68, art. 27, 002; En vigueur : 16-02-2004&gt;
+
+1\. au 9°, le chiffre " 30 " est remplacé par le chiffre " 1 ";
+
+2\. le 15° est complété comme suit : " reliant un producteur ou un client final, et qui est la propriété de l'utilisateur du réseau qu'elle relie ";
+
+3\. [...] &lt;DRW 2003-12-18/68, art. 27, 002; En vigueur : 16-02-2004&gt;
+
+##### Art. 51
+
+A l'article 3 du même décret, le mot " candidat " est supprimé.
+
+##### Art. 51bis
+
+A l'article 4, alinéa 1er, du même décret, les mots " compris entre 30 et 70 kV " sont supprimés.
+
+##### Art. 52
+
+&lt;DRW 2005-02-03/39, art. 134, 003; En vigueur : 11-03-2005&gt; L'article 10 du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité est complété par le paragraphe suivant :
+
+" § 3. Dans l'hypothese où le gestionnaire de réseau est proposé par une commune propriétaire d'une partie du réseau sur son territoire ou par une commune enclavée, le Gouvernement peut autoriser la commune à procéder à ses frais à l'expropriation pour cause d'utilité publique du reseau de distribution situé sur son territoire et nécessaire à la réalisation de la mission du gestionnaire de réseau de distribution proposé par celle-ci.
+
+La commune enclavée est la commune dont le réseau de distribution situé sur son territoire est géré par un autre gestionnaire que le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> de toutes les communes limitrophes.
+
+La procédure d'extrême urgence instaurée par la loi du 26 juillet 1962 relative aux expropriations pour cause d'utilité publique et aux concessions en vue de la construction d'autoroutes est applicable aux expropriations visées au paragraphe 3, alinéa 1er.
+
+Par dérogation à l'article 9 du décret du 5 décembre 1996 relatif aux intercommunales wallonnes, une commune associée à une intercommunale assurant la gestion du réseau de distribution peut, outre les cas visés a l'article 9 susmentionné, se retirer avant le terme de l'intercommunale lorsqu'elle remplit les conditions visées au paragraphe 3, alinéa 1er. Dans cette hypothèse, nonobstant toute disposition statutaire, aucun vote n'est requis. La commune est tenue de réparer le dommage, évalué à dires d'experts, que son retrait cause aux autres associés et à l'intercommunale.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 53
+
+A l'article 15, § 1er, alinéa 2, du même décret, la première phrase est remplacée par la phrase suivante : " Le plan d'adaptation élaboré par les gestionnaires de réseaux de distribution couvre une période de cinq ans; il est adapté au fur et à mesure des besoins et au moins tous les deux ans pour les cinq années suivantes, selon la procédure prévue au premier alinéa ".
+
+##### Art. 54
+
+A l'article 19, du même décret :
+
+1\. Le paragraphe 1er, alinéa 1er, est complété comme suit : " Une copie de cette notification est adressée au ministre. "
+
+2\. Les paragraphes 2 et 3 sont supprimés et remplacés par les dispositions suivantes :
+
+" § 2. Lorsque le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> envisage de réaliser des travaux visés au paragraphe 1er sur, sous ou au-dessus du domaine public qui n'est pas propriété d'un membre du [<sup>1</sup> gestionnaire de réseau]<sup>1</sup>, le gestionnaire en question introduit une demande de permission de voirie auprès du propriétaire du domaine public concerné. En cas de refus du propriétaire du domaine public, le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> peut introduire un recours auprès du ministre.
+
+Le Gouvernement détermine la procédure d'octroi de la permission de voirie, notamment la forme de la demande, les documents qui doivent l'accompagner, l'instruction du dossier et les enquêtes à effectuer par les autorités saisies d'une telle demande, les délais dans lesquels l'autorité compétente doit statuer et notifier sa décision au demandeur, ainsi que la procédure et les modalités de recours auprès du ministre et la redevance à payer pour l'examen du dossier. "
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 55
+
+A l'article 20 du même décret, sont apportées les modifications suivantes :
+
+1\. A l'alinéa 2, le 3° est remplacé comme suit : " K = le nombre de kWh relevé par le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> pour le territoire de la commune divisé par kWhGR ".
+
+2\. A l'alinéa 2, 4°, les mots " gérées par le gestionnaire de réseau " sont insérés après les mots " la longueur des lignes électriques ".
+
+3\. A l'alinéa 4, les mots " la procédure et " sont insérés entre les mots " détermine " et les mots " les modalités ".
+
+4\. A la fin de l'article, les mots " et de la commune " sont rajoutés.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 56
+
+A l'article 22 du même décret, ajouter un troisième alinéa rédigé comme suit :
+
+" Le Gouvernement peut déterminer les droits et obligations du locataire éventuel du fonds privé dans le cadre de la vente de ce fonds. "
+
+##### Art. 57
+
+A l'article 34 du même décret, sont apportées les modifications suivantes :
+
+1\. Le 1° est complété par un point e. rédigé comme suit :
+
+" e. en matière de protection de l'environnement, l'obligation de proposer des formules tarifaires favorisant l'utilisation rationnelle de l'énergie pour la clientèle résidentielle des fournisseurs; "
+
+2\. Le 2°, point d. , est complété comme suit : " pour la clientèle résidentielle ".
+
+##### Art. 58
+
+L'article 35 du même décret est supprimé.
+
+##### Art. 59
+
+A l'article 38, § 2, alinéa 2, du même décret, la seconde phrase est remplacée par la phrase suivante :
+
+" Ce taux d'économie de dioxyde de carbone est limité à 1 pour les unités de production dans leur production supérieure à 5 MW.
+
+En dessous de ce seuil, il est plafonné à 2. "
+
+##### Art. 60
+
+A l'article 39 du même décret, sont apportées les modifications suivantes :
+
+1\. Au paragraphe 1er, alinéa 1er, les mots " avant le 31 décembre de chaque année " sont supprimés.
+
+2\. Au paragraphe 2, la dernière phrase est supprimée.
+
+##### Art. 61
+
+A l'article 45, § 1er, du même décret, sont apportées les modifications suivantes :
+
+1\. A l'alinéa 1er, première phrase, les mots " trois administrateurs " sont remplacés par les mots " quatre administrateurs " et les mots " six ans " sont remplacés par les mots " cinq ans ".
+
+2\. A l'alinéa 1er, la seconde phrase est remplacée par la phrase suivante :
+
+" Par dérogation à ce qui précède, lors de la constitution de la [<sup>1</sup> CWaPE]<sup>1</sup>, le président et les administrateurs sont nommés pour un terme prenant fin le 31 août 2008. "
+
+3\. A l'alinéa 2, la première phrase est remplacée par la phrase suivante :
+
+" Par décision dûment motivée et après les avoir entendus, le Gouvernement peut relever temporairement le président ou les administrateurs de leur fonction ou peut les révoquer anticipativement. "
+
+4\. Il est inséré un alinéa 3, rédigé comme suit :
+
+" Les mandats du président et des administrateurs du comité de direction de la [<sup>1</sup> CWaPE]<sup>1</sup> prennent fin lorsqu'ils ont atteint l'âge de soixante-cinq ans accomplis. Toutefois, le ministre peut autoriser un titulaire à prolonger le mandat en cours jusqu'à la désignation de son successeur, sans que cette prolongation puisse excéder un an. "
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 62
+
+A l'article 46 du même décret, sont apportées les modifications suivantes :
+
+1\. A la première phrase du paragraphe 1er, les mots " trois directions " sont remplacés par les mots " quatre directions ".
+
+2\. Au paragraphe 1er, il est inséré un 4°, rédigé comme suit :
+
+" 4° une direction du fonctionnement technique du marché du gaz et des mécanismes de promotion du [<sup>1</sup> gaz issu de SER]<sup>1</sup>; ".
+
+3\. Le paragraphe 3 est supprimé.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 63
+
+A l'article 51, § 2, du même décret, sont apportées les modifications suivantes :
+
+1\. A la première phrase, les mots " vingt-quatre " sont remplacés par les mots " vingt-neuf ".
+
+2\. Il est ajouté les points 12°, 13° et 14° rédigés comme suit :
+
+" 12° un représentant des producteurs de [<sup>1</sup> gaz issu de SER]<sup>1</sup>;
+
+" 13° trois représentants des gestionnaires des réseaux gaziers;
+
+" 14° un représentant des fournisseurs de gaz. ".
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 64
+
+L'article 53, § 7, du même décret est remplacé par la phrase suivante :
+
+" Le produit des amendes administratives alimente le Fonds énergie visé au chapitre X du décret du à relatif à l'organisation du marché régional du gaz. "
+
+##### Art. 65
+
+Dans l'article 59, alinéa 1er, du même décret, les mots " au propriétaire de la voirie " sont remplacés par les mots " au ministre "; les mots " situé sur ladite voirie " sont supprimés.
+
+##### Art. 66
+
+[<sup>1</sup> L'article 569, 33°, du Code judiciaire, inséré par l'article 81 du décret du 19 décembre 2002 modifiant le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité, est complété par les mots " ou en vertu de l'article 48, §§ 1er et 2, du décret relatif à l'organisation du marché régional du gaz ".]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 58, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 67
+
+Dans l'article 13, alinéa 2, de l'arrêté du Gouvernement du 21 mars 2001 relatif à la licence de fourniture d'électricité, les mots " au fonds " Social " visé à l'article 35 du décret " sont remplacés par les mots " au Fonds energie visé au chapitre X du décret du à relatif à l'organisation du marché regional du gaz ".
+
+## CHAPITRE XV. - Dispositions transitoires et entrée en vigueur.
+
+##### Art. 68
+
+L'administrateur de la [<sup>1</sup> CWaPE]<sup>1</sup> chargé de la direction du fonctionnement technique du marche du gaz est désigné dans le cadre de la procédure organisée par l'article 45, § 1er, du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et entre en fonction dans le mois suivant l'entrée en vigueur du présent décret. Tant que cet administrateur n'est pas entré en fonction, le Gouvernement est habilité à procéder à l'exécution des articles que la [<sup>1</sup> CWaPE]<sup>1</sup> doit faire exécuter ou pour lesquels elle est tenue de rendre un avis en vertu du présent décret.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 69
+
+A l'exception des gestionnaires de réseaux de distribution de [<sup>1</sup> gaz issu exclusivement de SER]<sup>12</sup>, sur proposition des communes et provinces lorsque ces dernières sont membres d'une intercommunale de distribution de gaz constituée avant la parution du présent décret au Moniteur belge , après avis de la [<sup>1</sup> CWaPE]<sup>1</sup>, et au plus tard douze mois après l'entrée en vigueur du décret, le Gouvernement désigne, sur la base des criteres visés aux articles 3 à 10, le ou les gestionnaires de réseaux de distribution correspondant à des zones géographiquement distinctes et sans recouvrement.
+
+A défaut de proposition des communes et/ou provinces dans les trois mois qui suivent la date de publication d'un avis du ministre au Moniteur belge , le Gouvernement désigne, après avis de la [<sup>1</sup> CWaPE]<sup>1</sup>, le ou les gestionnaires des réseaux de distribution.
+
+A titre transitoire, les régies et intercommunales de distribution de gaz constituées avant la parution du présent décret au Moniteur belge seront chargées de la gestion du réseau de distribution.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 70
+
+Dans les trois mois suivant l'entrée en vigueur de l'arrêté du Gouvernement visé à l'alinéa 2, le [<sup>1</sup> gestionnaire de réseau]<sup>1</sup> notifie au ministre le réseau existant dont il assure la gestion au moment de l'entrée en vigueur du présent décret. La redevance visée à l'article 20 est due dès notification.
+
+Le Gouvernement détermine la procédure de notification de voirie visée à l'alinéa 1er, notamment la forme de la déclaration et les documents qui doivent l'accompagner.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 71
+
+Le plan d'adaptation et le plan d'extension du réseau de distribution sont établis pour la première fois dans les douze mois de l'entrée en vigueur de l'article 16.
+
+##### Art. 72
+
+Tant que le Fonds énergie créé en vertu de l'article 37 n'est pas alimenté par la redevance visée à l'article 40, la [<sup>1</sup> CWaPE]<sup>1</sup> dispose d'une dotation a charge du budget de la Région wallonne, dont le montant est fixé par le décret budgétaire.
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 1, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 73
+
+Le décret du 25 février 1999 relatif à la mise à disposition d'un minimum de puissance électrique et à la suspension de mise à disposition de gaz et de puissance électrique est abrogé, et l'arrêté de l'Executif du 16 septembre 1985 déterminant les catégories de bénéficiaires d'un minimum d'électricité pour les usages domestiques est abrogé.
+
+Le décret du 4 juillet 1985 relatif à la fourniture d'un minimum d'électricité pour usage domestique et le décret du 21 février 1991 portant création de commissions locales d'avis de coupure de gaz et d'électricité pour les usages domestiques seront abrogés (, pour ce qui concerne les aspects gaziers,) lors de l'entrée en vigueur des arrêtés d'exécution des articles 32, 2°, et 33, 3°, du présent décret (, pour ce qui concerne les aspects électriques, lors de l'entree en vigueur) et de l'article 34, 1°, b. , et 2°, c. , du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité. &lt;DRW 2003-12-18/68, art. 28, 002; En vigueur : 16-02-2004&gt;
+
+##### Art. 74
+
+Les chapitres Ier à IV, VI, à l'exception de l'article 30, §§ 2 et 3, VII à XIII et XV entrent en vigueur le jour de la publication du présent décret.
+
+Le chapitre XIV produit ses effets à partir du 1er janvier 2003.
+
+[<sup>1</sup> Alinéa 3 abrogé.]<sup>1</sup>
+
+(NOTE : Entrée en vigueur de l'art. 30, §§ 2 et 3 fixée le 14-11-2003 par ARW 2003-10-16/35, art. 30)
+
+(NOTE : Entrée en vigueur des art. 26 et 28 fixée le 05-12-2003 par ARW 2003-10-16/40, art. 13)
+
+(NOTE : Entrée en vigueur de l'art. 27 fixée le 04-01-2004 par ARW 2003-10-16/40, art. 13)
+
+----------
+
+(1)&lt;DRW 2008-07-17/52, art. 59, 011; En vigueur : 07-08-2008&gt;
+
+##### Art. 75
+
+[<sup>1</sup> La CWaPE évalue les dispositions du présent décret et remet son rapport d'évaluation au Gouvernement et au Parlement [<sup>4</sup> pour le 30 septembre de chaque année]<sup>4</sup>.
+
+Le [<sup>2</sup> pôle "Energie"]<sup>2</sup> peut également évaluer les dispositions du présent décret et remettre un rapport d'évaluation au Gouvernement et au Parlement dans le courant de l'année 2017.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-05-21/05, art. 53, 018; En vigueur : 12-06-2015&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 63, 019; En vigueur : 04-07-2017&gt;
+
+(3)&lt;DRW 2018-07-17/04, art. 166, 022; En vigueur : 18-10-2018&gt;
+
+(4)&lt;DRW 2025-12-19/70, art. 41, 034; En vigueur : 09-01-2026&gt;
+
+## CHAPITRE XVI. [<sup>1</sup> - Pouvoirs spéciaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-02-03/03, art. 11, 027; En vigueur : 17-02-2022&gt;
+
+##### Art. 76
+
+[<sup>1</sup> Lorsque le Gouvernement constate la survenance de de circonstances de crise impactant la santé, la sécurité ou la situation financière des clients résidentiels ou d'une partie des clients résidentiels, il est habilité à déroger au présent décret afin de garantir le droit à l'énergie des clients résidentiels concernés, dans le respect des conditions cumulatives suivantes :
+
+1° les dérogations ont une durée limitée et, dans tous les cas, ne dépassent pas la durée d'une année;
+
+2° les dérogations visent strictement le public impacté par les circonstances de crise constatées par le Gouvernement;
+
+3° les dérogations sont justifiées et proportionnées au regard des circonstances de crise constatées par le Gouvernement.
+
+Le projet d'arrêté est concerté avec la CWaPE, les gestionnaires de réseau de distribution, les fournisseurs, la Fédération des centres publics d'action sociale, l'Union des Villes et des Communes de Wallonie et des associations de représentation de consommateurs. La CWaPE remet un avis sur le projet d'arrêté.
+
+Tout arrêté pris en exécution du présent article est censé ne jamais avoir produit d'effets s'il n'a pas été confirmé par un décret dans les six mois de sa date d'entrée en vigueur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-02-03/03, art. 12, 027; En vigueur : 17-02-2022&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 19 décembre 2002.
+
+Le Ministre-Président,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Economie, des P.M.E., de la Recherche et des Technologies nouvelles,
+
+S. KUBLA
+
+Le Ministre des Transports, de la Mobilité et de l'Energie,
+
+J. DARAS
+
+Le Ministre du Budget, du Logement, de l'Equipement et des Travaux publics,
+
+M. DAERDEN
+
+Le Ministre de l'Aménagement du Territoire, de l'Urbanisme et de l'Environnement,
+
+M. FORET
+
+Le Ministre de l'Agriculture et de la Ruralité,
+
+J. HAPPART
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ch. MICHEL
+
+Le Ministre des Affaires sociales et de la Santé,
+
+Th. DETIENNE
+
+La Ministre de l'Emploi et de la Formation,
+
+Mme M. ARENA.

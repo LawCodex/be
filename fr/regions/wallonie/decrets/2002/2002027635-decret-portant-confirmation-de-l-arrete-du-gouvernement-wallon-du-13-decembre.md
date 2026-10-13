@@ -1,0 +1,107 @@
+---
+title: "Décret portant confirmation de l'arrêté du Gouvernement wallon du 13 décembre 2001 portant exécution du décret du 18 juillet 2001 relatif à l'introduction de l'euro dans les matières transférées à la Région wallonne en vertu de l'article 138 de la Constitution, et portant modification, en vue de l'introduction de l'euro, des décrets en matière de tourisme."
+identifier: "2002027635"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/04/2002027635/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2002-07-04
+published: 2002-07-17
+entry_into_force: 2002-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/04/2002027635/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 4 JUILLET 2002. - Décret portant confirmation de l'arrêté du Gouvernement wallon du 13 décembre 2001 portant exécution du décret du 18 juillet 2001 relatif à l'introduction de l'euro dans les matières transférées à la Région wallonne en vertu de l'article 138 de la Constitution, et portant modification, en vue de l'introduction de l'euro, des décrets en matière de tourisme.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle, en vertu de l'article 138 de la Constitution, des matières visées aux articles 127 et 128 de celle-ci.
+
+## Art. 2
+
+L'arrêté du Gouvernement wallon du 13 décembre 2001 portant exécution du décret du 18 juillet 2001 relatif à l'introduction de l'euro dans les matières transférées à la Région wallonne en vertu de l'article 138 de la Constitution est confirmé avec effet au 1er janvier 2002, date de son entrée en vigueur.
+
+## Art. 3
+
+Dans l'article 5, alinéa 1er, du décret du 16 juin 1981 organisant les gîtes ruraux, les gîtes à la ferme, les meublés de tourisme et les chambres d'hôtes, le mot " francs " est remplacé par le mot " euros ".
+
+## Art. 4
+
+Dans l'article 8, alinéa 1er, du décret du 9 novembre 1990 relatif aux conditions d'exploitation des établissements d'hébergement et des établissements hôteliers, les mots " francs " sont remplacés par les mots " euros ".
+
+## Art. 5
+
+Dans l'article 7, alinéa 1er, du décret du 4 mars 1991 relatif aux conditions d'exploitation des terrains de camping-caravaning, le mot " francs " est remplacé par le mot " euros ".
+
+## Art. 6
+
+Dans l'article 3, § 4, alinéa 1er, du décret du 6 mars 1997 relatif au tourisme social, les mots " 500 000 francs " sont remplacés par les mots " 12.500 euros ".
+
+## Art. 7
+
+Dans l'article 7, § 1er, 1° et 2°, du décret du 6 mai 1999 relatif aux organismes touristiques, les mots " francs " sont remplacés par les mots " euros ".
+
+## Art. 8
+
+Dans les dispositions, indiquées ci-dessous, du décret du 18 juillet 1997 relatif à l'insertion de demandeurs d'emploi auprès d'employeurs qui organisent une formation permettant d'occuper un poste vacant, les montants exprimés en francs et figurant à la deuxième colonne du tableau suivant sont remplacés par les montants exprimés en euros dans la troisième colonne du même tableau.
+
+" Article 7
+
+alinea 2, 4° 5 000 francs 124 euros
+
+Article 8
+
+alinea 2, 1° 203 000 francs 5.033 euros
+
+alinea 5 203 000 francs 5.033 euros "
+
+## Art. 9
+
+Les articles 3 à 8 produisent leurs effets le 1er janvier 2002.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 4 juillet 2002.
+
+Le Ministre-Président,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Economie, des P.M.E, de la Recherche et des Technologies nouvelles,
+
+S. KUBLA
+
+Le Ministre des Transports, de la Mobilité et de l'Energie,
+
+J. DARAS
+
+Le Ministre du Budget, du Logement, de l'Equipement et des Travaux publics,
+
+M. DAERDEN
+
+Le Ministre de l'Aménagement du Territoire, de l'Urbanisme et de l'Environnement,
+
+M. FORET
+
+Le Ministre de l'Agriculture et de la Ruralité,
+
+J. HAPPART
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ch. MICHEL
+
+Le Ministre des Affaires sociales et de la Santé,
+
+Th. DETIENNE
+
+La Ministre de l'Emploi et de la Formation,
+
+Mme M. ARENA.

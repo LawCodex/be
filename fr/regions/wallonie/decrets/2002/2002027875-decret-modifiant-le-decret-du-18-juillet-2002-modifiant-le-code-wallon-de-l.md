@@ -1,0 +1,69 @@
+---
+title: "Décret modifiant le décret du 18 juillet 2002 modifiant le Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine."
+identifier: "2002027875"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2002/09/19/2002027875/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2002-09-19
+published: 2002-09-27
+entry_into_force: 2002-10-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2002/09/19/2002027875/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 19 SEPTEMBRE 2002. - Décret modifiant le décret du 18 juillet 2002 modifiant le Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+A l'article 79 du décret du 18 juillet 2002 modifiant le Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine, le numéro 68 est inséré entre le numéro 64 et le numéro 77.
+
+## Art. 2
+
+Le présent décret entre en vigueur le même jour que le décret du 18 juillet 2002 modifiant le Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 19 septembre 2002.
+
+Le Ministre-Président,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Economie, des P.M.E., de la Recherche et des Technologies nouvelles,
+
+S. KUBLA
+
+Le Ministre des Transports, de la Mobilité et de l'Energie,
+
+J. DARAS
+
+Le Ministre du Budget, du Logement, de l'Equipement et des Travaux publics,
+
+M. DAERDEN
+
+Le Ministre de l'Aménagement du Territoire, de l'Urbanisme et de l'Environnement,
+
+M. FORET
+
+Le Ministre de l'Agriculture et de la Ruralité,
+
+J. HAPPART
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ch. MICHEL
+
+Le Ministre des Affaires sociales et de la Santé,
+
+Th. DETIENNE
+
+Le Ministre de l'Emploi et de la Formation,
+
+Mme M. ARENA.

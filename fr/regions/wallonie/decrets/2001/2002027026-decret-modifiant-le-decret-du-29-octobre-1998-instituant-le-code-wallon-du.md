@@ -1,0 +1,81 @@
+---
+title: "Décret modifiant le décret du 29 octobre 1998 instituant le Code wallon du Logement."
+identifier: "2002027026"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002027026/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2001-12-20
+published: 2002-01-18
+entry_into_force: 2002-01-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002027026/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 20 DECEMBRE 2001. - Décret modifiant le décret du 29 octobre 1998 instituant le Code wallon du Logement.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+A l'article 90 de la section 3 du chapitre Ier du titre III - Des acteurs de la politique régionale du logement - du Code wallon du Logement institué par le décret du 29 octobre 1998, il est inséré un deuxième alinéa rédigé comme suit :
+
+" Moyennant l'autorisation du Gouvernement, la Société peut transférer à la Société wallonne de Crédit social S.A. la mission de Crédit hypothécaire visée à l'article 88, § 2, 5°, du Code wallon du Logement.
+
+La Société wallonne de Crédit social S.A. bénéficie de la garantie de la Région dans le cadre de l'exercice de la mission transférée.
+
+Elle est agréée au sens de l'article 216 du Code de l'impôt sur les revenus. ".
+
+## Art. 2
+
+L'article 3 du décret du 29 octobre 1998 instituant le Code wallon du Logement, tel que modifié par le décret du 18 mai 2000, est remplacé par la disposition suivante :
+
+" Art. 3. Les sociétés immobilières de service public et les organismes de crédit agréés à la date d'entrée en vigueur du présent décret conservent le bénéfice de cet agrément jusqu'au 31 décembre 2002. ".
+
+## Art. 3
+
+Le présent décret entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 20 décembre 2001.
+
+Le Ministre-Président,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Economie, des P.M.E., de la Recherche et des Technologies nouvelles,
+
+S. KUBLA
+
+Le Ministre des Transports, de la Mobilité et de l'Energie,
+
+J. DARAS
+
+Le Ministre du Budget, du Logement, de l'Equipement et des Travaux publics,
+
+M. DAERDEN
+
+Le Ministre de l'Aménagement du Territoire, de l'Urbanisme et de l'Environnement,
+
+M. FORET
+
+Le Ministre de l'Agriculture et de la Ruralité,
+
+J. HAPPART
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ch. MICHEL
+
+Le Ministre des Affaires sociales et de la Santé,
+
+Th. DETIENNE
+
+La Ministre de l'Emploi et de la Formation,
+
+Mme M. ARENA.
