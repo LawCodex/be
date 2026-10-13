@@ -1,0 +1,69 @@
+---
+title: "Décret créant une subrogation légale au profit de la Région wallonne ou des personnes morales de droit public qui en dépendent."
+identifier: "1997027271"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1997/05/15/1997027271/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1997-05-15
+published: 1997-05-23
+entry_into_force: 1997-06-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1997/05/15/1997027271/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 15 MAI 1997. - Décret créant une subrogation légale au profit de la Région wallonne ou des personnes morales de droit public qui en dépendent.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle en son article 3, en application de l'article 138 de la Constitution, une matière visée à l'article 128, § 1er, de celle-ci.
+
+## Art. 2
+
+Le présent article s'applique aux matières visées à l'article 39 de la Constitution.
+
+La Région ou les personnes morales de droit public qui en dépendent sont subrogées de plein droit dans les droits et actions des bénéficiaires à l'égard de tiers responsables, à concurrence des montants dépensés à charge de la Région ou des personnes morales de droit public qui en dépendent, pour les frais médicaux, les traitements, les allocations et les indemnités déboursés en faveur du membre du personnel pendant la période d'absence pour motif de santé qui résulte de l'acte dommageable et pour les autres frais supportés par la Région ou les personnes morales de droit public qui en dépendent. Cette subrogation vaut pour la totalité des sommes dues en vertu de la législation belge ou étrangère, en réparation totale ou partielle des dommages causés au membre du personnel par les tiers responsables.
+
+## Art. 3
+
+Le présent article s'applique aux matières transférées par la Communauté française à la Région wallonne en vertu de l'article 138 de la Constitution et est applicable sur le territoire de la Région de langue française.
+
+La Région ou les personnes morales de droit public qui en dépendent sont subrogées de plein droit dans les droits et actions des bénéficiaires à l'égard de tiers responsables, à concurrence des montants dépensés à charge de la Région ou des personnes morales de droit public qui en dépendent, pour les frais médicaux, les traitements, les allocations et les indemnités déboursés en faveur du membre du personnel pendant la période d'absence pour motif de santé qui résulte de l'acte dommageable et pour les autres frais supportés par la Région ou les personnes morales de droit public qui en dépendent. Cette subrogation vaut pour la totalité des sommes dues en vertu de la législation belge ou étrangère, en réparation totale ou partielle des dommages causés au membre du personnel par les tiers responsables.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 15 mai 1997.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, du Commerce extérieur, des P.M.E., du Tourisme et du Patrimoine,
+
+R. COLLIGNON
+
+Le Ministre de l'Aménagement du Territoire, de l'Equipement et des Transports,
+
+M. LEBRUN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+B. ANSELME
+
+Le Ministre du Budget et des Finances, de l'Emploi et de la Formation,
+
+J.-C. VAN CAUWENBERGHE
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de la Recherche, du Développement technologique, du Sport et des Relations internationales,
+
+W. ANCION

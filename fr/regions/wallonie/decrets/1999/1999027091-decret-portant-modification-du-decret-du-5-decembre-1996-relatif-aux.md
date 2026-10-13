@@ -1,0 +1,75 @@
+---
+title: "Décret portant modification du décret du 5 décembre 1996 relatif aux intercommunales wallonnes."
+identifier: "1999027091"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/04/1999027091/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1999-02-04
+published: 1999-02-16
+entry_into_force: 1998-12-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/04/1999027091/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 4 FEVRIER 1999. - Décret portant modification du décret du 5 décembre 1996 relatif aux intercommunales wallonnes.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Un article 18, § 2, alinéa 1er, rédigé comme suit, est inséré à la place des anciens alinéas 1er et 2 du § 2 de l'article 18 dans le décret du 5 décembre 1996 relatif aux intercommunales wallonnes :
+
+" Les administrateurs représentant les communes associées et, s'il échet, les provinces associées sont désignés respectivement à la proportionnelle de l'ensemble des conseils communaux des communes associées et, s'il échet, de l'ensemble des conseils provinciaux des provinces associées. Pour le calcul de cette proportionnelle, il sera tenu compte des critères statutaires de pondération visés à l'article 6, 9°, ainsi que des déclarations individuelles facultatives d'apparentement ou de regroupement. ".
+
+## Art. 2
+
+Un alinéa 3 rédigé comme suit est inséré à la place de l'alinéa 3 de l'article 20 du même décret :
+
+" Les commissaires, autres que membres de l'Institut des Réviseurs d'entreprises, sont nommés par l'assemblée générale respectivement à la proportionnelle de l'ensemble des conseils communaux associés et, s'il échet, de l'ensemble des conseils provinciaux des provinces associées, conformément à l'article 18, § 2. ".
+
+## Art. 3
+
+Un alinéa 3 rédigé comme suit est inséré à la place de l'alinéa 3 de l'article 28 du décret :
+
+" Il comprend cinq membres nommés par l'assemblée générale à la proportionnelle de l'ensemble des conseils communaux des communes associées, conformément à l'article 18, § 2. ".
+
+## Art. 4
+
+Le présent décret produit ses effets le 31 décembre 1998.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 4 février 1999.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, du Commerce extérieur, des P.M.E., du Tourisme et du Patrimoine,
+
+R. COLLIGNON
+
+Le Ministre de l'Aménagement du territoire, de l'Equipement et des Transports,
+
+M. LEBRUN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+B. ANSELME
+
+Le Ministre du Budget et des Finances, de l'Emploi et de la Formation,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de la Recherche, du Développement technologique, du Sport et des Relations internationales,
+
+W. ANCION

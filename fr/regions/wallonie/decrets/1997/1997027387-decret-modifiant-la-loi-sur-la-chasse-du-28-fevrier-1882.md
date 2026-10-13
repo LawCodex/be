@@ -1,0 +1,59 @@
+---
+title: "Décret modifiant la loi sur la chasse du 28 février 1882."
+identifier: "1997027387"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/24/1997027387/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1997-07-24
+published: 1997-08-06
+entry_into_force: 1997-08-16
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/24/1997027387/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 24 JUILLET 1997. - Décret modifiant la loi sur la chasse du 28 février 1882.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. L'article 11, alinéa 3, de la loi sur la chasse du 28 février 1882 est modifié comme suit :
+
+" Le gibier saisi est immédiatement mis, par le bourgmestre de la commune, à la disposition du centre public d'aide sociale (CPAS.). En cas de désistement du CPAS., il est mis, par le bourgmestre, à la disposition d'un autre CPAS. ou d'une asbl. dont le but est de venir en aide aux plus défavorisés. ".
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 24 juillet 1997.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, du Commerce extérieur, des PME., du Tourisme et du Patrimoine,
+
+R. COLLIGNON
+
+Le Ministre de l'Aménagement du Territoire, de l'Equipement et des Transports,
+
+M. LEBRUN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+B. ANSELME
+
+Le Ministre du Budget et des Finances, de l'Emploi et de la Formation,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de la Recherche, du Développement technologique, du Sport et des Relations internationales,
+
+W. ANCION

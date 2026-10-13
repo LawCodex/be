@@ -1,0 +1,1847 @@
+---
+title: "Décret relatif à l'Office wallon de la Formation professionnelle et de l'Emploi."
+identifier: "1999027535"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027535/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1999-05-06
+published: 1999-07-08
+entry_into_force: 1999-07-18
+last_amended: 2026-04-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027535/justel"
+department: "Région Wallonne"
+justel_notes:
+  - "Dans le décret, il faut lire \" Gouvernement \" en lieu et place de \" Gouvernement wallon \" ; voir DRW 2003-03-13/37 , art. 48"
+  - "Consultation des versions antérieures à partir du 08-07-1999 et mise à jour au 17-04-2026"
+retrieved: 2026-10-12
+---
+
+# 6 MAI 1999. - Décret relatif à l'Office wallon de la Formation professionnelle et de l'Emploi.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - l'Office wallon de la Formation professionnelle et de l'Emploi.
+
+#### Art. 1
+
+(voir NOTE sous INTITULE) Le présent décret règle, en partie, en application de l'article 138 de la Constitution, une matière visée à l'article 127, § 1er, de celle-ci.
+
+Les dispositions relatives à cette matière sont applicables sur le territoire de la Région de langue française (...). &lt;DRW 2003-03-13/37, art. 2, 002; En vigueur : 01-04-2003&gt;
+
+#### Art. 1erbis
+
+&lt;Inséré par DRW 2003-03-13/37, art. 3; En vigueur : 01-04-2003&gt; Pour l'application du présent décret, l'on entend par :
+
+1° usager : toute personne physique ou morale qui bénéficie [<sup>1</sup> ou est susceptible de bénéficier]<sup>1</sup> des services de l'Office [<sup>3</sup> en tant que particulier ou en tant qu'employeur et dont le niveau d'identification par le FOREm varie selon le type de services qu'elle sollicite auprès du FOREm]<sup>3</sup>;
+
+[<sup>1</sup> 2° [<sup>3</sup> le demandeur d'emploi : tout usager particulier, inscrit en tant que demandeur d'emploi auprès de l'Office wallon de la Formation professionnelle et de l'Emploi conformément au chapitre 2 du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi, qui recherche une activité professionnelle, salariée ou indépendante, et qui réside sur le territoire de la Région de langue française conformément à l'article 1er de la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes d'étranger et aux documents de séjour;]<sup>3</sup>
+
+[<sup>3</sup> 2° /1 le demandeur d'emploi inscrit obligatoirement : tout demandeur d'emploi inscrit auprès du FOREm en vue de bénéficier d'allocations de chômage, de sauvegarde ou d'insertion, à l'exception du jeune demandeur d'emploi inscrit obligatoirement et du demandeur d'emploi inscrit obligatoirement soumis à l'obligation de disponibilité adaptée ;
+
+2° /2 le jeune demandeur d'emploi inscrit obligatoirement : tout demandeur d'emploi inscrit auprès du FOREm qui est en stage d'insertion visé à l'article 36, § 1er, alinéa 1er, 4°, de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage ;
+
+2° /3 le demandeur d'emploi inscrit obligatoirement soumis à l'obligation de disponibilité adaptée : tout demandeur d'emploi inscrit auprès du FOREm en vue de bénéficier d'allocations de chômage soumis à l'obliga tion de disponibilité adaptée visée à l'article 56/2, § 1er, alinéas 1er et 6, et § 2, alinéa 1er, de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage ;]<sup>3</sup>
+
+3° travailleur : toute personne physique exerçant, en tant qu'usager, une activité professionnelle, salariée ou indépendante et qui réside sur le territoire de la région de langue française;
+
+4° employeur : toute personne physique ou morale susceptible de proposer au travailleur ou au demandeur d'emploi, une offre d'emploi ou un développement des compétences;
+
+5° service d'intérêt général : activité de services, marchands ou non marchands, considérée d'intérêt général par les autorités publiques et soumise pour cette raison à des obligations spécifiques de service public;
+
+6° plan d'entreprise : programme tel que défini à l'article 2, 4°, du décret du 12 février 2004 relatif au contrat de gestion et aux obligations d'information;
+
+7° centre de compétence : structure partenariale reconnue par le Gouvernement, dans le cadre d'un ou plusieurs secteurs professionnels, ayant pour mission l'information et la sensibilisation aux métiers et aux technologies, la veille, la formation et l'analyse des besoins en formation, ouverte aux usagers tels que ciblés dans le dossier de reconnaissance;
+
+8° maison de l'emploi : structure partenariale de proximité reconnue par le Gouvernement chargée d'activités décentralisées liées au conseil et à l'appui des demandeurs d'emploi;
+
+9° carrefour emploi formation orientation : structure partenariale reconnue par le Gouvernement, chargée d'activités liées à l'information, à l'orientation et au conseil des usagers sur le marché régional du travail;]<sup>1</sup>
+
+10° [<sup>2</sup> Agence locale pour l'emploi : ASBL constituée en vertu de l'article 8 de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, ci-après ALE.]<sup>2</sup>
+
+11° [<sup>3</sup> le dispositif d'orientation tout au long de la vie : le dispositif coordonné et piloté par le FOREm, comprenant un ensemble de services d'information, de promotion des métiers et d'orientation professionnelle, à la fois physiques et digitaux, visant tous les publics, quel que soit leur statut, depuis le début de leur scolarité obligatoire jusqu'à la fin de leur carrière professionnelle, et organisé, au travers du réseau des Cités Métiers, afin d'assurer la cohérence de l'offre de services en matière d'orientation professionnelle tout au long de la vie;]<sup>3</sup>
+
+12° [<sup>3</sup> Cité des Métiers : structure partenariale, agrégeant une ASBL labellisée " Cité des métiers " et un Carrefour Emploi Formation Orientation, en abrégé CEFO, faisant partie d'un réseau organisé autour des ASBL labellisées " Cités des métiers " et des Carrefours Emploi Formation Orientation, rassemblant les principaux acteurs de l'enseignement, de la formation et de l'insertion socioprofessionnelle et constituant la porte d'entrée vers l'ensemble de l'offre de services du dispositif d'orientation tout au long de la vie;]<sup>3</sup>
+
+13° [<sup>3</sup> FormaForm : la structure rassemblant les organismes publics de l'emploi et de la formation professionnelle, chargée de mettre en oeuvre une offre de services de développement des compétences des professionnels de l'orientation, de la formation professionnelle, de l'insertion socioprofessionnelle et de la validation des compétences ;]<sup>3</sup>
+
+[<sup>3</sup> 14° Wallonie Compétences d'Avenir : plateforme partenariale rassemblant les principaux acteurs publics de la formation professionnelle autour des domaines d'activités stratégiques pour la Wallonie, chargée, via l'optimisation, la cohérence et la coordination de l'offre de formation professionnelle, d'apporter une réponse aux besoins de compétences, non ou insuffisamment rencontrés, actuels et futurs des entreprises et du marché du travail et de stimuler, pour atteindre cet objectif, les pratiques pédagogiques innovantes en matière de formation professionnelle en Wallonie;
+
+15° l'enregistrement : processus au terme duquel l'usager s'identifie auprès du FOREm;
+
+16° [<sup>4</sup> le dossier unique de l'usager : l'ensemble structuré et centralisé des données visées à l'article 4/1, § 1er, nécessaires aux services qui sont fournis à l'usager dans le cadre des missions attribuées au FOREm par ou en vertu de l'article 3 ou traitées en vertu d'autres obligations légales, relatives au parcours d'insertion professionnelle d'un usager. Il a pour finalité de garantir la cohérence et la continuité du suivi des actions réalisées par l'usager auprès du FOREm ou auprès d'opérateurs tiers pour permettre un suivi longitudinal des actions et éléments relatifs à son insertion sur le marché du travail à partir de la fin de son obligation scolaire jusqu'à l'âge de sa pension ]<sup>4</sup>;]<sup>3</sup>
+
+[<sup>4</sup> 17° l'opérateur tiers : tout partenaire de l'accompagnement tel que défini à l'article 2, alinéa 1er, 10°, du décret du 12 novembre 2021 ou tout tiers tel que défini à l'article 2, alinéa 1er, 11°, du décret du 12 novembre 2021 qui collabore à l'accompagnement du parcours du chercheur d'emploi ; " ;
+
+18° les signaux d'alerte : les indications générées, soit automatiquement sur la base de données objectives et actualisées, soit directement par le chercheur d'emploi, permettant d'identifier une situation de difficulté, d'inactivité ou une demande d'aide émanant de ce dernier, en lien avec son parcours d'insertion professionnelle ; " ;
+
+19° les acteurs du parcours : les collaborateurs du FOREm, autres que les conseillers, et les opérateurs tiers qui interviennent à un moment du parcours du chercheur d'emploi, lui prescrivent des actions dans le respect de leurs compétences, mettent à jour son plan d'actions et encodent les informations de suivi dans son dossier unique ; " ;
+
+20° le conseiller : le collaborateur du FOREm qui assure le suivi et la cohérence des actions du parcours du chercheur d'emploi, et qui exerce un rôle d'analyse, de guidance, d'évaluation et de décision.]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 2, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(2)&lt;DRW 2016-03-17/03, art. 2, 012; En vigueur : 01-01-2016 (dispositions transitoires art. 28)&gt;
+
+(3)&lt;DRW 2021-11-12/13, art. 24, 015; En vigueur : 01-01-2022&gt;
+
+(4)&lt;DRW 2026-03-26/05, art. 15, 022; En vigueur : 01-04-2026&gt;
+
+#### Art. 2
+
+(voir NOTE sous INTITULE) Il est institué un " Office wallon de la Formation professionnelle et de l'Emploi ", ci-après dénommé " Office ", dont le sigle est " [<sup>1</sup> Le FOREm]<sup>1</sup> ".
+
+L'Office est un organisme d'intérêt public, doté de la personnalité juridique et classé parmi les organismes de la catégorie B au sens de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public. A moins qu'il n'y soit dérogé par le présent décret, l'Office est soumis aux dispositions de la loi précitée applicable aux organismes de ladite catégorie.
+
+[<sup>1</sup> L'Office est le Service public wallon de la Formation professionnelle et de l'emploi chargé de mener les missions définies à l'article 3.
+
+Les missions exercées par l'Office sont gérées selon des règles spécifiques, prises par ou en vertu du présent décret. ]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 3, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+## CHAPITRE II. - Attributions.
+
+### Section 1. - [<sup>1</sup> Missions relatives aux compétences en matière d'emploi et en matière de recyclage et reconversion professionnels exercées par la Région]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 4, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 3
+
+(voir NOTE sous INTITULE) § 1er. [<sup>1</sup> L'Office met en oeuvre les politiques en matière d'emploi et de formation qui lui sont confiées par ou en vertu d'une disposition légale ou décrétale, soit accomplit les services d'intérêt général suivants :
+
+1° le rapprochement entre l'offre et la demande d'emploi, qui comprend les méthodes appropriées pour répondre [<sup>4</sup> aux besoins des personnes qui recherchent un emploi]<sup>4</sup> et des employeurs, par :
+
+a) le conseil et [<sup>4</sup> l'appui aux personnes qui recherchent un emploi]<sup>4</sup> par :
+
+i) l'inscription, la radiation et la réinscription des demandeurs d'emploi dans le respect des dispositions légales en matière de sécurité sociale;
+
+ii) l'information et l'orientation des [<sup>4</sup> personnes qui recherchent un emploi]<sup>4</sup> sur le marché régional du travail;
+
+iii) l'accompagnement des demandeurs d'emploi [<sup>4</sup> ...]<sup>4</sup>, en ce compris l'accompagnement [<sup>4</sup> orienté coaching et solutions des chercheurs d'emploi]<sup>4</sup> [<sup>3</sup> et le reclassement professionnel]<sup>3</sup>;
+
+[<sup>3</sup> iv) les décisions relatives aux dispenses à l'exigence de disponibilité pour le marché du travail des chômeurs indemnisés, avec maintien des allocations, en cas de reprise d'études, de suivi d'une formation professionnelle ou d'un stage;]<sup>3</sup>
+
+[<sup>4</sup> v) l'organisation de conventions portant sur l'observation d'un métier au travers d'une mise en situation professionnelle, conclue entre le demandeur d'emploi, l'entreprise et le FOREm, visant la confirmation du projet professionnel du demandeur d'emploi;]<sup>4</sup>
+
+b) la gestion des offres d'emploi des employeurs en vue de satisfaire leurs besoins en recrutement, par :
+
+i) la collecte, la gestion et la diffusion des offres d'emploi;
+
+ii) l'intermédiation entre l'offre et la demande;
+
+c) la gestion active des réserves de main-d'oeuvre en vue de répondre aux besoins ou tensions, existants ou potentiels, du marché régional du travail;
+
+2° le développement et l'identification des compétences des demandeurs d'emploi [<sup>4</sup> et des travailleurs qui désirent suivre une formation de leur propre initiative et pour leurs besoins personnels]<sup>4</sup>, par :
+
+a) la mise en oeuvre de formations professionnalisantes ou transversales visant à adapter les compétences des demandeurs d'emploi [<sup>4</sup> et des travailleurs visés au 2°]<sup>4</sup>, au regard des besoins ou tensions existants ou potentiels du marché régional du travail; les formations professionnalisantes visent l'acquisition de compétences permettant l'apprentissage d'un métier déterminé tandis que les formations transversales visent l'acquisition de compétences utiles à l'insertion professionnelle non directement liées à un métier.
+
+b) l'identification et la reconnaissance des compétences des demandeurs d'emploi [<sup>4</sup> et des travailleurs visés au 2°, dont la validation des compétences au sens de l'accord de coopération du 21 mars 2019 entre la Communauté française, la Région wallonne et la Commission communautaire française relatif à la validation des compétences ou la délivrance de certifications professionnelles au sens de l'accord de coopération du 26 février 2015 entre la Communauté française, la Région wallonne et la Commission communautaire française concernant la création et la gestion d'un Cadre francophone des certifications, en abrégé " C.F.C. ", attestant des compétences acquises par les stagiaires dans le cadre des formations professionnalisantes ou transversales organisées par le FOREm ou par d'autres opérateurs de formation dans le respect des conditions prévues par l'accord de coopération du 26 février 2015 précité]<sup>4</sup>;
+
+[<sup>4</sup> c) l'organisation de formations en milieu de travail en vue de permettre à un demandeur d'emploi d'acquérir des compétences spécifiques, insuffisamment rencontrées sur le marché du travail, et de favoriser son insertion rapide, dans les situations suivantes :
+
+i) dans le cadre d'une convention d'immersion professionnelle au sens de l'article 104 de la loi-programme du 2 août 2002 conclue entre l'employeur et le demandeur d'emploi et dont le plan de formation est reconnu ou organisé par le FOREm;
+
+ii) dans le cadre d'une convention à laquelle le FOREm est partie prenante, portant sur une formation associant expérience pratique en entreprise et formation auprès d'un opérateur de formation ;
+
+iii) dans le cadre d'un contrat de formation professionnelle octroyé par le FOREm lorsqu'il s'agit d'un stage en entreprise visant à permettre à un demandeur d'emploi de confronter avec la réalité de l'entreprise son projet professionnel ou les compétences acquises dans le cadre d'une formation sous contrat de formation professionnelle ;]<sup>4</sup>
+
+3° la coordination et l'animation de l'action des maisons de l'emploi, [<sup>3</sup> des ALE,]<sup>3</sup> des carrefour emploi formation orientation, ainsi que des centres de compétence et de leurs réseaux; l'Office est en outre chargé de l'instruction des demandes de reconnaissance des centres de compétence et des maisons de l'emploi, qui sont soumises à la décision du Gouvernement;
+
+4° l'organisation de réponses intégrées aux besoins des usagers, s'il échet, par le recours à l'intervention de tiers;
+
+5° l'analyse, la gestion et la diffusion de l'information et de la connaissance sur le marché régional du travail;
+
+6° la participation à et l'animation de la concertation territoriale selon l'organisation territoriale prévue par ou en vertu du présent décret;
+
+7° le développement et l'identification des compétences des travailleurs [<sup>4</sup> à la demande de leur employeur ou pour les besoins de ce dernier et à la demande du travailleur, qui exerce une activité professionnelle à titre d'indépendant principal ou complémentaire, pour les besoins de son activité]<sup>4</sup>.]<sup>1</sup>
+
+[<sup>3</sup> 8° le contrôle de la disponibilité [<sup>4</sup> du demandeur d'emploi inscrit obligatoirement, du jeune demandeur d'emploi inscrit obligatoirement et du demandeur d'emploi inscrit obligatoirement soumis à l'obligation de disponibilité adaptée]<sup>4</sup> et l'imposition des sanctions y relatives, conformément à l'article 35;]<sup>3</sup>
+
+[<sup>2</sup> 9° l'octroi, la liquidation, le suivi budgétaire et le contrôle des aides publiques et des incitants financiers à l'emploi et à la formation liés aux politiques de l'emploi et de la formation, confiées à l'Office par ou en vertu d'une disposition légale, décrétale ou réglementaire;]<sup>2</sup>
+
+[<sup>3</sup> 10° [<sup>4</sup> la validation du plan de formation et du projet de convention entre l'employeur et le stagiaire au regard des dispositions visées par ou en vertu des articles 104 à 108 de la loi-programme du 2 août 2002 relative à la convention d'immersion professionnelle;]<sup>4</sup>]<sup>3</sup>
+
+[<sup>4</sup> 11° la participation, la coordination et le pilotage du dispositif d'orientation tout au long de la vie et des Cités des Métiers ;
+
+12° la formation des professionnels de l'orientation, de la formation, de l'insertion socioprofessionnelle et de la validation des compétences au travers de FormaForm;
+
+13° la participation et la coordination de la plateforme Wallonie Compétences d'Avenir.]<sup>4</sup>
+
+[<sup>4</sup> Par dérogation à l'article 1erbis, 3°, la mission visée à l'article 3, § 1er, alinéa 1er, 7°, est attribuée à l'Office pour les travailleurs occupés dans une unité d'établissement située sur le territoire de la région de langue française.]<sup>4</sup>
+
+§ 2. (ancien § 3) Dans les limites de ses compétences en matière d'emploi [<sup>1</sup> et en matière de formation professionnelle]<sup>1</sup>, le Gouvernement wallon est habilité (à préciser, sur avis du comité de gestion, les modalités d'exécution [<sup>1</sup> des missions visées au paragraphe 1er]<sup>1</sup> ou) à confier toute autre mission à l'Office; le contrat de gestion sera adapté en conséquence. &lt;DRW 2003-03-13/37, art. 6, 002; En vigueur : 01-04-2003&gt;
+
+§ 3. (ancien § 3) Les missions établies par ou en vertu des paragraphes 1er et (2) s'étendent à leurs aspects internationaux; dans les limites de ses attributions, l'Office accomplit les missions attribuées par ou en vertu de législations supranationales, notamment de l'Union européenne, aux services publics de l'emploi. &lt;DRW 2003-03-13/37, art. 6, 002; En vigueur : 01-04-2003&gt;
+
+[<sup>1</sup> § 4. Les missions établies par ou en vertu des paragraphes 1er et 2 font l'objet d'un suivi et d'une évaluation via les indicateurs prévus dans le cadre du contrat de gestion.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 5, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(2)&lt;DRW 2016-03-17/03, art. 3,f, 012; En vigueur : 01-04-2015 en ce qui concerne les dispositions relatives au Fonds de l'expérience professionnelle, au Fonds de Formation Titres-services, à la réduction de cotisations sociales patronales " Tuteurs " et au congé éducation-payé (dispositions transitoires art. 28)&gt;
+
+(3)&lt;DRW 2016-03-17/03, art. 3,a-e, g, 012; En vigueur : 01-01-2016 (dispositions transitoires art. 28)&gt;
+
+(4)&lt;DRW 2021-11-12/13, art. 25, 015; En vigueur : 01-01-2022&gt;
+
+### Section 2. [<sup>1</sup> - Collecte, traitement, échange et protection des données à caractère personnel]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2021-11-12/13, art. 26, 015; En vigueur : 01-01-2022&gt;
+
+#### Art. 4
+
+[<sup>1</sup> Le FOREm est responsable du traitement des données qu'il traite pour l'exécution des missions confiées par ou en vertu de l'article 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2021-11-12/13, art. 27, 015; En vigueur : 01-01-2022&gt;
+
+#### Art. 4/1
+
+[<sup>1</sup> § 1er. Le FOREm traite, en fonction de ce qui est nécessaire pour répondre à ses obligations, à l'exécution de ses missions ou à la demande de services de l'usager particulier, les catégories de données à caractère personnel suivantes :
+
+1° le numéro d'identification au Registre national ou le numéro d'identification de la Banque Carrefour de la sécurité sociale si la personne physique n'est pas inscrite au Registre national ;
+
+2° les données visées à l'article 3, alinéa 1er, 1° à 10° et 14°, de la loi du 8 août 1983 organisant un registre national des personnes physiques ;
+
+3° si les données visées au 2° ne sont pas disponibles ou si l'usager ne dispose d'aucun des numéros visés au 1°, les nom, prénom, genre, date de naissance et adresse ;
+
+4° les données relatives à l'inscription en tant que demandeur d'emploi auprès du FOREm, en ce compris le motif de son inscription ;
+
+5° les données de contact téléphonique et électronique ;
+
+6° le statut reconnu par des institutions de sécurité sociale qui a un impact sur les droits et obligations de l'usager particulier à l'égard du FOREm ;
+
+7° les études, les formations et les langues maîtrisées ;
+
+8° les qualifications professionnelles, en indiquant, le cas échéant, la ou les certifications professionnelles obtenues ainsi que, les titres de compétences, les attestations et certificats de compétences acquises en formation, les brevets et autres agréments professionnels ;
+
+9° les aspirations professionnelles, en ce compris le positionnement métier ;
+
+10° l'expérience professionnelle et les compétences acquises de manière formelle, informelle et non formelle ;
+
+[<sup>2</sup> 10° bis le parcours professionnel, comprenant les périodes d'occupation et d'inoccupation de l'usager à partir des trois années précédant sa première inscription comme chercheur d'emploi indépendamment de l'existence éventuelle de périodes d'interruption dans son inscription en tant que chercheur d'emploi ainsi que le régime de travail ]<sup>2</sup>
+
+11° les informations relatives à l'autonomie numérique ;
+
+12°[<sup></sup>les démarches effectuées par l'usager particulier auprès du FOREm ou auprès d'un opérateur-tiers intervenant dans son parcours d'insertion professionnelle, les actions prescrites dans le cadre de ce parcours ainsi que, pour chaque action, l'identification de l'acteur concerné, la participation de l'usager, le cas échéant le motif d'une absence, et les résultats objectivables obtenus]<sup>2</sup>;
+
+13° les éléments d'ordre psycho-médico-social, en ce compris les données de santé, communiqués par l'usager particulier ou attestés par un médecin, un psychologue ou un assistant social ou communiqués par les partenaires de l'accompagnement, les tiers visés au chapitre IV du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi et tout autre tiers disposant de ces éléments, [<sup>2</sup> ayant un impact avéré]<sup>2</sup> sur son positionnement métier, son degré de proximité du marché de l'emploi, la détermination de son accompagnement, ses possibilités de réaliser des actions d'insertion ou de formation, la détermination du statut de demandeur d'emploi non-mobilisable ou sur son obligation de disponibilité pour le marché de l'emploi en tant que demandeur d'emploi obligatoirement inscrit, jeune demandeur d'emploi obligatoirement inscrit ou demandeur d'emploi obligatoirement inscrit soumis à l'obligation de disponibilité adaptée ou permettant de vérifier la capacité de l'usager particulier à exercer un emploi ou à accéder à une formation [<sup>2</sup> et uniquement pendant la période au cours de laquelle l'impact subsiste]<sup>2</sup>;
+
+14° des données relatives à un handicap, une invalidité ou une incapacité sur le marché du travail, reconnus par toute autorité compétente ou par le tiers mandaté par cette autorité ;
+
+15° les données bancaires nécessaires au paiement des aides versées par le FOREm;
+
+16° l'information selon laquelle le demandeur d'emploi est sous médiation de dettes ainsi que les nom, prénom et données de contact du médiateur de dettes ;
+
+17° [<sup>2</sup> les données relatives aux démarches effectuées par le chercheur d'emploi dans le cadre de son parcours d'insertion professionnelle, qu'elles soient réalisées auprès du FOREm, d'un opérateur-tiers intervenant dans ce parcours ou de manière autonome dans le cadre de sa recherche d'emploi, en ce compris les actions prescrites, leur état d'avancement, la participation de l'usager, le cas échéant le motif d'une absence, les résultats objectivables obtenus ainsi que le retour d'information des employeurs tel que visé à l'article 13, alinéa 4, du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi]<sup>2</sup> ;
+
+18° les données relatives à la détention d'un permis de conduire ;
+
+19° [<sup>2</sup> les données relatives aux actions d'orientation, de formation, de validation des compétences ou d'insertion réalisées dans le cadre du parcours d'insertion professionnelle de l'usager particulier, y compris, le cas échéant, les retours d'informations relatives aux actions mises en oeuvre par les partenaires de l'accompagnement et les tiers visés au chapitre IV du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi et à l'article 7 ]<sup>2</sup>;
+
+20° les données relatives à une peine privative de liberté ou à la libération lorsque ces mesures interviennent pendant que l'usager particulier est accompagné par le FOREm ou soumis au contrôle de sa disponibilité sur le marché du travail.
+
+[<sup>2</sup> 21° les signaux d'alerte comprennent les données nécessaires pour vérifier la situation et évaluer le besoin d'un accompagnement renforcé ou adapté, ainsi que la date à laquelle chaque signal a été déclenché et, le cas échéant, la période pendant laquelle la situation à l'origine du signal a été observée ;]<sup>2</sup>
+
+[<sup>2</sup> 22° les données nécessaires à la vérification
+
+de l'éligibilité à un incitant financier à la formation ou à l'emploi et au calcul de celui-ci, dont les conditions sont fixées dans le texte légal, décrétal ou réglementaire instituant l'incitant. " ;
+
+2° au paragraphe 1er, l'alinéa 2 est remplacé par ce qui suit :
+
+" Concernant l'usager particulier authentifié, les données sont conservées dans le dossier unique en fonction de son statut au moment de l'action :
+
+1° pour les actions réalisées alors que l'usager était inscrit comme chercheur d'emploi, l'ensemble des données visées à l'alinéa 1er fait partie du dossier unique, afin de permettre le suivi de son parcours professionnel visant son insertion sur le marché de l'emploi ;
+
+2° pour les actions réalisées alors que l'usager n'était pas inscrit comme chercheur d'emploi, seules les données visées à l'alinéa 1er, 1°, 2°, 3°, 5°, 7°, 8°, 9°, 10°, 10° bis, 11°, 12°, 14°, 15°, 16°, 18° et 19°, font partie du dossier unique, afin de garantir un traitement proportionné et limité aux finalités pertinentes.]<sup>2</sup>
+
+[<sup>2</sup> Concernant l'usager particulier authentifié, les données sont conservées dans le dossier unique en fonction de son statut au moment de l'action :
+
+1° pour les actions réalisées alors que l'usager était inscrit comme chercheur d'emploi, l'ensemble des données visées à l'alinéa 1er fait partie du dossier unique, afin de permettre le suivi de son parcours professionnel visant son insertion sur le marché de l'emploi ;
+
+2° pour les actions réalisées alors que l'usager n'était pas inscrit comme chercheur d'emploi, seules les données visées à l'alinéa 1er, 1°, 2°, 3°, 5°, 7°, 8°, 9°, 10°, 10° bis, 11°, 12°, 14°, 15°, 16°, 18° et 19°, font partie du dossier unique, afin de garantir un traitement proportionné et limité aux finalités pertinentes]<sup>2</sup>.
+
+[<sup>2</sup> Pour les chercheurs d'emploi, le dossier unique est tenu à jour de manière continue par le FOREm, par le conseiller, tout acteur du parcours, ainsi que le chercheur d'emploi lui-même pour les informations qu'il est autorisé à fournir.
+
+Cette tenue à jour vise à garantir la cohérence et la continuité du suivi du chercheur d'emploi, en facilitant le suivi de ses démarches de recherche d'emploi et la coordination entre le FOREm et les acteurs visés au paragraphe 4, alinéa 2, dans le cadre du parcours d'accompagnement. ]<sup>2</sup>
+
+[<sup>2</sup> Le FOREm est responsable du traitement relatif à la tenue et à la gestion du dossier unique. ]<sup>2</sup>
+
+§ 2. Afin de ne pas orienter l'usager particulier vers un emploi ou une formation professionnelle dont les conditions d'accès ou d'exercice sont réglementées ou en lien avec une activité impliquant des contacts avec des mineurs ou lorsque l'usager particulier se dirige vers un tel emploi ou une formation à un tel emploi, le FOREm consulte le casier judiciaire central afin de vérifier préalablement s'il existe ou non une condamnation pénale qui l'empêche d'accéder à l'emploi ou à la formation professionnelle qui conduit à cet emploi.
+
+§ 3. Le FOREm conserve les données de l'usager particulier, au maximum pendant dix ans, à partir du moment où l'usager ne consomme plus de services auprès du FOREm, sauf si une disposition légale ou décrétale impose une durée de conservation plus longue. En cas de contentieux, le FOREm peut conserver les données de l'usager particulier pendant la durée nécessaire à la gestion du contentieux.
+
+Par dérogation à l'alinéa 1er, le FOREm peut conserver, jusqu'à l'âge de la pension de l'usager particulier ou jusqu'à 3 ans après le dernier service consommé auprès du FOREm lorsque l'usager reste inscrit comme demandeur d'emploi après l'âge de sa pension, les données suivantes :
+
+1° les données dont le FOREm est le gestionnaire de référence ;
+
+2° les données que le FOREm a produites et dont il est le garant ;
+
+3° les données nécessaires au suivi longitudinal des actions de l'usager particulier et des éléments relatifs à son insertion socioprofessionnelle qui sont déterminées par le Gouvernement.
+
+§ 4. Le FOREm et les tiers visés à l'alinéa 2 peuvent échanger, les catégories de données visées au § 1er, alinéa 1er, 1°, 3°, 5°, 7° à 13°, 18° et 19°, relatives aux usagers particuliers inscrits dans un parcours dans lequel le tiers intervient.
+
+Les échanges portant sur les données relatives à l'usager particulier, entre le FOREm et les tiers qui interviennent dans le parcours de l'usager, soit en vertu de l'article 7, soit en raison de leur collaboration à l'exercice par le FOREm des missions prévues par ou en vertu de l'article 3, soit en raison de leur intervention dans le parcours de l'usager prévue par ou en vertu d'une disposition légale, décrétale ou réglementaire, s'opèrent via les moyens mis en place par le FOREm au départ ou à destination du dossier unique.
+
+Le FOREm est autorisé à utiliser, pour l'identification et l'authentification des usagers particuliers, dans le cadre de l'exécution de ses missions ainsi que pour les échanges de données avec les tiers visés à l'alinéa 2, intervenant dans le parcours de l'usager, les moyens suivants :
+
+1° le numéro d'identification au Registre national, s'il s'agit de données relatives à une personne physique inscrite au Registre national ;
+
+2° le numéro d'identification de la Banque Carrefour de la Sécurité Sociale, visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque carrefour de la sécurité sociale, s'il s'agit de données relatives à une personne physique non inscrite au Registre national.
+
+Les tiers visés à l'alinéa 2 sont autorisés, à des fins d'identification de l'usager dans leurs échanges avec le FOREm, à utiliser les numéros d'identification susmentionnés.
+
+[<sup>2</sup> Le Gouvernement est habilité à préciser quels acteurs sont chargés de mettre à jour quelles données du dossier unique ainsi que les modalités de transparence de ces mises à jour. ]<sup>2</sup>
+
+§ 5. Le FOREm collabore avec les autres services publics de l'emploi belges et peut échanger les données visées au paragraphe 1er, alinéa 1er, 1°, 3° à 5°, 7° à 13°, 17° à 19°, concernant les demandeurs d'emploi qui déménagent sur le territoire pour lequel cet autre service public de l'emploi est compétent.
+
+§ 6. [<sup>2</sup> L'usager particulier a un accès direct à son dossier unique. Il peut y consulter ses données, faire valoir des remarques ou observations s'il l'estime nécessaire et concernant les données qu'il a déclarées, les ajouter, modifier ou supprimer]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> § 7. Le FOREm collabore avec l'Institut national d'assurance maladie-invalidité et avec les organismes assureurs dans le cadre du Trajet retour au travail des titulaires en incapacité de travail disposant d'un potentiel de travail, tel que visé à l'article 100, § 1er/1 et § 1er/2, et à l'article 110, § 1er et § 2, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités.
+
+Le FOREm transmet au Conseil médical de l'invalidité auprès de l'Institut national d'assurance maladie-invalidité les données relatives aux titulaires visés à l'alinéa 1er inscrits comme chercheurs d'emploi afin de lui permettre d'exercer sa mission d'autorisation de prise en charge par l'assurance indemnités des programmes de réadaptation professionnelle, telle que visée à l'article 109bis de la loi coordonnée du 14 juillet 1994.
+
+Le FOREm transmet aux organismes assureurs les données relatives aux titulaires visés à l'alinéa 1er inscrits comme chercheurs d'emploi afin de permettre aux mutualités de mettre en oeuvre un Trajet retour au travail en vue de la réinsertion professionnelle des personnes concernées.
+
+Les échanges visés aux alinéas 2 et 3 portent sur les catégories de données visées au paragraphe 1er, 1°, 3°, 4°, 5°, 6°, 12°, 13°, 14° et 19°. Pour le 13°, sont uniquement visés les éléments ayant un impact sur l'insertion de la personne. ]<sup>2</sup>
+
+[<sup>2</sup> ]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2021-11-12/13, art. 28, 015; En vigueur : 01-01-2022&gt;
+
+(2)&lt;DRW 2026-03-26/05, art. 16, 022; En vigueur : 01-04-2026&gt;
+
+#### Art. 4/2
+
+[<sup>1</sup> § 1er. Le FOREm traite, en fonction de ce qui est nécessaire pour répondre à ses obligations, à l'exécution de ses missions ou à la demande de service de l'usager employeur, les données suivantes :
+
+1° les données d'identification, à savoir la dénomination sociale, la forme juridique et les numéros d'entreprise et d'unité d'établissement ou le numéro d'identification octroyé par le pays où l'employeur a son siège social ;
+
+2° les données de contact, à savoir l'adresse du siège social et les données de contact téléphonique et électronique ;
+
+3° le secteur d'activité de l'employeur en lien avec les services consommés auprès du FOREm ;
+
+4° les données en lien avec les services consommés auprès du FOREm;
+
+5° les données d'identification et les données de contact des personnes, désignées par l'employeur, pour gérer et accéder au dossier unique de l'usager employeur, à savoir leur numéro d'identification au registre national ou leur numéro d'identification de la banque carrefour de sécurité sociale, leur nom, prénom, téléphone et adresse électronique ;
+
+6° les données relatives aux personnes de contact communiquées sur une base volontaire par l'employeur à l'attention des usagers particuliers qui souhaitent entrer en contact avec lui.
+
+§ 2. Pour l'usager employeur authentifié, ses données sont centralisées, agrégées et conservées dans un dossier unique, créé et géré par le FOREm, afin d'assurer le suivi des services consommés auprès du FOREm.
+
+Le FOREm vérifie l'identité des personnes visées au paragraphe 1er, 5°, via leur carte d'identité ou par tout autre moyen d'identification qui offre un niveau de garantie élevé tel que visé dans le Règlement (UE) n° 910/2014 du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, de manière à les authentifier.
+
+Le FOREm est autorisé à utiliser, pour l'identification et l'authentification des personnes visées au § 1er, 5°, dans le cadre de l'exécution de ses missions, les moyens suivants :
+
+1° le numéro d'identification au Registre national, s'il s'agit de données relatives à une personne physique inscrite au Registre national ;
+
+2° le numéro d'identification de la Banque Carrefour de la Sécurité Sociale, visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque carrefour de la sécurité sociale, s'il s'agit de données relatives à une personne physique non inscrite au Registre national.
+
+§ 3. Le FOREm conserve les données de l'usager employeur au maximum pendant dix ans à partir du moment où il ne consomme plus de services auprès du FOREm, sauf si une disposition légale ou décrétale impose une durée de conservation plus longue.
+
+En cas de contentieux, le FOREm peut conserver les données de l'usager employeur pendant la durée nécessaire à la gestion du contentieux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2021-11-12/13, art. 29, 015; En vigueur : 01-01-2022&gt;
+
+#### Art. 4/3
+
+[<sup>1</sup> § 1er. Le Gouvernement peut préciser les données comprises dans les catégories de données visées aux 4/1, § 1er, et 4/2, § 1er, nécessaires à l'exécution des missions confiées par ou en vertu de l'article 3.
+
+Le Gouvernement peut déterminer, parmi les catégories de données visées à l'article 4/1, § 4, alinéa 1er, les données qui ne peuvent pas être partagées avec les tiers visés à l'article 4/1, § 4.
+
+§ 2. Le FOREm alimente les informations relatives à l'usager particulier visé à l'article 4/1, § 1er, et à l'usager employeur visé à l'article 4/2, § 1er, sur la base des données disponibles auprès des sources authentiques auxquelles il a accès. [<sup>2</sup> Concernant l'information relative aux périodes d'occupation et d'inoccupation et le temps de travail du chercheur d'emploi, le FOREm obtient les données relatives à l'entrée et à la sortie de l'emploi du chercheur d'emploi auprès de l'Office national de la sécurité sociale ou de l'Institut national d'assurances sociales pour travailleurs indépendants. La période de référence pour l'accès à ces données débute, pour chaque chercheur d'emploi, à compter de la date de toute inscription en tant que chercheur d'emploi et couvre une période allant jusqu'à trois années précédant sa première inscription, indépendamment de l'existence éventuelle de périodes d'interruption dans son inscription en tant que chercheur d'emploi. ]<sup>2</sup> Pour toutes les autres données, le FOREm les collecte auprès de l'usager lui-même ou, pour l'usager particulier, auprès du tiers intervenant dans son parcours.]<sup>1</sup>
+
+[<sup>2</sup> Le FOREm peut vérifier l'authenticité des diplômes, brevets ou certificats déclarés par l'usager particulier auprès de l'autorité qui les a délivrés, lorsque cette vérification est nécessaire pour l'accompagnement ou la participation à une action du parcours. ]<sup>2</sup>
+
+[<sup>2</sup> § 3. Les échanges portant sur les données relatives à l'usager particulier, entre le FOREm et les employeurs s'opèrent via les moyens mis en place par le FOREm au départ ou à destination du dossier unique. ]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2021-11-12/13, art. 30, 015; En vigueur : 01-01-2022&gt;
+
+(2)&lt;DRW 2026-03-26/05, art. 17, 022; En vigueur : 01-04-2026&gt;
+
+#### Art. 4/4
+
+[<sup>1</sup> § 1er. Le FOREm peut recourir, dans l'exécution des missions visées à l'article 3, à des outils d'intelligence artificielle d'aide à la décision.
+
+Préalablement à l'utilisation des outils visés à l'alinéa 1er, le FOREm réalise une analyse d'impact de l'utilisation de ces outils sur les droits et libertés des personnes concernées. L'analyse d'impact est soumise à l'avis préalable de l'autorité de protection des données avec obligation de publier l'analyse d'impact, ainsi que l'avis de l'autorité de protection des données sur cette dernière.
+
+Lorsque le FOREm recourt aux outils visés à l'alinéa 1er, il informe, selon les modalités qu'il détermine, préalablement les personnes concernées des catégories de données utilisées par les outils et des étapes du processus pour lesquelles il y est recouru.
+
+§ 2. Le Gouvernement peut créer un comité consultatif, dénommé " le Comité d'éthique ", chargé de remettre des avis préalablement aux décisions de développement des outils d'intelligence artificielle en soutien des activités de digitalisation de celles-ci.
+
+Si le Gouvernement utilise la faculté visée à l'alinéa 1er, il fixe :
+
+1° la composition du Comité d'éthique dont au moins deux tiers des membres sont des personnes externes au FOREm, ainsi que les modalités de désignation de ses membres ;
+
+2° les activités découlant de la mission du Comité d'éthique visée à l'alinéa 1er;
+
+3° les règles de fonctionnement du Comité d'éthique ;
+
+4° le mode de calcul de l'allocation de participation et de l'indemnité pour frais de déplacement auxquelles ont droit les membres externes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2021-11-12/13, art. 31, 015; En vigueur : 01-01-2022&gt;
+
+#### Art. 4/5
+
+[<sup>1</sup> . § 1er. L'Office est autorisé à utiliser les données visées aux articles 4/1, § 1er, et 4/2, § 1er, dans le cadre de la mission visée à l'article 3, § 1er, alinéa 1er, 5°.
+
+§ 2. Dans le cadre de la mission visée à l'article 3, § 1er, alinéa 1er, 5°, le FOREm réalise des analyses statistiques afin d'évaluer et de produire de la connaissance sur le fonctionnement du marché du travail, les politiques de l'emploi et de la formation et les politiques connexes ayant un impact avéré sur l'emploi ou afin d'adapter son offre de services aux besoins réels du marché du travail.
+
+Le FOREm peut recueillir auprès de tiers les données, y compris des données confidentielles ou à caractère personnel, dont le numéro d'identification au registre national, nécessaires à la réalisation des analyses statistiques visées à l'alinéa 1er.
+
+Les analyses statistiques sont réalisées de manière indépendante par un service dédié du FOREm, sur la base des principes d'impartialité, d'objectivité, de fiabilité et d'efficience. Les résultats se traduisent par des tableaux de comptage, ne comprenant pas de données à caractère personnel.
+
+Le FOREm prend les mesures nécessaires pour limiter les risques de réidentification des personnes concernées en collectant les données sous forme généralisée et procède, lorsque cela n'entrave pas la réalisation des analyses ou n'affecte pas leur qualité, à l'anonymisation ou à la pseudonymisation des données à caractère personnel.
+
+Le FOREm sépare les données primaires contenant les données d'identification directe des personnes concernées des données d'étude. Il prend les mesures nécessaires pour assurer la sécurité des données primaires et des clés de pseudonymisation.
+
+Les données collectées à des fins d'analyses statistiques ne peuvent être réutilisées à d'autres fins.
+
+Le FOREm conserve les données primaires visées à l'alinéa 5 pendant maximum cinq ans après la production des résultats de l'analyse. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-03-26/05, art. 18, 022; En vigueur : 01-04-2026&gt;
+
+### Section 3. - [<sup>1</sup> Principes relatifs à l'exécution des missions vis-à-vis des usagers]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 7, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 5
+
+(voir NOTE sous INTITULE) [<sup>1</sup> L'Office est soumis aux lois du service public pour toutes ses activités, notamment les principes de continuité du service public, d'égalité de traitement et de mutabilité. A ce titre, il veille tout particulièrement à rendre aux usagers un service universel.
+
+Pour les usagers, les prestations de services sont fournies et dispensées gratuitement. Le Gouvernement peut déroger au principe de gratuité pour les prestations aux usagers en exécution de la mission visée à l'article 3, § 1er, 7°, ainsi qu'à titre exceptionnel, pour certains produits ou prestations délivrés à certains employeurs par l'Office dans le cadre d'autres missions dont il est investi.]<sup>1</sup>
+
+[<sup>1</sup> L'Office veille également à l'accomplissement de ses missions dans le respect des principes généraux de transparence et de lisibilité de son action, de simplification administrative, d'efficacité et d'efficience publiques visant à l'optimisation et à l'allocation optimale des moyens et des ressources disponibles.
+
+Le Gouvernement peut arrêter, dans la limite des crédits budgétaires disponibles, les conditions d'octroi d'un avantage ou d'un défraiement aux demandeurs d'emploi, selon les modalités et les conditions qu'il détermine.]<sup>1</sup>
+
+(Le Gouvernement arrête, sur proposition de l'Office, une Charte de l'usager dans laquelle les principes visés aux alinéas précédents sont mis en oeuvre.) &lt;DRW 2003-03-13/37, art. 10, 002; En vigueur : 01-04-2003&gt;
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 8, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+### Section 4. - Contrat de gestion. &lt;Inséré par DRW 2003-03-13/37, art. 11; En vigueur : 01-04-2003&gt;
+
+#### Art. 6
+
+(voir NOTE sous INTITULE) L'exercice des diverses missions de l'Office se fait conformément au contrat de gestion conclu entre le Gouvernement wallon et le Comité de gestion prévu au Chapitre III.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Ce contrat est conclu [<sup>1</sup> pour une durée de trois ans au moins et cinq ans au plus]<sup>1</sup>.
+
+Le contrat de gestion contient [<sup>1</sup> notamment]<sup>1</sup> :
+
+\- les engagements du Gouvernement wallon en matière de subventions et d'autres engagements non financiers;
+
+\- [<sup>4</sup> les engagements de l'Office, en termes de services à rendre aux publics-cibles, de gestion efficiente de ses ressources, d'objectifs de réalisations, de résultats, de qualité, de moyens à mettre en oeuvre pour atteindre ces objectifs et d'échéances;]<sup>4</sup>
+
+\- les modalités de mise en oeuvre, de suivi et de révision.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Son exécution fait l'objet de rapports annuels d'évaluation établis par le Comité de gestion et par les commissaires du Gouvernement wallon et présentés au Gouvernement wallon.
+
+[<sup>1</sup> Après la conclusion du contrat de gestion, l'Office établit le plan d'entreprise. [<sup>4</sup> Le plan d'entreprise est constitué au minimum des projets et actions à mettre en oeuvre pour rencontrer les engagements de l'Office repris dans le contrat de gestion. ]<sup>4</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 40, 007; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2010-07-22/10, art. 41, 007; En vigueur : 30-08-2010&gt;
+
+(3)&lt;DRW 2012-05-10/05, art. 9, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(4)&lt;DRW 2016-03-17/03, art. 4, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+### Section 5. - [<sup>1</sup> Recours à l'intervention de tiers pour l'exécution de prestations de services au bénéfice des usagers.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 10, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 7
+
+[<sup>1</sup> L'Office peut accomplir ses missions par l'intervention de tiers, qui assurent directement ou indirectement des prestations de services à l'égard des usagers et accomplissent celles-ci dans le respect des principes définis à l'article 5.
+
+Ce recours à l'intervention de tiers prend la forme soit d'un partenariat, soit d'un subventionnement, soit d'un marché public [<sup>2</sup> , soit d'un appel à manifestation d'intérêt]<sup>2</sup>.
+
+Les actions menées dans le cadre d'un partenariat, d'un subventionnement [<sup>2</sup> , d'un marché public ou d'un appel à manifestation d'intérêt]<sup>2</sup> doivent s'inscrire dans les orientations du contrat de gestion.
+
+[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 11, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(2)&lt;DRW 2021-11-12/13, art. 32, 015; En vigueur : 01-01-2022&gt;
+
+#### Art. 7bis
+
+[<sup>1</sup> § 1er. Lorsque l'Office accomplit ses missions dans le cadre d'un partenariat. Par partenariat, il faut entendre toute forme d'association ou de collaboration avec des intervenants publics et/ou privés, par laquelle des moyens financiers, humains ou matériels peuvent être mis en commun pour poursuivre un objectif ressortissant aux missions de l'Office qui dépasse ou qui rend plus adéquate la réponse qu'un intervenant aurait pu apporter seul aux besoins du public concerné ou lorsque l'Office ne peut réaliser une partie de ses missions seul, en raison de la spécificité du besoin à couvrir.
+
+L'Office peut soit conclure une convention de partenariat, soit faire partie d'une personne morale de droit public ou privé régie par une législation belge, étrangère ou supranationale, dans les conditions déterminées par le présent article.
+
+§ 2. L'Office peut conclure des conventions de partenariat dans les conditions suivantes :
+
+1° la convention doit prévoir la création d'une instance collégiale dont l'objet est de suivre sa bonne exécution;
+
+2° la convention doit garantir à l'Office une participation appropriée permettant d'atteindre les objectifs du partenariat;
+
+3° la convention doit définir les moyens mis à disposition pendant l'exécution de la convention;
+
+4° la convention doit régler le sort des droits intellectuels, spécialement le droit d'auteur, qui apparaîtraient en raison de la mise en commun des moyens et doit en prévoir la répartition proportionnellement aux moyens mis en commun;
+
+5° la convention doit prévoir qu'aucune reconduction n'a lieu sans une évaluation des actions réalisées et les critères sur base desquels cette évaluation s'effectue;
+
+6° la convention doit prévoir les modalités de sa résiliation, au moins lorsque les circonstances suivantes surviennent :
+
+a) la finalité du partenariat n'est plus respectée;
+
+b) les actions menées ne s'inscrivent plus dans les orientations du contrat de gestion;
+
+c) une des conditions visées aux 1° à 5° n'est plus remplie.
+
+§ 3. L'Office peut participer à une institution juridiquement distincte dans les conditions suivantes :
+
+1° les statuts doivent prévoir que l'Office est représenté dans les organes d'administration et de décision au moins à concurrence de ses apports;
+
+2° les statuts doivent prévoir la répartition des biens et avoirs au moins à concurrence des apports respectifs;
+
+3° les statuts doivent prévoir qu'un contrôle sur les comptes peut avoir lieu à n'importe quel moment, de façon à vérifier l'utilisation qui est faite des deniers publics;
+
+4° les statuts doivent prévoir les modalités de retrait de l'Office, au moins lorsque les circonstances suivantes surviennent :
+
+a) la finalité du partenariat n'est plus respectée;
+
+b) les actions menées ne s'inscrivent plus dans les orientations du contrat de gestion.
+
+c) une des conditions visées aux 1° à 3° et 5° n'est plus remplie;
+
+5° les statuts doivent prévoir les modalités permettant d'assurer le contrôle public.
+
+§ 4. L'Office s'associe et collabore avec des tiers notamment dans le cadre des structures partenariales suivantes afin de contribuer ensemble aux :
+
+1° missions visées à l'article 3, § 1er, 1°, a, ii) et iii) et b, i), pour la partie relative à la diffusion des offres d'emploi, par l'intermédiaire des carrefour emploi formation orientation;
+
+2° missions visées à l'article 3, § 1er, 1°, a, i) et iii) et b), i), pour la partie relative à la diffusion des offres d'emploi, par l'intermédiaire des maisons de l'Emploi;
+
+3° missions visées à l'article 3, § 1er, 2° et 7°, par l'intermédiaire des centres de compétence [<sup>2</sup> et des cités des métiers]<sup>2</sup>.
+
+Le Gouvernement est habilité à déterminer les conditions minimales pour qu'une structure soit reconnue comme carrefour emploi formation orientation, maison de l'emploi ou centre de compétence.
+
+§ 5. Le Gouvernement peut arrêter les autres modalités et procédures selon lesquelles les conventions de partenariat sont conclues.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-05-10/05, art. 12, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(2)&lt;DRW 2016-03-17/03, art. 5, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 7bis/1
+
+[<sup>1</sup> § 1er. Sans préjudice des régimes de subvention organisés par les décrets existants et leurs arrêtés d'exécution, dans les limites des crédits disponibles inscrits à cet effet dans son budget, l'Office peut, au terme d'un appel à projets et dans le respect des principes d'équité et de transparence, octroyer un soutien financier à des tiers visés par l'article 7, alinéa 1er.
+
+La subvention visée à l'alinéa 1er est destinée à couvrir tout ou partie des frais liés à l'organisation d'actions d'accompagnement orienté coaching et solutions, à destination des demandeurs d'emploi inoccupés, en vue de leur insertion sur le marché du travail.
+
+§ 2. La subvention couvre, au maximum, les coûts effectivement supportés dans le cadre d'actions limitées dans leur objet et leur durée. Les bénéficiaires de la subvention tiennent une comptabilité séparée des coûts et recettes découlant de la mise en oeuvre de chaque action subventionnée.
+
+La subvention ne peut être cédée par son bénéficiaire sans l'accord préalable du FOREm.
+
+§ 3. Le Gouvernement précise les modalités d'application des paragraphes 1er et 2 et définit les règles relatives à :
+
+1° l'organisation des appels à projets ;
+
+2° les conditions et la procédure d'octroi de la subvention ;
+
+3° la détermination du montant de la subvention ;
+
+4° les modalités d'utilisation de la subvention ;
+
+5° les modalités de liquidation de la subvention ;
+
+6° les pièces justificatives à fournir par le bénéficiaire de la subvention ;
+
+7° les modalités particulières de contrôle, de révision et de remboursement de tout ou partie de la subvention.
+
+§ 4. Le formulaire de demande de la subvention ainsi que les documents nécessaires à l'évaluation fonctionnelle et financière de l'utilisation de la subvention sont communiqués uniquement par voie électronique, selon les moyens prévus par le FOREm.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2021-11-12/13, art. 33, 015; En vigueur : 01-01-2022&gt;
+
+### Section 6.
+
+&lt;Abrogé par DRW 2021-11-12/13, art. 34, 015; En vigueur : 01-01-2022&gt;
+
+#### Art. 7ter
+
+&lt;Abrogé par DRW 2021-11-12/13, art. 35, 015; En vigueur : 01-01-2022&gt;
+
+## CHAPITRE III. - Gestion.
+
+### Section 1. - Dispositions générales. &lt;Inséré par DRW 2003-03-13/37, art. 13; En vigueur : 01-04-2003&gt;
+
+#### Art. 8
+
+(voir NOTE sous INTITULE) &lt;DRW 2003-03-13/37, art. 15, 002; En vigueur : 01-04-2003&gt; L'Office est administré par un comité de gestion assisté dans cette fonction, [<sup>1</sup> par un bureau exécutif, tel que visé à la section 5 du présent chapitre et par un comité stratégique, tel que visé à la section 7 du présent chapitre]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2011-03-31/03, art. 2, 008; En vigueur : 17-04-2011&gt;
+
+### Section 2. (ancien section 1) - Du Comité de gestion. &lt;DRW 2003-03-13/37, art. 16, 002; En vigueur : 01-04-2003&gt;
+
+#### Art. 9
+
+(voir NOTE sous INTITULE) Le Comité de gestion est composé comme suit :
+
+1° un président (et un vice-président); &lt;DRW 2003-03-13/37, art. 17, 002; En vigueur : 01-04-2003&gt;
+
+2° (huit) représentants des organisations représentatives des employeurs et (huit) représentants des organisations représentatives des travailleurs qui, seuls, ont voix délibérative. Deux tiers au maximum de ces représentants sont du même sexe [<sup>1</sup> soit un maximum de onze personnes du même sexe]<sup>1</sup>. &lt;DRW 2003-03-13/37, art. 17, 002; En vigueur : 01-04-2003&gt;
+
+----------
+
+(1)&lt;DRW 2014-02-20/15, art. 3, 010; En vigueur : 23-03-2014&gt;
+
+#### Art. 10
+
+(voir NOTE sous INTITULE) Le Gouvernement wallon nomme le président (et le vice-président). &lt;DRW 2003-03-13/37, art. 18, 002; En vigueur : 01-04-2003&gt;
+
+[<sup>1</sup> Ceux-ci doivent remplir les conditions et les obligations prévues dans le décret 12 février 2004 relatif au statut de l'administrateur public et ne doivent pas être dans un lien de subordination avec les organisations représentées au sein du Comité de gestion de l'Office.]<sup>1</sup>
+
+Le mandat du président (et du vice-président) a une durée de cinq ans, renouvelable. &lt;DRW 2003-03-13/37, art. 18, 002; En vigueur : 01-04-2003&gt;
+
+Il prend fin en cas de décès, de démission, d'incapacité civile ou lorsqu'il n'est plus satisfait aux conditions visées à l'alinéa 2.
+
+Le président (ou le vice-président) qui a cessé de faire partie du Comité de gestion est remplacé dans les trois mois qui suivent. &lt;DRW 2003-03-13/37, art. 18, 002; En vigueur : 01-04-2003&gt;
+
+En cas de démission ou d'arrivée du terme du mandat, le président (ou le vice-président) continue à exercer pleinement son mandat aussi longtemps qu'il n'a pas été pourvu à son remplacement. &lt;DRW 2003-03-13/37, art. 18, 002; En vigueur : 01-04-2003&gt;
+
+----------
+
+(1)&lt;DRW 2014-02-20/15, art. 4, 010; En vigueur : 23-03-2014&gt;
+
+#### Art. 11
+
+(voir NOTE sous INTITULE) Le Gouvernement wallon nomme les membres du Comité de gestion visés à l'article 9, 2°, sur des listes doubles de candidats présentées respectivement par les organisations représentatives des employeurs et des travailleurs.
+
+Les membres du Comité de gestion doivent être Belges (ou ressortissants d'un Etat membre de l'Union européenne) et âgés de vingt et un ans au moins. &lt;DRW 2003-03-13/37, art. 19, 002; En vigueur : 01-04-2003&gt;
+
+Le mandat des membres du Comité de gestion a une durée de cinq ans, renouvelable.
+
+Il prend fin en cas de décès, de démission, d'incapacité civile ou lorsqu'il n'est plus satisfait aux conditions visées à l'alinéa 2.
+
+Dans un délai de trois mois suivant la démission ou précédant l'expiration du mandat, le Gouvernement wallon invite les organisations représentatives des employeurs et des travailleurs à présenter leurs candidats sur des listes doubles.
+
+Ces listes doivent être adressées au Gouvernement wallon dans le mois qui suit la démission.
+
+En cas de démission ou d'arrivée du terme de leur mandat, les membres continuent à exercer pleinement leur mandat aussi longtemps qu'il n'a pas été pourvu à leur remplacement.
+
+Tout membre qui a cessé de faire partie du Comité de gestion est remplacé dans les trois mois qui suivent. Dans ce cas, le nouveau membre achève le mandat de son prédécesseur.
+
+### Section 3. (ancien section 2) - Attributions du Comité de gestion. &lt;DRW 2003-03-13/37, art. 20, 002; En vigueur : 01-04-2003&gt;
+
+#### Art. 12
+
+(voir NOTE sous INTITULE) § 1er. Le Comité de gestion dispose des pouvoirs suivants :
+
+1° il négocie et conclut le contrat de gestion avec le Gouvernement wallon, s'assure de sa mise en oeuvre et de son suivi;
+
+2° il prend toutes les décisions de stratégie et de principe, dans le respect des orientations tracées par le contrat de gestion (en ce compris celles qui concernent les aspects d'intégration des missions [<sup>2</sup> et de transversalité des missions]<sup>2</sup>). &lt;DRW 2003-03-13/37, art. 21, 002; En vigueur : 01-04-2003&gt;
+
+Sont considérées comme telles, les décisions qui, en raison de leur importance ou des conséquences qu'elles entraînent pour l'Office, déterminent ou modifient une orientation, une politique, un positionnement vis-à-vis de son environnement ou une ligne de conduite à tenir;
+
+3° il conseille le Gouvernement wallon pour ce qui concerne la politique de l'emploi et de la formation professionnelle.
+
+A ce titre, il peut notamment présenter au Gouvernement wallon des propositions de modifications aux lois, décrets ou arrêtés que l'Office est chargé d'appliquer.
+
+Il est tenu de joindre à ses propositions [<sup>2</sup> l'impact financier]<sup>2</sup> de toute modification de la législation ou de la réglementation.
+
+Si une proposition n'a pas recueilli l'unanimité, les différentes positions sont exprimées;
+
+4° il est habilité à déléguer (, de manière commune ou exclusive,) une partie de ses pouvoirs [<sup>1</sup> au bureau exécutif]<sup>1</sup> ou à l'administrateur général; &lt;DRW 2003-03-13/37, art. 21, 002; En vigueur : 01-04-2003&gt;
+
+5° il prend les décisions qui n'ont pas fait l'objet, au sein [<sup>1</sup> du bureau exécutif]<sup>1</sup>, du consensus prévu à l'article 19, § 6, et celles relatives à un point dont l'administrateur général ou, en son absence, l'administrateur général adjoint le saisit conformément à l'article 19, § 2; &lt;DRW 2003-03-13/37, art. 21, 002; En vigueur : 01-04-2003&gt;
+
+6° [<sup>1</sup> il arrête le règlement d'ordre intérieur du bureau exécutif et approuve le règlement d'ordre intérieur du comité stratégique visé à l'article 24;]<sup>1</sup>
+
+7° il [<sup>4</sup> établit]<sup>4</sup> le budget de l'Office;
+
+(7°bis. il décide de la répartition budgétaire effectuée au sein d'une même allocation de base;) &lt;DRW 2003-03-13/37, art. 21, 002; En vigueur : 01-04-2003&gt;
+
+8° il arrête [<sup>2</sup> le plan d'entreprise proposé par le Comité de direction et présenté par l'administrateur général]<sup>2</sup>;
+
+9° il décide de la participation de l'Office aux créations, directions et financements de personnes morales de droit public ou privé régies par une législation belge, étrangère ou supranationale, dans les limites de l'[<sup>2</sup> 7bis, § 1er et § 3]<sup>2</sup>.
+
+Cette décision précise les limites du mandat des représentants et de la participation financière de l'Office, les modalités de prise en considération comptable et budgétaire de cette participation ainsi que les modalités de communication et de contrôle des comptes de la personne morale concernée;
+
+10° il détermine les règles sur la base desquelles l'Office peut conclure des conventions de partenariat en conformité avec [<sup>4</sup> l'article 7bis, § 5]<sup>4</sup>;
+
+11° il prend les décisions administratives à portée individuelle relatives aux marchés publics, aux aides financières et subsides alloués [<sup>2</sup> par l'Office et aux conventions visées à l'article 7bis, § 2,]<sup>2</sup> [<sup>1</sup> ...]<sup>1</sup> pour autant que le montant estimé de ces marchés, de ces aides et subsides ou de ces conventions dépasse (740.000 euros) hors T.V.A.; &lt;DRW 2003-03-13/37, art. 21, 002; En vigueur : 01-04-2003&gt;
+
+[<sup>1</sup> Il prend également les décisions administratives à portée individuelle relatives aux marchés publics de services pluriannuels dont le montant estimé dépasse [<sup>3</sup> 30.000 euros hors T.V.A. pour l'ensemble du marché]<sup>3</sup> et aux marchés publics de fournitures et de travaux pluriannuels dont le montant dépasse [<sup>3</sup> 85.000 euros hors T.V.A. pour l'ensemble du marché]<sup>3</sup>, pour autant que ces marchés ne concernent pas les dépenses courantes nécessaires au fonctionnement de l'Office.]<sup>1</sup>
+
+12° il définit les conditions dans lesquelles l'Office peut abandonner des créances (et peut transiger). &lt;DRW 2003-03-13/37, art. 21, 002; En vigueur : 01-04-2003&gt;
+
+(13° il [<sup>2</sup> ...]<sup>2</sup> contrôle les travaux [<sup>1</sup> du bureau exécutif]<sup>1</sup>;) &lt;DRW 2003-03-13/37, art. 21, 002; En vigueur : 01-04-2003&gt;
+
+[<sup>2</sup> 14° il approuve le programme d'actions pluriannuel [<sup>4</sup> du Collège des chambres subrégionales emploi et formation des Instances bassins Enseignement qualifiant - Formation - Emploi, ci-après Instances bassin EFE, visées par l'accord de coopération conclu le 20 mars 2014 entre la Communauté française, la Région wallonne et la Commission communautaire française relatif à la mise en oeuvre des bassins Enseignement qualifiant - Formation - Emploi]<sup>4</sup>;]<sup>2</sup>
+
+[<sup>1</sup> Le comité de gestion [<sup>2</sup> statue, après avis du comité stratégique]<sup>2</sup> visé à l'article 24 sur les décisions visées à l'alinéa 1er, 2°, 7°, 8° [<sup>2</sup> ,10°, 11° et 14°]<sup>2</sup>.
+
+Le comité stratégique rend également un avis préalable sur les décisions de délégation au bureau exécutif et à l'administrateur général, visées à l'alinéa 1er, § 1er, 4°, pour autant qu'elles concernent directement l'une des décisions visées à l'alinéa 2.]<sup>1</sup>
+
+§ 2. Il prend les décisions visées par toute législation ou réglementation, à moins que le présent décret ne réserve cette compétence à un autre organe de l'Office.
+
+§ 3. Il dispose de tous les pouvoirs nécessaires à l'exercice des compétences précitées.
+
+§ 4. L'administrateur général fait rapport trimestriellement au Comité de gestion sur l'exécution des décisions prises par ce dernier.
+
+----------
+
+(1)&lt;DRW 2011-03-31/03, art. 3, 008; En vigueur : 17-04-2011&gt;
+
+(2)&lt;DRW 2012-05-10/05, art. 15, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(3)&lt;DRW 2014-02-20/15, art. 5, 010; En vigueur : 23-03-2014&gt;
+
+(4)&lt;DRW 2016-03-17/03, art. 7, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 13
+
+(voir NOTE sous INTITULE) Le Gouvernement wallon soumet à l'avis du Comité de gestion tout avant-projet de décret, d'arrêté ou de règlement modifiant la législation ou la réglementation que l'Office est chargé d'appliquer ou concernant le cadre du personnel et la structure de l'Office.
+
+Le Comité de gestion donne son avis dans un délai d'un mois à dater du jour de l'envoi de la demande. A la demande du Gouvernement wallon, ce délai peut être réduit à vingt jours ouvrables. L'avis cesse d'être requis s'il n'est pas émis dans le délai prescrit.
+
+Si l'avis n'a pas recueilli l'unanimité, les différentes positions y sont exprimées.
+
+### Section 4. (ancien section 3) - Fonctionnement. &lt;DRW 2003-03-13/37, art. 22, 002; En vigueur : 01-04-2003&gt;
+
+#### Art. 14
+
+(voir NOTE sous INTITULE) Le Comité de gestion fixe son règlement d'ordre intérieur qui prévoit notamment :
+
+1° les règles concernant la convocation du Comité de gestion à la demande du Ministre ayant l'Emploi dans ses attributions et/ou du Ministre ayant la Formation professionnelle dans ses attributions, des commissaires du Gouvernement wallon, du président, de la personne chargée de la gestion journalière de l'organisme ou de deux membres;
+
+2° les règles relatives à l'inscription des points à l'ordre du jour et, en cas de report, à l'inscription obligatoire à l'ordre du jour de la séance qui suit immédiatement;
+
+3° les règles relatives à la présidence du Comité de gestion en cas d'absence ou d'empêchement du président;
+
+4° la présence d'au moins la moitié des représentants des organisations représentatives des employeurs et des représentants des organisations représentatives des travailleurs pour délibérer et decider valablement, ainsi que les modalités de vote au sein du Comité de gestion;
+
+5° les règles concernant le rétablissement de la parité lorsque les membres représentant respectivement les organisations des employeurs et les organisations des travailleurs ne sont pas présents en nombre égal au moment du vote;
+
+6° les conditions dans lesquelles le Comité de gestion peut faire appel à des personnes spécialement compétentes pour l'examen de questions particulières;
+
+7° les modalités selon lesquelles les propositions visées à l'article 12, § 1er, 3°, et l'avis visé à l'article 13 sont donnés;
+
+8° les règles en fonction desquelles le Comité de gestion peut déléguer certaines tâches spécifiques [<sup>1</sup> au bureau exécutif]<sup>1</sup>, notamment quant au contenu de ces tâches et au délai dans lequel elles doivent être accomplies; &lt;DRW 2003-03-13/37, art. 23, 002; En vigueur : 01-04-2003&gt;
+
+9° les règles en fonction desquelles le Comité de gestion peut charger l'administrateur général de représenter valablement l'Office dans les actes judiciaires et extra-judiciaires et d'agir en son nom et à sa demande, pour ce qui concerne les actes relevant de sa compétence;
+
+10° les règles en fonction desquelles le Comité de gestion prend les décisions qui n'ont pas pu être arrêtées par [<sup>1</sup> le bureau exécutif]<sup>1</sup>, faute de respect des conditions prévues à l'article 19, § 6; &lt;DRW 2003-03-13/37, art. 23, 002; En vigueur : 01-04-2003&gt;
+
+11° la périodicité de ses réunions;
+
+12° la forme des rapports trimestriels à établir par l'administrateur général.
+
+(13° les règles et modalités en fonction desquelles le comité de gestion [<sup>2</sup> ...]<sup>2</sup> contrôle les travaux [<sup>1</sup> du bureau exécutif]<sup>1</sup>;) &lt;DRW 2003-03-13/37, art. 23, 002; En vigueur : 01-04-2003&gt;
+
+14° [<sup>1</sup> ...]<sup>1</sup>
+
+(15° les règles de déontologie visant à prévenir le conflit d'intérêt et à assurer le respect du principe de confidentialité, dans le cadre de l'exercice des mandats.) &lt;DRW 2003-03-13/37, art. 23, 002; En vigueur : 01-04-2003&gt;
+
+----------
+
+(1)&lt;DRW 2011-03-31/03, art. 4, 008; En vigueur : 17-04-2011&gt;
+
+(2)&lt;DRW 2012-05-10/05, art. 16, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 15
+
+(voir NOTE sous INTITULE) Sur la proposition de l'administrateur général, le Comité de gestion désigne, parmi les membres du personnel de l'Office, la personne chargée d'assurer la rédaction des procès-verbaux des réunions du Comité et son suppléant.
+
+#### Art. 16
+
+(voir NOTE sous INTITULE) Le Gouvernement wallon sur la proposition du Ministre ayant l'Emploi dans ses attributions et du Ministre ayant la Formation professionnelle dans ses attributions, désigne deux commissaires en vue d'exercer les compétences définies par la loi du 16 mars 1954 précitée [<sup>1</sup> , par le décret du 12 février 2004 relatif aux commissaires du Gouvernement,]<sup>1</sup> et à l'article 18.
+
+Il désigne, sur la proposition du Ministre ayant l'Emploi dans ses attributions et du Ministre ayant la Formation professionnelle dans ses attributions, celui qui exerce ces compétences pour toutes les décisions qui ont une incidence budgétaire, comptable ou financière.
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 17, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 17
+
+(voir NOTE sous INTITULE) [<sup>1</sup> Le Gouvernement wallon fixe le montant des indemnités et des jetons de présence à allouer au président [<sup>2</sup> au vice-président]<sup>2</sup>, aux membres du comité de gestion, aux membres du bureau exécutif, aux membres du comité stratégique, aux commissaires et aux membres du comité d'audit.]<sup>1</sup>
+
+Ces indemnités et jetons de présence sont à charge du budget de l'Office.
+
+----------
+
+(1)&lt;DRW 2011-03-31/03, art. 5, 008; En vigueur : 17-04-2011&gt;
+
+(2)&lt;DRW 2012-05-10/05, art. 18, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 18
+
+(voir NOTE sous INTITULE) Lorsque l'intérêt général, le respect des lois, décrets, arrêtés, règlements, contrat de gestion le requièrent, le Gouvernement wallon ou, le cas échéant, un des commissaires délégués à cette fin peut requérir le Comité de gestion, [<sup>1</sup> et le bureau exécutif visé à la section 5 du présent chapitre]<sup>1</sup>, afin de délibérer sur toute question qu'il détermine, ou leur enjoindre de prendre les mesures ou d'accomplir les actes nécessaires, dans le délai qu'il fixe, qui ne peut être inférieur à vingt jours, sauf en cas d'urgence. &lt;DRW 2003-03-13/37, art. 25, 002; En vigueur : 01-04-2003&gt;
+
+Lorsqu'à l'expiration du délai, le Comité de gestion, [<sup>1</sup> ou le bureau exécutif]<sup>1</sup> n'a pas pris de décision ou lorsque le Gouvernement wallon ne se rallie pas à ces mesures ou à ces actes, il peut prendre la décision en lieu et place du Comité de gestion, [<sup>1</sup> ou du bureau exécutif]<sup>1</sup>. &lt;DRW 2003-03-13/37, art. 25, 002; En vigueur : 01-04-2003&gt;
+
+Toute décision prise par le Gouvernement wallon en lieu et place du Comité de gestion, [<sup>1</sup> ou du bureau exécutif]<sup>1</sup> est immédiatement transmise en copie au [<sup>2</sup> Parlement wallon]<sup>2</sup>. &lt;DRW 2003-03-13/37, art. 25, 002; En vigueur : 01-04-2003&gt;
+
+----------
+
+(1)&lt;DRW 2011-03-31/03, art. 6, 008; En vigueur : 17-04-2011&gt;
+
+(2)&lt;DRW 2012-05-10/05, art. 19, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+### Section 5. (ancien section 4) - [<sup>1</sup> Du bureau exécutif et de ses attributions]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2011-03-31/03, art. 7, 008; En vigueur : 17-04-2011&gt;
+
+#### Art. 19
+
+(voir NOTE sous INTITULE) § 1er. [<sup>1</sup> Le bureau exécutif est composé]<sup>1</sup> comme suit :
+
+1° le président (et le vice-président) du Comité de gestion; &lt;DRW 2003-03-13/37, art. 27, 002; En vigueur : 01-04-2003&gt;
+
+2° deux représentants des organisations représentatives des employeurs et deux représentants des organisations représentatives des travailleurs ainsi que leurs suppléants [<sup>2</sup> ...]<sup>2</sup> choisis par le Comité de gestion (...); &lt;DRW 2003-03-13/37, art. 27, 002; En vigueur : 01-04-2003&gt;
+
+3° l'administrateur général et l'administrateur général adjoint;
+
+4° [<sup>2</sup> l'ensemble des [<sup>4</sup> directeurs généraux]<sup>4</sup>]<sup>3</sup> responsables des directions générales;]<sup>2</sup>
+
+(Deux tiers au maximum des membres visés au 2° sont du même sexe.
+
+Ceux-ci ne peuvent être liés par contrat de travail ou d'entreprise [<sup>2</sup> avec un tiers exécutant des prestations de services au bénéfice des usagers dans le cadre des missions de l'Office]<sup>2</sup>.) &lt;DRW 2003-03-13/37, art. 27, 002; En vigueur : 01-04-2003&gt;
+
+§ 2. Les membres [<sup>1</sup> du bureau exécutif]<sup>1</sup> visés au point 2° ont seuls voix délibérative. Toutefois, l'administrateur général ou, en son absence, l'administrateur général adjoint dispose, moyennant motivation en séance, du droit de saisir le Comité de gestion. Dans ce cas, ce dernier décide en lieu et place (des bureaux exécutifs) [<sup>1</sup> ...]<sup>1</sup>. &lt;DRW 2003-03-13/37, art. 27, 002; En vigueur : 01-04-2003&gt;
+
+§ 3. [<sup>1</sup> Sur la proposition de l'administrateur général, le bureau exécutif désigne, parmi les membres du personnel, la personne chargée d'assurer le secrétariat du bureau exécutif et son suppléant.]<sup>1</sup>
+
+§ 4. Les commissaires visés à l'article 16 assistent aux réunions [<sup>1</sup> du bureau exécutif]<sup>1</sup> et y exercent les compétences définies par la loi du 16 mars 1954 précitée [<sup>2</sup> , par le décret du 12 février 2004 relatif aux commissaires du Gouvernement,]<sup>2</sup> et celles définies à l'article 18. &lt;DRW 2003-03-13/37, art. 27, 002; En vigueur : 01-04-2003&gt;
+
+§ 5. Tout membre visé au paragraphe 1er, 1° et 2°, qui a cessé de faire partie [<sup>1</sup> du bureau exécutif]<sup>1</sup>, pour cause de démission en tant que membre [<sup>1</sup> du bureau exécutif]<sup>1</sup> ou pour l'une des causes prévues aux articles 10 et 11, est remplacé dans les trois mois qui suivent. Lorsqu'il s'agit du remplacement d'un membre avant la date normale d'expiration du mandat, le nouveau membre achève le mandat de son prédécesseur. &lt;DRW 2003-03-13/37, art. 27, 002; En vigueur : 01-04-2003&gt;
+
+§ 6. Le quorum de présence requis pour que les décisions [<sup>1</sup> du bureau exécutif]<sup>1</sup>) puissent être valablement prises est de quatre membres dont trois membres parmi ceux visés au paragraphe 1er, 2°. Les décisions se prennent au consensus. Tout membre visé au paragraphe 1er, 2°, dispose du droit de s'opposer à l'adoption d'une décision [<sup>1</sup> du bureau exécutif]<sup>1</sup>. Cette opposition doit être exprimée en séance et doit être motivée. Elle entraîne la saisine du Comité de gestion lors de sa séance la plus proche. &lt;DRW 2003-03-13/37, art. 27, 002; En vigueur : 01-04-2003&gt;
+
+(§ 7. Le président du comité de gestion dispose du droit de s'opposer à la prise de décision [<sup>1</sup> du bureau exécutif]<sup>1</sup>, lorsqu'il constate qu'il dépasse ses compétences, [<sup>1</sup> ...]<sup>1</sup> ou lorsqu'il estime que le contrôle du comité de gestion [<sup>1</sup> sur les travaux du bureau exécutif]<sup>1</sup> doit s'exercer ponctuellement. Le président dispose alors, moyennant motivation en séance, du droit de saisir le comité de gestion. Dans ce cas, ce dernier décide en lieu et place du bureau exécutif [<sup>1</sup> ...]<sup>1</sup>.) &lt;DRW 2003-03-13/37, art. 27, 002; En vigueur : 01-04-2003&gt;
+
+----------
+
+(1)&lt;DRW 2011-03-31/03, art. 8, 008; En vigueur : 17-04-2011&gt;
+
+(2)&lt;DRW 2012-05-10/05, art. 20, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(3)&lt;DRW 2015-12-03/05, art. 3, 011; En vigueur : 21-12-2015&gt;
+
+(4)&lt;DRW 2023-06-28/10, art. 7, 017; En vigueur : 16-10-2023&gt;
+
+### Section 6.
+
+&lt;Abrogé par DRW 2011-03-31/03, art. 9, 008; En vigueur : 17-04-2011&gt;
+
+#### Art. 20
+
+(voir NOTE sous INTITULE) [<sup>1</sup> Conformément aux orientations et décisions prises par le comité de gestion, le bureau exécutif dispose des pouvoirs suivants :
+
+1° il prépare les décisions à prendre par le comité de gestion;
+
+2° il prend toutes les décisions autres que relevant de la gestion journalière, dérivées des décisions de stratégie et de principe;
+
+3° il prend les décisions administratives à portée individuelle relatives aux marchés publics, qui ne concernent pas les dépenses courantes nécessaires au fonctionnement de l'Office, ne présentent pas un caractère pluriannuel et dont le montant estimé des marchés ne dépasse pas 740.000 euros hors T.V.A.; il adresse au comité de gestion un rapport trimestriel sur les passations de marchés publics de services dont le montant dépasse [<sup>2</sup> 30.000 euros hors T.V.A. pour l'ensemble du marché]<sup>2</sup> et les passations de marchés publics de fournitures et de travaux dont le montant dépasse [<sup>2</sup> 85.000 euros hors T.V.A. pour l'ensemble du marché]<sup>2</sup>;
+
+4° il exerce toutes autres tâches qui lui sont spécifiquement déléguées par le comité de gestion conformément à l'article 12, § 1er, 4°;]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2011-03-31/03, art. 10, 008; En vigueur : 17-04-2011&gt;
+
+(2)&lt;DRW 2014-02-20/15, art. 5, 010; En vigueur : 23-03-2014&gt;
+
+#### Art. 21
+
+(voir NOTE sous INTITULE) [<sup>1</sup> Le bureau exécutif propose son règlement d'ordre intérieur]<sup>1</sup> qui prévoit notamment : &lt;DRW 2003-03-13/37, art. 30, 002; En vigueur : 01-04-2003&gt;
+
+1° les règles concernant la convocation [<sup>1</sup> du bureau exécutif]<sup>1</sup> à la demande du Ministre ayant l'Emploi dans ses attributions et du Ministre ayant la Formation professionnelle dans ses attributions, des commissaires ou d'un membre;
+
+2° les règles relatives a la présidence [<sup>1</sup> du bureau exécutif]<sup>1</sup> en cas d'absence ou d'empêchement du président;
+
+3° les conditions dans lesquelles [<sup>1</sup> le bureau exécutif peut faire appel]<sup>1</sup> de manière ponctuelle à des personnes spécialement compétentes pour l'examen de questions particulières;
+
+4° les conditions dans lesquelles l'administrateur général peut désigner des membres du personnel de l'Office, chargés d'assister aux séances [<sup>1</sup> du bureau exécutif]<sup>1</sup>;
+
+5° la périodicite de [<sup>1</sup> ses]<sup>1</sup> réunions;
+
+6° les modalités de communication de [<sup>1</sup> ses]<sup>1</sup> décisions;
+
+7° [<sup>2</sup> les règles de déontologie visant à prévenir le conflit d'intérêt et à assurer le respect de la confidentialité.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2011-03-31/03, art. 11, 008; En vigueur : 17-04-2011&gt;
+
+(2)&lt;DRW 2012-05-10/05, art. 21, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+### Section 6. (section 7 devient section 6; voir DRW 2011-03-31/03, art. 12, 008, En vigueur : 17-04-2011) - De la gestion journalière de l'Office. &lt;DRW 2003-03-13/37, art. 31, 002; En vigueur : 01-04-2003&gt;
+
+#### Art. 22
+
+&lt;Abrogé par DRW 2012-05-10/05, art. 22, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 23
+
+(voir NOTE sous INTITULE) § 1er. L'administrateur général exécute les décisions du Comité de gestion et lui rend compte trimestriellement de l'exécution de celles-ci. Il assume la gestion journalière pour toutes les missions qui sont confiées à l'Office par le présent décret. A ce titre, il peut accomplir tous les actes conservatoires, tous les actes d'exécution des décisions prises par le Comité de gestion [<sup>1</sup> par le bureau exécutif]<sup>1</sup>, de même que les actes qui, en raison de leur importance ou des conséquences qu'ils entraînent pour l'Office, ne présentent pas un caractère exceptionnel ni ne représentent un changement de politique administrative (...) et constituent l'expédition des affaires courantes de l'Office. Il assume toute autre mission qui lui est déléguée par le Comité de gestion [<sup>1</sup> ...]<sup>1</sup>. &lt;DRW 2003-03-13/37, art. 32, 002; En vigueur : 01-04-2003&gt;
+
+§ 2. En application du paragraphe 1er, dans le respect du contrat de gestion et des décisions prises par le Comité de gestion, il :
+
+1° engage et licencie le personnel contractuel;
+
+2° exerce toutes les compétences attribuées [<sup>3</sup> au [<sup>6</sup> secrétaire général]<sup>6</sup> par le Code wallon de la Fonction publique]<sup>3</sup>;
+
+3° dirige le personnel;
+
+4° décide de l'organisation interne des services [<sup>3</sup> dans le cadre de l'organigramme adopté par le comité de gestion]<sup>3</sup>;
+
+5° signe toutes les pièces et correspondances résultant des pouvoirs de gestion journalière;
+
+6° représente valablement l'Office dans les actes judiciaires et extra-judiciaires et agit valablement en son nom et pour son compte pour ce qui concerne les actes de gestion journalière;
+
+7° représente valablement l'Office dans les actes judiciaires et extra-judiciaires et agit valablement au nom du Comité de gestion et au nom [<sup>1</sup> du bureau exécutif]<sup>1</sup>, à leur demande, pour ce qui concerne les actes relevant de leur compétence. &lt;DRW 2003-03-13/37, art. 32, 002; En vigueur : 01-04-2003&gt;
+
+(8° [<sup>6</sup> arbitre les conflits de compétences et d'intérêt entre les directions générales centrales, les services à gestion distincte et les directions territoriales.]<sup>6</sup> ) &lt;DRW 2003-03-13/37, art. 32, 002; En vigueur : 01-04-2003&gt;
+
+[<sup>1</sup> 9° prend les décisions administratives à portée individuelle relatives aux marchés publics, qui concernent les dépenses courantes nécessaires au fonctionnement de l'Office, pluriannuelles ou non, dont le montant estimé des marchés ne dépasse pas 740.000 euros hors T.V.A.
+
+Il prend également les décisions administratives à portée individuelle, relatives aux marchés publics de services pluriannuels dont le montant estimé ne dépasse pas [<sup>4</sup> 30.000 euros hors T.V.A. pour l'ensemble du marché]<sup>4</sup> et aux marchés publics de fournitures et de travaux pluriannuels dont le montant ne dépasse pas [<sup>4</sup> 85.000 euros hors T.V.A. pour l'ensemble du marché]<sup>4</sup>, qui ne concernent pas les dépenses courantes nécessaires au fonctionnement de l'Office.]<sup>1</sup>
+
+§ 3. L'identification des [<sup>3</sup> ...]<sup>3</sup> pouvoirs de gestion journalière telle que définie au paragraphe 1er et les modalités de l'information visée au paragraphe 4 doivent être fixées de commun accord par le Comité de gestion et par l'administrateur général. Cet accord est approuvé par le (Gouvernement), au plus tard dans les six mois de l'entrée en vigueur du présent décret. [<sup>1</sup> Cet accord peut être révisé, moyennant approbation du Gouvernement, soit dans l'année du renouvellement du contrat de gestion ou de la modification de celui-ci par avenant, soit dans l'année d'une requête officielle adressée au Gouvernement par le comité de gestion, de sa propre initiative ou à la demande de l'administrateur général.]<sup>1</sup> &lt;DRW 2003-03-13/37, art. 48, 002; En vigueur : 01-04-2003&gt;
+
+(L'accord de gestion journalière contient un volet spécifique opérant la répartition précise [<sup>3</sup> des missions visées à l'article 3]<sup>3</sup>.) &lt;DRW 2003-03-13/37, art. 32, 002; En vigueur : 01-04-2003&gt;
+
+§ 4. L'administrateur général est tenu d'informer le président du Comité de gestion et [<sup>1</sup> du bureau exécutif]<sup>1</sup>, agissant d'initiative ou à la demande du Comité de gestion, des actes accomplis dans le cadre de la gestion journalière et de lui fournir toutes explications y relatives. [<sup>1</sup> L'administrateur général adresse au comité de gestion un rapport trimestriel sur les passations de marchés publics de services dont le montant dépasse [<sup>4</sup> 30.000 euros hors T.V.A. pour l'ensemble du marché]<sup>4</sup> et les passations de marchés publics de fournitures et de travaux dont le montant dépasse [<sup>4</sup> 85.000 euros hors T.V.A. pour l'ensemble du marché]<sup>4</sup> ]<sup>1</sup> &lt;DRW 2003-03-13/37, art. 32, 002; En vigueur : 01-04-2003&gt;
+
+§ 5. [<sup>6</sup> L'administrateur général est habilité à déléguer à un ou plusieurs mandataires ou à un ou plusieurs membres du personnel de l'Office, qu'il soit agent au sens de l'article 1er de l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le Code de la Fonction publique wallonne ou membre du personnel contractuel au sens de l'arrêté du Gouvernement wallon du 18 décembre 2003 relatif aux conditions d'engagement et à la situation administrative et pécuniaire des membres du personnel contractuel, une partie des pouvoirs qui lui sont attribués par ou en vertu du présent article, dans les limites et conditions qu'il détermine, en ce compris son pouvoir de représenter l'Office devant les juridictions judiciaires et administratives.]<sup>6</sup>
+
+[<sup>3</sup> L'administrateur général dispose du droit d'évoquer toute décision prise par délégation.]<sup>3</sup>
+
+§ 6. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 7. [<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2011-03-31/03, art. 13, 008; En vigueur : 17-04-2011&gt;
+
+(2)&lt;DRW 2011-03-31/03, art. 14, 008; En vigueur : 17-04-2011&gt;
+
+(3)&lt;DRW 2012-05-10/05, art. 23, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(4)&lt;DRW 2014-02-20/15, art. 5, 010; En vigueur : 23-03-2014&gt;
+
+(5)&lt;DRW 2015-12-03/05, art. 4, 011; En vigueur : 21-12-2015&gt;
+
+(6)&lt;DRW 2016-03-17/03, art. 8, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 23bis
+
+[<sup>1</sup> L'administrateur général adjoint assiste l'administrateur général dans l'exécution des tâches qui lui sont confiées.
+
+En cas d'absence ou d'empêchement de l'administrateur général, ses pouvoirs sont exercés par l'administrateur général adjoint. Si ce dernier est empêché, un fonctionnaire général [<sup>2</sup> de rang A3]<sup>2</sup> est désigné par le comité de gestion sur la proposition de l'administrateur général pour exercer ses fonctions.
+
+Le Gouvernement wallon arrête, dans le périmètre de la gestion journalière, après avis du comité stratégique et sur proposition du comité de gestion, les pouvoirs de l'administrateur général adjoint faisant l'objet d'une délégation par l'administrateur général.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-05-10/05, art. 24, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(2)&lt;DRW 2015-12-03/05, art. 5, 011; En vigueur : 21-12-2015&gt;
+
+#### Art. 23ter
+
+[<sup>1</sup> Un comité de direction composé de l'administrateur général, de l'administrateur général adjoint, des [<sup>2</sup> directeurs généraux]<sup>2</sup> des directions générales centrales visées à l'article 23quater et des directions territoriales visées à l'article 26, alinéa 2, est chargé de coordonner l'opérationnalisation des décisions de stratégie et de principe et des décisions budgétaires prises par le comité de gestion ou déléguées par celui-ci, ainsi que des décisions et actions des différentes directions générales centrales en vue de mener des politiques convergentes ou transversales.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-03-17/03, art. 9, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+(2)&lt;DRW 2023-06-28/10, art. 8, 017; En vigueur : 16-10-2023&gt;
+
+#### Art. 23quater
+
+[<sup>1</sup> L'Office est organisé en territoires tels que déterminés à l'article 26, alinéa 2, et dispose d'un siège central, exerçant un rôle de support et de service aux territoires afin de garantir l'unicité et la transversalité des fonctions de pilotage opérationnel des services et de support au sein des directions territoriales.
+
+[<sup>2</sup> Le siège central est composé de trois directions générales centrales qui se répartissent les compétences matérielles suivantes :
+
+1° le développement et la gestion des produits et services aux employeurs et aux particuliers;
+
+2° la stratégie en ce compris le positionnement du FOREM en tant qu'opérateur ou régisseur du marché de l'emploi et de la formation;
+
+3° l'organisation de ses relations avec les opérateurs, et la coordination des actions visant à favoriser la mobilité interrégionale des demandeurs d'emploi et des travailleurs;
+
+4° les ressources humaines, la gestion et le développement des finances, de l'administration et des technologies de l'information]<sup>2</sup>.
+
+Sur proposition de l'administrateur général, le comité de gestion détermine les compétences matérielles de chaque direction générale centrale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-03-17/03, art. 10, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+(2)&lt;DRW 2023-06-28/10, art. 9, 017; En vigueur : 16-10-2023&gt;
+
+#### Art. 23quinquies
+
+[<sup>1</sup> § 1er. [<sup>3</sup> L'administrateur général est habilité à déléguer à l'administrateur général adjoint, aux [<sup>4</sup> directeurs généraux ]<sup>4</sup> des directions générales centrales, aux [<sup>4</sup> directeurs généraux ]<sup>4</sup> des directions territoriales et aux responsables des services à gestion distincte, des pouvoirs déterminés dans les domaines d'activités qui les concernent, dans un délai de six mois à dater de la conclusion de l'accord de gestion journalière visé à l'article 23, § 3.]<sup>3</sup>
+
+§ 2. L'administrateur général, l'administrateur général adjoint et les [<sup>4</sup> directeurs généraux ]<sup>4</sup> des directions générales assistent aux réunions du comité de gestion avec voix consultative.]<sup>1</sup>
+
+[<sup>3</sup> Les [<sup>4</sup> directeurs généraux ]<sup>4</sup> des directions territoriales visées à l'article 26, alinéa 2, assistent aux réunions du comité de gestion avec voix consultative, en fonction des thématiques abordées, selon les modalités et la périodicité qu'il prévoit, afin de garantir la prise en compte des réalités locales et de coordonner leur participation à la réalisation des objectifs de l'Office.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-05-10/05, art. 27, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(2)&lt;DRW 2015-12-03/05, art. 8, 011; En vigueur : 21-12-2015&gt;
+
+(3)&lt;DRW 2016-03-17/03, art. 11, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+(4)&lt;DRW 2023-06-28/10, art. 10, 017; En vigueur : 16-10-2023&gt;
+
+#### Art. 23sexties
+
+[<sup>1</sup> L'Office est dirigé par un administrateur général de rang A1 assisté d'un administrateur général adjoint de rang A2 et de sept directeurs généraux de rang A3.
+
+L'administrateur général et l'administrateur général adjoint sont désignés par le Gouvernement pour un mandat aux conditions fixées par le Titre II du Livre II de l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le Code de la fonction publique wallonne.
+
+Sauf exception prévue par le Gouvernement en application de l'article 25 du présent décret ou de l'article 2 du décret du 22 janvier 1998 relatif au statut du personnel de certains organismes d'intérêt public relevant de la Région wallonne, et sous réserve de l'application des dispositions particulières fixées par l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le statut des agents de l'Office wallon de la Formation professionnelle et de l'Emploi et sous réserve de l'application des dispositions particulières contenues dans le chapitre III de l'arrêté du Gouvernement wallon du 18 décembre 2003 relatif aux conditions d'engagement et à la situation administrative et pécuniaire des membres du personnel contractuel de l'Office, conformément aux articles 10, § 3, alinéa 2, et 339, 2°, de l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le Code de la fonction publique wallonne, les directeurs généraux et les autres fonctionnaires généraux de rang A3 sont désignés par le Gouvernement pour un mandat aux conditions fixées par le Titre II du Livre II du même Code.
+
+Dans l'organisation interne des directions générales centrales ou des directions territoriales, les directeurs généraux justifient de leur gestion quotidienne uniquement devant l'administrateur général.
+
+Chaque directeur général d'une direction générale centrale ou d'une direction territoriale est réputé ordonnateur des dépenses et des recettes pour ce qui concerne les dépenses liées directement aux activités de la direction générale ou de la direction territoriale qu'il dirige ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2023-06-28/10, art. 11, 017; En vigueur : 16-10-2023&gt;
+
+#### Art. 24
+
+&lt;Ancien article 24 abrogé par DRW 2011-03-31/03, art. 14, 008; En vigueur : 17-04-2011&gt;
+
+### Section 7. [<sup>1</sup> - Du comité stratégique]<sup>1</sup>
+
+----------
+
+(1)&lt;Nouveau section 7 inséré par DRW 2011-03-31/03, art. 15, 008; En vigueur : 17-04-2011&gt;
+
+#### Art. 24
+
+[<sup>1</sup> § 1er. Outre les missions fixées à l'article 12, alinéas 2 et 3, le comité stratégique est un organe consultatif chargé de remettre des avis préalablement sur :
+
+1° les documents ou les décisions principales à prendre qui fixent des orientations de stratégie, de principe et de méthode relatives à la mise en oeuvre du contrat de gestion, ainsi que sur les résultats de mise en oeuvre et de suivi du contrat de gestion;
+
+2° [<sup>2</sup> le plan d'entreprise;]<sup>2</sup>
+
+3° les décisions à prendre par le comité de gestion en matière de délégation de compétence au bureau exécutif, en vue de l'application [<sup>2</sup> à l'article 20, 4°]<sup>2</sup>;
+
+4° les documents ou décisions du comité de gestion concernant la confection du budget initial de l'Office, le suivi de l'exécution budgétaire et les propositions d'ajustements budgétaires, dont ceux visés à l'article 27, § 1er;
+
+5° les projets de contracter des emprunts visés à l'article 27, § 3;
+
+6° les décisions à prendre par le comité de gestion qu'il souhaite lui soumettre.
+
+§ 2. Le comité stratégique est composé :
+
+1° du président et du vice-président du comité de gestion, assurant les fonctions de président et de vice-président;
+
+2° de deux représentants des organisations représentatives des employeurs, ainsi que leurs suppléants, nommés par le Gouvernement, sur la base d'une liste double de candidats présentés par les organisations représentatives des employeurs;
+
+3° de deux représentants des organisations représentatives des travailleurs, ainsi que leurs suppléants, nommés par le Gouvernement, sur la base d'une liste double de candidats présentés par les organisations représentatives des travailleurs;
+
+4° de deux membres désignés par le Gouvernement;
+
+5° de l'administrateur général [<sup>2</sup> et l'administrateur général adjoint]<sup>2</sup>.
+
+[<sup>2</sup> Sur la proposition de l'administrateur général, le comité stratégique désigne parmi les membres du personnel, la personne chargée d'assurer le secrétariat du comité stratégique et son suppléant.]<sup>2</sup>
+
+Le comité stratégique est renouvelé dans son intégralité avant le 31 décembre de l'année de la mise en place du Gouvernement, sauf en ce qui concerne la première désignation du comité stratégique.
+
+Seuls les membres du comité stratégique visés à l'alinéa 1er, 1° à 4°, participent à l'élaboration et à l'approbation de l'avis. Ils doivent être belges ou ressortissants d'un Etat membre de l'Union européenne et âgés de vingt et un ans au moins.
+
+Deux tiers au maximum de ces membres sont du même sexe.
+
+§ 3. Le comité de gestion adresse la demande d'avis au comité stratégique.
+
+Le comité stratégique ne rend valablement son avis que si la moitié des membres au moins sont présents.
+
+Si l'avis n'a pas recueilli l'unanimité des membres visés au 2, alinéa 1er, 1° à 4°, les différentes positions y sont exprimées. L'avis rendu est motivé.
+
+Le comité stratégique établit son propre règlement d'ordre intérieur qui contient au minimum :
+
+1° les règles concernant la convocation du comité stratégique;
+
+2° les règles relatives à la présidence du comité stratégique;
+
+3° les conditions dans lesquelles le comité stratégique peut faire appel à des experts ou à des personnes spécialement compétentes pour l'examen de questions particulières;
+
+4° les règles relatives aux modalités de délibération et de prise d'avis;
+
+5° les règles relatives aux modalités de rédaction et d'approbation des avis, des procès-verbaux, par le comité;
+
+6° les règles relatives à la transmission et à la communication des avis;
+
+7° la périodicité des réunions;
+
+8° les règles de déontologie visant à prévenir le conflit d'intérêt et à assurer le respect de la confidentialité.
+
+§ 4. [<sup>3</sup> Le comité stratégique sollicitera l'inscription des avis qu'il a remis en séance, à l'ordre du jour du comité de gestion qui suit immédiatement cette séance.
+
+Les membres désignés par le Gouvernement communiquent avec les Ministres de l'Emploi et de la Formation et aux commissaires du Gouvernement wallon visés à l'article 16 en amont et en aval des réunions du comité stratégique.]<sup>3</sup> ]<sup>1</sup>
+
+----------
+
+(1)&lt;Nouvel article 24 inséré par DRW 2011-03-31/03, art. 15, 008; En vigueur : 17-04-2011&gt;
+
+(2)&lt;DRW 2012-05-10/05, art. 29, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(3)&lt;DRW 2014-02-20/15, art. 6, 010; En vigueur : 23-03-2014&gt;
+
+### Section 8. [<sup>1</sup> - Conseil de suivi financier et budgétaire]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2021-11-12/13, art. 36, 015; En vigueur : 01-01-2022&gt;
+
+#### Art. 24bis
+
+[<sup>1</sup> § 1er. Le Conseil de suivi financier et budgétaire est composé de :
+
+1° deux membres du Comité de gestion visés à l'article 9, 2°, et représentant respectivement les organisations représentatives des travailleurs et les organisations représentatives des employeurs ;
+
+2° [<sup>3</sup> deux]<sup>3</sup> membres reconnus pour leurs compétences budgétaires, désignés par le Gouvernement ;
+
+3° un Inspecteur des Finances désigné par le Gouvernement ;
+
+4° un représentant de la Cour des Comptes ;
+
+5° un délégué de l'Administration du budget de la Région, désigné par le Gouvernement ;
+
+6° un représentant du [<sup>3</sup> Centre stratégique d'expertise fiscale, financière et budgétaire]<sup>3</sup>;
+
+[<sup>3</sup> 7° un membre désigné par le ministre du Budget.]<sup>3</sup>
+
+Pour chaque membre effectif visé à l'alinéa 1er, un membre suppléant est désigné. Il ne siège qu'en l'absence du membre effectif correspondant.
+
+La qualité de membre du Conseil de suivi financier et budgétaire est incompatible avec le mandat ou les fonctions de :
+
+\- membre du Comité de gestion, sauf pour ce qui concerne les membres visés à l'alinéa 1er, 1° ;
+
+\- membre du Gouvernement de l'Etat fédéral, d'une Région [<sup>3</sup> , d'une Communauté ou le Secrétaire d'Etat bruxellois]<sup>3</sup> ;
+
+\- membre du Parlement européen, des Chambres législatives fédérales ou d'un parlement de Région ou de Communauté ;
+
+\- gouverneur de province ;
+
+\- membre du personnel de l'organisme, ou d'une de ses filiales, à l'excep tion du ou des responsable(s) de la gestion journalière ;
+
+\- conseiller externe ou consultant régulier de l'organisme.
+
+Par dérogation à l'alinéa 3, l'Administrateur général, l'Administrateur général adjoint, les [<sup>3</sup> directeurs généraux]<sup>3</sup> des directions générales centrales visées à l'article 23quater, et les commissaires du Gouvernement, assistent aux réunions du Conseil de suivi financier et budgétaire avec voix consultative. En outre, assiste également aux réunions de ce dernier, avec voix consultative, le responsable du service administratif en charge du budget de l'Office ou son délégué.
+
+Le président est désigné, par le Gouvernement, parmi les membres effectifs visés à l'alinéa 1er, 2° [<sup>3</sup> à 7°]<sup>3</sup>.
+
+§ 2. Les mandats des membres visés au paragraphe 1er prennent cours dans les six mois qui suivent la date de prestation de serment des membres du Gouvernement à la suite du renouvellement du Parlement wallon. Ils peuvent être renouvelés. Ils prennent fin en cas de décès, de démission, d'incapacité civile ou, lorsque le membre perd la qualité en raison de laquelle il a été désigné.
+
+Lorsque le mandat d'un des membres effectifs visés au paragraphe 1er, alinéa 1er, [<sup>3</sup> 1° à 7°]<sup>3</sup>, ou d'un de leurs suppléants prend fin pour l'un des motifs évoqués à l'alinéa 1er, le nouveau membre achève le mandat de son prédécesseur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2021-11-12/13, art. 37, 015; En vigueur : 01-05-2022&gt;
+
+(2)&lt;DRW 2024-04-25/27, art. 4, 019; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 56, 021; En vigueur : 01-01-2025&gt;
+
+#### Art. 24bis/1
+
+[<sup>1</sup> Le Conseil de suivi financier et budgétaire est chargé de :
+
+1° rendre des avis, dans le cadre de la procédure d'élaboration du budget de l'Office, visée à l'article 12, § 1er, 7° [<sup>3</sup> , au Gouvernement et au Comité de gestion]<sup>3</sup>;
+
+2° formuler [<sup>3</sup> au Gouvernement et au Comité de gestion,]<sup>3</sup> les avis ou propositions budgétaires motivés en vue de l'évaluation du fonctionnement et de l'état du service public dont est chargé l'Office et en vue de l'établissement du rapport annuel sur la mise en oeuvre du contrat de gestion [<sup>3</sup> dans un délai maximum d'un mois à partir de la formulation de la demande]<sup>3</sup>. Le Comité de gestion fixe le délai dans lequel les avis du Conseil de suivi financier et budgétaire doivent lui parvenir. Ce délai ne peut être inférieur à quinze jours à partir de la formulation de la demande ;
+
+3° faire trimestriellement rapport au Comité de gestion et au Gouvernement sur les recettes et les dépenses de l'Office, [<sup>3</sup> en ce compris les programmes d'investissements et l'évolution de la trésorerie de l'Office,]<sup>3</sup> en particulier sur les prévisions en la matière et sur les différents aspects de leur évolution ;
+
+4° donner un avis sur toute question budgétaire que lui soumettent le Gouvernement et le Comité de gestion.
+
+Le Conseil de suivi financier et budgétaire dispose des pouvoirs d'investigation les plus larges dans le cadre de sa mission, sans toutefois avoir accès aux données individuelles. Il examine les opérations ayant une incidence financière ou budgétaire, a accès à tous les dossiers et archives et reçoit des services de l'Office tous les renseignements qu'il demande. Il peut déléguer certains de ses membres aux réunions des organes de l'Office.]<sup>1</sup>
+
+[<sup>3</sup> Les avis et rapports visés à l'alinéa 1er sont transmis par le président du comité au service désigné par le Gouvernement, pour traitement et archivage.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2021-11-12/13, art. 38, 015; En vigueur : 01-05-2022&gt;
+
+(2)&lt;DRW 2024-04-25/27, art. 5, 019; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 57, 021; En vigueur : 01-01-2025&gt;
+
+#### Art. 24bis/2
+
+[<sup>1</sup> § 1er. Le Conseil de suivi financier et budgétaire établit un règlement d'ordre intérieur qui contient notamment :
+
+1° les règles concernant la convocation des réunions ;
+
+2° les règles relatives à leur présidence en l'absence du président ou en cas d'empêchement de celui-ci;
+
+3° les règles relatives aux modalités de délibération ;
+
+4° les règles relatives à la gestion des situations visées au paragraphe 2.
+
+Le règlement d'ordre intérieur visé à l'alinéa 1er est approuvé par le Gouvernement et publié au Moniteur belge.
+
+§ 2. Il est interdit à tout membre du Conseil de suivi financier et budgétaire d'être présent lorsqu'un point est examiné ou mis en délibération sur un objet pour lequel il a un intérêt direct ou indirect, patrimonial ou personnel.
+
+§ 3. Le Comité de gestion désigne parmi les membres du personnel de l'Office, et sur proposition de l'Administrateur général, la personne chargée du secrétariat du Conseil de suivi financier et budgétaire.
+
+§ 4. Les réunions du Conseil de suivi financier et budgétaire ne sont pas rémunérées. Les membres effectifs et les membres suppléants du Conseil de suivi financier et budgétaire ont droit au remboursement des frais de parcours qu'ils ont exposés pour les besoins inhérents à l'exercice de leur mandat dans les formes et conditions fixées par l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le Code de la Fonction publique wallonne.
+
+Les indemnités auxquelles ils peuvent prétendre à ce titre sont à charge de l'Office.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2021-11-12/13, art. 39, 015; En vigueur : 01-05-2022&gt;
+
+#### Art. 24bis/3
+
+[<sup>1</sup> Le réviseur d'entreprises adresse au Gouvernement, au Comité de gestion et au Conseil de suivi financier et budgétaire un rapport sur la situation active et passive de l'Office ainsi que sur les résultats de l'exploitation de celle-ci au moins une fois par an, à l'occasion de la confection du bilan et du compte de pertes et profits ou du compte annuel. Il signale au Gouvernement, au Comité de gestion et au Conseil de suivi financier et budgétaire, sans délai, toute négligence, toute irrégularité ou toute situation susceptible de compromettre la solvabilité de l'Office et ses liquidités. Les dépenses qui découlent des missions confiées au réviseur d'entreprises sont à charge de l'Office.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2021-11-12/13, art. 40, 015; En vigueur : 01-05-2022&gt;
+
+## CHAPITRE IV. - Du personnel de l'Office.
+
+#### Art. 25
+
+(voir NOTE sous INTITULE) (Sur la proposition du comité de gestion, le Gouvernement wallon fixe le cadre du personnel de l'Office et les règles générales applicables au personnel sous contrat de travail.) &lt;DRW 2003-03-13/37, art. 35, 002; En vigueur : 01-04-2003&gt;
+
+L'Office est autorisé à recruter du personnel contractuel aux fins exclusives énumérées (à l'article 2, § 1er, alinéa 2, de l'arrêté royal du 22 décembre 2000) fixant les principes généraux du statut administratif et pécuniaire des agents de l'Etat applicables au personnel des services des gouvernements de Communauté et de Région et des collèges de la Commission communautaire commune et de la Commission communautaire française ainsi qu'aux personnes morales de droit public qui en dépendent. &lt;DRW 2003-03-13/37, art. 35, 002; En vigueur : 01-04-2003&gt;
+
+En ce qui concerne les tâches spécifiques, l'Office est autorisé à recruter du personnel contractuel placé sous règlements particuliers pour des tâches d'expertise, des taches de consultance, des tâches pédagogiques et d'encadrement liées a celles-ci et (des tâches permettant à l'Office [<sup>1</sup> ...]<sup>1</sup> d'être un acteur du marché mixte de l'emploi). &lt;DRW 2003-03-13/37, art. 35, 002; En vigueur : 01-04-2003&gt;
+
+Dans le respect de l'arrêté royal du (22 décembre 2000) précité, le Gouvernement wallon arrête, après avis du Comité de gestion, une liste de ces tâches specifiques (...). &lt;DRW 2003-03-13/37, art. 35, 002; En vigueur : 01-04-2003&gt;
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 31, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+## CHAPITRE V. - [<sup>1</sup> De l'organisation territoriale]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 32, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 26
+
+(voir NOTE sous INTITULE) [<sup>1</sup> L'Office dispense ses services en fonction des besoins des usagers, en vue de les leur rendre accessibles.]<sup>1</sup>
+
+(L'Office est organisé [<sup>1</sup> [<sup>3</sup> en directions territoriales]<sup>3</sup> dépendant directement de l'administrateur général [<sup>2</sup> ...]<sup>2</sup> ]<sup>1</sup>.) &lt;DRW 2003-03-13/37, art. 37, 002; En vigueur : 01-04-2003&gt;
+
+[<sup>3</sup> Les directions territoriales organisent l'offre de services de l'Office sur leur territoire. Elles programment les activités, mettent en oeuvre la stratégie en veillant à garantir sur leur territoire, les politiques d'intervention et l'offre de services de l'Office et elles collaborent avec les opérateurs présents sur leur territoire.]<sup>3</sup>
+
+Le Gouvernement wallon, [<sup>1</sup> , après concertation avec le comité de gestion]<sup>1</sup>, arrête le nombre et le ressort territorial de ces [<sup>1</sup> directions [<sup>3</sup> ...]<sup>3</sup> [<sup>2</sup> ...]<sup>2</sup> ]<sup>1</sup> [<sup>1</sup> , tout en veillant au respect des critères suivants :
+
+1° la diversité du territoire wallon;
+
+2° les spécificités socio-économiques locales;
+
+3° la taille optimale des territoires dans un souci de simplification de la gestion de l'Office;
+
+4° la complémentarité des services offerts aux usagers;
+
+5° l'intégration des activités liées à l'emploi et à la formation sur le territoire et le pilotage unique au sein des directions régionales;
+
+6° la prise en compte des stratégies territoriales établies à l'échelle de la Région wallonne pour les matières liées aux politiques d'emploi et de formation.]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 33, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(2)&lt;DRW 2014-02-20/15, art. 7, 010; En vigueur : 23-03-2014&gt;
+
+(3)&lt;DRW 2016-03-17/03, art. 13, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+## CHAPITRE VI. - Du financement et du budget de l'Office.
+
+#### Art. 27
+
+(voir NOTE sous INTITULE) § 1er. L'Office bénéficie de subventions pour l'exercice [<sup>1</sup> des missions définies par l'article 3]<sup>1</sup>, dans les limites des crédits inscrits à cette fin au budget de la Région wallonne.
+
+(Lorsque le Gouvernement confie toute autre activité à l'Office, les implications budgétaires sont traduites en ajustements, après concertation entre le Gouvernement et le comité de gestion portant notamment sur les publics cibles et les objectifs à atteindre.) &lt;DRW 2003-03-13/37, art. 38, 002; En vigueur : 01-04-2003&gt;
+
+(§ 1erbis. [<sup>1</sup> Les subventions annuelles couvrent distinctement les opérations courantes et patrimoniales pour permettre l'accomplissement des missions telles que définies à l'article 3.
+
+La Région wallonne prévoit, dans ses budgets, des subventions pour couvrir ces opérations.]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. L'Office peut recevoir des legs et donations et percevoir toutes autres recettes.
+
+§ 3. L'Office peut contracter des emprunts exclusivement (d'une part,) pour financer [<sup>1</sup> des opérations patrimoniales]<sup>1</sup> relatives à ses missions [<sup>1</sup> ...]<sup>1</sup> et (, d'autre part, pour faire face à un retard dans la perception de ses recettes) moyennant la garantie de la Région wallonne. &lt;DRW 2003-03-13/37, art. 38, 002; En vigueur : 01-04-2003&gt;
+
+(Pour ce dernier cas, il en communique préalablement le projet au Gouvernement et fournit trimestriellement un état de la situation pendant toute la durée de l'emprunt.) &lt;DRW 2003-03-13/37, art. 38, 002; En vigueur : 01-04-2003&gt;
+
+§ 4. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 5. L'Office dispose d'un fonds de roulement alimenté notamment par subvention à charge du budget de la Région wallonne, dont les montants et les modalités d'utilisation sont arrêtés par le Gouvernement wallon.
+
+§ 6. [<sup>5</sup> [<sup>6</sup> Les subventions inscrites au budget sont mises à la disposition de l'Office en douze tranches mensuelles qui ne doivent pas être impérativement égales entre elles. Cette disposition ne s'applique pas pour les articles 41.05 (les domaines fonctionnels 103.003 (code SEC 41)) du programme 18.13 (programme WBFIN 18.103), 41.15 (110.012 (code SEC 41)) du programme 18.22 (programme WBFIN 18.110) du budget pour lesquels le rythme de la liquidation est fixé par la Ministre qui a l'emploi et la formation dans ses attributions. ]<sup>6</sup>]<sup>5</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 34, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(2)&lt;DRW 2020-12-17/52, art. 80, 013; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DRW 2021-12-22/21, art. 72, 014; En vigueur : 01-01-2022&gt;
+
+(4)&lt;DRW 2022-12-21/67, art. 74, 016; En vigueur : 01-01-2023&gt;
+
+(5)&lt;DRW 2023-12-13/13, art. 73, 018; En vigueur : 01-01-2024&gt;
+
+(6)&lt;DRW 2024-12-18/05, art. 8, 020; En vigueur : 01-01-2025&gt;
+
+#### Art. 28
+
+(voir NOTE sous INTITULE) Les soldes [<sup>1</sup> des subventions régionales non utilisées]<sup>1</sup> en date de clôture de l'exercice budgétaire sont à porter en réserves, au bilan de l'Office.
+
+Ces réserves sont [<sup>1</sup> alimentées par les écritures]<sup>1</sup> d'affectation du résultat de l'exercice et couvrent des besoins [<sup>1</sup> relatifs aux missions]<sup>1</sup>.
+
+L'affectation de ces réserves est décidée, sur avis du Comité de gestion, par le Gouvernement wallon qui fixe le nombre de comptes y afférents.
+
+Ces réserves et leur affectation sont respectivement justifiées aux comptes et budgets de l'Office.
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 35, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 29
+
+(voir NOTE sous INTITULE) [<sup>1</sup> Le budget est présenté par programme et par allocation de base, ainsi que ventilé [<sup>2</sup> par direction générale centrale, par direction territoriale]<sup>2</sup> et par service à gestion distincte, comprenant les crédits budgétaires spécifiques.]<sup>1</sup>
+
+Le [<sup>1</sup> projet de]<sup>1</sup> budget de l'Office est communiqué [<sup>1</sup> au Parlement wallon]<sup>1</sup> en annexe au projet du budget de la Région wallonne.
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 36, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(2)&lt;DRW 2016-03-17/03, art. 14, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 30
+
+&lt;Abrogé par DRW 2012-05-10/05, art. 37, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 31
+
+&lt;Abrogé par DRW 2012-05-10/05, art. 38, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+## CHAPITRE VII. - [<sup>1</sup> Des Services à gestion distincte]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 39, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+### Section 1.
+
+&lt;Abrogé par DRW 2012-05-10/05, art. 40, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 32
+
+(voir NOTE sous INTITULE) [<sup>1</sup> Les services à gestion distincte sont des services de l'Office chargés de la gestion administrative, financière et budgétaire pour les domaines d'activités visés aux articles 33 [<sup>3</sup> à 35]<sup>3</sup>.
+
+Ces services jouissent d'une capacité de décision en matière de gestion dans le respect des principes et réglementations s'appliquant à l'Office.
+
+Sur proposition du comité de gestion, le Gouvernement fixe, pour chacun des services, les règles de gestion et de fonctionnement et les modalités de désignation de l'ordonnateur des dépenses [<sup>2</sup> et des recettes]<sup>2</sup> et du responsable de service.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 41, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+(2)&lt;DRW 2014-02-20/15, art. 8, 010; En vigueur : 23-03-2014&gt;
+
+(3)&lt;DRW 2016-03-17/03, art. 15, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 33
+
+[<sup>1</sup> Un service à gestion distincte est chargé au sein de l'Office de la mission visée à l'article 3, § 1er, 9°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-03-17/03, art. 16, 012; En vigueur : 01-01-2016 et 01-04-2015 en ce qui concerne les dispositions relatives au Fonds de l'expérience professionnelle, au Fonds de Formation Titres-services, à la réduction de cotisations sociales patronales " Tuteurs " et au congé éducation-payé (dispositions transitoires art. 28)&gt;
+
+#### Art. 34
+
+[<sup>1</sup> Un service à gestion distincte est chargé au sein de l'Office de la gestion financière et budgétaire des Instances bassin EFE situées en Région wallonne.
+
+Le service à gestion distincte assure une mission de support en veillant à la cohérence et la légalité des procédures administratives et organisationnelles des Instances bassin et apporte, par l'affectation des moyens visés à l'article 21, alinéa 1er, de l'accord de coopération précité, un appui logistique aux Chambres subrégionales emploi et formation des Instances bassin EFE.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-03-17/03, art. 17, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 35
+
+[<sup>1</sup> Dans le cadre de l'exercice des missions visées à l'article 3, § 1er, 8°, un service à gestion distincte, au sens de l'article 32, contrôle, dans les limites prévues par ou en vertu du présent article, la disponibilité sur le marché de l'emploi des demandeurs d'emploi inscrits obligatoirement, des jeunes demandeurs d'emploi inscrits obligatoirement et des demandeurs d'emploi inscrits obligatoirement soumis à l'obligation de disponibilité adaptée et décide, le cas échéant, dans le respect des droits de la défense, des sanctions y afférentes, conformément au cadre normatif applicable au contrôle de la disponibilité, prévu par ou en vertu de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage.
+
+L'organisation et le fonctionnement de ce service garantissent son impartialité et son indépendance dans l'exercice des missions qui lui sont confiées à l'alinéa 1er.
+
+Pour le contrôle de la disponibilité active du demandeur d'emploi inscrit obligatoirement, le service à gestion distincte, en veillant au respect des droits de la défense, évalue la disponibilité active du demandeur d'emploi inscrit obligatoirement lorsqu'il est saisi du dossier de ce dernier, conformément à l'article 15, § 3, du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi.
+
+[<sup>2</sup> En l'absence de transmission du dossier du demandeur d'emploi inscrit obligatoirement dans un délai de huit mois suivant la dernière évaluation, le service à gestion distincte procède d'office à une évaluation sur base du dossier existant conformément à l'article 58/6 de l'arrêté royal du 25 novembre 1991 portant règlementation du chômage afin de respecter l'article 58/5, alinéa 1er, du même arrêté royal.]<sup>2</sup>
+
+Pour le contrôle de la disponibilité active du jeune demandeur d'emploi inscrit obligatoirement, le service à gestion distincte, en veillant au respect des droits de la défense, évalue sa disponibilité, conformément à l'article 15,§ 4, du décret du12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi.
+
+Le Gouvernement arrête la manière dont le service à gestion distincte exerce le contrôle de la disponibilité et, le cas échéant, l'imposition des sanctions y afférentes, la manière selon laquelle le demandeur d'emploi inscrit obligatoirement et le jeune demandeur d'emploi inscrit obligatoirement sont, le cas échéant, convoqués à un [<sup>2</sup> entretien de contrôle]<sup>2</sup> et la manière selon laquelle le demandeur d'emploi inscrit obligatoirement et le demandeur d'emploi inscrit obligatoirement soumis à l'obligation de disponibilité adaptée sont convoqués à [<sup>2</sup> un entretien ]<sup>2</sup> dans le cadre du contrôle de leur disponibilité passive ou adaptée.
+
+Le demandeur d'emploi inscrit obligatoirement, le jeune demandeur d'emploi inscrit obligatoirement ou le demandeur d'emploi inscrit obligatoirement soumis à l'obligation de disponibilité adaptée peut introduire une demande de révision des décisions prises par le service à gestion distincte, visé à l'alinéa 1er, qui le concerne, selon les modalités déterminées par le Gouvernement.
+
+Le Gouvernement arrête les modalités concernant le déroulement de la procédure du contrôle de la disponibilité visé à l'alinéa 1er.
+
+[<sup>2</sup>Dans le cadre des missions exercées par le service à gestion distincte visé à l'alinéa 1er, lorsque celui-ci détecte un ou des problèmes de santé ou d'ordre psycho-social ou lorsque le demandeur d'emploi inscrit obligatoirement, le jeune demandeur d'emploi inscrit obligatoirement ou le demandeur d'emploi inscrit obligatoirement soumis à l'obligation de disponibilité adaptée invoque un problème de santé ou un problème d'ordre psychosocial pouvant avoir un impact sur son obligation de disponibilité sur le marché de l'emploi, le FOREm peut faire réaliser un examen par un professionnel de la santé ou une anamnèse par un psychologue ou par un assistant social ]<sup>2</sup>.
+
+[<sup>2</sup> Le demandeur d'emploi inscrit obligatoirement, le jeune demandeur d'emploi inscrit obligatoirement ou le demandeur d'emploi inscrit obligatoirement soumis à l'obligation de disponibilité adaptée qui invoque un problème de santé ou d'ordre psycho-social est informé de la possibilité de refuser l'examen ou l'anamnèse visés à l'alinéa 9]<sup>2</sup>.
+
+[<sup>2</sup> Lorsque le demandeur d'emploi inscrit obligatoirement, le jeune demandeur d'emploi inscrit obligatoirement et le demandeur d'emploi inscrit obligatoirement soumis à l'obligation de disponibilité adaptée refuse l'examen ou l'anamnèse visés à l'alinéa 9, le FOREm ne prend pas en compte le problème de santé ou d'ordre psycho-social invoqué dans l'évaluation de la disponibilité active, passive ou adaptée]<sup>2</sup>.
+
+[<sup>2</sup> Le traitement de ces données de santé ou d'ordre psycho-social est réalisé sous la responsabilité :
+
+1° d'un médecin, d'un psychologue ou d'un assistant social soumis au secret professionnel ; ou
+
+2° de toute autre personne soumise à une obligation de secret équivalente]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2021-11-12/13, art. 41, 015; En vigueur : 01-07-2022&gt;
+
+(2)&lt;DRW 2026-03-26/05, art. 19, 022; En vigueur : 01-04-2026&gt;
+
+#### Art. 36
+
+&lt;Abrogé par DRW 2012-05-10/05, art. 45, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+## Chapitre VIIbis. [<sup>1</sup> - Des chambres subrégionales emploi et formation des Instances bassin EFE]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-03-17/03, art. 19, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 37
+
+&lt;Abrogé par DRW 2016-03-17/03, art. 20, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 38
+
+[<sup>1</sup> Chaque chambre subrégionale emploi et formation des Instances bassin EFE a pour missions de :
+
+1° émettre un avis sur les agréments pour lesquels son avis est rendu obligatoire par ou en vertu d'une disposition décrétale;
+
+2° émettre des recommandations ou propositions sur l'adéquation entre des politiques d'emploi et de formation au niveau de ce ressort territorial et les besoins socio-économiques de ce même territoire;
+
+3° mener toute mission confiée en vertu des dispositions décrétales ou réglementaires et toute action déléguée ou avalisée par l'Instance bassin.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-03-17/03, art. 21, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 39
+
+&lt;Abrogé par DRW 2016-03-17/03, art. 22, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 40
+
+&lt;Abrogé par DRW 2016-03-17/03, art. 23, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 41
+
+&lt;Abrogé par DRW 2016-03-17/03, art. 24, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 42
+
+&lt;Abrogé par DRW 2012-05-10/05, art. 51, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 43
+
+&lt;Abrogé par DRW 2012-05-10/05, art. 52, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 44
+
+[<sup>1</sup> § 1er. Un collège des chambres subrégionales emploi et formation des Instances bassin EFE, coordonne selon les modalités et la périodicité qu'il prévoit, la mise en oeuvre des missions complémentaires à l'accord de coopération du 20 mars 2014 précité, attribuées par des dispositions décrétales ou réglementaires aux différentes chambres, afin d'en assurer la cohérence et de garantir le respect du cadre de leurs missions.
+
+§ 2. Un membre du personnel du service à gestion distincte assure la fonction de secrétaire du collège des chambres subrégionales emploi et formation des Instances bassin EFE.
+
+§ 3. Le règlement d'ordre intérieur, soumis pour approbation au Ministre de tutelle, fixe les modalités de fonctionnement, notamment en ce qui concerne le quorum de vote.
+
+§ 4. Le collège des chambres subrégionales emploi et formation des Instances bassin EFE se compose comme suit :
+
+1° un représentant de chaque chambre subrégionale emploi et formation des Instances bassin, siégeant en son sein;
+
+2° l'administrateur général ou son représentant.
+
+Le Gouvernement nomme le représentant effectif et suppléant visé à l'alinéa 1er, 1°, sur proposition de la chambre qu'il représente.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-03-17/03, art. 25, 012; En vigueur : 08-04-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 45
+
+(voir NOTE sous INTITULE) (Abrogé) &lt;DRW 2003-03-13/37, art. 42, 002; En vigueur : 01-04-2003&gt;
+
+## Chapitre VIIter. [<sup>1</sup> Des comités stratégiques sectoriels ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-03-26/05, art. 21, 022; En vigueur : 01-04-2026&gt;
+
+#### Art. 45/1
+
+[<sup>1</sup> Le Gouvernement instaure, après avoir sollicité l'avis du Conseil économique, social et environnemental de Wallonie, un comité stratégique sectoriel pour chaque secteur de l'économie qu'il détermine et en fixe le périmètre d'intervention, aux fins de soutenir l'exercice des missions prévues à l'article 3, § 1er, alinéa 1er, 1°, c), 2° et 7°.
+
+Le nombre et le périmètre d'intervention des comités stratégiques sectoriels sont déterminés par le Gouvernement, de manière, en particulier, à :
+
+1° former un ensemble cohérent de regroupements à partir de la Nomenclature des activités économiques de la Communauté européenne (NACE) et des commissions paritaires ;
+
+2° couvrir un volume maximal d'emplois au sein de la Région wallonne, tout en maintenant un nombre de comités soutenable au regard des ressources humaines mobilisées pour leur fonctionnement et pour la participation des parties prenantes ;
+
+3° couvrir l'ensemble de la chaîne de valeur des activités économiques relevant de leur périmètre.
+
+Le Gouvernement peut également instaurer un comité stratégique intersectoriel qui couvre les activités non couvertes par les comités stratégiques sectoriels et les thématiques ou actions communes à une majorité de comités stratégiques. Le comité stratégique intersectoriel agit sans préjudice de l'autonomie des comités stratégiques sectoriels, avec lesquels il entretient des relations de coordination et de concertation, à l'exclusion de tout lien hiérarchique. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-03-26/05, art. 21, 022; En vigueur : 01-04-2026&gt;
+
+#### Art. 45/2
+
+[<sup>1</sup> Ces comités ont pour finalité de favoriser la mise et le maintien à l'emploi, au travers du développement des compétences ainsi que d'autres actions d'insertion professionnelle menées en concertation avec les partenaires, dans le respect de leurs missions respectives. Ces actions visent à apporter une réponse plus adéquate que celle qu'un intervenant isolé peut offrir aux besoins des publics-cibles que sont les travailleurs, les futurs travailleurs, les apprenants et les chercheurs d'emploi, en vue de soutenir la croissance des entreprises.
+
+Dans ce cadre, chaque comité stratégique sectoriel :
+
+1° développe une représentation partagée du fonctionnement du marché de l'emploi et de sa gestion, appuyée par des données factuelles et objectivées pour initier des stratégies d'actions ;
+
+2° établit des prévisions d'emplois à pourvoir à court, à moyen et à long termes ;
+
+3° détermine, sur la base des prévisions visées au 2°, les actions prioritaires conjoncturelles et structurelles à mener pour pourvoir à ceux-ci ;
+
+4° remet des avis en matière d'investissements pédagogiques, de projets de financement spécifique et d'optimisation de l'offre d'enseignement et de formation, à la demande des Gouvernements ou d'initiative ;
+
+5° identifie les besoins en matière de formation continue des travailleurs en vue de leur maintien dans l'emploi par la montée en compétences ou l'acquisition de nouvelles compétences nécessaires à la pérennité et à la croissance des entreprises ;
+
+6° élabore des appels à plans d'actions au travers de cahiers des charges en réponse aux prévisions d'emploi et aux besoins de compétences non ou insuffisamment satisfaits en vue de mobiliser et de responsabiliser les opérateurs en ce compris, ceux intervenant dans le cadre de la coordination et du développement de l'apprentissage en entreprise et de l'alternance.
+
+Concernant l'alinéa 2, 3°, les actions sont menées en articulant offres et besoins de compétences et, le cas échéant, en développant les compétences des futurs travailleurs, des apprenants et des chercheurs d'emploi pour répondre aux fonctions critiques, métiers en demande ou en pénurie ainsi qu'aux nouvelles activités émergeant sur le marché de l'emploi wallon. Ces actions prioritaires portent en ce compris sur la coordination et le développement de l'apprentissage en entreprise et de l'alternance.
+
+Le comité stratégique intersectoriel visé à l'article 45/1, alinéa 3, remplit les missions visées à l'alinéa 2 pour les secteurs non représentés dans un comité stratégique sectoriel, et peut également être chargé des thématiques relatives au développement des compétences qui transcendent différents secteurs.
+
+Le Gouvernement peut compléter et ajouter des missions aux comités stratégiques. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-03-26/05, art. 22, 022; En vigueur : 01-04-2026&gt;
+
+#### Art. 45/3
+
+[<sup>1</sup> § 1er. Sont représentés au sein de chaque comité stratégique :
+
+1° trois représentants au maximum des employeurs du secteur professionnel concerné ;
+
+2° trois représentants au maximum des travailleurs du secteur professionnel concerné ;
+
+3° l'Office francophone de la Formation en alternance, visé à l'article 4 de l'accord de coopération-cadre du 24 octobre 2008 ;
+
+4° l'Office en sa qualité de Service public de l'Emploi ;
+
+5° les opérateurs institutionnels de formation professionnelle, en ce compris l'Office et l'Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises ;
+
+6° le service du Gouvernement de la Fédération Wallonie-Bruxelles compétent en matière d'enseignement qualifiant ;
+
+7° le service du Gouvernement de la Fédération Wallonie-Bruxelles compétent en matière d'enseignement pour adulte.
+
+Ces membres disposent de la qualité de membres permanents du comité stratégique. Par défaut, les représentants des employeurs et des travailleurs sont désignés parmi les membres des commissions paritaires représentées au sein du comité stratégique. Toutefois, un représentant d'un fonds sectoriel peut substituer un représentant des employeurs et un représentant des travailleurs.
+
+§ 2. Sont représentés au sein du comité stratégique intersectoriel :
+
+1° trois représentants au maximum des employeurs ;
+
+2° trois représentants au maximum des travailleurs ;
+
+3° l'Office francophone de la Formation en alternance, visé à l'article 4 de l'accord de coopération-cadre du 24 octobre 2008 ;
+
+4° l'Office en sa qualité de Service public de l'Emploi ;
+
+5° les opérateurs institutionnels de formation professionnelle, en ce compris l'Office et l'Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises ;
+
+6° le service du Gouvernement de la Fédération Wallonie-Bruxelles compétent en matière d'enseignement qualifiant ;
+
+7° le service du Gouvernement de la Fédération Wallonie-Bruxelles compétent en matière d'enseignement pour adulte.
+
+§ 3. Le secrétariat de chaque comité est assuré par l'Office.
+
+Le Gouvernement précise la composition des comités stratégiques et leur présidence. Il peut en élargir la composition afin d'intégrer toutes les parties prenantes pertinentes selon les discussions. Ces membres disposent de la qualité de membres invités du comité stratégique sectoriel.
+
+§ 4. Les modalités de collaboration entre les parties représentées au sein de chaque comité stratégique font l'objet d'une convention de collaboration, soumise pour approbation au ministre de tutelle, qui fixe les engagements réciproques, en termes de partage de données, de montage de projets et, le cas échéant, de participation financière dans la mise en oeuvre des plans d'actions.
+
+§ 5. Chaque comité stratégique fixe, sur la base d'un modèle préalablement soumis à l'avis du Conseil économique, social et environnemental de Wallonie, ses règles de fonctionnement au sein d'un règlement d'ordre intérieur soumis pour approbation au ministre de tutelle, qui prévoit les règles de quorum de présences et de votes. " ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-03-26/05, art. 23, 022; En vigueur : 01-04-2026&gt;
+
+#### Art. 45/4
+
+[<sup>1</sup> Une synthèse annuelle des activités des comités stratégiques est transmise aux membres du comité stratégique, au comité de gestion et au ministre de tutelle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-03-26/05, art. 24, 022; En vigueur : 01-04-2026&gt;
+
+## CHAPITRE VIII. - Publications au Moniteur belge.
+
+#### Art. 46
+
+(voir NOTE sous INTITULE) Le règlement d'ordre intérieur du Comité de gestion, [<sup>1</sup> du bureau exécutif et du comité stratégique]<sup>1</sup>, l'accord prévu à l'article 23, § 3, de même que les délégations de pouvoirs de gestion journalière qui en découlent, (...) font l'objet d'une publication au Moniteur belge, à l'initiative de l'administrateur général. &lt;DRW 2003-03-13/37, art. 43, 002; En vigueur : 01-04-2003&gt;
+
+----------
+
+(1)&lt;DRW 2011-03-31/03, art. 16, 008; En vigueur : 17-04-2011&gt;
+
+## CHAPITRE IX. - [<sup>1</sup> Audit interne]<sup>1</sup>
+
+----------
+
+(1)&lt;Nouveau chapitre IX inséré par DRW 2011-03-31/03, art. 17, 008; En vigueur : 17-04-2011&gt;
+
+### Section 1. - (...). &lt;DRW 2003-03-13/37, art. 44, 002; En vigueur : 01-04-2003&gt;
+
+#### Art. 47
+
+[<sup>1</sup> L'Office est doté d'un dispositif d'audit interne afin d'assister le comité de gestion dans ses activités de supervision et afin de fournir une assurance quant au degré de maîtrise des risques et des opérations et activités gérées par l'Office. Ce dispositif d'audit interne répond aux standards internationaux en la matière tant en termes d'éthique et de professionnalisme, que de mécanismes, pratiques et moyens à mettre en oeuvre. Ce dispositif d'audit interne comprend un comité d'audit et une cellule d'audit interne.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-05-10/05, art. 54, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 48
+
+[<sup>1</sup> Le comité d'audit est composé :
+
+\- du président et du vice-président du comité de gestion;
+
+\- de deux membres experts, externes et indépendants de l'Office, choisis sur la base de leur compétence en matière d'audit interne et désignés par le Gouvernement, sur proposition du comité de gestion.
+
+[<sup>2</sup> Ces derniers sont désignés par le Gouvernement pour la durée du contrat de gestion. Leur mandat est renouvelable.]<sup>2</sup>
+
+Le président et le vice-président du comité d'audit doivent appartenir à des composantes différentes, l'un des deux étant un des deux représentants du comité de gestion, et l'autre un des deux experts, externes et indépendants de l'Office.
+
+Tout membre quittant le comité d'audit est remplacé dans les trois mois qui suivent la prise de fin de son mandat. La personne désignée au remplacement achève le mandat de son prédécesseur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Nouvel article 48 inséré par DRW 2011-03-31/03, art. 18, 008; En vigueur : 17-04-2011&gt;
+
+(2)&lt;DRW 2012-05-10/05, art. 55, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 49
+
+[<sup>1</sup> Le comité d'audit se réunit au minimum quatre fois par an. Le comité d'audit arrête la charte de fonctionnement, dans laquelle figurent au moins les modalités de fonctionnement des réunions du comité d'audit, l'exercice de ses missions, ses droits et obligations envers l'office, ses relations avec les organes de l'Office et les autres organes de contrôle externe, et soumet la charte pour approbation au comité de gestion.]<sup>1</sup>
+
+----------
+
+(1)&lt;Nouvel article 49 inséré par DRW 2011-03-31/03, art. 18, 008; En vigueur : 17-04-2011&gt;
+
+#### Art. 50
+
+[<sup>1</sup> Le comité d'audit dispose d'un département d'audit interne, appelé "cellule d'audit interne", relevant directement de son autorité et chargé de la gestion [<sup>2</sup> ...]<sup>2</sup> des missions du comité d'audit.
+
+Le comité, par l'intermédiaire de la cellule d'audit, établit un programme annuel et un plan pluriannuel de missions d'audits internes.
+
+Pour chaque mission d'audit, un rapport écrit contenant la description des faits et des constatations, ainsi qu'une évaluation du système de contrôle interne et des éventuelles recommandations est établi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Nouvel article 50 inséré par DRW 2011-03-31/03, art. 18, 008; En vigueur : 17-04-2011&gt;
+
+(2)&lt;DRW 2012-05-10/05, art. 56, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+#### Art. 51
+
+[<sup>1</sup> Les ressources et moyens du comité d'audit, en ce compris ceux relatifs à la cellule d'audit interne, sont à charge du budget de l'Office, dans une ligne budgétaire spécifique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Nouvel article 51 inséré par DRW 2011-03-31/03, art. 18, 008; En vigueur : 17-04-2011&gt;
+
+## CHAPITRE IXbis. [<sup>1</sup> - Obligation de transmission des offres d'emploi]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2014-02-20/15, art. 9, 010; En vigueur : 23-03-2014&gt;
+
+#### Art. 52
+
+[<sup>1</sup> En application de l'article 3, alinéa 1er, 1°, b), l'Office récolte toutes les offres d'emploi transmises par les entreprises qui occupaient au moins 100 travailleurs au cours de l'année civile précédant la vacance d'emploi et qui ont au moins un siège d'exploitation dans la Région wallonne et ce, sans préjudice de la liberté qu'ont les entreprises de choisir les canaux de diffusion de leurs offres d'emploi et les moyens de recrutement.
+
+Cette notification a lieu pour tout emploi vacant au plus tard au moment où une offre d'emploi pour ce poste est communiquée directement ou indirectement par quelque moyen que ce soit à des personnes n'appartenant pas au personnel de l'entreprise. La notification s'opère par envoi ayant date certaine.
+
+Par emploi vacant, il y a lieu d'entendre un poste pour lequel l'employeur cherche activement un candidat approprié en dehors de l'entreprise concerné.
+
+Par entreprise, il y a lieu d'entendre l'organisation publique ou privée organisée en unité technique d'exploitation visée à l'article 14 de la loi du 20 septembre 1948 portant organisation de l'économie.
+
+Le calcul du nombre de travailleurs au sein de l'entreprise s'effectue conformément à la formule visée à l'article 7 de la loi du 4 décembre 2007 relative aux élections sociales, à moins que le Gouvernement ne décide d'une autre base de calcul.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2014-02-20/15, art. 10, 010; En vigueur : indéterminée &gt;
+
+## CHAPITRE IXter. [<sup>1</sup> - De la valeur probante des informations traitées, enregistrées, conservées ou reproduites par l'Office wallon de la Formation professionnelle et de l'Emploi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-03-17/03, art. 26, 012; En vigueur : 01-01-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 53
+
+[<sup>1</sup> Pour l'exercice de ses missions, l'Office peut traiter, enregistrer, conserver ou reproduire, selon des procédés photographiques, optiques, électroniques ou par toute autre technique des informations qu'il génère ou émanant d'un tiers.
+
+Le Gouvernement wallon est habilité à préciser les modalités à respecter pour garantir la valeur probante de ces informations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-03-17/03, art. 27, 012; En vigueur : 01-01-2016 (dispositions transitoires art. 28)&gt;
+
+#### Art. 54
+
+(voir NOTE sous INTITULE) (Abrogé) &lt;DRW 2003-03-13/37, art. 44, 002; En vigueur : 01-04-2003&gt;
+
+### Section 2. - (...). &lt;DRW 2003-03-13/37, art. 44, 002; En vigueur : 01-04-2003&gt;
+
+#### Art. 55
+
+(voir NOTE soos INTITULE) (Abrogé) &lt;DRW 2003-03-13/37, art. 44, 002; En vigueur : 01-04-2003&gt;
+
+#### Art. 56
+
+(voir NOTE sous INTITULE) (Abrogé) &lt;DRW 2003-03-13/37, art. 44, 002; En vigueur : 01-04-2003&gt;
+
+## CHAPITRE X. - Dispositions finales.
+
+#### Art. 57
+
+(voir NOTE sous INTITULE) Dans l'article 1er, B, de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, les mots " Office wallon de la Formation professionnelle et de l'Emploi (Forem) " sont ajoutés.
+
+#### Art. 58
+
+(voir NOTE sous INTITULE) Les biens, les droits et obligations et le personnel de l'Office régional de l'Emploi sont transféres à l'Office. La cession est opposable aux tiers sans autre formalité dès l'entrée en vigueur du présent décret.
+
+(Alinéa 2 abrogé) &lt;DRW 2003-03-13/37, art. 45, 002; En vigueur : 01-04-2003&gt;
+
+La cession est opposable aux tiers sans autre formalité dès l'entrée en vigueur du présent décret.
+
+#### Art. 58bis
+
+(voir NOTE sous INTITULE) &lt;Inséré par DRW 2003-03-13/37, art. 46; En vigueur : 01-04-2003&gt; Les biens, les droits et obligations, le personnel engagé par les comités subrégionaux de l'emploi et de la formation sont transférés à l'Office, à la date d'entrée en vigueur de l'arrêté du Gouvernement réglant les modalités de transfert.
+
+La cession est opposable aux tiers sans autre formalité dès l'entrée en vigueur du présent décret.
+
+#### Art. 59
+
+(voir NOTE sous INTITULE) &lt;DRW 2003-03-13/37, art. 47, 002; En vigueur : 01-04-2003&gt; Sont dénoncés :
+
+1° l'accord de coopération instituant les comités subrégionaux de l'emploi et de la formation, conclu à Bruxelles le 24 novembre 1989, entre l'Exécutif de la Communauté française et l'Exécutif régional wallon;
+
+2° l'accord de coopération déterminant les modalités relatives aux subventions, au personnel et au contrôle des comités subrégionaux de l'emploi et de la formation, ainsi que leur ressort territorial, conclu à Bruxelles le 18 mars 1990 entre l'Exécutif de la Communauté française et l'Exécutif régional wallon;
+
+3° l'accord de coopération déterminant les modalités de subvention des comités subrégionaux de l'emploi et de la formation, conclu à Bruxelles le 27 décembre 1993 entre l'Exécutif de la Communauté française et l'Exécutif de la Région wallonne.
+
+#### Art. 60
+
+(voir NOTE sous INTITULE) Dans toutes les dispositions légales ou réglementaires en vigueur, il y a lieu de lire " Office wallon de la Formation professionnelle et de l'Emploi " en lieu et place de " Office communautaire et régional de la Formation professionnelle et de l'Emploi ".
+
+#### Art. 61
+
+[<sup>1</sup> Le Gouvernement peut modifier les montants prévus aux articles 12, § 1er, alinéa 1er, 11°, 20, 3° et 23, § 2, 9° et § 4 du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-05-10/05, art. 57, 009; En vigueur : indéterminée et au plus tard le 01-01-2013&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 6 mai 1999.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, du Commerce extérieur, des P.M.E., du Tourisme et du Patrimoine,
+
+R. COLLIGNON
+
+Le Ministre de l'Aménagement du territoire, de l'Equipement et des Transports,
+
+M. LEBRUN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+B. ANSELME
+
+Le Ministre du Budget et des Finances, de l'Emploi et de la Formation,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de la Recherche, du Développement technologique, du Sport et des Relations internationales,
+
+W. ANCION

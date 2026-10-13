@@ -1,0 +1,61 @@
+---
+title: "Décret portant assentiment au Protocole à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats-membres, d'une part, et la République de Moldavie, d'autre part, fait à Bruxelles le 15 mai 1997."
+identifier: "1999027188"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/25/1999027188/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1999-02-25
+published: 1999-03-12
+entry_into_force: 1999-03-22
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/25/1999027188/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 25 FEVRIER 1999. - Décret portant assentiment au Protocole à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats-membres, d'une part, et la République de Moldavie, d'autre part, fait à Bruxelles le 15 mai 1997.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière visée aux articles 127 et 128 de la Constitution en vertu de l'article 138 de celle-ci.
+
+## Art. 2
+
+Le Protocole à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats-membres, d'une part, et la République de Moldavie, d'autre part, fait à Bruxelles, le 15 mai 1997 sortira son plein et entier effet, en ce qui concerne la Région wallonne.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 25 février 1999.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, du Commerce extérieur, des P.M.E., du Tourisme et du Patrimoine,
+
+R. COLLIGNON
+
+Le Ministre de l'Aménagement du territoire, de l'Equipement et des Transports,
+
+M. LEBRUN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+B. ANSELME
+
+Le Ministre du Budget et des Finances, de l'Emploi et de la Formation,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de la Recherche, du Développement technologique, du Sport et des Relations internationales,
+
+W. ANCION

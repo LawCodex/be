@@ -1,0 +1,4069 @@
+---
+title: "Décret relatif au permis d'environnement."
+identifier: "1999027439"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/11/1999027439/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1999-03-11
+published: 1999-06-08
+entry_into_force: 2002-10-01
+last_amended: 2026-04-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/11/1999027439/justel"
+department: "Région Wallonne"
+justel_notes:
+  - "art. 14 ; 15 ; 16 ; 18 ; 19 ; 20 ; 23 ; 35 ; 37 ; 38 ; 40 ; 45 ; 50 ; 53 ; 55 ; 58 ; 60 ; 65 ; 70 ; 71 ; 76quater ; 82 ; 84 ; 85 ; 86 ; 92 ; 93 ; 94 ; 94bis ; 95 ; 176 ; 177 modifiés avec effet à une date indéterminée par DRW 2018-05-24/14 , art. 3 et s., 036; En vigueur : indéterminée "
+  - "Consultation des versions antérieures à partir du 08-06-1999 et mise à jour au 21-04-2026"
+retrieved: 2026-10-12
+---
+
+# 11 MARS 1999. - Décret relatif au permis d'environnement.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales.
+
+### Section 1. - Définitions.
+
+##### Art. 1
+
+Pour l'application du présent décret, on entend par :
+
+1° permis d'environnement : la décision de l'autorité compétente, sur base de laquelle l'exploitant peut exploiter, déplacer, transformer ou étendre un établissement de première ou deuxième classe, pour une durée et à des conditions déterminées;
+
+2° déclaration : l'acte par lequel le déclarant porte à la connaissance de l'autorité compétente, dans les formes prévues par le présent décret, son intention d'exploiter un établissement de classe 3;
+
+3° [<sup>6</sup> établissement : unité technique et géographique dans laquelle interviennent une ou plusieurs installations et/ou activités classées pour la protection de l'environnement, ainsi que toute autre installation et/ou activité s'y rapportant directement et qui est susceptible d'avoir des incidences sur les émissions et la pollution. Un établissement dans lequel intervient une ou plusieurs installations ou activités classées implantées à proximité d'installations ou activités similaires, mais n'ayant pas de liens d'interdépendance les unes par rapport aux autres sur le plan matériel ou fonctionnel, constitue un établissement distinct de l'établissement existant;]<sup>6</sup>
+
+4° établissement temporaire : tout établissement appelé qui, par nature, est temporaire et dont la durée d'exploitation continue n'excède pas :
+
+a. (trois ans s'il s'agit :
+
+1\. soit d'un établissement nécessaire à un chantier de construction;
+
+2\. soit d'un établissement destiné à l'extraction ou à la valorisation de roches ornementales à partir d'une carrière ayant été exploitée ou en activité et nécessaire à un chantier de rénovation, de transformation, d'agrandissement ou de reconstruction d'un immeuble dans le respect du site bâti;
+
+3\. soit de la transformation ou de l'extension d'une carrière et, le cas échéant, de ses dépendances, dûment autorisées, lorsque cette transformation ou cette extension est requise pour faire face à des besoins momentanés d'intérêt public.) &lt;DRW 2002-07-04/41, art. 12, 005; En vigueur : 01-10-2002&gt;
+
+b. la durée de la remise en état des lieux lorsqu'il s'agit d'un établissement destiné à la remise en état d'un site pollué;
+
+c. trois mois ou une durée moindre fixée par le Gouvernement pour les établissements qu'il désigne;
+
+5° établissement d'essai : tout établissement appelé à fonctionner pendant une durée n'excédant pas six mois et qui sert exclusivement ou essentiellement à la mise au point ou à l'essai de nouvelles méthodes ou produits;
+
+6° établissement mobile : toute installation, désignée par le Gouvernement, conçue pour être exploitée à différents endroits et dont la durée d'exploitation sur un même site ne dépasse pas un an;
+
+7° exploitation : la mise en place, la mise en service, le maintien en place, le maintien en service, l'entretien ou l'utilisation d'un établissement;
+
+8° exploitant : toute personne qui exploite un établissement classé, ou pour le compte de laquelle un établissement classé est exploité. Pendant la procédure de délivrance du permis, le demandeur est assimilé à l'exploitant;
+
+9° déclarant : la personne qui fait une déclaration;
+
+10° projet : l'établissement envisagé pour lequel un permis d'environnement ou une déclaration est requis;
+
+11° projet mixte : le projet pour lequel il apparaît, au moment de l'introduction de la demande de permis, que sa réalisation requiert [<sup>5</sup> uniquement]<sup>5</sup> un permis d'environnement et un permis d'urbanisme;
+
+12° permis unique : la décision de l'autorité compétente relative à un projet mixte, délivrée à l'issue de la procédure visée au Chapitre XI, qui tient lieu de permis d'environnement au sens de l'article 1er, 1°, du présent décret et de permis d'urbanisme au sens [<sup>7</sup> de l'article D.IV.4 du CoDT]<sup>7</sup>;
+
+13° remise en état : ensemble d'opérations, en vue de la réintégration de l'établissement dans l'environnement eu égard à la réaffectation de celui-ci à un usage fonctionnel et/ou en vue de la suppression des risques de pollution à partir de celui-ci; [<sup>3</sup> la remise en état est, pour le sol, celle qui découle des obligations [<sup>8</sup> visées à l'article 19 du décret du 1er mars 2018 relatif à la gestion et à l'assainissement des sols]<sup>8</sup>;]<sup>3</sup>
+
+14° dossier d'évaluation des incidences sur l'environnement : la notice d'évaluation ou l'étude d'incidences requises en vertu de la législation organisant l'évaluation des incidences sur l'environnement dans la Région wallonne;
+
+15° autorité compétente : l'autorité habilitée à recevoir la déclaration ou à délivrer le permis d'environnement;
+
+16° fonctionnaire technique : le ou les fonctionnaires désignés par le Gouvernement;
+
+17°[<sup>7</sup> CoDT : le Code du développement territorial;]<sup>7</sup>
+
+18° fonctionnaire délégué : le fonctionnaire délégué par le Gouvernement au sens du [<sup>7</sup> CoDT]<sup>7</sup>;
+
+19° meilleures techniques disponibles [<sup>4</sup> ci-après dénommé MTD]<sup>4</sup> : le stade de développement le plus efficace et avancé des installations et activités et de leurs modes de conception, de construction, d'exploitation [<sup>4</sup> , d'entretien et de mise à l'arrêt]<sup>4</sup> démontrant l'aptitude pratique de techniques particulières à constituer, en principe, la base des valeurs limites d'émission [<sup>4</sup> et d'autres conditions d'exploitation]<sup>4</sup> visant à éviter et, lorsque cela s'avère impossible, à réduire de manière générale les émissions et leur impact sur l'environnement dans son ensemble, à condition que ces techniques soient mises au point sur une échelle permettant de les appliquer dans le secteur industriel concerné, dans des conditions économiquement et techniquement viables [<sup>4</sup> , que ces techniques soient utilisées ou produites ou non sur le territoire de la Région, ]<sup>4</sup> et soient accessibles dans des conditions raisonnables. [<sup>4</sup> On entend par meilleures techniques, celles qui sont les plus efficaces pour atteindre un niveau général élevé de protection de l'environnement dans son ensemble]<sup>4</sup>;
+
+[<sup>1</sup> Les éléments à prendre en considération lors de la détermination des meilleures techniques disponibles compte tenu des coûts et des avantages pouvant résulter d'une action et des principes de précaution et de prévention sont :
+
+a. l'utilisation de techniques produisant peu de déchets;
+
+b. l'utilisation de substances moins dangereuses;
+
+c. le développement des techniques de récupération et de recyclage des substances émises et utilisées dans le procédé et des déchets, le cas échéant;
+
+d. les procédés, les équipements ou les modes d'exploitation comparables qui ont été expérimentés avec succès à une échelle industrielle;
+
+e. les progrès techniques et l'évolution des connaissances scientifiques;
+
+f. la nature, les effets et le volume des émissions concernées;
+
+g. les dates de mise en service des établissements;
+
+h. la durée nécessaire à la mise en place d'une meilleure technique disponible;
+
+i. la consommation et la nature des matières premières (y compris l'eau) utilisées dans le procédé et l'efficacité énergétique;
+
+j. la nécessité de prévenir ou de réduire à un minimum l'impact global des émissions et des risques sur l'environnement;
+
+k. la nécessité de prévenir les accidents et d'en réduire les conséquences sur l'environnement;
+
+l. les informations publiées par la Commission européenne au sujet des meilleures techniques disponibles, des prescriptions de contrôle y afférentes et de leur évolution ou des organisations internationales [<sup>4</sup> publiques]<sup>4</sup> ;]<sup>1</sup>
+
+[<sup>4</sup> 19°bis conclusions sur les MTD : le document contenant les parties d'un document de référence MTD exposant les conclusions concernant les meilleures techniques disponibles, leur description, les informations nécessaires pour évaluer leur applicabilité, les niveaux d'émission associés aux meilleures techniques disponibles, les mesures de surveillance associées, les niveaux de consommation associés et, s'il y a lieu, les mesures pertinentes de remise en état du site;]<sup>4</sup>
+
+[<sup>4</sup> 19°ter document de référence MTD : le document issu de l'échange d'informations organisé entre les Etats membres de l'Union européenne, les secteurs industriels concernés, les organisations non gouvernementales oeuvrant pour la protection de l'environnement et la Commission européenne, établi pour des activités définies et décrivant, notamment, les techniques mises en oeuvre, les émissions et les niveaux de consommation du moment, les techniques envisagées pour la définition des meilleures techniques disponibles, ainsi que les conclusions sur les MTD et toute technique émergente, en accordant une attention particulière aux critères énumérés à l'article 1er, 19°;]<sup>4</sup>
+
+20° pollution : l'introduction directe ou indirecte, par l'activité humaine, de substances, de vibrations, de chaleur, de bruit dans l'eau, l'air ou le sol, susceptibles de porter atteinte à la santé humaine ou à la qualité de l'environnement, d'entraîner des détériorations aux biens, une détérioration ou une entrave à l'agrément de l'environnement ou à d'autres utilisations légitimes de ce dernier;
+
+[<sup>4</sup> 20°bis substance : tout élément chimique et ses composés, à l'exclusion des substances suivantes :
+
+a) les substances radioactives, telles que définies à l'article 2, 1°, de l'arrêté royal du 20 juillet 2001 portant règlement général de la protection de la population, des travailleurs et de l'environnement contre le danger des rayonnements ionisants;
+
+b) les micro-organismes génétiquement modifiés, tels que définis à l'article 2, 8°, de l'arrêté du Gouvernement wallon du 4 juillet 2002 déterminant les conditions sectorielles et intégrales relatives aux utilisations confinées d'organismes génétiquement modifiés ou pathogènes;
+
+c) les organismes génétiquement modifiés tels que définis à l'article 2, 2°, de l'arrêté royal du 21 février 2005 réglementant la dissémination volontaire dans l'environnement ainsi que la mise sur le marché d'organismes génétiquement modifiés ou de produits en contenant;]<sup>4</sup>
+
+21° émission : le rejet direct ou indirect, à partir de sources ponctuelles ou diffuses de l'établissement, de substances, de vibrations, de chaleur ou de bruit dans l'air, l'eau ou le sol.
+
+[<sup>4</sup> 21°bis valeur limite d'émission : la masse, exprimée en fonction de certains paramètres spécifiques, la concentration et/ou le niveau d'une émission, à ne pas dépasser au cours d'une ou de plusieurs périodes données;]<sup>4</sup>
+
+[<sup>4</sup> 21°ter niveaux d'émission associés aux meilleures techniques disponibles : la fourchette de niveaux d'émission obtenue dans des conditions d'exploitation normales en utilisant une des meilleures techniques disponibles ou une combinaison de meilleures techniques disponibles conformément aux indications figurant dans les conclusions sur les MTD, exprimée en moyenne sur une période donnée, dans des conditions de référence spécifiées;]<sup>4</sup>
+
+[<sup>4</sup> 21°quater norme de qualité environnementale : la série d'exigences devant être satisfaites à un moment donné par un environnement donné ou dans une partie spécifique de celui-ci, telles que spécifiées dans les législations en vigueur;]<sup>4</sup>
+
+[22° post-gestion d'un centre d'enfouissement technique : les obligations d'entretien, de surveillance, et de contrôle mises à charge de l'exploitant du centre d'enfouissement technique suite à sa remise en état.] &lt;DRW 2002-09-19/31, art. 5, 007; En vigueur : 01-10-2002&gt;
+
+[<sup>1</sup> 23° donnée environnementale : toute information relative aux émissions et aux transferts hors établissement ainsi que toute autre information figurant au formulaire déterminé par le Gouvernement;
+
+24° transfert hors établissement : l'enlèvement, hors des limites de l'établissement, de déchets à des fins d'élimination ou de valorisation et des polluants présents dans les eaux usées destinées à être traitées.]<sup>1</sup>
+
+[<sup>2</sup> 25° " plan d'intervention " : l'ensemble des mesures de sécurité permettant, à titre conservatoire, de maîtriser la menace ou les effets d'une pollution jusqu'à ce que les sources de dangers ou de pollutions en aient été retirées, en ce compris par une évaluation des risques sanitaires.]<sup>2</sup>
+
+[<sup>4</sup> 26° eaux souterraines : les eaux telles que définies à l'article D. 2, 38°, du Livre II du Code de l'Environnement, contenant le Code de l'Eau;]<sup>4</sup>
+
+[<sup>4</sup> 27° sol : la couche superficielle de l'écorce terrestre située entre le substratum rocheux et la surface, constituée de particules minérales, de matières organiques, d'eau, d'air et d'organismes vivants;]<sup>4</sup>
+
+[<sup>4</sup> 28° technique émergente : une technique nouvelle pour une activité industrielle, qui, si elle était développée à l'échelle commerciale, pourrait permettre soit d'atteindre un niveau général de protection de l'environnement plus élevé, soit d'atteindre au moins le même niveau de protection de l'environnement et de réaliser des économies plus importantes que les meilleures techniques disponibles recensées;]<sup>4</sup>
+
+[<sup>4</sup> 29° inspection environnementale : l'ensemble des actions, notamment les visites des établissements, la surveillance des émissions et le contrôle des rapports internes et documents de suivi, la vérification des opérations d'auto-surveillance, le contrôle des techniques utilisées et de l'adéquation de la gestion environnementale de l'établissement, effectuées par le fonctionnaire technique ou en son nom afin de contrôler et d'encourager la conformité des établissements aux conditions d'exploitation et, au besoin, de surveiller leurs incidences sur l'environnement.]<sup>4</sup>
+
+[<sup>9</sup> 34° rééquipement : la rénovation des centrales électriques produisant de l'énergie renouvelable, notamment le remplacement total ou partiel des installations ou des systèmes et des équipements d'exploitation, dans le but d'en modifier la capacité ou d'augmenter l'efficacité ou la capacité de l'installation;]<sup>9</sup>
+
+[<sup>9</sup> 35° énergie renouvelable : une énergie produite à partir de sources non fossiles renouvelables, à savoir l'énergie éolienne, l'énergie solaire (solaire thermique et solaire photovoltaïque) et géothermique, l'énergie osmotique, l'énergie ambiante, l'énergie marémotrice, houlomotrice et d'autres énergies marines, l'énergie hydroélectrique, la biomasse, les gaz de décharge, les gaz des stations d'épuration d'eaux usées et le biogaz. ]<sup>9</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 2, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2008-06-05/36, art. 10, 018; En vigueur : 06-02-2009&gt;
+
+(3)&lt;DRW 2008-12-05/75, art. 77, 020; En vigueur : 18-05-2009&gt;
+
+(4)&lt;DRW 2013-10-24/11, art. 2, 028; En vigueur : 18-02-2014&gt;
+
+(5)&lt;DRW 2015-02-05/07, art. 106, 032; En vigueur : 01-06-2015&gt;
+
+(6)&lt;DRW 2016-06-23/09, art. 84, 033; En vigueur : 01-01-2016&gt;
+
+(7)&lt;DRW 2016-07-20/46, art. 18, 035; En vigueur : 01-06-2017&gt;
+
+(8)&lt;DRW 2018-03-01/32, art. 84, 037; En vigueur : 01-01-2019&gt;
+
+(9)&lt;DRW 2024-04-29/25, art. 2, 049; En vigueur : 01-11-2024&gt;
+
+### Section 2. - Champ d'application.
+
+##### Art. 2
+
+[<sup>1</sup> Dans une optique d'approche intégrée de prévention et de réduction de la pollution et de garantie des standards en matière de bien-être animal, le présent décret vise à assurer la protection de l'homme ou de l'environnement contre les dangers, nuisances ou inconvénients qu'un établissement est susceptible de causer, directement ou indirectement, pendant ou après l'exploitation, et à assurer le bien-être des animaux lorsqu'ils font l'objet des installations et activités de l'établissement visé.]<sup>1</sup>
+
+Le présent décret vise notamment à contribuer à la poursuite des objectifs de préservation des équilibres climatiques, de la qualité de l'eau, de l'air, des sols, du sous-sol, de la biodiversité et de l'environnement sonore, et à contribuer à la gestion rationnelle de l'eau, du sol, du sous-sol, de l'énergie et des déchets.
+
+[<sup>2</sup> La construction et l'exploitation d'installations d'énergie renouvelable, le raccordement de ces installations au réseau, le réseau connexe proprement dit et les actifs de stockage sont présumés relever de l'intérêt public majeur et de l'intérêt de la santé et de la sécurité publiques lors de la mise en balance des intérêts juridiques dans les cas individuels aux fins des articles 6, § 4, et 16, § 1er, c), de la directive 92/43/CEE du 21 mai 1992 concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages, de l'article 4, § 7, de la directive 2000/60/CE du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau et de l'article 9, § 1er, a), de la directive 2009/147/CE du 30 novembre 2009 concernant la conservation des oiseaux sauvages.]<sup>2</sup>
+
+[<sup>2</sup> Dans des circonstances spécifiques dûment justifiées, le Gouvernement peut restreindre l'application de l'alinéa précédent à certaines parties du territoire, à certains types de technologie ou à des projets présentant certaines caractéristiques techniques conformément aux priorités définies dans le Plan Air Climat Energie visé dans le décret du 16 novembre 2023 Neutralité Carbone.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2018-10-04/15, art. 2, 039; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DRW 2024-04-29/25, art. 3, 049; En vigueur : 01-11-2024&gt;
+
+##### Art. 3
+
+Les installations et activités sont répertoriées dans des rubriques et réparties en trois classes (classe 1, classe 2 et classe 3) selon l'importance décroissante de leurs impacts sur l'homme et sur l'environnement ainsi que leur aptitude à être encadrées par des conditions générales, sectorielles ou intégrales.
+
+La troisième classe regroupe les installations et activités ayant un impact peu important sur l'homme et sur l'environnement pour lesquelles le Gouvernement (peut édicter) des conditions intégrales. &lt;DRW 2005-02-03/39, art. 138, 012; En vigueur : 11-03-2005&gt;
+
+La classe de l'établissement est déterminée par l'installation ou l'activité qu'il contient qui a le plus d'impact sur l'homme ou l'environnement.
+
+La liste et la classification des installations et activités sont établies par le Gouvernement. Lorsqu'il modifie la liste et la classification des installations et activités, le Gouvernement motive sa décision.
+
+[<sup>1</sup> Le Gouvernement peut édicter des critères permettant au déclarant de déterminer si l'établissement en projet de classe 3 est en mesure de respecter les conditions intégrales. Si tel n'est pas le cas, l'établissement en projet passe en classe 2 et le déclarant introduit une demande de permis d'environnement en classe 2. Dans ce cas, le Gouvernement détermine les informations à joindre à la demande de permis d'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 3, 017; En vigueur : 17-12-2007&gt;
+
+##### Art. 3bis
+
+[<sup>1</sup> Quel que soit le classement des installations et activités tel que prévu à l'article 3, les installations et activités respectent les normes en matière de bien-être animal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-10-04/15, art. 3, 039; En vigueur : 01-01-2019&gt;
+
+### Section 3. - Conditions générales, sectorielles, intégrales et particulières.
+
+##### Art. 4
+
+Le Gouvernement arrête les conditions générales, sectorielles ou intégrales en vue d'atteindre les objectifs visés à l'article 2. Elles ont valeur réglementaire.
+
+Les conditions générales, sectorielles et intégrales sont fixées sur base des lignes directrices à moyen et à long terme déterminées par le Plan d'environnement pour un développement durable et par des programmes sectoriels prévus par le décret du 21 avril 1994 relatif à la planification en matière d'environnement dans le cadre du développement durable.
+
+Ces conditions peuvent notamment porter sur :
+
+1° la constitution de garanties financières et l'obligation de souscrire une police d'assurance;
+
+2° la compétence et les qualifications du personnel, et notamment l'obligation d'être titulaire d'un agrément;
+
+3° les informations à fournir régulièrement aux autorités que le Gouvernement désigne et portant sur :
+
+a. les émissions de l'établissement;
+
+b. les mesures prises pour réduire les nuisances sur l'environnement;
+
+c. les mesures prises en matière de formation du personnel de l'établissement et d'information des riverains de l'établissement;
+
+4° la surveillance des rejets, spécifiant la méthodologie de mesure et leur fréquence, la procédure d'évaluation des mesures et l'obligation de fournir à l'autorité compétente les données nécessaires au respect des conditions d'exploiter. [<sup>1</sup> Pour ce qui concerne les établissements dans lesquels interviennent une ou plusieurs installations et activités émettant des gaz à effet de serre, les plans de surveillance font l'objet d'une approbation et, le cas échéant, de modifications par l'Agence wallonne de l'Air et du Climat. Un recours est ouvert auprès du Gouvernement contre ces décisions. Le Gouvernement détermine les modalités d'instruction et de délais du recours.]<sup>1</sup>
+
+5° la réduction, la minimisation ou la suppression de la pollution en ce compris la pollution à longue distance ou transfrontalière;
+
+6° des prescriptions relatives aux démarrage, fuites, dysfonctionnements, arrêts momentanés et arrêt définitif de l'exploitation;
+
+7° l'obligation pour l'exploitant de remise en état au terme du permis d'environnement ou de la déclaration, ou en cas de suspension ou de retrait du permis d'environnement ou de décision ordonnant la suspension ou l'interdiction d'exploiter un établissement soumis à déclaration, sans préjudice des dispositions du [<sup>3</sup> CoDT]<sup>3</sup>;
+
+8° la gestion des déchets générés par l'établissement;
+
+[<sup>2</sup> 9° l'obligation faite à l'exploitant de grande surface de distribution de proposer les invendus alimentaires à au moins une association active dans le secteur de l'aide alimentaire.]<sup>2</sup>
+
+[<sup>4</sup> 10° le cas échéant, l'amélioration des conditions de détention des animaux faisant l'objet des installations et des activités et les informations à fournir régulièrement aux autorités que le Gouvernement désigne et portant sur :
+
+a. les mesures prises pour assurer les besoins des animaux visés;
+
+b. les mesures prises en matière de formation du personnel de l'établissement au bien-être animal.]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2013-10-24/11, art. 3, 028; En vigueur : 16-11-2013&gt;
+
+(2)&lt;DRW 2014-03-13/01, art. 1, 030; En vigueur : 05-04-2014&gt;
+
+(3)&lt;DRW 2016-07-20/46, art. 19, 035; En vigueur : 01-06-2017&gt;
+
+(4)&lt;DRW 2018-10-04/15, art. 4, 039; En vigueur : 01-01-2019&gt;
+
+##### Art. 5
+
+§ 1er. Les conditions générales s'appliquent à l'ensemble des installations et activités.
+
+§ 2. Les conditions sectorielles s'appliquent aux installations et activités d'un secteur économique, territorial ou dans lequel un risque particulier apparaît ou peut apparaître.
+
+Les secteurs sont désignés par le Gouvernement. Il peut aussi limiter ou interdire la présence d'installations ou d'activités déterminées à certains endroits pour des raisons liées à la protection de l'homme ou de l'environnement [<sup>1</sup> ou liées au bien-être animal]<sup>1</sup>.
+
+Les conditions sectorielles complètent les conditions générales et, moyennant motivation, peuvent s'en écarter.
+
+§ 3. Les conditions intégrales consistent en un ensemble de prescriptions visant à éviter ou à limiter toute forme de nuisance, danger ou inconvénient que l'installation ou l'activité est susceptible de causer à l'homme ou à l'environnement [<sup>1</sup> , et, le cas échéant, à garantir le bien-être des animaux visés par l'installation ou l'activité]<sup>1</sup>.
+
+Les conditions intégrales s'appliquent aux installations de classe 3. Elles peuvent déroger aux conditions générales et sectorielles.
+
+En cas de dérogation, le résultat escompté pour la protection de l'homme ou de l'environnement [<sup>1</sup> ou pour la protection animale]<sup>1</sup> doit être au moins équivalent à celui qui serait obtenu s'il n'y avait pas dérogation.
+
+----------
+
+(1)&lt;DRW 2018-10-04/15, art. 5, 039; En vigueur : 01-01-2019&gt;
+
+##### Art. 6
+
+L'autorité compétente peut prescrire des conditions particulières qui complètent les conditions générales et sectorielles dans le permis d'environnement. Ces conditions particulières ne peuvent être moins sévères que les conditions générales et sectorielles sauf dans les cas et limites arrêtés par ces dernières .
+
+En cas de dérogation, le résultat escompté pour la protection de l'homme ou de l'environnement [<sup>2</sup> ou pour la protection animale]<sup>2</sup> doit être au moins équivalent à celui qui serait obtenu s'il n'y avait pas dérogation [<sup>1</sup> , sous réserve de l'application de l'article 7bis, § 2]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2013-10-24/11, art. 4, 028; En vigueur : 18-02-2014&gt;
+
+(2)&lt;DRW 2018-10-04/15, art. 6, 039; En vigueur : 01-01-2019&gt;
+
+##### Art. 7
+
+§ 1er. Lorsqu'il arrête des conditions générales, sectorielles ou intégrales, le Gouvernement veille au respect des valeurs impératives et tient compte des valeurs guides d'immission.
+
+§ 2. Lorsqu'elle prescrit des conditions particulières, l'autorité compétente veille également au respect des valeurs impératives et tient également compte des valeurs guides.
+
+En ce qui concerne l'observation des valeurs guides, l'autorité compétente prend notamment en considération les caractéristiques particulières de l'établissement et du milieu dans lequel il serait exploité, l'existence ou l'absence d'autres établissements ou établissements en projet, la nécessité d'assurer une répartition équitable [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> Le cas échéant, les valeurs guides peuvent être complétées ou remplacées par des paramètres ou des mesures techniques équivalents.]<sup>1</sup>
+
+L'autorité compétente est tenue, lorsqu'elle fixe les conditions particulières, de se référer aux instructions techniques arrêtées par le Gouvernement selon les modalités fixées par celui-ci.
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 4, 017; En vigueur : 17-12-2007&gt;
+
+##### Art. 7bis
+
+[<sup>1</sup> § 1er. Pour les installations et activités désignées par le Gouvernement, l'autorité compétente fixe des valeurs limites d'émission garantissant que les émissions, dans des conditions d'exploitation normales, n'excèdent pas les niveaux d'émission associés aux meilleures techniques disponibles telles que décrites dans les décisions concernant les conclusions sur les MTD :
+
+1° soit en fixant des valeurs limites d'émission qui n'excèdent pas les niveaux d'émission associés aux meilleures techniques disponibles. Ces valeurs limites d'émission sont exprimées pour les mêmes périodes, ou pour des périodes plus courtes, et pour les mêmes conditions de référence que lesdits niveaux d'émission associés aux meilleures techniques disponibles;
+
+2° soit en fixant des valeurs limites d'émission différentes de celles visées au 1° en termes de valeurs, de périodes et de conditions de référence.
+
+En cas d'application du 2°, le fonctionnaire technique évalue, au moins une fois par an, les résultats de la surveillance des émissions afin de garantir que les émissions, dans des conditions d'exploitation normales, n'ont pas excédé les niveaux d'émission associés aux meilleures techniques disponibles. Le fonctionnaire technique communique à l'autorité compétente les résultats de l'évaluation.
+
+§ 2. Par dérogation au § 1er et sans préjudice de l'article 56, alinéa 2, l'autorité compétente peut, dans des cas particuliers, fixer des valeurs limites d'émission moins strictes. La dérogation ne s'applique que si une évaluation montre que l'obtention des niveaux d'émission associés aux meilleures techniques disponibles, conformément aux indications figurant dans les conclusions sur les MTD, entraînerait une hausse des coûts disproportionnée au regard des avantages pour l'environnement, en raison :
+
+1° de l'implantation géographique de l'établissement concerné ou des conditions locales de l'environnement; ou
+
+2° des caractéristiques techniques de l'établissement concerné.
+
+L'autorité compétente fournit, en annexe aux conditions particulières d'exploitation, les raisons de l'application de l'alinéa 1er, y compris le résultat de l'évaluation et la justification des conditions imposées.
+
+Les valeurs limites d'émission établies en vertu de l'alinéa 1er n'excèdent toutefois pas les valeurs limites d'émission arrêtées par le Gouvernement.
+
+En tout état de cause, l'autorité compétente veille à ce qu'aucune pollution importante ne soit provoquée et que soit atteint un niveau élevé de protection de l'environnement dans son ensemble.
+
+L'autorité compétente réévalue l'application de l'alinéa 1er lors de chaque réexamen des conditions particulières d'exploitation selon les modalités fixées par le Gouvernement.
+
+§ 3. L'autorité compétente peut accorder des dérogations au § 1er et aux articles 56 et 56bis, en cas d'expérimentation et d'utilisation de techniques émergentes pour une durée totale ne dépassant pas neuf mois, à condition que, à l'issue de la période prévue, l'utilisation de ces techniques ait cessé ou que les émissions de l'activité respectent au minimum les niveaux d'émission associés aux meilleures techniques disponibles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-10-24/11, art. 5, 028; En vigueur : 18-02-2014&gt;
+
+##### Art. 8
+
+Les conditions générales, sectorielles et intégrales arrêtées par le Gouvernement sont fondées sur les meilleures techniques disponibles [<sup>1</sup> et actualisées en fonction de l'évolution de celles-ci]<sup>1</sup> , sans prescrire l'utilisation d'une technique ou d'une technologie spécifique, et en prenant en considération les caractéristiques de l'installation concernée, son implantation géographique et les conditions locales de l'environnement.
+
+----------
+
+(1)&lt;DRW 2013-10-24/11, art. 6, 028; En vigueur : 18-02-2014&gt;
+
+##### Art. 8bis
+
+[<sup>1</sup> Le fonctionnaire technique se tient informé de l'évolution des meilleures techniques disponibles, ainsi que de la publication de tout nouveau document de référence MTD visant une installation ou activité désignée par le Gouvernement ou de toute révision d'un de ces documents.
+
+Ces informations sont rendues accessibles au public. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-10-24/11, art. 7, 028; En vigueur : 18-02-2014&gt;
+
+##### Art. 9
+
+Lorsqu'il arrête, modifie ou complète des conditions générales, sectorielles et intégrales, le Gouvernement précise le délai dans lequel les nouvelles conditions s'appliquent aux établissements existants. A défaut de précision, les nouvelles conditions ne s'appliquent qu'aux établissements autorisés ou déclarés postérieurement à leur entrée en vigueur.
+
+### Section 4. - Faits générateurs de l'obligation d'obtenir un permis ou de faire une déclaration.
+
+##### Art. 10
+
+§ 1er. Nul ne peut exploiter sans un permis d'environnement un établissement de classe 1 ou de classe 2 (à l'exception des cas visés à l'article 3 du décret du 27 juin 1996 relatif aux déchets). &lt;DRW 2001-02-15/31, art. 3; En vigueur : 10-07-2001; noter toutefois que la date d'entrée en vigueur du DRW 1999-03-11/39 n'est pas encore fixée au moment où le texte modificatif DRW 2001-02-15/31 entre lui-même en vigueur&gt;
+
+Sont également soumis à permis :
+
+1° le déplacement d'un établissement de classe 1 ou de classe 2;
+
+2° la transformation ou l'extension d'un établissement de classe 1 ou de classe 2, lorsqu'elle entraîne l'application d'une nouvelle rubrique de classement autre que de classe 3 ou lorsqu'elle est de nature à aggraver directement ou indirectement des dangers, nuisances ou inconvénients à l'égard de l'homme ou de l'environnement [<sup>6</sup> ou lorsqu'elle accroît le nombre d'animaux faisant l'objet de l'établissement]<sup>6</sup> [<sup>11</sup> [<sup>12</sup> et que cet accroissement est de nature à porter atteinte au bien-être des animaux]<sup>12</sup>]<sup>11</sup>.
+
+[<sup>1</sup> Sans préjudice d'autres législations et règlements, [<sup>2</sup> et de l'alinéa 4 et 5]<sup>2</sup> la procédure d'instruction du permis est déterminée par la classe de la rubrique de classement correspondant à la transformation ou à l'extension de l'établissement.]<sup>1</sup> [<sup>2</sup> Toutefois, lorsqu'il s'agit d'une transformation ou d'une extension de nature à aggraver directement ou indirectement des dangers, nuisances ou inconvénients à l'égard de l'homme ou de l'environnement, la procédure d'instruction du permis est celle applicable aux établissements de classe 2.]<sup>2</sup>
+
+[<sup>13</sup> Par dérogation à l'alinéa 3, lorsqu'il s'agit d'une transformation ou d'une extension d'un établissement soumis à l'accord de coopération du 16 février 2016 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses, les délais de la procédure d'instruction du permis sont ceux applicables aux établissements de classe 1]<sup>13</sup>.
+
+[<sup>2</sup> Dans le cas où une étude d'incidences sur l'environnement a été imposée en application des articles D. 66, § 2 et D. 68 du livre 1er du Code de l'Environnement, la procédure d'instruction de la demande est celle applicable aux établissements de classe 1.]<sup>2</sup>
+
+§ 2. Toute transformation ou extension d'un établissement de classe 1 ou de classe 2 non visée au § 1er, alinéa 2, et affectant le descriptif ou les plans annexés au permis (ou encore une source d'émission de gaz à effet de serre [<sup>3</sup> ...]<sup>3</sup>) doit être consignée par l'exploitant dans un registre. &lt;DRW 2004-11-10/42, art. 17, 011; En vigueur : 02-12-2004&gt;
+
+[<sup>3</sup> En ce qui concerne les établissements dans lesquels interviennent une ou plusieurs installations ou activités émettant des gaz à effet de serre, les modifications du plan de surveillance faites par l'exploitant ainsi que celles approuvées ou apportées par l'Agence wallonne de l'air et du climat sont annexées au registre.]<sup>3</sup>
+
+Conformément au Chapitre IX, les fonctionnaires et agents désignés par le Gouvernement ont accès à ce registre sur simple demande.
+
+Le Gouvernement fixe la périodicité et le délai endéans lequel l'exploitant envoie copie de la liste des transformations ou extensions intervenues au fonctionnaire technique et au [<sup>3</sup> collège communal]<sup>3</sup> de la commune sur le territoire de laquelle est situé l'établissement (et à [<sup>3</sup> l'Agence wallonne de l'Air et du Climat]<sup>3</sup> si la transformation ou l'extension affecte [<sup>3</sup> ...]<sup>3</sup> une source d'émission de gaz à effet de serre [<sup>3</sup> ...]<sup>3</sup>). &lt;DRW 2004-11-10/42, art. 17, 011; En vigueur : 02-12-2004&gt;
+
+Dans un délai de quinze jours à dater de la réception de la liste visée à l'alinéa 2, s'il estime qu'une transformation ou extension mentionnée dans la liste correspond à une transformation ou extension visée au § 1er, alinéa 2, 2°, le fonctionnaire technique ou le Collège invite l'exploitant à introduire sans délai une demande de permis d'environnement.
+
+[<sup>3</sup> A défaut, le fonctionnaire technique annexe le nouveau plan de surveillance à l'autorisation d'émettre.]<sup>3</sup>
+
+§ 3. En cas de destruction partielle ou totale de l'établissement, l'autorité compétente, saisie d'une demande, décide si un nouveau permis doit être sollicité pour tout ou partie de l'établissement conformément aux objectifs visés à l'article 2.
+
+3°, 5°, 8° et 10°, du Livre Ier du Code de l'Environnement. ]<sup>13</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 5, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2010-07-22/10, art. 72, 023; En vigueur : 30-08-2010&gt;
+
+(3)&lt;DRW 2012-06-21/08, art. 32, 026; En vigueur : 01-01-2013&gt;
+
+(4)&lt;DRW 2013-10-24/11, art. 8, 028; En vigueur : 18-02-2014&gt;
+
+(5)&lt;DRW 2018-05-24/14, art. 2, 036; En vigueur : 16-06-2018&gt;
+
+(6)&lt;DRW 2018-10-04/15, art. 7, 039; En vigueur : 01-01-2019&gt;
+
+(7)&lt;DRW 2019-12-19/38, art. 173, 042; En vigueur : 01-01-2020&gt;
+
+(8)&lt;DRW 2020-12-17/52, art. 188, 043; En vigueur : 01-01-2021&gt;
+
+(9)&lt;DRW 2021-12-22/21, art. 188, 044; En vigueur : 01-01-2022&gt;
+
+(10)&lt;DRW 2022-12-21/67, art. 189, 047; En vigueur : 01-01-2023&gt;
+
+(11)&lt;DRW 2023-12-13/13, art. 173, 050; En vigueur : 01-01-2024&gt;
+
+(12)&lt;DRW 2024-12-18/05, art. 6, 051; En vigueur : 01-01-2025&gt;
+
+(13)&lt;DRW 2018-05-24/14, art. 2, 036; En vigueur : 16-06-2018&gt;
+
+##### Art. 11
+
+Nul ne peut exploiter un établissement de troisième classe sans avoir fait une déclaration préalable.
+
+Une nouvelle déclaration de l'établissement est requise :
+
+1° en cas de déplacement, transformation ou extension pour autant que cette transformation ou extension vise une activité soumise à déclaration;
+
+2° tous les dix ans.
+
+Toutefois, la transformation ou l'extension d'un établissement de troisième classe qui a pour effet de faire passer celui-ci dans une autre classe est soumise à permis d'environnement.
+
+##### Art. 12
+
+(Si un établissement existant non visé par la nomenclature reprise au chapitre II du titre Ier de l'arrêté du Régent du 11 février 1946 portant approbation des titres Ier et II du Règlement général pour la protection du travail, et non soumis à autorisation en vertu de la loi du 28 mai 1956 relative aux substances et mélanges explosifs ou susceptibles de déflagrer et aux engins qui en sont chargés, [<sup>1</sup> de la loi du 28 décembre 1967 relative aux cours d'eau non navigables,]<sup>1</sup> au décret du 7 octobre 1985 relatif à la protection des eaux de surface contre la pollution, au décret du 30 avril 1990 sur la protection et l'exploitation des eaux potabilisables et au décret du 27 juin 1996 relatif aux déchets, est visé par la liste que le Gouvernement arrête en exécution de l'(article 3, alinéa 4), l'exploitant, à dater de l'entrée en vigueur de l'arrêté du Gouvernement établissant cette liste, introduit la demande de permis ou fait la déclaration requise, dans un délai de deux ans si l'établissement existant est intégré en classe 1 ou de neuf mois si l'établissement existant est intégré en classe 2 ou en classe 3. &lt;DRW 2003-12-18/65, art. 2, 009; En vigueur : 30-06-2003&gt;
+
+(Par dérogation à l'alinéa précédent, pour les établissements agricoles visés à l'alinéa 1er qui sont repris en classes 1re et 2 par la liste arrêtée par le Gouvernement en application de l'article 3, alinéa 4, le délai d'introduction de la demande de permis est fixé au 31 décembre 2004.) &lt;DRW 2003-12-18/65, art. 1, 009; En vigueur : 30-06-2003&gt;
+
+Si un établissement existant vient à être classé ou si un établissement de classe 3 est intégré en classe 1 ou 2 à la suite d'une modification par le Gouvernement de la liste des installations et activités classées, l'exploitant, à dater de l'entrée en vigueur de l'arrêté du Gouvernement modifiant cette liste, introduit la demande de permis ou fait la déclaration requise, dans un délai de deux ans si l'établissement est intégré en classe 1 ou de neuf mois si l'établissement est intégré en classe 2 ou 3.
+
+L'exploitation peut être poursuivie pendant le délai visé (aux alinéas 1er et 3) et, dans le cas d'un établissement soumis à permis, jusqu'à la notification de la décision définitive portant sur la demande de permis.) &lt;DRW 2002-07-04/34, art. 1, 004; En vigueur : 01-10-2002&gt; &lt;DRW 2003-12-18/65, art. 2, 009; En vigueur : 30-06-2003&gt;
+
+Si un établissement de classe 1 ou de classe 2 est intégré en troisième classe à la suite d'une modification de la liste, le permis déjà délivré satisfait à l'obligation de déclaration.
+
+Si un établissement de classe 1 est rangé en deuxième classe, ou si un établissement de classe 2 est rangé en première classe à la suite d'une modification de la liste des installations et activités classées, le permis déjà délivré reste valable.
+
+----------
+
+(1)&lt;DRW 2018-10-04/13, art. 5, 038; En vigueur : 15-12-2018&gt;
+
+### Section 5. - Autorité compétente.
+
+##### Art. 13
+
+Le [<sup>1</sup> collège communal]<sup>1</sup> de la commune sur le territoire de laquelle est situé l'établissement en projet est compétent pour connaître des déclarations et des demandes de permis d'environnement.
+
+[<sup>7</sup> Par dérogation à l'alinéa 1er, le fonctionnaire technique est compétent pour connaître des déclarations et des demandes de permis d'environnement relatives :
+
+1° aux établissements mobiles;
+
+2° aux établissements situés sur le territoire de plusieurs communes;
+
+3° à tout établissement constituant une installation de gestion de déchets d'extraction minière telle que définie par le Gouvernement;
+
+4° aux activités et installations afférentes à la mise en oeuvre d'un permis exclusif d'exploration ou d'exploitation des ressources du sous-sol;
+
+5° aux installations de captage et de stockage géologique de dioxyde de carbone (CO2) ainsi que pour les installations de forage et équipements de puits destinés à l'exploration et l'injection en vue du stockage géologique de CO2;
+
+6° pour les demandes de permis d'environnement qui portent sur les modifications mineures des permis délivrés par le Gouvernement visés à l'alinéa 4]<sup>7</sup>.
+
+Le Gouvernement est compétent pour connaître des recours contre les décisions relatives aux permis d'environnement délivrés par l'autorité visée aux alinéas 1er et 2.
+
+[<sup>4</sup> Les demandes de permis d'environnement relatifs aux actes et travaux pour lesquels il existe des motifs impérieux d'intérêt général visés à l'article D.IV.25 du CoDT relèvent de la compétence du Gouvernement.]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2008-12-18/47, art. 5, 019; En vigueur : 31-01-2009&gt;
+
+(3)&lt;DRW 2013-07-10/39, art. 43, 027; En vigueur : 13-09-2013&gt;
+
+(4)&lt;DRW 2016-07-20/46, art. 20, 035; En vigueur : 01-06-2017&gt;
+
+(5)&lt;DRW 2018-03-01/32, art. 85, 037; En vigueur : 01-04-2018&gt;
+
+(6)&lt;DRW 2019-05-02/87, art. 33, 041; En vigueur : 26-10-2019&gt;
+
+(7)&lt;DRW 2024-03-14/32, art. 6, 053; En vigueur : 01-07-2024&gt;
+
+##### Art. 13bis
+
+[<sup>1</sup> § 1er. Pour autant que la mise en oeuvre du permis d'environnement relatif à l'établissement projeté n'implique pas au préalable la délivrance d'un permis d'urbanisme dérogatoire ou qui s'écarte du plan de secteur en ce compris la carte d'affectation des sols, d'un schéma, d'un guide d'urbanisme ou d'un permis d'urbanisation, un permis d'environnement peut s'écarter de ou être délivré en dérogation à un plan de secteur, un schéma, une carte d'affectation des sols, un guide d'urbanisme ou un permis d'urbanisation aux conditions visées aux articles D.IV.5 ou D.IV.13 du CoDT.
+
+§ 2. Les dérogations et écarts sont accordés :
+
+1° par le collège communal lorsqu'il est l'autorité compétente; toutefois, l'avis du fonctionnaire délégué est un avis conforme lorsque la demande implique une dérogation au plan de secteur ou aux normes du guide régional d'urbanisme;
+
+2° par le fonctionnaire technique lorsqu'il est l'autorité compétente; toutefois, l'avis du fonctionnaire délégué est un avis conforme lorsque la demande implique une dérogation ou un écart;
+
+3° par le Gouvernement en recours;
+
+4° par le Gouvernement pour les demandes de permis relatifs aux actes et travaux pour lesquels il existe des motifs impérieux d'intérêt général qui relèvent de sa compétence.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 21, 035; En vigueur : 01-06-2017&gt;
+
+## CHAPITRE II. - Régime de la déclaration.
+
+##### Art. 14
+
+§ 1er. La déclaration est envoyée [<sup>3</sup> ...]<sup>3</sup> au [<sup>1</sup> collège communal]<sup>1</sup> de la commune sur le territoire de laquelle est situé l'établissement.
+
+Par dérogation à l'alinéa 1er :
+
+1° la déclaration relative [<sup>2</sup> à un établissement constituant une installation de gestion de déchets d'extraction minière telle que définie par le Gouvernement]<sup>2</sup> [<sup>4</sup> et à toutes installations et activités nécessaires ou utiles à la mise en oeuvre d'un permis de recherche ou d'une concession minière en ce compris, les puits, galeries, communications souterraines et fosses d'extraction, et]<sup>4</sup> à un établissement mobile est adressée au fonctionnaire technique;
+
+2° la déclaration relative à un établissement situé sur le territoire de plusieurs communes est adressée à la commune reprise à l'adresse du siège d'exploitation.
+
+§ 2. Le Gouvernement arrête la forme et le contenu de la déclaration, ainsi que le nombre d'exemplaires qui doivent être introduits.
+
+§ 3. La déclaration est irrecevable :
+
+1° si elle a été envoyée ou remise en violation de l'article 14, § 1er;
+
+2° s'il manque des renseignements ou des documents requis en vertu de l'article 14, § 2.
+
+Si la déclaration est irrecevable, l'autorité compétente ou son délégué envoie au déclarant une décision mentionnant les motifs de l'irrecevabilité dans les huit jours à compter de la date de réception de la déclaration.
+
+§ 4. Si la déclaration est recevable, l'autorité compétente ou son délégué en informe le déclarant [<sup>3</sup> , le fonctionnaire technique et le collège communal lorsque ceux-ci ne sont pas l'autorité compétente]<sup>3</sup> dans un délai de quinze jours à compter de la date à laquelle la déclaration a été reçue.
+
+L'autorité compétente ou son délégué informe également le demandeur et le fonctionnaire technique dans le même délai si des conditions complémentaires telles que visées au § 5 sont requises.
+
+§ 5. Lorsque les conditions (intégrales ne sont pas prescrites et que les mesures prises par l'exploitant en vertu de l'article 58, § 2, 1°, du décret) sont insuffisantes pour limiter les dangers, nuisances ou inconvénients que l'établissement est susceptible de causer à l'homme ou à l'environnement [<sup>5</sup> ou pour assurer le bien-être animal]<sup>5</sup>, l'autorité compétente peut prescrire des conditions complémentaires d'exploitation dans un délai de trente jours à compter de la date à laquelle la déclaration a été reçue &lt;DRW 2005-02-03/39, art. 139, 012; En vigueur : 11-03-2005&gt;
+
+Dans le cas visé au § 1er, alinéa 2, 2°, l'autorité compétente se concerte avec les autres communes sur le territoire desquelles l'établissement est situé.
+
+Ces conditions complémentaires ne peuvent être moins sévères que les conditions intégrales visées à l'article 5, § 3.
+
+Elles sont applicables durant la période de validité de la déclaration. Elles peuvent être modifiées par l'autorité compétente sur avis du fonctionnaire technique [<sup>3</sup> lorsqu'il n'est pas l'autorité compétente.]<sup>3</sup>
+
+L'autorité compétente envoie sa décision au déclarant et copie de celle-ci au fonctionnaire technique [<sup>3</sup> et au collège communal lorsqu'ils ne sont pas l'autorité compétente]<sup>3</sup> dans le délai visé à l'alinéa 1er. A défaut d'envoi dans ce délai, l'autorité compétente est réputée dispenser l'établissement en projet de conditions complémentaires d'exploitation.
+
+§ 6. La commune et le fonctionnaire technique tiennent un registre des déclarations. Le Gouvernement en détermine la forme et le contenu.
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2008-12-18/47, art. 6, 019; En vigueur : 31-01-2009&gt;
+
+(3)&lt;DRW 2014-03-13/02, art. 1, 031; En vigueur : 01-01-2015 (ARW 2014-05-15/61, art. 14)&gt;
+
+(4)&lt;DRW 2018-03-01/32, art. 86, 037; En vigueur : 01-04-2018&gt;
+
+(5)&lt;DRW 2018-10-04/15, art. 8, 039; En vigueur : 01-01-2019&gt;
+
+##### Art. 14 DROIT FUTUR
+
+§ 1er. La déclaration est envoyée [<sup>3</sup> ...]<sup>3</sup> au [<sup>1</sup> collège communal]<sup>1</sup> de la commune sur le territoire de laquelle est situé l'établissement.
+
+Par dérogation à l'alinéa 1er :
+
+1° la déclaration relative [<sup>2</sup> à un établissement constituant une installation de gestion de déchets d'extraction minière telle que définie par le Gouvernement]<sup>2</sup> [<sup>4</sup> et à toutes installations et activités nécessaires ou utiles à la mise en oeuvre d'un permis de recherche ou d'une concession minière en ce compris, les puits, galeries, communications souterraines et fosses d'extraction, et]<sup>4</sup> à un établissement mobile est adressée au fonctionnaire technique;
+
+2° la déclaration relative à un établissement situé sur le territoire de plusieurs communes est adressée à la commune reprise à l'adresse du siège d'exploitation.
+
+§ 2. Le Gouvernement arrête la forme et le contenu de la déclaration, ainsi que le nombre d'exemplaires qui doivent être introduits.
+
+§ 3. [<sup>6</sup> La déclaration est incomplète s'il manque des renseignements ou des documents requis en vertu du paragraphe 2.
+
+La déclaration est irrecevable si :
+
+1° elle a été introduite en violation du paragraphe 1er;
+
+2° elle est jugée incomplète à deux reprises;
+
+3° le déclarant ne fournit pas les compléments dans le délai visé au paragraphe 4bis]<sup>6</sup>.
+
+§ 4. [<sup>6</sup> L'autorité compétente envoie au déclarant la décision statuant sur le caractère complet et recevable de la déclaration dans un délai de quinze jours à dater de la réception de la déclaration.
+
+Si la déclaration est incomplète, l'autorité compétente envoie au déclarant la liste des renseignements ou documents manquants et précise que la procédure recommence à dater de leur réception par l'autorité compétente]<sup>6</sup>.
+
+[<sup>6</sup> § 4bis. Le déclarant envoie à l'autorité compétente les compléments demandés dans un délai de trente jours à dater de l'envoi de demande de compléments. Si le déclarant n'a pas envoyé les compléments demandés dans le délai prescrit, l'autorité compétente déclare la déclaration irrecevable. Lorsque la déclaration a été envoyée par la voie papier, les compléments sont fournis en autant d'exemplaires que la déclaration en comptait.
+
+Dans les quinze jours à dater de la réception des compléments par l'autorité compétente, celle-ci envoie au déclarant sa décision sur le caractère recevable et complet de la déclaration.
+
+Si l'autorité compétente n'a pas envoyé au déclarant la décision visée au paragraphe 4 ou celle visée à l'alinéa 2, la déclaration est considérée comme recevable et complète, au terme des délais prévus par ces dispositions.
+
+§ 4ter. La décision déclarant le caractère complet et recevable de la déclaration peut annoncer que des conditions complémentaires visées au paragraphe 5pourraient être imposées. L'autorité compétente en informe sans délai le fonctionnaire technique et le collège communal lorsque ceux-ci ne sont pas l'autorité compétente.]<sup>6</sup>
+
+§ 5. Lorsque les conditions (intégrales ne sont pas prescrites et que les mesures prises par l'exploitant en vertu de l'article 58, § 2, 1°, du décret) sont insuffisantes pour limiter les dangers, nuisances ou inconvénients que l'établissement est susceptible de causer à l'homme ou à l'environnement [<sup>5</sup> ou pour assurer le bien-être animal]<sup>5</sup>, l'autorité compétente peut prescrire des conditions complémentaires d'exploitation dans un délai de [<sup>6</sup> trente jours à compter de la date où l'autorité compétente a envoyé au déclarant la décision déclarant le caractère complet et recevable de la déclaration]<sup>6</sup>. &lt;DRW 2005-02-03/39, art. 139, 012; En vigueur : 11-03-2005&gt;
+
+Dans le cas visé au § 1er, alinéa 2, 2°, l'autorité compétente se concerte avec les autres communes sur le territoire desquelles l'établissement est situé.
+
+[<sup>6</sup> ...]<sup>6</sup>.
+
+[<sup>6</sup> Les conditions complémentaires]<sup>6</sup> sont applicables durant la période de validité de la déclaration. Elles peuvent être modifiées par l'autorité compétente sur avis du fonctionnaire technique [<sup>3</sup> lorsqu'il n'est pas l'autorité compétente.]<sup>3</sup>
+
+L'autorité compétente envoie sa décision au déclarant et copie de celle-ci au fonctionnaire technique [<sup>3</sup> et au collège communal lorsqu'ils ne sont pas l'autorité compétente]<sup>3</sup> dans le délai visé à l'alinéa 1er. A défaut d'envoi dans ce délai, l'autorité compétente est réputée dispenser l'établissement en projet de conditions complémentaires d'exploitation.
+
+§ 6. La commune et le fonctionnaire technique tiennent un registre des déclarations. Le Gouvernement en détermine la forme et le contenu.
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2008-12-18/47, art. 6, 019; En vigueur : 31-01-2009&gt;
+
+(3)&lt;DRW 2014-03-13/02, art. 1, 031; En vigueur : 01-01-2015 (ARW 2014-05-15/61, art. 14)&gt;
+
+(4)&lt;DRW 2018-03-01/32, art. 86, 037; En vigueur : 01-04-2018&gt;
+
+(5)&lt;DRW 2018-10-04/15, art. 8, 039; En vigueur : 01-01-2019&gt;
+
+(6)&lt;DRW 2018-05-24/14, art. 3, 036; En vigueur : indéterminée &gt;
+
+##### Art. 15
+
+Le déclarant peut passer à l'exploitation de l'établissement :
+
+1° [<sup>1</sup> quinze jours à compter de la date à laquelle la déclaration est reçue]<sup>1</sup> si celle-ci n'a pas été déclarée irrecevable conformément à l'article 14, § 3;
+
+2° trente jours après avoir fait sa déclaration si l'autorité compétente prescrit des conditions complémentaires d'exploitation conformément à l'article 14, § 5.
+
+----------
+
+(1)&lt;DRW 2014-03-13/02, art. 2, 031; En vigueur : 01-01-2015 (ARW 2014-05-15/61, art. 14)&gt;
+
+##### Art. 15 DROIT FUTUR
+
+[<sup>1</sup> Le déclarant peut passer à l'exploitation de l'établissement :
+
+1° dans le cas visé de l'article 14, § 4bis, alinéa 3;
+
+2° lorsque la décision déclarant le caractère complet et recevable de la déclaration n'annonce pas que des conditions complémentaires telles que visées à l'article 14, § 5, pourraient être imposées;
+
+3° trente jours à compter de la date où l'autorité compétente a envoyé au déclarant la décision attestant que la déclaration est complète et recevable si l'autorité compétente prescrit des conditions complémentaires conformément à l'article 14, § 5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-05-24/14, art. 4, 036; En vigueur : indéterminée &gt;
+
+## CHAPITRE III. - Procédure d'octroi du permis d'environnement.
+
+### Section 1. - La demande.
+
+##### Art. 16
+
+La demande de permis d'environnement est envoyée (...) au [<sup>1</sup> collège communal]<sup>1</sup> de la commune sur le territoire de laquelle se situe l'établissement. &lt;DRW 2005-02-03/39, art. 140, 012; En vigueur : 11-03-2005&gt;
+
+Au cas où l'établissement est situé sur le territoire de plusieurs communes, la demande est envoyée (...) à l'une des communes, au choix du demandeur, sur le territoire de laquelle l'établissement est projeté. &lt;DRW 2005-02-03/39, art. 140, 012; En vigueur : 11-03-2005&gt;
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+##### Art. 16 DROIT FUTUR
+
+[<sup>2</sup> Sous peine d'irrecevabilité, la demande de permis d'environnement, accompagnée de la preuve de versement du droit de dossier visé à l'article 177, est envoyée entièrement soit par la voie électronique, soit par la voie papier au collège communal de la commune sur le territoire de laquelle se situe l'établissement]<sup>2</sup>.
+
+Au cas où l'établissement est situé sur le territoire de plusieurs communes, la demande est envoyée (...) à l'une des communes, au choix du demandeur, sur le territoire de laquelle l'établissement est projeté. &lt;DRW 2005-02-03/39, art. 140, 012; En vigueur : 11-03-2005&gt;
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2018-05-24/14, art. 5, 036; En vigueur : 01-01-2027&gt;
+
+##### Art. 17
+
+Le Gouvernement arrête la forme et le contenu de la demande, ainsi que le nombre d'exemplaires qui doivent être introduits, l'échelle et le contenu des différents plans qui doivent être joints.
+
+La demande doit notamment permettre :
+
+1° d'identifier l'exploitant et, le cas échéant, d'évaluer ses capacités techniques et financières;
+
+2° de situer et de décrire les installations et/ou activités projetées;
+
+3° d'identifier les matières premières et auxiliaires, les substances et les énergies utilisées dans ou produites par l'installation;
+
+4° de connaître la nature, les quantités et les effets significatifs des émissions prévisibles de l'installation et/ou de l'activité projetée dans chaque milieu;
+
+5° d'identifier les techniques prévues pour prévenir ou, si cela n'est pas possible, réduire ces émissions;
+
+6° d'identifier les mesures prévues concernant la prévention et la valorisation des déchets produits par l'installation projetée;
+
+7° de déterminer les données estimées confidentielles ou liées au secret de fabrication et aux brevets;
+
+8° de connaître l'existence de servitudes du fait de l'homme ou d'obligations conventionnelles concernant l'utilisation du sol qui s'opposent à la réalisation du projet.
+
+(9° en ce qui concerne les centres d'enfouissement technique, de connaître les mesures qui devront être prises en ce qui concerne la post-gestion;) &lt;DRW 2002-09-19/31, art. 6, 007; En vigueur : 01-10-2002&gt;
+
+[<sup>1</sup> 10° en ce qui concerne les établissements dans lesquels interviennent une ou plusieurs installations ou activités émettant des gaz à effet de serre, de déterminer si une autorisation d'émettre des gaz à effet de serre peut être délivrée.]<sup>1</sup>
+
+[<sup>2</sup> 11° en ce qui concerne les établissements dans lesquels des animaux font l'objet des installations ou activités, de connaître les effets significatifs de l'établissement sur les animaux visés et leur bien-être et d'identifier les mesures prévues pour garantir le bien-être animal.]<sup>2</sup>
+
+La demande comporte un dossier d'évaluation des incidences sur l'environnement et, le cas échéant, tout document requis concernant la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses.
+
+[<sup>2</sup> Lorsque des animaux font l'objet des installations ou activités, la demande comporte également un dossier d'évaluation des incidences de l'établissement sur les animaux visés et sur leur bien-être animal. Le Gouvernement détermine le contenu minimum de ce dossier d'évaluation.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2012-06-21/08, art. 33, 026; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DRW 2018-10-04/15, art. 9, 039; En vigueur : 01-01-2019&gt;
+
+##### Art. 18
+
+Dans un délai de trois jours ouvrables à dater de la réception de la demande, l'Administration communale envoie celle-ci au fonctionnaire technique et en informe simultanément, par pli ordinaire, le demandeur.
+
+Si l'Administration communale n'a pas (envoyé) la demande dans le délai prévu à l'alinéa 1er, le demandeur peut saisir directement le fonctionnaire technique en lui adressant (une copie) de la demande qu'il a initialement adressée au [<sup>1</sup> collège communal]<sup>1</sup>. &lt;DRW 2005-02-03/39, art. 141, 012; En vigueur : 11-03-2005&gt;
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+##### Art. 18 DROIT FUTUR
+
+[<sup>1</sup> Dans un délai de trois jours ouvrables à dater de la réception de la demande, l'administration communale envoie celle-ci au fonctionnaire technique. Elle en informe simultanément le demandeur par pli ordinaire lorsque la demande a été envoyée par la voie papier ou par voie électronique lorsque la demande a été envoyée par voie électronique.
+
+Si l'administration communale n'a pas envoyé la demande dans le délai prévu à l'alinéa 1er, le demandeur peut saisir directement le fonctionnaire technique en lui adressant une copie de la demande qu'il a initialement adressée au collège communal. Lorsque la demande a été envoyée par voie électronique, le demandeur informe le fonctionnaire technique que la demande a été initialement adressée au collège communal par voie électronique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-05-24/14, art. 6, 036; En vigueur : 01-01-2027&gt;
+
+##### Art. 19
+
+La demande est incomplète s'il manque des renseignements ou des documents requis en vertu de l'article 17.
+
+La demande est irrecevable :
+
+1° si elle a été introduite en violation de l'article 16;
+
+2° si elle est jugée incomplète à deux reprises;
+
+[<sup>1</sup> 3° si le demandeur ne fournit pas les compléments dans le délai visé à l'article 20, § 2, alinéa 1er.]<sup>1</sup>
+
+4° (...)
+
+[<sup>2</sup> 5° dans le cas visé à l'article 10, § 2, du décret du 2 mai 2019 relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes.]<sup>2</sup>
+
+6° si, dans les cas visés à l'article D.34, § 1er, du Code wallon du Patrimoine, la demande de permis ne contient pas d'autorisation patrimoniale valide qui se rapporte à l'objet de la demande;
+
+7° si, dans les cas visés à l'article D.62, § 1er, du Code wallon du Patrimoine, la demande de permis ne contient pas l'avis archéologique préalable de l'Administration du Patrimoine qui se rapporte à l'objet de la demande.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 69, 024; En vigueur : 04-12-2011&gt;
+
+(2)&lt;DRW 2019-05-02/87, art. 34, 041; En vigueur : 26-10-2019&gt;
+
+(3)&lt;DRW 2023-09-28/28, art. 2, 052; En vigueur : 01-06-2024&gt;
+
+##### Art. 19 DROIT FUTUR
+
+La demande est incomplète s'il manque des renseignements ou des documents requis en vertu de l'article 17.
+
+La demande est irrecevable :
+
+1° si elle a été introduite en violation de l'article 16;
+
+2° si elle est jugée incomplète à deux reprises;
+
+[<sup>1</sup> 3° si le demandeur [<sup>4</sup> n'envoie pas]<sup>4</sup> les compléments dans le délai visé à l'article 20, § 2, alinéa 1er.]<sup>1</sup>
+
+4° [<sup>4</sup> 4° si les compléments reçus n'ont pas été envoyés selon le mode d'envoi choisi initialement par le demandeur]<sup>4</sup>;
+
+[<sup>2</sup> 5° dans le cas visé à l'article 10, § 2, du décret du 2 mai 2019 relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes.]<sup>2</sup>
+
+6° si, dans les cas visés à l'article D.34, § 1er, du Code wallon du Patrimoine, la demande de permis ne contient pas d'autorisation patrimoniale valide qui se rapporte à l'objet de la demande;
+
+7° si, dans les cas visés à l'article D.62, § 1er, du Code wallon du Patrimoine, la demande de permis ne contient pas l'avis archéologique préalable de l'Administration du Patrimoine qui se rapporte à l'objet de la demande.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 69, 024; En vigueur : 04-12-2011&gt;
+
+(2)&lt;DRW 2019-05-02/87, art. 34, 041; En vigueur : 26-10-2019&gt;
+
+(3)&lt;DRW 2023-09-28/28, art. 2, 052; En vigueur : 01-06-2024&gt;
+
+(4)&lt;DRW 2018-05-24/14, art. 7, 036; En vigueur : indéterminée &gt;
+
+##### Art. 20
+
+&lt;DRW 2005-02-03/39, art. 143, 012; En vigueur : 11-03-2005&gt; § 1er. Le fonctionnaire technique envoie au demandeur la décision statuant sur le caractère complet et recevable de la demande, dans un délai de vingt jours à dater du jour où il reçoit la demande conformément à l'article 18.
+
+Si la demande est incomplète, le fonctionnaire technique envoie au demandeur la liste des documents manquants et précise que la procédure recommence à dater de leur réception par la commune auprès de laquelle la demande a été introduite. Le même jour, il adresse une copie de cet envoi à la commune auprès de laquelle la demande a été introduite.
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, lorsque la demande vise un projet d'énergie renouvelable visé à l'article D.65/2 du Livre Ier du Code de l'Environnement, le fonctionnaire technique envoie au demandeur la décision statuant sur le caractère complet et recevable de la demande, dans un délai de trente jours à dater de la réception de la demande conformément à l'article 18. ]<sup>2</sup>
+
+§ 2. Le demandeur envoie à la commune les [<sup>1</sup> compléments demandés dans un délai de six mois à dater de l'envoi de la demande de compléments. Si le demandeur n'a pas envoyé les compléments demandés dans le délai prescrit, l'administration communale en informe le fonctionnaire technique dans un délai de dix jours à dater du jour suivant le délai qui était imparti au demandeur pour envoyer les compléments. Dans ce cas, le fonctionnaire technique déclare la demande irrecevable.]<sup>1</sup>. Les compléments sont fournis en autant d'exemplaires que la demande de permis initiale en compte.
+
+L'administration communale envoie les compléments demandés au fonctionnaire technique, dans un délai de trois jours ouvrables à dater du jour de la réception des compléments. L'administration communale conserve un exemplaire des compléments.
+
+L'administration communale informe le demandeur, par écrit, de la date de la réception des compléments par le fonctionnaire technique.
+
+Si l'administration communale n'a pas envoyé les compléments dans le délai visé à l'alinéa 2, le demandeur peut envoyer directement ceux-ci en copie au fonctionnaire technique.
+
+§ 3. Dans les vingt jours à dater de la réception des compléments par le fonctionnaire technique, [<sup>2</sup> ou dans les trente jours dans les cas visés au paragraphe 1er, alinéa 3,]<sup>2</sup> celui-ci envoie au demandeur la décision sur le caractère complet et recevable de la demande.
+
+Si le fonctionnaire technique estime une seconde fois que la demande est incomplète, il la déclare irrecevable.
+
+§ 4. Si la demande est irrecevable, le fonctionnaire technique informe le demandeur, [<sup>2</sup> dans les conditions et délais visés au paragraphe 1er et au paragraphe 2, alinéa 1er, ou, le cas échéant, dans les délais visés au paragraphe 3]<sup>2</sup>, des motifs de l'irrecevabilité.
+
+§ 5. (...) &lt;DRW 2006-11-10/44, art. 14, 015; En vigueur : 04-12-2006&gt;
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 70, 024; En vigueur : 04-12-2011&gt;
+
+(2)&lt;DRW 2024-04-29/22, art. 6, 048; En vigueur : 01-07-2024&gt;
+
+##### Art. 20 DROIT FUTUR
+
+&lt;DRW 2005-02-03/39, art. 143, 012; En vigueur : 11-03-2005&gt; § 1er. Le fonctionnaire technique envoie au demandeur la décision statuant sur le caractère complet et recevable de la demande, dans un délai de vingt jours à dater du jour où il reçoit la demande conformément à l'article 18.
+
+Si la demande est incomplète, le fonctionnaire technique envoie au demandeur la liste des documents manquants et précise que la procédure recommence à dater de leur réception par la commune auprès de laquelle la demande a été introduite. Le même jour, il adresse une copie de cet envoi à la commune auprès de laquelle la demande a été introduite.
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, lorsque la demande vise un projet d'énergie renouvelable visé à l'article D.65/2 du Livre Ier du Code de l'Environnement, le fonctionnaire technique envoie au demandeur la décision statuant sur le caractère complet et recevable de la demande, dans un délai de trente jours à dater de la réception de la demande conformément à l'article 18. ]<sup>2</sup>
+
+§ 2. [<sup>3</sup> Le demandeur envoie à la commune les compléments demandés dans un délai de cent quatre-vingts jours à dater de l'envoi de la demande de compléments. Si le demandeur n'a pas envoyé les compléments demandés dans le délai prescrit, l'administration communale en informe le fonctionnaire technique dans un délai de dix jours à dater du jour qui était imparti au demandeur pour envoyer les compléments. Dans ce cas, le fonctionnaire technique déclare la demande irrecevable. Lorsque la demande de permis a été envoyée par la voie papier, les compléments sont fournis en autant d'exemplaires que la demande de permis initiale en compte]<sup>3</sup>.
+
+L'administration communale envoie les compléments demandés au fonctionnaire technique, dans un délai de trois jours ouvrables à dater du jour de la réception des compléments. [<sup>3</sup> Lorsque la demande de permis a été envoyée par la voie papier, l'administration communale conserve un exemplaire des compléments]<sup>3</sup>.
+
+[<sup>3</sup> L'administration communale informe le demandeur de la date de la réception des compléments par le fonctionnaire technique]<sup>3</sup>.
+
+Si l'administration communale n'a pas envoyé les compléments dans le délai visé à l'alinéa 2, le demandeur peut envoyer directement ceux-ci en copie au fonctionnaire technique. [<sup>3</sup> Lorsque les compléments ont été envoyés par voie électronique, le demandeur informe le fonctionnaire technique que les compléments ont été initialement adressés à l'administration communale par voie électronique.]<sup>3</sup>
+
+§ 3. Dans les vingt jours à dater de la réception des compléments par le fonctionnaire technique, [<sup>2</sup> ou dans les trente jours dans les cas visés au paragraphe 1er, alinéa 3,]<sup>2</sup> celui-ci envoie au demandeur la décision sur le caractère complet et recevable de la demande.
+
+[<sup>3</sup> Si le fonctionnaire technique estime une seconde fois que la demande est incomplète, il la déclare irrecevable.
+
+Le fonctionnaire déclare, également, la demande irrecevable lorsque les compléments reçus n'ont pas été envoyés selon le mode d'envoi choisi initialement par le demandeur]<sup>3</sup>.
+
+§ 4. Si la demande est irrecevable, le fonctionnaire technique informe le demandeur, [<sup>2</sup> dans les conditions et délais visés au paragraphe 1er et au paragraphe 2, alinéa 1er, ou, le cas échéant, dans les délais visés au paragraphe 3]<sup>2</sup>, des motifs de l'irrecevabilité.
+
+§ 5. (...) &lt;DRW 2006-11-10/44, art. 14, 015; En vigueur : 04-12-2006&gt;
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 70, 024; En vigueur : 04-12-2011&gt;
+
+(2)&lt;DRW 2024-04-29/22, art. 6, 048; En vigueur : 01-07-2024&gt;
+
+(3)&lt;DRW 2018-05-24/14, art. 8, 036; En vigueur : 01-01-2027&gt;
+
+##### Art. 21
+
+Dans la décision par laquelle il déclare la demande complète et recevable conformément à l'article 20, le fonctionnaire technique désigne l'autorité compétente, les communes dans lesquelles une enquête doit être organisée et les instances qui doivent être consultées.
+
+(Le même jour, il envoie une copie de la décision déclarant la demande complète et recevable à la commune auprès de laquelle la demande a été introduite.) &lt;DRW 2005-02-03/39, art. 144, 012; En vigueur : 11-03-2005&gt;
+
+[<sup>1</sup> Le même jour, il envoie une copie de la décision déclarant la demande complète et recevable à l'Administration du Patrimoine si les conditions cumulatives suivantes sont réunies :
+
+1° les actes et travaux visés par la demande de permis n'ont pas fait l'objet d'une autorisation patrimoniale en vertu de l'article D.34, § 1er, du Code wallon du Patrimoine, ou d'un avis archéologique préalable en vertu de l'article D.62, § 1er, du Code wallon du Patrimoine;
+
+2° les actes et travaux visés par la demande de permis portent sur un bien situé, en tout ou en partie, dans le périmètre de la carte archéologique et concernent des actes et travaux visés à l'article D.IV.4, alinéa 1er, 1°, 5°, 9° et 10°, du CoDT;
+
+3° les actes et travaux visés par la demande de permis ne sont pas d'impacts limités en vertu de l'article D.IV.I, § 2, du CoDT;
+
+4° les actes et travaux visés par la demande de permis requièrent l'intervention obligatoire d'un architecte en vertu de l'article D.IV.I, § 2, du CoDT.]<sup>1</sup>
+
+Le Gouvernement peut déterminer les instances à consulter ou fixer des critères sur base desquels le fonctionnaire technique désigne celles-ci.
+
+----------
+
+(1)&lt;DRW 2023-09-28/28, art. 3, 052; En vigueur : 01-06-2024&gt;
+
+##### Art. 22
+
+&lt;DRW 2005-02-03/39, art. 145, 012; En vigueur : 11-03-2005&gt; Si le fonctionnaire technique n'a pas envoyé au demandeur la décision visée à l'article 20, § 1er, alinéa 1er, ou celle visée à l'article 20, § 3, la demande est considérée comme recevable, au terme des délais prévus par ces dispositions. La procédure est poursuivie.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, la demande est irrecevable et la procédure n'est pas poursuivie si la demande ne contient pas les documents visés à l'article 19, alinéa 2, 6° et 7°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2023-09-28/28, art. 4, 052; En vigueur : 01-06-2024&gt;
+
+##### Art. 23
+
+Les délais de procédure jusqu'à la prise de décision visée à l'article 35 se calculent :
+
+1° à dater du jour où le fonctionnaire technique a envoyé sa décision attestant le caractère recevable [<sup>1</sup> et complet]<sup>1</sup> de la demande;
+
+2° à défaut, à dater du jour suivant le délai qui lui était imparti pour envoyer sa décision sur le caractère recevable [<sup>1</sup> et complet]<sup>1</sup> de la demande.
+
+----------
+
+(1)&lt;DRW 2018-05-24/14, art. 9, 036; En vigueur : 12-02-2026&gt;
+
+### Section 2. - Enquête publique.
+
+##### Art. 24
+
+Sauf dérogations prévues au présent décret ou par le Gouvernement, tout projet faisant l'objet d'une demande de permis d'environnement doit être soumis à une enquête publique relative aux incidences éventuelles du projet sur les intérêts et aspects mentionnés à l'article 2.
+
+Toute dérogation prévue à l'alinéa 1er ne peut se faire que dans le respect des législations européennes en vigueur et pour des projets qui ne sont pas de nature à causer des dangers, nuisances ou inconvénients importants pour l'homme ou pour l'environnement [<sup>1</sup> ou qui ne respectent pas les normes en matière de bien-être animal]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2018-10-04/15, art. 10, 039; En vigueur : 01-01-2019&gt;
+
+##### Art. 25
+
+&lt;Abrogé par DRW 2007-05-31/46, art. 52, 016; En vigueur : 08-03-2008&gt;
+
+##### Art. 26
+
+&lt;Abrogé par DRW 2007-05-31/46, art. 52, 016; En vigueur : 08-03-2008&gt;
+
+##### Art. 27
+
+&lt;Abrogé par DRW 2007-05-31/46, art. 52, 016; En vigueur : 08-03-2008&gt;
+
+##### Art. 28
+
+&lt;Abrogé par DRW 2007-05-31/46, art. 52, 016; En vigueur : 08-03-2008&gt;
+
+##### Art. 29
+
+&lt;Abrogé par DRW 2007-05-31/46, art. 52, 016; En vigueur : 08-03-2008&gt;
+
+### Section 3. - Avis.
+
+##### Art. 30
+
+Le jour où il envoie à (la commune auprès de laquelle la demande a été introduite) sa décision attestant le caractère complet et recevable de la demande conformément à l'article 21 ou à l'expiration du délai prévu à (l'article 20), le fonctionnaire technique (envoie) le dossier de la demande (ainsi que ses compléments éventuels) pour avis aux différentes instances qu'il désigne. &lt;DRW 2005-02-03/39, art. 146, 012; En vigueur : 11-03-2005&gt;
+
+Ces instances envoient leur avis (...) dans un délai de soixante jours, si la demande concerne un établissement de classe 1, ou de trente jours, si la demande concerne un établissement de classe 2, à dater de leur saisine par le fonctionnaire technique. &lt;DRW 2005-02-03/39, art. 146, 012; En vigueur : 11-03-2005&gt;
+
+[<sup>1</sup> Le fonctionnaire technique sollicite l'avis de l'Administration du Patrimoine et de la Commission royale des Monuments, Sites et Fouilles dans les cas visés à l'article D.IV.35 du CoDT.]<sup>1</sup>
+
+A défaut d'envoi d'avis (...) dans les délais prévus à l'alinéa 2, l'avis est réputé favorable. &lt;DRW 2005-02-03/39, art. 146, 012; En vigueur : 11-03-2005&gt;
+
+----------
+
+(1)&lt;DRW 2023-09-28/28, art. 5, 052; En vigueur : 01-06-2024&gt;
+
+##### Art. 31
+
+A la demande du fonctionnaire technique ou d'une des administrations et autorités consultées, celles-ci se concertent au moins une fois, afin d'harmoniser leur point de vue sur le projet.
+
+Les modalités de concertation sont réglées par le Gouvernement.
+
+##### Art. 32
+
+§ 1er. Sur base des avis recueillis, un rapport de synthèse est rédigé par le fonctionnaire technique. Ce rapport comporte les avis recueillis en cours de procédure et contient l'avis du fonctionnaire technique accompagné d'une proposition de décision comprenant, le cas échéant, des conditions particulières d'exploitation.
+
+(Le rapport de synthèse et l'intégralité de la demande sont envoyés à l'autorité compétente dans un délai de :
+
+1° septante jours si la demande de permis vise un établissement de classe 2;
+
+2° cent dix jours si la demande de permis vise un établissement de classe 1.) &lt;DRW 2005-02-03/39, art. 147, 012; En vigueur : 11-03-2005&gt;
+
+Le jour où il (envoie) le rapport de synthèse, le fonctionnaire technique en avise le demandeur. &lt;DRW 2005-02-03/39, art. 147, 012; En vigueur : 11-03-2005&gt;
+
+§ 2. Le délai visé au § 1er peut être prorogé par décision du fonctionnaire technique. La durée de la prorogation ne peut excéder trente jours. Cette décision est envoyée à l'autorité compétente et au demandeur dans le délai visé au § 1er, alinéa 2.
+
+(Dans les cas visés à l'article 13, alinéa 2, les délais visés à l'article 35, § 1er, alinéa 1er, peuvent être prorogés par décision du fonctionnaire technique. La durée de la prorogation ne peut excéder trente jours. Cette décision est envoyée au demandeur dans le délai visé à l'article 35, § 1er, alinéa 1er.) &lt;DRW 2005-02-03/39, art. 147, 012; En vigueur : 11-03-2005&gt;
+
+(§ 3. Dans le cas visé à l'article 13, alinéa 2, [<sup>1</sup> le]<sup>1</sup> paragraphe 1er du présent article et l'article 34 ne sont pas applicables.) &lt;DRW 2005-02-03/39, art. 148, 012; En vigueur : 11-03-2005&gt;
+
+[<sup>2</sup> § 4. Lorsque la demande est relative aux actes et travaux pour lesquels il existe des motifs impérieux d'intérêt général visés à l'article D.IV.25 du CoDT qui relèvent de la compétence du Gouvernement, le rapport de synthèse et l'intégralité de la demande sont envoyés au Gouvernement dans les délais visés aux paragraphes 1er et 2, alinéa 1er. La procédure se poursuit conformément à l'article D.IV.50 du CoDT; les notifications sont faites au fonctionnaire technique et non au fonctionnaire délégué. L'article 34 n'est pas applicable.]<sup>2</sup>
+
+[<sup>3</sup> § 5. Pour les projets relatifs à la construction et l'exploitation d'installations d'énergie renouvelable, le raccordement de ces installations au réseau, le réseau connexe proprement dit et les actifs de stockage, au sens de l'article 16septies de la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables, la proposition de décision visée au paragraphe 1er, alinéa 1er, inclut la motivation spécifique relative à la mise en balance des intérêts visée à l'article 2, alinéa 3. ]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 6, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2016-07-20/46, art. 22, 035; En vigueur : 01-06-2017&gt;
+
+(3)&lt;DRW 2024-04-29/25, art. 4, 049; En vigueur : 01-11-2024&gt;
+
+##### Art. 33
+
+Le Gouvernement détermine le contenu minimum des avis.
+
+Tout avis est motivé.
+
+##### Art. 34
+
+Si le rapport de synthèse n'a pas été envoyé à l'autorité compétente, dans le délai imparti, elle poursuit la procédure en tenant compte du dossier d'évaluation des incidences, des résultats de l'enquête, de l'avis du ou des collèges des bourgmestre et échevins, rendus conformément à l'article 28 et de toute autre information à sa disposition.
+
+### Section 4. - Décision.
+
+##### Art. 35
+
+&lt;DRW 2005-02-03/39, art. 149, 012; En vigueur : 11-03-2005&gt; § 1er. L'autorité compétente envoie sa décision au demandeur, au fonctionnaire technique [<sup>1</sup> et lorsqu'il a été fait application de l'article 13, alinéa 2, à chaque commune sur le territoire de laquelle l'établissement est situé]<sup>1</sup> ainsi que, par pli ordinaire, à chaque autorité ou administration consultée dans un délai de :
+
+1° nonante jours si la demande de permis vise un établissement de classe 2;
+
+2° cent quarante jours si la demande de permis vise un établissement de classe 1.
+
+Si le rapport de synthèse est transmis avant l'expiration du délai visé à l'article 32, § 1er, alinéa 2, l'autorité compétente envoie sa décision au demandeur, au fonctionnaire technique ainsi que, par pli ordinaire, à chaque autorité ou administration consultée dans un délai de :
+
+1° vingt jours à dater du jour où elle reçoit le rapport de synthèse du fonctionnaire technique conformément à l'article 32, § 1er, alinéa 2, pour les établissements de classe 2;
+
+2° trente jours à dater du jour où elle reçoit le rapport de synthèse du fonctionnaire technique conformément à l'article 32, § 1er, alinéa 2, pour les établissements de classe 1.
+
+Si l'autorité compétente s'écarte du rapport de synthèse, elle en précise les motifs.
+
+Dans le cas visé à l'article 13, alinéa 2, seul l'alinéa 1er du présent paragraphe est d'application.
+
+[<sup>2</sup> Lorsque la demande de permis d'environnement concerne un système d'épuration individuelle classé en vertu de l'article 3, l'autorité compétente notifie également la décision visée aux alinéas 1er et 2 à la Société publique de gestion de l'eau visée à l'article D.2., 76°, du Livre II du Code de l'Environnement contenant le Code de l'Eau.]<sup>2</sup>
+
+§ 2. Dans l'hypothèse visée à l'article 32, § 2, le délai imparti à l'autorité compétente pour envoyer sa décision est prorogé d'un délai identique à celui fixé par le fonctionnaire technique.
+
+[<sup>3</sup> Simultanément à l'envoi de sa décision au demandeur, l'autorité compétente communique à l'Administration du Patrimoine une copie de sa décision :
+
+1° lorsque le permis porte sur un bien classé ou assimilé, au sens du Code wallon du Patrimoine, qui a fait l'objet d'une autorisation patrimoniale visée aux articles D.47 et D.48 du même Code;
+
+2° lorsque le permis porte sur un projet qui a fait l'objet d'un avis archéologique préalable de l'Administration du Patrimoine visé à l'article D.62 du Code wallon du Patrimoine;
+
+3° lorsque le permis porte sur un projet qui a fait l'objet d'un avis de l'Administration du Patrimoine en vertu de l'article 30;
+
+4° lorsque le permis porte sur un projet qui a fait l'objet d'un envoi de l'accusé de réception ou de la décision sur le caractère complet de la demande de permis à l'Administration du Patrimoine en vertu de l'article D.67, § 1er, du Code wallon du Patrimoine.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 7, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2016-06-23/09, art. 85, 033; En vigueur : 01-01-2016&gt;
+
+(3)&lt;DRW 2023-09-28/28, art. 6, 052; En vigueur : 01-06-2024&gt;
+
+##### Art. 35 DROIT FUTUR
+
+&lt;DRW 2005-02-03/39, art. 149, 012; En vigueur : 11-03-2005&gt; § 1er. L'autorité compétente envoie sa décision au demandeur, au fonctionnaire technique [<sup>1</sup> et lorsqu'il a été fait application de l'article 13, alinéa 2, à chaque commune sur le territoire de laquelle l'établissement est situé]<sup>1</sup> [<sup>4</sup> ...]<sup>4</sup> dans un délai de :
+
+1° nonante jours si la demande de permis vise un établissement de classe 2;
+
+2° cent quarante jours si la demande de permis vise un établissement de classe 1.
+
+[<sup>4</sup> Selon le mode d'envoi de documents choisi pendant la procédure d'instruction par chaque autorité ou administration consultée, l'autorité compétente envoie sa décision à celles-ci dans le délai visé à l'alinéa 1er, soit par la voie papier, soit par la voie électronique.]<sup>4</sup>
+
+Si le rapport de synthèse est transmis avant l'expiration du délai visé à l'article 32, § 1er, alinéa 2, l'autorité compétente envoie sa décision au demandeur, au fonctionnaire technique [<sup>4</sup> ...]<sup>4</sup> dans un délai de :
+
+1° vingt jours à dater du jour où elle reçoit le rapport de synthèse du fonctionnaire technique conformément à l'article 32, § 1er, alinéa 2, pour les établissements de classe 2;
+
+2° trente jours à dater du jour où elle reçoit le rapport de synthèse du fonctionnaire technique conformément à l'article 32, § 1er, alinéa 2, pour les établissements de classe 1.
+
+Si l'autorité compétente s'écarte du rapport de synthèse, elle en précise les motifs.
+
+[<sup>4</sup> Selon le mode d'envoi de documents choisi pendant la procédure d'instruction par chaque autorité ou administration consultée, l'autorité compétente envoie sa décision à celles-ci dans le délai visé à l'alinéa 3, soit par la voie papier, soit par la voie électronique.]<sup>4</sup>
+
+Dans le cas visé à l'article 13, alinéa 2, seul l'alinéa 1er du présent paragraphe est d'application.
+
+[<sup>2</sup> Lorsque la demande de permis d'environnement concerne un système d'épuration individuelle classé en vertu de l'article 3, l'autorité compétente [<sup>4</sup> envoie]<sup>4</sup> également la décision visée aux alinéas 1er et 2 à la Société publique de gestion de l'eau visée à l'article D.2., 76°, du Livre II du Code de l'Environnement contenant le Code de l'Eau.]<sup>2</sup>
+
+§ 2. Dans l'hypothèse visée à l'article 32, § 2, le délai imparti à l'autorité compétente pour envoyer sa décision est prorogé d'un délai identique à celui fixé par le fonctionnaire technique.
+
+[<sup>3</sup> Simultanément à l'envoi de sa décision au demandeur, l'autorité compétente communique à l'Administration du Patrimoine une copie de sa décision :
+
+1° lorsque le permis porte sur un bien classé ou assimilé, au sens du Code wallon du Patrimoine, qui a fait l'objet d'une autorisation patrimoniale visée aux articles D.47 et D.48 du même Code;
+
+2° lorsque le permis porte sur un projet qui a fait l'objet d'un avis archéologique préalable de l'Administration du Patrimoine visé à l'article D.62 du Code wallon du Patrimoine;
+
+3° lorsque le permis porte sur un projet qui a fait l'objet d'un avis de l'Administration du Patrimoine en vertu de l'article 30;
+
+4° lorsque le permis porte sur un projet qui a fait l'objet d'un envoi de l'accusé de réception ou de la décision sur le caractère complet de la demande de permis à l'Administration du Patrimoine en vertu de l'article D.67, § 1er, du Code wallon du Patrimoine.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 7, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2016-06-23/09, art. 85, 033; En vigueur : 01-01-2016&gt;
+
+(3)&lt;DRW 2023-09-28/28, art. 6, 052; En vigueur : 01-06-2024&gt;
+
+(4)&lt;DRW 2018-05-24/14, art. 10, 036; En vigueur : indéterminée &gt;
+
+##### Art. 36
+
+Le fonctionnaire technique et la commune tiennent chacun un registre des permis. Le Gouvernement détermine la forme et le contenu du registre.
+
+##### Art. 37
+
+A défaut de l'envoi de la décision dans le délai prévu à l'article 35, si le rapport de synthèse a été envoyé conformément à l'article 32 et s'il comporte un avis favorable du fonctionnaire technique et, le cas échéant, des conditions particulières, la décision est censée être arrêtée aux conditions générales et sectorielles prévues à l'article 5 et aux conditions particulières éventuellement formulées dans le rapport de synthèse visé à l'article 32 [<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>1</sup> Le permis est censé être refusé à défaut de l'envoi de la décision dans le délai prévu à l'article 35 :
+
+1° si le rapport de synthèse n'a pas été envoyé conformément à l'article 32;
+
+2° si le rapport de synthèse comporte un avis défavorable du fonctionnaire technique.]<sup>1</sup>
+
+[<sup>1</sup> Dans les cas visés à l'article 13, alinéa 2, le permis est censé être refusé si la décision n'a pas été envoyée dans le délai prévu à l'article 35.]<sup>1</sup>
+
+[<sup>2</sup> A défaut de l'envoi de la décision dans le délai prévu à l'article 35 et lorsque le rapport de synthèse a été envoyé conformément à l'article 32, celui-ci est envoyé au demandeur par le fonctionnaire technique.]<sup>2</sup>
+
+[<sup>3</sup> Lorsque la demande de permis d'environnement concerne un système d'épuration individuelle en vertu de l'article 3, l'autorité compétente [<sup>4</sup> envoie]<sup>4</sup> également le rapport de synthèse à la Société publique de gestion de l'eau visée à l'article D.2., 76°, du Livre II du Code de l'Environnement contenant le Code de l'Eau, et précise que la décision est censée être arrêtée en vertu de l'alinéa 1er.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 8, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2010-07-22/10, art. 73, 023; En vigueur : 30-08-2010&gt;
+
+(3)&lt;DRW 2016-06-23/09, art. 86, 033; En vigueur : 01-01-2016&gt;
+
+(4)&lt;DRW 2018-05-24/14, art. 11, 036; En vigueur : 12-02-2026&gt;
+
+##### Art. 38
+
+[<sup>1</sup> Pour les installations et activités désignées par le Gouvernement, la teneur de la décision, ainsi qu'une copie du permis et des éventuelles actualisations ultérieures sont publiées sur le portail Environnement du site Internet de la Région wallonne, à l'exception des données soustraites à l'enquête publique conformément à l'article D. 29-15 du Livre Ier du Code de l'Environnement.]<sup>1</sup>
+
+[<sup>2</sup> Le Gouvernement peut dispenser de la publication des plans.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2013-10-24/11, art. 10, 028; En vigueur : 18-02-2014&gt;
+
+(2)&lt;DRW 2018-05-24/14, art. 12, 036; En vigueur : 12-02-2026&gt;
+
+### Section 5. - Procédure simplifiée.
+
+##### Art. 39
+
+Les demandes relatives aux établissements temporaires et aux établissements d'essai sont soumises à une procédure simplifiée dont les modalités sont fixées aux alinéas 2 à 6.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Par dérogation à l'article 30, alinéa 2, les instances envoient leur avis dans un délai de vingt jours.
+
+Par dérogation à l'article 32, § 1er, alinéa 2, le rapport de synthèse du fonctionnaire technique est envoyé à l'autorité compétente dans un délai de trente jours.
+
+Par dérogation à l'article 35, l'autorité compétente envoie sa décision dans un délai de quarante jours.
+
+A défaut de l'envoi de la décision dans ce délai :
+
+1° soit la décision est censée être arrêtée aux conditions générales et sectorielles prévues à l'article 5 et, le cas échéant, aux conditions particulières fixées dans le rapport de synthèse, si le rapport a été envoyé conformément à l'alinéa 4 et s'il comporte un avis favorable du fonctionnaire technique;
+
+2° soit le permis est censé être refusé, si le rapport de synthèse n'a pas été envoyé conformément à l'alinéa 4 ou s'il comporte un avis défavorable du fonctionnaire technique.
+
+Dans la ou les communes sur le territoire de laquelle ou desquelles est situé l'établissement en projet, le bourgmestre procède à l'affichage d'un avis suivant les mêmes modalités que celles prévues à l'article 38.
+
+----------
+
+(1)&lt;DRW 2007-05-31/46, art. 54, 016; En vigueur : 08-03-2008&gt;
+
+## CHAPITRE IV. - Recours.
+
+##### Art. 40
+
+&lt;DRW 2005-02-03/39, art. 150, 012; En vigueur : 11-03-2005&gt; § 1er. [<sup>2</sup> Un recours contre la décision émanant de l'autorité compétente lorsque celle-ci a été envoyée dans les délais visés à l'article 35, contre la décision censée être arrêtée conformément à l'article 37, alinéa 1er, ou contre le refus visé à l'article 37, alinéas 2 et 3, est ouvert auprès du Gouvernement à toute personne physique ou morale justifiant d'un intérêt ainsi qu'au fonctionnaire technique et au collège communal de la commune sur le territoire de laquelle l'établissement est situé.]<sup>2</sup>
+
+L'absence de décision des autorités visées à l'article 13 relative à la délivrance ou au refus des permis d'environnement autres que temporaires entraîne l'impossibilité pour celles-ci d'introduire un recours.
+
+§ 2. Sous peine d'irrecevabilité, [<sup>6</sup> le recours est accompagné de la preuve du versement du droit de dossier visé à l'article 177 et est envoyé]<sup>6</sup> au fonctionnaire technique compétent sur recours dans un délai de vingt jours à dater :
+
+1° soit, pour le demandeur [<sup>2</sup> , le fonctionnaire technique et, lorsqu'il a été fait application de l'article 13, alinéa 2, chaque collège communal de la commune sur le territoire de laquelle l'établissement est situé]<sup>2</sup>, de la réception de la décision émanant de l'autorité compétente lorsque celle-ci a été envoyée dans les délais visés à l'article 35, [<sup>5</sup> ou du rapport de synthèse qui est envoyé au demandeur en application de l'article 37, alinéa 4]<sup>5</sup>;
+
+2° soit, [<sup>2</sup> dans les cas visés à l'article 37, alinéas 2, 1°, et 3,]<sup>2</sup> pour le demandeur [<sup>2</sup> , le fonctionnaire technique et, lorsqu'il a été fait application de l'article 13, alinéa 2, chaque collège communal de la commune sur le territoire de laquelle l'établissement est situé]<sup>2</sup>, de l'expiration des délais visés à l'article 35;
+
+3° soit, pour les personnes non visées au 1°, du premier jour de l'affichage de [<sup>4</sup> l'avis visé aux articles D.29-22, D.29-23 et D.29-24 du Livre Ier du Code de l'Environnement]<sup>4</sup> [<sup>1</sup> conformément aux modalités des articles D.29-25 et D.29-26 du Livre Ier du Code de l'Environnement]<sup>1</sup>
+
+Si la décision est affichée dans plusieurs communes, le délai est prolongé jusqu'au vingtième jour suivant le premier jour de l'affichage dans la commune qui y a procédé la dernière.
+
+§ 3. Sur la base, notamment, des avis recueillis, un rapport de synthèse est rédigé par le fonctionnaire technique. Le rapport comporte les éléments visés à l'article 32.
+
+Le rapport de synthèse est envoyé au Gouvernement dans un délai de :
+
+1° cinquante jours si le recours concerne un établissement de classe 2;
+
+2° septante jours si le recours concerne un établissement de classe 1.
+
+Ce délai court à dater du premier jour suivant la réception du recours. En cas de pluralité de recours, ce délai débute le premier jour suivant la réception du dernier recours.
+
+Le jour où il envoie le rapport de synthèse, le fonctionnaire technique en informe par écrit le demandeur [<sup>2</sup> ainsi que le requérant]<sup>2</sup>.
+
+§ 4. Les délais visés au paragraphe 3 peuvent être prorogés par décision du fonctionnaire technique. La durée de la prorogation ne peut excéder trente jours. Cette décision est envoyée dans le délai visé au paragraphe 3, alinéa 2, au Gouvernement et au demandeur, ainsi qu'au requérant.
+
+§ 5. Le recours n'est pas suspensif de la décision attaquée sauf lorsqu'il est introduit par le fonctionnaire technique.
+
+§ 6. Le Gouvernement détermine :
+
+1° les informations que doit contenir le recours, sa forme et le nombre d'exemplaires devant être introduits;
+
+2° les modalités selon lesquelles le recours est porté à la connaissance du public;
+
+3° les modalités d'instruction du recours, d'établissement du rapport de synthèse, les instances devant être consultées et les délais endéans lesquels les avis sont émis; à défaut d'envoi d'avis dans les délais prévus, l'avis est réputé favorable.
+
+§ 7. Le Gouvernement envoie sa décision au requérant dans un délai de :
+
+1° septante jours si le recours concerne un établissement de classe 2;
+
+2° [<sup>2</sup> cent]<sup>2</sup> jours si le recours concerne un établissement de classe 1.
+
+Ce délai court à dater du premier jour suivant la réception du recours. En cas de pluralité de recours, ce délai débute à dater du premier jour suivant la réception du dernier recours.
+
+Si le rapport de synthèse est [<sup>2</sup> envoyé]<sup>2</sup> avant l'expiration du délai visé au paragraphe 3, le Gouvernement envoie sa décision dans un délai de :
+
+1° vingt jours à dater du jour où il reçoit le rapport de synthèse du fonctionnaire technique conformément au paragraphe 3, pour les établissements de classe 2;
+
+2° trente jours à dater du jour où il reçoit le rapport de synthèse du fonctionnaire technique conformément au paragraphe 3, pour les établissements de classe 1.
+
+Dans l'hypothèse visée au paragraphe 4, le délai imparti au Gouvernement pour envoyer sa décision est prorogé d'un délai identique à celui fixé par le fonctionnaire technique.
+
+[<sup>6</sup> Lorsque la demande de permis d'environnement concerne un système d'épuration individuelle classé en vertu de l'article 3, l'autorité compétente [<sup>8</sup> envoie]<sup>8</sup> également la décision visée aux alinéas 1er à la Société publique de gestion de l'eau visée à l'article D.2., 76°, du Livre II du Code de l'Environnement contenant le Code de l'Eau.]<sup>6</sup>
+
+[<sup>6</sup> § 7bis. Lorsqu'une enquête publique est organisée, le cas échéant, en recours, les délais d'instruction du recours visés aux paragraphes 3 et 7 sont interrompus à la date d'envoi d'un courrier demandant l'organisation d'une enquête publique à la commune concernée. La procédure recommence, selon les modalités fixées au paragraphe 3, à la date de réception par le fonctionnaire technique des résultats de l'enquête publique, y compris le procès-verbal visé à l'article D.29-19 du Livre Ier du Code de l'Environnement.]<sup>6</sup>
+
+[<sup>7</sup> § 7ter. Lorsque la demande de permis porte sur un bien classé ou assimilé, au sens du Code wallon du Patrimoine, qui a fait l'objet d'une autorisation patrimoniale visée aux articles D.47 et D.48 du même Code ou lorsque la demande de permis porte sur un projet qui a fait l'objet d'un avis archéologique préalable de l'Administration du Patrimoine visé à l'article D.62 du même Code, la décision du Gouvernement reproduit intégralement les conclusions de l'autorisation patrimoniale ou de l'avis archéologique préalable et est conforme au contenu de cette autorisation ou de cet avis, sauf accord écrit préalable de l'Administration du Patrimoine. ]<sup>7</sup>
+
+§ 8. A défaut d'envoi de la décision dans le délai visé au paragraphe 7 :
+
+1° la décision prise en première instance est confirmée;
+
+2° à défaut de l'envoi de la décision prise en première instance dans le délai prévu a l'article 35, si le rapport de synthèse a été envoyé conformément au paragraphe 3, la décision est censée être arrêtée selon les conclusions fixées dans le rapport de synthèse. Le rapport de synthèse est envoyé au demandeur [<sup>2</sup> et au requérant]<sup>2</sup> par le fonctionnaire technique.
+
+[<sup>2</sup> 3° à défaut de l'envoi de la décision prise en première instance dans le délai prévu à l'article 35 et de l'envoi du rapport de synthèse conformément au paragraphe 3, la décision est censée être arrêtée selon les conclusions fixées dans le rapport de synthèse envoyé conformément à l'article 32.]<sup>2</sup>
+
+[<sup>6</sup> Lorsque la demande de permis d'environnement concerne un système d'épuration individuelle en vertu de l'article 3, l'autorité compétente [<sup>8</sup> envoie]<sup>8</sup> également le rapport de synthèse à la Société publique de gestion de l'eau visée à l'article D.2., 76°, du Livre II du Code de l'Environnement contenant le Code de l'Eau, et précise que la décision est censée être arrêtée en vertu de l'alinéa 1er, 2° ou 3°.]<sup>6</sup>
+
+§ 9. Il y a lieu à indemnité de vingt fois le montant du droit de dossier visé à l'article 177, alinéa 2, 1° et 2°, à charge de la Région, dans le cas où le refus de permis résulte de l'absence de décision en première instance et en recours et si aucun rapport de synthèse n'a été transmis dans les délais prescrits.
+
+Les demandes d'indemnité sont de la compétence des cours et tribunaux.
+
+----------
+
+(1)&lt;DRW 2007-05-31/46, art. 55, 016; En vigueur : 08-03-2008&gt;
+
+(2)&lt;DRW 2007-11-22/39, art. 9, 017; En vigueur : 17-12-2007&gt;
+
+(3)&lt;DRW 2007-11-22/39, art. 9, 4., 017; En vigueur : 17-12-2007; Abrogé : 08-03-2008&gt;
+
+(4)&lt;DRW 2007-11-22/39, art. 23, 1., 017; En vigueur : 08-03-2008&gt;
+
+(5)&lt;DRW 2010-07-22/10, art. 74, 023; En vigueur : 30-08-2010&gt;
+
+(6)&lt;DRW 2016-06-23/09, art. 87, 033; En vigueur : 01-01-2016&gt;
+
+(7)&lt;DRW 2023-09-28/28, art. 7, 052; En vigueur : 01-06-2024&gt;
+
+(8)&lt;DRW 2018-05-24/14, art. 13, 036; En vigueur : 12-02-2026&gt;
+
+##### Art. 41
+
+Un recours non suspensif est ouvert au déclarant auprès du Gouvernement contre les décisions visées à l'article 14, § 5.
+
+Sous peine d'irrecevabilité, [<sup>2</sup> le recours est accompagné de la preuve du versement du droit de dossier visé à l'article 177 et est envoyé]<sup>2</sup> [<sup>1</sup> ...]<sup>1</sup> dans un délai de vingt jours à dater de la réception par le déclarant de la décision visée à l'article 14, § 5.
+
+[<sup>2</sup> Le Gouvernement arrête la forme et le contenu du formulaire de recours. Il détermine les modalités d'instruction et les délais endéans lesquels les avis des administrations et autorités que le fonctionnaire technique compétent sur recours juge nécessaire de consulter sont envoyés. A défaut d'envoi d'avis dans les délais prévus, l'avis est réputé favorable.]<sup>2</sup>
+
+Le Gouvernement statue après avoir pris l'avis du fonctionnaire technique.
+
+Le Gouvernement envoie sa décision dans un délai de trente jours à dater du premier jour suivant la réception du recours. A défaut d'envoi de la décision dans ce délai, le recours est censé être rejeté.
+
+----------
+
+(1)&lt;DRW 2014-03-13/02, art. 3, 031; En vigueur : 01-01-2015 (ARW 2014-05-15/61, art. 14)&gt;
+
+(2)&lt;DRW 2016-06-23/09, art. 88, 033; En vigueur : 01-01-2016&gt;
+
+## CHAPITRE V. - Transformation et extension d'un établissement classé.
+
+##### Art. 42
+
+Sans préjudice de l'alinéa 2, toute transformation ou extension d'un établissement classé visée aux articles 10, § 1er, alinéa 2, 2°, ou 11, alinéa 3, est soumise aux dispositions des chapitres III et IV.
+
+Lorsque la transformation ou l'extension projetée n'est pas de nature à aggraver les dangers, nuisances ou inconvénients visés à l'article 2, l'autorité compétente peut, sur proposition du fonctionnaire technique, décider de ne pas soumettre la demande à enquête publique.
+
+## CHAPITRE VI. - Etablissements mobiles.
+
+##### Art. 43
+
+Le permis d'environnement octroyé ou la déclaration effectuée vaut pour l'ensemble des sites où l'établissement est ou sera exploité.
+
+Lorsqu'il délivre un permis relatif à un établissement mobile, le fonctionnaire technique veille à prescrire des conditions d'exploitation telles que l'exploitation de l'établissement soit conforme à l'article 2, quel que soit l'endroit où elle peut s'exercer.
+
+Il peut notamment énumérer, de façon limitative, les endroits où l'exploitation peut s'exercer, ou exclure celle-ci à certains endroits.
+
+##### Art. 44
+
+Au moins quinze jours avant chaque mise en ouvre, dans un endroit différent, du permis relatif à un établissement mobile, l'exploitant envoie au [<sup>1</sup> collège communal]<sup>1</sup> de la commune sur le territoire de laquelle l'exploitation aura lieu ainsi qu'au fonctionnaire technique copie du permis ou de la déclaration en précisant la durée et le lieu d'exploitation.
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+## CHAPITRE VII. - Contenu et effets du permis d'environnement.
+
+### Section 1. - Contenu de la décision.
+
+##### Art. 45
+
+§ 1er. La décision accordant le permis mentionne au minimum :
+
+1° l'identité de l'exploitant;
+
+2° la situation, l'identification et la description de l'établissement ou des établissements autorisés;
+
+3° la durée du permis et la date de sa délivrance;
+
+4° le délai dans lequel le permis doit être mis en oeuvre;
+
+5° l'indication que le permis prend cours à dater du jour ou il devient exécutoire conformément à l'article 46;
+
+6° les modalités prévues pour la protection de l'air, des eaux et du sol et les mesures concernant la gestion des déchets produits par l'établissement;
+
+7° les mesures et le délai pour la remise en état de l'établissement à la fin de son exploitation.
+
+[<sup>2</sup> 8° le cas échéant, le nombre maximum d'animaux pouvant faire l'objet des installations et activités, et les modalités prévues pour assurer leur bien-être.]<sup>2</sup>
+
+Elle mentionne également, le cas échéant :
+
+1° les conditions particulières d'exploitation et les garanties techniques et financières jugées nécessaires par l'autorité compétente;
+
+2° le jour où le permis devient exécutoire, dans le cas où celui-ci est accordé sur recours;
+
+3° les éléments du permis initial modifies ou complétés lorsque la décision accordant le permis a pour objet la transformation ou l'extension d'un établissement.
+
+(4° les conditions relatives à la post-gestion de l'établissement pour les centres d'enfouissement technique;) &lt;DRW 2002-09-19/31, art. 7, 007; En vigueur : 01-10-2002&gt;
+
+[<sup>1</sup> 5° en ce qui concerne les établissements dans lesquels interviennent une ou plusieurs installations ou activités émettant des gaz à effet de serre, l'autorisation d'émettre des gaz à effet de serre.]<sup>1</sup>
+
+[<sup>3</sup> § 1/1. Lorsque le permis porte sur un bien classé ou assimilé, au sens du Code wallon du Patrimoine, qui a fait l'objet d'une autorisation patrimoniale visée aux articles D.47 et D.48 du même Code ou lorsque le permis porte sur un projet qui a fait l'objet d'un avis archéologique préalable de l'Administration du Patrimoine visé à l'article D.62 du même Code, le permis reproduit intégralement les conclusions de l'autorisation patrimoniale ou de l'avis archéologique préalable et est conforme au contenu de cette autorisation ou de cet avis.]<sup>3</sup>
+
+§ 2. Le Gouvernement précise quelles autres mentions doivent figurer dans le permis.
+
+----------
+
+(1)&lt;DRW 2012-06-21/08, art. 34, 026; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DRW 2018-10-04/15, art. 11, 039; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DRW 2023-09-28/28, art. 8, 052; En vigueur : 01-06-2024&gt;
+
+##### Art. 45 DROIT FUTUR
+
+§ 1er. [<sup>4</sup> Sans préjudice de l'article D.64 du Livre Ier du Code de l'Environnement, la décision accordant le permis mentionne au minimum :]<sup>4</sup>
+
+1° l'identité de l'exploitant;
+
+2° la situation, l'identification et la description de l'établissement ou des établissements autorisés;
+
+3° la durée du permis et la date de sa délivrance;
+
+4° le délai dans lequel le permis doit être mis en oeuvre;
+
+5° l'indication que le permis prend cours à dater du jour ou il devient exécutoire conformément à l'article 46;
+
+6° les modalités prévues pour la protection de l'air, des eaux et du sol et les mesures concernant la gestion des déchets produits par l'établissement;
+
+7° les mesures et le délai pour la remise en état de l'établissement à la fin de son exploitation.
+
+[<sup>2</sup> 8° le cas échéant, le nombre maximum d'animaux pouvant faire l'objet des installations et activités, et les modalités prévues pour assurer leur bien-être.]<sup>2</sup>
+
+Elle mentionne également, le cas échéant :
+
+1° les conditions particulières d'exploitation et les garanties techniques et financières jugées nécessaires par l'autorité compétente;
+
+2° le jour où le permis devient exécutoire, dans le cas où celui-ci est accordé sur recours;
+
+3° les éléments du permis initial modifies ou complétés lorsque la décision accordant le permis a pour objet la transformation ou l'extension d'un établissement.
+
+(4° les conditions relatives à la post-gestion de l'établissement pour les centres d'enfouissement technique;) &lt;DRW 2002-09-19/31, art. 7, 007; En vigueur : 01-10-2002&gt;
+
+[<sup>1</sup> 5° en ce qui concerne les établissements dans lesquels interviennent une ou plusieurs installations ou activités émettant des gaz à effet de serre, l'autorisation d'émettre des gaz à effet de serre.]<sup>1</sup>
+
+[<sup>3</sup> § 1/1. Lorsque le permis porte sur un bien classé ou assimilé, au sens du Code wallon du Patrimoine, qui a fait l'objet d'une autorisation patrimoniale visée aux articles D.47 et D.48 du même Code ou lorsque le permis porte sur un projet qui a fait l'objet d'un avis archéologique préalable de l'Administration du Patrimoine visé à l'article D.62 du même Code, le permis reproduit intégralement les conclusions de l'autorisation patrimoniale ou de l'avis archéologique préalable et est conforme au contenu de cette autorisation ou de cet avis.]<sup>3</sup>
+
+§ 2. Le Gouvernement précise quelles autres mentions doivent figurer dans le permis.
+
+----------
+
+(1)&lt;DRW 2012-06-21/08, art. 34, 026; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DRW 2018-10-04/15, art. 11, 039; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DRW 2023-09-28/28, art. 8, 052; En vigueur : 01-06-2024&gt;
+
+(4)&lt;DRW 2018-05-24/14, art. 14, 036; En vigueur : indéterminée &gt;
+
+### Section 2. - Effets du permis.
+
+##### Art. 46
+
+Sans préjudice des articles (40, § 5); 54, 55, § 3, [<sup>1</sup> , 57, alinéa 2, et 95, § 5]<sup>1</sup>, la décision accordant le permis est exécutoire à partir : &lt;DRW 2005-02-03/39, art. 151, 012; En vigueur : 11-03-2005&gt;
+
+1° du jour suivant l'expiration du délai de recours prévu [<sup>1</sup> aux articles 40, § 2, et 95, § 2]<sup>1</sup>;
+
+2° du lendemain de la notification qui en est faite au demandeur ou, à défaut, du lendemain du délai qui était imparti à l'autorité de recours pour statuer si le permis est délivré sur recours;
+
+3° du lendemain de la notification qui en est faite au demandeur ou, à défaut, du lendemain de l'expiration du délai imparti à l'autorité compétente pour statuer si la décision qui accorde le permis n'est pas susceptible de recours.
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 71, 024; En vigueur : 04-12-2011&gt;
+
+##### Art. 47
+
+Pour autant que les modalités de publicité prévues par le Gouvernement aient été respectées, le permis a pour effet d'éteindre ou de modifier les servitudes du fait de l'homme et les obligations conventionnelles mentionnées dans la demande, sans préjudice de l'indemnisation des titulaires de ces droits, à charge du demandeur.
+
+##### Art. 48
+
+Le permis est frappé de caducité :
+
+1° s'il n'a pas été mis en ouvre avant l'expiration du délai fixé par l'autorité conformément à l'article 53, § 1er;
+
+2° si l'établissement autorisé n'est pas exploité durant deux années consécutives.
+
+##### Art. 49
+
+Les permis délivrés en vertu du présent décret ne préjudicient pas aux droits des tiers.
+
+### Section 3. - Durée de validité du permis.
+
+##### Art. 50
+
+§ 1er. Sans préjudice (de l'alinéa 2 et) des articles 1er, 4°, et 52, le permis est accordé pour une durée de vingt ans au maximum. (Le permis peut être accordé pour une durée illimitée s'il porte sur une carrière.) [<sup>1</sup> Le permis est accordé pour une durée de trente ans maximum s'il porte sur [<sup>4</sup> un parc d'éoliennes]<sup>4</sup>.]<sup>1</sup> &lt;DRW 2002-07-04/41, art. 13, 005; En vigueur : 01-10-2002&gt;
+
+L'autorité compétente peut indiquer les conditions particulières d'exploitation qui doivent être révisées avant l'expiration du permis, ainsi que la date à laquelle la demande de renouvellement doit être introduite.
+
+[<sup>3</sup> Le permis relatif aux activités et installations afférentes aux permis exclusifs d'exploration et d'exploitation des ressources du sous-sol visés dans le Code de la gestion des ressources du sous-sol est délivré pour une durée allant jusqu'à l'échéance du permis exclusif auquel il se rapporte.]<sup>3</sup>
+
+[<sup>3</sup> Les permis d'environnement autorisant des activités et installations nécessaires à la postgestion prévue par les permis exclusifs d'exploration et d'exploitation des ressources du sous-sol visés dans le Code de la gestion des ressources du sous-sol peuvent être délivrés au-delà de l'échéance du permis exclusif, sans pouvoir excéder vingt ans.]<sup>3</sup>
+
+§ 2. Le Gouvernement peut fixer une durée de validité maximale du permis plus courte pour les installations et activités classées qu'il désigne.
+
+§ 3. La durée de validité du permis se calcule à partir du jour où la décision accordant ce permis devient exécutoire, conformément à l'article 46.
+
+----------
+
+(1)&lt;DRW 2016-06-23/09, art. 89, 033; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DRW 2018-03-01/32, art. 87, 037; En vigueur : 01-04-2018&gt;
+
+(3)&lt;DRW 2024-03-14/32, art. 7, 053; En vigueur : 01-07-2024&gt;
+
+(4)&lt;DRW 2018-05-24/14, art. 15, 036; En vigueur : 12-02-2026&gt;
+
+##### Art. 51
+
+Lorsque le permis a pour objet la transformation ou l'extension d'un établissement, il est accordé pour un terme expirant au plus tard à la date d'expiration du permis portant sur l'établissement originaire.
+
+##### Art. 52
+
+§ 1er. Sauf dans le cas d'un établissement temporaire, la durée de validité du permis ne peut être prolongée.
+
+La durée du permis accordé pour un établissement temporaire peut être prolongée une fois, pour une durée maximale égale à la durée du permis initial, sans que la prolongation puisse toutefois excéder un an.
+
+§ 2. Le Gouvernement fixe la procédure applicable à la demande de prolongation d'un permis accordé pour un établissement temporaire.
+
+### Section 4. - Mise en oeuvre du permis.
+
+##### Art. 53
+
+§ 1er. L'autorité qui délivre un permis d'environnement fixe le délai dans lequel celui-ci doit être mis en ouvre. Ce délai ne peut dépasser deux ans. Toutefois, l'autorité peut, sur requête spécialement motivée, accorder un nouveau délai sans que celui-ci ne puisse excéder deux ans. [<sup>2</sup> Le Gouvernement qui délivre un permis d'environnement en vertu de l'article 13, alinéa 4, fixe le délai dans lequel celui-ci doit être mis en oeuvre. Ce délai ne peut dépasser sept ans. Toutefois, le Gouvernement peut, sur requête spécialement motivée, accorder un nouveau délai sans que celui-ci ne puisse excéder cinq ans.]<sup>2</sup>
+
+Dans le cas d'un établissement temporaire, le délai de mise en ouvre du permis ne peut dépasser un an.
+
+§ 2. Le délai de mise en ouvre du permis prend cours à partir du jour où la décision accordant ce permis devient exécutoire.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er et sans préjudice de l'article 55, § 3, lorsqu'une sûreté est imposée conformément à l'article 55, § 1er, le délai de mise en oeuvre prend cours à partir :
+
+1° du jour suivant l'expiration du délai de recours contre la décision prévu à l'article 40, § 2;
+
+2° du lendemain de la notification qui est faite au demandeur de la décision rendue sur recours ou, à défaut, du lendemain du délai qui était imparti à l'autorité de recours pour envoyer sa décision en vertu de l'article 40, § 7;
+
+3° du lendemain de la notification qui est faite au demandeur de la décision accordant le permis si elle n'est pas susceptible de recours ou, à défaut, du lendemain de l'expiration du délai imparti à l'autorité compétente pour envoyer sa décision.]<sup>1</sup>
+
+[<sup>3</sup> § 3. La mise en oeuvre du permis peut être subordonnée à la réalisation d'opérations archéologiques conformément aux articles D.66 et D.67 du Code wallon du Patrimoine.]<sup>3</sup>
+
+[<sup>4</sup> § 3. Le délai de péremption est suspendu de plein droit durant le temps de la procédure, à savoir de l'introduction de la requête à la notification de la décision finale, lorsqu'un recours en annulation a été introduit à l'encontre du permis devant le Conseil d'Etat ou qu'une demande d'interruption des travaux autorisés par le permis est pendante devant une juridiction de l'ordre judiciaire. Si le bénéficiaire du permis contesté n'a pas la qualité de partie au procès, l'autorité qui a délivré le permis ou le fonctionnaire technique pour les permis délivrés par le Gouvernement envoie au bénéficiaire le début et la fin de période de suspension du délai de péremption.]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 72, 024; En vigueur : 04-12-2011&gt;
+
+(2)&lt;DRW 2016-07-20/46, art. 23, 035; En vigueur : 01-06-2017&gt;
+
+(3)&lt;DRW 2023-09-28/28, art. 9, 052; En vigueur : 01-06-2024&gt;
+
+(4)&lt;DRW 2018-05-24/14, art. 16, 036; En vigueur : 12-02-2026&gt;
+
+##### Art. 54
+
+Le Gouvernement détermine les cas où la mise en ouvre du permis est subordonnée à l'acquisition de droits réels par le titulaire du permis sur les biens concernés par l'exploitation.
+
+## CHAPITRE VIII. - Conditions d'exploitation et obligations de l'exploitant.
+
+### Section 1. - Conditions d'exploitation.
+
+##### Art. 55
+
+§ 1er. L'autorité compétente peut, sur proposition du fonctionnaire technique intégrée dans le rapport de synthèse, imposer à l'exploitant de fournir, avant la mise en oeuvre du permis d'environnement, une sûreté au profit du Gouvernement destinée à assurer l'exécution de ses obligations en matière de remise en état du site et dont le montant est équivalent aux frais que supporteraient les pouvoirs publics s'ils devaient faire procéder à la remise en état.
+
+Le Gouvernement détermine les cas où une sûreté est toujours exigée. Il peut prévoir, pour les installations qu'il détermine, que le montant de la sûreté couvre les frais afférents à la période de maintenance, de surveillance et de contrôle de l'établissement [<sup>2</sup> , ainsi que les obligations relatives au suivi après fermeture]<sup>2</sup>.
+
+(Cette sûreté est en tout cas toujours exigée pour les centres d'enfouissement technique visés au décret du 27 juin 1996 relatif aux déchets.) &lt;DRW 2002-09-19/31, art. 8, 007; En vigueur : 01-10-2002&gt;
+
+§ 2. La sûreté consiste, au choix du demandeur, en un dépôt a la Caisse des dépôts et consignations ou en une garantie bancaire indépendante ou en toute autre forme de sûreté que le Gouvernement détermine, a concurrence du montant précisé dans le permis.
+
+Dans le cas où la sûreté consiste en un versement en numéraire, l'exploitant de l'établissement est tenu d'augmenter annuellement la sûreté à concurrence des intérêts produits durant l'année précédente.
+
+Dans le cas où la sûreté consiste en une garantie bancaire indépendante, celle-ci est obligatoirement émise par un établissement de crédit agréé soit auprès de la Commission bancaire et financière, soit auprès d'une autorité d'un Etat, membre de l'Union européenne qui est habilitée à contrôler les établissements de crédit.
+
+Le permis d'environnement peut disposer que la constitution de la sûreté est fractionnée en tranches dans la mesure où celles-ci correspondent à des phases d'exploitation prévues dans ce permis.
+
+§ 3. Dans le cas où une sûreté est requise, le permis d'environnement n'est exécutoire qu'à partir du moment où le fonctionnaire technique reconnaît que la sûreté a été constituée.
+
+Lorsque la sûreté est fractionnée, le permis d'environnement n'est exécutoire pour une partie de l'exploitation qu'à partir du moment ou le fonctionnaire technique reconnaît que la tranche correspondante de la sûreté requise a été constituée.
+
+§ 4. Sur proposition du fonctionnaire technique justifiant d'une évolution du coût estimé de la remise en état, l'autorité compétente pour délivrer le permis d'environnement en première instance peut modifier le montant de la sûreté en cours d'exploitation
+
+§ 5. Le fonctionnaire technique est tenu de constater la remise en état dans un délai de soixante jours à dater de l'introduction par l'exploitant de la demande de constat. A défaut de décision dans le délai requis, la remise en état est réputée conforme.
+
+A l'expiration d'un délai de trois mois à dater du constat de remise en état, et en l'absence de réserves du fonctionnaire technique, la sûreté est libérée et les intérêts éventuels produits sont restitués conformément aux modalités fixées en application du § 7.
+
+§ 6. Le fonctionnaire technique peut accorder un délai complémentaire unique pour la remise en état. Si les lieux ne sont pas remis en état dans le délai requis, le Gouvernement fait procéder d'office à la remise en état, en faisant appel à la sûreté.
+
+Si le montant est insuffisant, le Gouvernement récupère les frais complémentaires exposés auprès du titulaire du permis.
+
+(§ 6bis. En ce qui concerne les centres d'enfouissement technique, la sûreté visée aux paragraphes 1er à 4 comprend une partie relative à la remise en état du centre d'enfouissement technique et une autre relative a sa post-gestion.
+
+Par dérogation au § 5 de la présente disposition, le fonctionnaire technique constate, à la demande de l'exploitant et sur la base d'un rapport dont le Gouvernement arrête le contenu, si la remise en état du centre d'enfouissement technique ou d'une de ses cellules est conforme aux conditions du permis d'environnement. En vue de constater la remise en état, le fonctionnaire technique inspecte la cellule ou les cellules et contrôle le rapport requis en vertu du présent décret. Le fonctionnaire technique est tenu de se prononcer sur la remise en état dans un délai de soixante jours à dater de l'introduction par l'exploitant de la demande de constat et du rapport.
+
+La libération de la sûreté relative à la remise en état du centre d'enfouissement technique peut être fractionnée en fonction de la remise en état des différentes cellules destinées à être exploitées. Cette partie de la sûreté, en ce compris les intérêts éventuels produits, est libérée suite au constat de la remise en état du centre d'enfouissement technique et restituée, conformément aux modalités fixées en application des paragraphes 5, alinéa 2, et 7.
+
+La partie de la sûreté relative à la post-gestion du centre d'enfouissement technique est libérée lorsque le fonctionnaire technique constate que le centre d'enfouissement technique n'est plus susceptible d'entraîner un danger pour l'environnement.
+
+Dans cette hypothèse, la sûreté relative à la post-gestion du centre d'enfouissement technique est libérée et les intérêts éventuels produits sont restitués, conformément aux modalités fixées en application du paragraphe 7.) &lt;DRW 2002-09-19/31, art. 8, 007; En vigueur : 01-10-2002&gt;
+
+§ 7. Le Gouvernement peut fixer les modalités complémentaires auxquelles les sûretés doivent répondre et, le cas échéant, des conditions types de sûreté. Il détermine les modalités de libération de la sûreté lorsque l'exploitant a satisfait à toutes ses obligations en matière de remise en état (lorsque le centre d'enfouissement technique n'est plus susceptible d'entraîner un danger pour l'environnement), ainsi que la procédure en cas de non-respect de ces obligations. &lt;DRW 2002-09-19/31, art. 8, 007; En vigueur : 01-10-2002&gt;
+
+(Un recours contre toutes les décisions en matière de sûreté prévues par le présent article et la décision du fonctionnaire technique de non-remise n état est ouvert auprès du Gouvernement à l'exploitant.
+
+Le recours contre les décisions en matière de sûreté est également ouvert au fonctionnaire technique, s'il n'est pas l'autorité compétente.
+
+[<sup>3</sup> Sous peine d'irrecevabilité, le recours est accompagné de la preuve du versement du droit de dossier visé à l'article 177 et est envoyé au fonctionnaire technique compétent sur recours.]<sup>3</sup>
+
+Le Gouvernement règle les modalités du recours et détermine notamment :
+
+1° les informations que doit contenir le recours et sa forme;
+
+2° les modalités d'instruction du recours par le fonctionnaire technique compétent.) &lt;DRW 2002-07-04/41, art. 14, 005; En vigueur : 01-10-2002&gt;
+
+[<sup>1</sup> A défaut d'envoi de la décision dans le délai visé par le Gouvernement, la décision prise en première instance est confirmée.]<sup>1</sup>
+
+(§ 8. Le Gouvernement peut, pour les installations et les activités classées qu'il désigne, établir le mode de calcul de la sûreté en fonction de l'avancement des travaux d'exploitation et de remise en état déjà effectués.) &lt;DRW 2002-07-04/41, art. 14, 005; En vigueur : 01-10-2002&gt;
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 10, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2008-12-18/47, art. 7, 019; En vigueur : 31-01-2009&gt;
+
+(3)&lt;DRW 2018-05-24/14, art. 17, 036; En vigueur : 12-02-2026&gt;
+
+##### Art. 55bis
+
+&lt;Inséré par DRW 2002-09-19/31, art. 9; En vigueur : 01-10-2002&gt; L'autorité compétente, sur proposition du fonctionnaire technique intégrée dans le rapport de synthèse, fixe, en ce qui concerne les centres d'enfouissement technique, les règles tarifaires minimales applicables au déversement des déchets en vue de couvrir la totalité des coûts d'installation et d'exploitation du centre d'enfouissement technique, y compris les coûts de la garantie financière, des assurances et les coûts estimés de la remise en état et de la post-gestion du centre.
+
+##### Art. 56
+
+Sans préjudice de l'article 8, l'autorité compétente, quand elle impose des conditions particulières d'exploitation, prend en considération les résultats pouvant être obtenus par le recours aux meilleures techniques disponibles, sans prescrire l'utilisation d'une technique ou d'une technologie spécifique, et en prenant en considération les caractéristiques de l'installation concernée, son implantation géographique et les conditions locales de l'environnement.
+
+Si une norme de qualité environnementale nécessite des conditions plus sévères que celles pouvant être obtenues par le recours aux techniques visées à l'alinéa 1er, l'autorité compétente impose des conditions particulières supplémentaires.
+
+##### Art. 56bis
+
+[<sup>1</sup> § 1er. Pour les installations et activités désignées par le Gouvernement, les conclusions sur les MTD servent de référence pour la fixation des conditions particulières d'exploitation.
+
+§ 2. L'autorité compétente peut fixer des conditions particulières d'autorisation plus sévères que celles pouvant être atteintes par l'utilisation des meilleures techniques disponibles telles que décrites dans les conclusions sur les MTD.
+
+§ 3. Lorsque l'autorité compétente fixe des conditions particulières d'exploitation sur la base d'une meilleure technique disponible qui n'est décrite dans aucune des conclusions pertinentes sur les MTD, elle veille à ce que :
+
+1° la technique soit déterminée en accordant une attention particulière aux critères énumérés à l'article 1er, 19°; et
+
+2° les exigences de l'article 7bis soient remplies.
+
+Lorsque les conclusions sur les MTD visées à l'alinéa 1er ne contiennent pas de niveaux d'émission associés aux meilleures techniques disponibles, l'autorité compétente veille à ce que la technique visée à l'alinéa 1er garantisse un niveau de protection de l'environnement équivalent à celui résultant des meilleures techniques disponibles décrites dans les conclusions sur les MTD.
+
+§ 4. Lorsqu'une activité ou un type de procédé de production d'usage dans un établissement n'est couvert par aucune des conclusions sur les MTD ou lorsque ces conclusions ne prennent pas en considération toutes les incidences possibles de l'activité ou du procédé sur l'environnement, l'autorité compétente, après consultation préalable de l'exploitant, fixe les conditions particulières d'exploitation sur la base des meilleures techniques disponibles qu'elle a déterminées pour les activités ou procédés concernés en accordant une attention particulière aux critères figurant à l'article 1er, 19°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-10-24/11, art. 11, 028; En vigueur : 18-02-2014&gt;
+
+### Section 2. - Obligations de l'exploitant.
+
+##### Art. 57
+
+L'exploitant qui a obtenu un permis d'environnement porte à la connaissance de l'autorité compétente, du [<sup>1</sup> collège communal]<sup>1</sup> et du fonctionnaire technique, la date fixée pour la mise en oeuvre du permis d'environnement au moins quinze jours avant celle-ci.
+
+L'autorité compétente ou le Gouvernement peuvent déterminer des cas dans lesquels la mise en ouvre du permis d'environnement est subordonnée à l'approbation préalable du fonctionnaire technique et le délai endéans lequel cette approbation doit intervenir.
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+##### Art. 58
+
+§ 1er. L'exploitant d'un établissement observe les conditions d'exploitation générales, sectorielles et particulières dans le cas d'un établissement de classe 1 ou de classe 2 ou, dans le cas d'un établissement de classe 3, les conditions générales, sectorielles et intégrales applicables à son établissement et les conditions complémentaires éventuellement prescrites par l'autorité compétente sur base de l'article 14, § 5.
+
+Toutefois, quand elle arrête des conditions particulières et, s'il échet, les conditions complémentaires fixées en vertu de l'article 14, § 5, l'autorité compétente peut fixer un délai de mise en oeuvre particulier pour l'application des conditions qu'elle désigne.
+
+§ 2. Indépendamment du permis délivré ou de la déclaration et sans préjudice des obligations imposées par d'autres dispositions, l'exploitant d'un établissement :
+
+1° prend toutes les précautions nécessaires pour éviter, réduire les dangers, nuisances ou inconvénients de l'établissement ou y remédier;
+
+2° [<sup>2</sup> signale immédiatement à l'autorité compétente et au fonctionnaire technique, tout accident ou incident de nature à porter préjudice aux intérêts visés à l'article 2 ou toute infraction aux conditions d'exploitation;]<sup>2</sup>
+
+3° fournit toute l'assistance nécessaire pour permettre aux fonctionnaires et agents compétents de mener a bien les actions visées [<sup>4</sup> à l'article D.162 du Livre Ier du Code de l'Environnement]<sup>4</sup>;
+
+4° informe l'autorité compétente et le fonctionnaire technique de toute cessation d'activité au moins dix jours avant cette opération sauf cas de force majeure;
+
+[<sup>3</sup> 5° informe l'autorité compétente, le fonctionnaire technique et les fonctionnaires et agents désignés par le Gouvernement de la déclaration de la faillite dans les dix jours de son prononcé sauf cas de force majeure.]<sup>3</sup>
+
+[<sup>3</sup> § 3. Sans préjudice de l'article 43 de la loi du 8 août 1997 sur les faillites les curateurs notifient, dès leur entrée en fonctions, à l'autorité compétente, à la commune lorsqu'elle n'est pas l'autorité compétente, au fonctionnaire technique et aux fonctionnaires et agents désignés par le Gouvernement, la faillite de l'établissement lorsque celui-ci implique le stockage ou l'utilisation de produits, substances ou déchets dangereux.
+
+Concomitamment, les curateurs procèdent à l'inventaire des produits et substances dangereuses et des déchets dangereux stockés dans l'établissement et prennent les mesures nécessaires pour éviter ou réduire les dangers, nuisances ou inconvénients. Ils [<sup>5</sup> envoient]<sup>5</sup> sans délai la liste des produits, substances ou déchets relevés et la liste des précautions prises à l'autorité compétente, à la commune lorsqu'elle n'est pas l'autorité compétente, au fonctionnaire technique et aux fonctionnaires et agents désignés par le Gouvernement.
+
+Dans le cadre de la mission visée à l'alinéa 2, les curateurs peuvent se faire aider, sous leur responsabilité, par toute personne qualifiée pour l'identification des produits, substances ou déchets présents sur le site, pour la rédaction de l'inventaire et pour la mise en oeuvre des mesures de précautions nécessaires.
+
+Les curateurs agissent pour compte de la masse, et les dettes afférentes à l'accomplissement des missions visées au présent paragraphe en ce compris les mesures de précautions nécessaires sont à charge de la masse.
+
+Les alinéas 1er à 3 s'appliquent dans les cas déterminés par le Gouvernement.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 75, 023; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2013-10-24/11, art. 12, 028; En vigueur : 18-02-2014&gt;
+
+(3)&lt;DRW 2016-06-23/09, art. 90, 033; En vigueur : 01-01-2016&gt;
+
+(4)&lt;DRW 2019-05-06/14, art. 3, 046; En vigueur : 01-07-2022&gt;
+
+(5)&lt;DRW 2018-05-24/14, art. 16, 036; En vigueur : 12-02-2026&gt;
+
+##### Art. 59
+
+L'exploitant conserve, sur les lieux mêmes de l'établissement ou à tout autre endroit convenu avec l'autorité compétente, l'ensemble des permis ou déclaration en vigueur ainsi que toute décision de l'autorité compétente de prescrire des conditions complémentaires d'exploitation prévues à l'article 14, § 5, et, le cas échéant, la liste des incidents et accidents visés a l'article 58, § 2, 2°.
+
+##### Art. 59bis
+
+&lt;Inséré par DRW 2002-09-19/31, art. 10; En vigueur : 01-10-2002&gt; Après la remise en état d'un centre d'enfouissement technique, l'exploitant est tenu d'en assurer la post-gestion pour toute la durée que le fonctionnaire technique jugera nécessaire jusqu'à la décision qu'il prendra en vertu de l'article 55, § 6bis , alinéa 4.
+
+La post-gestion du centre d'enfouissement technique comprend notamment les obligations suivantes :
+
+1° l'entretien général du site, et en particulier celui des installations de traitement des gaz de décharge et des lixiviats;
+
+2° la surveillance des gaz et des eaux rejetés par le centre d'enfouissement technique;
+
+3° le contrôle de la qualité des eaux de surface, des nappes aquifères, de l'air ambiant, des sols et des sous-sols susceptibles d'être affectés par le centre d'enfouissement technique.
+
+Le Gouvernement est habilité à fixer les modalités selon lesquelles ces obligations seront mises a charge de l'exploitant.
+
+##### Art. 59quater
+
+[<sup>1</sup> Le Gouvernement détermine les obligations auxquelles, après la fermeture d'un établissement constituant une installation de gestion de déchets d'extraction telle que définie par le Gouvernement, l'exploitant de cet établissement est tenu pour prévenir ou réduire autant que possible les effets néfastes sur l'environnement et la santé humaine résultant de la gestion de déchets d'extraction.
+
+Le Gouvernement établit un inventaire des installations de gestion de déchets d'extraction fermées, y compris les installations désaffectées, ayant des incidences graves sur l'environnement ou risquant, à court ou à moyen terme, de constituer une menace sérieuse pour la santé humaine ou l'environnement. Cet inventaire est réalisé en tenant compte, si elles sont disponibles, des méthodologies visées à l'article 21 de la Directive 2006/21/CE du 15 mars 2006 concernant la gestion des déchets de l'industrie extractive et modifiant la Directive 2004/35/CE. Il est mis à la disposition du public et est régulièrement mis à jour.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-12-18/47, art. 8, 019; En vigueur : 31-01-2009&gt;
+
+##### Art. 59quinquies
+
+[<sup>1</sup> Le Gouvernement détermine les obligations auxquelles, à la cessation ou à la fermeture d'un établissement dont des animaux font l'objet des installations et activités, l'exploitant de cet établissement est tenu pour assurer le bien-être des animaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-10-04/15, art. 11, 039; En vigueur : 01-01-2019&gt;
+
+### Section 3. - Changement d'exploitant.
+
+##### Art. 60
+
+§ 1er. Lorsqu'un établissement est exploité, en tout ou en partie, par une personne autre que le titulaire du permis d'environnement ou, dans le cas d'un établissement de classe 3, par une personne autre que le déclarant, le cédant ou ses ayants-droit et le cessionnaire procèdent à une notification conjointe [<sup>1</sup> au fonctionnaire technique]<sup>1</sup>.
+
+Le cessionnaire confirme par écrit, à cette occasion, avoir pris connaissance du permis ou de la déclaration et des conditions complémentaires éventuelles prescrites par l'autorité compétente sur base de l'article 14, § 5, poursuivre la même activité et accepter les conditions fixées dans le permis d'environnement ou les conditions complémentaires éventuellement prescrites.
+
+[<sup>1</sup> Le fonctionnaire technique donne aussitôt acte de sa déclaration au cessionnaire et en informe le ou les collèges communaux de la commune sur le territoire de laquelle est situé l'établissement]<sup>1</sup>.
+
+[<sup>1</sup> Le Gouvernement arrête la forme, le contenu et les modalités de procédure de la notification conjointe. ]<sup>1</sup>
+
+§ 2. Aussi longtemps que la déclaration conjointe du transfert n'a pas eu lieu et, le cas échéant, qu'une nouvelle sûreté n'a pas été constituée, l'exploitant cédant ou ses ayants-droit demeurent solidairement responsables avec le cessionnaire pour les dommages qui pourraient résulter du non-respect par le nouvel exploitant des conditions d'exploitation applicables à l'établissement.
+
+§ 3. Le Gouvernement peut interdire ou soumettre à d'autres conditions la transmission des permis pour les établissements qu'il désigne.
+
+§ 4. A l'occasion de tout acte translatif ou déclaratif de droits réels immobiliers sur l'établissement, tel que visé à l'article 1er de la loi hypothécaire du 16 décembre 1851, le notaire donne lecture du présent article aux parties présentes et en fait mention dans l'acte.
+
+----------
+
+(1)&lt;DRW 2018-05-24/14, art. 19, 036; En vigueur : 12-02-2026&gt;
+
+## CHAPITRE IX. - Surveillance et mesures administratives.
+
+### Section 1. - Surveillance et inspection.
+
+##### Art. 61
+
+[<sup>1</sup> § 1er. Pour les installations et activités désignées par le Gouvernement, le fonctionnaire technique met en place un système d'inspection environnementale des établissements portant sur l'examen de l'ensemble des effets environnementaux pertinents induits par les installations et activités concernées.
+
+Les établissements comprenant une ou plusieurs activités et installations désignées par le Gouvernement sont couverts par un plan d'inspection environnementale au niveau régional. Celui-ci est établi par le Gouvernement. Le plan est régulièrement révisé et, le cas échéant, mis à jour.
+
+§ 2. Sur la base du plan d'inspection environnementale, le fonctionnaire technique établit régulièrement des programmes d'inspections environnementales de routine, y compris la fréquence des visites des établissements pour les différents types d'installations.
+
+L'intervalle entre deux visites d'un établissement est basé sur l'évaluation systématique des risques environnementaux que présentent les établissements concernés et n'excède pas un an pour les établissements présentant les risques les plus élevés et trois ans pour les établissements présentant les risques les moins élevés.
+
+Si une inspection identifie un cas grave de non-respect des conditions d'exploitation, une visite supplémentaire de l'établissement est effectuée dans les six mois de ladite inspection.
+
+En cas de cessation définitive des installations et activités, le fonctionnaire technique programme une inspection environnementale afin de constater les mesures prises par l'exploitant conformément à l'article 45, § 1er, 7°.
+
+§ 3. Des inspections environnementales non programmées sont réalisées notamment de manière à pouvoir examiner, dans les meilleurs délais et, le cas échéant, avant la délivrance, le réexamen ou l'actualisation d'un permis d'environnement, les plaintes sérieuses et les cas graves d'accident, d'incident et d'infraction en rapport avec l'environnement.
+
+§ 4. Après chaque visite d'un établissement, le fonctionnaire technique établit un rapport décrivant les constatations pertinentes faites en ce qui concerne la conformité de l'établissement avec les conditions d'exploitation et les conclusions concernant la suite à donner.
+
+Sans préjudice de l'article 58, § 2, le fonctionnaire technique s'assure que l'exploitant prend toutes les mesures nécessaires indiquées dans le rapport dans un délai raisonnable.
+
+§ 5. Le rapport est envoyé à l'exploitant concerné dans un délai de deux mois suivant la visite de l'établissement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-10-24/11, art. 13, 028; En vigueur : 18-02-2014&gt;
+
+##### Art. 62
+
+&lt;Abrogé par DRW 2008-06-05/36, art. 16, 018; En vigueur : 06-02-2009&gt;
+
+##### Art. 63
+
+&lt;Abrogé par DRW 2018-05-24/14, art. 20, 036; En vigueur : 16-06-2018&gt;
+
+### Section 2. - Mesures de police administrative.
+
+#### Sous-section 1. - Action sur le permis en l'absence d'infraction.
+
+##### Art. 64
+
+Le Gouvernement [<sup>1</sup> précise]<sup>1</sup> les cas dans lesquels les conditions particulières d'exploitation contenues dans les permis délivrés doivent faire l'objet d'un réexamen. Il précise, [<sup>1</sup> ...]<sup>1</sup>, la périodicité du réexamen.
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 11, 017; En vigueur : 17-12-2007&gt;
+
+##### Art. 65
+
+§ 1er. (L'autorité compétente, pour délivrer le permis d'environnement en première instance, peut, sur avis du fonctionnaire technique et des instances désignées par le Gouvernement, compléter ou modifier les conditions particulières d'exploitation :
+
+1° si elle constate que ces conditions ne sont plus appropriées pour éviter, réduire les dangers, nuisances ou inconvénients visés à l'article 2 ou y remédier;
+
+2° si cela est nécessaire, pour assurer le respect des normes d'immission fixées par le Gouvernement;
+
+3° si cela est nécessaire, pour assurer le respect des exigences en matière de surveillance et de déclaration des émissions des installations, notamment des émissions de gaz à effet de serre spécifiés des installations;
+
+[<sup>4</sup> 4° en ce qui concerne les établissements constituant une installation de gestion de déchets d'extraction telle que définie par le Gouvernement, si cela s'avère nécessaire :
+
+a) suite à une modification importante de l'exploitation de l'installation. Par modification importante, on entend une modification apportée à la structure ou à l'exploitation de l'installation qui, de l'avis du fonctionnaire technique, est susceptible d'avoir des effets négatifs importants sur la santé humaine ou l'environnement;
+
+b) suite à un événement susceptible de porter atteinte à la stabilité de l'installation ou à un effet néfaste important sur l'environnement révélé par les procédures de contrôle et de surveillance de l'installation;
+
+c) à la lumière de l'échange d'informations sur une évolution majeure des meilleures techniques disponibles prévu à l'article 21, § 3, de la Directive 2006/21/CE du Parlement européen et du Conseil du 15 mars 2006 concernant la gestion des déchets de l'industrie extractive et modifiant la Directive 2004/35/CE.]<sup>4</sup>
+
+[<sup>9</sup> 5° si cela est nécessaire, en ce qui concerne les établissements dont des animaux font l'objet des installations et activités, pour garantir davantage le bien-être animal.]<sup>9</sup>
+
+L'autorité compétente, pour délivrer le permis d'environnement en première instance, envoie sa proposition ou la demande de complément ou de modification des conditions particulières d'exploitation, visée à l'article 67 :
+
+1° au fonctionnaire technique, lorsque celui-ci n'est pas l'autorité compétente;
+
+2° à l'exploitant;
+
+3° au (collège communal)(3) de la ou des communes sur le territoire de laquelle ou desquelles est situé l'établissement, lorsque celui-ci n'est pas l'autorité compétente.
+
+[<sup>6</sup> L'autorité compétente envoie la demande de complément ou de modification des conditions particulières d'exploitation au fonctionnaire technique dans un délai de trois jours ouvrables à dater de sa réception lorsque l'autorité compétente a été saisie d'une demande conformément à l'article 67.
+
+Si l'autorité compétente n'a pas envoyé la demande de complément ou de modification des conditions particulières d'exploitation dans le délai prévu à l'alinéa précédent au fonctionnaire technique, le demandeur peut saisir directement le fonctionnaire technique en lui adressant une copie de la demande qu'il a initialement adressée au collège communal.]<sup>6</sup>
+
+Lorsqu'il n'est pas l'autorité compétente, le fonctionnaire technique dispose d'un délai de trente jours, à dater de la réception de la proposition ou de la demande visée à l'alinéa 2, pour remettre un avis sur la nécessité d'organiser une enquête publique. A défaut d'avis dans ce délai, une enquête publique est organisée.
+
+Lorsqu'il est l'autorité compétente, il transmet sa décision d'organiser une enquête publique au [<sup>3</sup> collège communal]<sup>3</sup> concomitamment [<sup>7</sup> à l'envoi de la proposition lorsqu'il exerce les pouvoirs prévus au présent article d'initiative ou dans les trente jours de la réception de la demande lorsqu'il a été saisi d'une demande conformément à l'article 67]<sup>7</sup>. [<sup>7</sup> Si la décision d'organiser une enquête publique n'est pas transmise dans ce délai, une enquête publique est organisée.]<sup>7</sup>
+
+La proposition de l'autorité compétente ou la demande de complément ou de modification des conditions particulières d'exploitation visée à l'article 67 est soumise à une enquête publique organisée par le [<sup>3</sup> collège communal]<sup>3</sup> dans la ou les communes sur le territoire de laquelle ou desquelles est situé l'établissement, conformément [<sup>1</sup> selon les modalités définies au Livre Ier du Code de l'Environnement]<sup>1</sup>, lorsque :
+
+\- cette proposition ou cette demande vise le cas où une pollution causée par l'établissement est telle qu'il convient de réviser les valeurs limites d'émission existantes d'un permis ou d'inclure de nouvelles valeurs limites d'émission;
+
+\- la demande de complément ou la modification des conditions particulières d'exploitation visée à l'article 67 peut avoir un effet important sur l'environnement;
+
+[<sup>4</sup> - cette proposition ou cette demande concerne un des cas visés à l'alinéa 1er, 4°.]<sup>4</sup>
+
+[<sup>8</sup> - cette proposition ou cette demande vise l'application de l'article 7bis, § 2.]<sup>8</sup>
+
+Sur la base des avis recueillis, le fonctionnaire technique envoie son avis à l'autorité compétente dans les cinquante jours suivant [<sup>5</sup> la réception du procès-verbal de clôture de l'enquête publique]<sup>5</sup> ou, si aucune enquête n'a été organisée, dans les cinquante jours suivant l'envoi de la proposition ou de la demande de complément ou de modification des conditions particulières. Passé ce délai, la procédure est poursuivie. Le jour où il envoie son avis, le fonctionnaire technique en avise le demandeur et l'exploitant.
+
+L'autorité compétente envoie sa décision au demandeur, au fonctionnaire technique, à l'exploitant ainsi qu'à chaque autorité ou administration consultée dans un délai de trente jours à dater du jour où elle reçoit l'avis du fonctionnaire technique.
+
+A défaut de décision de l'autorité compétente dans ce délai, l'avis du fonctionnaire technique vaut décision [<sup>2</sup> ...]<sup>2</sup>. Lorsque le fonctionnaire technique est l'autorité compétente, la demande est censée être rejetée.) &lt;DRW 2006-07-07/54, art. 2, 014; En vigueur : 03-02-2007&gt;
+
+§ 2. L'autorité compétente en première instance, sur avis du fonctionnaire technique, suspend temporairement ou retire le permis s'il apparaît que, même en complétant ou modifiant les conditions d'exploitation, l'exploitation cause des dangers, nuisances ou inconvénients présentant une menace grave pour l'homme ou pour l'environnement.
+
+----------
+
+(1)&lt;DRW 2007-05-31/46, art. 56, 016; En vigueur : 08-03-2008&gt;
+
+(2)&lt;DRW 2007-11-22/39, art. 12, 017; En vigueur : 17-12-2007&gt;
+
+(3)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+(4)&lt;DRW 2008-12-18/47, art. 9, 019; En vigueur : 31-01-2009&gt;
+
+(5)&lt;DRW 2010-07-22/10, art. 76, 023; En vigueur : 30-08-2010&gt;
+
+(6)&lt;DRW 2011-10-27/04, art. 73, 024; En vigueur : 04-12-2011&gt;
+
+(7)&lt;DRW 2011-10-27/04, art. 74, 024; En vigueur : 04-12-2011&gt;
+
+(8)&lt;DRW 2013-10-24/11, art. 14, 028; En vigueur : 18-02-2014&gt;
+
+(9)&lt;DRW 2018-10-04/15, art. 12, 039; En vigueur : 01-01-2019&gt;
+
+##### Art. 65 DROIT FUTUR
+
+[<sup>10</sup> § 1er. L'autorité compétente visée à l'article 13 peut compléter ou modifier les conditions particulières d'exploitation :
+
+1° si elle constate que ces conditions ne sont plus appropriées pour éviter, réduire les dangers, nuisances ou inconvénients visés à l'article 2 ou y remédier;
+
+2° si cela est nécessaire, pour assurer le respect des normes d'immission fixées par le Gouvernement;
+
+3° si cela est nécessaire, pour assurer le respect des exigences en matière de surveillance et de déclaration des émissions des installations, notamment des émissions de gaz à effet de serre spécifiés des installations;
+
+4° en ce qui concerne les établissements constituant une installation de gestion de déchets d'extraction telle que définie par le Gouvernement, si cela s'avère nécessaire :
+
+a) suite à une modification importante de l'exploitation de l'installation. Par modification importante, on entend une modification apportée à la structure ou à l'exploitation de l'installation qui, de l'avis du fonctionnaire technique, est susceptible d'avoir des effets négatifs importants sur la santé humaine ou l'environnement;
+
+b) suite à un événement susceptible de porter atteinte à la stabilité de l'installation ou à un effet néfaste important sur l'environnement révélé par les procédures de contrôle et de surveillance de l'installation;
+
+c) à la lumière de l'échange d'informations sur une évolution majeure des meilleures techniques disponibles prévu à l'article 21, § 3, de la Directive 2006/21/CE du Parlement européen et du Conseil du 15 mars 2006 concernant la gestion des déchets de l'industrie extractive et modifiant la Directive 2004/35/CE.
+
+Le Gouvernement arrête la forme et le contenu de la proposition de complément ou de modification des conditions particulières d'exploitation et de la demande de complément ou de modification des conditions particulières d'exploitation ainsi que le nombre d'exemplaires à introduire.
+
+§ 2. Sous peine d'irrecevabilité, la demande de complément ou de modification des conditions particulières d'exploitation visée à l'article 67, accompagnée de la preuve du versement du droit de dossier visé à l'article 177, est envoyée entièrement, soit par la voie électronique, soit par la voie papier, à l'autorité compétente visée à l'article 13.
+
+Dans un délai de trois jours ouvrables à dater de la réception de la demande, l'autorité compétente visée à l'article 13 envoie celle-ci au fonctionnaire technique lorsqu'il n'est pas l'autorité compétente. Elle en informe simultanément le demandeur par la voie papier lorsque la demande a été envoyée par la voie papier ou par la voie électronique lorsque la demande a été envoyée par la voie électronique.
+
+Si l'autorité compétente visée à l'article 13 n'a pas envoyé la demande de complément ou de modification des conditions particulières d'exploitation dans le délai prévu à l'alinéa 2 au fonctionnaire technique, le demandeur peut saisir directement le fonctionnaire technique en lui adressant une copie de la demande qu'il a initialement adressée à l'autorité compétente. Lorsque la demande a été envoyée par la voie électronique, le demandeur informe le fonctionnaire technique que la demande a été initialement adressée à l'autorité compétente visée à l'article 13 par la voie électronique.
+
+§ 3. Sous peine d'irrecevabilité, l'autorité compétente visée à l'article 13 envoie sa proposition de complément ou de modification des conditions particulières d'exploitation, accompagnée de la preuve du versement du droit de dossier visé à l'article 177, soit par la voie électronique, soit par la voie papier :
+
+1° au fonctionnaire technique, lorsqu'il n'est pas l'autorité compétente;
+
+2° à l'exploitant;
+
+3° au collège communal de la ou des communes sur le territoire de laquelle ou desquelles est situé l'établissement, lorsque celui-ci n'est pas l'autorité compétente.
+
+§ 4. Lorsqu'il n'est pas l'autorité compétente, le fonctionnaire technique, déclare la proposition ou la demande irrecevable si elles ont été introduites en violation du paragraphe 1er, alinéa 2.
+
+Lorsqu'il n'est pas l'autorité compétente, le fonctionnaire technique envoie au demandeur et au proposant la décision attestant du caractère recevable de la demande dans un délai de trente jours à dater du jour où il reçoit la demande ou la proposition.
+
+Dans cette décision, le fonctionnaire technique désigne les instances à consulter et remet un avis sur la nécessité d'organiser une enquête publique. Si tel est le cas, il mentionne les communes où devront être organisées l'enquête. A défaut d'avis dans ce délai, une enquête publique est organisée.
+
+Lorsqu'il n'est pas l'autorité compétente, si le fonctionnaire technique n'a pas envoyé au demandeur et au proposant la décision visée à l'alinéa 2, la demande est considérée comme recevable, au terme du délai prévu. La procédure est poursuivie.
+
+§ 5. Lorsqu'il est l'autorité compétente, le fonctionnaire technique envoie sa décision d'organiser une enquête publique au collège communal concomitamment à l'envoi de sa proposition au collège communal de la ou des communes sur le territoire de laquelle ou desquelles est situé l'établissement.
+
+La proposition de complément ou de modification des conditions particulières d'exploitation ou la demande de complément ou de modification des conditions particulières d'exploitation est soumise à une enquête publique selon les modalités du Livre Ier du Code de l'Environnement lorsque cette proposition ou cette demande :
+
+1° vise le cas où la pollution causée par l'établissement est telle qu'il convient de réviser les valeurs limites d'émission existantes d'un permis ou d'inclure de nouvelles valeurs limites d'émission;
+
+2° est de nature à aggraver les dangers, nuisances ou inconvénients visés à l'article 2;
+
+3° concerne un des cas visés à l'alinéa 1er, 4°;
+
+4° vise l'application de l'article 7bis, § 2.
+
+Les instances d'avis visées au paragraphe 4, alinéa 3, envoient leur avis au fonctionnaire technique dans un délai de trente jours à dater de leur saisine par le fonctionnaire technique. A défaut d'envoi d'avis dans le délai prévu, l'avis est réputé favorable.
+
+§ 6. Sur la base des avis recueillis, le fonctionnaire technique, lorsqu'il n'est pas l'autorité compétente, rend un avis à l'autorité compétente visée à l'article 13 dans un délai de septante jours à dater l'envoi de la décision attestant du caractère recevable de la proposition ou de la demande où, à défaut, à dater du jour suivant le délai qui lui était imparti pour envoyer sa décision attestant du caractère recevable de la proposition ou de la demande. Le jour où il envoie son avis, il en avise le demandeur et l'exploitant.
+
+L'autorité compétente visée à l'article 13 envoie sa décision au demandeur, à l'exploitant, au fonctionnaire technique, lorsqu'il n'est pas l'autorité compétente, dans un délai de quarante jours à dater du jour où elle reçoit l'avis du fonctionnaire technique.
+
+Selon le mode d'envoi de documents choisi pendant la procédure d'instruction par chaque autorité ou administration consultée, l'autorité compétente envoie sa décision à celles-ci dans le délai visé à l'alinéa 2, soit par la voie papier, soit par la voie électronique.
+
+A défaut de décision de l'autorité compétente dans ce délai, l'avis du fonctionnaire technique vaut décision. A défaut d'avis du fonctionnaire technique, la proposition ou la demande est censée être rejetée.
+
+§ 7. Le Gouvernement détermine la procédure de décision lorsque le fonctionnaire technique est l'autorité compétente visée à l'article 13 et peut fixer des mesures d'instruction complémentaires pour la proposition de complément ou de modification des conditions particulières d'exploitation ou la demande de complément ou de modification des conditions particulières d'exploitation]<sup>10</sup>.
+
+§ [<sup>10</sup> 8]<sup>10</sup>. [<sup>10</sup> L'autorité compétente visée à l'article 13]<sup>10</sup>, sur avis du fonctionnaire technique, suspend temporairement ou retire le permis s'il apparaît que, même en complétant ou modifiant les conditions d'exploitation, l'exploitation cause des dangers, nuisances ou inconvénients présentant une menace grave pour l'homme ou pour l'environnement.
+
+----------
+
+(1)&lt;DRW 2007-05-31/46, art. 56, 016; En vigueur : 08-03-2008&gt;
+
+(2)&lt;DRW 2007-11-22/39, art. 12, 017; En vigueur : 17-12-2007&gt;
+
+(3)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+(4)&lt;DRW 2008-12-18/47, art. 9, 019; En vigueur : 31-01-2009&gt;
+
+(5)&lt;DRW 2010-07-22/10, art. 76, 023; En vigueur : 30-08-2010&gt;
+
+(6)&lt;DRW 2011-10-27/04, art. 73, 024; En vigueur : 04-12-2011&gt;
+
+(7)&lt;DRW 2011-10-27/04, art. 74, 024; En vigueur : 04-12-2011&gt;
+
+(8)&lt;DRW 2013-10-24/11, art. 14, 028; En vigueur : 18-02-2014&gt;
+
+(9)&lt;DRW 2018-10-04/15, art. 12, 039; En vigueur : 01-01-2019&gt;
+
+(10)&lt;DRW 2018-05-24/14, art. 21, 036; En vigueur : indéterminée &gt;
+
+##### Art. 66
+
+&lt;Abrogé par DRW 2018-05-24/14, art. 22, 036; En vigueur : 16-06-2018&gt;
+
+##### Art. 67
+
+L'autorité compétente exerce les pouvoirs prévus à l'article 65, soit de sa propre initiative, soit sur demande :
+
+1° de l'exploitant;
+
+2° des autorités et administrations consultées au cours de la procédure de délivrance du permis;
+
+3° du titulaire d'un droit réel ou personnel sur un bien qui est ou risque d'être endommagé par l'abaissement de la nappe phréatique provoqué par une prise d'eau;
+
+4° du titulaire d'un permis de prise d'eau potabilisable octroyé antérieurement et non périmé si cette prise d'eau est ou risque d'être altérée en quantité ou en qualité.
+
+##### Art. 68
+
+Avant de prendre une décision sur base de l'article 65, et sauf urgence spécialement motivée, l'autorité compétente donne à l'exploitant la possibilité de faire valoir dans des délais raisonnables ses observations, oralement ou par écrit. Les modalités de la procédure sont fixées par le Gouvernement.
+
+##### Art. 69
+
+&lt;DRW 2006-07-07/54, art. 3, 014; En vigueur : 03-02-2007&gt; Un recours, envoyé et instruit conformément au chapitre IV, est ouvert :
+
+1° à toutes les personnes visées par l'article 67 contre les décisions prises en vertu de l'article 65;
+
+2° aux personnes non visées au 1° justifiant d'un intérêt contre les décisions prises en vertu de l'article 65, § 1er.
+
+Le recours n'est pas suspensif de la décision attaquée.
+
+##### Art. 70
+
+Toute décision complétant ou modifiant les conditions d'exploitation, suspendant ou retirant le permis, est [<sup>2</sup> envoyée]<sup>2</sup> à l'exploitant, au fonctionnaire technique et à l'autorité communale. Elle précise le délai de mise en oeuvre de ces conditions. Elle est, en outre, portée à la connaissance du public par voie d'affichage, selon la procédure visée à l'article [<sup>1</sup> D. 29-22, § 2, du Code de l'Environnement]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 77, 023; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2018-05-24/14, art. 23, 036; En vigueur : 12-02-2026&gt;
+
+#### Sous-section 2. - Action sur l'établissement en l'absence d'infraction.
+
+##### Art. 71
+
+§ 1er. Sans préjudice de l'application d'autres mesures de sécurité, si un danger met gravement en péril la protection de l'environnement ou la sécurité ou la santé de la population [<sup>3</sup> ou met gravement en péril la vie ou le bien-être des animaux faisant l'objet des installations et activités]<sup>3</sup>, et si l'exploitant refuse d'obtempérer aux instructions des fonctionnaires et agents désignés par le Gouvernement, le bourgmestre, d'office ou sur rapport de l'un de ces derniers, prend toute mesure utile pour faire cesser ce danger, et notamment :
+
+1° ordonner la cessation totale ou partielle de l'exploitation;
+
+2° mettre les appareils sous scelles et, au besoin, procéder à la fermeture provisoire immédiate de l'établissement;
+
+3° imposer à l'exploitant un plan d'intervention ou l'introduction d'un plan de remise en état et, le cas échéant, de fournir au bénéfice de la Région une sûreté suivant l'une des modalités prévues à l'article 55 afin de garantir la remise en état.
+
+[<sup>1</sup> 4° informer le fonctionnaire chargé de la surveillance.]<sup>1</sup>
+
+Les mêmes pouvoirs sont conférés aux fonctionnaires et agents désignés par le Gouvernement, en cas d'inertie du bourgmestre ou lorsque l'imminence du danger est telle que le moindre retard peut provoquer un accident.
+
+§ 2. Le plan de remise en état approuvé selon les modalités déterminées par le Gouvernement vaut permis d'environnement et permis d'urbanisme. Le Gouvernement peut déterminer les modalités d'établissement, d'approbation et de réalisation des plans de remise en état.
+
+§ 3. Lorsque l'exploitant reste en défaut d'introduire un plan ou ne le respecte pas une fois approuvé, le bourgmestre ou le Gouvernement peut procéder d'office à la remise en état. Ils agissent conformément [<sup>4</sup> à l'article D.169 du Livre Ier du Code de l'Environnement]<sup>4</sup>.
+
+§ 4. L'exploitant à l'encontre de qui la mesure de sécurité a été prise peut introduire un recours auprès du Gouvernement contre la décision visée au § 1er. Le recours n'est pas suspensif. A défaut de décision dans le délai prescrit par le Gouvernement, le recours est censé être rejeté.
+
+Le Gouvernement règle les modalités du recours et détermine notamment :
+
+1° les informations que doit contenir le recours, sa forme et le nombre d'exemplaires devant être introduits;
+
+2° les modalités selon lesquelles il est porté à la connaissance du public;
+
+3° les modalités d'instruction du recours par le fonctionnaire technique compétent.
+
+§ 5. L'exploitant à l'encontre de qui la mesure de sécurité a été prise et les autres personnes intéressées peuvent demander la levée ou la modification de la mesure, par lettre recommandée à l'autorité qui a pris la mesure ou au Gouvernement, si celui-ci a statué sur le recours. La demande n'est pas suspensive.
+
+La demande est censée être refusée si l'autorité n'a pas statué dans un délai d'un mois à dater du jour de la réception de la demande. Un recours est ouvert contre le refus tacite ou explicite conformément au § 4, sauf s'il a été statué par le Gouvernement sur recours.
+
+§ 6. La demande adressée en vertu du § 5 ne peut, sous peine d'irrecevabilité, être adressée concomitamment avec le recours prévu au § 4.
+
+----------
+
+(1)&lt;DRW 2008-12-05/75, art. 78, 020; En vigueur : 18-05-2009&gt;
+
+(2)&lt;DRW 2010-07-22/10, art. 78, 023; En vigueur : 30-08-2010&gt;
+
+(3)&lt;DRW 2018-10-04/15, art. 13, 039; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DRW 2019-05-06/14, art. 4, 046; En vigueur : 01-07-2022&gt;
+
+##### Art. 71 DROIT FUTUR
+
+§ 1er. Sans préjudice de l'application d'autres mesures de sécurité, si un danger met gravement en péril la protection de l'environnement ou la sécurité ou la santé de la population [<sup>3</sup> ou met gravement en péril la vie ou le bien-être des animaux faisant l'objet des installations et activités]<sup>3</sup>, et si l'exploitant refuse d'obtempérer aux instructions des fonctionnaires et agents désignés par le Gouvernement, le bourgmestre, d'office ou sur rapport de l'un de ces derniers, prend toute mesure utile pour faire cesser ce danger, et notamment :
+
+1° ordonner la cessation totale ou partielle de l'exploitation;
+
+2° mettre les appareils sous scelles et, au besoin, procéder à la fermeture provisoire immédiate de l'établissement;
+
+3° imposer à l'exploitant un plan d'intervention ou l'introduction d'un plan de remise en état et, le cas échéant, de fournir au bénéfice de la Région une sûreté suivant l'une des modalités prévues à l'article 55 afin de garantir la remise en état.
+
+[<sup>1</sup> 4° informer le fonctionnaire chargé de la surveillance.]<sup>1</sup>
+
+Les mêmes pouvoirs sont conférés aux fonctionnaires et agents désignés par le Gouvernement, en cas d'inertie du bourgmestre ou lorsque l'imminence du danger est telle que le moindre retard peut provoquer un accident.
+
+§ 2. Le plan de remise en état approuvé selon les modalités déterminées par le Gouvernement vaut permis d'environnement et permis d'urbanisme. Le Gouvernement peut déterminer les modalités d'établissement, d'approbation et de réalisation des plans de remise en état.
+
+§ 3. Lorsque l'exploitant reste en défaut d'introduire un plan ou ne le respecte pas une fois approuvé, le bourgmestre ou le Gouvernement peut procéder d'office à la remise en état. Ils agissent conformément [<sup>4</sup> à l'article D.169 du Livre Ier du Code de l'Environnement]<sup>4</sup>.
+
+§ 4. [<sup>5</sup> L'exploitant à l'encontre de qui la mesure de sécurité a été prise peut introduire un recours auprès du Gouvernement contre la décision visée au paragraphe 1er conformément à l'article D. 150 du Livre Ier du Code de l'environnement]<sup>5</sup>.
+
+§ 5. L'exploitant à l'encontre de qui la mesure de sécurité a été prise et les autres personnes intéressées peuvent demander la levée ou la modification de la mesure, par lettre recommandée à l'autorité qui a pris la mesure ou au Gouvernement, si celui-ci a statué sur le recours. La demande n'est pas suspensive.
+
+La demande est censée être refusée si l'autorité n'a pas statué dans un délai d'un mois à dater du jour de la réception de la demande. Un recours est ouvert contre le refus tacite ou explicite conformément au § 4, sauf s'il a été statué par le Gouvernement sur recours.
+
+§ 6. La demande adressée en vertu du § 5 ne peut, sous peine d'irrecevabilité, être adressée concomitamment avec le recours prévu au § 4.
+
+----------
+
+(1)&lt;DRW 2008-12-05/75, art. 78, 020; En vigueur : 18-05-2009&gt;
+
+(2)&lt;DRW 2010-07-22/10, art. 78, 023; En vigueur : 30-08-2010&gt;
+
+(3)&lt;DRW 2018-10-04/15, art. 13, 039; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DRW 2019-05-06/14, art. 4, 046; En vigueur : 01-07-2022&gt;
+
+(5)&lt;DRW 2018-05-24/14, art. 24, 036; En vigueur : indéterminée &gt;
+
+#### Sous-section 3. - Action sur le permis ou la déclaration en cas d'infraction.
+
+##### Art. 72
+
+§ 1er. Afin d'éviter, de réduire les dangers, nuisances ou inconvénients visés à l'article 2 ou d'y remédier, lorsqu'une infraction au présent décret ou à ses arrêtés d'exécution a été constatée, l'autorité compétente en première instance pour délivrer le permis d'environnement peut suspendre ou retirer celui-ci, notamment si :
+
+1° les conditions générales, sectorielles ou particulières applicables à son établissement ne sont pas respectées;
+
+2° les obligations énumérées à l'article 58, § 2, ne sont pas rencontrées.
+
+Toutefois, à la demande de l'exploitant, l'autorité compétente peut, dans des circonstances exceptionnelles et sur rapport favorable du fonctionnaire technique, autoriser l'exploitant à déroger temporairement aux conditions d'exploitation.
+
+§ 2. Afin d'éviter, de réduire les dangers, nuisances ou inconvénients visés à l'article 2 ou d'y remédier, lorsqu'une infraction au présent décret ou à ses arrêtés d'exécution a été constatée, l'autorité compétente, pour recevoir la déclaration, peut ordonner la suspension ou l'interdiction d'exploiter l'établissement soumis à déclaration. Dans ce cas, elle en informe le fonctionnaire désigné par le Gouvernement.
+
+Toute nouvelle déclaration pour l'établissement considéré est soumise à la condition que le fonctionnaire désigné par le Gouvernement ait averti l'autorité compétente que l'exploitation peut être assurée dans des conditions conformes au présent décret et a ses arrêtés d'exécution.
+
+§ 3. Préalablement à toute décision de suspension, de retrait ou d'interdiction prévue aux §§ 1er et 2, l'autorité compétente adresse un avertissement à l'exploitant et lui indique le délai dans lequel il doit s'y conformer.
+
+[<sup>1</sup> § 4. Lorsqu'une infraction au présent décret ou à ses arrêtés d'exécution présente un danger direct pour la santé humaine ou risque de produire un préjudice important et immédiat sur l'environnement, les permis des installations et activités désignées par le Gouvernement, des installations de combustion et des installations d'incinération et de coincinération de déchets sont suspendus par l'autorité compétente. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-10-24/11, art. 15, 028; En vigueur : 18-02-2014&gt;
+
+##### Art. 73
+
+Les articles 67 à 70 sont applicables aux décisions de suspension, de retrait ou d'interdiction d'exploiter prises sur base de l'article 72. Le recours contre une décision prise sur base de l'article 72 n'est cependant pas suspensif.
+
+#### Sous-section 4. - Action sur l'établissement en cas d'infraction.
+
+##### Art. 74
+
+&lt;Abrogé par DRW 2008-06-05/36, art. 16, 018; En vigueur : 06-02-2009&gt;
+
+##### Art. 75
+
+[<sup>1</sup> L'article 71 n'est pas applicable aux cas où la remise en état est effectuée par la société publique visée à l'article 39 du décret du 27 juin 1996 relatif aux déchets sur la base de ce décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-06-05/36, art. 10, 018; En vigueur : 06-02-2009&gt;
+
+### Section 3. - Amendes administratives.
+
+##### Art. 76
+
+&lt;Abrogé par DRW 2008-06-05/36, art. 16, 018; En vigueur : 06-02-2009&gt;
+
+### Section 4. - [<sup>1</sup> Obligation de notification périodique de données environnementales.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2007-11-22/39, art. 14, 017; En vigueur : 14-02-2008&gt;
+
+##### Art. 76bis
+
+[<sup>1</sup> La présente section s'applique aux installations et activités déterminées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2007-11-22/39, art. 14, 017; En vigueur : 14-02-2008&gt;
+
+##### Art. 76ter
+
+[<sup>1</sup> § 1er. L'exploitant rassemble, pour chaque établissement, les données environnementales et les notifie à l'administration de l'environnement en remplissant le formulaire déterminé par le Gouvernement. Ce formulaire comprend les données environnementales relatives à l'année civile précédant l'année de notification.
+
+Sans préjudice d'autres obligations de notification de données, la notification est annuelle et elle a lieu avant le 31 mars de chaque année.
+
+§ 2. L'exploitant garantit la qualité des données environnementales qu'il fournit à l'administration de l'environnement en utilisant les meilleures informations disponibles, notamment des données de surveillance, des facteurs d'émission, des équations de bilan matière, une surveillance indirecte ou d'autres calculs, des appréciations techniques ou autres et des méthodes internationalement approuvées, s'il en existe. Il tient à la disposition de l'administration de l'environnement les données environnementales fournies et la méthode utilisée pour la collecte de ces données pendant cinq années.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2007-11-22/39, art. 14, 017; En vigueur : 14-02-2008&gt;
+
+##### Art. 76quater
+
+[<sup>1</sup> § 1er. L'exploitant a le choix entre le remplissage du formulaire dans sa version papier ou dans sa version électronique. La signature du formulaire en version électronique répond aux conditions de l'article 4, § 4, de la loi du 9 juillet 2001 fixant certaines règles relatives au cadre juridique pour les signatures électroniques et les services de certification.
+
+§ 2. Le formulaire est envoyé à l'administration de l'environnement et, après réception du formulaire dûment complété par l'exploitant, celle-ci évalue et décide de la qualité des données environnementales fournies par l'exploitant. Le cas échéant, l'administration de l'environnement demande à l'exploitant des informations complémentaires sur les données environnementales.
+
+Lorsqu'elle estime que la qualité des données est insuffisante sur le plan de l'exhaustivité, de la cohérence et de la crédibilité, l'administration de l'environnement peut modifier les données fournies.
+
+§ 3. L'administration de l'environnement envoie à l'exploitant sa décision sur la qualité des données environnementales dans un délai de six mois à partir de la réception du formulaire.
+
+L'exploitant peut contester cette décision dans un délai de trente jours auprès de l'administration de l'environnement à partir de la réception de la décision. Celle-ci peut désigner un expert chargé de rendre un avis sur les données environnementales fournies par l'exploitant ainsi que sur les éléments avancés par l'administration de l'environnement pour modifier les données. L'expert est désigné de commun accord avec l'exploitant et est compétent en matière de données environnementales relatives aux émissions de polluants dans l'air ou dans l'eau ou dans le sol ou en matière de transfert des déchets. Sur la base de cet avis, l'administration de l'environnement envoie sa décision à l'exploitant dans un délai de soixante jours à partir de la réception de la contestation. A défaut de décision de l'administration de l'environnement dans les délais requis, les données transmises par l'exploitant sont considérées comme valides.
+
+§ 4. Lorsque l'exploitant ne notifie pas à l'administration de l'environnement les données environnementales dans le délai visé à l'article 76ter, § 1er, l'administration de l'environnement utilise les informations qu'elle a en sa possession pour élaborer les données environnementales.
+
+§ 5. [<sup>2</sup> Les §§ 2 à 4]2 ne sont pas applicables aux données environnementales visées par [2 l'article 10, § 1er]<sup>2</sup>, du décret du 10 novembre 2004 instaurant un système d'échange de quotas d'émission de gaz à effet de serre, créant un Fonds wallon Kyoto et relatif aux mécanismes de flexibilité du Protocole de Kyoto.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2007-11-22/39, art. 14, 017; En vigueur : 14-02-2007&gt;
+
+(2)&lt;DRW 2012-06-21/08, art. 35, 026; En vigueur : 01-01-2013&gt;
+
+##### Art. 76quater DROIT FUTUR
+
+[<sup>1</sup> § 1er. L'exploitant a le choix entre le remplissage du formulaire dans sa version papier ou dans sa version électronique. [<sup>3</sup> ...]<sup>3</sup>.
+
+§ 2. Le formulaire est envoyé à l'administration de l'environnement et, après réception du formulaire dûment complété par l'exploitant, celle-ci évalue et décide de la qualité des données environnementales fournies par l'exploitant. Le cas échéant, l'administration de l'environnement demande à l'exploitant des informations complémentaires sur les données environnementales.
+
+Lorsqu'elle estime que la qualité des données est insuffisante sur le plan de l'exhaustivité, de la cohérence et de la crédibilité, l'administration de l'environnement peut modifier les données fournies.
+
+§ 3. L'administration de l'environnement envoie à l'exploitant sa décision sur la qualité des données environnementales dans un délai de six mois à partir de la réception du formulaire.
+
+L'exploitant peut contester cette décision dans un délai de trente jours auprès de l'administration de l'environnement à partir de la réception de la décision. Celle-ci peut désigner un expert chargé de rendre un avis sur les données environnementales fournies par l'exploitant ainsi que sur les éléments avancés par l'administration de l'environnement pour modifier les données. L'expert est désigné de commun accord avec l'exploitant et est compétent en matière de données environnementales relatives aux émissions de polluants dans l'air ou dans l'eau ou dans le sol ou en matière de transfert des déchets. Sur la base de cet avis, l'administration de l'environnement envoie sa décision à l'exploitant dans un délai de soixante jours à partir de la réception de la contestation. A défaut de décision de l'administration de l'environnement dans les délais requis, les données transmises par l'exploitant sont considérées comme valides.
+
+§ 4. Lorsque l'exploitant ne notifie pas à l'administration de l'environnement les données environnementales dans le délai visé à l'article 76ter, § 1er, l'administration de l'environnement utilise les informations qu'elle a en sa possession pour élaborer les données environnementales.
+
+§ 5. [<sup>2</sup> Les §§ 2 à 4]2 ne sont pas applicables aux données environnementales visées par [2 l'article 10, § 1er]<sup>2</sup>, du décret du 10 novembre 2004 instaurant un système d'échange de quotas d'émission de gaz à effet de serre, créant un Fonds wallon Kyoto et relatif aux mécanismes de flexibilité du Protocole de Kyoto.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2007-11-22/39, art. 14, 017; En vigueur : 14-02-2007&gt;
+
+(2)&lt;DRW 2012-06-21/08, art. 35, 026; En vigueur : 01-01-2013&gt;
+
+(3)&lt;DRW 2018-05-24/14, art. 25, 036; En vigueur : indéterminée &gt;
+
+## CHAPITRE X. - Sanctions pénales.
+
+##### Art. 77
+
+[<sup>1</sup> Commet une infraction de deuxième catégorie au sens de la partie VIII de la partie décrétale du Livre Ier du Code de l'Environnement celui qui contrevient aux articles :
+
+\- 10, § 1er, ou 11 du présent décret;
+
+\- ou 58, § 1er, du présent décret;
+
+\- ou 58, § 2, 4°, du présent décret et qui, par ce fait, cause un danger à l'environnement;
+
+\- 59bis du présent décret.
+
+Commet une infraction de troisième catégorie au sens de la partie VIII de la partie décrétale du Livre Ier du Code de l'Environnement celui qui contrevient aux articles 10, § 2, 57, 58, § 2, 1°, 2°, 4°, [<sup>2</sup> , 59 ou 76ter]<sup>2</sup> du présent décret ou aux arrêtés d'exécution pris en application des articles précités.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-06-05/36, art. 10, 018; En vigueur : 06-02-2009&gt;
+
+(2)&lt;DRW 2009-03-19/68, art. 13, 021; En vigueur : 18-05-2009&gt;
+
+##### Art. 78
+
+&lt;Abrogé par DRW 2008-06-05/36, art. 16, 018; En vigueur : 06-02-2009&gt;
+
+##### Art. 79
+
+&lt;Abrogé par DRW 2008-06-05/36, art. 16, 018; En vigueur : 06-02-2009&gt;
+
+##### Art. 80
+
+&lt;Abrogé par DRW 2008-06-05/36, art. 16, 018; En vigueur : 06-02-2009&gt;
+
+## CHAPITRE XI. - Du permis unique.
+
+### Section 1. - Champ d'application et autorité compétente.
+
+##### Art. 81
+
+§ 1er. Tout projet mixte, à l'exception des projets portant sur [<sup>5</sup> des établissements temporaires ou d'essai [<sup>11</sup> ...]<sup>11</sup>]<sup>5</sup>, fait l'objet d'une demande de permis unique.
+
+§ 2. Le [<sup>1</sup> collège communal]<sup>1</sup> de la commune sur le territoire de laquelle est situé l'établissement en projet est compétent pour connaître des demandes de permis unique.
+
+Par dérogation à l'alinéa 1er, les fonctionnaires désignés par le Gouvernement au sein de l'Administration de l'Aménagement du territoire et de l'Urbanisme et de l'Administration de l'Environnement sont conjointement compétents pour connaitre des demandes de permis unique relatives à des actes et travaux ou des établissements situés sur le territoire de plusieurs communes [<sup>10</sup> , ainsi qu'aux demandes de permis visées aux articles 9 et 10 du décret du 2 mai 2019 relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes]<sup>10</sup>.
+
+[Le fonctionnaire délégué et le fonctionnaire technique sont exclusivement compétents pour connaître conjointement des demandes de permis uniques relatives a des actes et travaux visés à l'[<sup>6</sup> article D.IV.22, alinéa 1er, du CoDT, ainsi que des demandes de permis uniques qui portent sur des modifications mineures des permis délivrés par le Gouvernement visés à l'alinéa 6]<sup>6</sup> [<sup>2</sup> ,[<sup>12</sup> ainsi qu'à tout établissement constituant une installation nécessaire dans le cadre d'un permis exclusif d'exploration ou d'exploitation des ressources du sous-sol visé au Code de la gestion des ressources du sous-sol et les installations de gestion de déchets d'extraction minière telle que définie par le Gouvernemen]<sup>12</sup>]<sup>7</sup>]. &lt;DRW 2005-02-03/39, art. 110, 012; En vigueur : 11-03-2005&gt; &lt;DRW 2006-06-01/36, art. 5, 013; En vigueur : 25-06-2006&gt;
+
+[<sup>3</sup> Le fonctionnaire délégué et le fonctionnaire technique sont également compétents pour connaître conjointement des demandes de permis uniques visées à l'[<sup>8</sup> article 68 du décret du 1er mars 2018 relatif à la gestion et à l'assainissement des sols]<sup>8</sup>.]<sup>3</sup>
+
+[<sup>4</sup> Le fonctionnaire délégué et le fonctionnaire technique sont également compétents pour connaître conjointement des demandes de permis uniques relatives aux installations de captage et de stockage géologique de dioxyde de carbone (CO2) ainsi que pour les installations de forage et équipements de puits destinés à l'exploration et l'injection en vue de stockage géologique de CO2.]<sup>4</sup>
+
+[<sup>6</sup> Les demandes de permis relatifs aux actes et travaux pour lesquels il existe des motifs impérieux d'intérêt général visés à l'[<sup>13</sup> article D.IV. 25 du CoDT]<sup>13</sup> relèvent de la compétence du Gouvernement.]<sup>6</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2008-12-18/47, art. 12, 019; En vigueur : 31-01-2009&gt;
+
+(3)&lt;DRW 2008-12-05/75, art. 79, 020; En vigueur : 18-05-2009&gt;
+
+(4)&lt;DRW 2013-07-10/39, art. 44, 027; En vigueur : 13-09-2013&gt;
+
+(5)&lt;DRW 2016-06-23/09, art. 91, 033; En vigueur : 01-01-2016&gt;
+
+(6)&lt;DRW 2016-07-20/46, art. 24, 035; En vigueur : 01-06-2017&gt;
+
+(7)&lt;DRW 2018-03-01/32, art. 88,L2, 037; En vigueur : 01-04-2018&gt;
+
+(8)&lt;DRW 2018-03-01/32, art. 88,L1, 037; En vigueur : 01-01-2019&gt;
+
+(9)&lt;DRW 2018-04-26/13, art. 3, 040; En vigueur : 01-06-2019&gt;
+
+(10)&lt;DRW 2019-05-02/87, art. 35, 041; En vigueur : 26-10-2019&gt;
+
+(11)&lt;DRW 2023-09-28/28, art. 10, 052; En vigueur : 01-06-2024&gt;
+
+(12)&lt;DRW 2024-03-14/32, art. 8, 053; En vigueur : 01-07-2024&gt;
+
+(13)&lt;DRW 2026-03-26/06, art. 252, 054; En vigueur : 01-04-2026&gt;
+
+### Section 2. - Demande, enquête publique et avis.
+
+##### Art. 82
+
+(La demande de permis est envoyée à la commune sur le territoire de laquelle l'établissement est projeté.) &lt;DRW 2005-02-03/39, art. 111, 012; En vigueur : 11-03-2005&gt;
+
+Au cas où l'établissement est situé sur le territoire de plusieurs communes, la demande est envoyée (...) à l'une des communes, au choix du demandeur, sur le territoire de laquelle l'établissement est projeté. &lt;DRW 2005-02-03/39, art. 111, 012; En vigueur : 11-03-2005&gt;
+
+##### Art. 82 DROIT FUTUR
+
+[<sup>1</sup> Sous peine d'irrecevabilité, la demande de permis unique est envoyée entièrement par voie électronique ou par voie papier au collège communal de la commune sur le territoire de laquelle se situe l'établissement. La demande est accompagnée de la preuve de versement du droit de dossier visé à l'article 177]<sup>1</sup>.
+
+Au cas où l'établissement est situé sur le territoire de plusieurs communes, la demande est envoyée (...) à l'une des communes, au choix du demandeur, sur le territoire de laquelle l'établissement est projeté. &lt;DRW 2005-02-03/39, art. 111, 012; En vigueur : 11-03-2005&gt;
+
+----------
+
+(1)&lt;DRW 2018-05-24/14, art. 26, 036; En vigueur : 01-01-2027&gt;
+
+##### Art. 83
+
+Le Gouvernement arrête la forme et le contenu de la demande de permis. Il précise le nombre d'exemplaires du dossier qu'elle doit comporter, ainsi que l'échelle et le contenu des différents plans qui doivent y être joints.
+
+La demande doit contenir les éléments visés à l'article 17 du présent décret et les pièces requises en vertu [<sup>1</sup> des articles D.IV.26 et suivants du CoDT]<sup>1</sup>.
+
+[<sup>2</sup> La demande de permis unique portant sur une ou plusieurs éoliennes contient :
+
+1° un rapport relatif à l'appel à manifestation d'intérêt à participer au projet éolien émis à destination des citoyens;
+
+2° un rapport relatif à l'appel à manifestation d'intérêt à participer au projet éolien émis à destination des pouvoirs locaux;
+
+3° les propositions de participation émises à destination des pouvoirs locaux et des citoyens, à concurrence minimum de 24,99% pour chacun des deux groupes.
+
+L'appel à manifestation d'intérêt visé à l'alinéa 3, 1°, est organisé au plus tard lors de la réunion d'information préalable et le rapport visé à l'alinéa 3, 2°, est clôturé et présenté lors de la réunion d'information préalable.
+
+Le Gouvernement définit les pouvoirs locaux concernés, les modalités de l'appel à manifestation d'intérêt qui a pour objet de permettre aux citoyens de prendre connaissance de toutes les informations relatives aux propositions de participation, les modalités des propositions de participation qui ont pour objectif d'assurer l'ouverture des projets à des conditions économiques équivalentes aux conditions de marché, le contenu et les modalités de communications des rapports relatifs à l'appel à manifestation d'intérêt. ]<sup>2</sup>
+
+Le dossier d'évaluation des incidences reprend l'ensemble des indications qu'auraient dû comporter les deux dossiers d'évaluation si les demandes de permis d'urbanisme et de permis d'environnement avaient été envisagées isolément.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 25, 035; En vigueur : 01-06-2017&gt;
+
+(2)&lt;DRW 2024-04-29/25, art. 5, 049; En vigueur : 01-11-2024&gt;
+
+##### Art. 84
+
+Dans un délai de trois jours ouvrables à dater de la réception de la demande, la commune envoie simultanément un exemplaire de la demande de permis, en ce compris la preuve de la réception de la demande ou une copie du récépissé visé à l'article 82, au fonctionnaire technique et au fonctionnaire délégué Elle en conserve un exemplaire et en informe, par pli ordinaire, le demandeur.
+
+Si l'Administration communale n'a pas (envoyé) la demande dans le délai prévu à l'alinéa 1er, le demandeur peut saisir directement le fonctionnaire technique en lui (envoyant une copie) de la demande qu'il a initialement adressée au [<sup>1</sup> collège communal]<sup>1</sup>. Dans ce cas, le fonctionnaire technique envoie un exemplaire de la demande au fonctionnaire délégué dans le même délai que celui prévu à l'alinéa 1er. &lt;DRW 2005-02-03/39, art. 112, 012; En vigueur : 11-03-2005&gt;
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 21, 017; En vigueur : 17-12-2007&gt;
+
+##### Art. 84 DROIT FUTUR
+
+[<sup>1</sup> Dans un délai de trois jours ouvrables à dater de la réception de la demande, l'administration communale envoie celle-ci au fonctionnaire technique et au fonctionnaire délégué. Elle en informe simultanément, par pli ordinaire lorsque la demande a été envoyée par la voie papier, le demandeur ou par voie électronique lorsque la demande a été envoyée par voie électronique.
+
+Si l'administration communale n'a pas envoyé la demande dans le délai prévu à l'alinéa 1er, le demandeur peut saisir directement le fonctionnaire technique en lui adressant une copie de la demande qu'il a initialement adressée au collège communal. Dans ce cas, le fonctionnaire technique envoie un exemplaire de la demande au fonctionnaire délégué dans le même délai que celui prévu à l'alinéa 1er. Lorsque la demande a été envoyée par la voie électronique, le demandeur informe le fonctionnaire technique que la demande a été initialement adressée au collège communal par la voie électronique. Le fonctionnaire technique en informe le fonctionnaire délégué dans le même délai que celui prévu à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-05-24/14, art. 27, 036; En vigueur : 01-01-2027&gt;
+
+##### Art. 85
+
+La demande de permis est incomplète s'il manque des renseignements ou documents requis en vertu de l'article 83.
+
+La demande de permis est irrecevable :
+
+1° si elle est introduite en violation de l'article 82;
+
+2° si elle est jugée incomplète à deux reprises;
+
+[<sup>1</sup> 3° si le demandeur ne fournit pas les compléments dans le délai visé à l'article 86, § 2, alinéa 1er.]<sup>1</sup>
+
+4° (...)
+
+[<sup>2</sup> 5° dans le cas visé à l'article 10, § 2, du décret du 2 mai 2019 relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes.]<sup>2</sup>
+
+6° si, dans les cas visés à l'article D.34, § 1er, du Code wallon du Patrimoine, la demande de permis ne contient pas d'autorisation patrimoniale valide qui se rapporte à l'objet de la demande;
+
+7° si, dans les cas visés à l'article D.62, § 1er, du Code wallon du Patri- moine, la demande de permis ne contient pas l'avis archéologique préalable de l'Administration du Patrimoine se rapportant à l'objet de la demande.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 75, 024; En vigueur : 04-12-2011&gt;
+
+(2)&lt;DRW 2019-05-02/87, art. 36, 041; En vigueur : 26-10-2019&gt;
+
+(3)&lt;DRW 2023-09-28/28, art. 11, 052; En vigueur : 01-06-2024&gt;
+
+##### Art. 85 DROIT FUTUR
+
+La demande de permis est incomplète s'il manque des renseignements ou documents requis en vertu de l'article 83.
+
+La demande de permis est irrecevable :
+
+1° si elle est introduite en violation de l'article 82;
+
+2° si elle est jugée incomplète à deux reprises;
+
+[<sup>1</sup> 3° si le demandeur [<sup>4</sup> n'envoie pas]<sup>4</sup> les compléments dans le délai visé à l'article 86, § 2, alinéa 1er.]<sup>1</sup>
+
+4° [<sup>5</sup> si les compléments reçus n'ont pas été envoyés selon le mode d'envoi choisi initialement par le demandeur]<sup>5</sup>;
+
+[<sup>2</sup> 5° dans le cas visé à l'article 10, § 2, du décret du 2 mai 2019 relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes.]<sup>2</sup>
+
+6° si, dans les cas visés à l'article D.34, § 1er, du Code wallon du Patrimoine, la demande de permis ne contient pas d'autorisation patrimoniale valide qui se rapporte à l'objet de la demande;
+
+7° si, dans les cas visés à l'article D.62, § 1er, du Code wallon du Patri- moine, la demande de permis ne contient pas l'avis archéologique préalable de l'Administration du Patrimoine se rapportant à l'objet de la demande.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 75, 024; En vigueur : 04-12-2011&gt;
+
+(2)&lt;DRW 2019-05-02/87, art. 36, 041; En vigueur : 26-10-2019&gt;
+
+(3)&lt;DRW 2023-09-28/28, art. 11, 052; En vigueur : 01-06-2024&gt;
+
+(4)&lt;DRW 2018-05-24/14, art. 28,1°, 036; En vigueur : 12-02-2026&gt;
+
+(5)&lt;DRW 2018-05-24/14, art. 28,2°, 036; En vigueur : 01-01-2027&gt;
+
+##### Art. 86
+
+&lt;DRW 2005-02-03/39, art. 114, 012; En vigueur : 11-03-2005&gt; § 1er. Le fonctionnaire technique et le fonctionnaire délégué envoient au demandeur la décision statuant sur le caractère complet et recevable de la demande, dans un délai de vingt jours à dater du jour ou le fonctionnaire technique reçoit la demande conformément à l'article 84.
+
+Si la demande est incomplète, le fonctionnaire technique et le fonctionnaire délégué envoient au demandeur la liste des documents manquants et précisent que la procédure recommence à dater de leur réception par la commune auprès de laquelle la demande a été introduite. Le même jour, ils adressent une copie de cet envoi à la commune auprès de laquelle la demande a été introduite.
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, lorsque la demande vise un projet d'énergie renouvelable visé à l'article D.65/2 du Livre Ier du Code de l'Environnement, le fonctionnaire technique et le fonctionnaire délégué envoient au demandeur la décision statuant sur le caractère complet et recevable de la demande, dans un délai de trente jours à dater du jour où le fonctionnaire technique reçoit la demande conformément à l'article 84. ]<sup>2</sup>
+
+§ 2. Le demandeur envoie à la commune les [<sup>1</sup> compléments demandés dans un délai de six mois à dater de l'envoi de la demande de compléments. Si le demandeur n'a pas envoyé les compléments demandés dans le délai prescrit, l'administration communale en informe le fonctionnaire technique et le fonctionnaire délégué dans un délai de dix jours à dater du jour suivant le délai qui était imparti au demandeur pour envoyer les compléments. Dans ce cas, le fonctionnaire technique et le fonctionnaire délégué déclarent la demande irrecevable.]<sup>1</sup>. Les compléments sont fournis en autant d'exemplaires que la demande de permis initiale en compte.
+
+L'administration communale envoie les compléments demandés au fonctionnaire technique et au fonctionnaire délégué, dans un délai de trois jours ouvrables à dater du jour de la réception des compléments. L'administration communale conserve un exemplaire des compléments.
+
+L'administration communale informe le demandeur, par écrit, de la date de la réception des compléments par le fonctionnaire technique.
+
+Si l'administration communale n'a pas envoyé les compléments dans le délai visé à l'alinéa 2, le demandeur peut envoyer directement ceux-ci en copie au fonctionnaire technique. Dans ce cas, le fonctionnaire technique transmet, sans délai, une copie des compléments reçus au fonctionnaire délégué.
+
+§ 3. Dans les vingt jours à dater de la réception des compléments par le fonctionnaire technique, [<sup>2</sup> ou dans les trente jours dans les cas visés au paragraphe 1er, alinéa 3,]<sup>2</sup> le fonctionnaire technique et le fonctionnaire délégué envoient au demandeur la décision sur le caractère complet et recevable de la demande.
+
+Si les fonctionnaires estiment une seconde fois que la demande est incomplète, ils la déclarent irrecevable.
+
+§ 4. Si la demande est irrecevable, le fonctionnaire technique et le fonctionnaire délégué informent le demandeur, [<sup>2</sup> dans les conditions et délais visés au paragraphe 1er et au paragraphe 2, alinéa 1er, ou, le cas échéant, dans les délais visés au paragraphe 3]<sup>2</sup>, des motifs de l'irrecevabilité.
+
+§ 5. (...) &lt;DRW 2006-11-10/44, art. 15, 015; En vigueur : 04-12-2006&gt;
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 76, 024; En vigueur : 04-12-2011&gt;
+
+(2)&lt;DRW 2024-04-29/22, art. 7, 048; En vigueur : 01-07-2024&gt;
+
+##### Art. 86 DROIT FUTUR
+
+&lt;DRW 2005-02-03/39, art. 114, 012; En vigueur : 11-03-2005&gt; § 1er. Le fonctionnaire technique et le fonctionnaire délégué envoient au demandeur la décision statuant sur le caractère complet et recevable de la demande, dans un délai de [<sup>3</sup> trente]<sup>3</sup> jours à dater du jour ou le fonctionnaire technique reçoit la demande conformément à l'article 84.
+
+Si la demande est incomplète, le fonctionnaire technique et le fonctionnaire délégué envoient au demandeur la liste des documents manquants et précisent que la procédure recommence à dater de leur réception par la commune auprès de laquelle la demande a été introduite. Le même jour, ils adressent une copie de cet envoi à la commune auprès de laquelle la demande a été introduite.
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, lorsque la demande vise un projet d'énergie renouvelable visé à l'article D.65/2 du Livre Ier du Code de l'Environnement, le fonctionnaire technique et le fonctionnaire délégué envoient au demandeur la décision statuant sur le caractère complet et recevable de la demande, dans un délai de trente jours à dater du jour où le fonctionnaire technique reçoit la demande conformément à l'article 84. ]<sup>2</sup>
+
+§ 2. [<sup>3</sup> Le demandeur envoie à la commune les compléments demandés dans un délai de cent quatre-vingts jours à dater de l'envoi de la demande de compléments. Si le demandeur n'a pas envoyé les compléments demandés dans le délai prescrit, l'administration communale en informe le fonctionnaire technique et le fonctionnaire délégué dans un délai de dix jours à dater du jour qui était imparti au demandeur pour envoyer les compléments. Dans ce cas, le fonctionnaire technique et le fonctionnaire délégué déclarent la demande irrecevable. Lorsque la demande de permis a été envoyée par la voie papier, les compléments sont fournis en autant d'exemplaires que la demande de permis initiale en compte]<sup>3</sup>.
+
+L'administration communale envoie les compléments demandés au fonctionnaire technique et au fonctionnaire délégué, dans un délai de trois jours ouvrables à dater du jour de la réception des compléments. [<sup>3</sup> Lorsque la demande de permis a été envoyée par la voie papier, l'administration communale conserve un exemplaire des compléments]<sup>3</sup>.
+
+[<sup>3</sup> L'administration communale informe le demandeur de la date de la réception des compléments par le fonctionnaire technique]<sup>3</sup>.
+
+[<sup>3</sup> Si l'administration communale n'a pas envoyé les compléments dans le délai visé à l'alinéa 2, le demandeur peut envoyer directement ceux-ci en copie au fonctionnaire technique. Lorsque les compléments ont été envoyés par voie électronique, le demandeur informe le fonctionnaire technique que les compléments ont été initialement adressés à l'administration communale par voie électronique. Le fonctionnaire technique envoie, sans délai, une copie des compléments reçus au fonctionnaire délégué]<sup>3</sup>.
+
+§ 3. Dans les [<sup>3</sup> trente]<sup>3</sup> jours à dater de la réception des compléments par le fonctionnaire technique, [<sup>2</sup> ou dans les trente jours dans les cas visés au paragraphe 1er, alinéa 3,]<sup>2</sup> le fonctionnaire technique et le fonctionnaire délégué envoient au demandeur la décision sur le caractère complet et recevable de la demande.
+
+[<sup>3</sup> Si les fonctionnaires estiment une seconde fois que la demande est incomplète ils la déclarent irrecevable.
+
+Les fonctionnaires déclarent, également, la demande irrecevable lorsque les compléments reçus n'ont pas été envoyés selon le mode d'envoi choisi initialement par le demandeur]<sup>3</sup>.
+
+§ 4. Si la demande est irrecevable, le fonctionnaire technique et le fonctionnaire délégué informent le demandeur, [<sup>2</sup> dans les conditions et délais visés au paragraphe 1er et au paragraphe 2, alinéa 1er, ou, le cas échéant, dans les délais visés au paragraphe 3]<sup>2</sup>, des motifs de l'irrecevabilité.
+
+§ 5. (...) &lt;DRW 2006-11-10/44, art. 15, 015; En vigueur : 04-12-2006&gt;
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 76, 024; En vigueur : 04-12-2011&gt;
+
+(2)&lt;DRW 2024-04-29/22, art. 7, 048; En vigueur : 01-07-2024&gt;
+
+(3)&lt;DRW 2018-05-24/14, art. 29, 036; En vigueur : 01-01-2027&gt;
+
+##### Art. 86bis
+
+[<sup>1</sup> § 1er. Pour les demandes de permis portant sur une ou plusieurs éoliennes, excepté le rééquipement de ces installations, le délai visé à l'article 92, § 3, est suspendu, sur proposition du fonctionnaire technique, par une décision conjointe du fonctionnaire technique et du fonctionnaire délégué constatant que le projet éolien qui fait l'objet de la demande de permis est, d'une part, incompatible avec un projet éolien qui a fait l'objet d'une réunion d'information préalable moins de deux ans avant le dépôt de la demande de permis et, d'autre part, qu'il ne satisfait pas au critère de sélection suivant : le projet vise au minimum 4 éoliennes et atteint 24,99% de participation, des pouvoirs locaux et/ou citoyenne.
+
+Cette décision est envoyée au demandeur en même temps que la décision visée à l'article 86, § 1er.
+
+§ 2. En même temps que la décision visée à l'article 86, § 1er, le fonctionnaire technique et le fonctionnaire délégué interrogent le ou les porteurs de projet incompatible quant à son intention d'introduire une demande de permis relative à son projet, endéans les six mois de la décision visée au paragraphe 1er, alinéa 1er.
+
+A défaut pour le ou les porteurs de projet incompatible d'informer les fonctionnaires, dans un délai de dix jours à dater de la notification visée à l'alinéa 1er, de son intention d'introduire une demande de permis relative au projet incompatible, il est présumé ne pas avoir l'intention d'introduire une demande de permis endéans les six mois de la décision visée au paragraphe 1er, alinéa 1er.
+
+§ 3. La suspension visée au paragraphe 1er, alinéa 1er est automatiquement levée dans les cas suivants :
+
+1° à défaut d'un envoi visé au paragraphe 2, alinéa 2;
+
+2° au dépôt d'une demande de permis relative à un projet incompatible;
+
+3° à l'expiration d'un délai de six mois à compter de la décision visée au paragraphe 1er, alinéa 1er.
+
+§ 4. Entre les projets incompatibles, l'autorité préfère celui qui répond aux critères de sélection suivants :
+
+1° celui qui propose le plus grand productible;
+
+2° à projets ayant un productible comparable, à savoir dont la différence en productible est inférieure à 15% du productible, exprimé en MWh, celui qui propose l'exploitation la plus participative (citoyenne et/ou des pouvoirs locaux). ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-29/25, art. 6, 049; En vigueur : 01-11-2024&gt;
+
+##### Art. 87
+
+Dans la décision qu'ils rendent sur le caractère complet et recevable de la demande conformément à l'article 86, les fonctionnaires indiquent :
+
+1° [<sup>1</sup> la nécessité de dérogations ou d'écarts prévus aux articles D.IV.5 à D.IV.13 du CoDT]<sup>1</sup>
+
+2° les instances qui doivent être consultées et, le cas échéant, les délais y afférents;
+
+3° la durée et la date du début de l'enquête publique, sauf dérogation prévue au présent décret, et les communes dans lesquelles l'enquête doit être organisée;
+
+4° l'autorité compétente et le délai dans lequel sa décision doit être prise.
+
+(Le même jour, ils envoient une copie de la décision déclarant la demande complète et recevable à la commune auprès de laquelle la demande a été introduite.) &lt;DRW 2005-02-03/39, art. 115, 012; En vigueur : 11-03-2005&gt;
+
+Le Gouvernement peut désigner les instances à consulter ou fixer des critères sur base desquels le fonctionnaire technique et le fonctionnaire délégué désignent celles-ci.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 26, 035; En vigueur : 01-06-2017&gt;
+
+##### Art. 88
+
+&lt;DRW 2005-02-03/39, art. 116, 012; En vigueur : 11-03-2005&gt; Si le fonctionnaire technique et le fonctionnaire délégué n'ont pas envoyé au demandeur la décision visée à l'article 86, § 1er, alinéa 1er, ou celle visée à l'article 86, § 3, la demande est considérée comme recevable, au terme des délais prévus par ces dispositions. La procédure est poursuivie.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, la demande est irrecevable et la procédure n'est pas poursuivie si la demande ne contient pas les documents visés à l'article 85, alinéa 2, 6° et 7°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2023-09-28/28, art. 12, 052; En vigueur : 01-06-2024&gt;
+
+##### Art. 89
+
+Les délais de procédure jusqu'à la prise de décision visée à l'article 93 se calculent :
+
+1° à dater du jour où le fonctionnaire technique et le fonctionnaire délégué ont envoyé la décision attestant le caractère complet et recevable de la demande;
+
+2° à défaut, à dater du jour suivant le délai qui leur était imparti pour envoyer la décision sur le caractère complet et recevable de la demande.
+
+##### Art. 90
+
+[<sup>1</sup> Une enquête publique est organisée selon les modalités définies au Livre Ier du Code de l'Environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2007-05-31/46, art. 57, 016; En vigueur : 08-03-2008&gt;
+
+##### Art. 91
+
+Le jour où le fonctionnaire technique et le fonctionnaire délégué envoient à (la commune auprès de laquelle la demande a été introduite) la décision attestant du caractère complet et recevable de la demande conformément à l'article 86 ou, à défaut, dans le délai prévu à l'article 88, le fonctionnaire technique (envoie) le dossier de la demande (ainsi que ses compléments éventuels) pour avis aux différentes instances désignées. Ces instances envoient leur avis (...) dans un délai de soixante jours, si la demande concerne un établissement de classe 1, ou de trente jours, si la demande concerne un établissement de classe 2, à dater de leur saisine par le fonctionnaire technique. Elles en adressent suivant les mêmes formes une copie au fonctionnaire délégué. &lt;DRW 2005-02-03/39, art. 118, 012; En vigueur : 11-03-2005&gt;
+
+[<sup>1</sup> Le même jour, il envoie une copie de la décision attestant du caractère complet et recevable de la demande à l'Administration du Patrimoine si les conditions cumulatives suivantes sont réunies :
+
+1° les actes et travaux visés par la demande de permis n'ont pas fait l'objet d'une autorisation patrimoniale en vertu de l'article D.34, § 1er, du Code wallon du Patrimoine, ou d'un avis archéologique préalable en vertu de l'article D.62, § 1er, du même Code;
+
+2° les actes et travaux visés par la demande de permis portent sur un bien situé, en tout ou en partie, dans le périmètre de la carte archéologique et concernent des actes et travaux visés à l'article D.IV.4, alinéa 1er, 1°, 5°, 9° et 10°, du CoDT;
+
+3° les actes et travaux visés par la demande de permis ne sont pas d'impacts limités en vertu de l'article D.IV.I, § 2, du CoDT;
+
+4° les actes et travaux visés par la demande de permis requièrent l'intervention obligatoire d'un architecte en vertu de l'article D.IV.I, § 2, du CoDT.]<sup>1</sup>
+
+[<sup>1</sup> Le fonctionnaire technique sollicite l'avis de l'Administration du Patrimoine et de la Commission royale des Monuments, Sites et Fouilles conformément à l'article D.IV.35 du CoDT.]<sup>1</sup>
+
+A défaut d'envoi d'avis (...) dans le délai prévu à l'alinéa précédent, l'avis est réputé favorable. &lt;DRW 2005-02-03/39, art. 118, 012; En vigueur : 11-03-2005&gt;
+
+----------
+
+(1)&lt;DRW 2023-09-28/28, art. 13, 052; En vigueur : 01-06-2024&gt;
+
+##### Art. 92
+
+§ 1er. Sur la base des avis recueillis, un rapport de synthèse est rédigé conjointement par le fonctionnaire technique et par le fonctionnaire délégué. Ce rapport comprend une proposition (conjointe) de décision motivée au regard des divers avis recueillis et, le cas échéant, [<sup>3</sup> l'avis conforme du fonctionnaire délégué sur les dérogations au plan de secteur ou aux normes du guide régional d'urbanisme pris en application des articles D.IV.6 à D.IV.13 du CoDT. Si l'autorité compétente est le Gouvernement en vertu de l'article 81, § 2, alinéa 6, cet avis n'est pas conforme.]<sup>3</sup> &lt;DRW 2005-02-03/39, art. 119, 012; En vigueur : 11-03-2005&gt;
+
+[<sup>4</sup> Pour les projets mixtes relatifs à la construction et l'exploitation d'installations d'énergie renouvelable, le raccordement de ces installations au réseau, le réseau connexe proprement dit et les actifs de stockage, au sens de l'article 16septies de la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables, la proposition de décision inclut la motivation spécifique relative à la mise en balance des intérêts visée à l'article 2, alinéa 3.]<sup>4</sup>
+
+§ 2. A la demande d'une des autorités ou administrations consultées, celles-ci se concertent au moins une fois afin d'harmoniser leur point de vue sur le projet. Le Gouvernement peut arrêter des modalités de concertation.
+
+[<sup>4</sup> § 2bis. Afin de permettre la mise en balance des intérêts aux fins de l'article 6, § 4, et 16, § 1er, c), de la directive 92/43/CEE du 21 mai 1992 concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages, de l'article 4, § 7, de la directive 2000/60/CE du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l'eau et de l'article 9, § 1er, a), de la directive 2009/147/CE du 30 novembre 2009 concernant la conservation des oiseaux sauvages, la concertation prévue au paragraphe 2 est toujours organisée pour les projets portant sur une ou plusieurs éoliennes. Elle rassemble les fonctionnaires technique et délégué ainsi que toutes les administrations qui doivent rendre un avis dans le cadre de la demande de permis concernée et les instances consultatives, avant la remise de leur avis. Elle est précédée d'une présentation du dossier de demande de permis par le demandeur et l'auteur de l'étude d'incidences sur l'environnement si une telle étude est réalisée.
+
+Le fonctionnaire technique organise cette réunion de concertation dans le délai visé à l'article 30, alinéa 2.
+
+Les instances consultatives peuvent refuser de participer à la réunion de concertation.
+
+Le fonctionnaire technique facilite la communication et tente de conduire les administrations à élaborer un avis commun. En cas d'avis commun, toutes les administrations concernées par la demande de permis qui fait l'objet de l'avis reprennent les éléments de cet avis dans leur avis respectif, sans préjudice de la possibilité d'y ajouter des compléments sur des points non abordés lors de la réunion de concertation.
+
+Le cas échéant, les instances consultatives peuvent également rendre un avis commun.
+
+Le fonctionnaire technique transmet aux administrations et, le cas échéant, aux instances consultatives participantes l'avis commun ou, à défaut, le procès-verbal décisionnel de la réunion de concertation, décrivant les éléments ayant fait l'objet d'un accord.]<sup>4</sup>
+
+§ 3. (Le rapport de synthèse et l'intégralité de la demande sont envoyés à l'autorité compétente dans un délai de :
+
+1° septante jours si la demande de permis vise un établissement de classe 2;
+
+2° cent dix jours si la demande de permis vise un établissement de classe 1.) &lt;DRW 2005-02-03/39, art. 120, 012; En vigueur : 11-03-2005&gt;
+
+Le jour où le fonctionnaire technique et le fonctionnaire délégué (envoient) le rapport de synthèse, ils en avisent le demandeur. &lt;DRW 2005-02-03/39, art. 120, 012; En vigueur : 11-03-2005&gt;
+
+§ 4. A l'expiration du délai visé au § 3, le fonctionnaire technique et le fonctionnaire délégué sont entendus conjointement si l'autorité compétente le demande.
+
+§ 5. Les délais visés au § 3 peuvent être prorogés par décision conjointe du fonctionnaire technique et du fonctionnaire délégué. La durée de la prorogation ne peut excéder trente jours. Cette décision est envoyée dans le délai visé (au paragraphe 3), à l'autorité compétente et au demandeur. &lt;DRW 2005-02-03/39, art. 121, 012; En vigueur : 11-03-2005&gt;
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+(Dans les cas visés à l'article 81, § 2, alinéas 2 et 3, les délais visés à l'article 93, § 1er, alinéa 1er, peuvent être prorogés par décision conjointe du fonctionnaire technique et du fonctionnaire délégué. La durée de la prorogation ne peut excéder trente jours. Cette décision est envoyée [<sup>1</sup> sans délai à chaque commune sur le territoire de laquelle l'établissement ou les actes et travaux concernés sont situés ainsi qu']<sup>1</sup> au demandeur dans le délai visé à l'article 93, § 1er, alinéa 1er.) &lt;DRW 2005-02-03/39, art. 121, 012; En vigueur : 11-03-2005&gt;
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 6. Si le rapport de synthèse n'a pas été envoie à l'autorité compétente dans le délai imparti, elle poursuit la procédure en tenant compte du dossier d'évaluation des incidences, des résultats de l'enquête publique, de l'avis du ou des collèges des bourgmestre et échevins et de toute autre information à sa disposition.
+
+(§ 7. Dans les cas visés à l'article 81, § 2, alinéas 2 et 3, les paragraphes [<sup>1</sup> 1,]<sup>1</sup> 3, 4 et 6 du présent article ne sont pas applicables.) &lt;DRW 2005-02-03/39, art. 121, 012; En vigueur : 11-03-2005&gt;
+
+[<sup>3</sup> § 8. Lorsque la demande est relative aux actes et travaux pour lesquels il existe des motifs impérieux d'intérêt général visés à l'article D.IV.25 du CoDT qui relèvent de la compétence du Gouvernement, le rapport de synthèse et l'intégralité de la demande sont envoyés au Gouvernement dans les mêmes délais. La procédure se poursuit conformément à l'article D.IV.50 du CoDT; les notifications sont faites également au fonctionnaire technique. [<sup>5</sup> Le paragraphe 6 ne s'applique pas.]<sup>5</sup>
+
+[<sup>5</sup> ...]<sup>5</sup>.]<sup>3</sup>
+
+[<sup>5</sup> § 9. Dans le cas visé au paragraphe 8, préalablement à sa décision, le Gouvernement peut inviter le demandeur à déposer des plans modificatifs et un complément corollaire de notice d'évaluation des incidences ou d'étude d'incidences. Les plans modificatifs et le complément corollaire de notice d'évaluation des incidences ou d'étude d'incidences sont envoyés au fonctionnaire technique, en autant d'exemplaires, que la demande initiale en compte lorsque celle-ci a été envoyée par la voie papier.
+
+Avant l'expiration du délai d'envoi du rapport de synthèse au Gouvernement et moyennant l'accord du fonctionnaire technique et du fonctionnaire délégué, le demandeur peut également produire des plans modificatifs et un complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences. Dans ce cas, l'envoi au demandeur de cet accord a pour effet d'interrompre les délais visés au paragraphe 3. Le fonctionnaire technique et le fonctionnaire délégué en informent sans délai le Gouvernement. Les plans modificatifs et le complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences sont envoyés au fonctionnaire technique, en autant d'exemplaires que la demande initiale en compte lorsque celle-ci a été envoyée par la voie papier.
+
+Dans les cas visés aux alinéas 1er et 2, le fonctionnaire technique envoie une copie de ces documents sans délai à la commune et au fonctionnaire délégué. La procédure recommence selon les modalités prévues à l'article 86, § 3, alinéa 1er, à dater de la réception par le fonctionnaire technique des plans modificatifs et du complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences, jusqu'à l'envoi visé au paragraphe 8 au Gouvernement. Dans la décision qu'ils rendent en application de l'article 87, le fonctionnaire technique et le fonctionnaire délégué indiquent que la demande fait l'objet de plans modificatifs. Il en va de même lors de la saisine des instances visées à l'article 91. L'enquête publique réalisée conformément à l'article 90 porte sur le dossier de la demande de permis initiale, ses compléments éventuels, ainsi que sur les plans modificatifs et leur complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences.]<sup>5</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 15, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2009-04-30/57, art. 91, 1°-2°, 022; En vigueur : 12-06-2009&gt;
+
+(3)&lt;DRW 2016-07-20/46, art. 27, 035; En vigueur : 01-06-2017&gt;
+
+(4)&lt;DRW 2024-04-29/25, art. 7, 049; En vigueur : 01-11-2024&gt;
+
+(5)&lt;DRW 2018-05-24/14, art. 30, 036; En vigueur : 12-02-2026&gt;
+
+### Section 3. - Décision.
+
+##### Art. 93
+
+&lt;DRW 2005-02-03/39, art. 122, 012; En vigueur : 11-03-2005&gt; § 1er. L'autorité compétente envoie sa décision au demandeur, au fonctionnaire technique [<sup>2</sup> , au fonctionnaire délégué et, lorsqu'il a été fait application de l'article 81, § 2, alinéas 2 et 3, à chaque commune sur le territoire de laquelle l'établissement ou les actes et travaux sont situés]<sup>2</sup> , ainsi que, par pli ordinaire, à chaque autorité ou administration consultée dans un délai de :
+
+1° nonante jours si la demande de permis vise un établissement de classe 2;
+
+2° cent quarante jours si la demande de permis vise un établissement de classe 1.
+
+Si le rapport de synthèse est envoyé avant l'expiration du délai visé à l'article 92, § 3, l'autorité compétente envoie sa décision au demandeur, au fonctionnaire technique et au fonctionnaire délégué, ainsi que, par pli ordinaire, à chaque autorité ou administration consultée dans un délai de :
+
+1° vingt jours à dater du jour où elle reçoit le rapport de synthèse des fonctionnaires conformément à l'article 92, § 3, pour les établissements de classe 2;
+
+2° trente jours à dater du jour où elle reçoit le rapport de synthèse des fonctionnaires conformément a l'article 92, § 3, pour les établissements de classe 1.
+
+Dans les cas visés à l'article 81, § 2, alinéas 2 et 3, seul l'alinéa 1er du présent paragraphe est d'application. [<sup>4</sup> La décision du fonctionnaire délégué sur les dérogations et les écarts prise en application des articles D.IV.5 à D.IV.13 du CoDT fait partie intégrante de la décision visée à l'alinéa 1er du présent paragraphe]<sup>4</sup>.
+
+[<sup>2</sup> Le permis peut être refusé pour les motifs, être assorti de conditions ou consentir les dérogations [<sup>4</sup> et les écarts prévus au Livre IV du CoDT]<sup>4</sup>.]<sup>2</sup>
+
+[<sup>5</sup> Sa mise en oeuvre peut être subordonnée à la réalisation d'opérations archéologiques conformément aux articles D.66 et D.67 du Code wallon du Patrimoine.]<sup>5</sup>
+
+[<sup>3</sup> Lorsque la demande de permis unique concerne un système d'épuration individuelle en vertu de l'article 3, l'autorité compétente notifie également la décision à la Société publique de gestion de l'eau visée à l'article D.2., 76°, du Livre II du Code de l'Environnement contenant le Code de l'Eau.]<sup>3</sup>
+
+[<sup>5</sup> Lorsque le permis porte sur un bien classé ou assimilé au sens du Code wallon du Patrimoine ou lorsque le permis porte sur un projet qui a fait l'objet d'un avis archéologique préalable de l'Administration du Patrimoine, le permis reproduit intégralement les conclusions de l'autorisation patrimoniale visée aux articles D.47 et D.48 du même Code ou de l'avis archéologique préalable visé à l'article D.62 du même Code et est conforme au contenu de l'autorisation patrimoniale ou de l'avis archéologique préalable.
+
+Simultanément à l'envoi de sa décision au demandeur, l'autorité compétente communique à l'Administration du Patrimoine une copie de sa décision :
+
+1° lorsque le permis porte sur un bien classé ou assimilé, au sens du Code wallon du Patrimoine, qui a fait l'objet d'une autorisation patri- moniale visée aux articles D.47 et D.48 du même Code;
+
+2° lorsque le permis porte sur un projet qui a fait l'objet d'un avis archéologique préalable de l'Administration du Patrimoine visé à l'article D.62 du Code wallon du Patrimoine;
+
+3° lorsque le permis porte sur un projet qui a fait l'objet d'un avis de l'Administration du Patrimoine en vertu de l'article 91;
+
+4° lorsque le permis porte sur un projet qui a fait l'objet d'un envoi de l'accusé de réception ou de la décision sur le caractère complet de la demande de permis à l'Administration du Patrimoine en vertu de l'article D.67, § 1er, du Code wallon du Patrimoine.]<sup>5</sup>
+
+§ 2. Dans l'hypothèse visée à l'article 92, § 5, le délai imparti à l'autorité compétente pour envoyer sa décision est prorogé d'un délai identique à celui fixé par le fonctionnaire technique et par le fonctionnaire délégué.
+
+§ 3. [<sup>2</sup> Entre la date à laquelle le rapport de synthèse a été envoyé, ou aurait dû l'être, conformément à l'article 92, § 3, et la date à laquelle l'autorité compétente doit envoyer sa décision en application du § 1er]<sup>2</sup>, ou, dans le cas visé à l'article 81, § 2, alinéas 2 et 3, dans le délai visé au paragraphe 1er, alinéa 1er, le demandeur peut, préalablement à la décision de l'autorité compétente, moyennant l'accord ou à la demande de celle-ci, produire des plans modificatifs et un complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences. [<sup>2</sup> L'envoi au demandeur de cet accord ou de cette demande a pour effet d'interrompre les délais visés au § 1er. Une copie en est également envoyée, le même jour, au fonctionnaire technique et au fonctionnaire délégué par l'autorité compétente.]<sup>2</sup>
+
+Le demandeur envoie à l'autorité compétente les plans modificatifs accompagnés d'un complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences. Ces documents sont fournis en autant d'exemplaires que la demande initiale en compte.
+
+L'autorité compétente envoie les documents visés à l'alinéa précédent au fonctionnaire technique et au fonctionnaire délégué dans un délai de trois jours ouvrables à dater du jour de leur réception.
+
+L'autorité compétente conserve un exemplaire des plans modificatifs et du complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences.
+
+L'autorité compétente informe le demandeur, par écrit, de la date de la réception des compléments par le fonctionnaire technique.
+
+Si l'autorité compétente n'a pas envoyé les plans modificatifs accompagnés du complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences dans le délai vise à l'alinéa 3, le demandeur peut envoyer directement ceux-ci en copie au fonctionnaire technique. Dans ce cas, le fonctionnaire technique transmet, sans délai, les documents reçus au fonctionnaire délégué.
+
+La procédure recommence, selon les modalités prévues à l'article 86, § 3, alinéa 1er, à dater de la réception par le fonctionnaire technique des plans modificatifs et du complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences. Dans la décision qu'ils rendent en application de l'article 87, le fonctionnaire technique et le fonctionnaire délégué indiquent que la demande fait l'objet de plans modificatifs. Il en va de même lors de la saisine des instances visées à l'article 91. L'enquête publique réalisée conformément à l'article 90 porte sur le dossier de la demande de permis initiale, ses compléments éventuels, ainsi que sur les plans modificatifs et leur complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences.
+
+Par dérogation aux alinéas 2 à 6, dans les cas visés à l'article 81, § 2, alinéas 2 et 3, le demandeur envoie au fonctionnaire technique et au fonctionnaire délégué les plans modificatifs de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences. Ces documents sont fournis en autant d'exemplaires que la demande initiale en compte.
+
+En pareils cas, la procédure recommence, selon les modalités prévues à l'article 86, § 3, alinéa 1er, à dater de la réception par le fonctionnaire technique des plans modificatifs et du complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences.
+
+[<sup>5</sup> Lorsque les plans modificatifs portent sur un bien classé ou assimilé, au sens du Code wallon du Patrimoine, qui a fait l'objet d'une autorisation patrimoniale et ont un impact sur les parties classées ou assimilées de ce bien, une nouvelle autorisation patrimoniale est sollicitée en vertu de l'article D.52 du même Code. Lorsque les plans modificatifs portent sur un projet qui a fait l'objet d'un avis archéologique préalable en vertu de l'article D.62, § 1er, du Code wallon du Patrimoine, un nouvel avis archéologique préalable est sollicité en vertu de l'article D.63 du même Code.]<sup>5</sup>
+
+Dans la décision qu'ils rendent en application de l'article 87, le fonctionnaire technique et le fonctionnaire délégué indiquent que la demande fait l'objet de plans modificatifs. Il en va de même lors de la saisine des instances visées à l'article 91. L'enquête publique réalisée conformément à l'article 90 porte sur le dossier de la demande de permis initiale, ses compléments éventuels, ainsi que sur les plans modificatifs et leur complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences.
+
+Le présent paragraphe ne peut être mis en oeuvre qu'une seule fois à propos de la même demande.
+
+§ 4. [<sup>1</sup> L'article 36]<sup>1</sup> du présent décret [<sup>1</sup> s'applique]<sup>1</sup> à la décision prise par l'autorité compétente en vertu de la présente section.
+
+----------
+
+(1)&lt;DRW 2007-05-31/46, art. 58, 016; En vigueur : 08-03-2008&gt;
+
+(2)&lt;DRW 2007-11-22/39, art. 16, 017; En vigueur : 17-12-2007&gt;
+
+(3)&lt;DRW 2016-06-23/09, art. 92, 033; En vigueur : 01-01-2016&gt;
+
+(4)&lt;DRW 2016-07-20/46, art. 28, 035; En vigueur : 01-06-2017&gt;
+
+(5)&lt;DRW 2023-09-28/28, art. 14, 052; En vigueur : 01-06-2024&gt;
+
+##### Art. 93 DROIT FUTUR
+
+&lt;DRW 2005-02-03/39, art. 122, 012; En vigueur : 11-03-2005&gt; § 1er. L'autorité compétente envoie sa décision au demandeur, au fonctionnaire technique [<sup>2</sup> , au fonctionnaire délégué et, lorsqu'il a été fait application de l'article 81, § 2, alinéas 2 et 3, à chaque commune sur le territoire de laquelle l'établissement ou les actes et travaux sont situés]<sup>2</sup> , [<sup>7</sup> ...]<sup>7</sup> dans un délai de :
+
+1° nonante jours si la demande de permis vise un établissement de classe 2;
+
+2° cent quarante jours si la demande de permis vise un établissement de classe 1.
+
+[<sup>6</sup> Selon le mode d'envoi de documents choisi pendant la procédure d'instruction par chaque autorité ou administration consultée, l'autorité compétente envoie sa décision à celles-ci dans le délai visé à l'alinéa premier, soit par la voie papier, soit par la voie électronique.]<sup>6</sup>
+
+Si le rapport de synthèse est envoyé avant l'expiration du délai visé à l'article 92, § 3, l'autorité compétente envoie sa décision au demandeur, au fonctionnaire technique et au fonctionnaire délégué, ainsi que, par pli ordinaire, à chaque autorité ou administration consultée dans un délai de :
+
+1° vingt jours à dater du jour où elle reçoit le rapport de synthèse des fonctionnaires conformément à l'article 92, § 3, pour les établissements de classe 2;
+
+2° trente jours à dater du jour où elle reçoit le rapport de synthèse des fonctionnaires conformément a l'article 92, § 3, pour les établissements de classe 1.
+
+Dans les cas visés à l'article 81, § 2, alinéas 2 et 3, seul l'alinéa 1er du présent paragraphe est d'application. [<sup>4</sup> La décision du fonctionnaire délégué sur les dérogations et les écarts prise en application des articles D.IV.5 à D.IV.13 du CoDT fait partie intégrante de la décision visée à l'alinéa 1er du présent paragraphe]<sup>4</sup>.
+
+[<sup>6</sup> Selon le mode d'envoi de documents choisi pendant la procédure d'instruction par chaque autorité ou administration consultée, l'autorité compétente envoie sa décision à celles-ci dans le délai visé à l'alinéa 3, soit par la voie papier, soit par la voie électronique.]<sup>6</sup>
+
+[<sup>2</sup> Le permis peut être refusé pour les motifs, être assorti de conditions ou consentir les dérogations [<sup>4</sup> et les écarts prévus au Livre IV du CoDT]<sup>4</sup>.]<sup>2</sup>
+
+[<sup>5</sup> Sa mise en oeuvre peut être subordonnée à la réalisation d'opérations archéologiques conformément aux articles D.66 et D.67 du Code wallon du Patrimoine.]<sup>5</sup>
+
+[<sup>3</sup> Lorsque la demande de permis unique concerne un système d'épuration individuelle en vertu de l'article 3, l'autorité compétente notifie également la décision à la Société publique de gestion de l'eau visée à l'article D.2., 76°, du Livre II du Code de l'Environnement contenant le Code de l'Eau.]<sup>3</sup>
+
+[<sup>5</sup> Lorsque le permis porte sur un bien classé ou assimilé au sens du Code wallon du Patrimoine ou lorsque le permis porte sur un projet qui a fait l'objet d'un avis archéologique préalable de l'Administration du Patrimoine, le permis reproduit intégralement les conclusions de l'autorisation patrimoniale visée aux articles D.47 et D.48 du même Code ou de l'avis archéologique préalable visé à l'article D.62 du même Code et est conforme au contenu de l'autorisation patrimoniale ou de l'avis archéologique préalable.
+
+Simultanément à l'envoi de sa décision au demandeur, l'autorité compétente communique à l'Administration du Patrimoine une copie de sa décision :
+
+1° lorsque le permis porte sur un bien classé ou assimilé, au sens du Code wallon du Patrimoine, qui a fait l'objet d'une autorisation patri- moniale visée aux articles D.47 et D.48 du même Code;
+
+2° lorsque le permis porte sur un projet qui a fait l'objet d'un avis archéologique préalable de l'Administration du Patrimoine visé à l'article D.62 du Code wallon du Patrimoine;
+
+3° lorsque le permis porte sur un projet qui a fait l'objet d'un avis de l'Administration du Patrimoine en vertu de l'article 91;
+
+4° lorsque le permis porte sur un projet qui a fait l'objet d'un envoi de l'accusé de réception ou de la décision sur le caractère complet de la demande de permis à l'Administration du Patrimoine en vertu de l'article D.67, § 1er, du Code wallon du Patrimoine.]<sup>5</sup>
+
+§ 2. Dans l'hypothèse visée à l'article 92, § 5, le délai imparti à l'autorité compétente pour envoyer sa décision est prorogé d'un délai identique à celui fixé par le fonctionnaire technique et par le fonctionnaire délégué.
+
+§ 3. [<sup>2</sup> Entre la date à laquelle le rapport de synthèse a été envoyé, ou aurait dû l'être, conformément à l'article 92, § 3, et la date à laquelle l'autorité compétente doit envoyer sa décision en application du § 1er]<sup>2</sup>, ou, dans le cas visé à l'article 81, § 2, alinéas 2 et 3, dans le délai visé au paragraphe 1er, alinéa 1er, le demandeur peut, préalablement à la décision de l'autorité compétente, moyennant l'accord ou à la demande de celle-ci, produire des plans modificatifs et un complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences. [<sup>2</sup> L'envoi au demandeur de cet accord ou de cette demande a pour effet d'interrompre les délais visés au § 1er. Une copie en est également envoyée, le même jour, au fonctionnaire technique et au fonctionnaire délégué par l'autorité compétente.]<sup>2</sup>
+
+Le demandeur envoie à l'autorité compétente les plans modificatifs accompagnés d'un complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences. [<sup>6</sup> Ceux-ci sont envoyés en autant d'exemplaires que la demande de permis initiale en compte lorsqu'elle a été envoyée par la voie papier]<sup>6</sup>.
+
+L'autorité compétente envoie les documents visés à l'alinéa précédent au fonctionnaire technique et au fonctionnaire délégué dans un délai de trois jours ouvrables à dater du jour de leur réception.
+
+[<sup>6</sup> Lorsqu'ils ont été envoyés par la voie papier, l'autorité compétente conserve un exemplaire des plans modificatifs et du complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences]<sup>6</sup>.
+
+L'autorité compétente informe le demandeur [<sup>6</sup> ...]<sup>6</sup> de la date de la réception des compléments par le fonctionnaire technique.
+
+[<sup>6</sup> Si l'autorité compétente n'a pas envoyé les plans modificatifs accompagnés du complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences dans le délai visé à l'alinéa 3, le demandeur peut envoyer directement ceux-ci, en copie lorsqu'ils n'ont pas été envoyés par voie électronique, au fonctionnaire technique. Lorsque les documents ont été envoyés par voie électronique, le demandeur informe le fonctionnaire technique que les documents ont été initialement adressés à l'autorité compétente par voie électronique. Le fonctionnaire technique envoie, sans délai, les documents reçus au fonctionnaire délégué]<sup>6</sup>.
+
+La procédure recommence, selon les modalités prévues à l'article 86, § 3, alinéa 1er, à dater de la réception par le fonctionnaire technique des plans modificatifs et du complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences. Dans la décision qu'ils rendent en application de l'article 87, le fonctionnaire technique et le fonctionnaire délégué indiquent que la demande fait l'objet de plans modificatifs. Il en va de même lors de la saisine des instances visées à l'article 91. L'enquête publique réalisée conformément à l'article 90 porte sur le dossier de la demande de permis initiale, ses compléments éventuels, ainsi que sur les plans modificatifs et leur complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences.
+
+Par dérogation aux alinéas 2 à 6, dans les cas visés à l'article 81, § 2, alinéas 2 et 3, le demandeur envoie au fonctionnaire technique et au fonctionnaire délégué les plans modificatifs de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences. [<sup>6</sup> Ceux-ci sont envoyés en autant d'exemplaires que la demande de permis initiale en compte lorsque celle-ci a été envoyée par la voie papier]<sup>6</sup>.
+
+En pareils cas, la procédure recommence, selon les modalités prévues à l'article 86, § 3, alinéa 1er, à dater de la réception par le fonctionnaire technique des plans modificatifs et du complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences.
+
+[<sup>5</sup> Lorsque les plans modificatifs portent sur un bien classé ou assimilé, au sens du Code wallon du Patrimoine, qui a fait l'objet d'une autorisation patrimoniale et ont un impact sur les parties classées ou assimilées de ce bien, une nouvelle autorisation patrimoniale est sollicitée en vertu de l'article D.52 du même Code. Lorsque les plans modificatifs portent sur un projet qui a fait l'objet d'un avis archéologique préalable en vertu de l'article D.62, § 1er, du Code wallon du Patrimoine, un nouvel avis archéologique préalable est sollicité en vertu de l'article D.63 du même Code.]<sup>5</sup>
+
+Dans la décision qu'ils rendent en application de l'article 87, le fonctionnaire technique et le fonctionnaire délégué indiquent que la demande fait l'objet de plans modificatifs. Il en va de même lors de la saisine des instances visées à l'article 91. L'enquête publique réalisée conformément à l'article 90 porte sur le dossier de la demande de permis initiale, ses compléments éventuels, ainsi que sur les plans modificatifs et leur complément corollaire de notice d'évaluation des incidences sur l'environnement ou d'étude d'incidences.
+
+Le présent paragraphe ne peut être mis en oeuvre qu'une seule fois à propos de la même demande.
+
+§ 4. [<sup>1</sup> L'article 36]<sup>1</sup> du présent décret [<sup>1</sup> s'applique]<sup>1</sup> à la décision prise par l'autorité compétente en vertu de la présente section.
+
+----------
+
+(1)&lt;DRW 2007-05-31/46, art. 58, 016; En vigueur : 08-03-2008&gt;
+
+(2)&lt;DRW 2007-11-22/39, art. 16, 017; En vigueur : 17-12-2007&gt;
+
+(3)&lt;DRW 2016-06-23/09, art. 92, 033; En vigueur : 01-01-2016&gt;
+
+(4)&lt;DRW 2016-07-20/46, art. 28, 035; En vigueur : 01-06-2017&gt;
+
+(5)&lt;DRW 2023-09-28/28, art. 14, 052; En vigueur : 01-06-2024&gt;
+
+(6)&lt;DRW 2018-05-24/14, art. 31,2°-8°, 036; En vigueur : 01-01-2027&gt;
+
+(7)&lt;DRW 2018-05-24/14, art. 31, 036; En vigueur : indéterminée &gt;
+
+##### Art. 94
+
+&lt;DRW 2005-02-03/39, art. 123, 012; En vigueur : 11-03-2005&gt; A défaut de l'envoi de la décision dans le délai prévu à l'article 93, si le rapport de synthèse a été envoyé conformément à l'article 92 et s'il comporte un avis favorable du fonctionnaire technique et du fonctionnaire délégué, la décision est censée être arrêtée aux conditions générales et sectorielles prévues à l'article 5 et aux conditions particulières éventuellement formulées dans le rapport de synthèse. [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> Le permis est censé être refusé à défaut de l'envoi de la décision dans le délai prévu à l'article 93 :
+
+1° si le rapport de synthèse n'a pas été envoyé conformément à l'article 92;
+
+2° si le rapport de synthèse comporte un avis défavorable du fonctionnaire technique et du fonctionnaire délégué.]<sup>1</sup>
+
+Dans les cas visés à l'article 81, § 2, alinéas 2 et 3, le permis est censé être refuse si la décision n'a pas été envoyée dans le délai prévu à l'article 93.
+
+[<sup>2</sup> A défaut de l'envoi de la décision dans le délai prévu à l'article 93 et lorsque le rapport de synthèse a été envoyé conformément à l'article 92, celui-ci est envoyé au demandeur par le fonctionnaire technique.]<sup>2</sup>
+
+[<sup>3</sup> Lorsque la demande de permis unique concerne un système d'épuration individuelle en vertu de l'article 3, l'autorité compétente [<sup>4</sup> envoie]<sup>4</sup> également le rapport de synthèse à la Société publique de gestion de l'eau visée à l'article D.2., 76°, du Livre II du Code de l'Environnement contenant le Code de l'Eau, et précise que la décision est censée être arrêtée en vertu de l'alinéa 1er.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 17, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2010-07-22/10, art. 79, 023; En vigueur : 30-08-2010&gt;
+
+(3)&lt;DRW 2016-06-23/09, art. 93, 033; En vigueur : 01-01-2016&gt;
+
+(4)&lt;DRW 2018-05-24/14, art. 32, 036; En vigueur : 12-02-2026&gt;
+
+##### Art. 94bis
+
+[<sup>1</sup> Pour les installations et activités désignées par le Gouvernement, la teneur de la décision, ainsi qu'une copie du permis et des éventuelles actualisations ultérieures sont publiées sur le portail Environnement du site Internet de la Région wallonne, à l'exception des données soustraites à l'enquête publique conformément à l'article D. 29-15 du Livre Ier du Code de l'Environnement.]<sup>1</sup>
+
+[<sup>2</sup> Le Gouvernement peut dispenser de la publication des plans.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-10-24/11, art. 16, 028; En vigueur : 18-02-2014&gt;
+
+(2)&lt;DRW 2018-05-24/14, art. 33, 036; En vigueur : 12-02-2026&gt;
+
+### Section 4. - Recours.
+
+##### Art. 95
+
+&lt;DRW 2005-02-03/39, art. 124, 012; En vigueur : 11-03-2005&gt; § 1er. [<sup>2</sup> Un recours contre la décision émanant de l'autorité compétente lorsque celle-ci a été envoyée dans les délais visés à l'article 93, contre la décision censée être arrêtée conformément à l'article 94, alinéa 1er, ou contre le refus visé à l'article 94, alinéas 2 et 3, est ouvert auprès du Gouvernement à toute personne physique ou morale justifiant d'un intérêt ainsi qu'au fonctionnaire technique, au fonctionnaire délégué et au collège communal de la commune sur le territoire de laquelle l'établissement ou les actes et travaux concernés sont situés.]<sup>2</sup>
+
+L'absence de décision des autorités visées à l'article 81 relative à la délivrance ou au refus de permis unique entraîne l'impossibilité pour celles-ci d'introduire un recours.
+
+§ 2. Sous peine d'irrecevabilité, [<sup>6</sup> le recours est accompagné de la preuve du versement du droit de dossier visé à l'article 177 et est envoyé]<sup>6</sup> à l'administration de l'environnement dans un délai de vingt jours à dater :
+
+1° soit, pour le demandeur, le fonctionnaire technique [<sup>2</sup> , le fonctionnaire délégué et, lorsqu'il a été fait application de l'article 81, § 2, alinéas 2 et 3, chaque collège communal des communes sur le territoire desquelles l'établissement ou les actes et travaux concernés sont situés]<sup>2</sup>, de la réception de la décision émanant de l'autorité compétente lorsque celle-ci a été envoyée dans les délais visés à l'article 93 ou du rapport de synthèse [<sup>5</sup> ...]<sup>5</sup> et qui est envoyé au demandeur en application de l'article 94, [<sup>5</sup> alinéa 4]<sup>5</sup>;
+
+2° soit, [<sup>2</sup> dans les cas visés à l'article 94, alinéas 2, 1°, et 3,]<sup>2</sup> pour le demandeur, le fonctionnaire technique [<sup>2</sup> , le fonctionnaire délégué et, lorsqu'il a été fait application de l'article 81, § 2, alinéas 2 et 3, à chaque collège communal de communes sur le territoire desquelles l'établissement ou les actes et travaux concernés sont situés]<sup>2</sup>, de l'expiration des délais visés à l'article 93;
+
+3° soit, pour les personnes non visées au 1°, du premier jour de l'affichage de [<sup>4</sup> l'avis visé aux articles D.29-22, D.29-23 et D.29-24 du Livre Ier du Code de l'Environnement]<sup>4</sup> [<sup>1</sup> conformément aux modalités des articles D.29-25 et D.29-26 du Livre Ier du Code de l'Environnement]<sup>1</sup>.
+
+Si la décision est affichée dans plusieurs communes, le délai est prolongé jusqu'au vingtième jour suivant le premier jour de l'affichage dans la commune qui y a procédé la dernière.
+
+Dans l'hypothèse où des plans modificatifs ont été dûment adressés a autorité compétente en application de l'article 93, § 3, le demandeur peut joindre à son recours une copie des plans modificatifs et du complément de notice d'évaluation des incidences sur l'environnement ou du complément d'étude d'incidences.
+
+L'administration visée à l'alinéa 1er [<sup>9</sup> envoie]<sup>9</sup>, dans les cinq jours, copie du recours à l'administration de l'aménagement du territoire et de l'urbanisme.
+
+§ 3. Sur la base des avis recueillis, un rapport de synthèse est rédigé conjointement par les administrations de l'environnement et de l'aménagement du territoire et de l'urbanisme.
+
+Le rapport de synthèse est envoyé au Gouvernement dans un délai de :
+
+1° cinquante jours si le recours concerne un établissement de classe 2;
+
+2° septante jours si le recours concerne un établissement de classe 1.
+
+Ce délai court a dater du premier jour suivant la réception du recours. En cas de pluralité de recours, ce délai débute le premier jour suivant la réception du dernier recours.
+
+Le jour ou elles envoient le rapport de synthèse, les administrations visées à l'alinéa 1er en informent par écrit le demandeur [<sup>2</sup> ainsi que le requérant]<sup>2</sup>.
+
+[<sup>2</sup> Le permis peut être refusé pour les motifs, être assorti de conditions ou consentir les dérogations [<sup>7</sup> et les écarts prévus au Livre IV du CoDT]<sup>7</sup>.]<sup>2</sup>
+
+§ 4. Les délais visés au paragraphe 3 peuvent être prorogés par décision conjointe des administrations de l'environnement et de l'aménagement du territoire et de l'urbanisme. La durée de la prorogation ne peut excéder trente jours. Cette décision est envoyée dans le délai visé au paragraphe 3, alinéa 2, au Gouvernement, au demandeur ainsi qu'au requérant.
+
+§ 5. Le recours n'est pas suspensif de la décision attaquée sauf quand il est introduit par les fonctionnaires visés au paragraphe 1er [<sup>2</sup> ou le collège communal de la commune sur le territoire de laquelle l'établissement ou les actes et travaux concernés sont situés]<sup>2</sup>.
+
+§ 6. Le Gouvernement détermine :
+
+1° les informations que doit contenir le recours, sa forme et le nombre d'exemplaires devant être introduits;
+
+2° les modalités selon lesquelles le recours est porté à la connaissance du public;
+
+3° les modalités d'instruction du recours, d'établissement du rapport de synthèse, les instances devant être consultées et les délais endéans lesquels les avis sont émis; à défaut d'envoi d'avis dans les délais prévus, l'avis est réputé favorable.
+
+§ 7. Le Gouvernement envoie sa décision au requérant dans un délai de :
+
+1° septante jours si le recours concerne un établissement de classe 2;
+
+2° cent jours si le recours concerne un établissement de classe 1.
+
+Ce délai court à dater du premier jour suivant la réception du recours. En cas de pluralité de recours, ce délai débute à dater du premier jour suivant la réception du dernier recours.
+
+Si le rapport de synthèse est envoyé avant l'expiration du délai visé au paragraphe 3, le Gouvernement envoie sa décision dans un délai de :
+
+1° vingt jours à dater du jour où il reçoit le rapport de synthèse des administrations conformément au paragraphe 3, pour les établissements de classe 2;
+
+2° trente jours à dater du jour où il reçoit le rapport de synthèse des administrations conformément au paragraphe 3, pour les etablissements de classe 1.
+
+Dans l'hypothèse visée au paragraphe 4, le délai imparti au Gouvernement pour envoyer sa décision est prorogé d'un délai identique à celui fixé par les administrations de l'environnement et de l'aménagement du territoire et de l'urbanisme.
+
+[<sup>6</sup> Lorsque la demande de permis unique concerne un système d'épuration individuelle en vertu de l'article 3, le Gouvernement [<sup>9</sup> envoie]<sup>9</sup> également la décision à la Société publique de gestion de l'eau visée à l'article D.2., 76°, du Livre II du Code de l'Environnement contenant le Code de l'Eau.]<sup>6</sup>
+
+[<sup>6</sup> § 7bis. Lorsqu'une enquête publique est organisée, le cas échéant, en recours, les délais d'instruction du recours visés aux paragraphes 3 et 7 sont interrompus à la date d'envoi d'un courrier demandant l'organisation d'une enquête publique à la commune concernée. La procédure recommence, selon les modalités fixées au paragraphe 3, à la date de réception par le fonctionnaire technique et le fonctionnaire délégué des résultats de l'enquête publique, y compris le procès-verbal visé à l'article D.29-19 du Livre Ier du Code de l'Environnement.]<sup>6</sup>
+
+[<sup>8</sup> § 7ter. La décision du Gouvernement reproduit, le cas échéant, intégralement les conclusions de l'autorisation patrimoniale visée aux articles D.47 et
+
+D.48 du Code wallon du Patrimoine ou de l'avis archéologique préalable visé à l'article D.62 du même Code et est conforme au contenu de l'autorisation patrimoniale ou de l'avis archéologique préalable, sauf accord écrit préalable de l'Administration du Patrimoine.]<sup>8</sup>
+
+§ 8. A défaut de l'envoi de la décision dans le délai visé au paragraphe 7 :
+
+1° la décision prise en première instance est confirmée;
+
+2° à défaut de l'envoi de la décision prise en première instance dans le délai prévu à l'article 93, si le rapport de synthèse a été envoyé conformément au paragraphe 3, la décision est censée être arrêtée selon les conclusions fixées dans le rapport de synthèse. Le rapport de synthèse est envoyé au demandeur [<sup>2</sup> et au requérant]<sup>2</sup> par [<sup>2</sup> l'administration visée au § 2]<sup>2</sup>.
+
+[<sup>2</sup> 3° à défaut de l'envoi de la décision prise en première instance dans le délai prévu à l'article 93 et de l'envoi du rapport de synthèse conformément au § 3, la décision est censée être arrêtée selon les conclusions fixées dans le rapport de synthèse envoyé conformément à l'article 94.]<sup>2</sup>
+
+[<sup>6</sup> Lorsque la demande de permis unique concerne un système d'épuration individuelle en vertu de l'article 3, l'autorité compétente [<sup>9</sup> envoie]<sup>9</sup> également le rapport de synthèse à la Société publique de gestion de l'eau visée à l'article D.2., 76°, du Livre II du Code de l'Environnement contenant le Code de l'Eau, et précise que la décision est censée être arrêtée en vertu de l'alinéa 1er, 2° ou 3°.]<sup>6</sup>
+
+§ 9. Il y a lieu a indemnité de vingt fois le montant du droit de dossier visé à l'article 177, alinéa 2, 1° et 2°, à charge de la Région, dans le cas où le refus de permis résulte de l'absence de décision en première instance et en recours et si aucun rapport de synthèse n'a été transmis dans les délais prescrits.
+
+Les demandes d'indemnité sont de la compétence des cours et tribunaux.
+
+----------
+
+(1)&lt;DRW 2007-05-31/46, art. 59, 016; En vigueur : 08-03-2008&gt;
+
+(2)&lt;DRW 2007-11-22/39, art. 18, 017; En vigueur : 17-12-2007&gt;
+
+(3)&lt;DRW 2007-11-22/39, art. 18, 017; En vigueur : 17-12-2007; Abrogé : 08-03-2008&gt;
+
+(4)&lt;DRW 2007-11-22/39, art. 23, 2., 017; En vigueur : 08-03-2008&gt;
+
+(5)&lt;DRW 2010-07-22/10, art. 80, 023; En vigueur : 30-08-2010&gt;
+
+(6)&lt;DRW 2016-06-23/09, art. 94, 033; En vigueur : 01-01-2016&gt;
+
+(7)&lt;DRW 2016-07-20/46, art. 29, 035; En vigueur : 01-06-2017&gt;
+
+(8)&lt;DRW 2023-09-28/28, art. 15, 052; En vigueur : 01-06-2024&gt;
+
+(9)&lt;DRW 2018-05-24/14, art. 34, 036; En vigueur : 12-02-2026&gt;
+
+### (Section 5). - Dispositions particulières au projet mixte impliquant une modification à la voirie communale. &lt;Erratum, voir M.B. 22.12.1999, p. 48280&gt;
+
+##### Art. 96
+
+[<sup>1</sup> § 1er. Lorsque le projet mixte porte notamment sur l'ouverture, la modification ou la suppression d'une voirie communale au sens [<sup>2</sup> du décret du 6 février 2014 relatif à la voirie communale]<sup>2</sup>, le fonctionnaire technique et le fonctionnaire délégué le précisent dans la décision par laquelle le caractère complet et recevable de la demande est reconnu conformément à l'article 86 ou dans toute autre décision conjointe prise avant l'échéance des délais visés à l'article 93. Ils soumettent, le même jour, la demande relative à la voirie communale à [<sup>2</sup> la procédure prévue aux articles 8 et suivants du décret du 6 février 2014 relatif à la voirie communale]<sup>2</sup>.
+
+Lorsque le projet mixte porte notamment sur l'ouverture, la modification ou la suppression d'une voirie communale au sens [<sup>2</sup> de l'article 7 du décret du 6 février 2014 relatif à la voirie communale]<sup>2</sup> nécessitant une modification du plan d'alignement, le fonctionnaire technique et le fonctionnaire délégué le précisent dans la décision par laquelle le caractère complet et recevable de la demande est reconnu conformément à l'article 86 ou dans toute autre décision conjointe prise avant l'échéance des délais visés à l'article 93. Ils envoient, le même jour, la demande relative à la voirie communale et le projet de plan d'alignement élaboré par le demandeur, [<sup>2</sup> conformément aux articles 21 et suivants du décret du 6 février 2014 relatif à la voirie communale]<sup>2</sup>.
+
+L'envoi de la demande relative à la voirie communale au collège communal a pour effet d'interrompre les délais de procédure.
+
+La procédure recommence selon les modalités prévues par l'article 86, § 3, alinéa 1er, à dater de la réception par le fonctionnaire technique de la décision définitive relative à la voirie communale et, le cas échéant, l'arrêté relatif au plan d'alignement. Si un rapport de synthèse a été envoyé conformément à l'article 92, avant la mise en oeuvre de la procédure visée aux alinéas 1er ou 2, ce rapport ne peut produire les effets visés aux articles 93, § 1er, alinéa 2, 94 et 95, § 8.
+
+Lorsque le Gouvernement est saisi d'un recours portant sur un projet mixte visé à l'alinéa 1er ou à l'alinéa 2 et constate que la procédure prévue par ces alinéas n'a pas été mise en oeuvre, le Gouvernement ou, conjointement, les administrations chargées de rédiger le rapport de synthèse soumettent la demande relative à la voirie communale à [<sup>2</sup> la procédure prévue par les articles 8 à 19 du décret du 6 février 2014 relatif à la voirie communale ou, le cas échéant, la procédure prévue par les articles 21 à 23 du décret du 6 février 2014 relatif à la voirie communale]<sup>2</sup>.
+
+L'envoi de la demande relative à la voirie communale au collège communal a pour effet d'interrompre les délais visés à l'article 95, §§ 3 et 7.
+
+La procédure recommence selon les modalités prévues par l'article 95, § 3, à dater de la réception par l'administration de l'environnement de la décision définitive relative à la voirie communale et, le cas échéant, de l'arrêté relatif au plan d'alignement. Si un rapport de synthèse a été envoyé conformément à l'article 95, § 3, avant la mise en oeuvre de la procédure visée à l'alinéa 5, ce rapport ne peut produire les effets visés à l'article 95, § 7, alinéa 3 et 95, § 8.
+
+Par dérogation aux articles 87, alinéa 1er, 3°, et 90, l'enquête publique organisée dans le cadre de la demande relative à la voirie communale et, le cas échéant, au projet de plan d'alignement, porte également sur le projet mixte visé à l'alinéa 1er. [<sup>2</sup> Par dérogation aux articles 8 à 20 et 21 à 26 du décret du 6 février 2014 relatif à la voirie communale]<sup>2</sup> l'enquête publique organisée dans le cadre de la demande relative à la voirie communale, ainsi que, le cas échéant, relative au projet de plan d'alignement, l'est selon les modalités définies au Livre 1er du Code de l'Environnement [<sup>3</sup> à l'exception de l'article D. 29-13, § 2, alinéa 2, du Livre Ier du Code de l'Environnement.]<sup>3</sup> La durée de l'enquête publique conjointe correspond à la durée maximale requise par les différentes procédures concernées.
+
+§ 2. Lorsque le projet mixte est situé le long d'une voie de la Région ou de la province, l'avis de l'administration intéressée est sollicité.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 81, 023; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2014-02-06/13, art. 87, 029; En vigueur : 01-04-2014&gt;
+
+(3)&lt;DRW 2016-06-23/09, art. 95, 033; En vigueur : 01-01-2016&gt;
+
+### Section 6. - Dispositions finales.
+
+##### Art. 97
+
+Les chapitres Ier, VII, VIII, IX, X et XIII du présent décret sont applicables au permis unique (a l'exclusion des articles 48, [<sup>1</sup> ...]<sup>1</sup> 1°, et 53). &lt;DRW 2005-02-03/39, art. 126, 012; En vigueur : 11-03-2005&gt;
+
+Les articles 50 à 52, les chapitres IX et X ne s'appliquent pas au permis unique en tant qu'il tient lieu de permis d'urbanisme.
+
+[<sup>7</sup> Les dispositions suivantes du CoDT sont applicables au permis unique :
+
+1° les Livres I, II et III;
+
+2° les articles suivants du Livre IV : D.IV.4 à D.IV.13, D.IV.31, D.IV.35, alinéa 3, D.IV.45, D.IV.53 à D.IV.60, D.IV.70 à D.IV.77, D.IV.80, D.IV.87, D.IV.91, alinéa 1er, 3°, et alinéa 2, D.IV.99, D.IV.100 et D.IV.106 à D.IV.109
+
+3° les Livres V, VI et VII.
+
+Le Livre VII ne s'applique pas au permis unique en tant qu'il tient lieu de permis d'environnement.]<sup>7</sup>
+
+[<sup>4</sup> Le permis est périmé si les travaux n'ont pas été commencés de manière significative [<sup>5</sup> dans les trois ans]<sup>5</sup> à compter du jour où le permis devient exécutoire conformément à l'article 46. [<sup>7</sup> Le permis délivré par le Gouvernement en vertu de l'article 81, § 2, alinéa 6, est périmé si les travaux n'ont pas été commencés de manière significative dans les sept ans à compter du jour où le permis devient exécutoire conformément à l'article 46. Toutefois, le Gouvernement peut, sur requête spécialement motivée, accorder un nouveau délai sans que celui-ci ne puisse excéder cinq ans.]<sup>7</sup>
+
+Par dérogation à l'alinéa précédent et sans préjudice de l'article 55, § 3, lorsqu'une sûreté est imposée conformément à l'article 55, § 1er, ce délai commence à courir à partir :
+
+1° du jour suivant l'expiration du délai de recours contre la décision prévu à l'article 95, § 2;
+
+2° du lendemain de la notification qui est faite au demandeur de la décision rendue sur recours ou, à défaut, du lendemain du délai qui était imparti à l'autorité de recours pour envoyer sa décision en vertu de l'article 95, § 7.]<sup>4</sup>
+
+[<sup>5</sup> La péremption s'opère de plein droit. Toutefois, à la demande de l'exploitant, le permis est prorogé pour une période de [<sup>6</sup> cinq]<sup>6</sup> ans. Cette demande est introduite trente jours avant l'expiration du délai de péremption visé aux alinéas précédents.]<sup>5</sup>
+
+[<sup>1</sup> La prorogation est accordée par l'autorité qui était compétente en première instance pour délivrer le permis dont la prorogation est demandée.]<sup>1</sup>) &lt;DRW 2005-02-03/39, art. 126, 012; En vigueur : 11-03-2005&gt;
+
+----------
+
+(1)&lt;DRW 2007-11-22/39, art. 20, 017; En vigueur : 17-12-2007&gt;
+
+(2)&lt;DRW 2009-04-30/57, art. 91, 4°, 022; En vigueur : 12-06-2009&gt;
+
+(3)&lt;DRW 2010-07-22/10, art. 82, 023; En vigueur : 30-08-2010&gt;
+
+(4)&lt;DRW 2011-10-27/04, art. 77, 024; En vigueur : 04-12-2011&gt;
+
+(5)&lt;DRW 2012-03-29/07, art. 1, 025; En vigueur : 01-04-2012&gt;
+
+(6)&lt;DRW 2017-02-16/33, art. 1, 034; En vigueur : 08-04-2017&gt;
+
+(7)&lt;DRW 2016-07-20/46, art. 30, 035; En vigueur : 01-06-2017&gt;
+
+## CHAPITRE XII. - Dispositions abrogatoires et modificatives.
+
+### Section 1. - Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine.
+
+##### Art. 98
+
+L'article 124 du CWATUP tel que modifié par le décret du 27 novembre 1997 est remplacé par la disposition suivante :
+
+" Art. 124. Les demandes de permis d'urbanisme ou de lotir relatives à des projets situés dans un périmètre soumis aux prescriptions d'un plan d'aménagement ayant fait l'objet d'une étude d'incidences et qui répondent aux prescriptions de ce plan sont dispensées de la réalisation d'une étude d'incidences.
+
+Par dérogation à l'alinéa 1er, un complément à l'étude d'incidences doit être réalisé dans le cadre de la procédure de permis d'urbanisme ou de lotir :
+
+1° soit si la demande de permis est introduite plus de cinq ans après l'entrée en vigueur du plan;
+
+2° soit s'il apparaît que des éléments significatifs sont intervenus qui n'ont pas été ou n'ont pas pu être pris en considération lors de l'étude précédant l'adoption du plan d'aménagement.
+
+La décision de l'autorité compétente de soumettre le projet à un complément à l'étude intervient dans les quinze jours à dater de la réception de la demande visée à l'alinéa 1er. Si aucune décision n'est prise dans ce délai, aucun complément n'est requis.
+
+Le Gouvernement peut déterminer les règles suivant lesquelles le constat est effectué et un complément à l'étude d'incidences est réalisé. ".
+
+##### Art. 99
+
+L'article 131 du CWATUP tel que modifié par le décret du 27 novembre 1997 est remplacé par la disposition suivante :
+
+" Art. 131. Par dérogation aux articles 84 et 127, en cas de projet mixte au sens de l'article 1er, 11°, du décret du 11 mars 1999 relatif au permis d'environnement, un permis unique tenant lieu de permis d'urbanisme au sens du présent Code est délivré conformément aux dispositions visées au Chapitre XI du décret précité. ".
+
+### Section 2. - Eaux.
+
+##### Art. 100
+
+La loi du 26 mars 1971 sur la protection des eaux de surface contre la pollution est abrogée, à l'exception des articles 1er et 3, § 2.
+
+A l'article 3, § 2, de la loi précitée, les mots " et l'utilisation " sont supprimes.
+
+##### Art. 101
+
+A l'article 2 du décret du Conseil régional wallon du 7 octobre 1985 sur la protection des eaux de surface contre la pollution, sont apportées les modifications suivantes :
+
+1° au 8°, c, les mots " l'octroi de l'autorisation de déversement " sont remplacés par les mots " l'octroi du permis d'environnement ou de la déclaration ";
+
+2° il est inséré un 22° libellé comme suit :
+
+" 22° permis d'environnement : la décision visée à l'article 1er, 1°, du décret du 11 mars 1999 relatif au permis d'environnement; ";
+
+3° il est inséré un 23° libellé comme suit :
+
+" 23° déclaration : l'acte visé à l'article 1er, 2°, du décret du 11 mars 1999 relatif au permis d'environnement. ".
+
+##### Art. 102
+
+L'article 5, alinéa 2, du même décret est abrogé.
+
+##### Art. 103
+
+L'article 6 du même décret est remplacé par la disposition suivante :
+
+" Art. 6. Peuvent être soumis à permis d'environnement ou à déclaration suivant les règles prévues par le décret du 11 mars 1999 relatif au permis d'environnement :
+
+1° tout déversement d'eaux usées dans une eau de surface ordinaire;
+
+2° tout déversement d'eaux usées industrielles dans les égouts publics, les collecteurs d'eaux usées ou les voies artificielles d'écoulement des eaux pluviales;
+
+3° tout dépôt temporaire ou permanent de matières polluantes à un endroit d'où, par un phénomène naturel, ces matières peuvent être entraînées dans les eaux de surface ou les égouts publics;
+
+4° les écoulements de marche des bateaux dans les eaux de surface ordinaires;
+
+5° les déversements d'eaux usées domestiques dans les égouts publics, les collecteurs d'eaux usées ou les voies artificielles d'écoulement des eaux pluviales;
+
+6° les déversements d'eaux usées agricoles dans les égouts publics, les collecteurs d'eaux usées ou les voies artificielles d'écoulement des eaux pluviales;
+
+7° l'établissement de fosses septiques et de systèmes d'épuration analogues. ".
+
+##### Art. 104
+
+A l'article 7, 1° et 2°, du même décret, modifié par le décret du 23 juin 1994, les mots " et les collecteurs " sont remplacés par les mots " les collecteurs et les eaux de surface ".
+
+##### Art. 105
+
+A l'article 8 du même décret, sont apportées les modifications suivantes :
+
+1° l'alinéa 1er, modifié par le décret du Conseil régional wallon du 23 juin 1994, est abrogé;
+
+2° à l'alinéa 2, le mot " il " est remplacé par les mots " le Gouvernement ".
+
+##### Art. 106
+
+Sont abrogés dans le même décret :
+
+1° l'article 9, modifié par le décret du 23 juin 1994;
+
+2° l'article 10, modifié par le décret du 23 juin 1994;
+
+3° l'article 11, modifié par le décret du 23 juin 1994;
+
+4° l'article 12;
+
+5° l'article 13, modifié par le décret du 23 juin 1994;
+
+6° l'article 14, modifié par le décret du 23 juin 1994;
+
+7° l'article 15, modifié par le décret du 23 juin 1994.
+
+##### Art. 107
+
+A l'article 21, alinéa 1er, du même décret, modifié par le décret du 23 juin 1994, les mots " une autorisation de déversement leur a été accordée " sont remplacés par les mots " un permis d'environnement leur a été accordé ".
+
+##### Art. 108
+
+A l'article 39, § 1er, du même décret, modifié par le décret du 23 juin 1994, les alinéas 1er et 2 sont abrogés.
+
+##### Art. 109
+
+A l'article 49 du même décret, modifié par le décret du 23 juin 1994, sont apportées les modifications suivantes :
+
+1° l'alinéa 1er, 1°, est remplacé par la disposition suivante :
+
+" 1° celui qui déverse des eaux usées dans les eaux de surface ordinaires, dans les égouts publics ou dans les voies artificielles d'écoulement sans respecter les règlements pris en vertu du présent décret; ";
+
+2° le 3° est abrogé;
+
+3° au 5°, les termes " par l'Exécutif ou l'un de ses fonctionnaires " sont supprimés.
+
+##### Art. 110
+
+A l'article 50 du même décret, modifié par le décret du 23 juin 1994, sont apportées les modifications suivantes :
+
+1° le 3° est abrogé;
+
+2° au 4°, le terme " 3° " est abrogé;
+
+3° au 7°, les mots " sans disposer de l'autorisation visée à l'article 6, § 1er " sont remplaces par les mots " sans disposer du permis d'environnement requis ".
+
+##### Art. 111
+
+A l'article 57, § 2, du même décret, les termes " et 3° " sont supprimés.
+
+##### Art. 112
+
+L'article 66 du même décret, modifié en dernier lieu par le décret du 23 juin 1994, est remplacé par la disposition suivante :
+
+" Art. 66. Sans préjudice des devoirs incombant aux officiers de police judiciaire, le bourgmestre et les fonctionnaires et agents désignés a cette fin par le Gouvernement sont compétents pour surveiller l'exécution du décret et de ses arrêtés d'exécution. A cette fin, ils disposent de prérogatives visées à l'article 61 du décret du 11 mars 1999 relatif au permis d'environnement, dans l'exercice de leur mission.
+
+Les fonctionnaires et agents prêtent serment devant le Tribunal de première instance de leur résidence. Le greffier en chef communique à ses collègues des tribunaux de première instance situés dans le ressort desquels le fonctionnaire ou l'agent doit exercer ses fonctions copie de la Commission et de l'acte de prestation de serment.
+
+Dans le cas d'un simple changement de résidence, ils ne doivent pas prêter un nouveau serment. ".
+
+##### Art. 113
+
+L'article 67 du décret du 7 octobre 1985, modifié en dernier lieu par le décret du 23 juin 1994, est abrogé.
+
+##### Art. 114
+
+L'article 68 du même décret, modifié par le décret du 23 juin 1994, est remplacé par la disposition suivante :
+
+" Art. 68. § 1er. Lorsqu'il a été dressé procès-verbal d'une infraction à l'article 49, le bourgmestre ainsi que les fonctionnaires et agents désignés à cette fin par le Gouvernement peuvent, afin d'éviter, de réduire les dangers, nuisances et inconvénients visés à l'article 2 du décret du 11 mars 1999 relatif au permis d'environnement ou y remédier :
+
+1° ordonner la cessation totale ou partielle de l'exploitation;
+
+2° mettre les appareils sous scellés et, au besoin, procéder à la fermeture provisoire immédiate de l'établissement;
+
+3° imposer à l'exploitant un plan d'intervention ou l'introduction d'un plan de remise en état et, le cas échéant, de fournir au bénéfice de la Région, une sûreté suivant l'une des modalités prévues à l'article 55 du décret du 11 mars 1999 relatif au permis d'environnement afin de garantir la remise en état.
+
+En cas d'inertie du bourgmestre, les fonctionnaires et agents vises à l'alinéa 1er disposent des mêmes prérogatives que celui-ci.
+
+Les mesures prises conformément à l'alinéa 1er, 1° et 2°, sont levées de plein droit dès que le permis d'environnement est accordé ou dès que la déclaration a été reconnue recevable par l'autorité compétente.
+
+§ 2. Le plan de remise en état approuvé selon les modalités déterminées par le Gouvernement vaut permis d'environnement. Le Gouvernement peut déterminer les modalités d'établissement, d'approbation et de réalisation des plans de remise en état.
+
+§ 3. Lorsque le contrevenant reste en défaut d'introduire un plan ou n'en respecte pas les conditions, le bourgmestre ou le Gouvernement peut procéder d'office à la remise en état. Ils agissent conformément au § 4.
+
+§ 4. A défaut pour le contrevenant de prendre les mesures imposées dans le délai fixe, le Gouvernement ou son délégué, d'office ou à la demande du bourgmestre, peut confier à la société publique visée à l'article 39 du décret du 27 juin 1996 relatif aux déchets l'exécution de la remise en état d'office, laquelle s'effectue à charge de la personne mise en demeure. En outre, le Gouvernement ou son délégué peut imposer que les personnes visées au présent alinéa fournissent une sûreté conformément à l'article 55 du décret du 11 mars 1999 relatif au permis d'environnement.
+
+Le Gouvernement ou son délégué avise par recommandé la ou les personnes devant fournir la sûreté en précisant le montant et les modes de constitution possibles.
+
+Si aucune sûreté n'a été fournie dans les huit jours, le Gouvernement ou son délégué fait signifier au contrevenant un commandement de payer dans les vingt-quatre heures, à peine d'exécution par voie de saisie.
+
+La fourniture d'une sûreté au montant insuffisant, en suite de la signification d'un commandement de payer, ne fait pas obstacle à la continuation des poursuites.
+
+Le délai du commandement de payer étant expire, le Gouvernement ou son délégué peut faire pratiquer une saisie, laquelle s'effectue de la manière établie par le Code judiciaire. ".
+
+##### Art. 115
+
+L'article 69 du même décret, modifié par le décret du 23 juin 1994, est abrogé.
+
+##### Art. 116
+
+A l'article 1er du décret du Conseil régional wallon du 30 avril 1990 sur la protection et l'exploitation des eaux souterraines et des eaux potabilisables, modifié par le décret du 23 décembre 1993, sont apportées les modifications suivantes :
+
+1° le 8° est remplacé par la disposition suivante :
+
+" 8° permis d'environnement : la décision visée à l'article 1er, 1°, du décret du 11 mars 1999 relatif au permis d'environnement; ";
+
+2° il est inséré un 8°bis nouveau libellé comme suit :
+
+" 8°bis déclaration : l'acte visé à l'article 1er, 2°, du décret du 11 mars 1999 relatif au permis d'environnement; ".
+
+##### Art. 117
+
+L'article 2 du même décret est remplacé par la disposition suivante :
+
+" Art. 2. Peuvent être soumis à permis d'environnement ou à déclaration suivant les règles prévues par le décret du 11 mars 1999 relatif au permis d'environnement :
+
+1° les prises d'eau souterraine et les prises d'eau potabilisable;
+
+2° les prises d'eau lorsqu'elles sont situées dans une zone d'eau potabilisable;
+
+3° les recharges et essais de recharges artificielles des eaux souterraines.
+
+Le permis d'environnement portant sur une prise d'eau détermine les droits et obligations du titulaire et notamment le volume annuel qui peut être prélevé. Il fixe éventuellement les limites piézométriques ainsi que les limites et le régime du débit de prélèvement. Il vise également les modalités de contrôle du volume d'eau captée.
+
+Le Gouvernement assure une exploitation rationnelle durable des eaux et leur répartition équitable entre les différents titulaires d'un permis d'environnement portant sur une prise d'eau. ".
+
+##### Art. 118
+
+A l'article 3 du même décret, modifié par le décret du 23 décembre 1993, les mots " d'une autorisation visée " sont remplacés par les mots " d'un permis d'environnement visé ".
+
+##### Art. 119
+
+A l'article 4, § 1er, du même décret, modifié par le décret du 7 mars 1996, les mots " autorisations de " sont supprimés.
+
+##### Art. 120
+
+A l'article 5, § 2, 10° et 12°, et § 3, 8°, du même décret, modifié par les décrets des 7 mars 1996 et 17 décembre 1997, les mots " d'autorisation " sont remplacés par les mots " de permis ".
+
+##### Art. 121
+
+L'article 6 du même décret, modifié par le décret du 23 décembre 1993, est abrogé.
+
+##### Art. 122
+
+L'article 7 du même décret, modifie par le décret du 23 décembre 1993, est abrogé.
+
+##### Art. 123
+
+A l'article 8, alinéa 2, du même décret, modifié par le décret du 23 décembre 1993, le mot " autorisation " est remplacé par les mots " permis d'environnement ou déclaration ".
+
+##### Art. 124
+
+A l'article 10 du même décret, modifié par le décret du 23 décembre 1993, sont apportées les modifications suivantes :
+
+1° le § 1er, 1°, est abrogé;
+
+2° au § 2, alinéa 1er, les mots " de l'autorisation " sont remplacés par les mots " du permis d'environnement portant sur une prise d'eau ";
+
+3° les §§ 3 et 4 sont abrogés.
+
+##### Art. 125
+
+A l'article 12 du même décret, modifié par le décret du 23 décembre 1993, le mot " autorisation " est remplacé par les mots " permis d'environnement ou déclaration ".
+
+##### Art. 126
+
+A l'article 13 du même décret, modifié par les décrets des 23 décembre 1993 et 7 mars 1996, sont apportées les modifications suivantes :
+
+1° au § 1er, alinéa 1er, les mots " de l'autorisation " sont remplacés par les mots " du permis d'environnement ";
+
+2° au § 1er, alinéa 2, les mots " de l'autorisation de prise d'eau " sont remplaces par les mots " du permis d'environnement ";
+
+3° au § 2, alinéa 1er, les mots " d'autorisation " sont remplacés par les mots " de permis d'environnement " et les mots " l'autorisation de prise d'eau " sont remplacés par les mots " le permis d'environnement ";
+
+4° au § 2, alinéa 2, les mots " d'autorisation " sont remplacés par les mots " de permis d'environnement " et les mots " d'autorisations délivrées " sont remplacés par les mots " de permis d'environnement délivrés ".
+
+##### Art. 127
+
+L'article 14 du même décret, modifié par le décret du 23 décembre 1993, est abrogé.
+
+##### Art. 128
+
+A l'article 15 du même décret, modifié par le décret du 7 mars 1996, sont apportées les modifications suivantes :
+
+1° au § 2, les termes " 12 à 14 " sont remplacés par les termes " 12 et 13 ";
+
+2° au § 3, les mots " d'autorisation " sont remplaces par les mots " de permis d'environnement ".
+
+##### Art. 129
+
+L'article 17 du même décret, modifié par le décret du 23 décembre 1993, est abrogé.
+
+##### Art. 130
+
+L'article 18 du même décret, modifié par le décret du 23 décembre 1993, est remplacé par la disposition suivante :
+
+" Art. 18. Sans préjudice des devoirs incombant aux officiers de police judiciaire, le bourgmestre et les fonctionnaires et agents désignés à cette fin par le Gouvernement sont compétents pour surveiller l'exécution du décret et de ses arrêtés d'exécution. A cette fin, ils disposent des prérogatives visées à l'article 61 du décret du 11 mars 1999 relatif au permis d'environnement, dans l'exercice de leur mission.
+
+Les fonctionnaires et agents prêtent serment devant le Tribunal de première instance de leur résidence. Le greffier en chef communique à ses collègues des tribunaux de première instance situés dans le ressort desquels le fonctionnaire ou l'agent doit exercer ses fonctions, copie de la Commission et de l'acte de prestation de serment.
+
+Dans le cas d'un simple changement de résidence, ils ne doivent pas prêter un nouveau serment. ".
+
+##### Art. 131
+
+Sont abrogés dans le même décret :
+
+1° l'article 19, modifié par le décret du 23 décembre 1993;
+
+2° l'article 20, modifié par le décret du 23 décembre 1993.
+
+##### Art. 132
+
+L'article 21 du même décret est remplacé par la disposition suivante :
+
+" Art. 21. § 1er. Lorsqu'il a été dressé procès-verbal d'une infraction au présent décret, le bourgmestre, sur rapport des fonctionnaires et agents désignés à cette fin par le Gouvernement, peut, afin d'éviter, de réduire les dangers, nuisances et inconvénients visés à l'article 2 du décret du 11 mars 1999 relatif au permis d'environnement ou y remédier :
+
+1° ordonner la cessation totale ou partielle de l'exploitation;
+
+2° mettre les appareils sous scellés, et, au besoin, procéder à la fermeture provisoire immédiate de l'établissement;
+
+3° imposer à l'exploitant un plan d'intervention ou l'introduction d'un plan de remise en état et, le cas échéant, de fournir au bénéfice de la Région une sûreté suivant l'une des modalités prévues a l'article 55 du décret du 11 mars 1999 relatif au permis d'environnement afin de garantir la remise en état.
+
+En cas d'inertie du bourgmestre, les fonctionnaires et agents visés à l'alinéa 1er disposent des mêmes prérogatives que celui-ci.
+
+Les mesures prises conformément à l'alinéa 1er, 1° et 2°, sont levées de plein droit dès que le permis d'environnement est accordé ou dès que la déclaration a été reconnue recevable pour l'autorité compétente.
+
+§ 2. Le plan de remise en état approuvé selon les modalités déterminées par le Gouvernement vaut permis d'environnement. Le Gouvernement peut déterminer les modalités d'établissement, d'approbation et de réalisation des plans de remise en état.
+
+§ 3. Lorsque le contrevenant reste en défaut d'introduire un plan ou n'en respecte pas les conditions, le bourgmestre ou le Gouvernement peut procéder d'office à la remise en état. Ils agissent conformément au § 4.
+
+§ 4. A défaut pour le contrevenant de prendre les mesures imposées dans le délai fixé, le Gouvernement ou son délégué, d'office ou à la demande du bourgmestre, peut confier à la société publique visée à l'article 39 du décret du 27 juin 1996 relatif aux déchets, l'exécution de la remise en état d'office, laquelle s'effectue à charge de la personne mise en demeure. En outre, le Gouvernement ou son délégué peut imposer que les personnes visées au présent alinéa fournissent une sûreté conformément à l'article 55 du décret du 11 mars 1999 relatif au permis d'environnement.
+
+Le Gouvernement ou son délégué avise par recommandé la ou les personnes devant fournir la sûreté en précisant le montant et les modes de constitution possibles.
+
+Si aucune sûreté n'a été fournie dans les huit jours, le Gouvernement ou son délégué fait signifier au contrevenant un commandement de payer dans les vingt-quatre heures, à peine d'exécution par voie de saisie.
+
+La fourniture d'une sûreté au montant insuffisant, en suite de la signification d'un commandement de payer, ne fait pas obstacle à la continuation des poursuites.
+
+Le délai du commandement de payer étant expiré, le Gouvernement ou son délégué peut faire pratiquer une saisie, laquelle s'effectue de la manière établie par le Code judiciaire. ".
+
+##### Art. 133
+
+A l'article 22, § 1er, du même décret, modifié par le décret du 23 décembre 1993, sont apportées les modifications suivantes :
+
+1° les 1° et 5° sont abrogés;
+
+2° au 2°, les mots " une disposition prise " sont remplacés par les mots " un règlement ou une mesure d'interdiction pris ".
+
+##### Art. 134
+
+A l'article 27, alinéa 4, du même décret, modifié par le décret du 7 mars 1996, le mot " autorisation " est remplacé par les mots " permis d'environnement ".
+
+##### Art. 135
+
+A l'article 45 du même décret, modifié par les décrets des 23 décembre 1993 et 7 mars 1996, sont apportées les modifications suivantes :
+
+1° le § 1er est abrogé;
+
+2° au § 2, les mots " à autorisation en application du présent décret " sont remplacés par les mots " à permis d'environnement ou déclaration " et les mots " d'autorisation de prise d'eau " sont remplacés par les mots " de permis d'environnement ou une déclaration ".
+
+##### Art. 136
+
+A l'article 1er, 8°, c, du décret du 30 avril 1990 instituant une taxe sur le déversement des eaux usées industrielles et domestiques, les mots " de l'autorisation de déversement " sont remplacés par les mots " du permis d'environnement ".
+
+##### Art. 137
+
+A l'article 3, 2°, du même décret, les mots " de l'autorisation de déversement " sont remplacés par les mots " du permis d'environnement ".
+
+##### Art. 138
+
+A l'article 7, § 1er, du même décret, modifié par le décret du 23 décembre 1993, les mots " l'autorisation de déversement " sont remplacés par les mots " le permis d'environnement ", les mots " celle-ci " sont remplacés par les mots " celui-ci " et les mots " de l'autorisation " sont remplacés par les mots " du permis d'environnement ".
+
+### Section 3. - Déchets.
+
+##### Art. 139
+
+A l'article 2 du décret du 27 juin 1996 relatif aux déchets sont apportées les modifications suivantes :
+
+1° le 18° est abrogé;
+
+2° les 19°, 20°, 21°, 22°, 23°, 24° et 25° deviennent respectivement les 18°, 19°, 20°, 21°, 22°, 23° et 24°;
+
+3° un 25° nouveau est inséré libellé comme suit :
+
+" 25° permis d'environnement : la décision visée à l'article 1er, 1°, du décret du 11 mars 1999 relatif au permis d'environnement; ";
+
+4° un 26° est inséré libelle comme suit :
+
+" 26° déclaration : l'acte visé à l'article 1er, 2°, du décret du 11 mars 1999 relatif au permis d'environnement. ".
+
+##### Art. 139bis
+
+&lt;inséré par DRW 2001-02-15/31, art. 4, En vigueur : 10-07-2001; noter toutefois que la date d'entrée en vigueur du DRW 1999-03-11/39 n'est pas encore fixée au moment où le texte modificatif DRW 2001-02-15/31 entre lui-même en vigueur&gt; A l'article 3 du décret du 27 juin 1996 relatif aux déchets, les termes " de l'autorisation visée " sont remplacés par les termes " du permis d'environnement visé. ".
+
+##### Art. 140
+
+A l'article 6, § 3, du même décret, les mots " autorisations nouvelles ", " d'autorisations d'exploiter " et " octroyées " sont remplacés respectivement par les mots " permis d'environnement ", " des permis " et " octroyés ".
+
+Au même paragraphe du même article, les mots " comme dangereux, insalubres ou incommodes " sont supprimés.
+
+##### Art. 141
+
+A l'article 7, § 5, du même décret, les mots " à une installation autorisée ou enregistrée pour les gérer " sont remplacés par les mots " à un établissement autorisé ou déclaré pour les gérer ".
+
+##### Art. 142
+
+A l'article 8, 3°, du même décret, les mots " à autorisation ou enregistrement les installations ou les activités de gestion des déchets et " sont supprimés.
+
+##### Art. 143
+
+A l'article 11 du même décret sont apportées les modifications suivantes :
+
+1° l'alinéa 1er du § 1er est remplacé par la disposition suivante :
+
+" L'implantation et l'exploitation d'une installation de regroupement, d'élimination ou de valorisation des déchets sont soumises à permis d'environnement ou à déclaration conformément aux règles du décret du 11 mars 1999 relatif au permis d'environnement. ";
+
+2° à l'alinéa 2 du même paragraphe, les mots " les conditions prévues au § 2 " sont remplacés par " des conditions particulières relatives a la gestion des déchets ";
+
+3° à l'alinéa 3 du même paragraphe, les mots " l'autorisation " et " accordée " sont remplacés respectivement par les mots " le permis d'environnement " et " accordé ";
+
+4° les (§§ 2 à 7) sont supprimés et le § 1er devient l'alinéa 1er de l'article. &lt;DRW 2001-02-15/31, art. 3; En vigueur : 10-07-2001; noter toutefois que la date d'entrée en vigueur du DRW 1999-03-11/39 n'est pas encore fixée au moment où le texte modificatif DRW 2001-02-15/31 entre lui-même en vigueur&gt;
+
+##### Art. 144
+
+L'article 12 du même décret est abrogé.
+
+##### Art. 145
+
+L'article 13 du même décret est abrogé.
+
+##### Art. 146
+
+A l'article 14 du même décret, les 1° et 5° sont abroges et les 2°, 3°, 4° deviennent respectivement les 1°, 2° et 3°.
+
+Au 2° nouveau du même article, c, remplacer les mots " suivant l'une des modalités prévues à l'article 13 " par les mots " suivant l'une des modalités prévues à l'article 55 du décret du 11 mars 1999 relatif au permis d'environnement ". Les termes " la remise en état des installations ou " et le terme " autre " sont supprimés.
+
+##### Art. 147
+
+L'article 15 du même décret est abrogé.
+
+##### Art. 148
+
+A l'article 19 du même décret, le § 4 est abrogé.
+
+##### Art. 149
+
+A l'article 20 du même décret, sont apportées les modifications suivantes :
+
+1° au § 1er, alinéa 1er, et § 2, alinéa 5, du même décret, le mot " initial " est inséré entre les mots " producteur " et " de déchets ";
+
+2° au § 2 du même article, les mots " l'autorisation, au sens de l'article 11, d'implanter et d'exploiter " sont remplacés par les mots " le permis d'environnement d' ", et le mot " octroyée " est remplacé par le mot " octroyé ";
+
+3° aux §§ 3 et 4 du même article, les mots " d'autorisation " et " autorisation " sont remplacés respectivement par les mots " de permis d'environnement " et " permis d'environnement ".
+
+##### Art. 150
+
+L'article 22 du même décret est abrogé.
+
+##### Art. 151
+
+A l'article 24, § 2, alinéas 1er et 2, du même décret, le mot " initial " est inséré entre les mots " producteur " et " de déchets ".
+
+##### Art. 152
+
+A l'article 26 du même décret, le § 4 est remplacé par le paragraphe suivant :
+
+" § 4. Les demandes de permis d'environnement ou de permis unique au sens de l'article 1er, 1° ou 12°, du décret du 11 mars 1999 relatif au permis d'environnement et les demandes de permis d'urbanisme au sens de l'article 84, § 1er, du Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine concernant un site répertorié dans le plan des centres d'enfouissement technique et destiné à accueillir des déchets autres qu'inertes sont dispensées de l'application des dispositions du décret du 11 septembre 1985 relatif à l'évaluation des incidences sur l'environnement en Région wallonne dans la mesure où leur objet est conforme à l'affectation retenue pour ledit site par ledit plan. Un complément à l'étude d'incidences est réalisé dans le cadre de la procédure de permis :
+
+1° soit si les demandes susvisées sont introduites plus de cinq ans après l'adoption du plan des centres d'enfouissement technique;
+
+2° soit s'il apparaît que des éléments significatifs sont intervenus qui n'ont pas été ou n'ont pas pu être pris en considération lors de l'étude des incidences sur l'environnement portant sur le projet de plan des centres d'enfouissement technique.
+
+La réalisation d'un complément à l'étude d'incidences est soumise aux prescriptions du décret du 11 septembre 1985 organisant l'évaluation des incidences sur l'environnement en Région wallonne. ".
+
+##### Art. 153
+
+A l'article 36, 2°, du même décret, le mot " autorisations " est supprimé.
+
+##### Art. 154
+
+A l'article 41, § 1er, du même décret, les mots " autorisation " et " enregistrement " sont remplacés par les mots " permis d'environnement " et " déclaration ".
+
+##### Art. 155
+
+A l'article 42, § 1er, alinéa 1er, du même décret, les mots " autorisation " et " enregistrement " sont supprimés.
+
+A l'article 42, § 1er, alinéa 3, les mots " autorisation de gestion au sens du présent décret et permis de modification du relief du sol au sens de l'article 41, § 1er, 2°, du Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine " sont remplacés par les termes " permis d'environnement au sens de l'article 1er, 1°, du décret du 11 mars 1999 relatif au permis d'environnement et permis d'urbanisme au sens de l'article 84, § 1er, du Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine ".
+
+##### Art. 156
+
+A l'article 43 du même décret sont apportées les modifications suivantes :
+
+1° au § 1er, alinéa 3, les mots " prévues à l'article 13 " sont remplacés par les termes " prévus a l'article 55 du décret du 11 mars 1999 relatif au permis d'environnement ";
+
+2° au § 4, les mots " autorisation de gestion de déchets au sens du présent décret et permis de modification du relief du sol au sens de l'article 41, § 1er, 2°, du Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine " sont remplacés par les termes " permis d'environnement au sens de l'article 1er, 1°, du décret du 11 mars 1999 relatif au permis d'environnement et permis d'urbanisme au sens de l'article 84, § 1er, du Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine ".
+
+##### Art. 157
+
+A l'article 45 du même décret, les alinéas 2 à 4 sont remplacés par les alinéas suivants :
+
+" A cette fin, dans l'exercice de leurs missions, ils disposent des prérogatives visées à l'article 61 du décret du 11 mars 1999 relatif au permis d'environnement.
+
+Les fonctionnaires et agents prêtent serment devant le Tribunal de première instance de leur résidence. Le greffier en chef communique à ses collègues des tribunaux de première instance situés dans le ressort desquels le fonctionnaire ou l'agent doit exercer ses fonctions, copie de la Commission et de l'acte de prestation de serment.
+
+Dans le cas d'un simple changement de résidence, ils ne doivent pas prêter un nouveau serment. ".
+
+##### Art. 158
+
+L'article 46 du même décret est abrogé.
+
+##### Art. 159
+
+A l'article 47, § 1er, du même décret, les mots " l'autorisation, l'enregistrement " et " une autorisation ou un enregistrement " sont supprimés.
+
+##### Art. 160
+
+L'article 49 du même décret est remplacé par la disposition suivante :
+
+" Art. 49. Tout agrément accorde en vertu du présent décret peut être suspendu ou retiré par l'autorité compétente pour accorder les agréments si les dispositions du présent décret ou de ses arrêtés d'exécution ou les conditions d'agrément ne sont pas respectées.
+
+Le Gouvernement dispose des mêmes pouvoirs en cas d'inertie de l'autorité qui a accordé l'agrément. ".
+
+##### Art. 161
+
+Aux articles 51 et 52 du même décret, les termes " 11, 13 " sont supprimés.
+
+##### Art. 162
+
+A l'article 56 du même décret, les mots " autorisation " et " enregistrement " sont remplacés par les mots " permis d'environnement " et " déclaration "; le même article est complété par les mots " du décret du 11 mars 1999 relatif au permis d'environnement ou en vertu du présent décret ".
+
+##### Art. 163
+
+A l'article 58, § 3, alinéa 2, du même décret, les mots " autorisation d' " sont remplacés par les mots " permis d'environnement pour l' " et les termes " permis de modification du relief du sol au sens de l'article 41, § 1er, 2° " sont remplacés par les termes " permis d'urbanisme au sens de l'article 84, § 1er ".
+
+##### Art. 164
+
+L'article 69 du même décret est abrogé.
+
+##### Art. 165
+
+A l'article 70, alinéa 1er, du même décret, les mots " d'autorisation " sont remplacés par les mots " de permis ", les mots " de bâtir " sont remplacés par les mots " d'urbanisme " et le mot " autorisation " est remplacé par les mots " permis d'environnement et permis d'urbanisme ".
+
+A l'alinéa 2 du même article, la dernière mention du mot " autorisation " est remplacée par les mots " permis d'environnement et permis d'urbanisme ".
+
+##### Art. 166
+
+L'article 7, § 2, du décret du 25 juillet 1991 relatif à la taxation des déchets en Région wallonne, modifié par les décrets des 17 décembre 1992 et 27 juin 1996, est remplacé par la disposition suivante :
+
+" § 2. Par dérogation au § 1er, la présence de déchets dans un endroit sur lequel une personne physique ou morale a exercé ou exerce une activité autorisée sur base de l'arrêté du Régent du 4 février 1946 portant approbation du Règlement général pour la protection du travail, sur base du décret du 5 juillet 1985 relatif aux déchets, sur base du décret du 27 juin 1996 relatif aux déchets, sur base du décret du 9 mai 1985 concernant la valorisation des terrils, sur base du décret du 7 juillet 1988 relatif aux mines, sur base du décret du 27 octobre 1988 sur les carrières ou sur base du décret du 11 mars 1999 relatif au permis d'environnement et de leurs arrêtés d'exécution, ne constitue pas un fait générateur de la taxe pour autant que les déchets présents soient prévus par les conditions de ces autorisations ou permis. ".
+
+##### Art. 167
+
+Aux articles 12 et 13 du même décret tels que modifiés par le décret du 19 décembre 1996, les mots " et de ses arrêtés d'exécution " sont remplacés par les mots " ou du décret du 11 mars 1999 relatif au permis d'environnement et de leurs arrêtés d'exécution ".
+
+##### Art. 168
+
+A l'article 22, alinéa 2, du même décret, tel que modifié par le décret du 19 décembre 1996, les mots " ou du décret du 11 mars 1999 relatif au permis d'environnement " sont insérés après les termes " relatif aux déchets ".
+
+##### Art. 169
+
+A l'article 25 du même décret, tel que modifié par le décret du 19 décembre 1996, les mots " et de ses arrêtés d'exécution " sont remplacés par les mots " ou du décret du 11 mars 1999 relatif au permis d'environnement et de leurs arrêtés d'exécution ".
+
+### Section 4. - Evaluation des incidences.
+
+##### Art. 170
+
+Les dispositions du décret du 11 septembre 1985 organisant l'évaluation des incidences sur l'environnement dans la Région wallonne et son annexe sont remplacées par les dispositions suivantes :
+
+" TITRE I. - Définitions et principes. ".
+
+" Article 1. Pour l'application du présent décret, on entend par :
+
+1° système d'évaluation des incidences sur l'environnement : l'ensemble des procédures du présent décret et des arrêtés d'application organisant, préalablement à tout permis, la prise en considération comme élément de décision des incidences des projets sur l'environnement;
+
+2° projet : toute opération, activité, ouvrage, construction, démolition, transformation, extension ou désaffectation d'installations, programme ou plan modifiant l'environnement, dont la réalisation est envisagée par une personne physique ou morale, de droit public ou prive;
+
+3° plan d'aménagement : plan d'aménagement au sens du Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine;
+
+4° permis :
+
+a. les permis accordés en vertu du décret du 11 mars 1999 relatif au permis d'environnement;
+
+b. les permis accordés en vertu des articles 84, 89 et 127 du Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine;
+
+c. les permis d'extraction délivrés en vertu du décret du 27 octobre 1988 sur les carrières;
+
+d. les permis de valorisation des terrils délivrés en vertu du décret du 9 mai 1985 concernant la valorisation des terrils;
+
+e. les actes administratifs, énumérés par le Gouvernement, pris en application des lois, décrets et règlements, décidant de réaliser ou de permettre de réaliser un projet en tout ou partie;
+
+5° notice d'évaluation des incidences sur l'environnement : le document reprenant les principaux paramètres écologiques du projet et mettant en évidence ses effets sur l'environnement;
+
+6° étude d'incidences : l'étude scientifique réalisée par une personne agréée mettant en évidence les effets du projet sur l'environnement;
+
+7° autorité compétente : tout organe délibérant ou non, doté ou non de la personnalité juridique, chargé d'une mission de service public et habilité à délivrer le permis visé au présent article, en ce compris l'autorité compétente sur recours;
+
+8° résumé non technique : le document présentant les principaux résultats de l'étude d'incidences, une synthèse des impacts du projet sur l'environnement, une présentation des mesures envisagées pour éviter, réduire les effets négatifs du projet sur l'environnement et, si possible, y remédier. ".
+
+" Art. 2. La mise en oeuvre des procédures prévues par le présent décret doit avoir principalement pour but :
+
+de protéger et d'améliorer la qualité du cadre de vie et des conditions de vie de la population, pour lui assurer un environnement sain, sûr et agréable;
+
+de gérer le milieu de vie et les ressources naturelles de façon à préserver leurs qualités et utiliser rationnellement et judicieusement leurs potentialités;
+
+d'instaurer entre les besoins humains et le milieu de vie un équilibre qui permette à l'ensemble de la population de jouir durablement d'un cadre et de conditions de vie convenables. ".
+
+" Art. 3. Il est institué, dans la Région wallonne, un système d'évaluation des incidences des projets sur l'environnement. ".
+
+" Art. 4. La délivrance de tout permis est subordonnée à la mise en oeuvre du système d'évaluation des incidences sur l'environnement prévu par le présent décret.
+
+Si plusieurs permis sont requis, un seul système d'évaluation des incidences sera prévu pour autant qu'il soit relatif à tous les aspects des permis indispensables à la bonne fin du projet.
+
+Le Gouvernement détermine, par des normes générales, les conditions d'application du présent article. ".
+
+" Art. 5. L'autorité compétente sur recours et le juge administratif peuvent prononcer la nullité de tout permis délivré en contradiction avec les dispositions de l'article 4, alinéa 1er.
+
+La nullité doit en tout cas être prononcée dans les cas suivants :
+
+1° en cas d'absence de notice d'évaluation lorsqu'elle est requise par le présent décret;
+
+2° en cas de violation d'une des dispositions de l'article 14;
+
+3° en cas d'absence d'étude d'incidences lorsqu'elle est requise par ou en vertu du présent décret;
+
+4° lorsque la personne chargée de l'étude n'est pas agréée;
+
+5° en cas d'absence de résumé non technique;
+
+6° en l'absence de phase de consultation du public prévue à l'article 12. ".
+
+" Art. 6. Le permis et le refus de permis doivent être motivés en regard notamment des incidences sur l'environnement et des objectifs précisés à l'article 2. ".
+
+" TITRE II. - Le système d'évaluation des incidences de projets sur l'environnement. ".
+
+" Art. 7. Toute demande de permis comporte soit une notice d'évaluation des incidences sur l'environnement, soit une étude d'incidences sur l'environnement. ".
+
+" Art. 8. § 1er. Sans préjudice des articles 42 et 50 du Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine, l'évaluation des incidences, qu'il s'agisse de la notice d'évaluation des incidences sur l'environnement ou de l'étude d'incidences, identifie, décrit et évalue de manière appropriée, en fonction de chaque cas particulier, les effets directs et indirects, à court, moyen et long termes de l'implantation et de la mise en oeuvre du projet sur :
+
+1° l'homme, la faune et la flore;
+
+2° le sol, l'eau, l'air, le climat et le paysage;
+
+3° les biens matériels et le patrimoine culturel;
+
+4° l'interaction entre les facteurs visés aux 1°, 2° et 3° du présent alinéa.
+
+§ 2. Le Gouvernement arrête la liste des projets qui, en raison de leur nature, de leurs dimensions ou de leur localisation, sont susceptibles d'avoir des incidences notables sur l'environnement (et des projets qui) sont soumis à étude d'incidences sur l'environnement. &lt;DRW 2002-07-04/34, art. 3, 004; En vigueur : 01-10-2002&gt;
+
+(Lorsqu'il détermine les projets soumis soit à étude d'incidences, soit à notice d'évaluation des incidences, le Gouvernement tient compte des critères de sélection pertinents visés à l'annexe du présent décret.) &lt;DRW 2002-07-04/34, art. 3, 004; En vigueur : 01-10-2002&gt;
+
+§ 3. Sont soumises a notice d'évaluation des incidences sur l'environnement :
+
+1° (les demandes de permis relatives à des projets susceptibles d'avoir des incidences notables sur l'environnement non visés au paragraphe 2, alinéa 1er;) &lt;DRW 2002-07-04/34, art. 3, 004; En vigueur : 01-10-2002&gt;
+
+2° (...) &lt;DRW 2005-02-03/39, art. 129, 012; En vigueur : 11-03-2005&gt;
+
+§ 4. (L'étude d'incidences relative à la demande de permis peut reprendre tout ou partie des données et résultats obtenus lors de toute évaluation environnementale effectuée précédemment.) &lt;DRW 2005-02-03/39, art. 129, 012; En vigueur : 11-03-2005&gt; ".
+
+" Art. 9. § 1er. Le Gouvernement arrête les formes et le contenu minimum de la notice d'évaluation des incidences sur l'environnement. Il peut prévoir que le dossier de demande de permis constitue la notice d'évaluation des incidences sur l'environnement.
+
+§ 2. Le Gouvernement peut arrêter les formes et le contenu minimum de l'étude d'incidences sur l'environnement.
+
+(alinéa 2 abrogé) &lt;DRW 2002-07-04/34, art. 4, 004; En vigueur : 01-10-2002&gt;
+
+(alinéa 3 abrogé) &lt;DRW 2002-07-04/34, art. 4, 004; En vigueur : 01-10-2002&gt;
+
+(§ 3. La notice d'évaluation des incidences ou l'étude d'incidences comportent au minimum les informations suivantes :
+
+1° une description du projet comportant des informations relatives à son site, à sa conception et à ses dimensions;
+
+2° les données nécessaires pour identifier et évaluer les effets principaux que le projet est susceptible d'avoir sur l'environnement;
+
+3° une description des mesures envisagées pour éviter et réduire les effets négatifs importants et, si possible, pour y remédier;
+
+4° une esquisse des principales solutions de substitution qui ont été examinées par le demandeur et une indication des principales raisons de son choix, eu égard aux effets sur l'environnement;
+
+5° un résumé non technique des points mentionnés ci-dessus.
+
+Le Gouvernement détermine les modalités suivant lesquelles, lorsqu'elle est sollicitée par le demandeur, l'autorité compétente rend un avis sur les informations à fournir dans la notice d'évaluation ou dans l'étude d'incidences.) &lt;DRW 2002-07-04/34, art. 4, 004; En vigueur : 01-10-2002&gt;
+
+" Art. 10. L'autorité compétente apprécie les incidences du projet en prenant en considération l'étude d'incidences sur l'environnement ou la notice d'évaluation des incidences sur l'environnement, les avis recueillis dans le cadre de la procédure en autorisation et toute autre information qu'elle juge utile.
+
+Lorsqu'elle ne dispose pas des informations requises, l'autorité compétente ou les instances intervenant dans l'instruction de la demande que le Gouvernement désigne peuvent exiger du demandeur et de l'auteur d'études des informations complémentaires.
+
+L'auteur du projet choisit une personne agréée en vertu de l'article 11 pour réaliser l'étude. ".
+
+" (...) " &lt;DRW 2002-07-04/34, art. 8, 004; En vigueur : indéterminée ; même date d'entrée en vigueur que DRW 1999-03-11/39&gt;
+
+" Art. 11. Le Gouvernement agrée, selon les critères et une procédure qu'il détermine, les personnes physiques et morales qui peuvent être chargées d'effectuer des études d'incidences sur l'environnement; il détermine les règles d'octroi et de retrait de l'agrément. L'agrément peut, notamment, être retiré temporairement ou définitivement, lorsqu'après un premier avertissement dûment notifié, le Gouvernement constate la qualité manifestement médiocre d'une étude. Le Conseil wallon de l'environnement pour le développement durable, créé par le décret du 21 avril 1994 relatif à la planification en matière d'environnement dans le cadre du développement durable, doit être consulté avant tout retrait d'agrément, de même que la Commission régionale d'aménagement du territoire dans le cas d'une étude d'incidences relative à un plan d'aménagement.
+
+Le Gouvernement détermine les cas où, pour la réalisation d'une étude, une personne agréée peut être récusée. ".
+
+" Art. 12. Pour les projets qui font l'objet d'une étude d'incidences, une phase de consultation du public est réalisée avant l'introduction de la demande de permis. Le but de cette phase est notamment de mettre en évidence les points particuliers qui pourraient être abordés dans l'étude d'incidences et de présenter des alternatives pouvant raisonnablement être envisagées par l'auteur du projet afin qu'il en soit tenu compte lors de la réalisation de l'étude d'incidences.
+
+Le Gouvernement détermine :
+
+1° les modalités suivant lesquelles ces alternatives sont communiquées à la personne chargée de l'étude;
+
+2° les modalités de la consultation et les mesures destinées à en informer préalablement le public. ".
+
+" Art. 13. Le Conseil wallon de l'environnement pour le développement durable ou son délégué ainsi que, en cas d'étude d'incidences relative à un plan d'aménagement, la Commission régionale d'aménagement du territoire ont le droit d'obtenir toute information qu'ils sollicitent sur la demande de permis et sur le déroulement de l'étude d'incidences, auprès des autorités publiques concernées, du demandeur et de la personne qui réalise l'étude. Ils peuvent adresser au Gouvernement et à l'autorité compétente toutes observations ou suggestions utiles concernant l'étude d'incidences. ".
+
+" Art. 14. Les projets qui font l'objet d'une (évaluation des incidences sur l'environnement) sont soumis à une enquête publique qui respecte les principes suivants : &lt;DRW 2002-07-04/34, art. 5, 004; En vigueur : 01-10-2002&gt;
+
+1° (le résumé non technique, la notice d'évaluation des incidences et l'étude d'incidences sont rendus publics;) &lt;DRW 2002-07-04/34, art. 5, 004; En vigueur : 01-10-2002&gt;
+
+2° la durée de l'enquête publique (pour les projets soumis à étude d'incidences) est fixée à trente jours; &lt;DRW 2002-07-04/34, art. 5, 004; En vigueur : 01-10-2002&gt;
+
+3° le délai d'enquête publique est suspendu entre le 16 juillet et le 15 août.
+
+Lorsque le délai d'enquête publique fixe à l'alinéa 1er, 2°, est supérieur au délai d'enquête publique applicable à la demande de permis, les délais de procédure prévus par d'autres lois, décrets et arrêtés sont prolongés du même délai que la différence entre les deux délais susvisés.
+
+Le Gouvernement peut prévoir, pour les projets soumis à étude d'incidences, des règles d'enquête publique complémentaires aux règles d'enquête publique prévues par d'autres lois, décrets ou arrêtes.
+
+Le Gouvernement peut prévoir des règles suivant lesquelles l'enquête publique est organisée, à défaut pour l'autorité chargée de l'organisation de cette enquête de satisfaire à ses obligations. ".
+
+" Art. 15. Un dossier accessible au public peut être consulté, aux heures ouvrables, à un endroit que l'autorité compétente désigne. Ce dossier comprend (soit la notice d'évaluation, soit) l'étude en original ou copie certifiée conforme par l'auteur, copie des avis et correspondances adressées par les citoyens et les différents services ou organismes concernés. Les correspondances adressées et les avis écrits remis à l'autorité, dans le cadre de l'enquête publique, sont, dès leur réception, insérés par celle-ci dans le dossier. ". &lt;DRW 2002-07-04/34, art. 6, 004; En vigueur : 01-10-2002&gt;
+
+" Art. 16. § 1er. Lorsqu'un projet situé en Région wallonne est susceptible d'avoir des incidences sur l'environnement d'une autre Région, d'un autre Etat, membre de l'Union européenne ou d'un autre Etat-partie de la Convention d'Espoo du 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, le dossier de demande de permis accompagné (soit de la notice d'évaluation des incidences, soit) de l'étude d'incidences (,) et des informations éventuelles sur les incidences transfrontières du dossier est transmis aux autorités compétentes de cette autre Région, de cet autre Etat, membre de l'Union européenne ou de cet autre Etat-partie à la Convention d'Espoo. &lt;DRW 2002-07-04/34, art. 7, 004; En vigueur : 01-10-2002&gt;
+
+Le Gouvernement détermine :
+
+1° les instances chargées de la transmission du dossier aux autorités visées à l'alinéa 1er;
+
+2° les modalités suivant lesquelles les autorités compétentes de la Région ou de l'Etat susceptibles d'être affectés peuvent participer à la procédure d'évaluation des incidences sur l'environnement;
+
+3° les modalités suivant lesquelles les informations visées à l'article 17 sont communiquées aux autorités visées à l'alinéa 1er.
+
+§ 2. Lorsqu'un projet situé sur le territoire d'une autre Région, d'un autre Etat, membre de l'Union européenne ou d'un autre Etat-partie à la Convention d'Espoo est susceptible d'avoir des incidences sur l'environnement en Région wallonne, les informations visées à l'article 7.3 de la Directive 85/337/CEE concernant l'évaluation des incidences de certains projets publics ou privés sur l'environnement telle que modifiée par la Directive 97/11/CE transmises par les autorités compétentes de cette autre Région ou de cet autre Etat sont mises à la disposition du public concerné et des instances désignées par le Gouvernement.
+
+Le Gouvernement détermine :
+
+1° les modalités suivant lesquelles les informations visées à l'alinéa 1er sont mises à disposition du public et des instances visées à l'alinéa 1er;
+
+2° les modalités suivant lesquelles l'avis du public et des instances consultées est recueilli et transmis. ".
+
+" Art. 17. Le Gouvernement détermine les modalités suivant lesquelles sont rendus publics :
+
+1° la décision de l'autorité compétente accompagnée, le cas échéant, des conditions d'exploitation;
+
+2° les motifs ayant fondé la décision;
+
+3° le cas échéant, une description des principales mesures destinées à éviter, réduire et, si possible, compenser les effets négatifs importants du projet. ".
+
+" TITRE (III). - Dispositions pénales et générales. ". &lt;DRW 2002-07-04/34, art. 8, 004; En vigueur : 01-10-2002&gt;
+
+" Art. 18. Tout qui fera entrave à l'exercice de l'enquête publique ou soustraira à l'examen du public des pièces du dossier visé à l'article 15 sera puni d'un emprisonnement d'un à six mois et d'une amende de 100 à 250 francs ou d'une de ces peines seulement.
+
+Les personnes chargées de l'étude d'incidences sont assimilées à des " personnes chargées d'un service public " pour l'application du Titre IV, Chapitre IV, du Code pénal réprimant la corruption. ".
+
+" TITRE (IV). - Dispositions finales et transitoires. ". &lt;DRW 2002-07-04/34, art. 8, 004; En vigueur : 01-10-2002&gt;
+
+" Art. 19. Sans préjudice de la possibilité prévue à l'article 11 pour le Gouvernement de retirer temporairement ou définitivement un agrément, les agréments octroyés avant l'entrée en vigueur du présent décret restent valables jusqu'au terme pour lequel ils ont été octroyés. ".
+
+" Art. 20. Les demandes de permis ainsi que les recours administratifs organisés, introduits avant l'entrée en vigueur du présent décret, sont traités selon la procédure en vigueur au jour de l'introduction de la demande. ".
+
+" ANNEXE. ".
+
+" Art. N. Critères de sélection vises à l'article 8, § 2.
+
+1\. Caractéristiques des projets soumis à évaluation des incidences.
+
+Les caractéristiques des projets susvisés doivent être considérées notamment par rapport :
+
+à la dimension du projet;
+
+au cumul avec d'autres projets;
+
+a l'utilisation des ressources naturelles;
+
+à la production de déchets;
+
+à la pollution et aux nuisances;
+
+au risque d'accidents, eu égard notamment aux substances ou aux technologies mises en oeuvre.
+
+2\. Localisation des projets soumis à évaluation des incidences.
+
+La sensibilité environnementale des zones géographiques susceptibles d'être affectées par le projet doit être considérée en prenant en compte :
+
+l'occupation des sols existants;
+
+la richesse relative, la qualité et la capacité de régénération des ressources naturelles de la zone;
+
+la capacité de charge de l'environnement naturel.
+
+3\. Caractéristiques de l'impact potentiel.
+
+Les incidences notables qu'un projet pourrait avoir doivent être considérées en fonction des critères énumérés aux points 1 et 2, notamment par rapport à :
+
+l'étendue de l'impact (zone géographique et importance de la population affectée);
+
+la nature transfrontière de l'impact;
+
+l'ampleur et la complexité de l'impact;
+
+la probabilité de l'impact;
+
+la durée, la fréquence et la réversibilité de l'impact. ".
+
+### Section 5. - Explosifs.
+
+##### Art. 171
+
+La loi du 28 mai 1956 relative aux substances et mélanges explosifs ou susceptibles de déflagrer et aux engins qui en sont chargés cesse d'être applicable en Région wallonne en ce qui concerne la police externe des établissements dangereux, insalubres et incommodes.
+
+### Section 6. - Terrils.
+
+##### Art. 172
+
+A l'article 1er, 3°, du décret du 9 mai 1985 tel que modifié par le décret du 6 mai 1993 concernant la valorisation de terrils, les termes " visé à l'article 42, § 1er " sont remplacés par les termes " au sens du ".
+
+##### Art. 173
+
+A l'article 2 du même décret, l'alinéa 1er est remplacé par l'alinéa suivant :
+
+" Le permis de valorisation de terrils emporte de droit délivrance du permis d'urbanisme, au sens de l'article 84 du Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine, et du permis d'environnement, au sens de l'article 1er, 1°, du décret du 11 mars 1999 relatif au permis d'environnement, pour exploiter le terril. ".
+
+### Section 7. - Parcs naturels.
+
+##### Art. 174
+
+A l'article 13, § 1er, du décret du 16 juillet 1985 relatif aux parcs naturels, sont apportées les modifications suivantes :
+
+1° les termes " par l'autorité compétente " sont supprimés;
+
+2° le 1° est remplacé par la disposition suivante :
+
+" 1° l'octroi des permis d'environnement relatifs à des établissements de classe 1 au sens de l'article 3 du décret du 11 mars 1999 relatif au permis d'environnement; ";
+
+3° au 3°, les mots " autorisations de " sont remplacés par les mots " permis d'environnement portant sur un ";
+
+4° au 5°, les termes " d'autorisations de " sont remplacés par les termes " de permis d'environnement portant sur un ".
+
+A l'article 13, § 2, du décret du 16 juillet 1985 relatif aux parcs naturels, les alinéas 1er et 2 sont remplacés par les alinéas suivants :
+
+" Les avis visés au § 1er, 1°, 3° et 5°, sont sollicités par le fonctionnaire technique visé à l'article 1er, 14°, du décret du 11 mars 1999 relatif au permis d'environnement. Ils sont remis au fonctionnaire technique.
+
+Les avis visés au § 1er, 2°, 4°, 6° et 7°, sont sollicités par l'autorité compétente.
+
+Les autorités compétentes pour délivrer les autorisations et permis visés au § 1er ne pourront s'écarter de cet avis que par une décision spécialement motivée. ".
+
+### Section 8. - Transport de produits dangereux et exploitation de sites-réservoirs souterrains de stockage de gaz.
+
+##### Art. 175
+
+La loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisation et la loi du 18 juillet 1975 relative à la recherche et à l'exploitation des sites-réservoirs souterrains destinés au stockage de gaz sont abrogées en ce qui concerne la protection de l'environnement pour les établissements visés par le présent décret.
+
+## CHAPITRE XIII. - Dispositions finales et transitoires.
+
+##### Art. 176
+
+(Sauf disposition contraire, tout envoi visé aux chapitres II, III, IV, IX et XI se fait :
+
+1° soit par lettre recommandée à la poste avec accusé de réception;
+
+2° soit par le recours à toute formule similaire permettant de donner date certaine à l'envoi et à la réception de l'acte, quel que soit le service de distribution du courrier utilisé;
+
+3° soit par le dépôt de l'acte contre récépissé;
+
+[<sup>1</sup> 4° soit par voie électronique authentifiée.]<sup>1</sup>
+
+Le Gouvernement peut déterminer la liste des procédés qu'il reconnaît comme permettant de donner une date certaine à l'envoi et à la réception [<sup>1</sup> et d'authentifier l'envoi par voie électronique]<sup>1</sup> .) &lt;DRW 2005-02-03/39, art. 127, 012; En vigueur : 11-03-2005&gt;
+
+(L'envoi doit se faire au plus tard le jour de l'échéance.) &lt;DRW 2005-02-03/39, art. 127, 012; En vigueur : 11-03-2005&gt;
+
+Le jour de la réception de l'acte qui est le point de départ n'y est pas inclus.
+
+[-1 Par dérogation à l'alinéa 4, lorsque l'envoi se fait par voie électronique et que le jour de l'envoi de l'acte est un samedi, un dimanche ou un jour férié, le jour de la réception de l'acte qui est le point de départ est le premier jour ouvrable suivant.]-1Le jour de l'échéance est compté dans le délai. Toutefois, lorsque ce jour est un samedi, un dimanche ou un jour férié légal, le jour de l'échéance est reporté au jour ouvrable suivant.
+
+[<sup>1</sup> La possibilité de l'envoi par voie électronique authentifiée s'applique uniquement au régime de la déclaration, en ce compris le recours visé à l'article 41 [<sup>2</sup> ainsi qu'aux recours visés par les articles 40 et 95]<sup>2</sup> .]<sup>1</sup>
+
+[<sup>3</sup> Lorsqu'en application du présent décret, l'autorité doit envoyer sa décision dans un délai déterminé selon des modalités différentes en fonction du mode d'envoi choisi par le demandeur, le déclarant ou le requérant, la date du premier de ces envois est prise en considération pour apprécier si le délai imparti à l'autorité est respecté.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2014-03-13/02, art. 4, 031; En vigueur : 01-01-2015 (ARW 2014-05-15/61, art. 14)&gt;
+
+(2)&lt;DRW 2016-06-23/09, art. 96, 033; En vigueur : 01-01-2016&gt;
+
+##### Art. 176 DROIT FUTUR
+
+(Sauf disposition contraire, tout envoi visé aux chapitres II, III, IV, IX et XI se fait :
+
+1° soit par lettre recommandée à la poste avec accusé de réception;
+
+2° soit par le recours à toute formule similaire permettant de donner date certaine à l'envoi et à la réception de l'acte, quel que soit le service de distribution du courrier utilisé;
+
+3° soit par le dépôt de l'acte contre récépissé;
+
+[<sup>1</sup> 4° [<sup>3</sup> soit par la voie électronique]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>3</sup> Sauf disposition particulière, lorsque le demandeur, le déclarant ou le requérant fait le choix d'un mode d'envoi soit par la voie électronique, soit par la voie papier lors d'une demande de permis, d'une déclaration, d'une proposition de complément ou de modification des conditions particulières d'exploitation, d'une demande de complément ou de modification des conditions particulières d'exploitation ou d'un recours visé aux articles 40, 41, 55, § 7, 69 et 95, chaque envoi de document par le demandeur, le requérant, les fonctionnaires désignés par le Gouvernement et l'autorité compétente se fait exclusivement par le mode d'envoi choisi initialement.
+
+Sous peine d'irrecevabilité, le mode d'envoi choisi initialement par le demandeur le déclarant ou les personnes visées à l'article 67 continue à les lier quand ils introduisent un recours.]<sup>3</sup>
+
+Le Gouvernement peut déterminer la liste des procédés qu'il reconnaît comme permettant de donner une date certaine à l'envoi et à la réception [<sup>3</sup> ...]<sup>3</sup>.) &lt;DRW 2005-02-03/39, art. 127, 012; En vigueur : 11-03-2005&gt;
+
+(L'envoi doit se faire au plus tard le jour de l'échéance.) &lt;DRW 2005-02-03/39, art. 127, 012; En vigueur : 11-03-2005&gt;
+
+Le jour de la réception de l'acte qui est le point de départ n'y est pas inclus.
+
+[<sup>1</sup> Par dérogation à l'alinéa 4, lorsque l'envoi se fait par [<sup>3</sup> la]<sup>3</sup> voie électronique et que le jour de l'envoi de l'acte est un samedi, un dimanche ou un jour férié, le jour de la réception de l'acte qui est le point de départ est le premier jour ouvrable suivant.]<sup>1</sup> Le jour de l'échéance est compté dans le délai. Toutefois, lorsque ce jour est un samedi, un dimanche ou un jour férié légal, le jour de l'échéance est reporté au jour ouvrable suivant.
+
+[<sup>3</sup> ...]<sup>3</sup>.
+
+[<sup>3</sup> Lorsqu'en application du présent décret, l'autorité doit envoyer sa décision dans un délai déterminé selon des modalités différentes en fonction du mode d'envoi choisi par le demandeur, le déclarant ou le requérant, la date du premier de ces envois est prise en considération pour apprécier si le délai imparti à l'autorité est respecté.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2014-03-13/02, art. 4, 031; En vigueur : 01-01-2015 (ARW 2014-05-15/61, art. 14)&gt;
+
+(2)&lt;DRW 2016-06-23/09, art. 96, 033; En vigueur : 01-01-2016&gt;
+
+(3)&lt;DRW 2018-05-24/14, art. 35, 036; En vigueur : 01-01-2027&gt;
+
+##### Art. 177
+
+Un droit de dossier dont le produit est intégralement versé au [<sup>1</sup> Fonds pour la protection de l'environnement, section incivilités environnementales]<sup>1</sup> et couvrant les frais administratifs est levé à charge de toute personne physique ou morale en raison de l'introduction d'une demande ou d'un recours introduits en application du présent décret.
+
+Le droit de dossier visé à l'alinéa 1er est fixé comme suit :
+
+1° [500 euros] pour une demande de permis d'environnement [<sup>2</sup> portant sur des installations et activités]<sup>2</sup> de classe 1; &lt;ARW 2001-12-20/58, art. 1, 003; En vigueur : 01-01-2002; noter toutefois que la date d'entrée en vigueur du DRW 1999-03-11/39 n'est pas encore fixée quand la disposition modificative entre elle-même en vigueur&gt;
+
+2° [125 euros] pour une demande de permis d'environnement relative à un établissement de classe 2; &lt;ARW 2001-12-20/58, art. 1, 003; En vigueur : 01-01-2002; noter toutefois que la date d'entrée en vigueur du DRW 1999-03-11/39 n'est pas encore fixée quand la disposition modificative entre elle-même en vigueur&gt;
+
+3° [25 euros] pour tout recours introduit conformément [aux articles 40, 41 et 95]. &lt;ARW 2001-12-20/58, art. 1, 003; En vigueur : 01-01-2002; noter toutefois que le DRW 1999-03-11/39 n'entre lui-même en vigueur que le 01-10-2002&gt; &lt;DRW 2002-07-04/34, art. 9, 004; En vigueur : 01-10-2002&gt;
+
+[<sup>2</sup> Si une même demande porte sur plusieurs installations et activités, le montant des droits de dossier est unique et est fonction de la classe la plus élevée.]<sup>2</sup>
+
+Le droit de dossier est dû à la date d'introduction de la demande ou du recours.
+
+Le Gouvernement fixe les modalités de perception [<sup>3</sup> et d'exemption]<sup>3</sup> des droits de dossier.
+
+----------
+
+(1)&lt;DRW 2008-12-05/75, art. 79, 020; En vigueur : 18-05-2009&gt;
+
+(2)&lt;DRW 2010-07-22/10, art. 83, 023; En vigueur : 30-08-2010&gt;
+
+(3)&lt;DRW 2018-05-24/14, art. 36,3°, 036; En vigueur : 01-08-2016&gt;
+
+##### Art. 177 DROIT FUTUR
+
+Un droit de dossier dont le produit est intégralement versé au [<sup>1</sup> Fonds pour la protection de l'environnement, section incivilités environnementales]<sup>1</sup> et couvrant les frais administratifs est levé à charge de toute personne physique ou morale en raison de l'introduction d'une demande ou d'un recours introduits en application du présent décret.
+
+Le droit de dossier visé à l'alinéa 1er est fixé comme suit :
+
+1° [500 euros] pour une demande de permis d'environnement [<sup>2</sup> portant sur des installations et activités]<sup>2</sup> de classe 1; &lt;ARW 2001-12-20/58, art. 1, 003; En vigueur : 01-01-2002; noter toutefois que la date d'entrée en vigueur du DRW 1999-03-11/39 n'est pas encore fixée quand la disposition modificative entre elle-même en vigueur&gt;
+
+2° [125 euros] pour une demande de permis d'environnement relative à un établissement de classe 2 [<sup>4</sup> et pour toute proposition de complément ou de modification des conditions particulières d'exploitation, d'une demande de compléments ou de modification des conditions particulières d'exploitation]<sup>4</sup>; &lt;ARW 2001-12-20/58, art. 1, 003; En vigueur : 01-01-2002; noter toutefois que la date d'entrée en vigueur du DRW 1999-03-11/39 n'est pas encore fixée quand la disposition modificative entre elle-même en vigueur&gt;
+
+3° [25 euros] pour [<sup>4</sup> le]<sup>4</sup> recours introduit conformément [aux articles 40, 41 [<sup>4</sup> , 55, § 7, 69]<sup>4</sup> et 95]. &lt;ARW 2001-12-20/58, art. 1, 003; En vigueur : 01-01-2002; noter toutefois que le DRW 1999-03-11/39 n'entre lui-même en vigueur que le 01-10-2002&gt; &lt;DRW 2002-07-04/34, art. 9, 004; En vigueur : 01-10-2002&gt;
+
+[<sup>2</sup> Si une même demande porte sur plusieurs installations et activités, le montant des droits de dossier est unique et est fonction de la classe la plus élevée.]<sup>2</sup>
+
+Le droit de dossier est dû à la date d'introduction de la demande ou du recours.
+
+Le Gouvernement fixe les modalités de perception [<sup>3</sup> et d'exemption]<sup>3</sup> des droits de dossier.
+
+----------
+
+(1)&lt;DRW 2008-12-05/75, art. 79, 020; En vigueur : 18-05-2009&gt;
+
+(2)&lt;DRW 2010-07-22/10, art. 83, 023; En vigueur : 30-08-2010&gt;
+
+(3)&lt;DRW 2018-05-24/14, art. 36,3°, 036; En vigueur : 01-08-2016&gt;
+
+(4)&lt;DRW 2018-05-24/14, art. 36, 1°-2°, 036; En vigueur : 12-02-2026&gt;
+
+##### Art. 178
+
+Le Gouvernement, en coordination avec le Ministre de la Défense nationale, peut établir des modalités particulières d'application du présent décret concernant les installations et activités classées dépendant du Ministère de la Défense nationale pour des raisons strictes de sécurité nationale.
+
+##### Art. 179
+
+Le Gouvernement peut codifier les dispositions du présent décret avec les dispositions qui les auraient expressément ou implicitement modifiées et avec d'autres décrets applicables en matière d'environnement, de politique de l'eau et de conservation de la nature.
+
+A cette fin, il peut :
+
+1° modifier l'ordre, la numérotation et, en général, la présentation des dispositions à codifier;
+
+2° modifier les références qui seraient contenues dans les dispositions à codifier en vue de les mettre en concordance avec la nouvelle numérotation;
+
+3° modifier la rédaction des dispositions à codifier en vue d'assurer leur concordance et d'en unifier la terminologie sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions.
+
+La codification portera l'intitulé :
+
+" Code wallon de l'environnement. ".
+
+L'arrête du Gouvernement de codification fera l'objet d'un projet de décret de ratification qui sera soumis au Conseil régional wallon.
+
+##### Art. 180
+
+&lt;DRW 2002-07-04/41, art. 15, 005; En vigueur : 01-10-2002&gt; Par " permis " au sens du présent article, il y a lieu d'entendre tout permis, toute autorisation, tout enregistrement ou toute permission dont l'obtention était prescrite avant l'entrée en vigueur du présent décret pour l'exploitation d'un établissement.
+
+Les demandes de permis introduites avant la date d'entrée en vigueur du présent décret ainsi que les recours administratifs y relatifs sont traités selon les règles en vigueur au jour de l'introduction de la demande.
+
+Les permis délivrés avant l'entrée en vigueur du présent décret ainsi que les permis délivrés suite à une demande introduite avant cette date sont valables pour le terme fixé par le permis, sans préjudice de l'application des chapitres VIII, IX et X.
+
+(Par dérogation à l'alinéa précédent, les permis délivrés avant l'entrée en vigueur du présent décret pour l'exploitation d'un centre d'enfouissement technique restent valables pour le terme fixé moyennant le respect des conditions suivantes.
+
+Dans un délai de trois mois à dater de l'entrée en vigueur du présent décret, l'exploitant d'un centre d'enfouissement technique autorisé avant l'entrée en vigueur du présent décret doit présenter à l'autorité compétente un plan d'aménagement du site comportant notamment les informations suivantes :
+
+1° la description de la conformité du centre d'enfouissement technique et de ses annexes par rapport à la réglementation applicable et, le cas échéant, une description des mesures correctrices qui devraient être prises;
+
+2° des informations sur sa capacité professionnelle, technique et financière à continuer à exploiter le centre d'enfouissement technique et à assumer les obligations de post-gestion.
+
+Sur la base du plan d'aménagement du site soumis par l'exploitant, l'autorité compétente :
+
+1° se prononce sur la poursuite de l'exploitation du centre d'enfouissement technique, en modifiant ou en complétant, le cas échéant, les conditions d'exploitation;
+
+2° fixe les obligations de post-gestion conformément à l'article 59bis ;
+
+3° détermine les mesures nécessaires en vue de la désaffectation dans les meilleurs délais du centre d'enfouissement technique qui n'a pas obtenu l'autorisation de poursuivre son exploitation.
+
+Le Gouvernement détermine les règles applicables à la présente disposition.) &lt;DRW 2002-09-19/31, art. 13, 007; En vigueur : 01-10-2002&gt;
+
+##### Art. 181
+
+Lorsque des installations et/ou activités classées en vertu du présent décret et constituant des établissements classés au sens du présent décret ont été autorisées avant l'entrée en vigueur du présent décret et que l'une des autorisations de ces installations et/ou activités classées accessoires faisant partie de établissement arrive à échéance, le titulaire de l'autorisation est tenu :
+
+1° soit de solliciter un nouveau permis d'environnement ou de faire une déclaration pour l'établissement dont fait partie l'installation et/ou l'activité dont l'autorisation arrive à échéance;
+
+2° soit, par dérogation aux articles 10 et 11, de solliciter un nouveau permis d'environnement ou de faire une déclaration pour l'installation et/ou l'activité dont l'autorisation arrive à échéance.
+
+Dans ce cas, le terme de l'autorisation portant sur l'exploitation de l'installation et/ou l'activité ne peut excéder celui octroyé pour l'installation et/ou l'activité principale faisant partie de l'établissement.
+
+##### Art. 181bis
+
+[<sup>1</sup> L'inventaire des installations de gestion de déchets d'extraction fermées visé à l'article 59quater, alinéa 2, est réalisé avant le 1er mai 2012.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-12-18/47, art. 13, 019; En vigueur : 31-01-2009&gt;
+
+##### Art. 181ter
+
+[<sup>1</sup> Pour les installations et activités désignées par le Gouvernement, tant que des décisions concernant les conclusions sur les MTD ne sont pas publiées, les conclusions sur les meilleures techniques disponibles issues des documents de référence MTD adoptés par la Commission européenne avant le 6 janvier 2011 s'appliquent en tant que conclusions sur les MTD aux fins du présent décret, à l'exception de l'article 7bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-10-24/11, art. 17, 028; En vigueur : 18-02-2014&gt;
+
+##### Art. 182
+
+La loi du 5 mai 1888 relative à l'inspection des établissements dangereux, insalubres et incommodes et à la surveillance des machines et chaudières à vapeur est abrogée en ce qui concerne les établissements visés par le présent décret.
+
+Cette abrogation ne concerne pas les mesures de police interne relatives à la protection du travail.
+
+##### Art. 183
+
+Le présent décret entre en vigueur à la date fixée par le Gouvernement.
+
+(NOTE : Entrée en vigueur fixée au 01-10-2002 par ARW 2002-07-04/50, art. 278)
+
+##### Art. 183bis
+
+&lt;Inséré par DRW 2005-02-03/39, art. 152; En vigueur : 11-03-2005&gt; Les demandes de permis d'environnement ou de permis unique introduites avant l'entrée en vigueur du décret-programme de relance économique et de simplification administrative du 3 février 2005 ainsi que les recours administratifs y relatifs sont traités selon les règles en vigueur au jour de l'introduction de la demande.
+
+##### Art. 183ter
+
+[<sup>1</sup> Les demandes de permis d'environnement ou de permis unique, en ce compris celles qui entrent dans une des catégories visées à l'article D.IV.25 du CoDT, introduites avant l'entrée en vigueur du CoDT ainsi que les recours administratifs y relatifs sont traités selon les règles en vigueur au jour de l'introduction de la demande.
+
+Les permis uniques prorogés et non périmés à la date d'entrée en vigueur du CoDT sont prorogés d'un an supplémentaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-07-20/46, art. 32, 035; En vigueur : 01-06-2017&gt;
+
+##### Art. 183quater
+
+[<sup>1</sup> § 1er. Pour les établissements qui ont été totalement ou partiellement détruits par les inondations survenues en Région wallonne en juillet 2021, l'application de l'article 10, § 3, est suspendue jusqu'au 15 juillet 2022, sans préjudice de l'application des dispositions du présent décret en matière de surveillance, mesures administratives et sanctions. Pendant cette période, l'exploitation peut être poursuivie dans le respect des conditions imposées par le permis en cours et pour autant qu'aucune transformation ou extension visée à l'article 10, § 1er, alinéa 2, 2°, ne soit apportée à l'établissement.
+
+Les exploitants des établissements visés à l'alinéa 1er qui ont poursuivi leurs activités dans la période comprise entre le 15 juillet 2021 et le 15 juillet 2022 introduisent la demande visée à l'article 10, § 3, dans les trente jours suivant le 15 juillet 2022.
+
+A la condition que l'exploitant ait introduit la demande visée à l'article 10, § 3, dans le délai prévu à l'alinéa 2, tout établissement visé à l'alinéa 1er peut poursuivre ses activités pendant l'instruction de la demande visée à l'article 10, § 3, et, au cas où l'autorité compétente déciderait qu'un nouveau permis est requis, jusqu'à la date de la décision sur la demande de permis, le cas échéant en recours.
+
+§ 2. La suspension visée au paragraphe 1er, alinéa 1er, n'est pas applicable aux exploitants qui souhaitent la mise en oeuvre de l'article 10, § 3, avant le 16 juillet 2022.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2022-05-18/15, art. 1, 045; En vigueur : 15-07-2021&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 11 mars 1999.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, du Commerce extérieur, des P.M.E., du Tourisme et du Patrimoine,
+
+R. COLLIGNON
+
+Le Ministre de l'Aménagement du territoire, de l'Equipement et des Transports,
+
+M. LEBRUN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+B. ANSELME
+
+Le Ministre du Budget et des Finances, de l'Emploi et de la Formation,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de la Recherche, du Développement technologique, du Sport et des Relations internationales,
+
+W. ANCION

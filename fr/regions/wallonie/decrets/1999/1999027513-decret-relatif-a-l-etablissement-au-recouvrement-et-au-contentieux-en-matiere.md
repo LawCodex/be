@@ -1,0 +1,3649 @@
+---
+title: "[Décret relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes]. (Intitulé remplacé par DRW 2008-01-17/36 , art. 17, 004; En vigueur : 01-01-2008) (NOTE 1 : en ce qui concerne les modifications apportées par DRW 2009-12-10/27 ; voir dispositions transitoires : art. 103, alinéas 2 à 5) (NOTE 2 : les modifications apportées par DRW 2013-09-19/23 , art. 1, font partie de la réorganisation du présent CHAPITRE II)"
+identifier: "1999027513"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027513/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1999-05-06
+published: 1999-07-01
+entry_into_force: 1999-07-11
+last_amended: 2026-07-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027513/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 01-07-1999 et mise à jour au 03-07-2026"
+retrieved: 2026-10-12
+---
+
+# 6 MAI 1999. - [Décret relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes]. (Intitulé remplacé par DRW 2008-01-17/36 , art. 17, 004; En vigueur : 01-01-2008) (NOTE 1 : en ce qui concerne les modifications apportées par DRW 2009-12-10/27 ; voir dispositions transitoires : art. 103, alinéas 2 à 5) (NOTE 2 : les modifications apportées par DRW 2013-09-19/23 , art. 1, font partie de la réorganisation du présent CHAPITRE II)
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales.
+
+##### Art. 1
+
+[<sup>1</sup> Le présent décret s'applique aux taxes, en principal et intérêts, et [<sup>2</sup> amendes fiscales]<sup>2</sup>, établies par des décrets de la Région wallonne sauf dans la mesure où ces décrets y dérogent ainsi qu'aux autres impôts et taxes en principal, en intérêts et [<sup>2</sup> amendes fiscales]<sup>2</sup> au profit de la Région wallonne lorsque le présent décret leur est expressément rendu applicable.
+
+Sauf disposition contraire, le présent décret s'applique également aux taxes additionnelles perçues par la Région wallonne au profit des provinces, des communes et des fédérations de communes.]<sup>1</sup>
+
+[<sup>2</sup> Par amende fiscale, on entend toute pénalité qu'elle soit forfaitaire, fixe ou proportionnelle, ainsi que toute majoration de taxe et tout accroissement d'impôt. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2016-12-21/02, art. 53, 014; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 19, 026; En vigueur : 01-01-2022&gt;
+
+##### Art. 2
+
+Le Gouvernement désigne les fonctionnaires chargés de recevoir, de vérifier les déclarations, de procéder à l'établissement, à l'enrôlement des taxes régionales [<sup>1</sup> wallonnes]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2008-01-17/36, art. 19, 004; En vigueur : 01-01-2008&gt;
+
+##### Art. 3
+
+Les taxes régionales [<sup>1</sup> wallonnes]<sup>1</sup> font l'objet de rôles annuels ou spéciaux.
+
+----------
+
+(1)&lt;DRW 2008-01-17/36, art. 20, 004; En vigueur : 01-01-2008&gt;
+
+##### Art. 4
+
+[<sup>1</sup> Le Gouvernement détermine le mode à suivre pour les déclarations, la formation et la notification des rôles, les paiements et quittances ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 8, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 5
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Toutes communications concernant la déclaration et le contrôle, ainsi que les [<sup>2</sup> avertissements-extraits]<sup>2</sup> de rôle sont transmis au redevable sous pli fermé [<sup>3</sup> ou par communication électronique équivalente]<sup>3</sup>.
+
+[<sup>1</sup> § 2. Les délais mentionnés dans le présent décret sont calculés conformément aux articles 52, alinéa 1er, 53 et 54 du Code judiciaire.
+
+§ 3. A l'égard du destinataire, les délais mentionnés aux articles 10, 14, 16 et 25 du présent décret, qui commencent à courir à partir d'une notification sur support papier [<sup>3</sup> ou par communication électronique équivalente]<sup>3</sup> , sont calculés depuis la date d'effet de la notification, à savoir :
+
+1° soit le premier jour qui suit celui où le pli a été présenté au domicile du destinataire, ou, le cas échéant, à sa résidence ou à son domicile élu, lorsque la notification est effectuée par pli judiciaire[<sup>3</sup> ou par pli recommandé à la poste avec accusé de réception, ou le premier jour qui suit celui de la communication électronique équivalente]<sup>3</sup>;
+
+2° soit depuis le troisième jour ouvrable qui suit celui où le pli a été remis aux services de la poste, sauf preuve contraire du destinataire, lorsque la notification est effectuée par pli recommandé ou par pli simple [<sup>3</sup> à la poste, ou depuis le troisième jour ouvrable qui suit celui de la communication électronique équivalente ]<sup>3</sup>.
+
+§ 4. Lorsque le présent décret et les décrets établissant des impôts et taxes auxquels s'applique le présent décret, ainsi que les arrêtés pris pour leur exécution, évoquent les compétences de fonctionnaires des services de la Région wallonne et des établissements publics wallons désignés par le Gouvernement [<sup>3</sup> ...]<sup>3</sup> pour assurer le service des impôts et taxes établis par ces décrets précités, ces fonctionnaires peuvent faire partie aussi bien du personnel statutaire que du personnel contractuel du service ou de l'établissement en cause.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-04-30/93, art. 6, 005; En vigueur : 01-07-2009&gt;
+
+(2)&lt;DRW 2020-12-17/47, art. 3, 025; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 9, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 5bis
+
+[<sup>1</sup> § 1er. Par " communication électronique équivalente " au sens du présent décret, on entend toute procédure de communication par voie électronique en application du décret du 27 mars 2014 relatif aux communications par voie électronique entre les usagers et les autorités publiques wallonnes, et qui produit les mêmes effets juridiques dans le chef des parties que la procédure non électronique prévue par l'article concerné du présent décret.
+
+La communication électronique équivalente est utilisée uniquement si le redevable marque son accord sur cette procédure de communication.
+
+§ 2. Lorsque le redevable ou son mandataire ne dispose plus des moyens informatiques nécessaires au maintien de la procédure de communication électronique équivalente, il en informe immédiatement le Service public de Wallonie Finances. A défaut, la procédure de communication électronique équivalente maintient ses effets juridiques et reste opposable au redevable ou à son mandataire. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 10, 030; En vigueur : 28-09-2023&gt;
+
+## CHAPITRE II. - [<sup>1</sup> Déclarations, investigations et contrôles, et moyens de preuve.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 44, 006; En vigueur : 01-01-2010&gt;
+
+### Section 1re. - [<sup>1</sup> La déclaration]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+##### Art. 6
+
+[<sup>1</sup> Les redevables tenus de faire une déclaration utilisent le formulaire dont le modèle est établi par le Gouvernement.
+
+Le formulaire est délivré par le service désigné par le Gouvernement.
+
+Le redevable qui n'a pas reçu le formulaire est tenu de le réclamer au service désigné par le Gouvernement pour délivrer le formulaire de la déclaration.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+##### Art. 7
+
+[<sup>1</sup> Le formulaire est rempli conformément aux indications qui y figurent, certifié exact, daté et signé.
+
+Les documents ou renseignements dont la production est prévue par le formulaire font partie intégrante de la déclaration et doivent y être joints soit en original soit en copie du document original.
+
+Les autres annexes à la déclaration doivent être certifiées exactes, datées et signées, sauf si elles émanent de tiers.]<sup>1</sup>
+
+[<sup>2</sup> La déclaration doit être envoyée ou remise au service intéressé, sur support papier ou sous forme dématérialisée dans le délai indiqué sur le formulaire et selon les modalités définies par le Gouvernement [<sup>3</sup> ...]<sup>3</sup>.]<sup>2</sup>
+
+[<sup>2</sup> Le redevable est tenu de déclarer toute modification d'un des éléments de la déclaration. En matière de taxe de circulation [<sup>3</sup> ...]<sup>3</sup>, cette déclaration doit être réalisée préalablement à la mise en usage du véhicule dans les nouvelles conditions.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+(2)&lt;DRW 2013-11-28/18, art. 42, 009; En vigueur : 01-01-2014&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 11, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 8
+
+[<sup>1</sup> Si le redevable est décédé ou en état d'incapacité légale, l'obligation de déclarer incombe, dans le premier cas, aux héritiers ou aux légataires ou donataires universels et, dans le second cas, au représentant légal.
+
+Pour les sociétés dissoutes, cette obligation incombe aux liquidateurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+##### Art. 9
+
+[<sup>1</sup> Les déclarations peuvent aussi être souscrites par un mandataire qui doit alors justifier du mandat en vertu duquel il agit.
+
+Les redevables ne sachant ni lire ni signer peuvent faire remplir leur déclaration par les fonctionnaires du service auquel elle doit être remise, à condition qu'ils donnent les indications requises. Dans ce cas, il est fait mention de ladite circonstance dans la déclaration et celle-ci est revêtue de la signature du fonctionnaire qui l'a reçue.
+
+Pour les sociétés dissoutes sans liquidation dans le cadre d'une fusion, d'une opération assimilée à une fusion ou d'une scission visées [<sup>2</sup> aux articles 12:1 à 12:8 du Code des sociétés et des associations]<sup>2</sup>, ou d'une opération de droit des sociétés similaire en droit étranger, l'obligation de déclarer incombe, selon le cas, à la société absorbante ou aux sociétés bénéficiaires. Pour les autres sociétés dissoutes, cette obligation incombe aux liquidateurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+(2)&lt;DRW 2023-04-06/06, art. 64, 031; En vigueur : 02-11-2023&gt;
+
+##### Art. 9bis
+
+[<sup>1</sup> Sans préjudice d'autres dispositions spécifiques prévoyant certaines obligations fiscales, le Gouvernement [<sup>2</sup> ...]<sup>2</sup> peut imposer à quiconque est passible d'un impôt ou d'une taxe visé par le présent décret, ainsi qu'aux associations, organismes et groupements n'ayant pas la personnalité juridique, la tenue de livres ou l'utilisation de documents et de formulaires dont il fixe le modèle et l'emploi et qu'il estime nécessaires au contrôle de la perception des impôts et taxes visés par le présent décret, soit dans son chef, soit dans le chef de tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 12, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 10
+
+[<sup>1</sup> Les redevables ont l'obligation de fournir par écrit, [<sup>2</sup> ou par communication électronique équivalente, ]<sup>2</sup> dans le délai d'un mois à compter de la date d'effet de la notification de la demande, telle que calculée conformément à l'article 5, § 3, ce délai pouvant être prolongé pour de justes motifs, sans déplacement, tous renseignements, livres et documents que le service désigné par le Gouvernement juge nécessaires pour assurer la juste perception de la taxe, lorsqu'ils en sont requis par le service désigné par le Gouvernement et sans préjudice du droit de ce service de demander des renseignements sur place conformément à l'article 11bis.
+
+Les renseignements peuvent porter sur les opérations auxquelles le redevable a été partie et être invoqués pour la taxation des tiers qui ont été parties à ces opérations.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 13, 030; En vigueur : 28-09-2023&gt;
+
+### Section 2. - [<sup>1</sup> Investigations et contrôles]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+##### Art. 11
+
+[<sup>1</sup> § 1er. Le service désigné par le Gouvernement peut, en ce qui concerne un redevable déterminé, recueillir des attestations écrites, entendre des tiers et requérir dans le délai qu'il fixe, ce délai pouvant être prolongé pour de justes motifs, des personnes physiques ou morales, ainsi que des associations n'ayant pas la personnalité juridique, à l'exclusion des services, établissements et organismes publics, la production de tous renseignements qu'il juge nécessaires à l'effet d'assurer la juste perception de la taxe.
+
+§ 2. Les services administratifs de la Région wallonne, les administrations des provinces, des agglomérations, des fédérations de communes et des communes situées sur le territoire de la Région wallonne, ainsi que les établissements et organismes publics actifs sur le territoire de la Région wallonne, sont tenus, lorsqu'ils en sont requis par un fonctionnaire chargé de l'établissement ou du recouvrement des taxes et impôts visés par le présent décret, de lui fournir tous renseignements en leur possession, de lui communiquer, sans déplacement, tous actes, pièces, registres et documents quelconques qu'ils détiennent et de lui laisser prendre tous renseignements, copies ou extraits que ledit fonctionnaire juge nécessaires pour assurer l'établissement ou la perception des taxes et impôts visés par le présent décret.
+
+Par organismes publics au sens de l'alinéa précédent, il faut entendre les institutions, sociétés, associations, établissements et offices à l'administration desquels la Région wallonne participe, auxquels la Région wallonne fournit une garantie, sur l'activité desquels la Région wallonne exerce une surveillance ou dont le personnel de direction est désigné par le Gouvernement [<sup>4</sup> ...]<sup>4</sup>, sur sa proposition ou moyennant son approbation.
+
+Le Gouvernement [<sup>4</sup> ...]<sup>4</sup> peut prévoir que toutes les demandes de transmissions de renseignements, actes, pièces, registres et documents quelconques en matière fiscale, introduites auprès de la Région wallonne par d'autres autorités publiques belges ou étrangères, ainsi que toutes les demandes de renseignements, actes, pièces, registres et documents quelconques en matière fiscale, introduites auprès d'autres autorités publiques belges ou étrangères par la Région wallonne, ainsi que les réceptions et envois de ces informations, doivent obligatoirement être adressées à ou par un service déterminé [<sup>3</sup> du Service public de Wallonie Finances]<sup>3</sup>, qu'il désigne.
+
+§ 3. A l'égard des services, administrations, sociétés, associations établissements ou organismes visés au § 2 qui resteraient en défaut de satisfaire aux obligations qui leur incombent en vertu de ces articles, le Gouvernement peut, suivant le cas, requérir l'intervention de l'Inspecteur des Finances ou du délégué du Gouvernement, désigner un commissaire pour recueillir les renseignements jugés nécessaires ou retirer l'agrégation pour l'octroi d'avantages consentis par la Région wallonne.]<sup>1</sup>
+
+[§ 4. [<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+(2)&lt;DRW 2017-12-13/07, art. 22, 019; En vigueur : 01-01-2018&gt;
+
+(3)&lt;DRW 2021-12-22/12, art. 20, 026; En vigueur : 01-01-2022&gt;
+
+(4)&lt;DRW 2023-07-12/11, art. 14, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 11bis
+
+[<sup>1</sup> § 1er. Les fonctionnaires du service désigné par le Gouvernement peuvent, aux fins de contrôler la perception des impôts et taxes visés par le présent décret, pénétrer librement, à tout moment, sans avertissement préalable, dans tous les bâtiments, ateliers, établissements, locaux ou autres lieux, où sont effectuées ou présumées être effectuées des activités visées par ces impôts et taxes.
+
+Ces fonctionnaires peuvent notamment :
+
+1\. examiner tous les livres, registres, factures et autres documents qui s'y trouvent; vérifier, au moyen du matériel utilisé et avec l'assistance de la personne requise, la fiabilité des informations, données et traitements informatiques, en exigeant notamment la communication de documents spécialement établis en vue de présenter les données enregistrées sur les supports informatiques sous une forme lisible et intelligible;
+
+2\. constater la nature et l'importance de l'activité qui s'y exerce et le personnel qui y est affecté, ainsi que des marchandises et de tous les biens qui s'y trouvent, y compris les moyens de production et de transport; pour le contrôle de la perception de la taxe sur les jeux et paris, contrôler l'encaisse du redevable de la taxe;
+
+3\. toutefois, ils ne peuvent pénétrer dans les bâtiments ou les locaux habités que de 5 heures du matin à 9 heures du soir et uniquement avec l'autorisation du juge de police, sauf accord de l'occupant des lieux et sauf pour ce qui concerne le contrôle de la perception de la taxe sur les jeux et paris et de la taxe sur les appareils automatiques de divertissement.
+
+§ 2. [<sup>2</sup> Sur simple demande des fonctionnaires visés au § 1er et sans préjudice des pouvoirs accordés à ces fonctionnaires par les §§ 1er et 4 :
+
+1\) toute personne est tenue de leur présenter tous renseignements, livres, registres, factures et autres documents utiles à l'établissement et à la perception des impôts et taxes visés par le présent décret. Ces fonctionnaires sont autorisés à en prendre copies.
+
+Si ces livres, registres, factures et autres documents sont tenus, établis, délivrés, reçus ou conservés au moyen d'un système informatisé, ces fonctionnaires :
+
+\- ont le droit de se faire communiquer les données enregistrées sur des supports informatiques sous forme lisible et intelligible;
+
+\- peuvent requérir la personne visée à l'alinéa 1er d'effectuer, en leur présence, et sur son matériel, des copies, dans la forme qu'ils souhaitent, de tout ou partie des données précitées, ainsi que les traitements informatiques jugés nécessaires à la vérification de l'exacte perception des impôts et taxes visés par le présent décret;
+
+\- peuvent requérir la personne visée à l'alinéa 1er de leur communiquer les dossiers d'analyse, de programmation et d'exploitation du système utilisé :
+
+2\) en matière de taxe de circulation, tout conducteur est tenu de leur fournir tous renseignements au sujet de l'utilisation du véhicule justifiant des exemptions prévues à l'article 15 du règlement général des taxes assimilées aux impôts sur les revenus.]<sup>2</sup>
+
+§ 3. Les fonctionnaires visés au § 1er ont le droit de retenir, contre délivrance d'un accusé de réception, les livres, registres, factures et autres documents visés au § 2, alinéa 1er, ainsi que les copies établies conformément au § 2, alinéa 2, chaque fois qu'ils estiment que ces livres, registres, factures et autres documents établissent ou concourent à établir la débition d'une taxe ou d'une [<sup>6</sup> amende fiscale]<sup>6</sup> à sa charge ou à la charge de tiers.
+
+Ce droit ne s'étend pas aux livres qui ne sont pas clôturés. Lorsque ces livres sont conservés au moyen d'un système informatisé, ces fonctionnaires ont le droit de se faire remettre des copies de ces livres dans la forme qu'ils souhaitent.]<sup>1</sup>
+
+[<sup>3</sup> § 4. Les fonctionnaires visés au [<sup>7</sup> paragraphe 1er]<sup>7</sup> sont plus spécifiquement autorisés pour le contrôle de la perception de la taxe de circulation, taxe de mise en circulation [<sup>4</sup> [<sup>5</sup> ,[<sup>7</sup> ...]<sup>7</sup> et prélèvement kilométrique]<sup>5</sup>]<sup>4</sup> à :
+
+a) visiter, sans aucune assistance, les garages, les hangars et les lieux de dépôts ou d'amarrage;
+
+b) se faire produire le carnet d'immatriculation des véhicules routiers ou des aéronefs, la lettre de pavillon des bateaux, le certificat de conformité, la déclaration de conformité ou tout document en tenant lieu ainsi que tout autre document attestant du payement de la taxe;
+
+c) contrôler le signe distinctif fiscal délivré conformément aux articles 36ter et 36quater du Code des taxes assimilées aux impôts sur les revenus, des véhicules se trouvant sur la voie publique;
+
+d) [<sup>7</sup> dresser procès-verbal en application de l'article 12bis, § 2, et se faire acquitter immédiatement entre leurs mains, par le conducteur du véhicule, les montants impayés ou éludés qui y sont mentionnés.
+
+A défaut de paiement immédiat, le fonctionnaire visé à l'alinéa 1er peut prendre une ou plusieurs des mesures suivantes :
+
+\- la retenue des documents de bord;
+
+\- la retenue du certificat d'immatriculation;
+
+\- le placement d'un sabot;
+
+\- l'enlèvement du véhicule en infraction vers un lieu d'entreposage;- le stationnement du véhicule.
+
+Le véhicule ne peut pas être déplacé ou, le cas échéant, aliéné sans l'autorisation du fonctionnaire visé à l'alinéa 1er.
+
+Si les sommes dues ne sont pas acquittées dans un délai de sept jours suivant le jour de la constatation de l'infraction, le fonctionnaire chargé du recouvrement des créances fiscales visé à l'article 34bis peut décerner une contrainte et, éventuellement, procéder à la saisie du véhicule conformément aux articles 34bis et suivants, dans les deux jours ouvrables suivant l'expiration du délai de sept jours susmentionné. Ces poursuites sont engagées à l'encontre de la personne physique ou morale qui est ou doit être reprise au certificat d'immatriculation, ou à défaut au propriétaire, à l'exploitant ou au détenteur du véhicule. Les risques et frais éventuels résultant de la mesure de rétention et des poursuites éventuelles sont à charge de la personne physique ou morale qui est ou doit être reprise au certificat d'immatriculation, ou à défaut au propriétaire, à l'exploitant ou au détenteur du véhicule.
+
+A l'expiration du délai de sept jours mentionné à l'alinéa précédent :
+
+\- s'il est procédé dans les deux jours ouvrables à des poursuites, seul le fonctionnaire chargé du recouvrement des créances fiscales visé à l'article 34bis peut mettre fin aux mesures de rétention;
+
+\- s'il n'est pas procédé dans les deux jours ouvrables à des poursuites, le fonctionnaire visé à l'alinéa 1er met fin aux mesures de rétention ]<sup>7</sup>.
+
+En cas de refus de la part du conducteur, le véhicule est retenu jusqu'au paiement des sommes dues. Si celles-ci ne sont pas acquittées dans les nonante-six heures de la constatation de l'infraction, le véhicule est saisi.
+
+Un avis de saisie est envoyé à la personne physique ou morale qui est ou doit être reprise au certificat d'immatriculation dans les deux jours ouvrables.
+
+Les risques et frais éventuels résultant de la rétention et de la saisie sont à charge de la personne physique ou morale qui est ou doit être reprise au certificat d'immatriculation ou à défaut de paiement à charge du propriétaire, de l'exploitant, du détenteur ou du conducteur du véhicule tenus solidairement conformément à la législation de la taxe concernée.
+
+La saisie est levée après paiement des sommes et des frais dus.
+
+A défaut de paiement de ces sommes et frais, le tribunal condamne à leur paiement et ordonne la vente du véhicule saisi. Les frais de justice, le montant de la taxe concernée, l'[<sup>6</sup> amende fiscale]<sup>6</sup> et les autres frais y relatifs sont déduits du produit de la vente du véhicule et l'excédent éventuel est remboursé à la personne physique ou morale qui est ou doit être reprise au certificat d'immatriculation du véhicule.
+
+Pour l'application du présent § 4, d), les dispositions des lois et règlements sur les douanes et accises relatives à la rétention, la saisie et la vente sont d'application;
+
+e) donner des injonctions aux conducteurs et régler la circulation conformément à l'article 11 de la loi du 16 mars 1968 relative à la police de la circulation routière;
+
+f) constater et contrôler des éléments nécessaires à l'établissement de la puissance ou du poids imposable, tels que prévu par les articles 17 à 20 du règlement général des taxes assimilées aux impôts sur les revenus et ce, au moyen des indications des factures, catalogues, notices descriptives, bons de pesage ou tous autres documents reconnus probants.
+
+Lorsqu'il le juge nécessaire, le service désigné par le Gouvernement fait procéder au pesage ou à l'examen complet du véhicule.
+
+Le lieu, la date et l'heure du pesage ou de l'examen complet du véhicule sont portés, au moins cinq jours à l'avance, à la connaissance des intéressés qui sont tenus de présenter le véhicule en ordre de marche;
+
+[<sup>7</sup> g) procéder à des constatations à l'aide de moyens audiovisuels ou de dispositifs automatisés de contrôle fixes et mobiles, notamment des caméras intelligentes au sens de la loi du 21 mars 2007 réglant l'installation et l'utilisation de caméras de surveillance;]<sup>7</sup>
+
+[<sup>7</sup> h]<sup>7</sup> demander l'assistance de la police locale.
+
+Les fonctionnaires visés au § 1er sont tenus, dans le cadre du contrôle de la perception des taxes visées au § 4, de porter l'uniforme de service et de s'identifier par leur carte de légitimation lors de l'exercice de leur fonction.
+
+Le Gouvernement [<sup>7</sup> ...]<sup>7</sup> définit l'uniforme de service porté par ces fonctionnaires ainsi que la carte de légitimation et les marques distinctives des voitures de contrôles qui seront utilisés par ces derniers.
+
+§ 5. Sans préjudice des compétences confiées aux autres officiers ou agents de police judiciaire et aux membres du cadre opérationnel de la police locale et fédérale, le Gouvernement [<sup>7</sup> ...]<sup>7</sup> attribue la qualité d'agent ou d'officier de police judiciaire aux membres du personnel assermentés qu'il désigne pour contrôler la perception des taxes auxquelles le présent décret est applicable.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+(2)&lt;DRW 2013-11-28/18, art. 43, 009; En vigueur : 01-01-2014&gt;
+
+(3)&lt;DRW 2013-11-28/18, art. 44, 009; En vigueur : 01-01-2014&gt;
+
+(4)&lt;DRW 2015-12-17/14, art. 36, 012; En vigueur : 01-04-2016&gt;
+
+(5)&lt;DRW 2016-12-21/02, art. 54, 014; En vigueur : 01-01-2017&gt;
+
+(6)&lt;DRW 2021-12-22/12, art. 21, 026; En vigueur : 01-01-2022&gt;
+
+(7)&lt;DRW 2023-07-12/11, art. 15, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 11ter
+
+[<sup>1</sup> Le redevable d'un impôt ou d'une taxe visé par le présent décret est tenu de conserver une copie des déclarations afférentes à cet impôt ou à cette taxe, transmises au service désigné par le Gouvernement pour les recevoir, ainsi que les livres, registres, factures et autres documents dont la tenue, la rédaction, ou la délivrance sont prescrites par la législation applicable à la taxe ou l'impôt concerné, et ainsi que les autres documents de gestion nécessaires à la vérification de l'établissement et de la perception des impôts et taxes visés par le présent décret, notamment la documentation relative aux analyses, à la programmation et à l'exploitation de systèmes informatisés utilisés dans la gestion de ces impôts et taxes, et les supports d'information et toutes les données qu'ils contiennent, et ce, pendant une durée de [<sup>2</sup> dix ]<sup>2</sup> années prenant cours au 1er janvier de l'exercice d'imposition.
+
+Sauf lorsqu'ils sont saisis par la justice, ou sauf dérogation accordée par le service désigné par le Gouvernement [<sup>3</sup> ...]<sup>3</sup>, les déclarations, livres, registres, factures et autres documents visés à l'alinéa 1er doivent être conservés à la disposition de ce service, dans le bureau, l'agence, la succursale ou tout autre local professionnel ou privé du [<sup>3</sup> redevable]<sup>3</sup> où ces livres et documents ont été tenus, établis ou adressés.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 22, 026; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 16, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 11quater
+
+[<sup>1</sup> Celui qui intervient, à quelque titre que ce soit, dans l'application des dispositions fiscales wallonnes ou qui a accès aux bureaux [<sup>2</sup> du Service public de Wallonie Finances]<sup>2</sup>, est tenu de garder, en dehors de l'exercice de ses fonctions, le secret le plus absolu au sujet de tout ce dont il a eu connaissance par la suite de l'exercice de sa mission.]<sup>1</sup>
+
+[<sup>2</sup> L'obligation visée à l'alinéa 1er est levée lorsque des informations sont communiquées dans le cadre d'un système de dénonciation spécifiquement organisé par décret ou par arrêté du Gouvernement.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-11-28/18, art. 45, 009; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 23, 026; En vigueur : 01-01-2022&gt;
+
+##### Art. 11quinquies
+
+[<sup>1</sup> En vue d'établir la situation patrimoniale du redevable et des personnes sur les biens desquelles les impôts et les taxes, dus en principal et additionnels, les amendes fiscales, les intérêts de retard et les frais sont mis en recouvrement conformément à l'article 35ter, et pour assurer le recouvrement des impôts et des taxes, dus en principal et additionnels, des amendes fiscales, des intérêts de retard et des frais, le fonctionnaire visé à l'article 34bis :
+
+1° dispose de tous les pouvoirs d'investigations prévus par le présent décret ;
+
+2° peut demander au point de contact central tenu par la Banque nationale de Belgique conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt, les informations nécessaires à l'identification des éléments suivants, et des sommes qui y sont disponibles, dont les personnes précitées sont titulaires :
+
+a) les comptes bancaires ou de paiement visés à l'article 4, 1°, de la loi du8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt ;
+
+b) les comptes de titres visés à l'article 4, 1° /1, de la même loi ;
+
+c) les comptes de crypto-actifs visés à l'article 4, 1° /2, de la même loi ;
+
+d) les relations contractuelles visés à l'article 4, 3°, a), b) et c), de la même loi. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-06-18/08, art. 1, 036; En vigueur : 13-07-2026&gt;
+
+### Section 3. - [<sup>1</sup> Moyens de preuve de l'administration]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+##### Art. 12
+
+[<sup>1</sup> § 1er. Pour déterminer si une personne est soumise à la taxe et pour établir l'assiette et le montant de la taxe, le service désigné par le Gouvernement peut recourir à tous les moyens de preuve admis par le droit commun, sauf le serment.
+
+§ 2. Les déclarations, renseignements, livres et documents, attestations et documents de gestion, visés par les articles 6 à 11ter, ainsi que les données qui y sont contenues, qui sont enregistrés, conservés ou reproduits par le service désigné par le Gouvernement selon un procédé photographique, optique, électronique ou par toute autre technique de l'informatique ou de la télématique, ainsi que leur représentation sur un support lisible, ont force probante pour l'application des impôts et taxes visés par le présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+##### Art. 12bis
+
+[<sup>6</sup> § 1.]<sup>6</sup>[<sup>1</sup> Les fonctionnaires de la Région wallonne, les fonctionnaires et agents communaux et provinciaux, sont qualifiés sur l'ensemble du territoire de la Région wallonne pour rechercher les infractions et dresser, même seuls, les procès-verbaux en matière de taxes et impôts visés par le présent décret.
+
+Ces procès-verbaux font foi jusqu'à preuve du contraire des faits quelconques qui y sont relatés.
+
+Ils sont transmis au fonctionnaire désigné par le Gouvernement.]<sup>1</sup>
+
+[<sup>2</sup> [<sup>3</sup> [<sup>4</sup> En matière de taxe de circulation, de taxe de mise en circulation, d'eurovignette et de prélèvement kilométrique]<sup>4</sup>]<sup>3</sup>, les membres du personnel du service désigné par le Gouvernement, en qualité d'agent de police judiciaire ou en qualité d'officier de police judiciaire, sont compétents pour rechercher sur l'ensemble du territoire de la Région wallonne les infractions à la législation concernée, [<sup>6</sup> et]<sup>6</sup> pour dresser, seuls ou conjointement, les procès-verbaux en la matière [<sup>6</sup> ...]<sup>6</sup>]<sup>5</sup>.
+
+Ces procès-verbaux, auxquels sont annexées éventuellement les explications écrites des contrevenants, sont rédigés à la requête du Ministre régional des Finances, pour poursuites et diligences du fonctionnaire du service désigné par le Gouvernement [<sup>6</sup> ...]<sup>6</sup>, faisant élection de domicile dans ses bureaux; ils sont dispensés de l'affirmation ou du visa et de la notification.
+
+Les procès-verbaux sont transmis aux fonctionnaires qui sont désignés à cet effet par le Ministre régional des Finances.]<sup>2</sup>
+
+[<sup>6</sup> § 2. Les procès-verbaux dressés en application du paragraphe 1er, alinéa 4, au nom du conducteur du véhicule contrôlé sur la voie publique, reprennent impérativement le décompte fiscal des sommes dues au titre des taxes éludées ou impayées, des amendes fiscales et des frais ainsi que l'indication des mesures de rétention appliquées en exécution de l'article 11bis, § 4, d).]<sup>6</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+(2)&lt;DRW 2013-11-28/18, art. 46, 009; En vigueur : 01-01-2014&gt;
+
+(3)&lt;DRW 2015-12-17/14, art. 37, 012; En vigueur : 01-04-2016&gt;
+
+(4)&lt;DRW 2016-12-21/02, art. 55, 014; En vigueur : 01-01-2017&gt;
+
+(5)&lt;DRW 2021-12-22/12, art. 24, 026; En vigueur : 01-01-2022&gt;
+
+(6)&lt;DRW 2023-07-12/11, art. 18, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 12ter
+
+[<sup>1</sup> § 1er. § 1er. Tout renseignement, pièce, procès-verbal ou acte découvert ou obtenu dans l'exercice de ses fonctions, par un fonctionnaire de la Région wallonne, soit directement, soit par l'entremise d'un des services désignés à l'article 11, § 2 et § 3, [<sup>2</sup> soit dans le cadre de l'assistance mutuelle menée conformément au chapitre IXbis,]<sup>2</sup> peut être invoqué par la Région wallonne pour la recherche de toute somme due relativement aux impôts et taxes visés par le présent décret.
+
+§ 2. Tout fonctionnaire de la Région wallonne, régulièrement chargé d'effectuer chez une personne physique ou morale un contrôle ou une enquête se rapportant à l'application d'un impôt ou d'une taxe visé par le présent décret, est, de plein droit, habilité à prendre, rechercher ou recueillir tous renseignements propres à assurer l'exacte perception de tous autres impôts ou taxes établis au profit de la Région wallonne et dont la Région wallonne assure le service.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 19, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 12quater
+
+[<sup>1</sup> Par dérogation aux articles 10 à 11bis, le service désigné par le Gouvernement n'est pas autorisé à recueillir, dans les comptes, livres et documents des établissements de banque, de change, de crédit et d'épargne, des renseignements en vue de l'imposition de leurs clients.
+
+De même, les articles 10 à 11bis ne sont pas [<sup>2</sup> applicables]<sup>2</sup> à l'Institut national de statistique, aux établissements et institutions publics financiers et de crédit, pour ce qui concerne les renseignements individuels recueillis sur des tiers.
+
+Si cependant, l'enquête du service désigné par le Gouvernement effectuée sur base des articles 10 à 11bis, auprès d'autres personnes ou établissements que ceux visés aux alinéas 1er et 2, a fait apparaître des éléments concrets permettant de présumer l'existence ou la préparation d'un mécanisme de fraude fiscale, le fonctionnaire désigné à cette fin par le Ministre qui a les Finances dans ses attributions peut relever dans les comptes, livres et documents de l'établissement, les renseignements permettant de compléter l'enquête et de déterminer les impôts et taxes dus par ce client.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 1, 008; En vigueur : 21-10-2013&gt;
+
+(2)&lt;DRW 2013-11-28/18, art. 47, 009; En vigueur : 01-01-2014&gt;
+
+##### Art. 12quinquies
+
+[<sup>1</sup> N'est pas opposable à l'administration, l'acte juridique ni l'ensemble d'actes juridiques réalisant une même opération lorsque l'administration démontre par présomptions ou par d'autres moyens de preuve visés aux articles 12 à 12ter et à la lumière de circonstances objectives, qu'il y a abus fiscal.
+
+Il y a abus fiscal lorsque le redevable réalise, par l'acte juridique ou l'ensemble d'actes juridiques qu'il a posé, l'une des opérations suivantes :
+
+1° soit une opération par laquelle il se place en violation des objectifs d'une disposition des taxes et impôts visés à l'article 1er ou des arrêtés pris en exécution de ceux-ci, en-dehors du champ d'application de cette disposition;
+
+2° soit une opération par laquelle il prétend à un avantage fiscal prévu par une disposition des taxes et impôts visés à l'article 1er ou des arrêtés pris en exécution de ceux-ci, dont l'octroi serait contraire aux objectifs de cette disposition et dont le but essentiel est l'obtention de cet avantage.
+
+Il appartient au redevable de prouver que le choix de cet acte juridique ou de cet ensemble d'actes juridiques se justifie par d'autres motifs que la volonté d'éviter les impôts, taxes ou droits visés par le présent décret.
+
+Lorsque le redevable ne fournit pas la preuve contraire, la base imposable et le calcul de l'impôt ou du droit sont rétablis en manière telle que l'opération est soumise à un prélèvement conforme à l'objectif de la loi, comme si l'abus n'avait pas eu lieu. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2021-12-22/12, art. 25, 026; En vigueur : 01-01-2022&gt;
+
+## CHAPITRE III. - Procédure de taxation.
+
+### Section 1. - Rectification de la déclaration.
+
+##### Art. 13
+
+Lorsque [le service désigné par le Gouvernement] estime devoir rectifier les éléments que le redevable a mentionnés dans sa déclaration, elle fait connaître à celui-ci, par [<sup>1</sup> pli recommandé à la poste ou par communication électronique équivalente,]<sup>1</sup>les éléments qu'elle se propose de substituer à ceux qui ont été déclarés, en indiquant les motifs qui lui paraissent justifier la rectification. &lt;DRW 2007-03-22/38, art. 56, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt;
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 20, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 14
+
+Le redevable peut notifier [au service désigné par le Gouvernement] les observations qu'il entend faire valoir [<sup>1</sup> dans un délai d'un mois à compter de la date d'effet de la notification de l'avis de rectification, telle que calculée conformément à l'article 5, § 3,]<sup>1</sup> ce délai pouvant être prolongé pour de justes motifs. &lt;DRW 2007-03-22/38, art. 57, 1°, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt;
+
+La taxe ne peut être établie avant l'expiration de ce délai [, sauf si le redevable a marqué son accord par écrit [<sup>2</sup> ou par communication électronique équivalente, ]<sup>2</sup> sur la rectification de la déclaration, ou si les droits du Trésor régional sont en péril pour une cause autre que l'expiration des délais d'imposition]. &lt;DRW 2007-03-22/38, art. 57, 2°, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt;
+
+----------
+
+(1)&lt;DRW 2009-04-30/93, art. 10, 005; En vigueur : 01-07-2009&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 21, 030; En vigueur : 28-09-2023&gt;
+
+### Section 2. - Taxation d'office.
+
+##### Art. 15
+
+[<sup>1</sup> Le service désigné par le Gouvernement peut procéder à la taxation d'office en raison de la base imposable qu'il peut présumer eu égard aux éléments dont il dispose dans les cas où le redevable s'est abstenu :
+
+\- soit de remettre la déclaration, qui lui est imposée par le décret [<sup>2</sup> ou la législation]<sup>2</sup> qui établit la taxe, dans le délai requis;
+
+\- soit d'éliminer, dans le délai consenti à cette fin, le ou les vices de forme entachant sa déclaration;
+
+[<sup>2</sup> soit de produire, à la requête du fonctionnaire du service désigné par le Gouvernement, dans un délai d'un mois et sans déplacement, tous renseignements et tous documents jugés nécessaires au contrôle de la déclaration relative à la taxe de circulation, mise en circulation et eurovignette ou à l'application de la législation relative à ces dernières taxes;]<sup>2</sup>
+
+\- soit de produire les renseignements demandés par le service désigné par le Gouvernement dans le délai fixé par celui-ci ou de communiquer les livres, registres, factures et autres documents qui lui ont été réclamés, et plus généralement en cas d'infraction par le redevable aux articles 10, 11bis et 11ter ;
+
+\- soit de payer la taxe sur les appareils automatiques de divertissement eu égard à un appareil taxable, dans le délai prescrit par l'article 83 du Code des taxes assimilées aux impôts sur les revenus.
+
+Le service désigné par le Gouvernement [<sup>3</sup> ...]<sup>3</sup> peut également procéder à la taxation d'office en raison de la base imposable qu'il peut présumer eu égard aux éléments dont il dispose, en cas d'application des articles 91 et 92 du Code des taxes assimilées aux impôts sur les revenus.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 54, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2013-11-28/18, art. 48, 009; En vigueur : 01-01-2014&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 22, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 16
+
+Avant de procéder à la taxation d'office, [le service désigné par le Gouvernement] notifie au redevable, par [<sup>3</sup> pli recommandé à la poste ou par communication électronique équivalente,]<sup>3</sup>, les motifs du recours à cette procédure et les éléments sur lesquels la taxation est basée, ainsi que le mode de détermination de ces éléments et le montant de la taxe. &lt;DRW 2007-03-22/38, art. 59, 1°, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt;
+
+Le redevable dispose [<sup>2</sup> d'un délai d'un mois à compter de la date d'effet de cette notification, telle que calculée conformément à l'article 5, § 3,]<sup>2</sup> pour faire valoir ses observations par écrit [<sup>3</sup> ou par communication électronique équivalente ]<sup>3</sup>.
+
+[La taxe ne peut être établie avant l'expiration de ce délai, sauf si le redevable a marqué son accord par écrit [<sup>1</sup> sur la taxation d'office]<sup>1</sup> , ou si les droits du Trésor régional sont en péril pour une cause autre que l'expiration des délais d'imposition.] &lt;DRW 2007-03-22/38, art. 59, 2°, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt;
+
+----------
+
+(1)&lt;DRW 2009-04-30/93, art. 11, 1°, 005; En vigueur : 01-01-2008&gt;
+
+(2)&lt;DRW 2009-04-30/93, art. 11, 2°, 005; En vigueur : 01-07-2009&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 23, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 17
+
+Lorsque le redevable est taxé d'office, la preuve du montant exact de la base imposable lui incombe, sauf si le redevable établit qu'il a été empêché, par de justes motifs, de satisfaire à ses obligations dans le délai fixé ou lorsque la taxation d'office a été établie sur la base mentionnée dans l'avis d'imposition d'office avant l'expiration du délai prévu par l'article 14, parce que les droits du Trésor sont en péril.
+
+## CHAPITRE IV. - Délai d'imposition et exigibilité des taxes.
+
+##### Art. 17bis
+
+&lt;DRW 2007-03-22/38, art. 60, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt; § 1er. [<sup>1</sup> [<sup>7</sup> Toute somme de taxes est uniquement perçue des redevables : ]<sup>7</sup>:]<sup>1</sup> :
+
+a. soit en vertu d'un rôle rendu exécutoire, document qui constitue le titre légal de perception;
+
+b. soit en vertu d'une obligation de paiement d'initiative mise à charge du redevable par la législation, ou en vertu d'une déclaration [<sup>3</sup> ...]<sup>3</sup>.
+
+[<sup>2</sup> c. soit en vertu d'une invitation à payer ou d'un décompte fiscal, directement adressé au redevable par le service désigné par le Gouvernement]<sup>2</sup>
+
+[<sup>3</sup> d. [<sup>7</sup> d. soit en vertu du décompte fiscal visé à l'article 12bis, § 2 ]<sup>7</sup>.]<sup>3</sup>
+
+§ 2. Les rôles sont soit annuels, soit spéciaux.
+
+Font l'objet de rôles spéciaux :
+
+\- les taxes visées par une procédure de rectification d'une déclaration mentionnée au § 1er, b. ;
+
+\- les taxes visées par une procédure de taxation d'office, lorsque ces taxes sont payables d'initiative ou sur la base d'une déclaration, tel que prévu au § 1er, b. ;
+
+\- les autres taxes visées au § 1er, b., à défaut de paiement dans le délai prévu par la législation applicable;
+
+\- la taxe wallonne sur l'abandon de déchets;
+
+[<sup>2</sup> - les taxes visées au § 1er, c., à défaut de paiement dans le délai prévu par la législation applicable;]<sup>2</sup>
+
+[<sup>3</sup> - les taxes visées au § 1er, d. [<sup>7</sup> à défaut du paiement immédiat visé à l'article 11bis, § 4, d), lorsque celles-ci n'ont pas déjà fait l'objet d'un rôle]<sup>7</sup>;]<sup>3</sup>
+
+[<sup>4</sup> - les taxes et contributions visées à l'article D.278, § 1er du Livre II du Code de l'Environnement, contenant le Code de l'Eau suite à une cessation d'activités;
+
+\- les provisions trimestrielles afférentes aux taxes de prélèvements et contributions sur les prises d'eau en cas de non-paiement dans le délai fixé à l'article D.281 du Livre II du Code de l'Environnement, contenant le Code de l'Eau.]<sup>4</sup>
+
+Les autres taxes dues par un redevable font l'objet de rôles annuels.
+
+[<sup>3</sup> § 2/1. Les rôles contenant les taxes dues sont formés soit distinctement par taxe régionale wallonne, soit simultanément pour plusieurs de ces taxes. Ils sont dressés par exercice d'imposition. Ils peuvent l'être pour plusieurs exercices à condition qu'ils soient revêtus annuellement d'un nouvel exécutoire.
+
+§ 2/2. Les rôles sont rattachés à l'année budgétaire en cours à la date de leur exécutoire; il est fait application des taux de taxe et éventuellement des centimes additionnels afférents aux exercices d'imposition respectifs.
+
+§ 2/3 [<sup>5</sup> ...]<sup>5</sup> ]<sup>3</sup>
+
+[<sup>1</sup> § 3. [<sup>7</sup> ...]<sup>7</sup>
+
+[<sup>6</sup> § 4. En matière de précompte immobilier, les biens immobiliers appartenant à la même unité d'imposition ayant ensemble un revenu cadastral inférieur à quinze euros, ne sont pas enrôlés. Une unité d'imposition rassemble l'ensemble des parcelles d'une division cadastrale attachées au même redevable ou ensemble de redevables ayant les mêmes droits réels sur les biens concernés.]<sup>6</sup>
+
+----------
+
+(1)&lt;DRW 2008-01-17/36, art. 21, 004; En vigueur : 01-01-2008&gt;
+
+(2)&lt;DRW 2009-12-10/27, art. 55, 006; En vigueur : 01-01-2010&gt;
+
+(3)&lt;DRW 2013-11-28/18, art. 49, 009; En vigueur : 01-01-2014&gt;
+
+(4)&lt;DRW 2014-12-12/02, art. 95, 011; En vigueur : 01-01-2015&gt;
+
+(5)&lt;DRW 2014-12-12/02, art. 134, 011; En vigueur : 08-01-2015&gt;
+
+(6)&lt;DRW 2020-12-17/47, art. 4, 025; En vigueur : 01-01-2021&gt;
+
+(7)&lt;DRW 2023-07-12/11, art. 24, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 18
+
+[<sup>1</sup> Pour les taxes, en principal, additionnels et [<sup>3</sup> amendes fiscales]<sup>3</sup>, au profit de la Région, des provinces, des fédérations de communes et des communes, les rôles sont formés et rendus exécutoires par le fonctionnaire désigné par le Gouvernement [<sup>2</sup> aux époques fixées par ce même fonctionnaire]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-11-28/18, art. 50, 009; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DRW 2014-12-12/02, art. 135, 011; En vigueur : 08-01-2015&gt;
+
+(3)&lt;DRW 2021-12-22/12, art. 26, 026; En vigueur : 01-01-2022&gt;
+
+##### Art. 18bis
+
+[<sup>1</sup> § 1er. Les impositions sont portées au rôle au nom des redevables intéressés.
+
+§ 2. Quant aux impositions établies à charge de redevables décédés, elles sont enrôlées au nom de ceux-ci, précédé du mot "Succession" et suivi éventuellement de l'indication de la personne ou des personnes qui se sont fait connaître au fonctionnaire chargé de l'établissement de la taxe comme héritier, légataire, donataire ou mandataire spécial.
+
+L'identité de ces personnes est détaillée. Si l'un des héritiers a été formellement désigné pour représenter la succession, l'enrôlement se fait d'après la formule suivante : "Succession X..., les héritiers représentés par...".
+
+Dans l'éventualité d'une taxation d'office, il suffit que le nom du redevable décédé (Succession X...) soit suivi de l'indication de l'un des héritiers, connu du service désigné par le Gouvernement [<sup>3</sup>...]<sup>3</sup>
+
+§ 3. Dans l'éventualité où une société est absorbée ou scindée dans le cadre d'une fusion, d'une opération assimilée à une fusion ou d'une scission visées [<sup>4</sup> aux articles 12:1 à 12:8 du Code des sociétés et des associations]<sup>4</sup>, ou d'une opération de droit des sociétés similaire en droit étranger, l'imposition relative à la société absorbée ou scindée, concernant ses activités jusque et y compris l'opération précitée, est établie dans les délais prévus dans le présent chapitre dans le chef de la société absorbante ou des sociétés bénéficiaires, même au moment où la société absorbée ou scindée comme personne morale n'existe plus.]<sup>1</sup>
+
+[<sup>2</sup> § 4. Les impositions au précompte immobilier afférentes à un immeuble appartenant à plusieurs propriétaires en indivision sont portées au rôle au nom d'un ou plusieurs propriétaires, suivi des mots " en indivision ".]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 56, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2020-12-17/47, art. 5, 025; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 25, 030; En vigueur : 28-09-2023&gt;
+
+(4)&lt;DRW 2023-04-06/06, art. 65, 031; En vigueur : 02-11-2023&gt;
+
+##### Art. 19
+
+La période imposable est l'année civile à laquelle se rapporte la situation qui fait l'objet de la taxe, ou la partie de cette année civile pendant laquelle le redevable a réuni les conditions d'assujettissement à la taxe.
+
+[L'exercice d'imposition est :
+
+\- [<sup>1</sup> - pour les taxes payables d'initiative ou sur la base d'une déclaration, tel que prévu à l'article 17bis, § 1er, b., pour les taxes faisant l'objet d'une invitation à payer ou d'un décompte fiscal directement adressé au redevable par le service désigné par le Gouvernement, tel que prévu à l'article 17bis, § 1er, c., ainsi que pour la taxe wallonne sur l'abandon de déchets, pour la taxe sur les jeux et paris et pour la taxe sur les appareils automatiques de divertissement : l'année civile comportant la période imposable;]<sup>1</sup>
+
+[<sup>2</sup> - pour le précompte immobilier, le millésime de l'année dont les revenus servent de base audit précompte;]<sup>2</sup>
+
+\- pour les autres taxes : l'année civile qui suit la période imposable;] &lt;DRW 2007-03-22/38, art. 61, 1°, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt;
+
+[Alinéa 3 abrogé]; &lt;DRW 2007-03-22/38, art. 61, 2°, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt;
+
+La taxe due pour un exercice d'imposition est établie sur la base imposable relative à la période imposable.
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 57, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2020-12-17/47, art. 6, 025; En vigueur : 01-01-2021&gt;
+
+##### Art. 20
+
+La taxe doit être établie au plus tard le 30 juin de l'année qui suit l'exercice d'imposition.
+
+[<sup>1</sup> [<sup>3</sup> Toutefois, la taxe ou le supplément de taxe peut être établi pendant trois ans à partir du 1er janvier de l'exercice d'imposition dans le cas où il s'agit :
+
+\- de taxes visées par une procédure de rectification de la déclaration ;
+
+\- de taxes visées par une procédure de taxation d'office ;
+
+\- de taxes visées à l'article 17bis, § 1er, b., dans la mesure où elles ne sont pas payées dans le délai prévu par la législation applicable ;
+
+\- de la taxe wallonne sur l'abandon de déchets ;
+
+\- de taxes visées à l'article 17bis, § 1er, c) et d) ;
+
+\- de précompte immobilier.
+
+Ce délai est prolongé de [<sup>4</sup> sept]<sup>4</sup> ans en cas d'infraction à la législation qui établit la taxe, commise dans une intention frauduleuse ou à dessein de nuire.
+
+Par dérogation à l'alinéa 3, ce délai est prolongé de quatre ans en cas d'infraction aux dispositions légales et réglementaires qui établissent le précompte immobilier, commise dans une intention frauduleuse ou à dessein de nuire]<sup>3</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 58, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2013-11-28/18, art. 51, 009; En vigueur : 01-01-2014&gt;
+
+(3)&lt;DRW 2020-12-17/47, art. 7, 025; En vigueur : 01-01-2021&gt;
+
+(4)&lt;DRW 2021-12-22/12, art. 27, 026; En vigueur : 01-01-2022&gt;
+
+##### Art. 20bis
+
+[<sup>1</sup> La taxe ou le supplément de taxe peut être établi, même après l'expiration des délais prévus à l'article 20, dans les cas où :
+
+1° [<sup>3</sup> une action judiciaire fait apparaître que le redevable d'impôts ou taxes visés par le présent décret a contrevenu aux dispositions du présent décret ou de la législation qui établit la taxe concernée au cours d'une des dix années qui précèdent celle de l'intentement de l'action; dans ce cas, la taxe ou le supplément de taxe est établi dans les vingt-quatre mois à compter de la date à laquelle la décision dont cette action judiciaire a fait l'objet n'est plus susceptible d'opposition ou de recours]<sup>3</sup>;
+
+2° [<sup>3</sup> des éléments probants, venus à la connaissance du service désigné par le Gouvernement, font apparaître que le redevable d'impôts ou taxes visés par le présent décret a contrevenu aux dispositions du présent décret ou de la législation qui établit la taxe concernée au cours d'une des dix années qui précèdent celle pendant laquelle ces éléments sont venus à la connaissance dudit service désigné; dans ce cas, la taxe ou le supplément de taxe est établi dans les vingt-quatre mois à compter de la date à laquelle ces éléments sont venus à la connaissance dudit service désigné]<sup>3</sup>;]
+
+[<sup>2</sup> 3° des impôts sont encore dus à la suite d'une procédure amiable en application d'une convention internationale préventive de la double imposition ou après une procédure de règlement des différends visée aux articles 3, 4, 6, 10 ou 15 du décret du 2 juillet 2020 transposant la directive (UE) 2017/1852 du conseil du 10 octobre 2017 concernant les mécanismes de règlement des différends fiscaux dans l'Union européenne, dans ce cas, l'impôt ou le supplément d'impôt est établi dans les douze mois à compter de la date à laquelle la procédure est terminée.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 59, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2020-07-02/17, art. 21, 022; En vigueur : 01-01-2018&gt;
+
+(3)&lt;DRW 2021-12-22/12, art. 28, 026; En vigueur : 01-01-2022&gt;
+
+##### Art. 20ter
+
+[<sup>1</sup> Lorsque l'établissement d'une taxe a été annulé, totalement ou partiellement, par le fonctionnaire visé aux articles 25 à 27 au vu de la violation d'une règle légale autre qu'une règle relative à la forclusion des délais de taxation visés aux articles 20 et 20bis, cette taxe, dans la mesure où elle a été annulée, peut de nouveau être établie à charge du même redevable en raison de tout ou partie des mêmes éléments de taxation, dans les trois mois de la date à laquelle la décision du fonctionnaire visé aux articles 25 à 27 n'est plus susceptible de recours en justice, et ce même si les délais fixés pour l'établissement de la taxe conformément aux articles 20 et 20bis sont alors écoulés.
+
+Lorsque l'établissement de la taxation annulée a donné lieu à la restitution d'un crédit d'impôt au redevable concerné, il est tenu compte de cette restitution lors de l'établissement de la nouvelle taxation de remplacement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 60, 006; En vigueur : 01-01-2010&gt;
+
+##### Art. 20quater
+
+[<sup>1</sup> Lorsqu'une décision du fonctionnaire visé aux articles 25 à 27 fait l'objet d'un recours en justice et que le juge prononce la nullité totale ou partielle de la taxation pour une cause autre qu'une règle relative à la forclusion des délais de taxation visés aux articles 20 et 20bis, la cause reste inscrite au rôle pendant six mois à dater de la décision judiciaire. Pendant ce délai de six mois qui suspend les délais d'opposition, d'appel ou de cassation, le fonctionnaire désigné par le Gouvernement peut soumettre à l'appréciation du juge par voie de conclusions, une taxation subsidiaire à charge du même redevable en raison de tout ou partie des mêmes éléments de taxation que la taxation initiale et ce, même si les délais fixés pour l'établissement de la taxe conformément aux articles 20 et 20bis, sont alors écoulés.
+
+Si le fonctionnaire désigné par le Gouvernement soumet au juge une taxation subsidiaire dans le délai de six mois précité, par dérogation à l'alinéa premier, les délais d'opposition, d'appel et de cassation commencent à courir à partir de la signification de la décision judiciaire relative à la taxation subsidiaire.
+
+Lorsque l'établissement de la taxation dont la nullité est prononcée par le juge, a donné lieu à la restitution d'un crédit d'impôt au redevable concerné, il est tenu compte de cette restitution lors de l'établissement de la taxation subsidiaire soumise à l'appréciation du juge.
+
+La taxation subsidiaire n'est recouvrable ou remboursable qu'en exécution de la décision du juge.
+
+Cette taxation subsidiaire est soumise au juge par requête signifiée au redevable; la requête est signifiée avec assignation à comparaître, lorsqu'il s'agit d'un redevable assimilé en vertu de l'article 20quinquies.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-09-19/23, art. 2, 008; En vigueur : 21-10-2013&gt;
+
+##### Art. 20quinquies
+
+[<sup>1</sup> Pour l'application des articles 20ter et 20quater, sont assimilés au même redevable :
+
+1° les héritiers du redevable;
+
+2° son conjoint;
+
+3° les sociétés absorbantes ou les sociétés bénéficiaires, selon le cas, dans l'éventualité où une société est absorbée ou scindée dans le cadre d'une fusion, d'une opération assimilée à une fusion ou d'une scission visées [<sup>2</sup> aux articles 12:1 à 12:8 du Code des sociétés et des associations]<sup>2</sup>, ou d'une opération de droit des sociétés similaire en droit étranger;
+
+4° les membres de la famille, de la société, de l'association ou de la communauté dont le chef ou le directeur a été primitivement taxé et réciproquement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 62, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2023-04-06/06, art. 66, 031; En vigueur : 02-11-2023&gt;
+
+##### Art. 21
+
+[<sup>1</sup> § 1er. Aussitôt que les rôles sont rendus exécutoires, il en est notifié des extraits aux redevables intéressés par l'envoi d'avertissements-extraits de rôle [<sup>2</sup> par pli ordinaire à la poste ou par communication électronique équivalente ]<sup>2</sup>.
+
+§ 2. Lorsque le précompte immobilier est porté au rôle en exécution de l'article 18bis, § 4, l'avertissement-extrait de rôle notifié conformément à alinéa 1er à l'indivisaire nommément repris au rôle est également notifié [<sup>2</sup> par pli ordinaire à la poste ou par communication électronique équivalente, ]<sup>2</sup> en copie à chaque indivisaire non nommément repris au rôle dès lors que l'un des indivisaires au moins en a fait la demande.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2020-12-17/47, art. 8, 025; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 26, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 22
+
+L'avertissement-extrait de rôle contient :
+
+1\. les termes " Région wallonne ";
+
+2\. l'identité (nom et prénom ou dénomination selon le cas) et l'adresse du redevable;
+
+3\. la référence du décret qui établit la taxe et, en annexe, des extraits de ce décret;
+
+4\. l'exercice d'imposition [et, dans le cas des sommes portées dans un rôle spécial, la mention de la période imposable ou de la partie de période imposable à laquelle se rapporte l'avertissement-extrait de rôle]; &lt;DRW 2007-03-22/38, art. 63, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt;
+
+5\. le numéro de l'article du rôle de la taxe concernée;
+
+6\. la date du visa exécutoire du rôle;
+
+7\. la base de calcul et le montant de la taxe;
+
+8\. la date d'exigibilité;
+
+9\. la désignation et l'adresse du service chargé d'établir la taxe;
+
+10\. la désignation et l'adresse du service chargé de percevoir la taxe et le compte auquel la taxe doit être payée;
+
+11\. la désignation et l'adresse du fonctionnaire auprès duquel le recours administratif peut être introduit et le délai de recours.
+
+##### Art. 23
+
+&lt;DRW 2007-03-22/38, art. 64, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt; § 1er. La taxe portée dans un rôle annuel, [<sup>3</sup> ainsi que la taxe ou la provision portée dans un rôle spécial visé à l'article 17bis, § 2, alinéa 2, premier, deuxième, quatrième, septième ou huitième tirets, ]<sup>3</sup>]<sup>2</sup> sont exigibles à la date à laquelle le rôle a été rendu exécutoire.
+
+Elles doivent être acquittées au plus tard dans les deux mois suivant la date de l'envoi de l'avertissement-extrait de rôle.
+
+§ 2. [<sup>1</sup> La taxe portée dans un rôle spécial [<sup>3</sup> visé ]<sup>3</sup> à l'article 17bis, § 2, alinéa 2, troisième tiret, est exigible dès l'échéance du délai de paiement prévu par la législation applicable à cette taxe.
+
+Elle doit être acquittée immédiatement. ]<sup>1</sup>
+
+[<sup>1</sup> § 3. La taxe portée dans un rôle spécial [<sup>3</sup> visé ]<sup>3</sup> à l'article 17bis, § 2, alinéa 2, cinquième tiret, est exigible dès l'échéance du délai de paiement fixé par cette invitation à payer ou ce décompte fiscal, sans que le délai de paiement puisse être inférieur à quinze jours ou supérieur à trois mois à dater du 1er du mois qui suit celui de l'envoi.
+
+Elle doit être acquittée immédiatement.]<sup>1</sup>
+
+[<sup>3</sup> § 4. La taxe portée dans un rôle spécial visé à l'article 17bis, § 2, alinéa 2, sixième tiret, est exigible à la date à laquelle le rôle a été rendu exécutoire.
+
+Elle doit être acquittée immédiatement.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 63, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2014-12-12/02, art. 96, 011; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 27, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 24
+
+Lorsque les droits du Trésor régional sont en péril, [les taxes portées dans un rôle annuel, les taxes portées dans un rôle spécial à la suite d'une procédure de rectification de la déclaration ou de taxation d'office visée à l'article 17bis, § 2, alinéa 2, premier et deuxième tirets, et la taxe wallonne sur l'abandon de déchets, visée à l'article 17bis, § 2, alinéa 2, quatrième tiret, telles que visées à l'article 23, § 1er, sont acquittées sans délai] pour leur totalité. &lt;DRW 2007-03-22/38, art. 65, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt;
+
+[<sup>1</sup> § 2. Par dérogation à l'article 23, § 2, la taxe sur les jeux et paris devient exigible au moment même où les recettes sur base desquelles la taxe est établie sont effectuées, lorsque les droits du Trésor sont en péril.]<sup>1</sup>
+
+[<sup>1</sup> § 3. Dans le cas des § 1er et § 2, si le redevable conteste que les droits du Trésor sont en péril, il est statué sur la contestation suivant les formes du référé, par le juge des saisies du lieu du bureau où la perception doit être faite.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 64, 006; En vigueur : 01-01-2010&gt;
+
+##### Art. 24bis
+
+[<sup>1</sup> Les taxes visées aux articles 23 et 24 sont considérées comme des dettes liquides et certaines, à partir du jour où est échu le délai prévu pour leur acquittement dans le cas de l'article 23 et de l'article 24, § 1er, et à partir du jour où les droits du Trésor sont en péril dans le cas de l'article 24, § 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 65, 006; En vigueur : 01-01-2010&gt;
+
+## CHAPITRE V. - Voies de recours.
+
+### Section 1. - Recours administratif.
+
+##### Art. 25
+
+[<sup>1</sup> Le redevable, ainsi que la personne sur les biens de laquelle la taxe est mise en recouvrement conformément à l'article 35ter, peut introduire une réclamation par écrit [<sup>4</sup> ou par communication électronique équivalente,]<sup>4</sup> contre la taxe établie à sa charge en application de l'article 17bis, § 1er, auprès du fonctionnaire désigné par le Gouvernement.
+
+La réclamation doit être motivée et présentée, sous peine de déchéance, au plus tard dans les six mois de la date d'effet, telle que calculée conformément à l'article 5, § 3, de la notification de l'avertissement-extrait de rôle au redevable ou à la personne sur les biens de laquelle la taxe est mise en recouvrement conformément à l'article 35ter, ou de la date de la perception des impôts perçus [<sup>2</sup> intégralement ou partiellement]<sup>2</sup> autrement que par rôle.
+
+[<sup>3</sup> Dans le cas d'une imposition au précompte immobilier visée à l'article 18bis, § 4, la réclamation motivée introduite par un indivisaire non nommément repris au rôle qui a reçu une copie de l'avertissement-extrait de rôle conformément à l'article 21, § 2, ou à l'article 35, § 2, est présentée au plus tard dans les six mois de la date d'effet, telle que calculée conformément à l'article 5, § 3, de la notification de cette copie.]<sup>3</sup>
+
+Les taxes non contestées dans ce délai sont présumées dues et la taxation est présumée régulière, sauf demande de dégrèvement fondée sur l'article 27.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 66, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2013-11-28/18, art. 52, 009; En vigueur : 01-01-2014&gt;
+
+(3)&lt;DRW 2020-12-17/47, art. 9, 025; En vigueur : 01-01-2021&gt;
+
+(4)&lt;DRW 2023-07-12/11, art. 28, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 25bis
+
+[<sup>1</sup> La réclamation dirigée contre une taxe établie sur des éléments contestés vaut d'office pour les autres taxes établies sur les mêmes éléments, ou supplément de taxe avant décision du fonctionnaire désigné par le Gouvernement, alors même que seraient expirés les délais de réclamation contre ces autres taxes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-11-28/18, art. 53, 009; En vigueur : 01-01-2014&gt;
+
+##### Art. 26
+
+Le fonctionnaire désigné par le Gouvernement statue sur la réclamation, en tant qu'autorité administrative, par décision motivée.
+
+La décision indique qu'elle est susceptible de recours judiciaire et précise le délai dans lequel ce recours peut être introduit.
+
+##### Art. 27
+
+[<sup>1</sup> § 1er. Sauf lorsqu'une réclamation recevable a été précédemment déposée et que la demande de dégrèvement repose sur les mêmes éléments et motivations que cette réclamation, le fonctionnaire désigné par le Gouvernement accorde le dégrèvement des taxes représentant une somme supérieure à celle qui est légalement due, perçues en application de l'article 17bis, § 1er, résultant d'une application inexacte des dispositions légales afférentes au calcul du montant de l'impôt dû, telles que notamment les erreurs matérielles, les doubles emplois, les défauts de prise en compte d'une exonération ou réduction de taxe éventuellement applicable, l'apparition de documents ou faits nouveaux probants dont la production ou l'allégation tardive par le redevable, ainsi que par la personne sur les biens de laquelle la taxe est mise en recouvrement conformément à l'article 35ter, est justifiée par de justes motifs, à condition que ces surtaxes aient été constatées par l'administration ou signalées par le redevable, ainsi que par la personne sur les biens de laquelle la taxe est mise en recouvrement conformément à l'article 35ter, à celle-ci, soit :
+
+1° dans les trois ans à partir du 1er janvier de l'année au cours de laquelle la taxe est établie, dans le cas des taxes enrôlées, à l'exception du précompte immobilier pour lequel ce délai est porté à cinq ans;
+
+2° dans les trois ans à partir du 1er janvier de l'exercice d'imposition auquel appartient l'impôt dont le dégrèvement est demandé, dans le cas des taxes perçues sans avoir été reprises dans un rôle.
+
+Par dérogation à l'alinéa 1er, pour ce qui concerne les exonérations de précompte immobilier et sans préjudice des conditions formelles et procédurales qui y sont prévues, le fonctionnaire désigné par le Gouvernement accorde le dégrèvement des taxes représentant une somme supérieure à celle qui est légalement due, perçues en application de l'article 17bis, § 1er, résultant du défaut de prise en compte de ces exonérations de précompte immobilier, uniquement si elles sont la conséquence d'erreurs matérielles, de doubles emplois ou qu'elles apparaissent à la lumière de documents ou faits nouveaux probants dont la production ou l'allégation tardive par le redevable est justifiée par de justes motifs.
+
+§ 2. Le fonctionnaire désigné par le Gouvernement accorde d'office le dégrèvement de l'impôt excédentaire payé, tel que constaté après une procédure amiable en application d'une convention internationale préventive de la double imposition ou après une procédure de règlement des différends visée aux articles 3, 4, 6, 10 ou 15 du décret du 2 juillet 2020 transposant la directive (UE) 2017/1852 du conseil du 10 octobre 2017 concernant les mécanismes de règlement des différends fiscaux dans l'Union européenne, à condition que cet impôt excédentaire ait été constaté par l'administration ou signalé par le redevable de celle-ci dans les douze mois à compter de la date à laquelle la procédure est terminée ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2021-12-22/12, art. 29, 026; En vigueur : 01-01-2021&gt;
+
+##### Art. 27bis
+
+[<sup>1</sup> Il est accusé réception aux requérants des réclamations et des demandes de dégrèvement d'office en mentionnant la date de réception du recours administratif.
+
+Lorsque le dégrèvement d'office est fait à l'initiative du service désigné par le Gouvernement, la cause à l'origine de celui-ci ainsi que sa date de constatation sont portées à la connaissance du redevable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 68, 006; En vigueur : 01-01-2010&gt;
+
+### Section 2. - Recours judiciaire.
+
+##### Art. 28
+
+[<sup>3</sup> § 1.]<sup>3</sup> [<sup>1</sup> En cas de rejet de sa réclamation ou de sa demande de dégrèvement, ou à défaut de décision du fonctionnaire désigné par le Gouvernement dans les six mois à dater de la réception de la réclamation ou de la demande de dégrèvement par ce fonctionnaire, le [<sup>2</sup> le redevable, ainsi que par la personne sur les biens de laquelle la taxe est mise en recouvrement conformément à l'article 35ter,]<sup>2</sup> peut introduire un recours judiciaire contre la décision de ce fonctionnaire ou, à défaut de celle-ci, contre la taxation.
+
+Il est introduit par requête contradictoire ou par citation dirigées contre la Région en la personne du Ministre-Président.
+
+Les articles 1385decies et 1385undecies du Code judiciaire sont applicables à ce recours judiciaire.
+
+Le délai de six mois visé à l'alinéa 1er est prolongé de trois mois lorsque l'imposition contestée a été établie d'office par le service visé à l'article 15.
+
+Lorsque le recours judiciaire est introduit en l'absence de décision sur la réclamation ou sur la demande de dégrèvement après l'expiration du délai de six mois visé à l'alinéa 1er, le fonctionnaire désigné par le Gouvernement est dessaisi.]<sup>1</sup>
+
+[<sup>3</sup> § 2. Dans les recours judiciaires visés au paragraphe 1er, la comparution en personne au nom de la Région wallonne peut être assurée par tout fonctionnaire du Service public de Wallonie Finances. ]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2008-01-17/36, art. 24, 004; En vigueur : 01-01-2008&gt;
+
+(2)&lt;DRW 2009-12-10/27, art. 69, 006; En vigueur : 01-01-2010&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 29, 030; En vigueur : 28-09-2023&gt;
+
+## CHAPITRE Vbis. [<sup>1</sup> Demandes subsidiaires de restitutions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-01-17/36, art. 25, 004; En vigueur : 01-01-2008&gt;
+
+##### Art. 28bis
+
+[<sup>1</sup> Sans préjudice de l'article 25, alinéa 3, lorsqu'une taxe n'a pas été établie en application de l'article 17bis, § 1er, les taxes indûment perçues et les montants négatifs de taxes sont restitués au redevable, sur demande écrite et motivée, [<sup>2</sup> ou par communication électronique équivalente,]<sup>2</sup> présentée auprès du fonctionnaire compétent pour statuer sur les demandes de dégrèvement conformément à l'article 27, dans les trois ans à partir du 1er janvier de l'exercice d'imposition auquel appartient l'impôt dont la restitution est demandée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-01-17/36, art. 25, 004; En vigueur : 01-01-2008&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 30, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 28ter
+
+[<sup>1</sup> En cas de rejet de sa demande subsidiaire de restitution, ou à défaut de décision du fonctionnaire compétent pour statuer sur les demandes de dégrèvement conformément à l'article 27, dans les six mois à dater de la réception de la demande par ce fonctionnaire, le redevable peut introduire un recours judiciaire contre la décision de ce fonctionnaire ou, à défaut de celle-ci, contre le défaut de restitution.
+
+Il est introduit par requête contradictoire ou par citation dirigées contre la Région en la personne du Ministre-Président.
+
+Les articles 1385decies et 1385undecies du Code judiciaire sont applicables à ce recours judiciaire.
+
+Lorsque le recours judiciaire est introduit en l'absence de décision sur la demande après l'expiration du délai de six mois visé à l'alinéa 1er, le fonctionnaire compétent pour statuer sur les demandes de dégrèvement conformément à l'article 27 est dessaisi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2008-01-17/36, art. 25, 004; En vigueur : 01-01-2008&gt;
+
+## CHAPITRE VI. - Intérêts.
+
+### Section 1. - Intérêts de retard dus par le redevable.
+
+##### Art. 29
+
+En cas de non-paiement dans le délai fixé à l'article 23 [<sup>1</sup> d'une taxe ou d'une provision portée dans un rôle]<sup>1</sup>, un intérêt de retard dont le taux est identique au taux légal est exigible de plein droit.
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 31, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 30
+
+Cet intérêt est calculé par mois civil pour chaque taxe sur la somme restant due, arrondie (à la dizaine d'euros inférieure), à partir, soit du premier jour du mois qui suit celui de l'échéance [<sup>2</sup> du délai fixé à l'article 23]<sup>2</sup>, soit du premier jour du mois qui suit celui du paiement précédent, pour autant qu'une somme ait été imputée sur la dette en principal, jusqu'au dernier jour du mois au cours duquel le paiement a lieu. &lt;ARW 2001-12-20/76, art. 6, 002; En vigueur : 01-01-2002&gt;
+
+[<sup>1</sup> L'intérêt de retard n'est pas dû lorsque son montant n'atteint pas 5 euros par mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2017-12-13/07, art. 23, 019; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 32, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 30bis
+
+[<sup>1</sup> Cet intérêt est considéré comme une dette liquide et certaine, dès l'instant où il est exigible.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 70, 006; En vigueur : 01-01-2010&gt;
+
+##### Art. 31
+
+[<sup>1</sup> Le fonctionnaire désigné par le Gouvernement]<sup>1</sup> peut accorder aux conditions qu'il détermine l'exonération de tout ou partie des intérêts de retard.
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 33, 030; En vigueur : 28-09-2023&gt;
+
+### Section 2. - Intérêts moratoires dus par la Région.
+
+##### Art. 32
+
+En cas de restitution de taxes, d'intérêts de retard [<sup>1</sup> ou d'[<sup>2</sup> amendes fiscales]<sup>2</sup>]<sup>1</sup>, un intérêt moratoire dont le taux est identique au taux légal est alloué au redevable.
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 71, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 30, 026; En vigueur : 01-01-2022&gt;
+
+##### Art. 33
+
+Cet intérêt est calculé par mois civil sur le montant de chaque paiement arrondi (à la dizaine d'euros inférieure); le mois pendant lequel a eu lieu le paiement est négligé, mais le mois au cours duquel est envoyé au redevable l'avis mettant à sa disposition la somme à restituer est compté pour un mois entier. &lt;ARW 2001-12-20/76, art. 7, 002; En vigueur : 01-01-2002&gt;
+
+##### Art. 34
+
+Aucun intérêt moratoire n'est alloué :
+
+1\. [<sup>2</sup> lorsque son montant n'atteint pas 5 euros par mois.]<sup>2</sup>
+
+2\. lorsque le remboursement résulte de la remise ou modération d'une [<sup>3</sup> amende fiscale]<sup>3</sup>.
+
+----------
+
+(1)&lt;DRW 2013-11-28/18, art. 54, 009; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DRW 2017-12-13/07, art. 24, 019; En vigueur : 01-01-2018&gt;
+
+(3)&lt;DRW 2021-12-22/12, art. 31, 026; En vigueur : 01-01-2022&gt;
+
+## CHAPITRE VII. - Recouvrement.
+
+### Section 1. - Les poursuites.
+
+##### Art. 34bis
+
+[<sup>1</sup> Toute somme de taxes peut faire l'objet de mesures d'exécution forcée par le fonctionnaire chargé du recouvrement des créances fiscales au bénéfice de la Région wallonne, ci-après dénommé le receveur, uniquement si ces mesures sont précédées d'une reprise de cette somme de taxes dans un rôle rendu exécutoire.
+
+Le receveur est également chargé du recouvrement de toute autre somme attribuée à la Région par décision judiciaire coulée en force de chose jugée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 34, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 35
+
+[<sup>1</sup> § 1er. A défaut de paiement de la taxe, de l'[<sup>2</sup> amende fiscale]<sup>2</sup> et des intérêts exigibles, [<sup>3</sup> le receveur]<sup>3</sup> peut décerner une contrainte.
+
+La contrainte reproduit les mentions de l'avertissement-extrait de rôle.
+
+§ 2. Lorsque le précompte immobilier est porté au rôle en exécution de l'article 18bis, § 4, et à défaut d'application de l'article 21, § 2, une sommation de payer, accompagnée d'une copie de l'avertissement extrait de rôle, est notifiée par pli ordinaire [<sup>3</sup> à la poste, ou par communication électronique équivalente,]<sup>3</sup> à chaque indivisaire non nommément repris au rôle avant qu'une contrainte ne leur soit décernée.
+
+§ 3. [<sup>3</sup> . Les fonctionnaires désignés par le Gouvernement sont compétents pour accorder termes et délais. Si les termes et délais sollicités sont refusés, ils doivent motiver leurs décisions. ]<sup>3</sup>
+
+[<sup>3</sup> § 4. Les frais de poursuite sont déterminés suivant les règles établies pour les actes accomplis par les huissiers de justice en matière civile et commerciale. ]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2020-12-17/47, art. 11, 025; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 35, 026; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 35, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 35bis
+
+&lt;Abrogé par DRW 2012-05-10/02, art. 14, 007; En vigueur : 01-01-2012&gt;
+
+##### Art. 35ter
+
+[<sup>1</sup> Le rôle est exécutoire contre les personnes qui n'y sont pas reprises, dans la mesure où elles sont tenues au paiement de la dette fiscale sur la base du droit commun ou sur la base des dispositions du présent décret ou de la législation qui établit la taxe concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 73, 006; En vigueur : 01-01-2010&gt;
+
+##### Art. 35quater
+
+[<sup>1</sup> § 1er. Les héritiers d'un redevable décédé sont tenus, à concurrence de leur part héréditaire, des droits non encore payés ou éludés par le défunt, à moins que l'insuffisance de la perception ne résulte d'erreurs commises par des fonctionnaires du service désigné par le Gouvernement [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2. Le recouvrement de l'impôt d'une société scindée en application [<sup>3</sup> des articles 12:4 à 12:6 du Code des sociétés et des associations]<sup>3</sup>, ou d'une opération de droit des sociétés similaire en droit étranger, établi dans le chef des sociétés bénéficiaires, est, sauf mentions contraires dans l'acte constatant l'opération, effectué dans le chef des différentes sociétés bénéficiaires au prorata de la valeur réelle de l'actif net qu'elles ont chacune reçu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 74, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 36, 030; En vigueur : 28-09-2023&gt;
+
+(3)&lt;DRW 2023-04-06/06, art. 67, 031; En vigueur : 02-11-2023&gt;
+
+##### Art. 35quinquies
+
+[<sup>1</sup> Le recouvrement de la taxe établie à charge des associés ou membres de sociétés civiles et associations sans personnalité juridique, peut être poursuivi directement à charge de la société ou association, dans la mesure où cette taxe correspond proportionnellement à la part de ces associés ou membres dans les bénéfices ou profits non distribués de ces sociétés ou associations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 75, 006; En vigueur : 01-01-2010&gt;
+
+##### Art. 35sexies
+
+[<sup>1</sup> En matière de précompte immobilier, chaque indivisaire est uniquement tenu au paiement de la dette fiscale à concurrence de sa quote-part dans l'indivision du bien imposé sans préjudice des autres possibilités de recouvrement prévues par le droit commun ou les dispositions du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-12-17/47, art. 12, 025; En vigueur : 01-01-2021&gt;
+
+##### Art. 35septies
+
+[<sup>1</sup> Jusqu'à la mutation d'une propriété dans les documents cadastraux, l'ancien titulaire du droit sur les biens imposables ou ses héritiers, à moins qu'ils ne fournissent la preuve du changement de titulaire du droit et qu'ils ne fassent connaître l'identité et l'adresse complètes du nouveau titulaire, sont responsables du paiement du précompte immobilier, sauf leur recours contre le nouveau titulaire du droit.
+
+En cas de production de la preuve visée à l'alinéa 1er ou de constatation de la mutation de propriété par tout [<sup>2</sup> le receveur ]<sup>2</sup>, le recouvrement du précompte immobilier compris au rôle au nom de l'ancien titulaire du droit peut être poursuivi, en vertu du même rôle, à charge du débiteur effectif du précompte. Ce débiteur reçoit un nouvel exemplaire de l'avertissement-extrait de rôle portant qu'il est délivré en vertu de la présente disposition, et acquiert la qualité de redevable au sens du présent décret.
+
+Par mutation d'une propriété, l'on entend tout changement quelconque subi par une propriété, soit qu'elle change de propriétaire, soit qu'on la grève d'un droit d'emphytéose, d'usufruit, de superficie, d'usage ou d'habitation, ou que l'un de ces droits viennent à s'éteindre.
+
+Par titulaire du droit, l'on entend la personne qui détient le droit réel en vertu duquel le précompte immobilier est dû.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-12-17/47, art. 13, 025; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 37, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 35octies
+
+[<sup>1</sup> L'administration ou l'organisme gestionnaire d'un bien de l'Etat, d'une Communauté ou d'une Région est responsable du paiement du précompte immobilier relatif à ce bien.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-12-17/47, art. 14, 025; En vigueur : 01-01-2021&gt;
+
+##### Art. 36
+
+La contrainte est signifiée au redevable par exploit d'huissier de justice, avec commandement de payer dans les 24 heures, à peine d'exécution par voie de saisie.
+
+[<sup>1</sup> Le commandement porte, en tête, un extrait du rôle concernant le redevable ou l'indivisaire non nommément repris au rôle en application de l'article 18bis, § 4, et une copie de l'exécutoire]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2020-12-17/47, art. 15, 025; En vigueur : 01-01-2021&gt;
+
+##### Art. 37
+
+Le délai de commandement étant expiré, le receveur fait procéder à la saisie-exécution mobilière, laquelle s'opère de la manière établie par le Code judiciaire, [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 38, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 38
+
+&lt;Abrogé par DRW 2023-07-12/11, art. 39, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 39
+
+&lt;Abrogé par DRW 2023-07-12/11, art. 39, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 40
+
+&lt;Abrogé par DRW 2023-07-12/11, art. 39, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 41
+
+&lt;Abrogé par DRW 2023-07-12/11, art. 39, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 42
+
+&lt;Abrogé par DRW 2023-07-12/11, art. 39, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 43
+
+A l'égard des redevables qui, par enlèvement d'objets mobiliers ou autrement, tenteraient de faire disparaître ou simplement de diminuer les garanties du Trésor régional, le receveur peut faire procéder à la saisie-exécution mobilière, sans signification préalable d'un commandement.
+
+Dans ce cas, l'exploit de saisie contiendra commandement avant la saisie et portera les diverses indications visées par l'article 22 ainsi que les motifs qui justifient la non-signification préalable d'un commandement.
+
+##### Art. 44
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+La saisie-exécution immobilière doit faire l'objet d'une autorisation du [<sup>2</sup> fonctionnaire désigné par le Gouvernement ]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 77, 006; Inwerkingtreding : 01-01-2010&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 40, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 45
+
+Le receveur joint à la demande d'autorisation :
+
+1° un certificat délivré par le conservateur des hypothèques, des inscriptions grevant les biens [<sup>1</sup> à réaliser]<sup>1</sup> ;
+
+2° un état indiquant :
+
+a. le nom du redevable retardataire;
+
+b. la nature et le montant des taxes à recouvrer;
+
+c. la valeur vénale estimative desdits biens;
+
+d. leur revenu cadastral;
+
+e. la valeur approximative des objets mobiliers affectés au privilège du Trésor régional dont la saisie pourrait être pratiquée.
+
+----------
+
+(1)&lt;DRW 2009-04-30/93, art. 14, 005; En vigueur : 01-07-2009&gt;
+
+##### Art. 46
+
+Il est défendu au receveur et aux huissiers instrumentant de s'adjuger ou de se faire adjuger soit directement, soit indirectement aucun des objets dont ils poursuivent la vente, à peine de nullité de celle-ci.
+
+##### Art. 47
+
+S'il n'y a pas d'autres créanciers saisissants ou opposants, le produit de la vente, sous déduction des frais de poursuite dus à l'huissier, est versé au receveur. S'il y a d'autres créanciers saisissants ou opposants, l'huissier de justice procède à la distribution par contribution de la manière établie par le Code judiciaire.
+
+##### Art. 48
+
+[<sup>1</sup> Le receveur peut faire procéder, par [<sup>3</sup> pli recommandé à la poste ou par communication électronique équivalente]<sup>3</sup>, à la saisie-arrêt-exécution entre les mains d'un tiers sur les sommes et effets dus ou appartenant au redevable, jusqu'à concurrence de tout ou partie du montant dû par ce dernier au titre de taxes, [<sup>2</sup> amendes fiscales]<sup>2</sup>, intérêts de retard et frais.
+
+Lorsque la saisie porte sur des revenus visés aux articles 1409, § 1er et § 1erbis, et 1410 du Code judiciaire, la dénonciation contient, à peine de nullité, le formulaire de déclaration d'enfant à charge dont le modèle est arrêté par le Ministre de la justice et utilisé pour l'application de l'article 164 de l'arrêté royal d'exécution du Code des impôts sur les revenus 1992.
+
+La saisie doit être dénoncée au redevable par pli recommandé à la poste [<sup>3</sup> ou par communication électronique équivalente]<sup>3</sup>.
+
+[<sup>3</sup> Le redevable peut faire opposition à la saisie-arrêt par pli recommandé adressé au receveur compétent, ou par communication électronique équivalente, dans les quinze jours du dépôt à la poste de la dénonciation de la saisie ou dans les quinze jours de la dénonciation de la saisie par communication électronique équivalente]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 78, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 33, 026; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 41, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 49
+
+[<sup>1</sup> La saisie visée à l'article 48]<sup>1</sup> produit ses effets à compter de la remise de la pièce au destinataire. Elle donne lieu à l'établissement et à l'envoi par le receveur d'un avis de saisie conformément à l'article 1390 du Code judiciaire.
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 42, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 50
+
+Sous réserve de ce qui est prévu aux articles 48 et 49, les dispositions des articles 1539, 1540, 1542, aliénas 1er et 2, et 1543 du Code judiciaire sont applicables à [<sup>1</sup> la saisie visée à l'article 48]<sup>1</sup> étant entendu que la remise du montant de la saisie se fait entre les mains du receveur.
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 43, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 51
+
+La saisie-arrêt-exécution doit être pratiquée par exploit d'huissier, de la manière prévue aux articles 1539 à 1544 du Code judiciaire, lorsqu'il apparaît, de la déclaration à laquelle le tiers saisi est tenu après la saisie effectuée par [<sup>1</sup> pli recommandé à la poste ou par communication électronique équivalente]<sup>1</sup> :
+
+1° que le débiteur saisi s'oppose à la saisie-arrêt-exécution;
+
+2° que le tiers saisi conteste sa dette à l'égard du débiteur saisi;
+
+3° qu'un autre créancier s'est opposé, avant la saisie par le receveur, à la remise par le tiers saisi des sommes dues par celui-ci;
+
+4° que les effets saisis doivent être réalisés.
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 44, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 52
+
+[<sup>1</sup> Dans le cas de l'article 51, la saisie-arrêt exécution]<sup>1</sup> doit être pratiquée dans le mois du dépôt à la poste de la déclaration prévue à l'article 1542 du Code judiciaire; à défaut, [<sup>2</sup> la saisie visée à l'article 48 ]<sup>2</sup> est réputée nulle et non avenue.
+
+Dans ce cas, la saisie-arrêt pratiquée par [<sup>2</sup> par le receveur par pli recommandé à la poste ou par communication électronique équivalente]<sup>2</sup> garde ses effets conservatoires si le receveur fait procéder par exploit d'huissier comme prévu à l'article 1539 du Code judiciaire à une saisie-arrêt-exécution entre les mains du tiers dans le mois qui suit le dépôt à la poste de la déclaration du tiers saisi.
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 79, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 45, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 52bis
+
+[<sup>1</sup> Toute somme à restituer ou à payer à une personne dans le cadre de l'application des dispositions légales ou des règles du droit civil relatives à la répétition de l'indu, en matière de taxes, redevances et [<sup>2</sup> amendes fiscales]<sup>2</sup> régionales wallonnes, peut être affectée sans formalité par le receveur compétent au paiement des taxes, redevances et [<sup>2</sup> amendes fiscales]<sup>2</sup> régionales wallonnes, des intérêts et des frais [<sup>3</sup> , ainsi que de toute autre somme visée à l'article 34bis, alinéa 2,]<sup>3</sup> recouvrables à charge de cette personne si ces derniers constituent une dette certaine et liquide au moment de l'affectation.
+
+L'alinéa 1er reste applicable en cas de saisie, de cession, de situation de concours ou de procédure d'insolvabilité.
+
+Une quittance est délivrée au redevable dans les meilleurs délais et vaut notification de l'affectation effectuée conformément à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2017-12-13/07, art. 25, 019; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 34, 026; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 46, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 52ter
+
+[<sup>1</sup> Des fonds de restitution sont ouverts au budget pour les sommes indûment perçues en matière de taxes, redevances et [<sup>2</sup> amendes fiscales]<sup>2</sup> régionales wallonnes.
+
+Les receveurs ayant opéré les recettes pourvoient à la restitution des montants perçus indûment.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-12-21/02, art. 56, 014; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 35, 026; En vigueur : 01-01-2022&gt;
+
+### Section 2. - Effets des recours sur le recouvrement.
+
+##### Art. 53
+
+[<sup>1</sup> Par dérogation aux articles 24bis et 30bis, en cas de recours administratif ou judiciaire, la taxe contestée, augmentée de l'[<sup>6</sup> amende fiscale]<sup>6</sup> et des intérêts et frais éventuels,[<sup>10</sup> est considérée comme une dette liquide et certaine pouvant être recouvrée par toutes voies d'exécution, uniquement]<sup>10</sup> dans la mesure où elle correspond :
+
+\- soit aux éléments qui ont été mentionnés dans la déclaration du redevable ou à des éléments sur lesquels le redevable a marqué son accord au cours de la procédure d'établissement de la taxe;
+
+\- soit, en cas de taxation d'office à défaut de déclaration, à la taxe de même nature enrôlée à charge du redevable pour l'exercice précédent;
+
+[<sup>5</sup> - soit, en cas de précompte immobilier, à un montant déterminé en fonction des éléments mentionnés dans la réclamation ou le recours.]<sup>5</sup>
+
+[<sup>8</sup> Par dérogation à l'alinéa 1er, en cas de recours judiciaire, [<sup>10</sup> contre une imposition en matière de déchets, la taxe contestée ]<sup>10</sup> augmentée de l'amende, des intérêts et des frais éventuels est considérée comme une dette liquide et certaine pouvant être recouvrée par toutes voies d'exécution.]<sup>8</sup>
+
+La taxe contestée, augmentée de l'[<sup>6</sup> amende fiscale]<sup>6</sup> et des intérêts et frais éventuels, qui excède les limites indiquées à l'alinéa 1er, peut toutefois faire l'objet de saisies conservatoires ou de toutes autres mesures destinées à en garantir le recouvrement.
+
+Après recouvrement de l'imposition dans la mesure déterminée à l'alinéa 1er, la saisie-exécution conserve ses effets à l'égard du reliquat de taxe, des [<sup>6</sup> amendes fiscales]<sup>6</sup>, des intérêts et des frais.]<sup>1</sup>
+
+[<sup>9</sup> ...]<sup>9</sup>
+
+[<sup>11</sup> Par dérogation à l'alinéa 1er, en cas de recours judiciaire, toute taxe en matière de déchets, augmentée de l'amende, des intérêts et des frais éventuels est considérée comme une dette liquide et certaine pouvant être recouvrée par toutes voies d'exécution.]<sup>11</sup>
+
+[<sup>12</sup> Par dérogation à l'alinéa 1er, en cas de recours judiciaire, toute taxe en matière de déchets, augmentée de l'amende, des intérêts et des frais éventuels est considérée comme une dette liquide et certaine pouvant être recouvrée par toutes voies d'exécution.]<sup>12</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 81, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2016-12-21/01, art. 28, 015; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DRW 2017-12-13/09, art. 19, 018; En vigueur : 01-01-2018&gt; &lt;DRW 2018-11-29/09, art. 21, 020; En vigueur : 01-01-2019&gt; DRW 2019-12-19/04, art. 16, 021; En vigueur : 01-01-2020&gt;
+
+(4)&lt;DRW 2020-12-17/27, art. 16, 024; En vigueur : 01-01-2021&gt;
+
+(5)&lt;DRW 2020-12-17/47, art. 16, 025; En vigueur : 01-01-2021&gt;
+
+(6)&lt;DRW 2021-12-22/12, art. 36, 026; En vigueur : 01-01-2022&gt;
+
+(7)&lt;DRW 2021-12-22/08, art. 16, 027; En vigueur : 01-01-2022&gt;
+
+(8)&lt;DRW 2022-12-21/28, art. 1, 028; En vigueur : 01-01-2023&gt;
+
+(9)&lt;DRW 2023-03-09/13, art. 253, 029; En vigueur : 10-08-2023&gt;
+
+(10)&lt;DRW 2023-07-12/11, art. 47, 030; En vigueur : 28-09-2023&gt;
+
+(11)&lt;DRW 2023-12-13/04, art. 18, 032; En vigueur : 01-01-2024&gt;
+
+(12)&lt;DRW 2024-12-18/03, art. 15, 033; En vigueur : 01-01-2025&gt;
+
+##### Art. 54
+
+Pour l'application de l'article 53, l'effet suspensif du recours judiciaire vaut pour la première instance, l'instance d'appel et l'instance de cassation.
+
+##### Art. 55
+
+Dans les cas spéciaux, le fonctionnaire désigné par le Gouvernement peut faire surseoir au recouvrement dans la mesure et aux conditions qu'il détermine.
+
+### Section 3. - Prescription.
+
+##### Art. 56
+
+[<sup>1</sup> La prescription du recouvrement de la taxe, des intérêts et des amendes fiscales est acquise à l'expiration d'un délai de cinq ans à compter de :
+
+\- leur date d'échéance telle que celle-ci résulte de l'article 23 du présent décret, pour ce qui concerne les taxes et les amendes fiscales;
+
+\- leur date d'exigibilité telle que celle-ci résulte de l'article 29 du présent décret, pour ce qui concerne les intérêts.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-04-30/93, art. 15, 005; En vigueur : 01-07-2009&gt;
+
+##### Art. 57
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Le délai visé à l'article 56 est interrompu :
+
+1° de la manière prévue par les articles 2244 et suivants du Code civil ;
+
+2° par une renonciation au temps couru de la prescription ;
+
+3° par l'envoi par le receveur, [<sup>4</sup> par pli recommandé à la poste ou par communication électronique équivalente, ]<sup>4</sup>, d'une sommation de payer contenant les mentions de l'avertissement-extrait de rôle.
+
+Concernant le 3°, la remise de la pièce au prestataire de service postal universel vaut notification à compter du troisième jour ouvrable suivant. Lorsque le destinataire n'a pas de domicile connu en Belgique ou à l'étranger, cette sommation de payer est adressée [<sup>4</sup> par pli recommandé à la poste, ou par communication électronique équivalente, au procureur du Roi de Namur]<sup>4</sup>. Les frais du recommandé sont à charge du destinataire.
+
+En cas d'interruption de la prescription, une nouvelle prescription susceptible d'être interrompue de la même manière, est acquise cinq ans après le dernier acte interruptif de la précédente prescription, s'il n'y a pas instance en justice.]<sup>2</sup>
+
+§ 2. Toute instance en justice relative à l'établissement ou au recouvrement des taxes, des intérêts ou des amendes fiscales, qui est introduite par la Région wallonne, par le redevable de ces taxes, intérêts ou [<sup>3</sup> amendes fiscales]<sup>3</sup>, ou par toute autre personne tenue au paiement de la dette, suspend le cours d'une prescription visée à l'article 56 ou au § 1er du présent article.
+
+La réclamation et la demande de dégrèvement suspendent également le cours de la prescription.
+
+En cas d'instance en justice, la suspension débute avec l'acte introductif d'instance et se termine lorsque la décision judiciaire est coulée en force de chose jugée.
+
+En cas de réclamation ou de demande de dégrèvement, la suspension débute avec la demande introductive du recours administratif et se termine, soit au moment de l'introduction d'une instance en justice relativement aux taxes ou amendes visées par la réclamation ou la demande de dégrèvement, soit à l'expiration du délai ouvert au [<sup>4</sup> redevable ]<sup>4</sup> pour introduire un recours contre la décision administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-04-30/93, art. 16, 005; En vigueur : 01-07-2009&gt;
+
+(2)&lt;DRW 2017-12-13/07, art. 26, 019; En vigueur : 01-01-2018&gt;
+
+(3)&lt;DRW 2021-12-22/12, art. 37, 026; En vigueur : 01-01-2022&gt;
+
+(4)&lt;DRW 2023-07-12/11, art. 48, 030; En vigueur : 28-09-2023&gt;
+
+### Section 4. - [<sup>1</sup> Dispositions relatives à l'irrécouvrabilité de certaines créances]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-09-19/23, art. 4, 008; En vigueur : 21-10-2013&gt;
+
+##### Art. 57bis
+
+[<sup>1</sup> Sur la base d'un rapport d'insolvabilité rédigé par le receveur compétent et par lequel il constate l'impossibilité de recouvrer une créance, ce dernier propose au service désigné par le Gouvernement, la mise en décharge de cette créance qu'il estime irrécouvrable dans les cinq années suivant sa date d'exigibilité.
+
+La mise en décharge de cette créance peut être accordée au receveur uniquement si le service désigné par le Gouvernement constate que le receveur a fait en temps opportun toutes les diligences et poursuites nécessaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2017-12-13/07, art. 27, 019; En vigueur : 01-01-2018&gt;
+
+##### Art. 57ter
+
+[<sup>1</sup> La mise en décharge vaut décharge pour le receveur. Elle ne constitue pas une remise de dettes. Le receveur porte les droits irrécouvrables en annulation dans sa comptabilité.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2017-12-13/07, art. 28, 019; En vigueur : 01-01-2018&gt;
+
+##### Art. 57quater
+
+&lt;Abrogé par DRW 2017-12-13/07, art. 29, 019; En vigueur : 01-01-2018&gt;
+
+##### Art. 57quinquies
+
+&lt;Abrogé par DRW 2017-12-13/07, art. 29, 019; En vigueur : 01-01-2018&gt;
+
+##### Art. 57sexies
+
+&lt;Abrogé par DRW 2017-12-13/07, art. 29, 019; En vigueur : 01-01-2018&gt;
+
+## CHAPITRE VIII. - Droit et privilège du trésor en matière de recouvrement.
+
+##### Art. 58
+
+[<sup>1</sup> Pour le recouvrement des taxes, des amendes et majorations, des intérêts et des frais, [<sup>3</sup> ainsi que de toute autre somme visée à l'article 34bis, alinéa 2, ]<sup>3</sup> la Région a un privilège général sur tous les biens meubles du redevable à l'exception des navires et bateaux et une hypothèque légale sur tous les biens appartenant au redevable susceptibles d'hypothèque situés en Belgique.
+
+Le privilège grève également tous les biens meubles des personnes qui sont tenues au paiement des taxes, [<sup>2</sup> amendes fiscales]<sup>2</sup> [<sup>3</sup> , des intérêts et des frais, ainsi que de toute autre somme visée à l'article 34bis, alinéa 2, ]<sup>3</sup> en vertu du droit commun, des dispositions du présent décret ou de la législation qui établit les taxes enrôlées à charge du redevable.
+
+L'hypothèque légale grève également les biens susceptibles d'hypothèque situés en Belgique et appartenant aux personnes qui sont tenues au paiement des taxes, des [<sup>2</sup> amendes fiscales]<sup>2</sup> [<sup>3</sup> , des intérêts et des frais, ainsi que de toute autre somme visée à l'article 34bis, alinéa 2]<sup>3</sup> en vertu du droit commun, des dispositions du présent décret ou de la législation qui établit la taxe [<sup>2</sup> ou l'amende fiscale ]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2017-12-13/07, art. 30, 019; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 38, 026; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 49, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 59
+
+[<sup>1</sup> Le privilège visé à l'article 58 prend rang immédiatement après celui mentionné à l'article 19, 5°, de la loi du 16 décembre 1851.
+
+L'affectation par préférence visée à l'article 19 in fine de la loi du 16 décembre 1851 est applicable aux impôts et taxes auxquels l'article 58 du présent décret est applicable.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-04-30/93, art. 17, 005; En vigueur : 01-07-2009&gt;
+
+##### Art. 60
+
+L'hypothèque est inscrite à la requête du receveur nonobstant opposition, contestation ou recours sur présentation d'une copie certifiée conforme par le receveur de l'avertissement mentionnant la date de l'exécutoire du rôle.
+
+##### Art. 60bis
+
+[<sup>1</sup> § 1er. L'hypothèque légale ne préjudicie pas aux privilèges et hypothèques antérieurs; elle ne prend rang qu'à partir de son inscription.
+
+§ 2. L'inscription ne peut être requise qu'à compter de la date à laquelle la dette de taxes, [<sup>2</sup> amendes fiscales]<sup>2</sup>, intérêts de retard et frais donnant lieu à l'inscription de l'hypothèque légale est considérée comme une dette liquide et certaine, nonobstant tout recours administratif ou judiciaire.
+
+§ 3. L'article 19 de la loi sur les faillites n'est pas applicable à l'hypothèque légale en ce qui concerne les taxes compris dans les rôles rendus exécutoires antérieurement au jugement déclaratif de la faillite.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 82, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 39, 026; En vigueur : 01-01-2022&gt;
+
+##### Art. 61
+
+Le receveur donne mainlevée dans la forme administrative sans qu'il soit tenu, vis-à-vis du conservateur des hypothèques, de fournir la justification du paiement des sommes dues.
+
+##### Art. 61bis
+
+[<sup>1</sup> Si, avant d'avoir acquitté les sommes garanties par l'hypothèque légale, les intéressés désirent en affranchir tout ou partie des biens grevés, ils en font la demande au receveur compétent. Cette demande est admise si la Région wallonne a déjà ou s'il lui est donné sûreté suffisante pour le montant de ce qui lui est dû.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 83, 006; En vigueur : 01-01-2010&gt;
+
+##### Art. 62
+
+Les frais de formalités hypothécaires relatives à l'hypothèque légale sont à charge du redevable.
+
+## CHAPITRE VIIIbis. - [<sup>1</sup> Responsabilité et obligations de certains officiers ministériels, fonctionnaires publics, autres personnes et établissements ou organismes de crédit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 84, 006; En vigueur : indéterminée &gt;
+
+##### Art. 62bis
+
+[<sup>1</sup> § 1er. Les notaires requis de dresser un acte ayant pour objet l'aliénation ou l'affectation hypothécaire d'un immeuble, d'un navire ou d'un bateau, sont personnellement responsables du paiement des taxes, [<sup>2</sup> amendes fiscales]<sup>2</sup> intérêts de retard et frais, pouvant donner lieu à l'inscription hypothécaire visée à l'article 58 sur ces biens, s'ils n'en avisent pas, dans les conditions prévues ci-après, le receveur.
+
+L'avis doit être établi en double exemplaire et adressé par [<sup>3</sup> pli recommandé à la poste ou par communication électronique équivalente. ]<sup>3</sup>. Si l'acte envisagé n'est pas passé dans les trois mois à compter de l'expédition de l'avis, celui-ci sera considéré comme non-avenu.
+
+§ 2. Si l'intérêt de la Région wallonne l'exige, le receveur notifie au notaire, avant l'expiration du douzième jour ouvrable qui suit la date d'expédition de l'avis prévu au § 1er, par [<sup>3</sup> pli recommandé à la poste ou par communication électronique équivalente, ]<sup>3</sup> le montant des taxes,[<sup>2</sup> amendes fiscales]<sup>2</sup>, intérêts de retard et frais pouvant donner lieu à inscription de l'hypothèque légale visée à l'article 58 sur les biens faisant l'objet de l'acte.
+
+§ 3. Lorsque l'acte visé au § 1er est passé, la notification visée au § 2 emporte saisie-arrêt entre les mains du notaire sur les sommes et valeurs qu'il détient en vertu de l'acte pour le compte ou au profit du redevable. Cette notification vaut opposition sur le prix au sens de l'article 1642 du Code judiciaire dans les cas où le notaire est tenu de répartir ces sommes et valeurs conformément aux articles 1639 à 1654 du Code judiciaire.
+
+Sans préjudice des droits des tiers, lorsque l'acte visé au § 1er est passé, le notaire est tenu, sous réserve de l'application des articles 1639 à 1654 du Code judiciaire, de verser entre les mains du receveur, au plus tard le huitième jour ouvrable qui suit la passation de l'acte, les sommes et valeurs qu'il détient en vertu de l'acte pour le compte ou au profit du redevable, à concurrence du montant des taxes,[<sup>2</sup> amendes fiscales]<sup>2</sup>, intérêts de retard et des frais qui lui ont été notifiés en exécution du § 2 et dans la mesure où ces taxes, [<sup>2</sup> amendes fiscales]<sup>2</sup>, intérêts de retard et des frais constituent une dette certaine et liquide au moment du versement.
+
+En outre, si les sommes et valeurs ainsi saisies-arrêtées sont inférieures à l'ensemble des sommes dues aux créanciers inscrits et aux créanciers opposants, en ce compris le receveur, le notaire doit, sous peine d'être personnellement responsable de l'excédent, en informer ce receveur par [<sup>3</sup> pli recommandé déposé à la poste ou par communication électronique équivalente, ]<sup>3</sup> au plus tard le premier jour ouvrable qui suit la passation de l'acte.
+
+Sans préjudice des droits des tiers, la transcription ou l'inscription de l'acte n'est pas opposable à la Région wallonne, si l'inscription de l'hypothèque légale a lieu dans les huit jours ouvrables du dépôt à la poste de l'information prévue à l'alinéa précédent [<sup>3</sup> , ou de la communication électronique équivalente ]<sup>3</sup>.
+
+Sont inopérantes au regard des créances de taxes, amendes administratives, intérêts de retard et frais notifiés en exécution du § 2, toutes les créances non inscrites pour lesquelles saisie ou opposition n'est pratiquée qu'après l'expiration du délai prévu à l'alinéa 3.
+
+§ 4. Les inscriptions prises après le délai prévu au § 3, alinéa 4, ou pour sûreté de taxes qui n'ont pas été notifiés conformément au § 2, ne sont pas opposables au créancier hypothécaire, ni à l'acquéreur qui pourra en requérir la mainlevée.
+
+§ 5. La responsabilité encourue par le notaire, en vertu du § 1er et du § 3, ne peut excéder, suivant le cas, la valeur du bien aliéné ou le montant de l'inscription hypothécaire, déduction faite des sommes et valeurs saisies-arrêtées entre ses mains.
+
+§ 6. Le Gouvernement [<sup>3</sup> ...]<sup>3</sup> détermine les conditions et les modalités d'application du présent article.
+
+Les avis et informations visés aux § 1er et § 3, doivent être établis conformément aux modèles arrêtés par le Gouvernement [<sup>3</sup> ...]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 84, 006; En vigueur : indéterminée &gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 40, 026; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 50, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 62ter
+
+[<sup>1</sup> L'article 62bis est applicable à toute personne habilitée en Belgique à donner l'authenticité aux actes visés au § 1er de cette disposition.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 84, 006; En vigueur : indéterminée &gt;
+
+##### Art. 62quater
+
+[<sup>1</sup> Moyennant l'accord du redevable, les banques soumises à la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit, les entreprises soumises à l'arrêté royal n° 225 du 7 janvier 1936 réglementant les prêts hypothécaires et organisant le contrôle des entreprises de prêts hypothécaires, ainsi que les entreprises hypothécaires soumises à la loi du 4 août 1992 relative au crédit hypothécaire, sont autorisées à adresser l'avis prévu à l'article 62bis, § 1er, et qualifiées pour recevoir la notification visée à l'article 62bis, § 2.
+
+La remise d'une attestation par ces organismes au notaire relativement à l'envoi de l'avis et à la suite y donnée par le receveur, substitue la responsabilité de ces organismes à celle du notaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 84, 006; En vigueur : indéterminée &gt;
+
+##### Art. 62quinquies
+
+[<sup>1</sup> § 1er. L'acte passé à l'étranger et ayant pour objet l'aliénation ou l'affectation hypothécaire d'un immeuble, d'un navire ou d'un bateau pouvant donner lieu à l'inscription hypothécaire visée à l'article 58, rend obligatoire l'envoi par le titulaire d'un droit réel sur cet immeuble au receveur, d'un avis en double exemplaire et adressé par [<sup>3</sup> pli recommandé à la poste ou par communication électronique équivalente]<sup>3</sup> Cet avis mentionné l'identité des acquéreurs.
+
+§ 2. Si l'intérêt de la Région wallonne l'exige :
+
+\- le receveur notifie au redevable, avant l'expiration du douzième jour ouvrable qui suit la date d'expédition de l'avis prévu au § 1er, par [<sup>3</sup> pli recommandé à la poste, ou par communication électronique équivalente,]<sup>3</sup>, le montant des taxes, [<sup>2</sup> amendes fiscales]<sup>2</sup>, intérêts de retard et frais pouvant donner lieu à inscription de l'hypothèque légale visée à l'article 58 sur les biens faisant l'objet de l'acte;
+
+\- le receveur notifie aux acquéreurs le montant des taxes, [<sup>2</sup> amendes fiscales]<sup>2</sup>, intérêts de retard et frais pouvant donner lieu à inscription de l'hypothèque légale visée à l'article 58 sur les biens faisant l'objet de l'acte; cette notification emporte saisie-arrêt entre les mains des acquéreurs sur les sommes et valeurs qu'il détiennent en vertu de l'acte pour le compte ou au profit du redevable.
+
+§ 3. Sans préjudice des droits des tiers, la transcription ou l'inscription de l'acte visé au § 1er n'est pas opposable à la Région wallonne, si l'inscription de l'hypothèque légale a lieu dans les huit jours ouvrables du dépôt à la poste [<sup>3</sup> , ou de la communication électronique équivalente, ]<sup>3</sup> de la notification visée au § 2.
+
+Sont inopérantes au regard des créances de taxes, [<sup>2</sup> amendes fiscales]<sup>2</sup>, intérêts de retard et frais notifiés en exécution du § 2, toutes les créances non inscrites pour lesquelles saisie ou opposition n'est pratiquée qu'après le jour de la passation de l'acte.
+
+§ 4. Les inscriptions prises après le délai prévu au § 3, alinéa 1er, ou pour sûreté de taxes qui n'ont pas été notifiés conformément au § 2, ne sont pas opposables au créancier hypothécaire, ni à l'acquéreur qui pourra en requérir la mainlevée.
+
+§ 5. Le Gouvernement [<sup>3</sup> ...]<sup>3</sup> détermine les conditions et les modalités d'application du présent article.
+
+L'avis visé au § 1er doit être établi conformément au modèle arrêté par le Gouvernement [<sup>3</sup> ...]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 84, 006; En vigueur : indéterminée &gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 41, 026; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 51, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 62sexies
+
+[<sup>1</sup> § 1er. Les fonctionnaires publics ou les officiers ministériels chargés de vendre publiquement des meubles, dont la valeur atteint au moins 250 EUR, sont personnellement responsables du paiement des taxes, [<sup>2</sup> amendes fiscales]<sup>2</sup>, intérêts de retard et frais dus par le propriétaire au moment de la vente, s'ils n'en avisent pas le receveur, au moins huit jours ouvrables à l'avance.
+
+L'avis doit être établi en double exemplaire et adressé par [<sup>3</sup> pli recommandé à la poste ou par communication électronique équivalente]<sup>3</sup>.
+
+§ 2. Si l'intérêt de la Région wallonne l'exige, le receveur notifie au fonctionnaire public ou à l'officier ministériel, au plus tard la veille du jour de la vente, [<sup>3</sup> pli recommandé à la poste, ou par communication électronique équivalente, ]<sup>3</sup> le montant des taxes, [<sup>2</sup> amendes fiscales]<sup>2</sup>, intérêts de retard et frais dus par le propriétaire au jour de la notification.
+
+§ 3. Lorsque la vente a eu lieu, la notification visée au § 2 emporte saisie-arrêt entre les mains des fonctionnaires publics ou des officiers ministériels cités au § 1er. Cette notification vaut opposition sur le prix au sens de l'article 1515 du Code judiciaire dans les cas où le fonctionnaire public ou l'officier ministériel est tenu de répartir ces sommes et valeurs conformément aux articles 1627 à 1638 du Code judiciaire.
+
+Sans préjudice des droits des tiers, lorsque la vente publique a eu lieu, le fonctionnaire public ou l'officier ministériel est tenu, sous réserve de l'application des articles 1627 à 1638 du Code judiciaire, de verser entre les mains du receveur, au plus tard le huitième jour ouvrable qui suit la vente publique, les sommes et valeurs qu'il détient en vertu de la vente pour le compte ou au profit du redevable, à concurrence du montant des taxes, amendes administratives, intérêts de retard et des frais qui lui ont été notifiés en exécution du § 2 et dans la mesure où ces taxes, amendes administratives, intérêts de retard et des frais constituent une dette certaine et liquide au moment du versement.
+
+§ 4. La responsabilité encourue par les fonctionnaires publics ou les officiers ministériels cités au § 1er, en vertu du § 1er, ne peut excéder, suivant le cas, la valeur des biens vendus publiquement, déduction faite des sommes et valeurs saisies-arrêtées entre ses mains.
+
+§ 5. Le Gouvernement [<sup>3</sup> ...]<sup>3</sup> détermine les conditions et les modalités d'application du présent article.
+
+L'avis visé au § 1er doit être établi conformément au modèle arrêté par le Gouvernement [<sup>3</sup> ...]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2009-12-10/27, art. 84, 006; En vigueur : indéterminée &gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 42, 026; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 52, 030; En vigueur : 28-09-2023&gt;
+
+## CHAPITRE IX. - Sanctions administratives.
+
+##### Art. 63
+
+&lt;DRW 2007-03-22/38, art. 68, 003; En vigueur : 01-01-2008; voir toutefois DRW 2007-03-22/38, art. 72, tel que modifié par DRW 2007-12-19/45, art. 6&gt;
+
+§ 1er. [<sup>2</sup> [<sup>7</sup> § 1er. Pour toute infraction au présent décret ou à une autre législation à laquelle le présent décret s'applique, à l'exception des infractions dues à des circonstances indépendantes de la volonté du redevable lorsque ces dernières sont dûment motivées, une amende fiscale de 50 euros à 2 000 euros, ou de 25 pour cent à 100 pour cent du montant de la taxe, s'applique.
+
+Toutefois, si l'infraction a été commise avec intention frauduleuse ou à dessein de nuire, une amende fiscale de 500 euros à 5 000 euros, ou de 100 pour cent à 250 pour cent du montant de la taxe, s'applique.
+
+Le Gouvernement détermine les échelles d'amendes fiscales prévues aux alinéas 1er et 2, et prévoit qu'il est renoncé à l'amende fiscale visée à l'alinéa 1er uniquement pour la première infraction commise de bonne foi par le redevable ]<sup>7</sup>.]<sup>2</sup>
+
+§ 2. Par dérogation au § 1er :
+
+1° pour les taxes sur les déchets [<sup>4</sup> et pour les taxes et contributions de prélèvement visées au chapitre II du titre II de la partie III du Livre II du Code de l'Environnement, contenant le Code de l'Eau]<sup>4</sup>, en cas de rectification ou de taxation d'office, le redevable encourt une amende fiscale d'un montant égal à deux fois le montant de la taxe éludée.
+
+Cette amende [<sup>7</sup> fiscale]<sup>7</sup> est réduite par le service désigné par le Gouvernement, à un maximum de 50 % du montant de la taxe éludée, en cas d'absence d'intention frauduleuse ou de dessein de nuire.
+
+Elle est réduite par le service désigné par le Gouvernement, à un maximum de 10 % du montant de la taxe éludée, en cas de première infraction commise par le redevable sans intention frauduleuse ou dessein de nuire.
+
+Elle est remise totalement et d'office, en cas de régularisation spontanée effectuée par le redevable;
+
+[<sup>2</sup> 2° [<sup>7</sup> pour la taxe sur les jeux et paris et la taxe sur les appareils automatiques de divertissement, prévues par le Code des taxes assimilées aux impôts sur les revenus, le redevable encourt une amende fiscale pour toute infraction aux règles visées à l'article 11bis, § § 1er et 2, d'un montant égal à 1 250 euros pour la première infraction et à 2 500 euros pour la deuxième infraction et pour les infractions suivantes commises jusqu'à l'expiration de l'année suivant celle de la constatation de cette deuxième infraction]<sup>7</sup>.]<sup>2</sup>
+
+[<sup>2</sup> 3°[<sup>7</sup> pour la taxe sur les jeux et paris prévue par le Code des taxes assimilées aux impôts sur les revenus, à l'exception des infractions aux articles 10 à 11ter, les infractions aux règles visées par le présent décret ou par le Code des taxes assimilées aux impôts sur les revenus sont frappées des sanctions administratives prévues aux articles 68 ]<sup>2</sup>et 68bis du Code des taxes assimilées aux impôts sur les revenus]<sup>7</sup>.]<sup>2</sup>
+
+[<sup>2</sup> 4° [<sup>7</sup> pour la taxe sur les appareils automatiques de divertissement prévue par le Code des taxes assimilées aux impôts sur les revenus, à l'exception des infractions aux articles 10 à 11ter, les infractions aux règles visées par le présent décret ou par le Code des taxes assimilées aux impôts sur les revenus sont frappées des sanctions administratives prévues aux articles 89 et 89bis du Code des taxes assimilées aux impôts sur les revenus]<sup>7</sup>.]<sup>2</sup>
+
+[<sup>2</sup> 5° [<sup>7</sup> pour la taxe de circulation prévue par le Code des taxes assimilées aux impôts sur les revenus, le redevable encourt une amende fiscale d'un montant égal au triple du montant de la taxe éludée si elle dépasse le dixième de la taxe primitive en cas d'absence de déclaration ou d'insuffisance de déclaration]<sup>7</sup>.]<sup>2</sup>
+
+[<sup>6</sup> 6°[<sup>9</sup> une amende fiscale de 2 500 euros à 25 000 euros est appliquée pour toute infraction :
+
+a) à l'article 64quinquies/2 qui consiste à ne pas fournir, à fournir de manière incomplète ou à fournir tardivement des informations visées à l'article 64quinquies/2, § 14;
+
+b) aux articles 64quinquies/4 à 64quinquies/6 qui consiste à ne pas remplir les obligations de déclaration y énoncées ou à les remplir de manière incomplète ou tardivement;
+
+c) aux articles 64quinquies/10 à 64quinquies/13 qui consiste à ne pas remplir les obligations de déclaration y énoncées ou à les remplir de manière incomplète ou tardivement;
+
+d) à l'article 64quinquies/3, § 1er, point A., 4°, b), et § 2, 1° et 7°, qui consiste à ne pas se conformer à l'obligation d'enregistrement y prévue ou à s'y conformer de manière incomplète ou tardivement, ou lorsque l'enregistrement a été révoqué;
+
+e) à l'article 64quinquies/9, § § 3 et 4, qui consiste à ne pas se conformer à l'obligation d'enregistrement y prévue ou à s'y conformer de manière incomplète ou tardivement ou lorsque l'enregistrement a été révoqué.
+
+Toutefois, si l'infraction a été commise avec intention frauduleuse ou à dessein de nuire, une amende fiscale de 5 000 euros à 50 000 euros est appliquée.
+
+Le Gouvernement détermine les échelles d'amendes fiscales prévues aux alinéas 1er et 2, et prévoit qu'il est renoncé à l'amende fiscale visée à l'alinéa 1er uniquement pour la première infraction commise de bonne foi.]<sup>9</sup>. ]<sup>6</sup>
+
+§ 3. [<sup>3</sup> [<sup>8</sup>. Sous réserve de l'article 11bis, § 4, d), les amendes fiscales prévues aux paragraphes 1er et 2 sont établies, contestées et recouvrées de la même manière que la taxe à laquelle elles se rapportent, qu'elles soient enrôlées avec celle-ci ou qu'elles soient enrôlées distinctement ]<sup>8</sup>.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 85, 006; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DRW 2013-11-28/18, art. 55, 009; En vigueur : 01-01-2014&gt;
+
+(3)&lt;DRW 2014-04-11/03, art. 4, 010; En vigueur : 19-05-2014&gt;
+
+(4)&lt;DRW 2014-12-12/02, art. 97, 011; En vigueur : 01-01-2015&gt;
+
+(5)&lt;DRW 2017-06-01/09, art. 22, 016; En vigueur : 01-07-2017&gt;
+
+(6)&lt;DRW 2020-10-01/19, art. 2, 023; En vigueur : 01-07-2020&gt;
+
+(7)&lt;DRW 2021-12-22/12, art. 43, 026; En vigueur : 01-01-2022&gt;
+
+(8)&lt;DRW 2023-07-12/11, art. 53, 030; En vigueur : 28-09-2023&gt;
+
+(9)&lt;DRW 2025-12-19/B4, art. 2, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64
+
+[<sup>1</sup> § 1er. Le service désigné par le Gouvernement statue en premier et dernier ressort sur les requêtes ayant pour objet la remise ou modération des amendes fiscales [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2 Les requêtes visées au paragraphe 1er sont introduites, par écrit motivé [<sup>3</sup> ou par communication électronique équivalente,]<sup>3</sup> auprès du service désigné par le Gouvernement par les redevables ou les personnes sur les biens desquels les [<sup>2</sup> amendes fiscales]<sup>2</sup> sont mises en recouvrement.
+
+Est irrecevable, toute requête visée au paragraphe 1er introduite lorsque :
+
+1° les délais de recours administratifs ne sont pas expirés, ou ;
+
+2° la phase contentieuse administrative n'est pas clôturée [<sup>3</sup> , ou]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>3</sup> 3° la phase contentieuse judiciaire n'est pas clôturée.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2017-12-13/07, art. 31, 019; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DRW 2021-12-22/12, art. 44, 026; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 54, 030; En vigueur : 28-09-2023&gt;
+
+## CHAPITRE IXbis. [<sup>1</sup> - Assistance mutuelle]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-09-19/23, art. 5, 008; En vigueur : 01-01-2013&gt;
+
+### Section 1re. - [<sup>1</sup> Dispositions générales et définitions]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+##### Art. 64bis
+
+[<sup>4</sup> § 1er.]<sup>4</sup> [<sup>1</sup> Les articles 64bis à [<sup>5</sup> 64duodecies ]<sup>5</sup> établissent les règles et procédures selon lesquelles la Région wallonne et les Etats membres de l'Union européenne coopèrent entre eux aux fins d'échanger les informations vraisemblablement pertinentes pour l'administration et l'application de la législation interne de la Région wallonne et de tous les Etats membres relative à l'ensemble des taxes et impôts perçus par la Région wallonne ou pour son compte, par ses subdivisions territoriales ou administratives ou pour leur compte, y compris les autorités locales.
+
+Ces mêmes articles énoncent également les dispositions régissant l'échange par voie électronique des informations visées à l'alinéa premier.
+
+Ils n'affectent pas l'application des règles relatives à l'entraide judiciaire réciproque en matière pénale. Ils ne portent pas non plus atteinte aux obligations en Région wallonne et dans les Etats membres en matière de coopération administrative plus étendue qui résulteraient d'autres réglementations, y compris d'accords bilatéraux ou multilatéraux.
+
+Aux fins des articles 64bis à [<sup>5</sup> 64duodecies ]<sup>5</sup>, on entend par :
+
+1° " Directive " : la Directive 2011/16/UE du Conseil du 15 février 2011 relative à la coopération administrative dans le domaine fiscal et abrogeant la Directive 77/799/CEE;
+
+2° " Etat membre " : un Etat membre de l'Union européenne ainsi que ses entités territoriales ou administratives y compris ses autorités locales;
+
+3° " bureau central de liaison " : le bureau tel que défini dans l'accord de coopération à conclure en application de l'article 92bis, § 1er, de la loi spéciale du 8 août 1980 des réformes institutionnelles et qui est le responsable privilégié des contacts avec les Etats membres dans le domaine de la coopération administrative;
+
+4° " service de liaison wallon " : tout bureau autre que le bureau central de liaison qui a été désigné par le Gouvernement [<sup>5</sup> ...]<sup>5</sup> pour échanger directement des informations en vertu du présent article;
+
+5° " fonctionnaire compétent wallon " : tout fonctionnaire qui est autorisé par le Gouvernement [<sup>5</sup> ...]<sup>5</sup> à échanger directement des informations en vertu du présent article;
+
+6° " autorité compétente belge " : l'autorité désignée en tant que telle par la Belgique. Le bureau central de liaison désigné conformément au 3°, les services de liaison wallons et les fonctionnaires compétents wallons sont également considérés comme l'autorité compétente belge par délégation;
+
+7° " autorité compétente étrangère " : l'autorité désignée en tant que telle par un Etat membre autre que la Belgique. Le bureau central de liaison, les services de liaison et les fonctionnaires compétents de cet Etat membre sont également considérés comme l'autorité compétente étrangère par délégation;
+
+8° " autorité requérante " : le bureau central de liaison, un service de liaison ou tout fonctionnaire compétent d'un Etat membre qui formule une demande d'assistance au nom de l'autorité compétente belge ou d'une autorité compétente étrangère;
+
+9° " autorité requise " : le bureau central de liaison, un service de liaison ou tout fonctionnaire compétent d'un Etat membre qui reçoit une demande d'assistance au nom de l'autorité compétente belge ou d'une autorité compétente étrangère;
+
+10° " enquête administrative " : l'ensemble des contrôles, vérifications et actions réalisés par les Etats membres dans l'exercice de leurs responsabilités en vue d'assurer la bonne application de la législation fiscale;
+
+11° [<sup>2</sup> [<sup>5</sup> échange automatique " :
+
+a) aux fins de l'article 64quinquies, § 1er, de l'article 64quinquies/1, de l'article 64quinquies/2, et des articles 64quinquies/3 à [<sup>6</sup> 64quinquies/15 ]<sup>6</sup> la communication systématique à un autre Etat membre, sans demande préalable, d'informations prédéfinies, à intervalles réguliers préalablement fixés. Aux fins de l'article 64quinquies, § 1er, les informations disponibles concernent des informations figurant dans les dossiers fiscaux de l'Etat membre qui communique les informations et pouvant être consultées conformément aux procédures de collecte et de traitement des informations applicables dans cet Etat membre;
+
+b) aux fins des dispositions du présent chapitre IXbis autres que l'article 64quinquies, § 1er, l'article 64quinquies/1, l'article 64quinquies/2, et les articles 64quinquies/3 à 64quinquies/8, la communication systématique des informations prédéfinies prévues au a) du présent 11°]<sup>5</sup>;]<sup>2</sup>;
+
+12° " échange spontané " : la communication ponctuelle, à tout moment et sans demande préalable, d'informations à un autre Etat membre;
+
+13° " personne " :
+
+a) une personne physique;
+
+b) une personne morale;
+
+c) lorsque la législation en vigueur le prévoit, une association de personnes à laquelle est reconnue la capacité d'accomplir des actes juridiques, mais qui ne possède pas le statut de personne morale;
+
+d) toute autre construction juridique quelles que soient sa nature et sa forme, dotée ou non de la personnalité juridique, possédant ou gérant des actifs qui, y compris le revenu qui en dérive, sont soumis à l'un des impôts relevant de la directive;
+
+14° " par voie électronique " : au moyen d'équipements électroniques de traitement - y compris la compression numérique - et de stockage des données, par liaison filaire, radio, procédés optiques ou tout autre procédé électromagnétique;
+
+15° " réseau CCN " : la plate-forme commune fondée sur le réseau commun de communication, mise au point par l'Union européenne pour assurer toutes les transmissions par voie électronique entre autorités compétentes dans les domaines douanier et fiscal.
+
+[<sup>3</sup> 16° " décision fiscale anticipée en matière transfrontière " : tout accord, toute communication, ou tout autre instrument ou action ayant des effets similaires, y compris lorsqu'il est émis, modifié ou renouvelé dans le contexte d'un contrôle fiscal, et qui remplit les conditions suivantes :
+
+a) être émis, modifié ou renouvelé par ou pour le compte du gouvernement ou de l'administration fiscale d'un Etat membre, ou par les entités territoriales ou administratives de l'Etat membre, y compris les autorités locales, que ces décisions soient effectivement utilisées ou non;
+
+b) être émis, modifié ou renouvelé à l'intention d'une personne spécifique ou d'un groupe de personnes, et pour autant que cette personne ou ce groupe de personnes ait le droit de s'en prévaloir;
+
+c) porter sur l'interprétation ou l'application d'une disposition législative ou administrative concernant l'administration ou l'application de la législation nationale relative aux taxes et impôts de l'Etat membre considéré ou des entités territoriales ou administratives de l'Etat membre, y compris de ses autorités locales;
+
+d) se rapporter à une opération transfrontière ou à la question de savoir si les activités exercées par une personne dans une autre juridiction créent ou non un établissement stable [<sup>6</sup> ou à la question de savoir si une personne physique est ou non résidente fiscale de l'Etat membre qui a émis la décision fiscale; ]<sup>6</sup>;
+
+e) être établi préalablement aux opérations ou aux activités menées dans une autre juridiction susceptibles de créer un établissement stable ou préalablement au dépôt d'une déclaration fiscale couvrant la période au cours de laquelle l'opération, la série d'opérations ou les activités ont eu lieu;
+
+17° " opération transfrontière " visée au 16° : une opération ou une série d'opérations :
+
+a) dans lesquelles toutes les parties à l'opération ou à la série d'opérations ne sont pas résidentes fiscales sur le territoire de l'Etat membre ayant émis, modifié ou renouvelé la décision fiscale anticipée en matière transfrontière;
+
+b) dans lesquelles l'une des parties à l'opération ou à la série d'opérations est résidente fiscale dans plus d'une juridiction simultanément;
+
+c) dans lesquelles l'une des parties à l'opération ou à la série d'opérations exerce son activité dans une autre juridiction par l'intermédiaire d'un établissement stable, l'opération ou la série d'opérations constituant une partie ou la totalité de l'activité de l'établissement stable;
+
+d) lorsque cette opération ou série d'opérations à une incidence transfrontière.
+
+18° " entreprise " visée au 17° : toute forme d'exercice d'une activité commerciale.]<sup>3</sup>
+
+[<sup>4</sup> 19° " dispositif transfrontière " : un dispositif concernant plusieurs Etats membres ou un Etat membre et un pays tiers si l'une au moins des conditions suivantes est remplie :
+
+a) tous les participants au dispositif ne sont pas résidents à des fins fiscales dans la même juridiction ;
+
+b) un ou plusieurs des participants au dispositif sont résidents à des fins fiscales dans plusieurs juridictions simultanément ;
+
+c) un ou plusieurs des participants au dispositif exercent une activité dans une autre juridiction par l'intermédiaire d'un établissement stable situé dans cette juridiction, le dispositif constituant une partie ou la totalité de l'activité de cet établissement stable ;
+
+d) un ou plusieurs des participants au dispositif exercent une activité dans une autre juridiction sans être résidents à des fins fiscales ni créer d'établissement stable dans cette juridiction ;
+
+e) un tel dispositif peut avoir des conséquences sur l'échange automatique d'informations ou sur l'identification des bénéficiaires effectifs.
+
+Aux fins de l'application du 19° au 26°, du paragraphe 2 et de l'article 64quinquies/2, on entend également par dispositif une série de dispositifs. Un dispositif peut comporter plusieurs étapes ou parties ;
+
+20° " dispositif transfrontière devant faire l'objet d'une déclaration " : tout dispositif transfrontière comportant au moins l'un des marqueurs ;
+
+21° " marqueur " : une caractéristique ou particularité d'un dispositif transfrontière qui indique un risque potentiel d'évasion fiscale, telle que recensée au paragraphe 2 ;
+
+22° " intermédiaire " : toute personne qui conçoit, commercialise ou organise un dispositif transfrontière devant faire l'objet d'une déclaration, le met à disposition aux fins de sa mise en oeuvre ou en gère la mise en oeuvre.
+
+L'on entend également par ce terme toute personne qui, compte tenu des faits et circonstances pertinents et sur la base des informations disponibles ainsi que de l'expertise en la matière et de la compréhension qui sont nécessaires pour fournir de tels services, sait ou pourrait raisonnablement être censée savoir qu'elle s'est engagée à fournir, directement ou par l'intermédiaire d'autres personnes, une aide, une assistance ou des conseils concernant la conception, la commercialisation ou l'organisation d'un dispositif transfrontière devant faire l'objet d'une déclaration, ou concernant sa mise à disposition aux fins de mise en oeuvre ou la gestion de sa mise en oeuvre. Toute personne a le droit de fournir des éléments prouvant qu'elle ne savait pas et ne pouvait pas raisonnablement être censée savoir qu'elle participait à un dispositif transfrontière devant faire l'objet d'une déclaration. A cette fin, cette personne peut invoquer tous les faits et circonstances pertinents ainsi que les informations disponibles et son expertise et sa compréhension en la matière.
+
+Pour être un intermédiaire, une personne répond à l'une au moins des conditions supplémentaires suivantes :
+
+a) être résidente dans un Etat membre à des fins fiscales ;
+
+b) posséder dans un Etat membre un établissement stable par le biais duquel sont fournis les services concernant le dispositif ;
+
+c) être constituée dans un Etat membre ou régie par le droit d'un Etat membre ;
+
+d) être enregistrée auprès d'une association professionnelle en rapport avec des services juridiques, fiscaux ou de conseil dans un Etat membre ;
+
+23° " contribuable concerné " : toute personne à qui un dispositif transfrontière devant faire l'objet d'une déclaration est mis à disposition aux fins de sa mise en oeuvre, ou qui est disposée à mettre en oeuvre un dispositif transfrontière devant faire l'objet d'une déclaration, ou qui a mis en oeuvre la première étape d'un tel dispositif ;
+
+24° " entreprise associée " : une personne qui est liée à une autre personne de l'une au moins des façons suivantes :
+
+a) une personne participe à la gestion d'une autre personne lorsqu'elle est en mesure d'exercer une influence notable sur l'autre personne ;
+
+b) une personne participe au contrôle d'une autre personne au moyen d'une participation qui dépasse vingt-cinq pour cent des droits de vote ;
+
+c) une personne participe au capital d'une autre personne au moyen d'un droit de propriété qui, directement ou indirectement, dépasse vingt-cinq pour cent du capital ;
+
+d) une personne a droit à vingt-cinq pour cent ou plus des bénéfices d'une autre personne.
+
+Si plusieurs personnes participent, comme indiqué au 24°, a) à d), à la gestion, au contrôle, au capital ou aux bénéfices d'une même personne, toutes les personnes concernées sont assimilées à des entreprises associées.
+
+Si les mêmes personnes participent, comme indiqué au 24°, a) à d), à la gestion, au contrôle, au capital ou aux bénéfices de plusieurs personnes, toutes les personnes concernées sont assimilées à des entreprises associées.
+
+Aux fins du présent point, une personne qui agit avec une autre personne en ce qui concerne les droits de vote ou la détention de parts de capital d'une entité est considérée comme détenant une participation dans l'ensemble des droits de vote ou des parts de capital de ladite entité détenus par l'autre personne.
+
+En ce qui concerne les participations indirectes, le respect des critères énoncés au 24°, c), est déterminé en multipliant les taux de détention successivement aux différents niveaux. Une personne détenant plus de cinquante pour cent des droits de vote est réputée détenir cent pour cent de ces droits.
+
+Une personne physique, son conjoint et ses ascendants ou descendants directs sont considérés comme une seule et unique personne ;
+
+25° " dispositif commercialisable " : un dispositif transfrontière qui est conçu, commercialisé, prêt à être mis en oeuvre, ou mis à disposition aux fins de sa mise en oeuvre, sans avoir besoin d'être adapté de façon importante;
+
+26° " dispositif sur mesure " : tout dispositif transfrontière qui n'est pas un dispositif commercialisable;]<sup>4</sup>
+
+[<sup>5</sup> 27° " contrôle conjoint " : une enquête administrative menée conjointement par les autorités compétentes de deux Etats membres ou plus, et liée à une ou plusieurs personnes présentant un intérêt commun ou complémentaire pour les autorités compétentes de ces Etats membres; ]<sup>5</sup>
+
+[<sup>5</sup> 28° " redevances " : les paiements de toute nature reçus à titre de rémunération pour l'usage ou la concession de l'usage d'un droit d'auteur sur une oeuvre littéraire, artistique ou scientifique, y compris les films cinématographiques et les logiciels informatiques, d'un brevet, d'une marque de fabrique ou de commerce, d'un dessin ou d'un modèle, d'un plan, d'une formule ou d'un procédé secret, ainsi que pour des informations ayant trait à une expérience acquise dans le domaine industriel, commercial ou scientifique. Les paiements reçus pour l'usage ou la concession de l'usage d'un droit concernant des équipements industriels, commerciaux ou scientifiques sont considérés comme des redevances. ]<sup>5</sup>
+
+[<sup>6</sup> 29° " revenus tirés de dividendes versés par l'intermédiaire d'un compte non conservateur " : les dividendes ou autres revenus assimilés à des dividendes dans l'Etat membre du payeur, qui sont versés ou crédités sur un compte autre qu'un compte conservateur, à savoir un compte, à l'exclusion d'un contrat d'assurance ou d'un contrat de rente, sur lequel figurent un ou plusieurs Actifs financiers au bénéfice d'une autre personne;
+
+30° " produits d'assurance sur la vie non couverts par d'autres actes juridiques de l'Union concernant l'échange d'informations et d'autres mesures similaires " : les contrats d'assurance autres que ceux avec valeur de rachat devant faire l'objet d'une déclaration lorsque les prestations en vertu des contrats sont dues au moment du décès de l'assuré;
+
+31° " adresse de registre distribué " : l'adresse de registre distribué visée dans le règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de Crypto-actifs, et modifiant les règlements (UE) n° 1093/2010 et (UE) n° 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937;
+
+32° " client " : aux fins de l'article 64quinquies/2, tout intermédiaire ou contribuable concerné qui reçoit des services, y compris une assistance, des avis, des conseils ou des orientations, de la part d'un intermédiaire tenu au secret professionnel dans le cadre d'un dispositif fiscal transfrontière devant faire l'objet d'une déclaration;
+
+33° " NIF " : un numéro d'identification fiscale ou son équivalent fonctionnel en l'absence de numéro d'identification fiscale;
+
+34° " institution financière " : un établissement gérant des dépôts de titres, un établissement de dépôt, une entité d'investissement ou un organisme d'assurance particulier;
+
+35° " établissement gérant des dépôts de titres " : toute Entité dont une part substantielle de l'activité consiste à détenir des Actifs financiers pour le compte de tiers;
+
+36° " établissement de dépôt " : toute Entité qui accepte des dépôts dans le cadre habituel d'une activité bancaire ou d'activités semblables ou qui détient de la Monnaie électronique ou des Monnaies numériques de Banque centrale au profit des clients;
+
+37° " entité d'investissement " :
+
+a) soit, toute Entité qui exerce comme activité principale une ou plusieurs des activités ou opérations suivantes au nom ou pour le compte d'un client :
+
+(i) transactions sur les instruments du marché monétaire, le marchédes changes, les instruments sur devises, taux d'intérêt et indices, les valeurs mobilières ou les marchés à terme de marchandises;
+
+(ii) gestion individuelle ou collective de portefeuille;
+
+(iii) autres opérations d'investissement, d'administration ou de gestion d'Actifs financiers, d'argent ou de Crypto-actifs à déclarer pour le compte de tiers;
+
+b) soit, toute Entité dont les revenus bruts proviennent principalement d'une activité d'investissement, de réinvestissement ou de négociation d'Actifs financiers ou de Crypto-actifs à déclarer, si l'Entité est gérée par une autre Entité qui est un établissement de dépôt, un établissement gérant des dépôts de titres, un organisme d'assurance particulier ou une Entité d'investissement décrite au point a).
+
+Une Entité est considérée comme exerçant comme activité principale une ou plusieurs des activités visées au point a), ou les revenus bruts d'une Entité proviennent principalement d'une activité d'investissement, de réinvestissement ou de négociation d'Actifs financiers ou de Crypto-actifs à déclarer aux fins du point b), si les revenus bruts de l'Entité générés par les activités correspondantes sont égaux ou supérieurs à 50
+
+de ses revenus bruts durant : i) la période de trois ans se terminant le 31 décembre de l'année précédant l'année au cours de laquelle le calcul est effectué ou ii) la période d'existence de l'Entité.
+
+Aux fins du point a), (iii), l'expression " autres opérations d'investissement, d'administration ou de gestion d'Actifs financiers, d'argent ou de Crypto-actifs à déclarer pour le compte de tiers " ne couvre pas la prestation de services consistant en des Transactions d'échange pour des clients ou en leur nom. L'expression " Entité d'investissement " exclut une Entité qui est une Entité active parce qu'elle répond aux critères visés à l'article 64quinquies/9, § 1er, D., 10°, b) à e).
+
+Le présent point est interprété conformément à la formulation de la définition de l'expression " établissement financier " qui figure dans l'article 3, point 2), de la directive (UE) 2015/849;
+
+38° " organisme d'assurance particulier " : tout organisme d'assurance, ou la société holding d'un organisme d'assurance, qui émet un contrat d'assurance avec valeur de rachat ou un contrat de rente ou est tenu d'effectuer des versements afférents à ce contrat;
+
+39° " violation de données " : une violation de la sécurité entraînant la destruction, la perte, l'altération ou tout incident occasionnant un accès inapproprié ou non autorisé, la divulgation ou l'utilisation d'informations, y compris, mais sans s'y limiter, de données à caractère personnel transmises, stockées ou traitées d'une autre manière, à la suite d'actes illicites délibérés, de négligences ou d'accidents. ]<sup>6</sup>
+
+[<sup>3</sup> Concernant [<sup>6</sup> l'alinéa 4, 16° ]<sup>6</sup>, l'opération transfrontière peut inclure, mais sans s'y limiter, la réalisation d'investissements, la fourniture de biens, services et financements ou l'utilisation d'actifs corporels ou incorporels et ne doit pas nécessairement faire intervenir directement la personne destinataire de la décision fiscale anticipée en matière transfrontière.
+
+Concernant [<sup>6</sup> l'alinéa 4, 17°, c) ]<sup>6</sup>, une opération transfrontière ou une série d'opérations transfrontières comprennent également les dispositions prises par une personne en ce qui concerne les activités commerciales que cette personne exerce dans une autre juridiction par l'intermédiaire d'un établissement stable.]<sup>3</sup>
+
+[<sup>6</sup> oncernant l'alinéa 4, 33°, le NIF correspond à tout numéro ou code utilisé par une autorité compétente pour identifier un contribuable.
+
+Concernant l'alinéa 4, 35°, tel est le cas si le revenu brut de cette Entité attribuable à la détention d'Actifs financiers et aux services financiers connexes est égal ou supérieur à 20
+
+du revenu brut de l'Entité durant :
+
+(i) la période de trois ans qui s'achève le 31 décembre, ou le dernier jour d'un exercice comptable décalé, précédant l'année au cours de laquelle le calcul est effectué; ou
+
+(ii) la période d'existence de l'Entité si celle-ci est inférieure à trois ans.
+
+Concernant l'alinéa 4, 39°, une violation de données peut concerner la confidentialité, la disponibilité et l'intégrité des données]<sup>6</sup>
+
+L'autorité compétente belge échange les informations avec les autorités compétentes étrangères.]<sup>1</sup>
+
+[<sup>4</sup> § 2. Les marqueurs d'un dispositif transfrontière visés au paragraphe 1er, alinéa 4, 21°, sont subdivisés dans les cinq catégories suivantes :
+
+1° catégorie A: les marqueurs généraux, visés à l'alinéa 5 ;
+
+2° catégorie B : les marqueurs spécifiques, visés à l'alinéa 6 ;
+
+3° catégorie C : les marqueurs spécifiques liés aux opérations transfrontières, visés à l'alinéa 7 ;
+
+4° catégorie D : les marqueurs spécifiques concernant l'échange automatique d'informations et les bénéficiaires effectifs, visés à l'alinéa 8 ;
+
+5° catégorie E : les marqueurs spécifiques concernant les prix de transferts, visés à l'alinéa 9.
+
+Les marqueurs généraux relevant de la catégorie A, visés à l'alinéa 5, et les marqueurs spécifiques relevant de la catégorie B, visés à l'alinéa 6, ainsi que de la catégorie C, visés à l'alinéa 7, 1°, points b), premier tiret, c) et d), ne peuvent être pris en compte que lorsqu'ils remplissent le " critère de l'avantage principal ".
+
+Ce critère sera rempli s'il peut être établi que l'avantage principal ou l'un des avantages principaux qu'une personne peut raisonnablement s'attendre à retirer d'un dispositif, compte tenu de l'ensemble des faits et circonstances pertinents, est l'obtention d'un avantage fiscal.
+
+Dans le cas d'un marqueur relevant de la catégorie C, visé à l'alinéa 7, 1°, la présence des conditions prévues dans la catégorie C, visée à l'alinéa 7, 1°, points b), premier tiret, c) ou d), ne peut à elle seule constituer une raison de conclure qu'un dispositif remplit le critère de l'avantage principal.
+
+Sont considérés comme marqueurs généraux liés au critère de l'avantage principal, de catégorie A :
+
+1° un dispositif où le contribuable concerné ou un participant au dispositif s'engage à respecter une clause de confidentialité selon laquelle il peut lui être demandé de ne pas divulguer à d'autres intermédiaires ou aux autorités fiscales comment le dispositif pourrait procurer un avantage fiscal ;
+
+2° un dispositif où l'intermédiaire est en droit de percevoir des honoraires (ou intérêts, rémunération pour financer les coûts et autres frais) pour le dispositif et ces honoraires sont fixés par référence :
+
+a) au montant de l'avantage fiscal découlant du dispositif ; ou
+
+b) au fait qu'un avantage fiscal découle effectivement du dispositif. Cela inclurait une obligation pour l'intermédiaire de rembourser partiellement ou entièrement les honoraires si l'avantage fiscal escompté découlant du dispositif n'a pas été complètement ou partiellement généré ;
+
+3° un dispositif dont la documentation et/ou la structure sont en grande partie normalisées et qui est à la disposition de plus d'un contribuable concerné sans avoir besoin d'être adapté de façon importante pour être mis en oeuvre.
+
+Sont considérés comme marqueurs spécifiques liés au critère de l'avantage principal, de catégorie B :
+
+1° un dispositif dans lequel un participant au dispositif prend artificiellement des mesures qui consistent à acquérir une société réalisant des pertes, à mettre fin à l'activité principale de cette société et à utiliser les pertes de celle-ci pour réduire sa charge fiscale, y compris par le transfert de ces pertes à une autre juridiction ou par l'accélération de l'utilisation de ces pertes ;
+
+2° un dispositif qui a pour effet de convertir des revenus en capital, en dons ou en d'autres catégories de recettes qui sont taxées à un niveau inférieur ou ne sont pas taxées ;
+
+3° un dispositif qui inclut des transactions circulaires ayant pour résultat un " carrousel " de fonds, à savoir au moyen d'entités interposées sans fonction commerciale primaire ou d'opérations qui se compensent ou s'annulent mutuellement ou qui ont d'autres caractéristiques similaires.
+
+Sont considérés comme marqueurs spécifiques liés aux opérations transfrontières, de catégorie C :
+
+1° un dispositif qui prévoit la déduction des paiements transfrontières effectués entre deux ou plusieurs entreprises associées lorsque l'une au moins des conditions suivantes est remplie :
+
+a) le bénéficiaire ne réside à des fins fiscales dans aucune juridiction fiscale ;
+
+b) même si le bénéficiaire réside à des fins fiscales dans une juridiction, cette juridiction :
+
+\- ne lève pas d'impôt sur les sociétés ou lève un impôt sur les sociétés à taux zéro ou presque nul ; ou
+
+\- figure sur une liste de juridictions de pays tiers qui ont été évaluées par les Etats membres collectivement ou dans le cadre de l'OCDE comme étant non coopératives ;
+
+c) le paiement bénéficie d'une exonération fiscale totale dans la juridiction où le bénéficiaire réside à des fins fiscales ;
+
+d) le paiement bénéficie d'un régime fiscal préférentiel dans la juridiction où le bénéficiaire réside à des fins fiscales ;
+
+2° des déductions pour le même amortissement d'un actif sont demandées dans plus d'une juridiction ;
+
+3° un allègement au titre de la double imposition pour le même élément de revenu ou de capital est demandé dans plusieurs juridictions ;
+
+4° il existe un dispositif qui inclut des transferts d'actifs et où il y a une différence importante dans le montant considéré comme étant payable en contrepartie des actifs dans ces juridictions concernées.
+
+Sont considérés comme marqueurs spécifiques concernant l'échange automatique d'informations et les bénéficiaires effectifs, de catégorie D :
+
+1° un dispositif susceptible d'avoir pour effet de porter atteinte à l'obligation de déclaration en vertu du droit mettant en oeuvre la législation de l'Union ou tout accord équivalent concernant l'échange automatique d'informations sur les Comptes financiers, y compris des accords avec des pays tiers, ou qui tire parti de l'absence de telles dispositions ou de tels accords. De tels dispositifs incluent au moins ce qui suit :
+
+a) l'utilisation d'un compte, d'un produit ou d'un investissement qui n'est pas ou dont l'objectif est de ne pas être un Compte financier, mais qui possède des caractéristiques substantiellement similaires à celles d'un Compte financier ;
+
+b) le transfert de Comptes ou d'actifs financiers vers des juridictions qui ne sont pas liées par l'échange automatique d'informations sur les Comptes financiers avec l'Etat de résidence du contribuable concerné, ou le recours à de telles juridictions ;
+
+c) la requalification de revenus et de capitaux en produits ou en paiements qui ne sont pas soumis à l'échange automatique d'informations sur les Comptes financiers ;
+
+d) le transfert ou la conversion d'une Institution financière, d'un Compte financier ou des actifs qui s'y trouvent en Institution financière, en Compte financier ou en actifs qui ne sont pas à déclarer en vertu de l'échange automatique d'informations sur les Comptes financiers ;
+
+e) le recours à des entités, constructions ou structures juridiques qui suppriment ou visent à supprimer la déclaration d'un ou plusieurs Titulaires de compte ou Personnes détenant le contrôle dans le cadre de l'échange automatique d'informations sur les Comptes financiers ;
+
+f) les dispositifs qui portent atteinte aux procédures de diligence raisonnable utilisées par les Institutions financières pour se conformer à leurs obligations de déclarer des informations sur les Comptes financiers, ou qui exploitent les insuffisances de ces procédures, y compris le recours à des juridictions appliquant de manière inadéquate ou insuffisante la législation relative à la lutte contre le blanchiment de capitaux, ou ayant des exigences insuffisantes en matière de transparence en ce qui concerne les personnes morales ou les constructions juridiques;
+
+2° un dispositif faisant intervenir une chaîne de propriété formelle ou effective non transparente par le recours à des personnes, des constructions juridiques ou des structures :
+
+a) qui n'exercent pas une activité économique substantielle s'appuyant sur des effectifs, des équipements, des ressources et des locaux suffisants ; et
+
+b) qui sont constitués, gérés, contrôlés ou établis ou qui résident dans toute juridiction autre que la juridiction de résidence de l'un ou plusieurs des bénéficiaires effectifs des actifs détenus par ces personnes, constructions juridiques ou structures ; et
+
+c) lorsque les bénéficiaires effectifs de ces personnes, constructions juridiques ou structures, au sens de l'article 4, 27°, de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces, sont rendus impossibles à identifier.
+
+Sont considérés comme marqueurs spécifiques concernant les prix de transfert, de catégorie E :
+
+1° un dispositif qui prévoit l'utilisation de régimes de protection unilatéraux ;
+
+2° un dispositif prévoyant le transfert d'actifs incorporels difficiles à évaluer. Le terme d'" actifs incorporels difficiles " à évaluer englobe des actifs incorporels ou des droits sur des actifs incorporels pour lesquels, au moment de leur transfert entre des entreprises associées :
+
+a) il n'existe pas d'éléments de comparaison fiables ; et
+
+b) au moment où l'opération a été conclue, les projections concernant les futurs flux de trésorerie ou revenus attendus de l'actif incorporel transféré, ou les hypothèses utilisées pour évaluer cet actif incorporel sont hautement incertaines, et il est donc difficile de prévoir dans quelle mesure l'actif incorporel débouchera finalement sur un succès au moment du transfert ;
+
+3° Un dispositif mettant en jeu un transfert transfrontière de fonctions et/ou de risques et/ou d'actifs au sein du groupe, si le bénéfice avant intérêts et impôts (BAII) annuel prévu, dans les trois ans suivant le transfert, du ou des cédants, est inférieur à 50% du BAII annuel prévu de ce cédant ou de ces cédants si le transfert n'avait pas été effectué. ]<sup>4</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DRW 2016-04-14/01, art. 2, 013; En vigueur : 01-01-2016&gt;
+
+(3)&lt;DRW 2017-07-12/12, art. 2, 017; En vigueur : 01-09-2017&gt;
+
+(4)&lt;DRW 2020-10-01/19, art. 3, 023; En vigueur : 01-07-2020&gt;
+
+(5)&lt;DRW 2023-07-12/11, art. 55, 030; En vigueur : 28-09-2023&gt;
+
+(6)&lt;DRW 2025-12-19/B4, art. 3, 035; En vigueur : 01-01-2026&gt;
+
+### Section 2. - [<sup>1</sup> Echanges d'informations sur demande]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+##### Art. 64ter
+
+[<sup>1</sup> § 1er. L'autorité compétente belge peut, dans un cas particulier, demander à une autorité compétente étrangère de lui communiquer toutes les informations visées à l'article 64bis, § 1er, alinéa 1er, dont celle-ci dispose ou qu'elle a obtenues à la suite d'une enquête administrative. La demande peut comprendre une demande motivée portant sur une enquête administrative.
+
+Pour obtenir les informations demandées, l'autorité compétente belge suit les mêmes procédures que si elle agissait d'initiative ou à la demande d'une autre instance belge.
+
+L'autorité compétente belge peut demander à l'autorité requise de lui communiquer les documents originaux.
+
+§ 2. L'autorité compétente belge communique à une autorité compétente étrangère qui les lui demande dans un cas particulier, toutes les informations visées à l'article 64bis, § 1er, alinéa 1er, dont elle dispose ou qu'elle a obtenues suite à l'exécution d'une enquête administrative nécessaire à l'obtention de ces informations.
+
+Le cas échéant, si l'autorité compétente belge estime qu'aucune enquête administrative n'est nécessaire, elle en communique immédiatement les raisons à l'autorité requérante.
+
+Pour procéder à l'enquête administrative demandée, l'autorité compétente belge suit les mêmes procédures que si elle agissait d'initiative ou à la demande d'une autre instance belge.
+
+En cas de demande expresse de l'autorité requérante, l'autorité compétente belge communique à l'autorité requérante les documents originaux sauf si les dispositions belges s'y opposent.
+
+§ 3. Aux fins d'une demande visée au paragraphe 1er ou au paragraphe 2, les informations demandées sont vraisemblablement pertinentes lorsque, au moment où la demande est formulée, l'autorité requérante estime que, conformément à son droit national, il existe une possibilité raisonnable que les informations demandées soient pertinentes pour les affaires fiscales d'un ou plusieurs contribuables, identifiés par leur nom ou autrement, et justifiées aux fins de l'enquête.
+
+Dans le but de démontrer la pertinence vraisemblable des informations demandées, l'autorité requérante fournit au moins les informations suivantes à l'autorité requise :
+
+1° la finalité fiscale des informations demandées; et
+
+2° la spécification des informations nécessaires à l'administration ou à l'application de son droit national.
+
+§ 4. Dans les cas où une demande visée au paragraphe 1er ou au paragraphe 2 concerne un groupe de contribuables qui ne peuvent pas être identifiés individuellement, l'autorité requérante fournit au moins les informations suivantes à l'autorité requise :
+
+1° une description détaillée du groupe;
+
+2° une explication du droit applicable et des faits sur la base desquels il existe des raisons de penser que les contribuables du groupe n'ont pas respecté le droit applicable;
+
+3° une explication de la manière dont les informations demandées contribueraient à déterminer le respect, par les contribuables du groupe, de leurs obligations; et
+
+4° le cas échéant, les faits et circonstances relatifs à l'intervention d'un tiers qui a activement contribué au non-respect potentiel du droit applicable par les contribuables du groupe ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 56, 030; En vigueur : 28-09-2023&gt;
+
+### Section 3. [<sup>1</sup> Délais de l'échange d'informations sur demande ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 57, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64quater
+
+[<sup>1</sup> [<sup>2</sup> L'autorité compétente belge fournit les informations visées à l'article 64ter, § 2, le plus rapidement possible, et au plus tard trois mois à compter de la date de réception de la demande. Toutefois, lorsque l'autorité compétente belge n'est pas en mesure de répondre à la demande dans le délai prévu, elle informe l'autorité requérante immédiatement, et en tout état de cause dans les trois mois suivant la réception de la demande, des motifs qui expliquent le non-respect de ce délai, ainsi que de la date à laquelle elle estime pouvoir répondre. Ce délai ne peut excéder six mois à compter de la date de réception de la demande ]<sup>2</sup>.
+
+[<sup>2</sup> Toutefois, lorsque l'autorité compétente belge est déjà en possession desdites informations, les informations sont communiquées dans un délai de deux mois suivant cette date]<sup>2</sup>.
+
+Pour certains cas particuliers, l'autorité compétente belge et l'autorité requérante peuvent fixer d'un commun accord des délais différents.
+
+L'autorité compétente belge accuse réception de la demande immédiatement à l'autorité requérante, si possible par voie électronique, et en tout état de cause au plus tard sept jours ouvrables après l'avoir reçue.
+
+L'autorité compétente belge notifie à l'autorité requérante les éventuelles lacunes constatées dans la demande ainsi que, le cas échéant, la nécessité de fournir d'autres renseignements de caractère général, dans un délai d'un mois suivant la réception de la demande. Dans ce cas, les délais fixés à l'alinéa 1er débutent à la date à laquelle l'autorité compétente belge a reçu les renseignements complémentaires.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Lorsque l'autorité compétente belge ne dispose pas des informations demandées et n'est pas en mesure de répondre à la demande d'informations ou refuse d'y répondre pour les motifs visés à [<sup>2</sup> l'article 64octies, § 3 et § 4, ]<sup>2</sup> elle informe l'autorité requérante de ses raisons immédiatement, et en tout état de cause dans un délai d'un mois suivant la réception de la demande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 58, 030; En vigueur : 28-09-2023&gt;
+
+### Section 4. - [<sup>1</sup> Echange automatique et obligatoire d'informations]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+### Sous -section 1ere. [<sup>1</sup> Champ d'application et conditions de l'échange automatique et obligatoire d'informations ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 59, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64quinquies
+
+[<sup>1</sup> § 1er. L'autorité compétente belge communique à l'autorité compétente d'un autre Etat membre, dans le cadre de l'échange automatique, toutes les informations dont elle dispose au sujet de résidents de cet autre Etat membre et qui concernent les catégories suivantes spécifiques de revenu et de capital au sens de la législation belge :
+
+1° revenus d'emploi;
+
+2° tantièmes et jetons de présence;
+
+3° produits d'assurance sur la vie non couverts par d'autres actes juridiques de l'Union concernant l'échange d'informations et d'autres mesures similaires;
+
+4° pensions;
+
+5° propriété et revenus de biens immobiliers;
+
+6° redevances.
+
+[<sup>2</sup> 7° revenus tirés de dividendes versés par l'intermédiaire d'un compte " non conservateur " autres que les revenus provenant de dividendes exonérés de l'impôt sur les sociétés en vertu des articles 4, 5 ou 6 de la directive 2011/96/UE du Conseil du 30 novembre 2011 concernant le régime fiscal commun applicable aux sociétés mères et filiales d'Etats membres différents, telle que transposée par la loi. ]<sup>2</sup>
+
+Pour les périodes imposables débutant le 1er janvier 2024 ou après cette date, l'autorité compétente belge s'efforce d'inclure, dans la communication des informations visées à l'alinéa 1er,[<sup>2</sup> le NI]<sup>2</sup> ", de résidents qui a été délivré par l'Etat membre de résidence.
+
+§ 2. La communication des informations est effectuée au moins une fois par an et, au plus tard, six mois après la fin de l'exercice fiscal au cours duquel les informations sont devenues disponibles ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 60, 030; En vigueur : 28-09-2023&gt;
+
+(2)&lt;DRW 2025-12-19/B4, art. 4, 035; En vigueur : 01-01-2026&gt;
+
+### Sous -section 2 [<sup>1</sup> Champ d'application et conditions de l'échange automatique et obligatoire d'informations sur les décisions fiscales anticipées en matière transfrontière ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 61, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64quinquies/1
+
+[<sup>1</sup> § 1er. L'autorité compétente belge qui émet, modifie ou renouvelle une décision fiscale anticipée en matière transfrontière après le 31 décembre 2016 communique, par échange automatique, des informations à ce sujet aux autorités compétentes de tous les autres Etats membres ainsi qu'à la Commission européenne, excepté dans les cas visés au paragraphe 6, conformément aux modalités pratiques adoptées en vertu de l'article 64octies.
+
+§ 2. L'autorité compétente belge communique également, conformément à l'article 64octies, des informations aux autorités compétentes de tous les autres Etats membres ainsi qu'à la Commission européenne, excepté dans les cas visés au paragraphe 6, sur les décisions fiscales anticipées en matière transfrontière, modifiés ou renouvelés au cours d'une période commençant cinq ans avant le 1er janvier 2017.
+
+Si les décisions fiscales anticipées en matière transfrontière sont émises, modifiées ou renouvelées entre le 1er janvier 2012 et le 31 décembre 2013, la communication est effectuée à condition que ces décisions ou accords fussent toujours valables au 1er janvier 2014.
+
+Si les décisions fiscales anticipées en matière transfrontière sont émises, modifiées ou renouvelées entre le 1er janvier 2014 et le 31 décembre 2016, la communication est effectuée, que ces décisions ou accords soient toujours valables ou non.
+
+§ 3 [<sup>3</sup> . Les paragraphes 1er et 2 ne s'appliquent pas dans le cas où une décision fiscale anticipée en matière transfrontière concerne et implique exclusivement les affaires fiscales d'une ou de plusieurs personnes physiques, sauf lorsque cette décision a été émise, modifiée ou renouvelée après le 1er janvier 2026 et lorsque :
+
+1° soit, le montant de l'opération ou de la série d'opérations sur laquelle porte la décision fiscale anticipée en matière transfrontière dépasse 1 500 000 euros ou un montant équivalent dans une autre devise, si un tel montant est visé dans la décision fiscale anticipée en matière transfrontière;
+
+2° soit, la décision fiscale anticipée en matière transfrontière détermine si une personne est ou non résidente fiscale dans l'Etat membre qui émet la décision.
+
+Aux fins du premier alinéa, 1°, et sans préjudice du montant visé dans la décision fiscale anticipée en matière transfrontière, dans une série d'opérations portant sur différents biens, services ou actifs, le montant de la décision anticipée en matière transfrontière comprend la valeur sous-jacente totale. Les montants ne sont pas agrégés si les mêmes biens, services ou actifs font l'objet de plusieurs transactions.
+
+Nonobstant le premier alinéa, 2°, l'échange d'informations sur les décisions fiscales anticipées en matière transfrontière concernant des personnes physiques n'inclut pas les décisions fiscales relatives à l'imposition à la source concernant les revenus d'emploi, les tantièmes et jetons de présence ou les pensions des non-résidents]<sup>3</sup>
+
+§ 4. L'échange d'informations est effectué comme suit :
+
+1°[<sup>2</sup> pour les informations échangées en application du § 1er : sans tarder après l'émission, la modification ou le renouvellement des décisions fiscales anticipées en matière transfrontière et au plus tard trois mois après la fin du semestre de l'année civile au cours duquel les décisions fiscales anticipées en matière transfrontière ont été émises, modifiées ou renouvelées]<sup>2</sup>;
+
+2° pour les informations échangées en application du paragraphe 2 : avant le 1er janvier 2018.
+
+§ 5. Les informations qui sont communiquées par l'autorité compétente en application des paragraphes 1er et 2, comprennent :
+
+1° [<sup>3</sup> 1° l'identification de la personne, autre qu'une personne physique, sauf lorsque la décision fiscale anticipée en matière transfrontière concerne une personne physique et est communiquée conformément aux paragraphes 1er et 3 et, le cas échéant, du groupe de personnes auquel celle-ci appartient ]<sup>3</sup>;
+
+2° [<sup>2</sup> un résumé de la décision fiscale anticipée en matière transfrontière, y compris une description des activités commerciales, opérations ou séries d'opérations concernées et toute autre information qui pourrait aider l'autorité compétente à évaluer un risque fiscal potentiel, sans donner lieu à la divulgation d'un secret commercial, industriel ou professionnel, d'un procédé commercial ou d'informations dont la divulgation serait contraire à l'ordre public ]<sup>2</sup>;
+
+3° les dates de l'émission, de la modification ou du renouvellement de la décision fiscale anticipée en matière transfrontière;
+
+4° la date de début de la période de validité de la décision fiscale anticipée en matière transfrontière, si elle est spécifiée;
+
+5° la date de la fin de la période de validité de la décision fiscale anticipée en matière transfrontière, si elle est spécifiée;
+
+6° le type de décision fiscale anticipée en matière transfrontière;
+
+7° le montant de l'opération ou de la série d'opérations sur laquelle porte la décision fiscale anticipée en matière transfrontière, si un tel montant est visé dans la décision fiscale anticipée en matière transfrontière;
+
+8° l'identification des autres Etats membres, le cas échéant, qui seraient susceptibles d'être concernés par la décision fiscale anticipée en matière transfrontière;
+
+9° [<sup>3</sup> l'identification, dans les autres Etats membres, le cas échéant, de toute personne, autre qu'une personne physique, sauf lorsque la décision fiscale anticipée en matière transfrontière concerne une personne physique et est communiquée conformément aux paragraphes 1er et 3, susceptible d'être concernée par la décision fiscale anticipée en matière transfrontière en indiquant à quels Etats membres les personnes concernées sont liées]<sup>3</sup>;
+
+10° une mention précisant si les informations communiquées sont basées sur la décision fiscale anticipée en matière transfrontière.
+
+§ 6. Les informations définies au paragraphe 5, 1°, 2° et 9°, ne sont pas communiquées à la Commission européenne.
+
+§ 7. Le Gouvernement [<sup>2</sup> ...]<sup>2</sup> détermine les modalités selon lesquelles l'autorité compétente visée au paragraphe 5, 8°, accuse réception des informations auprès de l'autorité compétente qui les lui a communiquées.
+
+§ 8. L'autorité compétente peut, conformément à l'article 64octies, demander des informations complémentaires, y compris le texte intégral d'une décision fiscale anticipée en matière transfrontière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2017-07-12/12, art. 3, 017; En vigueur : 01-09-2017&gt;
+
+(2)&lt;DRW 2023-07-12/11, art. 2, 030; En vigueur : 28-09-2023&gt;
+
+(3)&lt;DRW 2025-12-19/B4, art. 5, 035; En vigueur : 01-01-2026&gt;
+
+### Sous -section 3 [<sup>1</sup> Champ d'application et conditions de l'échange automatique et obligatoire d'informations relatives aux dispositifs transfrontières devant faire l'objet d'une déclaration ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 65, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64quinquies/2
+
+[<sup>1</sup> § 1er. Les intermédiaires transmettent à l'autorité compétente belge les informations dont ils ont connaissance, qu'ils possèdent ou qu'ils contrôlent concernant les dispositifs transfrontières devant faire l'objet d'une déclaration dans un délai de trente jours, à compter du cas mentionné ci-dessous qui intervient en premier :
+
+1° le lendemain de la mise à disposition aux fins de mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+2° le lendemain du jour où le dispositif transfrontière devant faire l'objet d'une déclaration est prêt à être mis en oeuvre ;
+
+3° lorsque la première étape de la mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration a été accomplie.
+
+Nonobstant l'alinéa 1er, les intermédiaires visés à l'article 64bis, § 1er, alinéa 4, 22°, alinéa 2, transmettent également des informations dans un délai de trente jours commençant le lendemain du jour où ils ont fourni, directement ou par l'intermédiaire d'autres personnes, une aide, une assistance ou des conseils.
+
+§ 2. Dans le cas de dispositifs commercialisables, les intermédiaires établissent tous les trois mois un rapport fournissant une mise à jour contenant les nouvelles informations devant faire l'objet d'une déclaration visées [<sup>3</sup> au paragraphe 14, alinéa 1er, 1°, 4°, 7° et 8°, et alinéas 2 et 3]<sup>3</sup>, qui sont devenues disponibles depuis la transmission du dernier rapport.
+
+§ 3. Lorsque l'intermédiaire a l'obligation de transmettre des informations concernant des dispositifs transfrontières devant faire l'objet d'une déclaration aux autorités compétentes de plusieurs Etats membres, ces informations sont transmises à l'autorité compétente belge visée à l'article 64bis, paragraphe 1er, alinéa 4, 6°, uniquement si la Région wallonne occupe la première place dans la liste ci-après, lorsque l'objet du dispositif en question relève d'un impôt dont la Région wallonne assure le service :
+
+1° l'intermédiaire est résident à des fins fiscales en Région wallonne ;
+
+2° l'intermédiaire possède en Région wallonne un établissement stable par l'intermédiaire duquel les services concernant le dispositif sont fournis ;
+
+3° l'intermédiaire est constitué ou est régi par le droit de la Région wallonne ;
+
+4° l'intermédiaire est enregistré en Région wallonne auprès d'une association professionnelle en rapport avec des services juridiques, fiscaux ou de conseil.
+
+§ 4. Lorsque, en application du paragraphe 3, il existe une obligation de déclaration multiple, l'intermédiaire est dispensé de la transmission des informations s'il peut prouver que ces mêmes informations ont été transmises dans un autre Etat membre.
+
+§ 5. [<sup>3</sup> . Les intermédiaires sont dispensés de l'obligation de fournir des informations concernant un dispositif transfrontière devant faire l'objet d'une déclaration, lorsque l'obligation de déclaration serait contraire au secret professionnel applicable en vertu de la loi.
+
+En pareil cas, tout intermédiaire auquel une dispense a été accordée, notifie, sans retard, à son client, si celui-ci est un intermédiaire ou, en l'absence d'un tel intermédiaire, si ce client est le contribuable concerné, les obligations de déclaration qui incombent audit client en vertu du paragraphe 6.
+
+Les intermédiaires sont dispensés en vertu de l'alinéa 1er uniquement dans la mesure où ils agissent dans les limites de la législation qui définit leurs professions. ]<sup>3</sup>
+
+§ 6. Lorsqu'il n'existe pas d'intermédiaire ou que l'intermédiaire notifie l'application d'une dispense en vertu du paragraphe 5 au contribuable concerné ou à un autre intermédiaire, l'obligation de transmettre des informations sur un dispositif transfrontière devant faire l'objet d'une déclaration relève de la responsabilité de l'autre intermédiaire qui a été notifié, ou, en l'absence d'un tel intermédiaire, du contribuable concerné.
+
+§ 7. Le contribuable concerné à qui incombe l'obligation de déclaration transmet les informations dans un délai de trente jours, commençant le lendemain du jour où le dispositif transfrontière devant faire l'objet d'une déclaration est mis à la disposition du contribuable concerné aux fins de mise en oeuvre, ou est prêt à être mis en oeuvre par le contribuable concerné, ou lorsque la première étape de sa mise en oeuvre est accomplie en ce qui concerne le contribuable concerné, la date intervenant le plus tôt étant retenue.
+
+Lorsque le contribuable concerné a l'obligation de transmettre des informations concernant le dispositif transfrontière devant faire l'objet d'une déclaration aux autorités compétentes de plusieurs Etats membres, ces informations sont transmises à l'autorité compétente belge visée à l'article 64bis, paragraphe 1er, alinéa 4, 6°, uniquement si la Région wallonne occupe la première place dans la liste ci-après, lorsque l'objet du dispositif en question relève d'un impôt dont la Région wallonne assure le service :
+
+1° le contribuable concerné est résident à des fins fiscales en Région wallonne ;
+
+2° le contribuable concerné possède en Région wallonne un établissement stable qui bénéficie du dispositif ;
+
+3° le contribuable concerné perçoit des revenus en Région wallonne ou y réalise des bénéfices, bien qu'il ne soit résident à des fins fiscales et ne possède d'établissement stable dans aucun Etat membre ;
+
+4° le contribuable concerné exerce une activité en Région wallonne, bien qu'il ne soit résident à des fins fiscales et ne possède d'établissement stable dans aucun Etat membre.
+
+§ 8. Lorsque, en application du paragraphe 7, il existe une obligation de déclaration multiple, le contribuable concerné est dispensé de la transmission des informations s'il peut prouver que ces mêmes informations ont été transmises dans un autre Etat membre.
+
+§ 9. Lorsqu'il existe plus d'un intermédiaire, l'obligation de transmettre des informations sur le dispositif transfrontière devant faire l'objet d'une déclaration incombe à l'ensemble des intermédiaires participant à un même dispositif transfrontière devant faire l'objet d'une déclaration.
+
+Un intermédiaire est uniquement dispensé de l'obligation de transmettre des informations dans la mesure où il peut prouver que ces mêmes informations, visées au paragraphe 14, ont déjà été transmises par un autre intermédiaire.
+
+§ 10. Lorsque l'obligation de déclaration incombe au contribuable concerné et qu'il existe plusieurs contribuables concernés, celui d'entre eux qui transmet les informations conformément au paragraphe 6 est celui qui occupe la première place dans la liste ci-après :
+
+1° le contribuable concerné qui a arrêté avec l'intermédiaire le dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+2° le contribuable concerné qui gère la mise en oeuvre du dispositif.
+
+Tout contribuable concerné est dispensé de l'obligation de transmettre les informations uniquement dans la mesure où il peut prouver que ces mêmes informations, visées au paragraphe 14, ont déjà été transmises par un autre contribuable concerné.
+
+§ 11. Les intermédiaires et les contribuables concernés fournissent des informations sur les dispositifs transfrontières devant faire l'objet d'une déclaration dont la première étape a été mise en oeuvre entre le 25 juin 2018 et le 1er juillet 2020. Les intermédiaires et les contribuables concernés, le cas échéant, transmettent des informations sur ces dispositifs transfrontières devant faire l'objet d'une déclaration, au plus tard le 31 août 2020.
+
+§ 12. L'autorité compétente belge peut prendre les mesures nécessaires pour que chaque contribuable concerné transmette à l'administration fiscale les informations concernant l'utilisation qu'il fait du dispositif pour chacune des années où il l'utilise.
+
+L'autorité compétente belge bénéficie de tous les pouvoirs d'investigation et de contrôle prévus par le présent décret pour vérifier le respect des dispositions prévues au présent article.
+
+§ 13. L'autorité compétente belge communique les informations visées au paragraphe 14 concernant les dispositifs transfrontières dont elle a été informée par l'intermédiaire ou le contribuable concerné conformément aux paragraphes 1er à 12, par voie d'un échange automatique d'informations aux autorités compétentes de tous les autres Etats membres, selon les modalités visées à l'article 64octies, § 8.
+
+§ 14. Les informations qui doivent être communiquées par l'autorité compétente belge conformément au paragraphe 13, comprennent les éléments suivants, le cas échéant :
+
+1° l'identification des intermédiaires [<sup>3</sup> , autres que les intermédiaires dispensés de l'obligation de déclaration en raison du secret professionnel auquel ils sont tenus en application du paragraphe 5, ]<sup>3</sup> et des contribuables concernés, y compris leur nom, leur date et lieu de naissance pour les personnes physiques, leur résidence fiscale, [<sup>3</sup> leur NIF ]<sup>3</sup>et, le cas échéant, les personnes qui sont des entreprises associées au contribuable concerné ;
+
+2° des informations détaillées sur les marqueurs recensés à l'annexe IV de la Directive selon lesquels le dispositif transfrontière doit faire l'objet d'une déclaration ;
+
+3° un résumé du contenu du dispositif transfrontière devant faire l'objet d'une déclaration, y compris une référence à la dénomination par laquelle il est communément connu, le cas échéant, et une description des activités commerciales ou dispositifs pertinents, présentée de manière abstraite, sans donner lieu à la divulgation d'un secret commercial, industriel ou professionnel, d'un procédé commercial ou d'informations dont la divulgation serait contraire à l'ordre public ;
+
+4° la date à laquelle la première étape de la mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration a été accomplie ou sera accomplie ;
+
+5° des informations détaillées sur les dispositions nationales sur lesquelles se fonde le dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+6° la valeur du dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+7° l'identification de l'Etat membre du ou des contribuables concernés, ainsi que de tout autre Etat membre susceptible d'être concerné par le dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+8° l'identification, dans les Etats membres, de toute autre personne susceptible d'être concernée par le dispositif transfrontière devant faire l'objet d'une déclaration en indiquant à quels Etats membres cette personne est liée.
+
+§ 15. Le fait qu'une autorité fiscale ne réagit pas face à un dispositif devant faire l'objet d'une déclaration ne vaut pas approbation de la validité ou du traitement fiscal de ce dispositif.
+
+§ 16. L'échange automatique d'informations est effectué dans un délai d'un mois à compter de la fin du trimestre au cours duquel les informations ont été transmises. Les premières informations sont communiquées le 31 octobre 2020 au plus tard.
+
+§ 17.[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-10-01/19, art. 5, 023; En vigueur : 01-07-2020&gt; (NOTE : par son arrêt n° 45/2021 du 11-03-2021 (2021-03-11/05, M.B. 16-03-2021, p. 22007), la Cour constitutionnelle a suspendu les alinéas 1 et 3 du § 5 du présent article inséré)
+
+(2)&lt;DRW 2023-07-12/11, art. 64, 030; En vigueur : 28-09-2023&gt;
+
+(3)&lt;DRW 2025-12-19/B4, art. 6, 035; En vigueur : 01-01-2026&gt;
+
+### Sous -section 4 [<sup>1</sup> Champ d'application et conditions de l'échange automatique et obligatoire des informations déclarées par les Opérateurs de Plateformes ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 65, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64quinquies/3
+
+[<sup>1</sup> § 1er. Aux fins des articles 64quinquies/4 à 64quinquies/8, on entend par :
+
+A. Opérateurs de Plateformes déclarants
+
+1° " Plateforme " : tout logiciel, y compris tout ou partie d'un site internet, ainsi que les applications, y compris les applications mobiles, qui sont accessibles aux utilisateurs et qui permettent aux Vendeurs d'être connectés à d'autres utilisateurs afin d'exercer, directement ou indirectement, une Activité concernée destinée à ces autres utilisateurs. Il inclut également tout mécanisme de perception et de paiement d'une Contrepartie pour l'Activité concernée.
+
+Le terme " Plateforme " n'englobe pas les logiciels qui, sans intervenir autrement dans l'exercice d'une Activité concernée, permettent exclusivement :
+
+a) de traiter les paiements liés à l'Activité concernée;
+
+b) aux utilisateurs, de répertorier une Activité concernée ou d'en faire la publicité;
+
+c) de rediriger ou de transférer les utilisateurs vers une Plateforme;
+
+2° " Opérateur de Plateforme " : une Entité concluant un contrat avec des Vendeurs pour mettre à la disposition de ces derniers tout ou partie d'une Plateforme;
+
+3° " Opérateur de Plateforme exclu " : un Opérateur de Plateforme qui a démontré d'avance et démontre sur une base annuelle que l'ensemble du modèle commercial de ladite Plateforme est tel qu'il ne compte aucun Vendeur à déclarer, et ce à la satisfaction de l'autorité compétente de l'Etat membre auquel, conformément aux règles énoncées à l'article 64quinquies/6, § 1er, 1° à 3°, il aurait dû communiquer des informations;
+
+4° " Opérateur de Plateforme déclarant " : tout Opérateur de Plateforme, autre qu'un Opérateur de Plateforme exclu, se trouvant dans l'une des situations suivantes :
+
+a) il est résident fiscal en Région wallonne ou, lorsque ledit Opérateur de Plateforme n'a pas de résidence fiscale dans un Etat membre, remplit l'une des conditions suivantes :
+
+\- il est constitué ou régi par le droit de la Région wallonne;
+
+\- son siège de direction (y compris son siège de direction effective) se trouve sur le territoire de la Région wallonne;
+
+\- il possède un établissement stable sur le territoire de la Région wallonne et n'est pas un Opérateur de Plateforme qualifié hors Union.
+
+Si un Opérateur de Plateforme est résident fiscal dans plus d'un Etat membre ou possède un établissement stable dans plus d'un Etat membre, il choisit l'un de ces Etats membres pour s'acquitter des obligations de déclaration qui lui incombent et qui sont visées par l'Annexe V, Section III, à la directive. L'Opérateur de Plateforme notifie son choix à l'ensemble des autorités compétentes de ces Etats membres. Lorsque cet Opérateur de Plateforme choisit de s'acquitter en Belgique de ses obligations précitées de déclaration, il est considéré comme un Opérateur de Plateforme déclarant au sens des articles 64quinquies/4 à 64quinquies/8;
+
+b) il n'est ni résident fiscal d'un Etat membre, ni constitué ou géré dans un Etat membre, ni ne possède d'établissement stable dans un Etat membre, mais il facilite l'exercice d'une Activité concernée par des Vendeurs à déclarer ou une Activité concernée consistant en la location de biens immobiliers situés dans un Etat membre et n'est pas un Opérateur de Plateforme qualifié hors Union. Dans ce cas, cet Opérateur de Plateforme est tenu de s'enregistrer dans l'Union et, lorsque cet Opérateur de Plateforme choisit de s'enregistrer auprès de l'autorité compétente belge, l'autorité compétente belge attribue un numéro d'identification individuel à cet Opérateur de Plateforme et il est considéré comme un Opérateur de Plateforme déclarant au sens des articles 64quinquies/4 à 64quinquies/8.
+
+Un Opérateur de Plateforme déclarant peut choisir de s'enregistrer auprès de l'autorité compétente d'un seul Etat membre, suivant les règles de procédure du § 2 lorsqu'il choisit de s'enregistrer en Belgique.
+
+Un tel Opérateur de Plateforme déclarant dont l'enregistrement a été révoqué conformément au § 2, 7°, [<sup>2</sup> ou conformément à une disposition analogue d'un autre Etat membre,]<sup>2</sup> ne peut être autorisé à se réenregistrer qu'à la condition de fournir à l'autorité compétente belge des garanties suffisantes de son engagement à remplir les obligations en matière de déclaration au sein de l'Union, y compris celles auxquelles il ne s'est pas encore conformé;
+
+5° " Opérateur de Plateforme qualifié hors Union " : un Opérateur de Plateforme facilitant des Activités concernées qui sont toutes également des Activités concernées qualifiées et qui est résident fiscal d'une Juridiction qualifiée hors Union ou, s'il n'a pas de résidence fiscale dans une Juridiction qualifiée hors Union, qui remplit l'une des conditions suivantes :
+
+a) il est constitué conformément à la législation d'une Juridiction qualifiée hors Union; ou
+
+b) son siège de direction (y compris son siège de direction effective) se trouve dans une Juridiction qualifiée hors Union;
+
+6° " Juridiction qualifiée hors Union " : une juridiction hors Union qui a conclu un accord éligible en vigueur entre autorités compétentes avec les autorités compétentes de tous les Etats membres identifiés comme étant des juridictions devant faire l'objet d'une déclaration dans une liste publiée par la juridiction hors Union;
+
+7° " Accord éligible en vigueur entre autorités compétentes " : un accord entre les autorités compétentes d'un Etat membre et une juridiction hors Union et qui impose l'échange automatique et obligatoire d'informations équivalentes à celles spécifiés à l'article 64quinquies/6, § 2, confirmé par un acte d'exécution conformément à l'article 8bisquater, § 7, de la directive;
+
+8° " Activité concernée " : une activité exercée en échange d'une Contrepartie et consistant en :
+
+a) la location de biens immobiliers, y compris à usage résidentiel et commercial, ainsi que tout autre bien immeuble et emplacement de stationnement;
+
+b) un Service personnel;
+
+c) la vente de Biens;
+
+d) la location de tout mode de transport.
+
+Le terme " Activité concernée " n'inclut pas les activités exercées par un Vendeur agissant en qualité d'employé de l'Opérateur de Plateforme déclarant ou d'une Entité liée à l'Opérateur de Plateforme;
+
+9° " Activité concernée qualifiée " : toute Activité concernée soumise à l'échange automatique en vertu d'un Accord éligible en vigueur entre autorités compétentes;
+
+10° " Contrepartie " : une compensation, sous quelque forme que ce soit, hors frais, commissions ou taxes retenus ou prélevés par l'Opérateur de Plateforme déclarant, qui est versée ou créditée à un Vendeur dans le cadre de l'Activité concernée, dont le montant est connu ou peut être raisonnablement connu de l'Opérateur de Plateforme;
+
+11° " Service personnel " : un service correspondant à un travail à l'heure ou à la tâche qui est exécuté par une ou plusieurs personnes physiques agissant soit de manière indépendante soit pour le compte d'une Entité, et qui est fourni à la demande d'un utilisateur, soit en ligne soit physiquement hors ligne, après avoir été facilité par l'intermédiaire d'une Plateforme.
+
+B. Vendeurs à déclarer
+
+1° " Vendeur " : un utilisateur de Plateforme, qu'il s'agisse d'une personne physique ou d'une Entité, qui est enregistré sur la Plateforme à tout moment au cours de la Période de déclaration et qui exerce l'Activité concernée;
+
+2° " Vendeur actif " : tout Vendeur qui fournit une Activité concernée au cours de la Période de déclaration ou à qui est versée ou créditée une Contrepartie pour une Activité concernée au cours de la Période de déclaration;
+
+3° " Vendeur à déclarer " : tout Vendeur actif, autre qu'un Vendeur exclu, qui est résident d'un Etat membre ou qui a donné en location des biens immobiliers situés dans un Etat membre; 4° " Vendeur exclu " : tout Vendeur : a) qui est une Entité publique;
+
+b) qui est une Entité dont les actions font l'objet de transactions régulières sur un marché boursier réglementé ou une Entité liée à une Entité dont les actions font l'objet de transactions régulières sur un marché boursier réglementé;
+
+c) qui est une Entité pour laquelle l'Opérateur de la Plateforme a facilité, au moyen de la location de biens immobiliers, plus de 2 000 Activités concernées en lien avec un Lot au cours de la Période de déclaration; ou
+
+d) pour lequel l'Opérateur de Plateforme a facilité, au moyen de la vente de Biens, moins de 30 Activités concernées, pour lesquelles le montant total de la Contrepartie versée ou créditée n'a pas dépassé 2 000 euros au cours de la Période de déclaration.
+
+C. Autres définitions
+
+1° " Entité " : une personne morale ou une construction juridique, telle qu'une société de capitaux, une société de personnes, un trust ou une fondation. Une Entité est une Entité liée à une autre Entité si l'une des deux Entités contrôle l'autre ou si ces deux Entités sont placées sous un contrôle conjoint. A ce titre, le contrôle comprend la participation directe ou indirecte supérieure à 50% des droits de vote ou de la valeur d'une Entité. Dans le cas d'une participation indirecte, le respect de l'exigence relative à la détention de plus de 50% du droit de propriété dans le capital de l'autre Entité est déterminé en multipliant les taux de détention successivement aux différents niveaux. Une personne détenant plus de 50% des droits de vote est réputée détenir 100% de ces droits;
+
+2° " Entité publique " : le Gouvernement d'un Etat membre ou d'une autre juridiction, une subdivision politique d'un Etat membre ou d'une autre juridiction (ce qui comprend un Etat, une province, un comté ou une municipalité) ou tout établissement ou organisme détenu intégralement par les entités précitées (chacun constituant une " Entité publique ");
+
+3° [<sup>3</sup> ...]<sup>3</sup>
+
+4° " Numéro d'identification T.V.A. " : le numéro unique qui identifie un assujetti ou une entité juridique non assujettie qui sont enregistrés aux fins de la taxe sur la valeur ajoutée;
+
+5° " Adresse principale " : l'adresse de la résidence principale d'un Vendeur ayant la qualité de personne physique et l'adresse du siège social d'un Vendeur ayant la qualité d'Entité;
+
+6° " Période de déclaration " : l'année civile pour laquelle la déclaration est effectuée conformément à l'article 64quinquies/6;
+
+7° " Lot " : toutes les unités immobilières situées à la même adresse, appartenant au même propriétaire et proposées à la location sur une Plateforme par le même Vendeur;
+
+8° " Identifiant du compte financier " : le numéro ou la référence d'identification unique du compte bancaire, ou de tout autre compte de services de paiement similaire, sur lequel la Contrepartie est versée ou créditée, dont dispose l'Opérateur de Plateforme;
+
+9° " Bien " : tout bien corporel.
+
+[<sup>3</sup> " Service d'identification " : un processus électronique mis gratuitement à la disposition d'un opérateur de plateforme déclarant par un Etat membre ou par l'Union afin d'établir l'identité et la résidence fiscale d'un vendeur.]<sup>3</sup>
+
+§ 2. Aux fins du paragraphe 1er, point A., 4°, b), lorsque l'Opérateur de Plateforme y visé choisit de s'enregistrer auprès de l'autorité compétente belge, la procédure administrative pour l'enregistrement unique de cet Opérateur de Plateforme est la suivante :
+
+1° l'Opérateur de Plateforme s'enregistre auprès de l'autorité compétente belge, lorsqu'il débute son activité d'Opérateur de Plateforme;
+
+2° l'Opérateur de Plateforme déclarant communique à l'autorité compétente belge les informations suivantes :
+
+a) nom;
+
+b) adresse postale;
+
+c) adresses électroniques, sites internet inclus;
+
+d) tout NIF délivré à l'Opérateur de Plateforme déclarant;
+
+e) déclaration comprenant des informations concernant l'identification du dit Opérateur de Plateforme déclarant à la T.V.A. au sein de l'Union, conformément au titre XII, chapitre 6, sections 2 et 3, de la directive européenne 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée;
+
+f) les Etats membres desquels les Vendeurs à déclarer sont résidents, conformément à l'article 64quinquies/5, point D;
+
+3° l'Opérateur de Plateforme déclarant notifie à l'autorité compétente belge toute modification des informations prévues au 2° ;
+
+4° l'autorité compétente belge attribue un numéro d'identification individuel à l'Opérateur de Plateforme déclarant et le notifie aux autorités compétentes de tous les Etats membres par voie électronique;
+
+5° l'autorité compétente belge [<sup>3</sup> radie ]<sup>3</sup> l'Opérateur de Plateforme déclarant du registre central dans les cas suivants:
+
+a) l'Opérateur de Plateforme notifie à l'autorité compétente belge qu'il n'exerce plus aucune activité en tant qu'Opérateur de Plateforme;
+
+b) en l'absence de notification en vertu du a), il existe des raisons de supposer que l'activité de l'Opérateur de Plateforme a cessé;
+
+c) l'Opérateur de Plateforme ne remplit plus les conditions établies au paragraphe 1er, point A., 4°, b);
+
+d) l'autorité compétente belge a révoqué l'enregistrement conformément au 7° ;
+
+6° l'autorité compétente belge notifie immédiatement la Commission européenne de tout Opérateur de Plateforme, au sens du paragraphe 1er, point A., 4°, b), qui commence son activité en tant qu'Opérateur de Plateforme sans s'être enregistré conformément au présent paragraphe;
+
+7° lorsqu'un Opérateur de Plateforme déclarant ne satisfait pas à l'obligation de déclaration prévue à l'article 64quinquies/6, § 1er, 3°, après deux rappels adressés par l'autorité compétente belge, l'autorité compétente belge prend, sans préjudice de l'article 63, § 2, 6°, les mesures nécessaires pour révoquer l'enregistrement de l'opérateur de la plateforme déclarant effectué conformément au présent paragraphe. L'enregistrement est révoqué au plus tard après l'expiration d'un délai de nonante jours, mais pas avant l'expiration d'un délai de trente jours après le deuxième rap ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 66, 030; En vigueur : 28-09-2023&gt;
+
+(2)&lt;DRW 2025-02-27/05, art. 1, 034; En vigueur : 28-09-2023&gt;
+
+(3)&lt;DRW 2025-12-19/B4, art. 7, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64quinquies/4
+
+[<sup>1</sup> § 1er. Les Opérateurs de Plateformes déclarants accomplissent les procédures de diligence raisonnable et remplissent les obligations de déclaration énoncées aux articles 64quinquies/5 et 64quinquies/6, en conformité avec les articles 64quinquies/7 et 64quinquies/8 réglant leur mise en oeuvre effective.
+
+§ 2. Conformément aux procédures de diligence raisonnable et aux obligations de déclaration figurant aux articles 64quinquies/5 et 64quinquies/6, l'autorité compétente d'un Etat membre dans lequel la déclaration conformément au paragraphe 1er a été effectuée communique, au moyen d'un échange automatique et dans le délai fixé au paragraphe 3, à l'autorité compétente de l'Etat membre duquel le Vendeur à déclarer est résident, déterminé conformément à l'article 64quinquies/5, point D., et, dans les cas où le Vendeur à déclarer fournit des services de location de biens immobiliers, en tout état de cause à l'autorité compétente de l'Etat membre dans lequel les biens immobiliers sont situés, les informations suivantes concernant chaque Vendeur à déclarer :
+
+a) le nom, l'adresse du siège social, le NIF et, le cas échéant, le numéro d'identification individuelle attribué conformément à l'article 64quinquies/3, § 1er, point A., 4°, b), alinéa 2, de l'Opérateur de Plateforme déclarant, ainsi que la ou les raisons commerciales de la ou des Plateformes pour lesquelles l'Opérateur de Plateforme déclarant effectue la déclaration;
+
+b) le prénom et le nom du Vendeur à déclarer s'il s'agit d'une personne physique, et la dénomination sociale du Vendeur à déclarer ayant la qualité d'Entité;
+
+c) l'Adresse principale;
+
+d) tout NIF du Vendeur à déclarer, comprenant la mention de chaque Etat-membre d'émission, ou en l'absence de NIF, le lieu de naissance du Vendeur à déclarer ayant la qualité de personne physique;
+
+e) le numéro d'immatriculation d'entreprise du Vendeur à déclarer ayant la qualité d'Entité;
+
+f) le numéro d'identification T.V.A. du Vendeur à déclarer, le cas échéant;
+
+g) la date de naissance du Vendeur ayant la qualité de personne physique;
+
+h) l'Identifiant du compte financier sur lequel la Contrepartie est versée ou créditée, dans la mesure où celui-ci est disponible pour l'Opérateur de Plateforme déclarant et où l'autorité compétente de l'Etat membre duquel le Vendeur à déclarer est résident au sens de l'article 64quinquies/5, point D., n'a pas notifié aux autorités compétentes de tous les autres Etats membres qu'elle n'a pas l'intention d'utiliser l'Identifiant du compte financier à cette fin;
+
+i) lorsqu'il diffère du nom du Vendeur à déclarer, en plus de l'Identifiant du compte financier, le nom du titulaire du compte financier sur lequel la Contrepartie est versée ou créditée, dans la mesure où l'Opérateur de Plateforme déclarant en dispose, ainsi que toute autre information d'identification financière dont dispose l'Opérateur de Plateforme déclarant en ce qui concerne le titulaire de ce compte;
+
+j) chaque Etat membre duquel le Vendeur à déclarer est résident, déterminé conformément à l'article 64quinquies/5, point D.;
+
+k) le montant total de la Contrepartie versée ou créditée au cours de chaque trimestre de la Période de déclaration et le nombre d'Activités concernées pour lesquelles elle a été versée ou créditée;
+
+l) tous frais, commissions ou taxes retenus ou prélevés par la Plateforme déclarante au cours de chaque trimestre de la Période de déclaration.
+
+[<sup>2</sup> m) l'identifiant du Service d'identification et l'Etat membre de délivrance, lorsque l'opérateur de plateforme déclarant s'appuie sur une confirmation directe de l'identité et de la résidence du vendeur obtenue par l'intermédiaire d'un Service d'identification mis à disposition par l'autorité compétente belge ou par l'Union pour établir l'identité et la résidence fiscale du vendeur. Si l'on se trouve dans ce cas, il n'est pas nécessaire de communiquer à l'Etat membre de délivrance de l'identifiant du Service d'identification les informations visées aux points c) à g)]<sup>2</sup>
+
+Lorsque le Vendeur à déclarer fournit des services de location de biens immobiliers, les informations supplémentaires suivantes sont communiquées :
+
+a) l'adresse de chaque Lot, déterminée sur la base des procédures prévues à l'article 64quinquies/5, point E., et le numéro d'enregistrement foncier correspondant ou son équivalent dans le droit national de l'Etat membre où il se situe, s'il est disponible;
+
+b) le montant total de la Contrepartie versée ou créditée au cours de chaque trimestre de la Période de déclaration et le nombre d'Activités concernées réalisées en lien avec chaque Lot;
+
+c) le cas échéant, le nombre de jours de location pour chaque Lot au cours de la Période de déclaration et le type correspondant à chacun de ces Lots.
+
+§ 3. La communication prévue au paragraphe 2 est effectuée à l'aide du format informatique standard conçu pour faciliter cet échange automatique adopté par la Commission européenne, conformément aux articles 20, § 4, et 26, § 2, de la directive, dans les deux mois qui suivent la fin de la Période de déclaration à laquelle se rapportent les obligations de déclaration applicables à l'Opérateur de Plateforme déclarant. Les premières informations sont communiquées pour les Périodes devant faire l'objet d'une déclaration à partir du 1er janvier 2023.
+
+§ 4. Lorsqu'un Opérateur de Plateforme est considéré comme un Opérateur de Plateforme exclu, l'autorité compétente de l'Etat membre dans lequel la démonstration visée à l'article 64quinquies/3, § 1er, point A., 3°, a été fournie, en informe les autorités compétentes de tous les autres Etats membres, ainsi que de toute modification ultérieure. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 67, 030; En vigueur : 28-09-2023&gt;
+
+(2)&lt;DRW 2025-12-19/B4, art. 8, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64quinquies/5
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup> Les procédures de diligence raisonnable décrites ci-après s'appliquent aux fins de l'identification des Vendeurs à déclarer.
+
+A. Vendeurs non soumis à examen
+
+Afin de déterminer si un Vendeur ayant la qualité d'Entité peut être considéré comme un Vendeur exclu visé par l'article 64quinquies/3, § 1er, point B., 4°, a) et b), l'Opérateur de Plateforme déclarant peut s'appuyer sur les informations publiquement accessibles ou sur une confirmation émanant du Vendeur ayant la qualité d'Entité.
+
+Afin de déterminer si un Vendeur peut être considéré comme un Vendeur exclu visé par l'article 64quinquies/3, § 1er, point B., 4°, c) et d), un Opérateur de Plateforme déclarant peut s'appuyer sur les registres dont il dispose.
+
+B. Collecte des informations relatives au Vendeur
+
+1° pour chaque Vendeur personne physique n'ayant pas la qualité de Vendeur exclu, l'Opérateur de Plateforme déclarant collecte toutes les informations suivantes :
+
+a) les nom et prénom;
+
+b) l'Adresse principale;
+
+c) tout NIF délivré à ce Vendeur, accompagné de la mention de chaque Etat membre de délivrance, et, en l'absence de NIF, le lieu de naissance dudit Vendeur;
+
+d) le numéro d'identification T.V.A. de ce Vendeur, le cas échéant;
+
+e) la date de naissance;
+
+2° pour chaque Vendeur ayant la qualité d'Entité sans être un Vendeur exclu, l'Opérateur de Plateforme déclarant collecte toutes les informations suivantes :
+
+a) la dénomination sociale;
+
+b) l'Adresse principale;
+
+c) tout NIF délivré à ce Vendeur, accompagné de la mention de chaque Etat membre de délivrance;
+
+d) le numéro d'identification T.V.A. de ce Vendeur, le cas échéant;
+
+e) le numéro d'immatriculation d'entreprise;
+
+f) l'existence de tout établissement stable par l'intermédiaire duquel les Activités concernées sont exercées dans l'Union, le cas échéant, avec indication de chaque Etat membre dans lequel se trouve un établissement stable;
+
+3°[<sup>2</sup> ...]<sup>2</sup>
+
+4° nonobstant le 1°, c), et le 2°, c) et e), l'Opérateur de Plateforme déclarant n'est pas tenu de recueillir le NIF ou le numéro d'immatriculation d'entreprise, selon le cas, dans les situations suivantes :
+
+a) l'Etat membre de résidence du Vendeur ne délivre pas de NIF ni de numéro d'immatriculation d'entreprise au Vendeur;
+
+b) l'Etat membre de résidence du Vendeur n'exige pas que soit recueilli le NIF délivré au Vendeur.
+
+C. Vérification des informations relatives aux Vendeurs
+
+1° l'Opérateur de Plateforme déclarant détermine si les informations recueillies en application du point A., du point B., 1°, du point B., 2°, a) à e), et du point E. sont fiables, en exploitant l'ensemble des informations et des documents dont il dispose dans ses registres, ainsi que toute interface électronique mise à disposition gratuitement par un Etat membre ou par l'Union en vue de vérifier la validité du NIF et/ou du numéro d'identification T.V.A.;
+
+2° nonobstant le 1°, aux fins de l'accomplissement des procédures de diligence raisonnable conformément au point F., 2°, l'Opérateur de Plateforme déclarant peut déterminer si les informations collectées en application du point A., du point B., 1°, du point B., 2°, a) à e), et du point E. sont fiables en exploitant les informations et documents dont il dispose dans ses registres interrogeables en ligne;
+
+3° nonobstant les 1° et 2°, en application du point F., 3°, b), dans les cas où l'Opérateur de Plateforme déclarant a tout lieu de savoir qu'un des éléments d'information décrits au point B. ou au point E. est susceptible d'être inexact en raison des informations fournies par l'autorité compétente d'un Etat membre dans une demande concernant un Vendeur précis, il demande au Vendeur de corriger les éléments d'information qui se sont révélés incorrects et de fournir des documents justificatifs, des données ou des informations fiables et émanant d'une source indépendante, tels que :
+
+a) un document d'identification délivré par les autorités nationales, en cours de validité;
+
+b) un certificat de résidence fiscale récent.
+
+D. Détermination de l'Etat membre ou des Etats membres de résidence du Vendeur
+
+1° l'Opérateur de Plateforme déclarant considère le Vendeur comme résident de l'Etat membre dans lequel le Vendeur a son Adresse principale. Lorsque l'Etat membre de résidence est différent de celui où le Vendeur a son Adresse principale, l'Opérateur de Plateforme déclarant considère que le Vendeur est également résident de l'Etat membre de délivrance du NIF. Lorsque le Vendeur a fourni des informations relatives à l'existence d'un établissement stable en vertu du point B., 2°, f), l'Opérateur de Plateforme déclarant considère que le Vendeur est également résident de l'Etat membre correspondant indiqué par le Vendeur;
+
+2° nonobstant le 1°, l'Opérateur de Plateforme déclarant considère le Vendeur comme résident de chaque Etat membre confirmé par un service d'identification électronique mis à disposition par un Etat membre ou par l'Union conformément au point B., 3°.
+
+E. Collecte d'informations sur les biens immobiliers loués
+
+Lorsqu'un Vendeur exerce une Activité concernée consistant en la location de biens immobiliers, l'Opérateur de Plateforme déclarant recueille l'adresse correspondant à chaque Lot et, lorsqu'il a été délivré, le numéro d'enregistrement foncier correspondant ou son équivalent dans le droit national de l'Etat membre dans lequel les biens immobiliers sont situés. Lorsqu'un Opérateur de Plateforme déclarant a facilité plus de deux-mille Activités concernées au moyen de la location d'un Lot pour le même Vendeur ayant la qualité d'Entité, l'Opérateur de Plateforme déclarant recueille les documents justificatifs, les données ou les informations attestant que le Lot appartient au même propriétaire.
+
+F. Calendrier et validité des procédures de diligence raisonnable
+
+1° l'Opérateur de Plateforme déclarant s'acquitte des procédures de diligence raisonnable décrites aux points A. à E. au plus tard le 31 décembre de la Période de déclaration;
+
+2° nonobstant le 1°, en ce qui concerne les Vendeurs qui étaient déjà enregistrés sur la Plateforme au 1er janvier 2023 ou à la date à laquelle une Entité devient un Opérateur de Plateforme déclarant, les procédures de diligence raisonnable décrites aux points A. à E. doivent être accomplies au plus tard le 31 décembre de la deuxième Période de déclaration par l'Opérateur de Plateforme déclarant;
+
+3° nonobstant le 1°, l'Opérateur de Plateforme déclarant peut s'appuyer sur les procédures de diligence raisonnable mises en oeuvre en ce qui concerne les Périodes devant faire l'objet d'une déclaration précédentes, à condition que :
+
+a) les informations relatives au Vendeur exigées au point B., 1° et 2°, aient été soit collectées et vérifiées, soit confirmées au cours des trente-six derniers mois; et
+
+b) l'Opérateur de Plateforme déclarant n'ait pas tout lieu de savoir que les informations collectées conformément aux points A., B. et E. ne sont pas ou ne sont plus fiables ou correctes.
+
+G. Application des procédures de diligence raisonnable exclusivement aux Vendeurs actifs
+
+L'Opérateur de Plateforme déclarant peut choisir d'accomplir les procédures de diligence raisonnable prévues aux points A. à F. pour les Vendeurs actifs uniquement.
+
+H. Accomplissement des procédures de diligence raisonnable par des tiers
+
+1° l'Opérateur de Plateforme déclarant peut s'appuyer sur un prestataire de services tiers pour remplir les obligations en matière de diligence raisonnable prévues dans le présent article, étant entendu que ces obligations demeurent de la responsabilité de l'Opérateur de Plateforme déclarant;
+
+2° lorsqu'un Opérateur de Plateforme remplit les obligations en matière de diligence raisonnable pour un Opérateur de Plateforme déclarant en ce qui concerne la même plateforme conformément au 1°, cet Opérateur de Plateforme met en oeuvre les procédures de diligence raisonnable conformément aux règles établies dans le présent article. Les obligations en matière de diligence raisonnable demeurent de la responsabilité de l'Opérateur de Plateforme déclarant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 68, 030; En vigueur : 28-09-2023&gt;
+
+(2)&lt;DRW 2025-12-19/B4, art. 9, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64quinquies/6
+
+[<sup>1</sup> § 1er. Le calendrier et les modalités de déclaration des informations visées par l'article 64quinquies/4, § 1er, sont les suivants :
+
+1° l'Opérateur de Plateforme déclarant visé par l'article 64quinquies/3, § 1er, point A., 4°, a), alinéa 1er, communique à l'autorité compétente belge, les informations indiquées au paragraphe 2 concernant la Période de déclaration, au plus tard le 31 janvier de l'année suivant l'année civile pendant laquelle le Vendeur est identifié comme étant un Vendeur à déclarer. Lorsqu'il y a plusieurs Opérateurs de Plateformes déclarants, chacun d'entre eux est dispensé de communiquer les informations s'il dispose de la preuve, conformément au droit applicable sur le territoire de la Région wallonne, que les mêmes informations ont été communiquées par un autre Opérateur de Plateforme déclarant;
+
+2° l'Opérateur de Plateforme visé par l'article 64quinquies/3, § 1er, point A., 4°, a), alinéa 2, choisit l'un de ces Etats membres pour s'y acquitter des obligations de déclaration prévues au présent article. Lorsqu'il choisit de s'acquitter en Belgique des obligations de déclaration prévues au présent article, conformément à l'article 64quinquies/3, § 1er, point A., 4°, a), alinéa 2, l'Opérateur de Plateforme déclarant communique les informations énumérées au paragraphe 2, en ce qui concerne la Période de déclaration, à l'autorité compétente belge, au plus tard le 31 janvier de l'année suivant l'année civile pendant laquelle le Vendeur est identifié comme étant un Vendeur à déclarer. En présence de plusieurs Opérateurs de Plateformes déclarants, chacun d'entre eux est dispensé de communiquer les informations s'il dispose de la preuve, conformément au droit national, que les mêmes informations ont été communiquées par un autre Opérateur de Plateforme déclarant dans un autre Etat membre;
+
+3° l'Opérateur de Plateforme visé par l'article 64quinquies/3, § 1er, point A., 4°, b), communique les informations indiquées au paragraphe 2, concernant la Période de déclaration, à l'autorité compétente belge lorsqu'il est enregistré auprès de cette autorité compétente belge conformément à l'article 64quinquies/3, § 1er, point A., 4°, b), alinéa 2, au plus tard le 31 janvier de l'année suivant l'année civile pendant laquelle le Vendeur est identifié comme étant un Vendeur à déclarer;
+
+4° nonobstant le 3°, un Opérateur de Plateforme déclarant visé par l'article 64quinquies/3, § 1er, point A., 4°, b), n'est pas tenu de fournir les informations visées au paragraphe 2 en ce qui concerne les Activités concernées qualifiées couvertes par un accord éligible en vigueur entre autorités compétentes qui prévoit déjà l'échange automatique d'informations équivalentes avec un Etat membre concernant les Vendeurs à déclarer qui résident dans cet Etat membre;
+
+5° l'Opérateur de Plateforme déclarant fournit également les informations indiquées au paragraphe 2, 2° et 3°, au Vendeur à déclarer auquel elles se rapportent, au plus tard le 31 janvier de l'année suivant l'année civile pendant laquelle le Vendeur est identifié comme étant un Vendeur à déclarer;
+
+6° les informations relatives à la Contrepartie versée ou créditée en monnaie fiduciaire sont communiquées dans la monnaie dans laquelle elle a été versée ou créditée. Lorsque la Contrepartie a été versée ou créditée autrement qu'en monnaie fiduciaire, ces informations sont communiquées dans la monnaie locale, convertie ou valorisée de manière systématique par l'Opérateur de Plateforme déclarant;
+
+7° les informations relatives à la Contrepartie et aux autres montants sont communiquées pour le trimestre de la Période de déclaration au cours duquel la Contrepartie a été versée ou créditée.
+
+§ 2. Chaque Opérateur de Plateforme déclarant communique les informations suivantes :
+
+1° le nom, l'adresse du siège social, le NIF et, le cas échéant, le numéro d'identification individuel attribué conformément à l'article 64quinquies/3, § 1er, point A., 4°, b), alinéa 2, de l'Opérateur de Plateforme déclarant, ainsi que la ou les raisons commerciales de la ou des Plateformes pour laquelle ou lesquelles l'Opérateur de Plateforme déclarant effectue la déclaration;
+
+2° en ce qui concerne chaque Vendeur à déclarer qui a exercé une Activité concernée autre que la location de biens immobiliers :
+
+a) les éléments d'information devant être collectés conformément à l'article 64quinquies/5, point B.;
+
+b) l'Identifiant du compte financier, dans la mesure où celui-ci est disponible pour l'Opérateur de Plateforme déclarant et où l'autorité compétente de l'Etat membre duquel le Vendeur à déclarer est résident au sens de l'article 64quinquies/5, point D., n'a pas notifié publiquement qu'elle n'a pas l'intention d'utiliser l'Identifiant du compte financier à cette fin;
+
+c) lorsqu'il diffère du nom du Vendeur à déclarer, en plus de l'Identifiant du compte financier, le nom du titulaire du compte financier sur lequel la Contrepartie est versée ou créditée, dans la mesure où l'Opérateur de Plateforme déclarant en dispose, ainsi que toute autre information d'identification financière dont dispose l'Opérateur de Plateforme déclarant en ce qui concerne le titulaire de ce compte;
+
+d) chaque Etat membre duquel le Vendeur à déclarer est résident aux fins des articles 64bis à 64duodecies, au sens de l'article 64quinquies/5, point D.;
+
+e) le montant total de la Contrepartie versée ou créditée au cours de chaque trimestre de la Période de déclaration et le nombre d'Activités concernées pour lesquelles elle a été versée ou créditée;
+
+f) tous frais, commissions ou taxes retenus ou prélevés par l'Opérateur de Plateforme déclarant au cours de chaque trimestre de la Période de déclaration;
+
+3° en ce qui concerne chaque Vendeur à déclarer qui a exercé une Activité concernée consistant en la location de biens immobiliers :
+
+a) les éléments d'information devant être collectés conformément à l'article 64quinquies/5, point B.;
+
+b) l'Identifiant du compte financier, dans la mesure où celui-ci est disponible pour l'Opérateur de Plateforme déclarant et où l'autorité compétente de l'Etat membre duquel le Vendeur à déclarer est résident au sens de l'article 64quinquies/5, point D., n'a pas notifié publiquement qu'elle n'a pas l'intention d'utiliser l'Identifiant du compte financier à cette fin;
+
+c) lorsqu'il diffère du nom du Vendeur à déclarer, en plus de l'Identifiant du compte financier, le nom du titulaire du compte financier sur lequel la Contrepartie est versée ou créditée, dans la mesure où l'Opérateur de Plateforme déclarant en dispose, ainsi que toute autre information d'identification financière dont dispose l'Opérateur de Plateforme déclarant en ce qui concerne le titulaire de ce compte;
+
+d) chaque Etat membre duquel le Vendeur à déclarer est résident aux fins des articles 64bis à 64duodecies, au sens de l'article 64quinquies/5, point D.;
+
+e) l'adresse de chaque Lot, déterminée sur la base des procédures prévues à l'article 64quinquies/5, point E., et le numéro d'enregistrement foncier correspondant ou son équivalent dans le droit national de l'Etat membre où il est situé, le cas échéant;
+
+f) le montant total de la Contrepartie versée ou créditée au cours de chaque trimestre de la Période de déclaration et le nombre d'Activités concernées réalisées en lien avec chaque Lot;
+
+g) tous frais, commissions ou taxes retenus ou prélevés par l'Opérateur de Plateforme déclarant au cours de chaque trimestre de la Période de déclaration;
+
+h) le cas échéant, le nombre de jours de location pour chaque Lot au cours de la Période de déclaration et le type correspondant à chaque Lot.]<sup>1</sup>
+
+[<sup>2</sup> 4° Nonobstant les points 2°, a), et 3°, a), l'opérateur de plateforme déclarant n'est pas tenu de communiquer les éléments d'information devant être collectés conformément à l'article 64quinquies/5, B., lorsqu'il rend compte à une autorité compétente qui utilise un Service d'identification et s'appuie sur une confirmation directe de l'identité et de la résidence du vendeur obtenue par l'intermédiaire d'un Service d'identification mis à disposition par un Etat membre ou par l'Union afin d'établir l'identité et toutes les résidences fiscales du vendeur. Si l'opérateur de plateforme déclarant s'est appuyé sur un Service d'identification pour établir l'identité et toutes les résidences fiscales d'un vendeur devant faire l'objet d'une déclaration, il y a lieu d'indiquer le nom, l'identifiant du ou des Services d'identification et le ou les Etats membres de délivrance.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 69, 030; En vigueur : 28-09-2023&gt;
+
+(2)&lt;DRW 2025-12-19/B4, art. 10, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64quinquies/7
+
+[<sup>1</sup> Lorsqu'un Vendeur ne fournit pas les informations requises au titre de l'article 64quinquies/5 après deux rappels effectués à la suite de la demande initiale transmise par l'Opérateur de Plateforme déclarant, mais pas avant l'expiration d'un délai de soixante jours, l'Opérateur de Plateforme déclarant ferme le compte du Vendeur et empêche celui-ci de s'enregistrer à nouveau sur la Plateforme ou retient le paiement de la Contrepartie destinée au Vendeur tant que le Vendeur n'a pas fourni les informations demandées. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 70, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64quinquies/8
+
+[<sup>1</sup> Le Gouvernement arrête les règles et procédures administratives pour assurer la mise en oeuvre effective et le respect des procédures de diligence raisonnable et des obligations de déclaration énoncées aux articles 64quinquies/3 à 64quinquies/7, dont notamment :
+
+1° les mesures nécessaires pour exiger des Opérateurs de plateformes déclarants qu'ils assurent le respect des obligations de collecte et de vérification prévues à l'article 64quinquies/5 pour ce qui concerne leurs Vendeurs;
+
+2° les mesures nécessaires pour exiger des Opérateurs de Plateformes déclarants qu'ils tiennent des registres des démarches entreprises et de toute information utilisée en vue d'assurer l'exécution des procédures de diligence raisonnable et des obligations de déclaration décrites aux articles 64quinquies/5 et 64quinquies/6. Ces registres restent disponibles suffisamment longtemps et, en tout état de cause, pour une période minimale de 5 ans et maximale de dix ans à l'issue de la Période de déclaration sur laquelle ils portent;
+
+3° les mesures nécessaires, notamment la possibilité d'adresser une injonction de déclaration aux Opérateurs de Plateformes déclarants, pour garantir que toutes les informations nécessaires sont transmises à l'autorité compétente, de sorte que cette dernière puisse se conformer à l'obligation de communication d'informations conformément à l'article 64quinquies/4, § 2;
+
+4° les procédures administratives permettant de vérifier que les Opérateurs de Plateformes déclarants respectent les procédures de diligence raisonnable et les obligations de déclaration prévues aux articles 64quinquies/5 et 64quinquies/6;
+
+5° les procédures permettant d'assurer un suivi des Opérateurs de Plateformes déclarants lorsque les informations communiquées sont incomplètes ou inexactes. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 71, 030; En vigueur : 28-09-2023&gt;
+
+### Sous -section 5 [<sup>1</sup> Champ d'application et conditions de l'échange automatique et obligatoire des informations déclarées par les prestataires de services sur Crypto-actifs déclarants ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/B4, art. 10, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64quinquies/9
+
+[<sup>1</sup> § 1er. Aux fins de la présente sous-section, on entend par :
+
+A. Crypto-actif à déclarer
+
+1° " Crypto-actif " : le Crypto-actif au sens de l'article 3, paragraphe 1, point 5), du règlement (UE) 2023/1114;
+
+2° " Monnaie numérique de Banque centrale " : toute Monnaie fiat numérique émise par une Banque centrale ou une autre autorité monétaire;
+
+3° " Banque centrale " : une institution qui, en vertu de la loi ou d'une décision publique, est l'autorité principale, autre que le gouvernement de la juridiction proprement dit, qui émet des instruments destinés à être utilisés comme monnaie. Cette institution peut comporter un organisme distinct du gouvernement de la juridiction, qu'il soit ou non détenu en tout ou en partie par cette juridiction;
+
+4° " Crypto-actif à déclarer " : tout Crypto-actif qui n'est pas une Monnaie numérique de Banque centrale, une Monnaie électronique ou tout Cryptoactif pour lequel le prestataire de services sur Crypto-actifs déclarant estime à juste titre qu'il ne peut pas être utilisé à des fins de paiement ou d'investissement;
+
+5° " Monnaie électronique " : tout Crypto-actif qui est :
+
+a) une représentation numérique d'une Monnaie fiat unique;
+
+b) émis contre la remise de fonds en vue d'effectuer des opérations de paiement;
+
+c) représenté par une créance sur l'émetteur libellée dans la même Monnaie fiat;
+
+d) accepté en paiement par une personne physique ou morale autre que l'émetteur; et
+
+e) en vertu d'exigences réglementaires auxquelles l'émetteur est soumis, remboursable à tout moment et à la valeur nominale pour la même Monnaie fiat à la demande du détenteur du produit.
+
+L'expression " Monnaie électronique " n'inclut pas un produit créé à la seule fin de faciliter le transfert de fonds d'un client à une autre personne conformément aux instructions du client.
+
+Un produit n'est pas créé à la seule fin de faciliter le transfert de fonds si, dans le cadre ordinaire des activités de l'Entité à l'origine du transfert, les fonds associés à ce produit sont conservés plus de soixante jours après réception des instructions visant à faciliter le transfert ou, en l'absence d'instructions, si les fonds associés à ce produit sont conservés plus de soixante jours après leur réception.
+
+B. Prestataire de services sur Crypto-actifs déclarant
+
+1° " prestataire de services sur Crypto-actifs " : le prestataire de services sur Crypto-actifs au sens de l'article 3, paragraphe 1, point 15), du règlement (UE) 2023/1114;
+
+2° " opérateur de Crypto-actifs " : une personne fournissant des services sur Crypto-actifs autre qu'un prestataire de services sur Crypto-actifs;
+
+3° " prestataire de services sur Crypto-actifs déclarant " : tout prestataire de services sur Crypto-actifs et tout opérateur de Crypto-actifs qui fournit un ou plusieurs services sur Crypto-actifs consistant en des transactions d'échange pour un utilisateur devant faire l'objet d'une déclaration ou en son nom;
+
+4° " Service sur Crypto-actifs " : les services sur Crypto-actifs au sens de l'article 3, paragraphe 1, point 16), du règlement (UE) 2023/1114, y compris le jalonnement et le prêt.
+
+C. Transaction à déclarer
+
+1° " transaction à déclarer " :
+
+a) toute transaction d'échange; et
+
+b) tout transfert de Crypto-actifs à déclarer;
+
+2° " transaction d'échange " :
+
+a) tout échange entre Crypto-actifs à déclarer et Monnaies fiat; et
+
+b) tout échange entre une ou plusieurs formes de Crypto-actifs à déclarer;
+
+3° " opération de paiement de détail à déclarer " : un transfert de Cryptoactifs à déclarer en contrepartie de biens ou de services d'une valeur supérieure à 50.000,00 USD ou un montant équivalent dans une autre devise;
+
+4° " transfert " : une transaction qui déplace un Crypto-actif à déclarer depuis ou vers l'adresse ou le compte d'un utilisateur de Crypto-actifs, autre que l'adresse ou le compte maintenu par le prestataire de services sur Cryptoactifs déclarant au nom du même utilisateur de Crypto-actifs, lorsque, sur la base des connaissances dont dispose le prestataire de services sur Cryptoactifs déclarant au moment de la transaction, celui-ci ne peut pas conclure que la transaction est une transaction d'échange;
+
+5° " Monnaie fiat " : la monnaie officielle d'une juridiction, émise par une juridiction, par la Banque centrale ou l'autorité monétaire désignée d'une juridiction, et représentée par des billets de banque ou des pièces physiques ou par de l'argent sous différentes formes numériques, y compris des réserves bancaires et des Monnaies numériques de Banque centrale. Cette expression englobe également l'argent de banque commerciale et les produits de monnaie électronique (Monnaie électronique).
+
+D. Utilisateur devant faire l'objet d'une déclaration
+
+1° " utilisateur devant faire l'objet d'une déclaration " : un utilisateur de Crypto-actifs qui est une personne devant faire l'objet d'une déclaration résidant dans un Etat membre;
+
+2° " utilisateur de Crypto-actifs " : une personne physique ou une Entité qui est un client d'un prestataire de services sur Crypto-actifs déclarant aux fins d'effectuer des Transactions à déclarer;
+
+3° " utilisateur individuel de Crypto-actifs " : un utilisateur de Cryptoactifs qui est une personne physique;
+
+4° " utilisateur individuel de Crypto-actifs préexistant " : un utilisateur individuel de Crypto-actifs qui a noué une relation avec le prestataire de services sur Crypto-actifs déclarant au 31 décembre 2025;
+
+5° " Entité utilisatrice de Crypto-actifs " : un utilisateur de Crypto-actifs qui est une Entité;
+
+6° " Entité utilisatrice de Crypto-actifs préexistante " : une Entité utilisatrice de Crypto-actifs qui a noué une relation avec le prestataire de services sur Crypto-actifs déclarant au 31 décembre 2025;
+
+7° " personne devant faire l'objet d'une déclaration " : une personne d'un Etat membre autre qu'une Personne exclue;
+
+8° " personne d'un Etat membre " : pour chaque Etat membre, une Entité ou une personne physique établie dans un Etat membre en vertu du droit fiscal de cet Etat membre, ou la succession d'un défunt qui résidait dans un Etat membre. A cette fin, une Entité telle qu'une société de personnes, une société à responsabilité limitée ou une structure juridique similaire qui n'a pas de résidence à des fins fiscales est considérée comme résidente dans la juridiction où se situe son siège de direction effective;
+
+9° " personnes détenant le contrôle " : les personnes physiques qui exercent un contrôle sur une Entité. Dans le cas d'un trust, cette expression désigne le ou les constituants, le ou les trustees, la ou les personnes chargées de surveiller le trustee (le cas échéant), le ou les bénéficiaires ou la ou les catégories de bénéficiaires, et toute autre personne physique exerçant en dernier lieu un contrôle effectif sur le trust et, dans le cas d'une construction juridique qui n'est pas un trust, l'expression désigne les personnes dont la situation est équivalente ou analogue. L'expression " personnes détenant le contrôle " est interprétée d'une manière compatible avec le terme " bénéficiaire effectif " au sens de l'article 3, point 6), de la directive (UE) 2015/849, en ce qui concerne les prestataires de services sur Crypto-actifs déclarants;
+
+10° " Entité active " : toute Entité qui satisfait à l'un des critères suivants :
+
+a) moins de 50 des revenus bruts de l'Entité au titre de l'année civile précédente ou d'une autre période de référence comptable pertinente sont des revenus passifs et moins de 50 des actifs détenus par l'Entité au cours de l'année civile précédente ou d'une autre période de référence comptable pertinente sont des actifs qui produisent ou qui sont détenus pour produire des revenus passifs;
+
+b) les activités de l'Entité consistent pour l'essentiel à détenir (en tout ou en partie) les actions émises par une ou plusieurs filiales dont les activités ne sont pas celles d'une Institution financière, ou à proposer des financements ou des services à ces filiales. Une Entité ne peut prétendre à ce statut si elle opère (ou se présente) comme un fonds de placement, tel qu'un fonds de capital-investissement, un fonds de capital-risque, un fonds de rachat d'entreprise par endettement ou tout autre organisme de placement dont l'objet est d'acquérir ou de financer des sociétés puis d'y détenir des participations à des fins de placement;
+
+c) l'Entité n'exerce pas encore d'activité et n'en a jamais exercé précédemment, mais investit des capitaux dans des actifs en vue d'exercer une activité autre que celle d'une Institution financière, étant entendu que cette exception ne saurait s'appliquer à l'Entité après expiration d'un délai de vingt-quatre mois après la date de sa constitution initiale;
+
+d) l'Entité n'était pas une institution financière durant les cinq années précédentes et procède à la liquidation de ses actifs ou est en cours de restructuration afin de poursuivre ou de reprendre des transactions ou des activités qui ne sont pas celles d'une Institution financière;
+
+e) l'Entité se consacre principalement au financement d'entités liées qui ne sont pas des Institutions financières et à des transactions de couverture avec ou pour le compte de celles-ci et ne fournit pas de services de financement ou de couverture à des Entités qui ne sont pas des Entités liées, pour autant que le groupe auquel appartiennent ces Entités liées se consacre principalement à une activité qui n'est pas celle d'une Institution financière; ou
+
+f) l'Entité remplit toutes les conditions suivantes :
+
+(i) elle est établie et exploitée dans sa juridiction de résidence exclusivement à des fins religieuses, caritatives, scientifiques, artistiques, culturelles, sportives ou éducatives; ou est établie et exploitée dans sa juridiction de résidence et elle est une fédération professionnelle, une organisation patronale, une chambre de commerce, une organisation syndicale, agricole ou horticole, civique ou un organisme dont l'objet exclusif est de promouvoir le bien-être social;
+
+(ii) elle est exonérée d'impôt sur les sociétés dans sa juridiction de résidence;
+
+(iii) elle n'a aucun actionnaire ni aucun membre disposant d'un droit de propriété ou de jouissance sur ses recettes ou ses actifs;
+
+(iv) le droit applicable dans la juridiction de résidence de l'Entité ou les documents constitutifs de celle-ci excluent que les recettes ou les actifs de l'Entité soient distribués à des personnes physiques ou à des organismes à but lucratif ou utilisés à leur bénéfice, à moins que cette utilisation ne soit en relation avec les activités caritatives de l'Entité ou n'intervienne à titre de rémunération raisonnable pour services fournis ou à titre de paiement, à leur juste valeur marchande, pour les biens acquis par l'entité; et
+
+(v) le droit applicable dans la juridiction de résidence de l'Entité ou les documents constitutifs de celle-ci imposent que, lors de la liquidation ou de la dissolution de l'Entité, tous ses actifs soient distribués à une Entité publique ou à une autre organisation à but non lucratif ou soient dévolus au gouvernement de la juridiction de résidence de l'Entité ou à l'une de ses subdivisions politiques.
+
+E. Personne exclue
+
+1° " personne exclue " :
+
+a) une Entité dont les titres font l'objet de transactions régulières sur un ou plusieurs marchés boursiers réglementés;
+
+b) toute Entité qui est une Entité liée à une Entité décrite au point a);
+
+c) une Entité publique;
+
+d) une organisation internationale;
+
+e) une Banque centrale; ou
+
+f) une institution financière autre qu'une Entité d'investissement décrite à l'article 64bis, § 1er, alinéa 4, 37°, b);
+
+2° " Entité publique " : le gouvernement d'une juridiction, une subdivision politique d'une juridiction ou tout établissement ou organisme détenu intégralement par une ou plusieurs des entités précitées. Cette catégorie englobe les parties intégrantes, entités contrôlées et subdivisions politiques d'une juridiction :
+
+a) une " partie intégrante " d'une juridiction désigne toute personne, toute organisation, toute agence, tout bureau, tout fonds, toute personne morale ou tout autre organisme, quelle que soit sa désignation, qui constitue une autorité dirigeante d'une juridiction;
+
+b) une " entité contrôlée " désigne une Entité de forme distincte de la juridiction ou qui constitue une entité juridiquement séparée, dès lors que :
+
+(i) l'Entité est détenue et contrôlée intégralement par une ou plusieurs entités publiques, directement ou par l'intermédiaire d'une ou de plusieurs entités contrôlées;
+
+(ii) le revenu net de l'Entité est porté au crédit de son propre compte oudes comptes d'une ou de plusieurs Entités publiques, et aucune fraction de ce revenu ne peut échoir à une personne privée; et
+
+(iii) les actifs de l'Entité reviennent à une ou à plusieurs Entités publique slors de sa dissolution;
+
+c) le revenu n'échoit pas à des personnes privées si ces personnes sont les bénéficiaires prévus d'un programme public, et si les activités couvertes par ce programme sont accomplies à l'intention du grand public dans l'intérêt général ou se rapportent à l'administration d'une partie du gouvernement. Nonobstant ce qui précède, le revenu est considéré comme perçu par des personnes privées s'il provient du recours à une entité publique dans le but d'exercer une activité commerciale, comme des services bancaires aux entreprises, qui fournit des prestations financières à des personnes privées;
+
+3° " organisation internationale " : une organisation internationale ou tout établissement ou organisme détenu intégralement par cette organisation. Cette catégorie englobe toute organisation intergouvernementale y compris une organisation supranationale :
+
+a) qui se compose principalement de gouvernements;
+
+b) qui a conclu un accord de siège ou un accord substantiellement similaire avec la juridiction; et
+
+c) dont les revenus n'échoient pas à des personnes privées;
+
+4° " Actif financier " : un titre, une participation, une marchandise, un contrat d'échange, un contrat d'assurance ou un Contrat de rente, ou tout droit attaché à un titre, un Crypto-actif à déclarer, une participation, une marchandise, un contrat d'échange, un contrat d'assurance ou un contrat de rente. Un intérêt direct dans un bien immobilier sans recours à l'emprunt ne constitue pas un " Actif financier ";
+
+5° " Titre de participation " : dans le cas d'une société de personnes qui est une Institution financière, toute participation au capital ou aux bénéfices de cette société. Dans le cas d'un trust qui est une institution financière, un Titre de participation est réputé détenu par toute personne considérée comme le constituant ou le bénéficiaire de tout ou partie du trust ou par toute autre personne physique exerçant en dernier lieu un contrôle effectif sur le trust. Une personne devant faire l'objet d'une déclaration est considérée comme le bénéficiaire d'un trust si elle a le droit de bénéficier, directement ou indirectement, d'une distribution obligatoire ou discrétionnaire de la part du trust;
+
+6° " contrat d'assurance " : un contrat, à l'exception d'un contrat de rente, en vertu duquel l'assureur s'engage à verser une somme d'argent en cas de réalisation d'un risque particulier, dont un décès, une maladie, un accident, une responsabilité civile ou un dommage matériel;
+
+7° " contrat de rente " : un contrat dans lequel l'assureur s'engage à effectuer des paiements pendant une certaine durée, laquelle est déterminée en tout ou en partie par l'espérance de vie d'une ou de plusieurs personnes physiques. Cette expression comprend également tout contrat considéré comme un contrat de rente par la loi, la réglementation ou la pratique de l'Etat membre ou d'une autre juridiction dans lequel ou dans laquelle ce contrat a été établi, et en vertu duquel l'assureur s'engage à effectuer des paiements durant plusieurs années;
+
+8° " contrat d'assurance avec valeur de rachat " : un contrat d'assurance, à l'exclusion d'un contrat de réassurance dommages conclu entre deux organismes d'assurance, qui possède une valeur de rachat;
+
+9° " valeur de rachat " : la plus élevée des deux sommes suivantes : i) la somme que le souscripteur du contrat d'assurance est en droit de recevoir en cas de rachat ou de fin du contrat, calculée sans déduction des éventuels frais de rachat ou avances, et ii) la somme que le souscripteur du contrat d'assurance peut emprunter en vertu du contrat ou eu égard à son objet. Nonobstant ce qui précède, l'expression " valeur de rachat " ne comprend pas une somme due dans le cadre d'un contrat d'assurance :
+
+a) uniquement en raison du décès d'une personne assurée en vertu d'un contrat d'assurance vie;
+
+b) au titre de l'indemnisation d'un dommage corporel, d'une maladie ou d'une perte économique subie lors de la réalisation d'un risque assuré;
+
+c) au titre du remboursement au souscripteur d'une prime payée antérieurement, moins le coût des charges d'assurance qu'elles soient ou non imposées, dans le cadre d'un contrat d'assurance, à l'exception d'un contrat d'assurance vie ou d'un contrat de rente lié à un placement, en raison de l'annulation ou de la résiliation du contrat, d'une diminution de l'exposition au risque durant la période au cours de laquelle le contrat d'assurance est en vigueur ou résultant d'un nouveau calcul de la prime rendu nécessaire par la correction d'une erreur d'écriture ou d'une autre erreur analogue;
+
+d) au titre de la participation aux bénéfices du souscripteur du contrat, à l'exception des dividendes versés lors de la résiliation du contrat, à condition qu'elle se rapporte à un contrat d'assurance en vertu duquel les seules prestations dues sont celles énoncées au point b); ou
+
+e) au titre de la restitution d'une prime anticipée ou d'un dépôt de prime pour un contrat d'assurance dont la prime est exigible au moins une fois par an si le montant de la prime anticipée ou du dépôt de prime ne dépasse pas le montant de la prime contractuelle due au titre de l'année suivante.
+
+F. Divers
+
+1° " procédures de diligence raisonnable à l'égard des clients " : les procédures de diligence raisonnable qu'applique un prestataire de services sur Crypto-actifs déclarant à l'égard de ses clients conformément à la directive (UE) 2015/849 ou des exigences similaires auxquelles ce prestataire de services sur Crypto-actifs déclarant est soumis;
+
+2° " Entité " : une personne morale ou une construction juridique, telle qu'une société de capitaux, une société de personnes, un trust ou une fondation;
+
+3° " Entité liée " : une Entité est liée à une autre Entité si l'une des deux Entités contrôle l'autre ou si ces deux Entités sont placées sous un contrôle conjoint. A ce titre, le contrôle comprend la détention directe ou indirecte de plus de 50
+
+des droits de vote ou de la valeur d'une Entité;
+
+4° " succursale " : une unité, un département ou un bureau d'un prestataire de services sur Crypto-actifs déclarant qui est considéré comme une succursale selon le régime réglementaire d'une juridiction ou qui est réglementé selon les lois d'une juridiction en tant qu'entité distincte d'autres bureaux, unités ou succursales du prestataire de services sur Crypto-actifs déclarant. L'ensemble des unités, départements ou bureaux d'un prestataire de services sur Crypto-actifs déclarant sont considérés comme une seule et même succursale;
+
+5° " accord éligible en vigueur entre autorités compétentes " : un accord entre les autorités compétentes d'un Etat membre et une juridiction hors Union et qui impose l'échange automatique et obligatoire d'informations correspondant à celles spécifiées à l'article 64quinquies/12, § 2, comme déterminé par un acte d'exécution conformément à l'article 8bis quinquies, paragraphe 11, de la directive;
+
+6° " Juridiction qualifiée hors Union " : une juridiction hors Union qui a conclu un accord éligible en vigueur entre autorités compétentes avec les autorités compétentes de tous les Etats membres identifiés comme étant des juridictions devant faire l'objet d'une déclaration dans une liste publiée par la juridiction hors Union;
+
+7° " Service d'identification " : un processus électronique mis gratuitement à la disposition d'un prestataire de services sur Crypto-actifs déclarant par un Etat membre ou par l'Union afin d'établir l'identité et la résidence fiscale d'un Utilisateur de Crypto-actifs;
+
+8° " le règlement (UE) 2023/1114 " : le Règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de Cryptoactifs, et modifiant les règlements (UE) n° 1093/2010 et (UE) n° 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937;
+
+9° " la directive (UE) 2015/849 " : la directive (UE) 2015/849 du Parlement Européen et du Conseil du 20 mai 2015 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme, modifiant le règlement (UE) n° 648/2012 du Parlement européen et du Conseil et abrogeant la directive 2005/60/CE du Parlement européen et du Conseil et la directive 2006/70/CE de la Commission.
+
+§ 2. Aux fins du paragraphe 1er, point B., 1°, l'autorité compétente belge qui accorde l'agrément aux prestataires de services sur Crypto-actifs conformément au règlement (UE) 2023/1114 communique régulièrement et au plus tard avant le 31 décembre de l'année civile considérée, ou avant tout autre moment déterminé par le Gouvernement, à l'autorité compétente au titre de la directive, si cette dernière est une autre autorité, une liste de tous les prestataires de services sur Crypto-actifs agréés.
+
+§ 3. Aux fins du paragraphe 1er, point B., 3°, un opérateur de Crypto-actifs a l'obligation de s'enregistrer au sein de l'Union européenne; lorsqu'il est un prestataire de services sur Crypto-actifs déclarant, il s'enregistre auprès de l'autorité compétente de l'Etat membre, déterminé conformément à l'article 64quinquies/11, § 1er, 2°, a), b), c) ou d), ou § 2, avant la fin de la période durant laquelle il doit communiquer les informations énoncées à l'article 64quinquies/12, § 2. Si l'opérateur de Crypto-actifs considéré remplit les conditions énoncées respectivement à l'article 64quinquies/11, § 1er, 2°, a), b), c) ou d), ou § 2, respectivement, dans plus d'un Etat membre, il s'enregistre auprès de l'autorité compétente de l'un de ces Etats membres avant la fin de la période durant laquelle il doit communiquer les informations énoncées à l'article 64quinquies/12, § 2.
+
+Nonobstant l'alinéa qui précède, un opérateur de Crypto-actifs qui est un prestataire de services sur Crypto-actifs déclarant ne s'enregistre pas auprès de l'autorité compétente belge dans lequel il n'est pas tenu de remplir les obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 64quinquies/12 et 64quinquies/13, respectivement conformément à l'article 64quinquies/11, § 3, § 4, § 5, § 6, § 7 ou § 8, du fait que ces exigences sont remplies par cet opérateur de Crypto-actifs dans un autre Etat membre.
+
+Lorsqu'un opérateur de Crypto-actifs s'enregistre auprès de l'autorité compétente belge, l'autorité compétente belge attribue un numéro d'identification individuel à cet opérateur de Crypto-actifs.
+
+Un opérateur de Crypto-actifs s'enregistre auprès de l'autorité compétente d'un seul Etat membre, conformément aux règles de procédure du paragraphe 4 lorsqu'il s'enregistre en Belgique.
+
+Un opérateur de Crypto-actifs dont l'enregistrement a été révoqué conformément au paragraphe 4, 6°, ou conformément à une disposition analogue d'un autre Etat membre, ne peut être autorisé à se réenregistrer qu'à la condition de fournir à l'autorité compétente belge des garanties suffisantes de son engagement à remplir les obligations en matière de déclaration au sein de l'Union, y compris celles auxquelles il ne s'est pas encore conformé.
+
+Le présent paragraphe ne s'applique pas aux prestataires de services sur Crypto-actifs au sens du paragraphe 1er, point B., 1°.
+
+§ 4. Aux fins du paragraphe 3, lorsque l'opérateur de Crypto-actifs qui est un prestataires de services sur Crypto-actifs déclarant s'enregistre auprès de l'autorité compétente belge, la procédure administrative pour l'enregistrement unique de cet opérateur de Crypto-actifs est la suivante :
+
+1° lors de l'enregistrement, l'opérateur de Crypto-actifs communique à l'autorité compétente belge les informations suivantes :
+
+a) nom;
+
+b) adresse postale;
+
+c) adresses électroniques, y compris les sites internet;
+
+d) tout NIF délivré à l'opérateur de Crypto-actifs;
+
+e) Etats membres dans lesquels les Utilisateurs devant faire l'objet d'une déclaration sont résidents au sens de l'article 64quinquies/13, points A et B;
+
+f) toute Juridiction qualifiée hors Union visée à l'article 64quinquies/11, § 3, § 4, § 5, § 6 ou § 8;
+
+2° l'opérateur de Crypto-actifs notifie à l'autorité compétente belge toute modification des informations prévues au 1°;
+
+3° l'autorité compétente belge attribue un numéro d'identification individuel à l'opérateur de Crypto-actifs et le notifie aux autorités compétentes de tous les Etats membres par voie électronique;
+
+4° l'autorité compétente belge radie l'opérateur de Crypto-actifs du registre des opérateurs de Crypto-actifs dans les cas suivants :
+
+a) l'opérateur de Crypto-actifs notifie à l'autorité compétente belge qu'il n'a plus d'utilisateurs devant faire l'objet d'une déclaration dans l'Union;
+
+b) en l'absence de notification en vertu du point a), il existe des raisons de supposer que l'activité de l'opérateur de Crypto-actifs a cessé;
+
+c) l'opérateur de Crypto-actifs ne remplit plus les conditions prévues au paragraphe 1er, point B., 2°;
+
+d) l'Etat membre a révoqué l'enregistrement auprès de ses autorités compétentes conformément au 6°;
+
+5° l'autorité compétente belge notifie immédiatement à la Commission européenne tout opérateur de Crypto-actifs, au sens du paragraphe 1er, point B., 2°, qui a des Utilisateurs devant faire l'objet d'une déclaration résidant dans l'Union et ne s'est pas enregistré lui-même conformément au présent paragraphe.
+
+Lorsqu'un opérateur de Crypto-actifs ne se conforme pas à l'obligation d'enregistrement ou lorsque son enregistrement a été révoqué conformément au 6°, l'autorité compétente belge prend, sans préjudice de l'article 63, § 2, 6°, des mesures effectives, proportionnées et dissuasives pour faire respecter cette obligation dans sa juridiction et coordonne ses actions visant à faire respecter la législation avec les autres Etats membres, y compris, en dernier recours, en empêchant l'opérateur de Crypto-actifs de pouvoir exercer ses activités au sein de l'Union;
+
+6° lorsqu'un opérateur de Crypto-actifs ne satisfait pas à l'obligation de déclaration prévue à l'article 64quinquies/12, § 2, après deux rappels adressés par l'autorité compétente belge, l'autorité compétente belge prend, sans préjudice de l'article 63, § 2, 6°, les mesures nécessaires pour révoquer l'enregistrement de l'opérateur de Crypto-actifs effectué conformément au paragraphe 2. L'enregistrement est révoqué au plus tard après l'expiration d'un délai de nonante jours, mais pas avant l'expiration d'un délai de trente jours après le second rappel.
+
+§ 5. Aux fins du paragraphe 1er, point D., 2°, une personne physique ou une Entité, autre qu'une Institution financière ou un prestataire de services sur Crypto-actifs déclarant, qui agit en qualité d'utilisateur de Crypto-actifs au bénéfice ou pour le compte d'une autre personne physique ou Entité en tant que mandataire, dépositaire, prête-nom, signataire, conseiller en placement ou intermédiaire, n'est pas considérée comme un utilisateur de Crypto-actifs, et cette autre personne physique ou Entité est considérée comme l'utilisateur de Crypto-actifs.
+
+Lorsqu'un prestataire de services sur Crypto-actifs déclarant fournit un service effectuant des opérations de paiement de détail à déclarer au nom ou pour le compte d'un commerçant, le prestataire de services sur Crypto-actifs déclarant considère également le client qui est la contrepartie du commerçant pour ces opérations de paiement de détail à déclarer comme étant l'utilisateur de Crypto-actifs dans le cadre de cette opération de paiement de détail à déclarer, si tant est que le prestataire de services sur Crypto-actifs déclarant soit tenu de vérifier l'identité de ce client dans le cadre de l'opération de paiement de détail à déclarer, en vertu de règles nationales de lutte contre le blanchiment de capitaux.
+
+§ 6. Aux fins du paragraphe 1er, point E., 2°, a), le revenu net de l'autorité dirigeante est porté au crédit de son propre compte ou d'autres comptes de la juridiction, et aucune fraction de ce revenu ne peut échoir à une personne privée. Une partie intégrante exclut toute personne qui est dirigeant, responsable ou administrateur agissant à titre privé ou personnel. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2025-12-19/B4, art. 11, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64quinquies/10
+
+[<sup></sup>§ 1er. L'autorité compétente belge prend les mesures nécessaires pour exiger des prestataires de services sur Crypto-actifs déclarants qu'ils remplissent les obligations de déclaration et appliquent les procédures de diligence raisonnable prévues aux articles 64quinquies/12 et 64quinquies/13, respectivement, en conformité avec les articles 64quinquies/14 et 64quinquies/15 réglant leur mise en oeuvre effective.
+
+§ 2. Conformément aux obligations de déclaration et aux procédures de diligence raisonnable applicables aux articles 64quinquies/12 et 64quinquies/13, respectivement, l'autorité compétente belge auprès de laquelle la déclaration visée au paragraphe 1er est effectuée, communique, par voie d'un échange automatique et dans le délai prévu au paragraphe 3, les informations suivantes aux autorités compétentes des Etats membres concernés, concernant chaque personne devant faire l'objet d'une déclaration :
+
+1° le nom, l'adresse, l'Etat ou les Etats membres de résidence, le ou les NIF et, dans le cas d'une personne physique, la date et le lieu de naissance de chaque utilisateur devant faire l'objet d'une déclaration et, dans le cas d'une Entité pour laquelle, après l'application des procédures de diligence raisonnable prévues à l'article 64quinquies/13, il apparaît qu'une ou plusieurs personnes en détenant le contrôle sont des personnes devant faire l'objet d'une déclaration, le nom, l'adresse, l'Etat ou les Etats membres de résidence et le ou les NIF de cette Entité ainsi que le nom, l'adresse, l'Etat ou les Etats membres de résidence et le ou les NIF et la date et le lieu de naissance de chacune des personnes détenant le contrôle de l'Entité qui est une personne devant faire l'objet d'une déclaration, ainsi que la ou les fonctions en vertu desquelles chaque personne devant faire l'objet d'une déclaration est une personne détenant le contrôle de l'Entité.
+
+Nonobstant l'alinéa qui précède, lorsque le prestataire de services sur Crypto-actifs déclarant s'appuie sur une confirmation directe de l'identité et de la résidence de la personne devant faire l'objet d'une déclaration obtenue par l'intermédiaire d'un Service d'identification mis à disposition par l'autorité compétente belge ou l'Union pour établir l'identité et la résidence fiscale de la personne devant faire l'objet d'une déclaration, les informations à communiquer à l'autorité compétente belge concernant la personne devant faire l'objet d'une déclaration comprennent le nom et l'identifiant du Service d'identification, ainsi que la ou les fonctions en vertu desquelles chaque personne devant faire l'objet d'une déclaration est une personne détenant le contrôle de l'Entité;
+
+2° le nom, l'adresse, le NIF et, s'il est disponible, le numéro d'identification individuel attribué conformément à l'article 64quinquies/9, § 3, alinéa 3, et § 4, 3°, et l'identifiant international pour les entités juridiques (LEI) du prestataire de services sur Crypto-actifs déclarant;
+
+3° pour chaque type de Crypto-actif à déclarer pour lequel le prestataire de services sur Crypto-actifs déclarant a effectué des transactions à déclarer au cours de l'année civile considérée, ou de toute autre période déterminée par le Gouvernement, le cas échéant :
+
+a) la dénomination complète du type de Crypto-actif à déclarer;
+
+b) le montant brut total payé, le nombre total d'unités et le nombre de transactions à déclarer pour les acquisitions en échange de Monnaie fiat;
+
+c) le montant brut total reçu, le nombre total d'unités et le nombre de transactions à déclarer pour les cessions en échange de Monnaie fiat;
+
+d) la juste valeur de marché totale, le nombre total d'unités et le nombre de transactions à déclarer pour les acquisitions en échange d'autres Cryptoactifs à déclarer;
+
+e) la juste valeur de marché totale, le nombre total d'unités et le nombre de transactions à déclarer pour les cessions en échange d'autres Crypto-actifs à déclarer;
+
+f) la juste valeur de marché totale, le nombre total d'unités et le nombre d'opérations de paiement de détail à déclarer;
+
+g) la juste valeur de marché totale, le nombre total d'unités et le nombre de transactions à déclarer, avec une ventilation par type de transferts lorsque celui-ci est connu du prestataire de services sur Crypto-actifs déclarant, pour les transferts destinés à l'utilisateur devant faire l'objet d'une déclaration non couvert par les points b) et d);
+
+h) la juste valeur de marché totale, le nombre total d'unités et le nombre de transactions à déclarer, avec une ventilation par type de transferts lorsque celui-ci est connu du prestataire de services sur Crypto-actifs déclarant, pour les transferts effectués par l'utilisateur devant faire l'objet d'une déclaration non couvert par les points c), e) et f); et
+
+i) la juste valeur de marché totale ainsi que le nombre total d'unités des transferts effectués par le prestataire de services sur Crypto-actifs déclarant à des adresses de registres distribués visées dans le règlement (UE) 2023/1114 qui ne sont pas manifestement associées à un prestataire de services sur actifs virtuels ni à une institution financière.
+
+Aux fins de l'alinéa 1er, 3°, b) et c), le montant payé ou reçu est communiqué dans la Monnaie fiat utilisée pour le paiement ou l'encaissement du montant. Dans le cas où les montants payés ou reçus sont libellés en plusieurs Monnaies fiat, ceux-ci sont communiqués dans une Monnaie fiat unique, convertie au moment de chaque transaction à déclarer d'une manière cohérente par le prestataire de services sur Crypto-actifs déclarant.
+
+Aux fins de l'alinéa 1er, 3°, d) à i), la juste valeur de marché est déterminée et communiquée dans une Monnaie fiat unique, évaluée au moment de chaque transaction à déclarer d'une manière cohérente par le prestataire de services sur Crypto-actifs déclarant.
+
+Les informations communiquées précisent la Monnaie fiat dans laquelle chaque montant est déclaré.
+
+§ 3. La communication prévue au paragraphe 2 est effectuée à l'aide du formulaire informatique type adopté par la Commission européenne, dans les neuf mois qui suivent la fin de l'année civile à laquelle se rapportent les obligations de déclaration applicables aux prestataires de services sur Cryptoactifs déclarants. Les premières informations sont communiquées pour l'année civile considérée, ou pour toute autre période déterminée par le Gouvernement, à compter du 1er janvier 2026. 1 ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/B4, art. 13, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64quinquies/11
+
+[<sup>1</sup> § 1er. Un prestataire de services sur Crypto-actifs déclarant est soumis aux obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 64quinquies/12 et 64quinquies/13, respectivement, si :
+
+1° il est une Entité agréée par l'autorité compétente belge conformément à l'article 63 du règlement (UE) 2023/1114 ou autorisée à fournir des services sur Crypto-actifs à la suite d'une notification adressée à un Etat membre conformément à l'article 60 du règlement (UE) 2023/1114; ou
+
+2° il n'est pas une Entité agréée par l'autorité compétente belge conformément à l'article 63 du règlement (UE) 2023/1114 ou autorisée à fournir des services sur Crypto-actifs à la suite d'une notification adressée à un Etat membre conformément à l'article 60 du règlement (UE) 2023/1114 et qu'il est :
+
+a) une Entité ou une personne physique ayant sa résidence fiscale en Région wallonne;
+
+b) une Entité qui :
+
+(i) est constituée en société ou régie en vertu de la législation belge; et
+
+(ii) est dotée de la personnalité juridique en Région wallonne ou tenue de déposer des déclarations fiscales ou des déclarations d'informations fiscales auprès des autorités fiscales de la Région wallonne au titre des revenus perçus par l'Entité;
+
+c) une Entité gérée à partir de la Région wallonne; ou
+
+d) une Entité ou une personne physique qui a son siège d'activité habituel en Région wallonne.
+
+§ 2. Un prestataire de services sur Crypto-actifs déclarant est soumis aux obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 64quinquies/12 et 64quinquies/13, respectivement, au titre des Transactions à déclarer effectuées par l'intermédiaire d'une Succursale établie dans un Etat membre.
+
+§ 3. Un prestataire de services sur Crypto-actifs déclarant qui est une Entité n'est pas tenu de s'acquitter des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 64quinquies/12 et 64quinquies/13, respectivement, auxquelles il est soumis en vertu du paragraphe 1er, 2°, b), c) ou d), si ces obligations sont remplies par ledit prestataire de services sur Crypto-actifs déclarant dans un autre Etat membre ou une Juridiction qualifiée hors Union du fait qu'il a sa résidence fiscale dans cet Etat membre ou cette Juridiction qualifiée hors Union.
+
+§ 4. Un prestataire de services sur Crypto-actifs déclarant qui est une Entité n'est pas tenu de s'acquitter des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 64quinquies/12 et 64quinquies/13, respectivement, auxquelles il est soumis en vertu du paragraphe 1er, 2°, c) ou d), si ces obligations sont remplies par ledit prestataire de services sur Crypto-actifs déclarant dans un autre Etat membre ou dans une Juridiction qualifiée hors Union du fait qu'il est une Entité qui :
+
+1° est constituée en société ou régie en vertu de la législation de cet Etat membre ou de cette Juridiction qualifiée hors Union; et
+
+2° est dotée de la personnalité juridique dans l'autre Etat membre ou Juridiction qualifiée hors Union ou est tenue de déposer des déclarations fiscales ou des déclarations d'informations fiscales auprès des autorités fiscales de l'autre Etat membre ou Juridiction qualifiée hors Union en ce qui concerne les revenus perçus par l'Entité.
+
+§ 5. Un prestataire de services sur Crypto-actifs déclarant qui est une Entité n'est pas tenu de s'acquitter des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 64quinquies/12 et 64quinquies/13, respectivement, auxquelles il est soumis en vertu du paragraphe 1er, 2°, d), si ces obligations sont remplies par ledit prestataire de services sur Crypto-actifs déclarant dans un autre Etat membre ou dans une Juridiction qualifiée hors Union du fait qu'il est géré à partir de cet Etat membre ou de cette Juridiction qualifiée hors Union.
+
+§ 6. Un prestataire de services sur Crypto-actifs déclarant qui est une personne physique n'est pas tenu de s'acquitter des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 64quinquies/12 et 64quinquies/13, respectivement, auxquelles il est soumis en vertu du paragraphe 1er, 2°, d), si ces obligations sont remplies par ledit prestataire de services sur Crypto-actifs déclarant dans un autre Etat membre ou dans une Juridiction qualifiée hors Union du fait qu'il a sa résidence fiscale dans cet Etat membre ou cette Juridiction qualifiée hors Union.
+
+§ 7. Un prestataire de services sur Crypto-actifs déclarant n'est pas tenu de s'acquitter des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 64quinquies/12 et 64quinquies/13, respectivement, auxquelles il est soumis en vertu du paragraphe 1er, 2°, a), b), c), ou d), s'il a adressé une notification à un Etat membre dans un format spécifié par cet Etat membre confirmant que ces obligations sont remplies par ledit prestataire de services sur Crypto-actifs déclarant en vertu des règles de tout autre Etat membre ou toute autre Juridiction qualifiée hors Union conformément à des critères substantiellement similaires, respectivement au paragraphe 1er, 2°, a), b), c, ou d).
+
+§ 8. Un prestataire de services sur Crypto-actifs déclarant n'est pas tenu de s'acquitter des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 64quinquies/12 et 64quinquies/13, respectivement, pour les Transactions à déclarer effectuées par l'intermédiaire d'une Succursale dans tout autre Etat membre ou toute autre Juridiction qualifiée hors Union, si ces obligations sont remplies par ladite Succursale dans cet autre Etat membre ou Juridiction qualifiée hors Union. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/B4, art. 14, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64quinquies/12.
+
+[<sup>1</sup> § 1er. Un prestataire de services sur Crypto-actifs déclarant au sens de l'article 64quinquies/11, § 1er et § 2, communique les informations visées au paragraphe 2 à l'autorité compétente belge.
+
+§ 2. Pour chaque année civile, ou toute autre période déterminée par le Gouvernement, et sous réserve des obligations des prestataires de services sur Crypto-actifs déclarants énoncées à l'article 64quinquies/11 et des procédures de diligence raisonnable énoncées à l'article 64quinquies/13, un prestataire de services sur Crypto-actifs déclarant communique les informations suivantes concernant ses utilisateurs de Crypto-actifs qui sont des Utilisateurs devant faire l'objet d'une déclaration ou dont les personnes en détenant le contrôle sont des personnes devant faire l'objet d'une déclaration :
+
+1° le nom, l'adresse, l'Etat ou les Etats membres de résidence, le ou les NIF et, dans le cas d'une personne physique, la date et le lieu de naissance de chaque utilisateur devant faire l'objet d'une déclaration et, dans le cas d'une Entité pour laquelle, après l'application des procédures de diligence raisonnable prévues à l'article 64quinquies/13, il apparaît qu'une ou plusieurs personnes en détenant le contrôle sont des personnes devant faire l'objet d'une déclaration, le nom, l'adresse, l'Etat ou les Etats membres de résidence et le ou les NIF de cette Entité ainsi que le nom, l'adresse, l'Etat ou les Etats membres de résidence et le ou les NIF et la date et le lieu de naissance de chacune des personnes détenant le contrôle de l'Entité qui est une personne devant faire l'objet d'une déclaration, ainsi que la ou les fonctions au titre desquelles chaque personne devant faire l'objet d'une déclaration est une Personne détenant le contrôle de l'Entité;
+
+2° le nom, l'adresse, le NIF et, s'il est disponible, le numéro d'identification individuel attribué conformément à l'article 64quinquies/9, § 3, alinéa 3, et § 4, 3°, et l'identifiant international pour les entités juridiques (LEI) du prestataire de services sur Crypto-actifs déclarant;
+
+3° pour chaque type de Crypto-actif à déclarer pour lequel le prestataire de services sur Crypto-actifs déclarant a effectué des transactions à déclarer au cours de l'année civile considérée ou d'une autre période de référence adéquate, le cas échéant :
+
+a) la dénomination complète du type de Crypto-actif à déclarer;
+
+b) le montant brut total payé, le nombre total d'unités et le nombre de transactions à déclarer pour les acquisitions en échange de Monnaie fiat;
+
+c) le montant brut total reçu, le nombre total d'unités et le nombre de transactions à déclarer pour les cessions en échange de Monnaie fiat;
+
+d) la juste valeur de marché totale, le nombre total d'unités et le nombre de transactions à déclarer pour les acquisitions en échange d'autres Cryptoactifs à déclarer;
+
+e) la juste valeur de marché totale, le nombre total d'unités et le nombre de transactions à déclarer pour les cessions en échange d'autres Crypto-actifs à déclarer;
+
+f) la juste valeur de marché totale, le nombre total d'unités et le nombre d'opérations de paiement de détail à déclarer;
+
+g) la juste valeur de marché totale, le nombre total d'unités et le nombre de transactions à déclarer, avec une ventilation par type de transferts lorsque celui-ci est connu du prestataire de services sur Crypto-actifs déclarant, pour les transferts destinés à l'utilisateur devant faire l'objet d'une déclaration non couvert par les points b) et d);
+
+h) la juste valeur de marché totale, le nombre total d'unités et le nombre de transactions à déclarer, avec une ventilation par type de transferts lorsque celui-ci est connu du prestataire de services sur Crypto-actifs déclarant, pour les transferts effectués par l'utilisateur devant faire l'objet d'une déclaration non couvert par les points c), e) et f); et
+
+i) la juste valeur de marché totale ainsi que le nombre total d'unités des transferts effectués par le prestataire de services sur Crypto-actifs déclarant à des adresses de registres distribués visées dans le règlement (UE) 2023/1114 qui ne sont pas manifestement associées à un prestataire de services sur actifs virtuels ni à une institution financière.
+
+Nonobstant l'alinéa 1er, 1°, lorsque le prestataire de services sur Cryptoactifs déclarant rend compte à une autorité compétente qui utilise un Service d'identification et s'appuie sur une confirmation directe de l'identité et de la résidence de la personne devant faire l'objet d'une déclaration obtenue par l'intermédiaire d'un Service d'identification mis à disposition par un Etat membre ou par l'Union afin d'établir l'identité et les résidences fiscales de la personne devant faire l'objet d'une déclaration, les informations à communiquer concernant la personne devant faire l'objet d'une déclaration comprennent le nom, l'identifiant du ou des Services d'identification et le ou les Etats membres de délivrance, ainsi que la ou les fonctions au titre desquelles chaque personne devant faire l'objet d'une déclaration est une personne détenant le contrôle de l'Entité.
+
+Aux fins de l'alinéa 1er, 3°, b) et c), le montant payé ou reçu est déclaré dans la Monnaie fiat utilisée pour le paiement ou l'encaissement du montant. Dans le cas où les montants payés ou reçus sont libellés en plusieurs Monnaies fiat, ceux-ci sont déclarés dans une monnaie unique, convertie au moment de chaque transaction à déclarer d'une manière cohérente par le prestataire de services sur Crypto-actifs déclarant.
+
+Aux fins de l'alinéa 1er, 3°, d) à i), la juste valeur de marché est déterminée et déclarée dans une monnaie unique, évaluée au moment de chaque transaction à déclarer d'une manière cohérente par le prestataire de services sur Crypto-actifs déclarant.
+
+Les informations déclarées précisent la Monnaie fiat dans laquelle chaque montant est déclaré.
+
+§ 3. Nonobstant le paragraphe 2, alinéa 1er, 1°, le lieu de naissance ne doit pas être déclaré, sauf si le prestataire de services sur Crypto-actifs déclarant est tenu de l'obtenir et de le déclarer en vertu du droit de l'Etat de résidence.
+
+§ 4. Les informations énumérées au paragraphe 2 sont déclarées chaque année ou cours de l'année civile suivant l'année à laquelle elles se rapportent. Les premières informations sont déclarées pour l'année civile considérée, ou pour toute autre période déterminée par le Gouvernement, à partir du 1er janvier 2026.
+
+§ 5. Nonobstant les paragraphes 1er et 4, un prestataire de services sur Crypto-actifs déclarant au sens de l'article 64quinquies/11, § 1er, 2°, a), b), c) ou d), n'est pas tenu de fournir les informations visées au paragraphe 2 en ce qui concerne un Utilisateur devant faire l'objet d'une déclaration ou une personne détenant le contrôle pour lequel ou laquelle le prestataire de services sur Crypto-actifs assure la déclaration des informations concernées dans une Juridiction hors Union couverte par un accord éligible en vigueur entre autorités compétentes avec l'Etat membre de résidence dudit utilisateur devant faire l'objet d'une déclaration ou de ladite personne détenant le contrôle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/B4, art. 15, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64quinquies/13.
+
+[<sup>1</sup> Un utilisateur de Crypto-actifs est considéré comme un utilisateur devant faire l'objet d'une déclaration à partir de la date à laquelle il est identifié comme tel en application des procédures de diligence raisonnable décrites dans le présent article.
+
+A. Procédures de diligence raisonnable applicables aux utilisateurs individuels de Crypto-actifs
+
+Les procédures suivantes s'appliquent afin de déterminer si l'utilisateur individuel de Crypto-actifs est un utilisateur devant faire l'objet d'une déclaration :
+
+1° lorsqu'il établit la relation avec l'utilisateur individuel de Crypto-actifs ou des utilisateurs individuels de Crypto-actifs préexistants au 1er janvier 2027, le prestataire de services sur Crypto-actifs déclarant obtient une autocertification lui permettant de déterminer la ou les résidences fiscales de l'utilisateur individuel de Crypto-actifs et de confirmer la vraisemblance de cette autocertification en s'appuyant sur les informations que le prestataire de services sur Crypto-actifs déclarant a obtenues, y compris les documents recueillis en application des procédures de diligence raisonnable à l'égard des clients;
+
+2° si, à un stade quelconque, un changement de circonstances concernant un utilisateur individuel de Crypto-actifs se produit et a pour conséquence que le prestataire de services sur Crypto-actifs déclarant sait ou a tout lieu de savoir que l'autocertification initiale est inexacte ou n'est pas fiable, le prestataire de services sur Crypto-actifs déclarant ne peut pas utiliser cette autocertification et doit obtenir une autocertification valide ou une justification plausible assortie, le cas échéant, de documents étayant la validité de l'autocertification initiale.
+
+B. Procédures de diligence raisonnable applicables aux Entités utilisatrices de Crypto-actifs
+
+Les procédures suivantes s'appliquent pour déterminer si une Entité utilisatrice de Crypto-actifs est un utilisateur devant faire l'objet d'une déclaration ou une Entité, autre qu'une personne exclue ou une Entité active, dont une ou plusieurs personnes en détenant le contrôle sont des personnes devant faire l'objet d'une déclaration :
+
+1° déterminer si l'Entité utilisatrice de Crypto-actifs est une personne devant faire l'objet d'une déclaration :
+
+a) lorsqu'il établit la relation avec l'Entité utilisatrice de Crypto-actifs oudes Entités utilisatrices de Crypto-actifs préexistantes au 1er janvier 2027, le prestataire de services sur Crypto-actifs déclarant obtient une autocertification lui permettant de déterminer la ou les résidences fiscales de l'Entité utilisatrice de Crypto-actifs et de confirmer la vraisemblance de cette autocertification en s'appuyant sur les informations que le prestataire de services sur Crypto-actifs déclarant a obtenues, y compris les documents recueillis en application des procédures de diligence raisonnable à l'égard de ses clients. Si l'Entité utilisatrice de Crypto-actifs certifie ne pas avoir de résidence fiscale, le prestataire de services sur Crypto-actifs déclarant peut se fonder sur le siège de direction effective ou sur l'adresse de l'établissement principal pour déterminer la résidence de l'Entité utilisatrice de Crypto-actifs;
+
+b) si l'autocertification indique que l'Entité utilisatrice de Crypto-actifs asa résidence dans un Etat membre, le prestataire de services sur Crypto-actifs déclarant considère l'Entité utilisatrice de Crypto-actifs comme un utilisateur devant faire l'objet d'une déclaration, sauf s'il établit avec une certitude suffisante, sur la base de l'autocertification ou d'informations en sa possession ou accessibles au public, que l'Entité utilisatrice de Crypto-actifs est une personne exclue;
+
+2° déterminer si une ou plusieurs personnes détenant le contrôle de l'Entité sont des personnes devant faire l'objet d'une déclaration. Le prestataire de services sur Crypto-actifs déclarant détermine si une ou plusieurs personnes détenant le contrôle d'une Entité utilisatrice de Crypto-actifs autre qu'une personne exclue sont des personnes devant faire l'objet d'une déclaration, sauf s'il établit que l'Entité utilisatrice de Crypto-actifs, sur la base d'une autocertification fournie par cette dernière, est une Entité active :
+
+a) pour déterminer les personnes détenant le contrôle de l'Entité utilisatrice de Crypto-actifs, un prestataire de services sur Crypto-actifs déclarant peut se fonder sur les informations recueillies et conservées en application des procédures de diligence raisonnable à l'égard des clients, pour autant que ces procédures soient compatibles avec la directive (UE) 2015/849;
+
+b) pour déterminer si une personne détenant le contrôle est une personne devant faire l'objet d'une déclaration, un prestataire de services sur Crypto-actifs déclarant se fonde sur une autocertification émanant de l'Entité utilisatrice de Crypto-actifs ou de la personne détenant le contrôle qui permet au prestataire de services sur Crypto-actifs déclarant de déterminer la ou les résidences fiscales de la personne détenant le contrôle et de confirmer la vraisemblance de cette autocertification en s'appuyant sur les informations qu'il a obtenues, y compris les documents recueillis en application des procédures de diligence raisonnable à l'égard des clients;
+
+3° si, à un stade quelconque, un changement de circonstances concernant une Entité utilisatrice de Crypto-actifs ou les personnes en détenant le contrôle se produit et a pour conséquence que le prestataire de services sur Crypto-actifs déclarant sait ou a tout lieu de savoir que l'autocertification initiale est inexacte ou n'est pas fiable, le prestataire de services sur Cryptoactifs déclarant ne peut pas utiliser cette auto-certification et doit obtenir une autocertification valide ou une justification plausible assortie, le cas échéant, de documents étayant la validité de l'autocertification initiale.
+
+Concernant l'alinéa 1er, 2°, a), si le prestataire de services sur Crypto-actifs déclarant n'est pas légalement tenu d'appliquer des procédures de diligence raisonnable à l'égard des clients conformes à la directive (UE) 2015/849, il applique des procédures substantiellement similaires aux fins de la détermination des personnes détenant le contrôle.
+
+C. Conditions de validité des autocertifications
+
+1° une autocertification fournie par un utilisateur individuel de Cryptoactifs ou une personne détenant le contrôle est valable uniquement si celui-ci ou celle-ci l'a signée ou authentifiée par tout autre moyen, si elle est datée au plus tard à la date de réception et si elle contient les informations suivantes concernant l'utilisateur individuel de Crypto-actifs ou la personne détenant le contrôle :
+
+a) le prénom et le nom;
+
+b) l'adresse de résidence;
+
+c) les Etats membres de résidence à des fins fiscales;
+
+d) le NIF de chaque personne devant faire l'objet d'une déclaration, pour chaque Etat membre;
+
+e) la date de naissance;
+
+2° une autocertification fournie par une Entité utilisatrice de Crypto-actifs est valable uniquement si celle-ci l'a signée ou authentifiée par tout autre moyen, si elle est datée au plus tard à la date de réception et si elle contient les informations suivantes concernant l'Entité utilisatrice de Crypto-actifs :
+
+a) la raison sociale;
+
+b) l'adresse;
+
+c) les Etats membres de résidence à des fins fiscales;
+
+d) le NIF de chaque personne devant faire l'objet d'une déclaration, pour chaque Etat membre;
+
+e) dans le cas où l'Entité utilisatrice de Crypto-actifs n'est pas une Entité active ou une personne exclue, les informations décrites au 1° pour chaque personne détenant le contrôle de l'Entité utilisatrice de Crypto-actifs, sauf si cette personne détenant le contrôle a fourni une autocertification conformément au 1°, ainsi que la ou les fonctions au titre desquelles chacune des personnes devant faire l'objet d'une déclaration est une personne détenant le contrôle de l'Entité, si elles n'ont pas encore été établies sur la base des procédures de diligence raisonnable à l'égard des clients;
+
+f) le cas échéant, des informations relatives aux critères justifiant de la considérer comme une Entité active ou une Personne exclue.
+
+D. Obligations générales de diligence raisonnable
+
+1° un prestataire de services sur Crypto-actifs déclarant qui est également une Institution financière peut se fonder sur les procédures de diligence raisonnable mises en oeuvre conformément à l'annexe I, sections IV et VI, de la directive, aux fins des procédures de diligence raisonnable prévues par le présent article. Un prestataire de services sur Crypto-actifs déclarant peut également s'appuyer sur une autocertification déjà collectée à d'autres fins fiscales, pour autant que celle-ci réponde aux conditions prévues au paragraphe 3;
+
+2° un prestataire de services sur Crypto-actifs déclarant peut faire appel à un tiers pour accomplir les obligations de diligence raisonnable visées dans le présent article, étant toutefois entendu que le respect desdites obligations demeure sa responsabilité. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/B4, art. 16, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64quinquies/14.
+
+[<sup>1</sup> Lorsqu'un utilisateur de Crypto-actifs ne fournit pas les informations requises au titre de l'article 63quinquies/13 après deux rappels effectués à la suite de la demande initiale du prestataire de services sur Crypto-actifs déclarant, le prestataire de services sur Crypto-actifs déclarant empêche l'utilisateur de Crypto-actifs de réaliser des transactions à déclarer, après l'expiration d'un délai de soixante jours. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/B4, art. 17, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64quinquies/15.
+
+[<sup>1</sup> Le Gouvernement wallon arrête les règles et les procédures administratives destinées à assurer le respect des obligations de collecte et de vérification établies à l'article 64quinquies/13, dont :
+
+1° les mesures nécessaires pour exiger des prestataires de services sur Crypto-actifs déclarants qu'ils appliquent les obligations de collecte et de vérification prévues à l'article 64quinquies/13 en ce qui concerne leurs utilisateurs de Crypto-actifs;
+
+2° les mesures nécessaires pour exiger des prestataires de services sur Crypto-actifs déclarants qu'ils tiennent des registres des démarches entreprises et de toute information utilisée en vue d'assurer l'exécution des obligations de déclaration et des procédures de diligence raisonnable énoncées aux articles 63quinquies/12 et 64quinquies/13, respectivement;
+
+3° les mesures nécessaires, dont la possibilité d'adresser une injonction de déclaration aux prestataires de services sur Crypto-actifs déclarants, pour garantir que toutes les informations nécessaires sont transmises à l'autorité compétente, de sorte que cette dernière puisse se conformer à l'obligation de communication d'informations conformément à l'article 64quinquies/10, § 2;
+
+4° les procédures administratives pour vérifier le respect, par les prestataires de services sur Crypto-actifs déclarants, des obligations de déclaration et des procédures de diligence raisonnable énoncées aux articles 64quinquies/12 et 64quinquies/13, respectivement;
+
+5° les procédures permettant d'assurer un suivi des prestataires de services sur Crypto-actifs déclarants lorsque les informations communiquées sont incomplètes ou inexactes.
+
+Concernant l'alinéa 1er, 2°, les registres restent disponibles suffisamment longtemps et, en tout état de cause, pour une période minimale de cinq ans et maximale de dix ans à l'issue de la période durant laquelle le prestataire de services sur Crypto-actifs déclarant est tenu de transmettre les informations si celles-ci doivent être communiquées en vertu de l'article 64quinquies/12. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/B4, art. 18, 035; En vigueur : 01-01-2026&gt;
+
+### Section 5. - [<sup>1</sup> Echange spontané d'informations]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+##### Art. 64sexies
+
+[<sup>1</sup> Dans les cas suivants, l'autorité compétente belge communique spontanément à l'autorité compétente étrangère les informations visées à [<sup>2</sup> l'article 64bis, § 1er, alinéa 1er]<sup>2</sup> :
+
+1° l'autorité compétente belge a des raisons de présumer qu'il peut exister une perte d'impôt ou de taxe dans l'Etat membre concerné;
+
+2° un contribuable obtient, en Région wallonne, une réduction ou une exonération de taxe ou d'impôt qui devrait entraîner pour lui une augmentation de taxe ou d'impôt ou un assujettissement à une taxe ou à l'impôt dans l'Etat membre concerné;
+
+3° des affaires entre un contribuable en Région wallonne et un contribuable d'un Etat membre sont traitées dans un ou plusieurs pays, de manière à pouvoir entraîner une diminution de taxe ou d'impôt en Région wallonne ou dans l'Etat membre ou dans les deux;
+
+4° l'autorité compétente belge a des raisons de présumer qu'il peut exister une diminution de taxe ou d'impôt résultant de transferts fictifs de bénéfices à l'intérieur de groupes d'entreprises;
+
+5° l'autorité compétente belge, à la suite des informations communiquées par une autorité compétente étrangère, a recueilli des informations qui sont adéquates, pertinentes et non excessives pour l'établissement d'une taxe ou de l'impôt dans cet Etat membre concerné.
+
+L'autorité compétente belge peut communiquer spontanément à une autorité compétente étrangère les informations dont elle a connaissance et qui sont adéquates, pertinentes et non excessives à cette autorité compétente étrangère.
+
+L'autorité compétente belge qui dispose d'informations visées à l'alinéa 1er les communique à l'autorité compétente étrangère de tout Etat membre intéressé le plus rapidement possible, et au plus tard un mois après que lesdites informations sont disponibles.
+
+L'autorité compétente belge à laquelle des informations visées à l'alinéa 1er sont échangées en accuse réception, si possible par voie électronique, auprès de l'autorité compétente étrangère qui les lui a communiquées, immédiatement et en tout état de cause au plus tard sept jours ouvrables après les avoir reçues.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DRW 2020-10-01/19, art. 6, 023; En vigueur : 01-07-2020&gt;
+
+### Section 6. - [<sup>1</sup> Autres formes de coopération administrative]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+### Sous -section 1 [<sup>1</sup> Présence dans les bureaux administratifs et participation aux enquêtes administrative ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 72, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64septies
+
+[<sup>1</sup> § 1er. L'autorité compétente belge peut convenir avec une autorité compétente étrangère, aux fins de l'échange d'informations visées à l'article 64bis, § 1er, alinéa 1er, que les fonctionnaires habilités par l'autorité compétente belge peuvent, conformément aux modalités de procédure définies par l'autorité compétente étrangère :
+
+1° être présents dans les bureaux où les autorités administratives de l'Etat membre requis exécutent leurs tâches;
+
+2° assister aux enquêtes administratives réalisées sur le territoire de l'Etat membre requis;
+
+3° participer aux enquêtes administratives menées par l'Etat membre requis en utilisant des moyens de communication électroniques, le cas échéant.
+
+L'autorité requise répond à une demande présentée conformément à l'alinéa 1er dans un délai de soixante jours suivant la réception de la demande, afin de confirmer son accord ou de signifier à l'autorité compétente belge son refus en le motivant.
+
+Lorsque les informations demandées figurent dans des documents auxquels les fonctionnaires de l'autorité requise ont accès, les fonctionnaires habilités par l'autorité compétente belge en reçoivent des copies.
+
+Dans les cas où des fonctionnaires habilités par l'autorité compétente belge assistent aux enquêtes administratives ou y participent en recourant à des moyens de communication électroniques, ils peuvent interroger des personnes et examiner des documents, sous réserve des modalités de procédure définies par l'Etat membre requis.
+
+Tout refus d'une personne faisant l'objet d'une enquête de se conformer aux mesures d'inspection des fonctionnaires habilités par l'autorité compétente belge est considéré par l'autorité requise comme un refus opposé à ses propres fonctionnaires.
+
+Les fonctionnaires habilités par l'autorité compétente belge, présents dans un autre Etat membre conformément au présent paragraphe, doivent toujours être en mesure de présenter un mandat écrit précisant leur identité et leur qualité officielle.
+
+§ 2. L'autorité compétente belge peut convenir avec une autorité compétente étrangère, aux fins de l'échange d'informations visées à l'article 64bis, § 1er, alinéa 1er, que des fonctionnaires habilités par l'autorité compétente étrangère peuvent, conformément aux modalités de procédure définies par le présent décret :
+
+1° être présents, en Région wallonne, dans les bureaux du service du Service public de Wallonie Finances qui exécutent ces tâches;
+
+2° assister aux enquêtes administratives réalisées sur le territoire wallon;
+
+3° participer aux enquêtes administratives menées par des fonctionnaires du Service public de Wallonie Finances en utilisant des moyens de communication électroniques, le cas échéant.
+
+L'autorité compétente belge répond à une demande présentée conformément à l'alinéa 1er dans un délai de soixante jours suivant la réception de la demande, afin de confirmer son accord ou de signifier à l'autorité requérante son refus en le motivant.
+
+Lorsque les informations demandées figurent dans des documents auxquels les fonctionnaires du Service public de Wallonie Finances ont accès, les fonctionnaires habilités par l'autorité requérante en reçoivent des copies.
+
+Dans les cas où des fonctionnaires habilités par l'autorité requérante assistent aux enquêtes administratives ou y participent en recourant à des moyens de communication électroniques, ils peuvent interroger des personnes et examiner des documents, sous réserve des modalités de procédure définies par le présent décret.
+
+Tout refus d'une personne faisant l'objet d'une enquête de se conformer aux mesures d'inspection des fonctionnaires habilités par l'autorité requérante est considéré par l'autorité compétente belge comme un refus opposé aux fonctionnaires du Service public de Wallonie Finances.
+
+Les fonctionnaires habilités par l'autorité requérante, présents sur le territoire de la Région wallonne conformément au présent paragraphe, doivent toujours être en mesure de présenter un mandat écrit précisant leur identité et leur qualité officielle ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 73, 030; En vigueur : 28-09-2023&gt;
+
+### Sous -section 2 [<sup>1</sup> Contrôles simultanés ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 74, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64septies/1
+
+[<sup>1</sup> § 1er. Lorsque la Région wallonne convient avec un ou plusieurs Etats membres de procéder, chacun sur leur propre territoire, à des contrôles simultanés en ce qui concerne une ou plusieurs personnes présentant pour eux un intérêt commun ou complémentaire, en vue d'échanger les informations ainsi obtenues, les paragraphes 2 à 4 s'appliquent.
+
+§ 2. L'autorité compétente belge identifie de manière indépendante les personnes qu'elle a l'intention de proposer pour un contrôle simultané. Elle informe l'autorité compétente étrangère des Etats membres concernés de tous les dossiers pour lesquels elle propose un contrôle simultané, en motivant son choix. Elle indique le délai dans lequel le contrôle doit être réalisé.
+
+§ 3. Lorsqu'un contrôle simultané a été proposé à l'autorité compétente belge, celle-ci décide si elle souhaite participer au contrôle simultané. Elle confirme son accord à l'autorité compétente étrangère ayant proposé le contrôle ou lui signifie son refus en le motivant, dans un délai de soixante jours à compter de la réception de la proposition.
+
+§ 4. L'autorité compétente belge désigne un représentant chargé de superviser et de coordonner le contrôle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 75, 030; En vigueur : 28-09-2023&gt;
+
+### Sous -section 3 [<sup>1</sup> Notification administrative ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 76, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64septies/2
+
+[<sup>1</sup> § 1er. L'autorité compétente belge peut demander à une autorité compétente étrangère de notifier, conformément aux règles régissant la notification des actes correspondants dans l'Etat membre requis, au destinataire, l'ensemble des actes et décisions émanant des autorités administratives wallonnes et concernant l'application en Région wallonne de la législation relative à l'ensemble des taxes et impôts perçus par la Région wallonne ou pour son compte, par ses subdivisions territoriales ou administratives ou pour leur compte, y compris les autorités locales.
+
+La demande de notification indique le nom et l'adresse du destinataire ainsi que tout autre renseignement susceptible de faciliter son identification et mentionne l'objet de l'acte ou de la décision à notifier.
+
+L'autorité compétente belge n'adresse une demande de notification que lorsqu'elle n'est pas en mesure de notifier conformément aux règles belges applicables en Région wallonne, ou lorsqu'une telle notification entraînerait des difficultés disproportionnées. L'autorité compétente belge peut notifier un document, par envoi recommandé ou par voie électronique, directement à une personne établie sur le territoire d'un Etat membre.
+
+§ 2. A la demande d'une autorité compétente étrangère, l'autorité compétente belge notifie au destinataire, conformément aux règles applicables en Région wallonne, régissant la notification des actes correspondants, l'ensemble des actes et décisions émanant des autorités administratives de l'Etat membre requérant et concernant l'application sur le territoire wallon de la législation relative à l'ensemble des taxes et impôts perçus par la Région wallonne ou pour son compte, par ses subdivisions territoriales ou administratives ou pour leur compte, y compris les autorités locales.
+
+L'autorité compétente belge informe immédiatement l'autorité requérante de la suite qu'elle a donnée à la demande et en particulier de la date à laquelle la décision ou l'acte a été notifié au destinataire. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 77, 030; En vigueur : 28-09-2023&gt;
+
+#### Sous-section 4. [<sup>1</sup> Retour d'informations ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 79, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64septies/3
+
+[<sup>1</sup> § 1er. Lorsqu'une autorité compétente étrangère a communiqué des informations en application de l'article 64ter, § 1er, ou de l'article 64sexies et qu'un retour d'informations est demandé, l'autorité compétente belge qui a reçu les informations, le fournit, sans préjudice des règles relatives au secret professionnel et à la protection des données applicables en Région wallonne, à l'autorité compétente étrangère qui les a communiquées, le plus rapidement possible et au plus tard trois mois après que les résultats de l'exploitation des informations reçues sont connus.
+
+L'autorité compétente belge fournit une fois par an aux Etats membres concernés un retour d'informations sur l'échange automatique, selon les modalités pratiques convenues de manière bilatérale.
+
+§ 2. L'autorité compétente belge qui a communiqué des informations en application de l'article 64ter, § 2, ou de l'article 64sexies, peut demander à l'autorité compétente étrangère qui les a reçues, de lui donner son avis en retour sur celles-ci.
+
+§ 3. Lorsqu'un service de liaison wallon ou un fonctionnaire compétent wallon reçoit une demande de coopération qui ne relève pas de la compétence qui lui est attribuée conformément à la législation belge ou à la politique belge, il la transmet sans délai au bureau central de liaison et en informe l'autorité compétente étrangère requérante. En pareil cas, la période prévue à l'article 64quater commence le jour suivant celui où la demande est transmise au bureau central de liaison .]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 78, 030; En vigueur : 28-09-2023&gt;
+
+#### Sous-section 5. [<sup>1</sup> Contrôles conjoints ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 80, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64septies/4
+
+[<sup>1</sup> . § 1er. L'autorité compétente d'un ou de plusieurs Etats membres peut demander à l'autorité compétente belge, le cas échéant avec d'autres Etats membres, de mener un contrôle conjoint. L'autorité compétente belge et, le cas échéant, les autorités compétentes requises des autres Etats membres répondent à la demande de contrôle conjoint dans un délai de soixante jours à compter de la réception de celle-ci. L'autorité compétente belge et, le cas échéant, les autorités compétentes requises des autres Etats membres peuvent rejeter une demande de contrôle conjoint présentée par une autorité compétente d'un Etat membre pour des motifs justifiés.
+
+§ 2. L'autorité compétente belge peut demander à l'autorité compétente d'un autre Etat membre, le cas échéant avec d'autres Etats membres, de mener un contrôle conjoint. Les autorités compétentes requises répondent à la demande de contrôle conjoint dans un délai de soixante jours à compter de la réception de celle-ci. Les autorités compétentes requises peuvent rejeter une demande de contrôle conjoint présentée par l'autorité compétente belge pour des motifs justifiés.
+
+§ 3. Les contrôles conjoints prévus aux paragraphes 1er et 2 sont menés de manière convenue au préalable et coordonnée, y compris en ce qui concerne le régime linguistique, par les autorités compétentes de l'Etat membre requérant et de l'Etat membre ou des Etats membres requis, et conformément à la législation et aux exigences procédurales de l'Etat membre dans lequel les activités de contrôle conjoint sont menées. Dans chaque Etat membre dans lequel se déroulent les activités d'un contrôle conjoint, l'autorité compétente dudit Etat membre désigne un représentant chargé de superviser et de coordonner le contrôle conjoint dans cet Etat membre.
+
+Les droits et obligations des fonctionnaires des Etats membres qui participent au contrôle conjoint, lorsqu'ils sont présents lors d'activités menées dans un autre Etat membre, sont déterminés conformément à la législation de l'Etat membre dans lequel se déroulent les activités du contrôle conjoint. Tout en respectant la législation de l'Etat membre dans lequel se déroulent les activités du contrôle conjoint, les fonctionnaires d'un autre Etat membre n'exercent aucun pouvoir qui irait au-delà des pouvoirs qui leur sont conférés par la législation de leur Etat membre.
+
+§ 4. Sans préjudice du paragraphe 3, lorsque les activités du contrôle conjoint ont lieu sur le territoire de la Région wallonne et sont menées avec des fonctionnaires du Service public de Wallonie Finances :
+
+1° les fonctionnaires d'autres Etats membres qui participent aux activités du contrôle conjoint sont autorisés à interroger des personnes et à examiner des documents en coopération avec les fonctionnaires du Service public de Wallonie Finances, sous réserve des modalités de procédure prévues par le présent décret;
+
+2° les éléments de preuve recueillis au cours des activités du contrôle conjoint sont évalués, y compris en ce qui concerne leur recevabilité, dans les mêmes conditions juridiques que celles qui s'appliqueraient dans le cas d'un contrôle effectué sur le territoire de la Région wallonne, avec la seule participation des fonctionnaires du Service public de Wallonie Finances, y compris au cours d'une procédure de réclamation, de réexamen ou de recours;
+
+3° la ou les personnes faisant l'objet d'un contrôle conjoint ou affectées par celui-ci jouissent des mêmes droits et ont les mêmes obligations que ceux qui s'appliqueraient dans le cas d'un contrôle qui se déroulerait avec la seule participation des fonctionnaires du Service public de Wallonie Finances, y compris au cours de toute procédure de réclamation, de réexamen ou de recours.
+
+§ 5. Lorsque les autorités compétentes de deux Etats membres ou plus mènent un contrôle conjoint, elles s'efforcent de convenir des faits et des circonstances pertinents pour le contrôle conjoint et de parvenir à un accord concernant la position fiscale de la ou des personnes ayant fait l'objet du contrôle sur la base des résultats de ce dernier. Les conclusions du contrôle conjoint sont intégrées dans un rapport final. Les questions sur lesquelles les autorités compétentes sont d'accord figurent dans les conclusions du rapport final et sont prises en compte dans les instruments appropriés émis par les autorités compétentes des Etats membres participants à la suite de ce contrôle conjoint.
+
+Sous réserve de l'alinéa 1er, les mesures prises par les autorités compétentes d'un Etat membre ou par l'un de ses fonctionnaires à la suite d'un contrôle conjoint, ainsi que toute autre procédure qui aurait lieu dans cet Etat membre, telle qu'une décision des autorités fiscales, une procédure de recours ou de règlement y relative, se déroulent conformément au droit national de cet Etat membre.
+
+§ 6. La ou les personnes ayant fait l'objet d'un contrôle sont informées des résultats du contrôle conjoint et reçoivent une copie du rapport final, dans les soixante jours suivant l'émission du rapport final. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 81, 030; En vigueur : 01-01-2024&gt;
+
+### Section 7. - [<sup>1</sup> Conditions régissant la coopération administrative]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+##### Art. 64octies
+
+[<sup>1</sup> § 1er. [<sup>4</sup> § 1er. Les informations dont dispose la Région wallonne en application des articles 64bis à 64duodecies sont couvertes par le secret officiel et bénéficient de la protection accordée à des informations de même nature par le droit national de l'Etat membre qui les a reçues.
+
+Ces informations peuvent servir :
+
+1° à l'établissement, à l'administration et à l'application des taxes et impôts visés par la législation wallonne relative aux taxes et impôts visés à l'article 2 de la directive et d'autres taxes indirectes, et à la lutte contre le blanchiment de capitaux et le financement du terrorisme;
+
+2° à l'établissement et au recouvrement d'autres taxes et droits relevant de l'article 2 du décret du 5 juillet 2012 transposant la directive 2010/24/UE du Conseil du 16 mars 2010 concernant l'assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts, droits et autres mesures, et pour établir et recouvrer des cotisations sociales obligatoires;
+
+3° à l'occasion de procédures judiciaires et administratives pouvant entraîner des sanctions, engagées à la suite d'infractions à la législation en matière fiscale, sans préjudice des règles générales et des dispositions légales régissant les droits des prévenus et des témoins dans le cadre de telles procédures.
+
+Avec l'autorisation de l'autorité compétente étrangère qui a communiqué les informations conformément à la directive et pour autant que cela soit autorisé par le droit applicable en Région wallonne, les informations et documents reçus de cette autorité peuvent être utilisés à des fins autres que celles visées à l'alinéa 2. L'autorité compétente belge qui reçoit les informations et les documents peut toutefois utiliser les informations et les documents reçus sans obtenir l'autorisation susvisée :
+
+1° pour l'une des finalités énumérées par l'Etat membre qui communique les informations, lorsque l'autorité compétente de ce dernier Etat membre a communiqué aux autorités compétentes de tous les autres Etats membres une liste des finalités autres que celles visées à l'alinéa 2, pour lesquelles, conformément à son droit national, des informations et des documents peuvent être utilisés;
+
+2° pour toute finalité relevant d'un acte fondé sur l'article 215 du traité sur le fonctionnement de l'Union européenne et les partager à cette fin avec l'autorité compétente chargée des mesures restrictives dans l'Etat membre concerné.
+
+Lorsque l'autorité compétente belge estime que les informations qu'elle a reçues d'une autorité compétente étrangère sont susceptibles d'être utiles à l'autorité compétente étrangère d'un troisième Etat membre pour les fins visées à l'alinéa 2, elle informe l'autorité compétente de l'Etat membre à l'origine des informations de son intention de communiquer ces informations à un troisième Etat membre. Si l'autorité compétente de l'Etat membre à l'origine des informations ne s'oppose pas dans un délai de quinze jours civils à compter de la date de réception de la communication à cet échange d'informations, l'autorité compétente belge peut transmettre les informations à l'autorité compétente étrangère du troisième Etat membre à condition qu'elle respecte les règles et procédures fixées dans les articles précédents.
+
+Lorsque l'autorité compétente belge estime que les informations transmises par une autorité compétente étrangère conformément à l'alinéa 4 peuvent être utiles pour les fins visées à l'alinéa 3, elle demande pour ce faire, l'autorisation à l'autorité compétente de l'Etat membre d'où proviennent ces informations.
+
+Les informations, les rapports, les attestations et tous les autres documents, ou les copies certifiées conformes ou les extraits de ces derniers, obtenus par l'autorité requise et transmis à l'autorité compétente belge requérante conformément au présent article sont invoqués comme éléments de preuve par les instances compétentes belges au même titre que les informations, les rapports, les attestations et tous les autres documents équivalents fournis par une autre instance belge]<sup>4</sup>.
+
+§ 2. L'autorité compétente belge peut autoriser l'utilisation, dans l'Etat membre qui les reçoit, des informations communiquées conformément aux précédents articles, à d'autres fins que celles visées au paragraphe 1er, alinéa 2, du présent article. L'autorité compétente belge donne l'autorisation à condition que leur utilisation soit possible en Région wallonne à des fins similaires.
+
+Lorsque l'autorité étrangère considère que les informations qu'elle a reçues de l'autorité compétente belge sont susceptibles d'être utiles à l'autorité compétente étrangère d'un troisième Etat membre pour les fins visées à au paragraphe 1er, alinéa 2, du présent article, l'autorité compétente belge peut autoriser cette autorité compétente étrangère à partager ces informations avec un troisième Etat. Si l'autorité compétente belge ne souhaite pas donner son autorisation, elle signifie son refus dans un délai de dix jours à compter de la date de réception de la communication par l'Etat membre qui souhaite partager les informations.
+
+Lorsque l'autorité étrangère considère que les informations qu'elle a reçues de l'autorité compétente belge sont susceptibles d'être utiles à l'autorité compétente étrangère d'un troisième Etat membre pour les fins visées au paragraphe 1er, alinéa 3, du présent article, l'autorité compétente belge peut accorder la permission à l'autorité compétente étrangère de communiquer ces informations à un troisième Etat membre.
+
+§ 3. [<sup>3</sup> Préalablement à la demande d'informations visée à l'article 64ter, § 1er, l'autorité compétente belge doit d'abord avoir exploité les sources habituelles d'information auxquelles elle peut avoir recours pour obtenir les informations demandées sans risquer de nuire à la réalisation du but recherché.
+
+Préalablement à la demande d'informations visée à l'article 64ter, § 2, l'autorité compétente étrangère doit d'abord avoir exploité les sources habituelles d'information auxquelles elle peut avoir recours pour obtenir les informations demandées sans risquer de nuire à la réalisation du but recherché]<sup>3</sup>.
+
+§ 4. L'autorité compétente belge n'est pas autorisée à procéder à des enquêtes ou de transmettre des informations dès lors que la réalisation de telles enquêtes ou la collecte des informations en question aux propres fins de la Région wallonne serait contraire à sa législation.
+
+L'autorité compétente belge peut refuser de transmettre des informations lorsque :
+
+1\. l'Etat membre requérant n'est pas en mesure, pour des raisons juridiques, de fournir des informations similaires;
+
+2\. cela conduirait à divulguer un secret commercial, industriel ou professionnel ou un procédé commercial, ou une information dont la divulgation serait contraire à l'ordre public.
+
+L'autorité compétente belge informe l'autorité requérante des motifs du rejet de la demande d'informations.
+
+§ 5. L'autorité compétente belge met en oeuvre son dispositif de collecte de renseignements afin d'obtenir les informations demandées, même si ces dernières ne lui sont pas nécessaires pour ses propres besoins fiscaux. Cette obligation s'applique sans préjudice du § 4, alinéas 1er et 2, dont les dispositions ne sauraient en aucun cas être interprétées comme autorisant la Région wallonne à refuser de fournir des informations au seul motif que ces dernières ne présentent pour elle aucun intérêt.
+
+Le § 4, alinéas 1er et 2, ne saurait en aucun cas être interprété comme autorisant l'autorité compétente belge à refuser de fournir des informations au seul motif que ces informations sont détenues par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu'agent ou fiduciaire, ou qu'elles se rapportent à une participation au capital d'une personne.
+
+Nonobstant l'alinéa 2, l'autorité compétente belge peut refuser de transmettre des informations demandées lorsque celles-ci portent sur des périodes imposables antérieures au 1er janvier 2011 et que la transmission de ces informations aurait pu être refusée sur la base de l'article 8, point 1er, de la Directive 77/799/CE si elle avait été demandée avant le 11 mars 2011.
+
+[<sup>4</sup> L'autorité compétente belge met en place un mécanisme efficace pour garantir l'utilisation des informations obtenues dans le cadre de la déclaration ou de l'échange d'informations au titre des articles 64quinquies à 64quinquies/15.]<sup>4</sup>
+
+§ 6. Lorsque la Région wallonne offre à un pays tiers une coopération plus étendue que celle prévue par la directive, elle ne peut pas refuser cette coopération étendue à un Etat membre souhaitant prendre part à une telle forme de coopération mutuelle plus étendue.
+
+§ 7. [<sup>3</sup> Les demandes d'informations et d'enquêtes administratives introduites en vertu de l'article 64ter, § 1er, ainsi que les réponses correspondantes, les accusés de réception, les demandes de renseignements de caractère général et les déclarations d'incapacité ou de refus au titre de l'article 64quater sont, dans la mesure du possible, transmis au moyen d'un formulaire type adopté par la Commission. Les formulaires types peuvent être accompagnés de rapports, d'attestations et de tous autres documents, ou de copies certifiées conformes ou extraits de ces derniers.
+
+L'autorité compétente belge peut, dans la mesure où ils sont connus et conformément à l'évolution de la situation internationale, fournir les noms et adresses de toutes les personnes dont il y a lieu de penser qu'elles sont en possession des informations demandées, ainsi que tout élément susceptible de faciliter la collecte des informations par l'autorité requise. Les informations échangées spontanément et l'accusé de réception les concernant, au titre, respectivement, de l'article 64sexies, alinéas 1er et 4, les demandes de notification administrative au titre de l'article 64septies/2, les retours d'information au titre de l'article 64septies/3, les communications au titre du paragraphe 1er, alinéas 3, 4 et 5, et les communications au titre de l'article 64novies, alinéa 2, sont transmis à l'aide du formulaire type adopté par la Commission.
+
+Les échanges automatiques d'informations au titre de l'article 64quinquies et de l'article 64quinquies/4 sont effectués dans un format informatique standard conçu pour faciliter cet échange automatique et basé sur le format informatique existant en vertu de l'article 9 de la directive 2003/48/CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de l'épargne sous forme de paiements d'intérêts, qui est utilisé pour tous les types d'échanges automatiques d'informations et qui est adopté par la Commission européenne]<sup>3</sup>.]<sup>2</sup>
+
+§ 8. [<sup>2</sup> Les informations communiquées au titre du présent article sont, dans la mesure du possible, fournies par voie électronique au moyen du réseau CCN.
+
+L'autorité compétente veille à ce que chaque personne physique faisant l'objet d'une déclaration soit informée de tout manquement à la sécurité concernant ses données lorsque ces manquements sont susceptibles de porter atteinte à la protection de ses données à caractère personnel ou de sa vie privée.
+
+Les demandes de coopération, y compris les demandes de notification et les pièces annexées, peuvent être rédigées dans toute langue choisie d'un commun accord par l'autorité requise et l'autorité requérante. Lesdites demandes sont accompagnées d'une traduction dans l'une des langues officielles de la Belgique uniquement dans des cas particuliers et à condition que l'autorité compétente belge motive sa demande de traduction.]<sup>2</sup> ]<sup>1</sup>
+
+[<sup>4</sup> § 9. L'autorité compétente belge exige que le NIF des personnes physiques ou des entités déclarées délivré par l'Etat membre de résidence soit déclaré par l'entité déclarante ou la personne physique déclarante et communiqué par chaque Etat membre lorsque les articles 64bis à 64quinquies/15 l'exigent explicitement, et conformément à ceux-ci.]<sup>4</sup>
+
+[<sup>4</sup> § 10. Sans préjudice de l'article 64decies, § 4, l'autorité compétente belge conserve les registres contenant les informations reçues dans le cadre de l'échange automatique d'informations conformément aux articles 64quinquies à 64quinquies/15 pendant une période limitée au strict nécessaire mais, en tout état de cause, d'une durée d'au moins cinq ans à compter de la date de leur réception, dans le but d'atteindre les objectifs des articles 64bis à 64duodecies.
+
+§ 11. L'autorité compétente belge veille à ce que l'entité déclarante soit autorisée à obtenir confirmation par voie électronique de la validité des informations relatives au NIF de tout contribuable faisant l'objet de l'échange d'informations conformément aux articles 64quinquies à 64quinquies/15. La confirmation des informations relatives au NIF peut être uniquement demandée aux fins de la validation de l'exactitude des données visées à l'article 64quinquies, § 1er, à l'article 64quinquies/1, § 5, à l'article 64quinquies/2, § 14, à l'article 64quinquies/4, § 2, et à l'article 64quinquies/10, § 2 ]<sup>4</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DRW 2016-04-14/01, art. 4, 013; En vigueur : 01-01-2016&gt;
+
+(3)&lt;DRW 2023-07-12/11, art. 82, 030; En vigueur : 28-09-2023&gt;
+
+(4)&lt;DRW 2025-12-19/B4, art. 19, 035; En vigueur : 01-01-2026&gt;
+
+### Section 8. - [<sup>1</sup> Relations avec les pays tiers]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+##### Art. 64novies
+
+[<sup>1</sup> Lorsque des informations vraisemblablement pertinentes pour l'administration et l'application de la législation wallonne relative à l'ensemble des taxes et impôts perçus par la Région wallonne ou pour son compte, par ses subdivisions territoriales ou administratives ou pour leur compte, y compris les autorités locales sont communiquées par un pays tiers à l'autorité compétente belge, cette dernière peut, dans la mesure où un accord avec ce pays tiers l'autorise, transmettre ces informations aux autorités compétentes des Etats membres auxquels ces informations pourraient être utiles et à toute autorité compétente étrangère qui en fait la demande.
+
+L'autorité compétente belge peut, en tenant compte de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel, transmettre à un pays tiers, conformément aux dispositions belges applicables en Région wallonne, à la communication de données à caractère personnel à des pays tiers, les informations obtenues en application du présent article, pour autant que l'ensemble des conditions suivantes soient remplies :
+
+a) l'autorité compétente étrangère de l'Etat membre d'où proviennent les informations a donné son accord préalable;
+
+b) le pays tiers concerné s'est engagé à coopérer pour réunir des éléments prouvant le caractère irrégulier ou illégal des opérations qui paraissent être contraires ou constituer une infraction à la législation fiscale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-09-19/23, art. 7, 008; En vigueur : 01-01-2013&gt;
+
+### Section 9 [<sup>1</sup> Protection des données ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 83, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64decies
+
+[<sup>1</sup> § 1er. Tous les échanges d'informations au titre du présent chapitre IXbis sont soumis au Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, ci-après dénommé Règlement Général sur la Protection des Données.
+
+§ 2. [<sup>3</sup> Les responsables du traitement des données à caractère personnel pour l'application des articles 64bis à 64duodecies, agissant seuls ou conjointe- ment, sont les intermédiaires, les opérateurs de plateformes déclarants, les Prestataires de services sur Crypto-actifs déclarant et l'autorité compétente belge visée à l'article 64bis, § 1er, alinéa 4, 6°. Le traitement des don- nées à caractère personnel par la Commission européenne pour le compte de l'autorité compétente belge visée à l'article 64bis, § 1er, alinéa 4, 6°, est régi par un contrat conformément à l'article 28, § 3, du Règlement général sur la protection des données et à l'article 29, § 3, du Règlement (UE) 2018/1725 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les institutions, organes et organismes de l'Union et à la libre circulation de ces données ]<sup>3</sup>.
+
+Les catégories suivantes de données à caractère personnel, sont traitées dans le cadre de l'alinéa 1er :
+
+1° les données d'identification personnelles, le numéro du registre national ou le numéro d'identification de la sécurité sociale et d'autres données d'identification telles que le numéro d'identification fiscal;
+
+2° les particularités financières;
+
+3° les caractéristiques personnelles;
+
+4° les modes de vies;
+
+5° la composition du ménage.
+
+§ 3. Dans le cadre de l'article 64quinquies/2, la finalité de ce traitement est l'échange de ces informations entre [<sup>2</sup> la Région wallonne et les autres ]<sup>2</sup> Etats membres aux fins de permettre aux administrations fiscales d'avoir un aperçu en amont des planifications fiscales à caractère potentiellement agressif, de permettre la détection de risque de certains dossiers et de créer un effet dissuasif à l'égard de la planification successorale, le tout dans le cadre fiscal.
+
+Dans le cadre des dispositions du présent chapitre IXbis autres que l'article 64quinquies/2, la finalité de ce traitement est l'échange de ces informations entre [<sup>2</sup> la Région wallonne et les autres ]<sup>2</sup> Etats membres aux fins d'exécuter les missions légales du Service public de Wallonie Finances, en ce qui concerne l'établissement, les investigations, les contrôles, le contentieux, la perception et le recouvrement en matière de taxes visées par l'article 1er.
+
+§ 4. Sans préjudice [<sup>2</sup> des articles 64quinquies/5, alinéa 2 et 64octies, § 10, et sans préjudice ]<sup>2</sup> de la conservation nécessaire pour le traitement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques visé à l'article 89 du Règlement Général sur la Protection des Données, les données à caractère personnel qui résultent des traitements prévus au présent chapitre IXbis ne sont pas conservées plus longtemps que nécessaire au regard des finalités pour lesquelles elles sont traitées avec une durée maximale de conservation qui n'excède pas un an après la prescription de toutes les actions qui relèvent de la compétence du responsable du traitement et, le cas échéant, la cessation définitive des procédures et recours administratifs, judiciaires et extrajudiciaires découlant du traitement de ces données, ainsi que du paiement intégral de tous les montants y liés.
+
+§ 5. [<sup>2</sup> Chaque intermédiaire, opérateur de plateformes déclarant ou prestataire de services sur Crypto-actifs déclarant, selon le cas, qui relève du territoire de la Région wallonne :
+
+1° informe chaque personne physique concernée que des informations le concernant seront recueillies et transférées conformément aux articles 64bis à 64duodecies;
+
+2° transmet à chaque personne physique concernée toutes les informations auxquelles elle peut avoir accès qui proviennent du responsable du traitement dans un délai suffisant pour lui permettre d'exercer ses droits en matière de protection des données et, en tout état de cause, avant que les informations ne soient déclarées]<sup>2</sup>.
+
+Nonobstant l'alinéa 1er, 2°, les Opérateurs de Plateformes déclarants doivent informer les Vendeurs à déclarer de la Contrepartie déclarée.
+
+[<sup>2</sup> § 6. Lorsqu'une violation de données s'est produite en Région wallonne, l'autorité compétente belge notifie sans tarder à la Commission européenne la violation de données et toute mesure corrective ultérieure. L'Autorité compétente belge procède à une enquête sur la violation de données, la maîtrise et y remédie, et, moyennant préavis écrit à la Commission européenne, demande la suspension de l'accès au réseau CCN aux fins des articles 64bis à 64duodecies, si la violation de données ne peut être maîtrisée immédiatement et de manière appropriée. L'Autorité compétente belge notifie à la Commission européenne tout mesure correctrice prise immédiatement ou ultérieurement, dès sa mise en oeuvre.
+
+L'Autorité compétente belge peut suspendre l'échange d'informations avec l'Etat membre ou les Etats membres dans lequel ou lesquels la violation s'est produite et informe par écrit la Commission européenne et l'Etat membre ou les Etats membres concernés de cette suspension. Cette suspension prend effet immédiatement. L'Autorité compétente belge peut demander à la Commission européenne de vérifier avec elle s'il a été remédié avec succès à la violation des données.
+
+§ 7. L'Autorité compétente belge, assistée par la Commission européenne, arrête les modalités pratiques nécessaires à la mise en oeuvre du présent article, y compris les processus de gestion des violations de données en accord avec les bonnes pratiques reconnues au niveau international et, le cas échéant, un accord conjoint entre les responsables du traitement, un accord entre les sous-traitants et les responsables du traitement, ou des modèles de ces accords.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 84, 030; En vigueur : 28-09-2023&gt;
+
+(2)&lt;DRW 2025-12-19/B4, art. 20, 035; En vigueur : 01-01-2026&gt;
+
+##### Art. 64undecies
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 64decies, § 1er, et aux articles 13 et 14, du Règlement Général sur la Protection des Données, le droit d'information peut être retardé, limité ou exclu s'agissant des traitements de données à caractère personnel dont le Service public de Wallonie Finances est le responsable du traitement afin de garantir les objectifs d'intérêt public dans le domaine budgétaire, monétaire et fiscal et pour autant que l'article 14, § 5, d), dudit Règlement ne soit pas invoqué dans le cas d'espèce.
+
+Les traitements visés à l'alinéa 1er sont ceux dont la finalité est la préparation, l'organisation, la gestion et le suivi des enquêtes menées par les services compétents du Service public de Wallonie Finances, en ce compris les procédures visant à l'application éventuelle d'une amende administrative ou sanction administrative.
+
+§ 2. Ces dérogations valent durant la période pendant laquelle la personne concernée fait l'objet d'un contrôle ou d'une enquête ou d'actes préparatoires à ceux-ci effectués par les services précités dans le cadre de l'exécution de leurs missions légales ainsi que durant la période durant laquelle sont traités les pièces provenant de ces services, en vue d'exercer les poursuites en la matière.
+
+Ces dérogations valent dans la mesure où l'application de ce droit nuirait aux besoins du contrôle, de l'enquête ou des actes préparatoires ou risque de violer le secret de l'enquête pénale ou la sécurité des personnes.
+
+La durée des actes préparatoires, visés à l'alinéa 2, pendant laquelle les articles 13 et 14 du Règlement Général sur la Protection des Données ne sont pas applicables, n'excède pas un an à partir de la réception d'une demande concernant la communication d'informations à fournir en application des articles 13 et 14 précités.
+
+L'exception visée au paragraphe 1er, alinéa 1er, ne vise pas les données qui sont étrangères à l'objet de l'enquête ou du contrôle justifiant le refus ou la limitation d'information.
+
+§ 3. Dès réception d'une demande concernant la communication d'informations à fournir visée au paragraphe 2, alinéa 3, le délégué à la protection des données du responsable du traitement en accuse réception.
+
+Le délégué à la protection des données du responsable du traitement informe la personne concernée par écrit, dans les meilleurs délais, et en tout état de cause dans un délai d'un mois à compter de la réception de la demande, de tout refus ou de toute limitation d'information, ainsi que des motifs du refus ou de la limitation. Ces informations concernant le refus ou la limitation peuvent ne pas être fournies lorsque leur communication risque de compromettre l'une des finalités énoncées au paragraphe 1er, alinéa 2. Au besoin, ce délai peut être prolongé de deux mois, compte tenu de la complexité et du nombre de demandes. Le responsable du traitement informe la personne concernée de cette prolongation et des motifs du report dans un délai d'un mois à compter de la réception de la demande.
+
+Le délégué à la protection des données du responsable du traitement informe la personne concernée des possibilités d'introduire une réclamation auprès de l'Autorité de protection des données et de former un recours juridictionnel.
+
+Le délégué à la protection des données du responsable du traitement consigne les motifs de fait ou de droit sur lesquels se fonde la décision. Ces informations sont mises à la disposition de l'Autorité de protection des données.
+
+Lorsque le Service public de Wallonie Finances a fait usage de l'exception telle que déterminée au paragraphe 1er, alinéa 1er, et à l'exception des situations visées aux alinéas 6 et 7, la règle de l'exception est immédiatement levée après la clôture du contrôle ou de l'enquête. Le délégué à la protection des données du responsable du traitement en informe la personne concernée sans délai.
+
+Lorsqu'un dossier est transmis à l'autorité judiciaire, les droits de la personne concernée sont rétablis seulement après autorisation de l'autorité judiciaire, ou après que la phase judiciaire soit terminée, et, le cas échéant, après que le service compétent ait pris une décision. Toutefois, les renseignements recueillis à l'occasion de l'exécution de devoirs prescrits par l'autorité judiciaire sont communiqués seulement avec l'autorisation expresse de celle-ci.
+
+Lorsqu'un dossier est transmis à un autre service du Service public de Wallonie Finances ou à l'institution compétente pour statuer sur les conclusions de l'enquête, les droits sont rétablis seulement après que ce service ou l'institution compétente ait statué sur le résultat de l'enquête. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2023-07-12/11, art. 85, 030; En vigueur : 28-09-2023&gt;
+
+##### Art. 64duodecies
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 64decies, § 1er, et à l'article 15 du Règlement Général sur la Protection des Données, le droit d'accès aux données à caractère personnel la concernant peut être retardé, limité entièrement ou partiellement s'agissant des traitements de données à caractère personnel dont le Service public de Wallonie Finances est le responsable du traitement afin de garantir les objectifs d'intérêt public dans le domaine budgétaire, monétaire et fiscal.
+
+Les traitements visés à l'alinéa 1er sont ceux dont la finalité est la préparation, l'organisation, la gestion et le suivi des enquêtes menées par les services compétents du Service public de Wallonie Finances, en ce compris les procédures visant à l'application éventuelle d'une amende administrative ou sanction administrative.
+
+§ 2. Ces dérogations valent durant la période pendant laquelle la personne concernée fait l'objet d'un contrôle, d'une enquête ou d'actes préparatoires à ceux-ci, effectués par les services précités dans le cadre de l'exécution de ses missions légales ainsi que durant la période durant laquelle sont traités les documents provenant de ces services en vue d'exercer les poursuites en la matière.
+
+Ces dérogations valent dans la mesure où l'application de ce droit risque de nuire aux besoins du contrôle, de l'enquête ou des actes préparatoires ou de violer le secret de l'enquête pénale ou la sécurité des personnes physiques.
+
+La durée des actes préparatoires, visés à l'alinéa 2, pendant laquelle l'article 15 du Règlement Général sur la Protection des Données n'est pas applicable, n'excède pas un an à partir de la réception de la demande introduite en application de l'article 15 précité.
+
+L'exception visée au paragraphe 1er, alinéa 1er, ne vise pas les données qui sont étrangères à l'objet de l'enquête ou du contrôle justifiant le refus ou la limitation d'accès.
+
+§ 3. Dès réception d'une demande d'accès, le délégué à la protection des données du responsable du traitement en accuse réception.
+
+Le délégué à la protection des données du responsable du traitement informe la personne concernée par écrit, dans les meilleurs délais, et en tout état de cause dans un délai d'un mois à compter de la réception de la demande, de tout refus ou de toute limitation à son droit d'accès aux données la concernant, ainsi que des motifs du refus ou de la limitation. Ces informations concernant le refus ou la limitation peuvent ne pas être fournies lorsque leur communication risque de compromettre l'une des finalités énoncées au paragraphe 1er, alinéa 2. Au besoin, ce délai peut être prolongé de deux mois, compte tenu de la complexité et du nombre de demandes. Le responsable du traitement informe la personne concernée de cette prolongation et des motifs du report dans un délai d'un mois à compter de la réception de la demande.
+
+Le délégué à la protection des données du responsable du traitement informe la personne concernée des possibilités d'introduire une réclamation auprès de l'Autorité de protection des données et de former un recours juridictionnel.
+
+Le délégué à la protection des données du responsable du traitement consigne les motifs de fait ou de droit sur lesquels se fonde la décision. Ces informations sont mises à la disposition de l'Autorité de protection des données.
+
+Lorsque le Service public de Wallonie Finances a fait usage de l'exception visée au paragraphe 1er, alinéa 1er, et à l'exception des situations visées aux alinéas 6 et 7, la règle de l'exception est immédiatement levée après la clôture du contrôle ou de l'enquête. Le délégué à la protection des données du responsable du traitement en informe la personne concernée sans délai.
+
+Lorsqu'un dossier est transmis à l'autorité judiciaire, les droits de la personne concernée sont rétablis seulement après autorisation de l'autorité judiciaire, ou après que la phase judiciaire soit terminée, et, le cas échéant, après que le service compétent ait pris une décision. Toutefois, les renseignements recueillis à l'occasion de l'exécution de devoirs prescrits par l'autorité judiciaire sont communiqués seulement avec l'autorisation expresse de celle-ci.
+
+Lorsqu'un dossier est transmis à un autre service du Service public de Wallonie Finances ou à l'institution compétente pour statuer sur les conclusions de l'enquête, les droits sont rétablis seulement après que ce service ou l'institution compétente ait statué sur le résultat de l'enquête. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-07-12/11, art. 86, 030; En vigueur : 28-09-2023&gt;
+
+## CHAPITRE X. - Dispositions modificatives et abrogatoires.
+
+##### Art. 65
+
+Dans le décret du 25 juillet 1991 relatif à la taxation des déchets en Région wallonne, sont apportées les modifications suivantes :
+
+1° dans le chapitre II, section II insérée par le décret du 16 juillet 1998, l'intitulé de la sous-section première est remplacé par l'intitulé suivant : " Fait générateur de la taxe ";
+
+2° à l'article 6bis inséré par le décret du 16 juillet 1998, les mots " du prélèvement sur les déchets visés " sont remplacés par les mots " de la taxe visée ";
+
+3° aux articles 6ter, 6quinquies, 18ter et 25, alinéa 2, insérés par le décret du 16 juillet 1998, les mots " du prélèvement " sont remplacés par les mots " de la taxe ";
+
+4° aux articles 6quater et 18bis, insérés par le décret du 16 juillet 1998, les mots " Le prélèvement " sont remplacés par les mots " La taxe ";
+
+5° l'article 21, remplacé par le décret du 17 décembre 1992, est complété par l'alinéa suivant :
+
+" A défaut de paiement de l'acompte dans le délai fixé, l'intérêt de retard dû est calculé sur la somme due par jour de retard sur base de trois cent soixante-cinq jours calendrier. ";
+
+6° à l'article 28, alinéa 1er, modifié par le décret du 16 juillet 1998, les mots " ou le prélèvement " sont supprimés, et les mots " la taxe ou le prélèvement éludés ou payés " sont remplacés par les mots " la taxe éludée ou payée ".
+
+##### Art. 66
+
+Sont abrogés dans le décret du 25 juillet 1991 relatif à la taxation des déchets en Région wallonne :
+
+1° l'article 17;
+
+2° l'article 18, §§ 2 et 3, modifié par le décret du 16 juillet 1998;
+
+3° les articles 20, alinéa 3, 22, alinéa 4, 23, 23bis, 23ter et 24, remplacés par le décret du 17 décembre 1992;
+
+4° les articles 26, 27, 29 et 30, modifiés par le décret du 16 juillet 1998;
+
+5° l'article 31;
+
+6° l'article 32 modifié par le décret du 16 juillet 1998;
+
+7° l'article 33;
+
+8° l'article 34 remplacé par le décret du 17 décembre 1992.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 6 mai 1999.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, du Commerce extérieur, des P.M.E, du Tourisme et du Patrimoine,
+
+R. COLLIGNON
+
+Le Ministre de l'Aménagement du Territoire, de l'Equipement et des Transports,
+
+M. LEBRUN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+B. ANSELME
+
+Le Ministre du Budget et des Finances, de l'Emploi et de la Formation,
+
+J-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de la Recherche, du Développement technologique, du Sport et des Relations internationales,
+
+W. ANCION

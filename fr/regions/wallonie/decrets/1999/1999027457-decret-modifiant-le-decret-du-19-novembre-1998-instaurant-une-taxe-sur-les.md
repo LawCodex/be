@@ -1,0 +1,63 @@
+---
+title: "Décret modifiant le décret du 19 novembre 1998 instaurant une taxe sur les logements abandonnés en Région wallonne."
+identifier: "1999027457"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027457/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1999-05-06
+published: 1999-06-10
+entry_into_force: 1999-06-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027457/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 6 MAI 1999. - Décret modifiant le décret du 19 novembre 1998 instaurant une taxe sur les logements abandonnés en Région wallonne.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. A l'article 2, 4°, du décret du 19 novembre 1998 instaurant une taxe sur les logements abandonnés en Région wallonne, est apportée la modification suivante :
+
+le 4° est remplacé par le texte suivant :
+
+" 4° le logement pour lequel aucune personne n'est inscrite dans les registres de la population pendant une période d'au moins douze mois consécutifs, sauf si le titulaire de droits réels justifie que le logement a servi effectivement soit d'habitation, soit de lieu d'exercice d'activités économiques, sociales ou autres.
+
+L'occupation sans droit ni titre par une personne sans abri n'interrompt pas l'inoccupation. ".
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 6 mai 1999.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, du Commerce extérieur, des P.M.E., du Tourisme et du Patrimoine,
+
+R. COLLIGNON
+
+Le Ministre de l'Aménagement du territoire, de l'Equipement et des Transports,
+
+M. LEBRUN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+B. ANSELME
+
+Le Ministre du Budget et des Finances, de l'Emploi et de la Formation,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de la Recherche, du Développement technologique, du Sport et des Relations internationales,
+
+W. ANCION

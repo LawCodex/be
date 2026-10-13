@@ -1,0 +1,159 @@
+---
+title: "Décret instituant le Code wallon du logement [et de l'habitat durable]. <Intitulé modifié par DRW 2012-02-09/05 , art. 1, 005; En vigueur : 20-04-2012 (voir ARW 2012-03-23/07 , art. 12)>"
+identifier: "1998027652"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1998/10/29/1998027652/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1998-10-29
+published: 1998-12-04
+entry_into_force: 1999-03-01
+last_amended: 2012-03-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1998/10/29/1998027652/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 04-12-1998 et mise à jour au 09-03-2012"
+retrieved: 2026-10-12
+---
+
+# 29 OCTOBRE 1998. - Décret instituant le Code wallon du logement [et de l'habitat durable]. &lt;Intitulé modifié par DRW 2012-02-09/05 , art. 1, 005; En vigueur : 20-04-2012 (voir ARW 2012-03-23/07 , art. 12)&gt;
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Les dispositions qui suivent forment le Code wallon du logement [<sup>1</sup> et de l'habitat durable]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2012-02-09/05, art. 2, 005; En vigueur : indéterminée et au plus tard le 01-07-2012&gt;
+
+## Art. 2
+
+Sont abrogés :
+
+1° le Code du logement, annexé à l'arrêté royal du 10 décembre 1970 et confirmé par la loi du 2 juillet 1971, modifié par les lois du 2 juillet 1971, du 18 mai 1973 et du 19 juillet 1976 et par les décrets du 26 janvier 1983, du 3 mai 1983, du 28 juin 1983, du 25 octobre 1984, du 1er décembre 1988, du 26 avril 1990, du 20 juillet 1990, du 19 décembre 1996 et du 17 décembre 1997;
+
+2° le décret du 25 octobre 1984 instituant la Société régionale wallonne du logement, modifié par les décrets du 15 octobre 1986, du 1er décembre 1988, du 4 juillet 1991, du 29 octobre 1992, du 7 juillet 1994, du 24 novembre 1994 et du 25 janvier 1996;
+
+3° le décret du 6 avril 1995 concernant les normes de qualité et de sécurité de logements collectifs et de petits logements individuels loués ou mis en location à titre de résidence principale;
+
+4° les articles 9, 12 et 14 du décret-programme du 19 décembre 1996 portant diverses mesures en matière des finances, emploi, environnement, travaux subsidiés, logement et action sociale.
+
+## Art. 3
+
+&lt;DRW 2003-05-15/82, art. 134, 004 ; En vigueur : 01-07-2003&gt; Les sociétés immobilières de service public agréées au 1er mars 1999 sont assimilées, pour l'application des dispositions du Code wallon du Logement, à des sociétés de logements de service public.
+
+Elles conservent le bénéfice de leur agrément jusqu'au 31 décembre 2002, sauf en cas de renonciation de leur part notifiée à la Société wallonne du Logement par pli recommandé à la poste ou en cas de refus de renouvellement ou de retrait de leur agrément par la Société wallonne du Logement.
+
+Par dérogation à l'alinéa qui précède, à titre transitoire, les sociétés immobilières ou de logement de service public qui ont centré leur activité sur l'article 131, 3° et/ou 4°, du Code, dites sociétés de logement du type " acquisitives ", bénéficiant de l'agrément de la Société wallonne du Logement au 31 décembre 2002, et les organismes de crédit bénéficiant d'un agrément de la Région à cette même date continuent à bénéficier de cet agrément jusqu'à la date d'obtention de l'agrément régional accordé par la Société wallonne du Crédit social en qualité de Guichet du Crédit social ou au plus tard jusqu'à trois mois calendrier après l'entrée en vigueur de l'arrêté du Gouvernement wallon fixant le règlement général d'agrément des Guichets du Crédit social, sauf en cas de renonciation de leur part notifiée au Gouvernement par pli recommandé à la poste ou en cas de refus de renouvellement ou de retrait de leur agrément par la Société wallonne du Crédit social.
+
+Les organismes à finalité sociale visés au chapitre VI du titre III du Code wallon du Logement qui bénéficient d'un agrément en qualité d'agence immobilière sociale ou de régie de quartier sociale conservent le bénéfice de leur agrément jusqu'à la date d'obtention de l'agrément régional accordé en qualité d'agence immobilière sociale ou de régie des quartiers ou au plus tard jusqu'à trois mois calendrier après l'entrée en vigueur de l'arrêté du Gouvernement wallon fixant le règlement général d'agrément des agences immobilières sociales, des régies des quartiers et des associations de promotion du logement, sauf renonciation de leur part notifiée au Gouvernement par pli recommandé à la poste ou retrait de leur agrément.
+
+## Art. 4
+
+Dans l'article 1er du décret du 25 octobre 1984 instituant la Société régionale wallonne du logement, modifié par le décret du 7 juillet 1994, les mots " Société régionale wallonne du logement " sont remplacés par les mots " Société wallonne du logement ".
+
+## Art. 5
+
+La Société wallonne du logement élabore le programme global visé à l'article 141 sub article 1er dans les deux ans qui suivent l'entrée en vigueur du présent décret.
+
+## Art. 6
+
+L'article 4 entre en vigueur le jour de la publication du présent décret. Dans le Code wallon du logement, les articles 100, alinéa 2, 146, 148, 152, 184, alinéa 2, et 187 à 190 entrent en vigueur le 1er janvier 2001.
+
+Sous réserve des alinéas 1er et 2, le Code wallon du logement entre en vigueur le premier jour du troisième mois qui suit la publication du présent décret.
+
+## Art. 7
+
+&lt;inséré par DRW 2003-05-15/82, art. 135 ; En vigueur : 01-07-2003&gt; Les plans d'assainissement visés par le décret du 25 octobre 1984 instituant la Société régionale wallonne du Logement sont assimilés à des plans de gestion pour l'application du Code wallon du Logement.
+
+## Art. 8
+
+&lt;inséré par DRW 2003-05-15/82, art. 136 ; En vigueur : 01-07-2003&gt; Le premier contrat de gestion entre la Région wallonne et la Société wallonne du Crédit social doit entrer en vigueur au plus tard le 1er janvier 2004.
+
+Un nouveau contrat de gestion entre la Région wallonne et la Société wallonne du Logement doit entrer en vigueur au plus tard le 1er janvier 2004.
+
+Un nouveau contrat de gestion entre la Région wallonne et le Fonds du Logement des Familles nombreuses de Wallonie doit entrer en vigueur au plus tard le 1er janvier 2004.
+
+A défaut d'accord à ces dates sur le contenu d'un contrat de gestion, le Gouvernement peut arrêter, pour la durée d'un exercice budgétaire, des dispositions dont le contenu correspond à celui des articles 109, § 1er, 175.17, § 2, 180, § 2.
+
+## Art. 9
+
+&lt;inséré par DRW 2003-05-15/82, art. 137 ; En vigueur : 01-07-2003&gt; Dans les limites des emplois prévus au cadre de la Société wallonne du Crédit social et suivant les modalités et aux conditions fixées par le Gouvernement, des agents de la Société wallonne du Logement peuvent être transférés à la Société wallonne du Crédit social.
+
+Les membres du personnel ainsi transférés le sont dans leur grade ou à un grade équivalent et en leur qualité. Ils conservent au moins les droits pécuniaires et l'ancienneté qu'ils avaient ou auraient obtenus s'ils avaient continué à exercer dans leur service d'origine la fonction dont ils étaient titulaires au moment de leur transfert.
+
+## Art. 10
+
+&lt;inséré par DRW 2003-05-15/82, art. 138 ; En vigueur : 01-07-2003&gt; La Société wallonne du Crédit social s.a., personne morale de droit public, reprend les droits et les obligations de la Société wallonne du Crédit social s.a., personne morale de droit privé.
+
+Elle reprend les droits et obligations liés aux activités de prêts hypothécaires exercées par la Société wallonne du Logement.n vigueur de l'article 71 du présent décret.
+
+## Art. 11
+
+&lt;inséré par DRW 2003-05-15/82, art. 140 ; En vigueur : 01-07-2003&gt; Nonobstant l'article 176.2, un agrément provisoire peut être accordé, pour une durée inférieure à trois ans, aux personnes morales qui demandent, dans les deux mois de l'entrée en vigueur de l'arrêté du Gouvernement wallon fixant le règlement général d'agrément des Guichets du Crédit social, leur agrément en qualité de Guichet du Crédit social.
+
+Cet agrément provisoire est accordé moyennant le respect de conditions relatives principalement :
+
+1° à la nature et à la forme de la personne morale;
+
+2° au contenu des statuts de la personne morale;
+
+3° à des engagements à prendre par la personne morale, relatifs au respect des dispositions du Code, de ses arrêtés d'exécution et des règlements de la Société, aux informations à transmettre à la Société et aux garanties à constituer en faveur de la Société;
+
+4° à des critères d'ordre financier.
+
+## Art. 12
+
+&lt;inséré par DRW 2003-05-15/82, art. 141 ; En vigueur : 01-07-2003&gt; La Région est habilitée à prendre des participations au capital du Fonds du Logement des Familles nombreuses de Wallonie.
+
+## Art. 13
+
+&lt;Inséré par DRW 2003-12-18/68, art. 58; En vigueur : 16-02-2004&gt; La société de logement de service public qui bénéficie d'un agrément de la Société wallonne du Logement, accordé sur la base des articles 88, § 1er, et 130, § 1er, du Code wallon du Logement, ne continue à bénéficier de cet agrément que si, au 31 décembre 2004, tous les membres de son personnel sont engagés sur la base d'un contrat de travail.
+
+La société assure que les membres du personnel anciennement statutaire qui sont engagés sur la base d'un contrat de travail conservent, dans des limites qui peuvent être précisées par le Gouvernement, leurs droits acquis.
+
+## ANNEXE.
+
+## Art. N
+
+Code wallon du logement.
+
+(Pour le code, voir 1998-10-29/39).
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 29 octobre 1998.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, du Commerce extérieur, des P.M.E., du Tourisme et du Patrimoine,
+
+R. COLLIGNON
+
+Le Ministre de l'Aménagement du territoire, de l'Equipement et des Transports,
+
+M. LEBRUN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+B. ANSELME
+
+Le Ministre du Budget et des Finances, de l'Emploi et de la Formation,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de la Recherche, du Développement technologique, du Sport et des Relations internationales,
+
+W. ANCION
