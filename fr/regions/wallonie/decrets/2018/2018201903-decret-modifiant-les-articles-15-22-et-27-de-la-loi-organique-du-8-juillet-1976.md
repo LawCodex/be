@@ -1,0 +1,111 @@
+---
+title: "Décret modifiant les articles 15, 22 et 27 de la loi organique du 8 juillet 1976 des Centres publics d'Action sociale"
+identifier: "2018201903"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/29/2018201903/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2018-03-29
+published: 2018-04-20
+entry_into_force: 2018-04-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/29/2018201903/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 29 MARS 2018. - Décret modifiant les articles 15, 22 et 27 de la loi organique du 8 juillet 1976 des Centres publics d'Action sociale
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle, en vertu de l'article 138 de la Constitution, certaines matières visées aux articles 127, § 1er, et 128 de la Constitution.
+
+## Art. 2
+
+Dans l'article 15 de la loi organique du 8 juillet 1976 des centres publics d'action sociale les paragraphes 3 et 4 sont remplacés par ce qui suit :
+
+" § 3. Le membre démissionnaire reste en fonction jusqu'à la prestation de serment de son remplaçant.
+
+Le membre élu en remplacement achève le mandat du membre auquel il succède.
+
+§ 4. A l'occasion de la naissance ou de l'adoption d'un enfant, le conseiller de l'action sociale peut prendre congé.
+
+Il notifie son congé au bureau permanent par écrit en indiquant la date de début et de fin.
+
+La durée du congé est de maximum 20 semaines.
+
+Il prend fin au plus tard 20 semaines après la naissance ou l'adoption.
+
+§ 5. Dans le cadre d'une maladie nécessitant une absence, attestée par un certificat médical d'incapacité de trois mois minimum, le conseiller de l'action sociale peut prendre congé pendant toute la durée couverte par ce certificat médical. Il notifie son congé, accompagné du certificat médical, au bureau permanent par écrit.
+
+Le conseiller de l'action sociale, dont un membre de sa famille jusqu'au deuxième degré inclus, sur attestation d'un certificat médical :
+
+\- souffre d'une maladie nécessitant une absence d'incapacité de trois mois minimum;
+
+\- nécessite l'assistance ou l'octroi de soins;
+
+\- nécessite des soins palliatifs,
+
+peut prendre congé pendant toute la durée couverte par ce certificat médical. Il notifie son congé, accompagné du certificat médical, au bureau permanent par écrit.
+
+A l'occasion d'un séjour à l'étranger, de trois mois minimum et d'un an maximum, dans un cadre professionnel et attesté par son employeur ou par une déclaration sur l'honneur dans le cadre d'une profession libérale ou d'indépendant, le conseiller de l'action sociale peut prendre congé. Il notifie son congé, accompagné des pièces justificatives, au bureau permanent par écrit. Le congé ne peut excéder un an par mandature.
+
+A l'occasion d'un séjour à l'étranger, de trois mois minimum et d'un an maximum, dans un cadre académique et attesté par son établissement d'enseignement, le conseiller de l'action sociale peut prendre congé. Il notifie son congé, accompagné des pièces justificatives, au bureau permanent par écrit. Le congé ne peut excéder un an par mandature.
+
+A l'occasion du congé visé aux alinéas 1 à 4, il est procédé au remplacement pour la durée du congé, conformément à l'article 14, si le groupe politique qui avait présenté le bénéficiaire dudit congé le demande. Le membre qui requière un congé reste en fonction jusqu'à la prestation de serment de son remplaçant.
+
+§ 6. Lorsque, à la date de l'installation du conseil de l'action sociale, la démission, offerte par lettre recommandée, d'un élu frappé par une incompatibilité visée à l'article 9, 8°, n'a pas encore été acceptée ou si cette démission fait l'objet d'un recours auprès des autorités tutélaires, l'élu est remplacé jusqu'à l'acceptation de la démission ou jusqu'à la fin du litige. ".
+
+## Art. 3
+
+Dans l'article 22, § 3, de la même loi, les alinéas 3 et 4 sont abrogés.
+
+## Art. 4
+
+L'article 27 de la même loi est complété par un paragraphe 7 rédigé comme suit :
+
+" § 7. A l'occasion de la naissance ou de l'adoption d'un enfant, le membre du bureau permanent peut prendre congé. Il notifie son congé au bureau permanent par écrit en indiquant la date de début et de fin. La durée du congé est de maximum 20 semaines. Il prend fin au plus tard 20 semaines après la naissance ou l'adoption de l'enfant.
+
+Dans le cadre d'une maladie nécessitant une absence, attestée par un certificat médical d'incapacité de trois mois minimum, le membre du bureau permanent peut prendre congé pendant toute la durée couverte par ce certificat médical. Il notifie son congé au bureau permanent par écrit en indiquant la date de début et de fin.
+
+La demande de congé en qualité de membre du bureau permanent visée aux paragraphes ci-dessus est introduite si l'intéressé veut rester conseiller de l'action sociale durant cette période.
+
+Est considéré comme empêché le membre du bureau permanent, son président inclus, qui prend un congé en application de ce paragraphe. ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 29 mars 2018.
+
+Le Ministre-Président,
+
+W. BORSUS
+
+La Ministre de l'Action sociale, de la Santé, de l'Egalité des chances, de la Fonction publique et de la Simplification administrative,
+
+A. GREOLI
+
+Le Ministre de l'Economie, de l'Industrie, de la Recherche, de l'Innovation, du Numérique, de l'Emploi et de la Formation,
+
+P.-Y. JEHOLET
+
+Le Ministre de l'Environnement, de la Transition écologique, de l'Aménagement du Territoire, des Travaux publics, de la Mobilité, des Transports, du Bien-être animal et des Zonings,
+
+C. DI ANTONIO
+
+Le Ministre du Budget, des Finances, de l'Energie, du Climat et des Aéroports,
+
+J.-L. CRUCKE
+
+Le Ministre de l'Agriculture, de la Nature, de la Forêt, de la Ruralité, du Tourisme, du Patrimoine et délégué à la Grande Région,
+
+R. COLLIN
+
+La Ministre des Pouvoirs locaux, du Logement et des Infrastructures sportives,
+
+V. DE BUE

@@ -1,0 +1,79 @@
+---
+title: "Décret remplaçant l'article 124 de la loi du 8 juillet 1976 organique des centres publics d'action sociale"
+identifier: "2017205110"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2017/09/07/2017205110/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2017-09-07
+published: 2017-10-09
+entry_into_force: 2017-10-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2017/09/07/2017205110/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 7 SEPTEMBRE 2017. - Décret remplaçant l'article 124 de la loi du 8 juillet 1976 organique des centres publics d'action sociale
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. L'article 124 de la loi du 8 juillet 1976 organique des centres publics d'action sociale est remplacé par ce qui suit :
+
+" Article 124. Les centres publics d'action sociale sont représentés dans les organes de l'association par des membres de leur conseil de l'action sociale. Ces membres sont désignés par le conseil suivant les règles déterminées par l'article 27, § 6, alinéa 2, de la présente loi pour l'élection des membres du bureau permanent.
+
+Les administrateurs représentant les centres publics d'action sociale associés sont de sexe différent. Leur nombre ne peut dépasser un cinquième du nombre de membres du conseil de l'action sociale.
+
+Les administrateurs représentant les centres associés sont désignés à la proportionnelle de l'ensemble des conseils de l'action sociale des centres associés conformément aux articles 167 et 168 du Code électoral.
+
+Pour le calcul de cette proportionnelle, il est tenu compte des éventuels critères statutaires ainsi que des déclarations individuelles facultatives d'apparentement ou de regroupement. Elles sont publiées sur le site internet de la commune.
+
+Les déclarations d'apparentement ou de regroupement ne peuvent être faites qu'une seule fois, vers une seule liste et pour l'ensemble des mandats dérivés du conseiller de l'action sociale.
+
+Le centre communique à l'association, au plus tard le 1er mars de l'année qui suit celle des élections communales ou provinciales, le nom des conseillers de l'action sociale, leur groupe politique et, le cas échéant, les apparentements ou les regroupements, tels qu'ils ressortent des déclarations individuelles actées en séance du conseil de l'action sociale.
+
+Par contre, il n'est pas tenu compte pour le calcul de cette proportionnelle de la ou des listes de conseillers déposée(s) par un groupe politique du conseil communal qui ne respecte pas les principes démocratiques énoncés, notamment, par la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, par les protocoles additionnels à cette convention en vigueur en Belgique, par la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie et par la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation du génocide commis par le régime national-socialiste pendant la seconde guerre mondiale et de ceux qui étaient administrateurs d'une association au moment des faits à la suite desquels elle a été condamnée pour l'une des infractions prévues par la loi du 30 juillet 1981 ou la loi du 23 mars 1995.
+
+En outre, toute liste de conseillers déposée par un groupe politique démocratique du conseil communal disposant d'au moins un élu au sein d'un des centres associés et d'au moins un élu au Parlement wallon et non représenté conformément au système de la représentation proportionnelle visée au deuxième alinéa, a droit à un siège. Ce siège supplémentaire confère à l'administrateur ainsi désigné dans tous les cas voix délibérative. En ce cas, la limite du nombre maximal d'administrateurs visée au deuxième alinéa du présent article n'est pas applicable.
+
+Si un groupe politique démocratique représenté au Parlement wallon et au sein d'une des communes dont le centre public d'action sociale est associé à l'association ne dispose pas d'un siège au conseil d'administration, alors, il est accordé un siège surnuméraire. Ce siège supplémentaire confère à l'administrateur ainsi désigné voix consultative dans tous les cas.
+
+Les alinéas 1er à 7 du présent article s'appliquent mutatis mutandis aux représentants des communes. ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 7 septembre 2017.
+
+Le Ministre-Président,
+
+W. BORSUS
+
+La Ministre de l'Action sociale, de la Santé, de l'Egalité des chances, de la Fonction publique et de la Simplification administrative,
+
+A. GREOLI
+
+Le Ministre de l'Economie, de l'Industrie, de la Recherche, de l'Innovation, du Numérique, de l'Emploi et de la Formation,
+
+P.-Y. JEHOLET
+
+Le Ministre de l'Environnement, de la Transition écologique, de l'Aménagement du Territoire, des Travaux publics, de la Mobilité, des Transports, du Bien-être animal et des Zonings,
+
+C. DI ANTONIO
+
+Le Ministre du Budget, des Finances, de l'Energie, du Climat et des Aéroports,
+
+J.-L. CRUCKE
+
+Le Ministre de l'Agriculture, de la Nature, de la Forêt, de la Ruralité, du Tourisme, du Patrimoine et délégué à la Grande Région,
+
+R. COLLIN
+
+La Ministre des Pouvoirs locaux, du Logement et des Infrastructures sportives,
+
+V. DE BUE

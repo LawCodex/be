@@ -1,0 +1,89 @@
+---
+title: "Décret visant à modifier les articles L4124-1, L4135-3 et L4142-7 du Code de la démocratie locale et de la décentralisation pour ce qui concerne l'organisation des élections communales"
+identifier: "2017203058"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/01/2017203058/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2017-06-01
+published: 2017-06-09
+entry_into_force: 2017-05-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/01/2017203058/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 1 JUIN 2017. - Décret visant à modifier les articles L4124-1, L4135-3 et L4142-7 du Code de la démocratie locale et de la décentralisation pour ce qui concerne l'organisation des élections communales
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Dans l'article L4124-1 du Code de la démocratie locale et de la décentralisation, il est inséré un paragraphe 1erbis rédigé comme suit :
+
+" § 1erbis. Lorsque la composition du conseil n'est plus conforme à l'article L1122-3 du Code et qu'en raison de l'absence de suppléants il ne peut être pourvu au remplacement du ou des conseillers concernés, l'assemblée des électeurs est convoquée, à l'initiative de la commune et sur décision du Ministre qui a les Pouvoirs locaux dans ses attributions, pour une élection complémentaire. Elle a toujours lieu un dimanche, dans les trente jours de la notification de l'arrêté du Gouvernement qui fixe le calendrier précis des opérations électorales.
+
+Au cours d'une même législature communale, il ne peut être recouru plus d'une fois à une élection complémentaire telle que définie dans le présent paragraphe.
+
+Sont applicables mutatis mutandis à cette élection les règles de procédure visées au Livre Ier de la quatrième partie du Code à l'exception des dérogations énoncées dans les alinéas qui suivent.
+
+Seul le/les groupe(s) politique(s) présent(s) au conseil communal est/sont en droit de présenter des candidats à cette élection. La liste comprend un nombre de candidats égal, au minimum, au nombre de postes devenus vacants augmenté d'une unité et, au maximum, au nombre de postes devenus vacants augmenté de 25 % du nombre de conseillers composant le conseil conformément à l'article L1122-3 du Code, arrondi à l'unité supérieure.
+
+L'ordre de présentation de la liste fait l'objet d'un consensus dans le chef des déposants, étant entendus comme l'ensemble des conseillers d'un même groupe siégeant au moment du dépôt de la/les liste(s) complémentaire(s).
+
+Le nombre de voix de préférence résultant de cette élection n'est pas pris en compte pour l'application de l'article L1123-4 du Code relatif à l'élection du bourgmestre.
+
+Les élus issus de l'élection complémentaire intègrent le conseil communal dans l'ordre résultant du classement des voix obtenues à concurrence du nombre de mandats vacants. Le ou les élus n'intégrant pas le conseil communal sont déclarés premier, deuxième, troisième suppléants et ainsi de suite. ".
+
+## Art. 2
+
+Dans l'article L4135-3, § 1er, du même Code, les mots " paragraphe 2 " sont remplacés par les mots " paragraphe 3 ".
+
+## Art. 3
+
+Dans l'article L4142-7, du même Code, les mots " de l'alinéa précédent " sont remplacés par les mots " du présent article. ".
+
+## Art. 4
+
+Le présent décret produit ses effets le 15 mai 2017.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 1er juin 2017.
+
+Le Ministre-Président,
+
+P. MAGNETTE
+
+Le Ministre des Travaux publics, de la Santé, de l'Action sociale et du Patrimoine,
+
+M. PREVOT
+
+Le Ministre de l'Economie, de l'Industrie, de l'Innovation et du Numérique,
+
+J-C. MARCOURT
+
+La Ministre de l'Emploi et de la Formation,
+
+E. TILLIEUX
+
+Le Ministre de l'Environnement, de l'Aménagement du Territoire, de la Mobilité et des Transports et du Bien-être animal,
+
+C. DI ANTONIO
+
+Le Ministre du Budget, de la Fonction publique, de la Simplification administrative et de l'Energie,
+
+C. LACROIX
+
+Le Ministre des Pouvoirs locaux, de la Ville et du Logement,
+
+P.-Y. DERMAGNE
+
+Le Ministre de l'Agriculture, de la Nature, de la Ruralité, du Tourisme et des Aéroports, délégué à la Représentation à la Grande Région,
+
+R. COLLIN

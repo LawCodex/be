@@ -1,0 +1,101 @@
+---
+title: "Décret contenant le premier ajustement du budget des recettes de la Région wallonne pour l'année budgétaire 2017"
+identifier: "2017070162"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/12/2017070162/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2017-07-12
+published: 2017-09-21
+entry_into_force: 2017-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/12/2017070162/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 12 JUILLET 2017. - Décret contenant le premier ajustement du budget des recettes de la Région wallonne pour l'année budgétaire 2017
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales
+
+### Art. 1er
+
+Pour l'année budgétaire 2017, les recettes courantes de la Wallonie sont estimées à 11.321.945 milliers d'euros, conformément au Titre Ier du tableau annexé au présent décret.
+
+### Art. 2
+
+Pour l'année budgétaire 2017, les recettes en capital de la Wallonie sont estimées à 1.088.756 milliers d'euros conformément au Titre II du tableau annexé au présent décret. Les produits d'emprunts sont estimés à 160.000 milliers d'euros, conformément au Titre III du tableau annexé au présent décret.
+
+### Art. 3
+
+L'article 10 du décret du 21 décembre 2016 contenant le budget des recettes de la Région wallonne pour l'année 2017 est modifié comme suit :
+
+" § 1er. Une redevance est prélevée en vue du financement des frais encourus par la CWaPE dans la mise en oeuvre du mécanisme de certificats verts visé à l'article 37 du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité.
+
+§ 2. La redevance est due par les producteurs d'électricité à partir de sources d'énergie renouvelables et/ou de cogénération de qualité faisant appel auprès de la CWaPE à l'octroi de certificats verts exploitant une installation d'une puissance nominale supérieure à 10 kilowatts (kW).
+
+§ 3. La redevance est due par mégawattheure (MWh) dont un relevé d'index communiqué à la CWaPE à partir du 1er janvier 2017 atteste la production et qui entre en ligne de compte pour l'octroi de certificats verts. Le taux unitaire de la redevance, exprimé en euro par mégawattheure (euro/MWh), est égal à la valeur d'une fraction, dont le numérateur est égal à 1.800.000 euros et le dénominateur est le nombre total estimé de MWh générés par les producteurs redevables du 1er janvier 2017 au 31 décembre 2017. ".
+
+## CHAPITRE II. - Dispositions relatives aux taxes sur les mâts, pylônes et antennes
+
+### Art. 4
+
+Les articles 37 à 44 du décret du 11 décembre 2013 contenant le budget des recettes de la Région wallonne pour l'année budgétaire 2014 sont définitivement annulés, ainsi que l'ensemble des effets des procédures réalisées et des actes posés.
+
+## CHAPITRE III. - Dispositions finales
+
+### Art. 5
+
+Le présent décret produit ses effets le 1er janvier 2017.
+
+## ANNEXE.
+
+### Art. N
+
+(Image non reprise pour des raisons techniques, voir M.B. du 21-09-2017, p. 86541)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 12 juillet 2017.
+
+Le Ministre-Président,
+
+P. MAGNETTE
+
+Le Ministre des Travaux publics, de la Santé, de l'Action sociale et du Patrimoine,
+
+M. PREVOT
+
+Le Ministre de l'Economie, de l'Industrie, de l'Innovation et du Numérique,
+
+J.-Cl. MARCOURT
+
+La Ministre de l'Emploi et de la Formation,
+
+E. TILLIEUX
+
+Le Ministre de l'Environnement, de l'Aménagement du Territoire, de la Mobilité
+
+et des Transports et du Bien-être animal,
+
+C. DI ANTONIO
+
+Le Ministre du Budget, de la Fonction publique, de la Simplification administrative et de l'Energie,
+
+Ch. LACROIX
+
+Le Ministre des Pouvoirs locaux, de la Ville et du Logement,
+
+P.-Y. DERMAGNE
+
+Le Ministre de l'Agriculture, de la Nature, de la Ruralité, du Tourisme
+
+et des Aéroports, délégué à la Représentation à la Grande Région,
+
+R. COLLIN

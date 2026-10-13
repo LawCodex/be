@@ -1,0 +1,105 @@
+---
+title: "Décret modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux en ce qui concerne la saisie administrative des animaux"
+identifier: "2018203376"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/21/2018203376/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2018-06-21
+published: 2018-06-29
+entry_into_force: 2018-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/21/2018203376/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 21 JUIN 2018. - Décret modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux en ce qui concerne la saisie administrative des animaux
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## Art. 1er
+
+L'article 42 de la loi du 14 août 1986 relative à la protection et au bien-être des animaux est remplacé par ce qui suit :
+
+" Art. 42. § 1er. Lorsqu'une infraction est ou a été précédemment constatée et que cette infraction concerne un ou plusieurs animaux vivants, la saisie administrative du ou des animaux peut être décidée par un agent visé à l'article D.140 du Livre Ier du Code de l'Environnement ou par le bourgmestre de la commune sur le territoire de laquelle se trouvent généralement les animaux. L'agent ou le bourgmestre font alors héberger les animaux dans un lieu d'accueil approprié.
+
+Les animaux détenus en dépit d'une interdiction prononcée peuvent en tout temps faire l'objet d'une saisie par un agent visé à l'article D.140 du Livre Ier du Code de l'Environnement ou par le bourgmestre de la commune sur le territoire de laquelle se trouvent généralement les animaux.
+
+§ 2. Lorsqu'un agent visé à l'article D.140 du Livre Ier du Code de l'Environnement ou un bourgmestre procède ou fait procéder à une saisie en application du paragraphe 1er, une copie de la décision de saisie est envoyée au Service public de Wallonie. L'agent joint à son envoi une copie du procès-verbal constatant ou ayant constaté l'infraction.
+
+Lorsque l'infraction ayant mené à la saisie a été constatée par un officier de police, une copie du procès-verbal est adressée dans les quinze jours de la constatation des faits au Service public de Wallonie.
+
+§ 3. Le Gouvernement ou le bourgmestre fixe la destination du ou des animaux saisis conformément au paragraphe 1er. Cette destination consiste en :
+
+1° la restitution au propriétaire sous conditions;
+
+2° la vente;
+
+3° le don en pleine propriété à une personne physique ou morale;
+
+4° ou la mise à mort sans délai lorsque celle-ci s'avère nécessaire.
+
+Lorsque la destination consiste dans la mise en vente des animaux saisis, il appartient à l'huissier de justice requis à cet effet de prêter son ministère en vue de la réalisation de celle-ci et des suites qui l'accompagnent.
+
+Le Gouvernement détermine la procédure à suivre pour fixer la destination des animaux.
+
+§ 4. Lorsqu'une saisie est réalisée conformément aux paragraphes 1er à 3, l'agent ou le bourgmestre adresse au responsable des animaux saisis :
+
+1° une copie de l'acte de saisie;
+
+2° les renseignements utiles quant au lieu d'hébergement et à la destination des animaux;
+
+3° le cas échéant, une copie de la justification vétérinaire démontrant la nécessité de recourir à la mise à mort sans délai conformément au paragraphe 3, alinéa 1er, 4°.
+
+§ 5. La saisie visée au paragraphe 1er est levée de plein droit par la décision visée au paragraphe 3 ou, en l'absence d'une telle décision, après un délai de soixante jours à compter de la date de réception par l'administration du procès-verbal visé au paragraphe 2 et de la décision de saisie.
+
+Pour le calcul du délai prévu à l'alinéa 1er, le jour de la réception des documents visés à l'alinéa 1er n'est pas inclus. Le jour de l'échéance est compté dans le délai. Toutefois, lorsque ce jour est un samedi, un dimanche ou un jour férié légal, le jour de l'échéance est reporté au jour ouvrable suivant.
+
+En l'absence de décision dans le délai visé à l'alinéa 1er, il revient au Gouvernement ou au bourgmestre de notifier au responsable des animaux la levée automatique de la saisie et la possibilité de prendre possession de l'animal à l'adresse où il est hébergé. Les animaux doivent avoir été retirés endéans les quinze jours de la notification. Passé ce délai, la propriété des animaux est automatiquement transférée à la personne physique ou morale qui les héberge.
+
+§ 6. Les frais liés aux mesures prises sur la base des paragraphes 1er et 3 sont à la charge du responsable des animaux.
+
+Si les frais visés à l'alinéa 1er sont avancés par la Région wallonne ou par la commune, ils sont réclamés au responsable des animaux.
+
+Si les animaux sont vendus, la somme perçue est affectée par priorité au recouvrement des frais visés à l'alinéa 1er. Le solde éventuel est remis au propriétaire. "
+
+## Art. 2
+
+Le présent décret entre en vigueur le 1er juillet 2018.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 21 juin 2018.
+
+Le Ministre-Président,
+
+W. BORSUS
+
+La Ministre de l'Action sociale, de la Santé, de l'Egalité des chances, de la Fonction publique et de la Simplification administrative,
+
+A. GREOLI
+
+Le Ministre de l'Economie, de l'Industrie, de la Recherche, de l'Innovation, du Numérique, de l'Emploi et de la Formation,
+
+P.-Y. JEHOLET
+
+Le Ministre de l'Environnement, de la Transition écologique, de l'Aménagement du Territoire, des Travaux publics, de la Mobilité, des Transports, du Bien-Etre animal et des Zonings,
+
+C. DI ANTONIO
+
+Le Ministre du Budget, des Finances, de l'Energie, du Climat et des Aéroports,
+
+J.-L. CRUCKE
+
+Le Ministre de l'Agriculture, de la Nature, de la Forêt, de la Ruralité, du Tourisme, du Patrimoine et délégué à la Grande Région,
+
+R. COLLIN
+
+La Ministre des Pouvoirs locaux, du Logement et des Infrastructures sportives,
+
+V. DE BUE
