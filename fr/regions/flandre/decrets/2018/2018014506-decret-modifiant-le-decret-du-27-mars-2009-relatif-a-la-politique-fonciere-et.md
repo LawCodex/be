@@ -1,0 +1,73 @@
+---
+title: "Décret modifiant le décret du 27 mars 2009 relatif à la politique foncière et immobilière, en ce qui concerne la coordination avec la fusion volontaire de communes"
+identifier: "2018014506"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/12/2018014506/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2018-10-12
+published: 2018-10-31
+entry_into_force: 2018-11-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/12/2018014506/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 12 OCTOBRE 2018. - Décret modifiant le décret du 27 mars 2009 relatif à la politique foncière et immobilière, en ce qui concerne la coordination avec la fusion volontaire de communes
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+DECRET modifiant le décret du 27 mars 2009 relatif à la politique foncière et immobilière,
+
+en ce qui concerne la coordination avec la fusion volontaire de communes
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## CHAPITRE 2. - Modifications du décret du 27 mars 2009 relatif à la politique foncière et immobilière
+
+### Art. 2
+
+Dans le livre 4, titre Ier, chapitre Ier du décret du 27 mars 2009 relatif à la politique foncière et immobilière, modifié en dernier lieu par le décret du 14 octobre 2016, il est inséré une section 3, rédigée comme suit :
+
+" Section 3. Impact d'une fusion volontaire de communes ".
+
+### Art. 3
+
+Dans le livre 4, titre Ier, chapitre Ier, du même décret, modifié en dernier lieu par le décret du 14 octobre 2016, il est ajouté à la section 3, insérée par l'article 2, un article 4.1.5 rédigé comme suit :
+
+" Art. 4.1.5. § 1er. Le présent article s'applique en cas d'une fusion volontaire de communes telle que visée au décret pour la Fusion Volontaire de Communes du 24 juin 2016.
+
+Dans le présent article, on entend par :
+
+1° nouvelle commune : la nouvelle commune visée à l'article 5, 5° du décret précité ;
+
+2° communes fusionnées : les communes fusionnées visées à l'article 5, 4° du décret précité ;
+
+3° date de la fusion : la date de la fusion visée à l'article 5, 2°, du décret précité.
+
+§ 2. L'offre existante de logements sociaux dans la position zéro, visée à l'article 4.1.1, est censée être égale pour une nouvelle commune à partir de la date de la fusion à la somme de l'offre existante de logements sociaux dans la position zéro au sein des communes fusionnées.
+
+§ 3. Pour une nouvelle commune, l'objectif social contraignant visé à l'article 4.1.2, est égal, à partir de la date de la fusion, à la somme des objectifs sociaux contraignants des communes fusionnées, y compris le mouvement de rattrapage spécifique visé à l'article 4.1.4, § 2, qui est imposé, le cas échéant, à une ou plusieurs des communes fusionnées.
+
+Une exemption ou diminution du mouvement de rattrapage spécifique visé à l'article 4.4, § 2, qui est accordée avant la date de la fusion à une ou plusieurs des communes fusionnées, est maintenue. ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 12 octobre 2018.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+La Ministre flamande de l'Administration intérieure, de l'Insertion civique, du Logement, de l'Egalité des Chances et de la Lutte contre la Pauvreté,
+
+L. HOMANS

@@ -1,0 +1,117 @@
+---
+title: "Décret spécial modifiant le décret du 28 novembre 2008 relatif à l'association intercommunale d'enseignement et le décret spécial du 26 juin 1991 relatif à l'\" Universiteit Gent \" et à l'\" Universitair Centrum Antwerpen \""
+identifier: "2018040249"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/15/2018040249/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2018-06-15
+published: 2018-07-13
+entry_into_force: 2018-07-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/15/2018040249/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 15 JUIN 2018. - Décret spécial modifiant le décret du 28 novembre 2008 relatif à l'association intercommunale d'enseignement et le décret spécial du 26 juin 1991 relatif à l'" Universiteit Gent " et à l'" Universitair Centrum Antwerpen "
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+DECRET SPECIAL modifiant le décret du 28 novembre 2008 relatif à l'association intercommunale d'enseignement et le décret spécial du 26 juin 1991 relatif à l'" Universiteit Gent " et à l'" Universitair Centrum Antwerpen "
+
+## CHAPITRE 1er. - Disposition préliminaire
+
+### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+## CHAPITRE 2. - Modifications du décret du 28 novembre 2008 relatif à l'association intercommunale d'enseignement
+
+### Art. 2
+
+L'intitulé du décret du 28 novembre 2008 relatif à l'association intercommunale d'enseignement (IGOV) est remplacé par l'intitulé " Décret relatif à l'association interlocale d'enseignement (ILOV) ".
+
+### Art. 3
+
+A l'article 3 du même décret est ajouté un point 7°, libellé comme suit :
+
+" 7° administrations locales : administrations communales, conseils provinciaux ou agences autonomisées dotées de la personnalité juridique créées par une commune ou une province.
+
+### Art. 4
+
+A l'article 4 du même décret, les modifications suivantes sont apportées :
+
+1° au paragraphe 1er, alinéas 1er et troisième, le mot " communes " est chaque fois remplacé par les mots " administrations communales " ;
+
+2° au paragraphe 1er, troisième alinéa, les mots " les pouvoirs organisateurs de l'enseignement officiel subventionné " sont supprimés.
+
+3° au paragraphe 1er, troisième alinéa, le membre de phrase " - la Commission de la Communauté flamande ; " est ajouté ;
+
+4° le paragraphe 2 est remplacé par ce qui suit :
+
+" § 2. Le siège de l'association d'enseignement est établi sur le territoire d'une administration locale participante. ".
+
+### Art. 5
+
+A l'article 8, alinéa 1er, du même décret, les mots " ou le gouverneur de la province " sont ajoutés après le mot " commune ".
+
+### Art. 6
+
+A l'article 10 du même décret, les modifications suivantes sont apportées :
+
+1° au paragraphe 1er, la phrase suivante est ajoutée :
+
+" Dans le cas des provinces, seuls les conseillers ou députés provinciaux peuvent remplir ce mandat. " ;
+
+2° au paragraphe 3, le mot " commune " est remplacé par les mots " administration locale " ;
+
+3° au paragraphe 4, le mot " communes " est remplacé par les mots " administrations locales " ;
+
+4° au paragraphe 5, les modifications suivantes sont apportées :
+
+a) le mot " commune " est remplacé par les mots " administration locale " ;
+
+b) le mot " communes " est remplacé par les mots " administrations locales " ;
+
+c) les mots " ou la députation " sont ajoutés après le mot " échevins " ;
+
+d) la phrase suivante est ajoutée après les mots " le centre public d'action sociale " :
+
+" Pour les agences autonomisées dotées de la personnalité juridique, un membre ayant voix consultative est ajouté par agence, lequel est désigné par les élus d'une autre liste que celle dont les élus font partie du collège des bourgmestre et échevins ou de la députation." ;
+
+5° au paragraphe 7, le mot " commune " est remplacé par les mots " administrations locales " ;
+
+### Art. 7
+
+A l'article 16, alinéas premier et troisième, le mot " communes " est chaque fois remplacé par les mots " administrations locales ".
+
+### Art. 8
+
+A l'article 17 du même décret, il est ajouté un deuxième alinéa, libellé comme suit :
+
+" En dérogation à l'alinéa précédent, la comptabilité est tenue conformément aux règles en vigueur pour la comptabilité des provinces, si l'association d'enseignement ne se compose que des pouvoirs organisateurs de l'enseignement provincial, complétés ou non des pouvoirs organisateurs de l'enseignement libre subventionné ou de l'enseignement communautaire. ".
+
+## CHAPITRE 3. - Modification du décret spécial du 26 juin 1991 relatif à l'" Universiteit Gent " et à l'" Universitair Centrum Antwerpen "
+
+### Art. 9
+
+A l'article 40novies, alinéa premier, du décret spécial du 26 juin 1991 relatif à l'" Universiteit Gent " et à l'" Universitair Centrum Antwerpen ", ajouté au décret spécial du 3 février 2017, il est ajouté un point 7°, libellé comme suit :
+
+" 7° du président de la Cellule de coordination académique ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 15 juin 2018.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+La Ministre flamande de l'Enseignement,
+
+H. CREVITS

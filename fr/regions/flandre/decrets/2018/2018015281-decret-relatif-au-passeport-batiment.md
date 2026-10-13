@@ -1,0 +1,125 @@
+---
+title: "Décret relatif au passeport bâtiment"
+identifier: "2018015281"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/30/2018015281/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2018-11-30
+published: 2018-12-17
+entry_into_force: 2018-12-27
+last_amended: 2024-07-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/30/2018015281/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 17-12-2018 et mise à jour au 10-07-2024"
+retrieved: 2026-10-12
+---
+
+# 30 NOVEMBRE 2018. - Décret relatif au passeport bâtiment
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret relatif au passeport bâtiment
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Dans le présent décret, on entend par :
+
+1° passeport bâtiment : un instrument pour échanger des informations sur le bâtiment, le terrain et l'environnement, et pour les sauvegarder éventuellement de manière numérique ;
+
+2° titulaire d'un droit réel : une personne disposant d'un droit de propriété ou d'un droit de superficie, d'emphytéose ou d'usufruit concernant un bâtiment ou un terrain, tel qu'enregistré par l'administration fédérale compétente pour la documentation patrimoniale.
+
+## Art. 3
+
+Les services de l'Autorité flamande prévoient le développement d'un passeport bâtiment.
+
+Le passeport habitation est le passeport bâtiment pour habitations.
+
+Le passeport bâtiment vise à réaliser un parc de bâtiments durable, qualitatif et économe en énergie en :
+
+1° informant le citoyen. A cette fin, l'autorité communique les informations par le biais de l'intégration de services à la mesure du citoyen ;
+
+2° facilitant la communication entre le citoyen, l'entreprise et l'autorité.
+
+## Art. 4
+
+Le passeport bâtiment comprend des informations sur le bâtiment, le terrain et l'environnement, telles que des attestations, inspections, autorisations, données techniques, " open data ", qui sont disponibles dans différentes banques de données de l'Autorité flamande.
+
+Dans le présent article, on entend par " open data " : les sources de données géographiques et de services géographiques qui font l'objet d'un accès public en application du chapitre VII, section III, du décret GDI et ses arrêtés d'exécution.
+
+Le passeport bâtiment peut être complété par des informations mises à disposition par d'autres autorités ou instances.
+
+Le Gouvernement flamand peut préciser le contenu du passeport bâtiment.
+
+## Art. 5
+
+Chaque titulaire d'un droit réel a accès aux informations sur le bâtiment, le terrain et l'environnement qui sont représentées concernant son bâtiment ou terrain et son environnement dans le passeport bâtiment.
+
+Chaque titulaire d'un droit réel peut mandater un tiers pour consulter les données du passeport bâtiment.
+
+[<sup>1</sup> Le Gouvernement flamand détermine les conditions dans lesquelles les données dans le passeport bâtiment en vue de vente et de location, ainsi que la publicité y afférente, sont rendues totalement ou partiellement accessibles à des tiers pour consultation. Ces conditions concernent au moins :
+
+1° quelles données sont rendues consultables ;
+
+2° qui peut consulter les données ;
+
+3° la période d'accessibilité pour consultation.
+
+Ce faisant, le Gouvernement flamand prévoit également les mesures organisationnelles et techniques générales qui doivent être prises afin de garantir la qualité, la confidentialité et la sécurité des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/29, art. 125, 002; En vigueur : 20-07-2024&gt;
+
+## Art. 6
+
+Dans les limites des possibilités techniques et de fond offertes par le Gouvernement flamand, chaque titulaire d'un droit réel ou le tiers mandaté par lui peut compléter des données dans le passeport bâtiment et supprimer les données qu'il a complétées.
+
+Chaque complément de données dans le passeport bâtiment est précédé par des informations sur la finalité des données.
+
+## Art. 7
+
+Les services de l'Autorité flamande peuvent conserver les données complétées et les consulter moyennant le consentement du titulaire d'un droit réel.
+
+Les services de l'Autorité flamande peuvent traiter toutes les données du passeport bâtiment sous une forme anonymisée à des fins de monitoring, d'évaluation et d'enquête.
+
+Le Gouvernement flamand peut arrêter les cas auxquels ces données peuvent être mises à disposition sous une forme anonymisée à des tiers, et arrête les conditions auxquelles ces données peuvent être utilisées.
+
+## Art. 8
+
+Le Gouvernement flamand arrête des modalités relatives au fonctionnement du passeport bâtiment, telles que :
+
+1° des règles relatives à la responsabilité de conserver et de traiter des données ;
+
+2° des règles relatives au délai de conservation des données ;
+
+3° des règles relatives à l'accès au passeport bâtiment et l'identification requise à cet effet.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 30 novembre 2018.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+Le Ministre flamand du Budget, des Finances et de l'Energie,
+
+B. TOMMELEIN
+
+La Ministre flamande de l'Administration intérieure, de l'Insertion civique, du Logement, de l'Egalité des Chances et de la Lutte contre la Pauvreté,
+
+L. HOMANS
+
+La Ministre flamande de l'Environnement, de l'Aménagement du Territoire, de la Nature et de l'Agriculture,
+
+J. SCHAUVLIEGE

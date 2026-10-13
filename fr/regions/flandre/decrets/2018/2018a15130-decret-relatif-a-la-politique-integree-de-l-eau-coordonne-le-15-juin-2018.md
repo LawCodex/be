@@ -1,0 +1,339 @@
+---
+title: "Décret relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018"
+identifier: "2018A15130"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/15/2018A15130/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2018-06-15
+published: 2018-12-18
+entry_into_force: 2019-01-01
+last_amended: 2025-12-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/15/2018A15130/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 18-12-2018 et mise à jour au 30-12-2025"
+retrieved: 2026-10-12
+---
+
+# 15 JUIN 2018. - Décret relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018
+
+## Art. M
+
+(NOTE : texte indisponible en format texte, voir image)
+
+(ERRATUM, voir M.B. 18-07-2019, p. 72248)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 18-12-2018, p. 99912)
+
+Modifié par:
+
+&lt;DCFL 2022-07-15/27, art. 1-6, 008; En vigueur : 23-09-2022&gt;
+
+&lt;DCFL 2022-06-24/16, art. 1-18, 009; En vigueur : 26-09-2022&gt;
+
+&lt;DCFL 2025-12-19/56, art. 80, 012; En vigueur : 01-01-2026&gt;
+
+## Art. 4.2.1.1.4
+
+[<sup>1</sup> Par dérogation à l'article 4.2.1.1.1, aucune redevance n'est due pour :
+
+1° un captage d'eau souterraine autorisé, utilisé exclusivement pour le stockage d'énergie thermique, dans la mesure où les eaux souterraines captées non polluées sont intégralement réinjectées dans le même aquifère que celui dont elles ont été prélevées ;
+
+2° un captage d'eau de surface autorisé, utilisé exclusivement pour le stockage d'énergie thermique et avec déversement dans les mêmes eaux de surface que celles dont elles ont été prélevées.
+
+Au 1er janvier de l'année précédant l'année de redevance, le redevable assujetti à la redevance sur la pollution des eaux, visé à l'alinéa 1er, 1° et 2° , doit être en possession d'un permis écologique ou d'environnement, respectivement pour :
+
+1° le captage d'eaux souterraines pour le stockage d'énergie thermique (rubrique de classification 53.6 de l'annexe 1re au titre II du VLAREM) ;
+
+2° l'utilisation d'eaux de surface exclusivement pour le stockage d'énergie thermique et leur déversement dans les mêmes eaux de surface (rubrique de classification 3.7 de l'annexe 1re au titre II du VLAREM).
+
+Tout redevable assujetti à la redevance sur la pollution des eaux qui souhaite bénéficier de l'exemption visée à l'alinéa 1er, est tenu d'ajouter à la déclaration visée à l'article 4.2.4.1 une demande écrite accompagnée des pièces justificatives démontrant que les conditions d'exemption visées ci-dessus sont remplies. L'exemption accordée porte sur l'année de redevance pour laquelle la demande est introduite et pour les années de redevance suivantes, sauf en cas de modifications à la suite desquelles l'installation ne remplit plus les conditions d'exemption visées ci-dessus.
+
+Toute modification de la situation de permis et/ou toute modification au captage d'eaux souterraines, respectivement au captage d'eaux de surface doit être notifiée sans tarder par lettre recommandée au fonctionnaire dirigeant de la Société flamande de l'Environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 18, 002; En vigueur : 01-01-2019&gt;
+
+## Art. 4.2.1.1.6
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 4.2.1.1.1, aucune redevance n'est due pour le déversement des eaux souterraines captées des captages d'eau souterraine suivants, dans la mesure où elles ne sont pas déversées dans les égouts publics ayant une capacité de pompage nominale maximale totalisée supérieure à 10 mü par heure ou à défaut de capacité de pompage par volumes supérieurs à 10 mü par heure :
+
+[<sup>2</sup> 1° exhaures d'essai pendant moins d'un mois ;
+
+2° pompages d'essai pour des captages d'eau souterraine autres que les rabattements de nappe par puits filtrants pendant moins de trois mois ;
+
+3° les rabattements de nappe par puits filtrants qui remplissent l'une des conditions suivantes :
+
+a) ils sont techniquement nécessaires à l'exécution de travaux ou à l'aménagement d'équipements d'utilité publique ;
+
+b) ils sont nécessaires à l'exploitation des voies publiques (y compris les tunnels) ou des infrastructures de transport public ;
+
+c) ils sont nécessaires pour la maîtrise des eaux dans les zones d'affaissement minier ;
+
+d) ils sont nécessaires afin de permettre ou de maintenir l'utilisation ou l'exploitation des constructions ou terrains ou d'effectuer des travaux d'entretien, à condition que :
+
+1\) cette nécessité soit étayée par une attestation hydrologique établie par un expert EIE dans la discipline des eaux, sous-domaine de la géohydrologie, agréé à cet effet en Région flamande en application des dispositions du titre V, chapitre 6, du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement ;
+
+2\) l'attestation hydrologique visée au point 1), soit transmise au fonctionnaire dirigeant de la Société flamande de l'Environnement ou au fonctionnaire délégué par le fonctionnaire dirigeant de la Société flamande de l'Environnement avant le 15 mars de chaque année de redevance. Le Gouvernement flamand peut arrêter les modalités relatives à la forme et au contenu minimum de l'attestation hydrologique visée au point 1)]<sup>2</sup>;
+
+[<sup>2</sup> 4° les effluents de captages d'eaux souterraines utilisés pour le stockage d'énergie thermique dans les aquifères qui ne proviennent pas de la régénération chimique ;
+
+5° les drainages nécessaires pour permettre ou maintenir l'utilisation ou l'exploitation de terres ou de terrains]<sup>2</sup>.
+
+§ 2. Par dérogation à l'article 4.2.1.1.1, aucune redevance n'est due pour les captages d'eau souterraine utilisés pour l'aération souterraine telle que visée à la rubrique de classification 53.12 de l'annexe 1 au titre II du VLAREM, pour la partie des eaux souterraines aérées qui est réinjectée dans le même aquifère phréatique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 19, 002; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2025-12-19/56, art. 78, 012; En vigueur : 01-01-2026&gt;
+
+## Art. 4.2.1.2.1
+
+[<sup>1</sup> Est soumise à une redevance sur le captage d'eaux souterraines, ci-après dénommée la redevance sur les eaux souterraines, toute personne physique ou morale qui a exploité un ou plusieurs captages d'eaux souterraines sur le territoire de la Région flamande pendant l'année précédant l'année de redevance :
+
+1° des captages d'eaux souterraines affectées à la distribution publique d'eau potable ;
+
+2° des captages d'eaux souterraines d'au moins 30.000 m3 par an, déterminés conformément à l'article 4.2.3.1, § 2 ;
+
+3° des captages d'eaux souterraines de 500 à moins de 30.000 m3 par an, déterminés conformément à l'article 4.2.3.1, § 2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-12-20/13, art. 8, 004; En vigueur : 01-01-2020&gt;
+
+## Art. 4.2.1.2.2
+
+[<sup>1</sup> Par dérogation à l'article 4.2.1.2.1 du présent décret, aucune redevance sur les eaux souterraines n'est due pour l'exploitation des captages d'eaux souterraines suivantes :
+
+1° un captage d'eaux souterraines muni seulement d'une pompe manuelle pour pomper l'eau ;
+
+2° pompages d'essai pour des captages d'eau souterraine autres que les rabattements de nappe par puits filtrants pendant moins de trois mois ;
+
+3° les drainages nécessaires pour permettre ou maintenir l'utilisation ou l'exploitation de terres ou de terrains ;
+
+4° les rabattements de nappe par puits filtrants qui remplissent l'une des conditions suivantes :
+
+a) ils sont techniquement nécessaires à l'exécution de travaux ou à l'aménagement d'équipements d'utilité publique ;
+
+b) ils sont nécessaires à l'exploitation des voies publiques (y compris les tunnels) ou des infrastructures de transport public ;
+
+c) ils sont nécessaires pour la maîtrise des eaux dans les zones d'affaissement minier ;
+
+d) ils sont nécessaires afin de permettre ou de maintenir l'utilisation ou l'exploitation des constructions ou terrains ou d'effectuer des travaux d'entretien, à condition que :
+
+1\) cette nécessité soit étayée par une attestation hydrologique établie par un expert EIE dans la discipline des eaux, sous-domaine de la géohydrologie, agréé à cet effet en Région flamande en application des dispositions du titre V, chapitre 6, du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement ;
+
+2\) l'attestation hydrologique visée au point 1), soit transmise au fonctionnaire dirigeant de la Société flamande de l'Environnement ou au fonctionnaire délégué par le fonctionnaire dirigeant de la Société flamande de l'Environnement avant le 15 mars de chaque année de redevance. Le Gouvernement flamand peut arrêter les modalités relatives à la forme et au contenu minimum de l'attestation hydrologique visée au point 1) ;
+
+5° les captages d'eaux souterraines utilisés pour le stockage d'énergie thermique dans les aquifères, à condition que les eaux souterraines soient intégralement réinjectées dans le même aquifère après leur passage par la pompe ;
+
+6° les captages d'eaux souterraines dans le cadre de travaux d'assainissement du sol pour lesquels une attestation de conformité a été délivrée conformément à l'article 17 du décret du 22 février 1995 relatif à l'assainissement du sol, tel qu'en vigueur avant le 1er juin 2008, ou à l'article 50 du Décret relatif au sol du 27 octobre 2006 ;
+
+7° la partie des eaux souterraines aérées provenant des captages d'eaux souterraines qui est utilisée pour l'aération souterraine telle que visée dans la rubrique de classification 53.12 de l'annexe 1redu titre II du VLAREM, qui est réinjectée dans le même aquifère phréatique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-12-19/56, art. 79, 012; En vigueur : 01-01-2026&gt;
+
+## Art. 4.2.2.1.1
+
+[<sup>1</sup> 1° les redevables assujettis à la redevance sur la pollution des eaux, visés aux articles 4.2.2.3.1 et 4.2.2.5.1, qui sont raccordés au réseau hydrographique public, et qui en outre
+
+a) sont obligés, en vertu des dispositions du titre V du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, de toutes les dispositions d'exécution du présent décret ainsi que des dispositions du permis d'environnement concerné, d'épurer eux-mêmes leurs eaux usées et de les déverser dans les eaux de surface ;
+
+b) soit doivent répondre aux conditions pour le déversement des eaux usées domestiques, autres que celles provenant d'habitations, dont le débit maximal s'élève à 600 mü/an, telles que visées dans la rubrique de classification 3 de l'annexe 1 du titre II du VLAREM.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 21, 002; En vigueur : 01-01-2019&gt;
+
+## Art. 4.2.2.1.3
+
+[<sup>1</sup> § 1er. Pour les redevables assujettis à la redevance sur la pollution des eaux, visés aux articles 4.2.2.3.1 et 4.2.2.5.1, le montant de la redevance est diminué de B
+
+où :
+
+B = [<sup>2</sup> la somme de la contribution et et de l'indemnité supra-communales, visées aux articles 4.3.2.1 et 4.3.2.2, hors T.V.A.]<sup>2</sup>. La Société flamande de l'Environnement peut déduire la somme précitée préalablement à l'imputation par les exploitants d'un réseau public de distribution d'eau. La redevance ne peut en aucun cas devenir négative.
+
+Pour les redevables assujettis à la redevance sur la pollution des eaux, visés aux articles 4.2.2.3.1. et 4.2.2.5.1., aucune redevance n'est établie sur la consommation d'eau sur laquelle la Société visée à l'article 2.6.1.1.1 impute l'indemnité visée à l'article 2.6.2.1 pour l'assainissement supracommunal des eaux usées déversées pendant l'année précédant l'année de redevance, hors TVA, à condition que le redevable assujetti à la redevance sur la pollution des eaux ait payé cette indemnité. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 22, 002; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2020-06-26/29, art. 15, 005; En vigueur : 27-07-2020&gt;
+
+## Art. 4.2.2.1.4
+
+§ 4.
+
+§ 5.
+
+[<sup>1</sup> A cet effet, avant l'expiration de la durée de validité du dossier visé, le redevable assujetti à la redevance sur la pollution des eaux doit introduire une demande de renouvellement auprès du fonctionnaire désigné conformément à l'article 4.2.1.1.8 pour l'établissement de la redevance, accompagnée d'une attestation délivrée par un expert environnemental visé au paragraphe 2, dans laquelle la conclusion du dossier introduit initialement est reconfirmée.]<sup>1</sup>
+
+[<sup>2</sup> Si le redevable assujetti à la redevance sur la pollution des eaux, par dérogation aux dispositions des premier et deuxième alinéas, introduit une demande tardive de renouvellement, la Société flamande pour l'environnement peut, après examen du dossier, décider d'autoriser la prolongation du statut avec effet rétroactif à compter de la date d'échéance du statut initial, sans préjudice de l'application des autres dispositions du présent article.
+
+L'octroi de la prolongation avec effet rétroactif donne lieu à l'imposition d'une amende conformément à l'article 5.4.2.2, deuxième alinéa.]<sup>2</sup>
+
+[<sup>1</sup> § 8. Toutes les mentions et dispositions reprises aux [<sup>2</sup> paragraphes 2, 3 et 4]<sup>2</sup> sont prescrites sous peine de nullité.]<sup>1</sup>
+
+[<sup>2</sup> § 9. L'examen, visé au paragraphe 5, sixième alinéa, peut être effectué sur des dossiers de redevance dans lesquels, préalablement à l'entrée en vigueur du paragraphe 5, sixième et septième alinéas, une demande tardive de renouvellement a été introduite et pour lesquels, au moment de la publication du décret-programme du 9 juillet 2021 de l'ajustement du budget 2021 par lequel ces dispositions sont insérées :
+
+1° une réclamation est pendante ou une possibilité de recours est encore ouverte contre une décision déjà prise sur la réclamation ;
+
+2° une action en justice est pendante ;
+
+3° une demande de dégrèvement d'office telle que visée à l'article 376 du CIR a été introduite auprès de la Société flamande pour l'environnement et acceptée par celle-ci ;
+
+4° il a été établi un redressement tel que visé à l'article 4.2.4.5, § 2 ;
+
+5° une action en responsabilité a été introduite devant des cours et tribunaux.
+
+Le redevable doit en faire la demande à la Société flamande pour l'environnement par lettre recommandée à la poste qui est envoyée au plus tard un an après la publication du décret-programme du 9 juillet 2021 de l'ajustement du budget 2021.
+
+Si la Société flamande pour l'environnement accorde, après examen, la prolongation du statut de rejeteur zéro (toutes les eaux usées sont réutilisées en interne) avec effet rétroactif, seule la différence entre le montant initial de la redevance augmenté de la majoration éventuelle de la redevance et le montant de la redevance après application de l'exonération pour l'absence de déversement, en tenant compte éventuellement de l'application du paragraphe 6, peut, par dérogation à l'article 418 CIR, être remboursée au redevable. L'octroi avec effet rétroactif donne également lieu à l'imposition de l'amende, telle que stipulée à l'article 5.4.2.2, deuxième alinéa.
+
+Tous les frais liés à des contestations antérieures à ce sujet restent à charge du redevable.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 23, 002; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/23, art. 13, 006; En vigueur : 30-08-2021&gt;
+
+## Art. 4.2.2.1.11
+
+[<sup>1</sup> Pour les secteurs 45 et 51, visés à l'annexe 5, le montant de la redevance, visé à l'article 4.2.2.1.1, est multiplié par le coefficient 0,850.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-12-20/13, art. 9, 004; En vigueur : 01-01-2019&gt;
+
+## Art. 4.2.2.2.1
+
+[<sup>1</sup> Pour les redevables assujettis à la redevance sur la pollution des eaux dont la consommation d'eau est inférieure à 500 mü par an, la charge polluante est calculée comme suit :
+
+1° pour chaque redevable assujetti à la redevance sur la pollution des eaux qui a uniquement prélevé de l'eau d'un réseau public de distribution d'eau à une date quelconque au cours de l'année précédant l'année de redevance, la consommation d'eau étant de moins de 500 mü au cours de l'année précédant l'année de redevance sur la base de la facture établie par la société de distribution d'eau potable :
+
+N = 0,025 x Qw
+
+où :
+
+N = la charge polluante exprimée en unités de pollution ;
+
+Qw = la consommation d'eau totale exprimée en mü, facturée par la société de distribution d'eau potable au cours de l'année précédant l'année de redevance ;
+
+2° pour chaque redevable assujetti à la redevance sur la pollution des eaux qui disposait uniquement d'une propre prise d'eau de moins de 500 mü par an, pendant l'année entière précédant l'année de redevance :
+
+N = 0,025 x Qp
+
+où :
+
+N = la charge polluante exprimée en unités de pollution ;
+
+Qp = a) pour les personnes physiques : 30 x M, où M est le nombre de personnes qui, au 1er janvier de l'année de redevance, font partie d'un même ménage ou d'une même communauté ;
+
+b) pour les personnes morales : la consommation définie conformément à 4.2.2.5.2 ;
+
+3° pour chaque redevable assujetti à la redevance sur la pollution des eaux qui, à un moment quelconque au cours de l'année précédant l'année de redevance, a prélevé de l'eau d'un réseau public de distribution d'eau, et qui disposait également à un moment quelconque au cours de cette année d'une propre prise d'eau, la consommation d'eau totale étant inférieure à 500 mü par an :
+
+N = 0,025 x (Qw + Qg)
+
+où :
+
+N = la charge polluante exprimée en unités de pollution ;
+
+Qw = la consommation d'eau totale exprimée en mü, facturée par la société de distribution d'eau potable au cours de l'année précédant l'année de redevance ;
+
+Qg = a) pour les personnes physiques : 10 x M, où M est le nombre de personnes qui, au 1er janvier de l'année de redevance, font partie d'un même ménage ou d'une même communauté ;
+
+b) pour les personnes morales : la consommation définie conformément à 4.2.2.5.2]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 24, 002; En vigueur : 01-01-2019&gt;
+
+## Art. 4.2.2.3.8
+
+[<sup>1</sup> Si le scellé est brisé, le redevable assujetti à la redevance sur la pollution des eaux avertit immédiatement les fonctionnaires de la Société flamande de l'Environnement chargés du contrôle ou d'une enquête concernant l'application de la redevance, en utilisant à cet effet le formulaire mis à disposition par la Société flamande de l'Environnement.]<sup>1</sup>
+
+[<sup>1</sup> En cas du reset des systèmes de mesure du débit, visé au présent paragraphe, au cours de l'année précédant l'année de redevance, le relevé du compteur pour cette année est exclu pour le calcul de la redevance.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 25, 002; En vigueur : 01-01-2019&gt;
+
+## Art. 4.2.2.5.2
+
+[<sup>1</sup> Si le scellé est brisé, le redevable assujetti à la redevance sur la pollution des eaux avertit immédiatement les fonctionnaires de la Société flamande de l'Environnement chargés du contrôle ou d'une enquête concernant l'application de la redevance. Le redevable assujetti à la redevance utilise à cet effet le formulaire mis à disposition par la Société flamande de l'Environnement.]<sup>1</sup>
+
+[<sup>1</sup> En cas du reset des systèmes de mesure du débit, visé au présent paragraphe, au cours de l'année précédant l'année de redevance, le relevé du compteur pour cette année est exclu pour le calcul de la redevance.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 26, 002; En vigueur : 01-01-2019&gt;
+
+## Art. 4.2.3.1
+
+§ 2
+
+[<sup>1</sup> En cas du reset du système de mesure du débit avec enregistrement, visé au présent paragraphe, au cours de l'année précédant l'année de redevance, le relevé du compteur pour cette année est exclu pour le calcul de la redevance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/04, art. 27, 002; En vigueur : 01-01-2019&gt;
+
+## Art. 4.2.3.8
+
+§ 1.
+
+§ 2.
+
+[<sup>1</sup>
+
+l'article 61 du Code du recouvrement amiable et forcé des créances fiscales et non fiscales du 13 avril 2019
+
+]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-06-26/29, art. 16, 005; En vigueur : 01-01-2020&gt;
+
+## Art. 4.3.3.5
+
+[<sup>1</sup> Dans l'article 4.3.3.5, alinéa 2, du même décret, modifié par les décrets des 21 décembre 2018 et 26 avril 2019, le membre de phrase " contribution supracommunale telle que visée à l'article 4.3.1.1.1, et de " est abrogé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-12-20/13, art. 10, 004; En vigueur : 01-01-2020&gt;
+
+## Art. 5.4.2.2
+
+[<sup>1</sup> Les fonctionnaires de la Société visés à l'article 5.4.1.2, § 1er, peuvent infliger une amende de 50 à 1250 euros pour toute infraction au chapitre II du titre IV ainsi qu'aux arrêtés pris en exécution de celui-ci.
+
+En cas d'octroi avec effet rétroactif de la prolongation du statut de rejeteur zéro, conformément à l'article 4.2.2.1.4, § 5, sixième et septième alinéas, une amende de 1000 euros est imposée par année de redevance pour laquelle l'exonération avec effet rétroactif est accordée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/23, art. 14, 006; En vigueur : 30-08-2021&gt;
+
+## ANNEXES
+
+Modifiées par :
+
+&lt;DCFL 2025-12-19/56, art. 81, 012; En vigueur : 01-01-2026&gt;, modification N6
+
+## Art. N5
+
+(NOTE : modifiée par :
+
+DCFL 2018-12-21/04, art. 28, 002; En vigueur : 01-01-2019)
+
+&lt;DCFL 2020-06-26/29, art. 17, 005; En vigueur : 27-07-2020&gt;
+
+&lt;DCFL 2022-12-16/10, art. 37, 010; En vigueur : 01-01-2023&gt;

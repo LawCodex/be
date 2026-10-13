@@ -1,0 +1,1211 @@
+---
+title: "Décret relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs"
+identifier: "2018013584"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/06/2018013584/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2018-07-06
+published: 2018-09-27
+entry_into_force: 2019-01-01
+last_amended: 2026-02-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/06/2018013584/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 27-09-2018 et mise à jour au 27-02-2026"
+retrieved: 2026-10-12
+---
+
+# 6 JUILLET 2018. - Décret relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit:
+
+Décret relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs
+
+## TITRE 1er. - Dispositions générales
+
+### CHAPITRE 1er. - Dispositions introductives
+
+###### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+Le présent décret est d'application sous réserve des dispositions du droit de l'Union européenne et des traités et protocoles internationaux.
+
+### CHAPITRE 2. - Définitions
+
+###### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° " Agentschap voor Vlaamse Sociale Bescherming " : l'Agence pour la protection sociale flamande, visée à l'article 9 du décret du 18 mai 2018 relatif à la protection sociale flamande ;
+
+2° règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+4° décret du 18 mai 2018 : le décret du 18 mai 2018 relatif à la protection sociale flamande ;
+
+5° " Expertencommissie " : la Commission d'experts, visée à l'article 39 du décret du 18 mai 2018 ;
+
+6° soins orientés rétablissement : les soins qui visent à soutenir le processus de rétablissement de l'usager de soins ;
+
+7° accompagnement orienté rétablissement : l'accompagnement qui sert à soutenir le processus de rétablissement d'un usager de soins ;
+
+8° Caisse auxiliaire : la Caisse auxiliaire d'assurance maladie-invalidité, visée à l'article 5 de la loi coordonnée le 14 juillet 1994 ;
+
+9° initiative d'habitation protégée : une initiative d'habitation protégée telle que visée à l'article 55 ;
+
+10° union nationale : une union nationale telle que visée aux articles 2 à 8 de la loi du 6 août 1990 relative aux mutualités et aux unions nationales de mutualités ;
+
+11° équipe d'accompagnement multidisciplinaire : une équipe d'accompagnement multidisciplinaire telle que visée à l'article 90 ;
+
+12° maison de soins psychiatriques : une maison de soins psychiatriques telle que visée à l'article 54 ;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+16° structure de revalidation : une infrastructure de soins gérée par une personne morale [<sup>1</sup> ...]<sup>1</sup> avec laquelle le Gouvernement flamand a conclu une convention de revalidation ;
+
+17° hôpital de revalidation : une infrastructure de soins de santé telle que visée à l'article 5, § 1er, I, alinéa 1er, 3° et 4°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, dans laquelle des soins appropriés sont offerts au patient dont l'état de santé nécessite l'admission ou le séjour, dans le but de rétablir ou d'améliorer son état de santé en luttant contre la maladie ou en réhabilitant le patient ;
+
+18° commissions consultatives sectorielles : les commissions visées à l'article 38 du décret du 18 mai 2018 ;
+
+19° autorité de contrôle : une autorité de contrôle telle que visée à l'article 4, 21), du règlement général sur la protection des données ;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+21° organisme assureur : une union nationale, la Caisse auxiliaire et la Caisse des soins de santé de la HR Rail ;
+
+22° service hospitalier ou unité hospitalière : un service médical, un service médico-technique, un programme de soins ou une autre partie qui peut ou doit faire partie d'un hôpital de revalidation et qui peut être agréé séparément ;
+
+23° loi coordonnée du 10 juillet 2008 : la loi coordonnée du 10 juillet 2008 sur les hôpitaux et autres établissements de soins ;
+
+24° loi coordonnée le 14 juillet 1994 : la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994 ;
+
+25° soins : toute forme de soins ou de soutien qui est financée en exécution du présent décret, y compris la revalidation ;
+
+26° usager de soins : toute personne physique qui fait appel ou qui veut faire appel aux infrastructures de soins ;
+
+27° " Zorgkassencommissie " : la Commission des caisses d'assurance soins, l'instance visée à l'article 33 du décret du 18 mai 2018 ;
+
+28° infrastructure de soins : un établissement de soins ou toute autre organisation qui est agréé par la Communauté flamande et assure, dans le cadre de la politique de santé ou du bien-être, l'organisation ou la dispensation de soins ;
+
+29° forme de soins : les soins offerts dans le cadre de la politique de santé ou du bien-être, liés ou non à une forme de logement ;
+
+30° établissement de soins : un établissement de soins ou toute autre organisation qui, dans le cadre de la politique de santé ou du bien-être, est responsable de l'organisation ou de la dispensation des soins, agréé par l'autorité étrangère compétente ou l'autorité compétente au sein de la Communauté française ou germanophone, ou situé dans la région bilingue de Bruxelles-Capitale qui, en raison de son organisation, ne peut être considéré comme appartenant exclusivement à la Communauté flamande.
+
+----------
+
+(1)&lt;DCFL 2021-06-18/25, art. 97, 005; En vigueur : 01-01-2022&gt;
+
+## TITRE 2. - Dispositions communes
+
+### CHAPITRE 1er. - Champ d'application
+
+###### Art. 3
+
+Le présent titre est applicable :
+
+1° aux maisons de soins psychiatriques ;
+
+2° aux initiatives d'habitation protégée ;
+
+3° aux structures de revalidation ;
+
+4° aux hôpitaux de revalidation ;
+
+5° aux équipes d'accompagnement multidisciplinaires.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-06-18/25, art. 98, 005; En vigueur : indéterminée &gt;
+
+###### Art. 4
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 99, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 5
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 99, 005; En vigueur : 01-01-2024&gt;
+
+### CHAPITRE 2.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 100, 005; En vigueur : 01-01-2024&gt;
+
+#### Section 1re.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 100, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 6
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 100, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 7
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 100, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 8
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 100, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 9
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 100, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 10
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 100, 005; En vigueur : 01-01-2024&gt;
+
+#### Section 2.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 100, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 11
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 100, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 12
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 100, 005; En vigueur : 01-01-2024&gt;
+
+### CHAPITRE 3. - Force probante, traitement et échange de données
+
+###### Art. 13
+
+[<sup>1</sup> § 1er. Le traitement des données à caractère personnel dans le cadre du présent décret se fait toujours conformément à la réglementation en en matière de la vie privée et de la protection des données.
+
+Les données à caractère personnel relatives à la santé sont traitées, par ou sous la responsabilité d'un professionnel lié par le secret professionnel ou par une autre personne liée par l'obligation de secret.
+
+§ 2. [<sup>2</sup> Les maisons de soins psychiatriques, initiatives d'habitation protégée, structures de revalidation, hôpitaux de revalidation et équipes d'accompagnement multidisciplinaires de soins palliatifs traitent les données à caractère personnel suivantes des usagers de soins :
+
+1° le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8, § 1er, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° les nom et prénom ;
+
+3° la date de naissance ;
+
+4° le sexe ;
+
+5° la résidence principale et, le cas échéant, la résidence réelle si elle diffère de la résidence principale ;
+
+6° les données relatives à la santé qui sont nécessaires pour fournir des soins et du soutien à l'usager de soins ;
+
+7° les données relatives à la situation en matière de logement, la situation familiale et la situation sociale, qui sont nécessaires pour fournir des soins et du soutien à l'usager de soins.
+
+Les données à caractère personnel, visées à l'alinéa 1er, sont traitées afin de disposer des informations nécessaires pour fournir des soins et du soutien à l'usager de soins, et afin d'aligner les soins et le soutien à l'évolution des besoins de l'usager de soins.
+
+Outre les données à caractère personnel visées à l'alinéa 1er, les maisons de soins psychiatriques et les initiatives d'habitation protégée traitent les données à caractère personnel suivantes des usagers de soins :
+
+1° le niveau d'enseignement, classé par catégorie principale ;
+
+2° l'implication dans le processus de travail, classée par catégorie principale ;
+
+3° la nature des revenus, classée par catégorie principale ;
+
+4° l'activité professionnelle principale actuelle ou exercée en dernier lieu, classée par catégorie principale.
+
+Les données à caractère personnel, visées à l'alinéa 3, sont traitées aux fins suivantes :
+
+1° fournir des soins et du soutien à l'usager de soins, et aligner ces soins et ce soutien à l'évolution des besoins de l'usager de soins ;
+
+2° fournir des données à la Communauté flamande afin de lui permettre de suivre les besoins sociétaux en matière de maisons de soins psychiatriques et d'initiatives d'habitation protégée, ainsi que la qualité des soins fournis.
+
+Les maisons de soins psychiatriques, les initiatives d'habitation protégée, les structures de revalidation, les hôpitaux de revalidation et les équipes d'accompagnement multidisciplinaires de soins palliatifs traitent les données à caractère personnel des membres du personnel et des indépendants attachés à la structure de soins par un contrat d'entreprise et intégrés dans le fonctionnement de la structure de soins, visées au paragraphe 6, alinéa 1er.
+
+Les données à caractère personnel visées à l'alinéa 5 sont traitées afin de fournir des données à la Communauté flamande, qui lui permettent d'assurer le suivi et le maintien d'une offre de soins de qualité]<sup>2</sup>.
+
+§ 3. Les responsables du traitement, visés à l'article 4.7 du règlement général sur la protection des données sont les suivants :
+
+1° les structures pour le traitement de données à caractère personnel dans le cadre de leurs missions et leur relation de soins avec l'usager ;
+
+2° [<sup>2</sup> le Département Soins, visé à l'article 2 de l'arrêté du Gouvernement flamand du 12 mai 2023 relatif au Département Soins,]<sup>2</sup> pour l'analyse de ces données à caractère personnel dans le cadre de la politique " evidencebased " et dans le cadre du suivi et du maintien d'une offre de soins de qualité.
+
+§ 4. [<sup>2</sup> Les maisons de soins psychiatriques, les initiatives d'habitation protégée, les structures de revalidation, les hôpitaux de revalidation et les équipes d'accompagnement multidisciplinaires de soins palliatifs conservent les données à caractère personnel de l'usager de soins, visées au paragraphe 2, alinéas 1 et 3, pendant trente ans après la fin de l'admission, de la revalidation ou de l'accompagnement.
+
+Les maisons de soins psychiatriques, les initiatives d'habitation protégée, les structures de revalidation, les hôpitaux de revalidation et les équipes d'accompagnement multidisciplinaires de soins palliatifs conservent les données à caractère personnel des membres du personnel et des indépendants attachés à la structure de soins par un contrat d'entreprise et intégrés dans le fonctionnement de la structure de soins, visées au paragraphe 2, alinéa 5, pendant un an après la transmission de ces données au département, visé au paragraphe 3, 2°.
+
+Les données à caractère personnel pseudonymisées des usagers de soins, visées au paragraphe 5, alinéa 1er, sont conservées jusqu'à quinze ans après la transmission des données par la structure de soins.
+
+Les données à caractère personnel des membres du personnel et des indépendants attachés à la structure de soins par un contrat d'entreprise et intégrés dans le fonctionnement de la structure de soins, visées au paragraphe 6, alinéa 1er, sont conservées au maximum jusqu'à cinq ans après la fin du contrat de travail ou du contrat d'entreprise avec le membre du personnel ou l'indépendant en question, et au maximum pendant cinquante ans.
+
+§ 5. Les maisons de soins psychiatriques, les initiatives d'habitation protégée, les structures de revalidation, les hôpitaux de revalidation et les équipes d'accompagnement multidisciplinaires de soins palliatifs transmettent au département, visé au paragraphe 3, 2°, les données à caractère personnel visées au paragraphe 2, alinéa 3, des usagers de soin qui sont admis dans une maison de soins psychiatriques et dans une initiative d'habitation protégée. Les données sont pseudonymisées.
+
+Les données à caractère personnel visées à l'alinéa 1er sont traitées afin de suivre les besoins sociétaux en matière de maisons de soins psychiatriques et d'initiatives d'habitation protégée, ainsi que la qualité des soins fournis.
+
+Le Gouvernement flamand détermine les modalités et la périodicité de la transmission des données à caractère personnel, visées à l'alinéa 1er]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> § 6. Les maisons de soins psychiatriques, les initiatives d'habitation protégée, les structures de revalidation, les hôpitaux de revalidation et les équipes d'accompagnement multidisciplinaires de soins palliatifs transmettent au département, visé au paragraphe 3, 2°, les données à caractère personnel suivantes des membres du personnel travaillant dans la structure de soins, et des indépendants attachés à la structure de soins par un contrat d'entreprise et intégrés dans le fonctionnement des structures de soins :
+
+1° le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8, § 1er, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° les nom et prénom ;
+
+3° la date de naissance ;
+
+4° les données de formation et de qualification ;
+
+5° les données d'emploi, y compris les données relatives à la rémunération ;
+
+6° le nom de la personne chargée de la coordination et de la transmission des données, visées au paragraphe 2, alinéa 3.
+
+Les données à caractère personnel, visées à l'alinéa 1er, sont traitées afin de pouvoir assurer le suivi et le maintien d'une offre de soins de qualité.
+
+Les données à caractère personnel, visées à l'alinéa 1er, peuvent être transmises à l'Agence pour la protection sociale flamande, visée à l'article 9 du décret du 18 mai 2018, si ces données sont nécessaires pour exécuter les tâches essentielles, visées à l'article 11 du décret précité.
+
+Le Gouvernement flamand détermine les modalités et la périodicité de la transmission des données à caractère personnel, visées à l'alinéa 1er.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2021-06-18/25, art. 101, 005; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCFL 2026-01-23/18, art. 8, 006; En vigueur : 09-03-2026&gt;
+
+###### Art. 14
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 102, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 15
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 102, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 16
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 102, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 17
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 102, 005; En vigueur : 01-01-2024&gt;
+
+### CHAPITRE 4.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+#### Section 1re.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 18
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 19
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 20
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 21
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 22
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+#### Section 2.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 23
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 24
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 25
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+#### Section 3.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 26
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 27
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 28
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 29
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 30
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 31
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 32
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 33
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 34
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 35
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 36
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 37
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 38
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+#### Section 4.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 39
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 40
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+#### Section 5.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+##### Sous-section 1re.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 41
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+##### Sous-section 2.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 42
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+##### Sous-section 3.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 43
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 44
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 45
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+##### Sous-section 4.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 46
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+##### Sous-section 5.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 47
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 48
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 49
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+#### Section 6.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 50
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+#### Section 7.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 51
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+### CHAPITRE 5.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 52
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 53
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 103, 005; En vigueur : 01-01-2024&gt;
+
+### CHAPITRE 6. [<sup>1</sup> Subventionnement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-06-18/25, art. 1, 005; En vigueur : 01-01-2022&gt;
+
+###### Art. 53/1
+
+[<sup>1</sup> Sans préjudice de l'application du financement dans le cadre de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, et dans le cadre du décret du 23 février 1994 relatif à l'infrastructure affectée aux matières personnalisables, le Gouvernement flamand peut, dans les limites des crédits budgétaires, accorder des subventions aux structures de soins, visées à l'article 3 du présent décret.
+
+Les subventions visées à l'alinéa 1er ne peuvent avoir le même objet que des financements dans le cadre du décret du 18 mai 2018 relatif à la protection sociale flamande.
+
+Le Gouvernement flamand arrête les règles de la demande, de la fixation, de l'octroi et de la liquidation des subventions.
+
+Lors de la détermination de la subvention à une structure de soins, le Gouvernement flamand arrête les missions que cette structure de soins accomplit et, le cas échéant, également le cadre du personnel à employer, les conditions de subvention auxquelles elle doit répondre, les résultats qu'elle doit atteindre, et la manière dont la subvention devra être justifiée.
+
+Si, en exécution du présent décret, des aides d'Etat au sens du Traité sur le fonctionnement de l'Union européenne sont octroyées à une entreprise, ces aides d'Etat sont octroyées dans le respect de la décision 2012/21/UE de la Commission du 20 décembre 2011 relative à l'application de l'article 106, paragraphe 2, du Traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-06-18/25, art. 105, 005; En vigueur : 01-01-2022&gt;
+
+## TITRE 3. - Maisons de soins psychiatriques, initiatives d'habitation protégée, hôpitaux de revalidation et équipes d'accompagnement multidisciplinaires
+
+### CHAPITRE 1er. - Maisons de soins psychiatriques et initiatives d'habitation protégée
+
+#### Section 1re. - Champ d'application matériel
+
+###### Art. 54
+
+§ 1er. Une maison de soins psychiatriques est une forme de soins résidentiels s'adressant au groupe-cible d'adultes et de personnes âgées souffrant de graves problèmes psychiatriques de longue durée qui :
+
+1° ont besoin d'un soutien quotidien dans les actions générales de la vie quotidienne, des activités instrumentales de la vie quotidienne et des activités quotidiennes en raison d'un fonctionnement réduit pour des raisons psychiatriques sans avoir besoin d'une disponibilité médicale 24 heures sur 24 ;
+
+2° n'ont pas besoin de soins physiques permanents dans lesquels les soins physiques l'emportent sur les problèmes psychiatriques ;
+
+3° ont besoin d'un soutien pour promouvoir leur inclusion et participation à la société ;
+
+4° ne sont pas ou ne peuvent pas encore vivre de manière autonome, mais ont besoin de proximité sous la forme d'une présence ou d'une permanence mobilisable qui est disponible assez rapidement.
+
+Dans une maison de soins psychiatriques, les soins orientés rétablissement sont mis au premier plan.
+
+Le Gouvernement flamand détermine le contenu des soins orientés rétablissement, visés à l'alinéa 2, qui vise au moins à :
+
+1° favoriser le réseautage social ;
+
+2° aspirer à l'inclusion et à la participation à l'environnement dans lequel le client est actif ;
+
+3° prêter attention aux activités constructives.
+
+§ 2. Le Gouvernement flamand détermine les conditions dans lesquelles l'admission dans une maison de soins psychiatriques peut être combinée avec d'autres formes de soins.
+
+###### Art. 55
+
+§ 1er. Une initiative d'habitation protégée s'adresse au groupe-cible d'adultes et de personnes âgées souffrant de graves problèmes psychiatriques de longue durée qui ont besoin d'un accompagnement orienté rétablissement dans leur propre milieu de vie dans divers domaines de la vie. Cet accompagnement vise à maximiser l'épanouissement personnel et social et la capacité d'autonomie de l'individu, dans le but de l'inclure et le faire participer à la société et de maintenir ou d'améliorer sa qualité de vie. L'accompagnement orienté rétablissement est dispensé dans des unités d'habitation qui sont offertes par l'initiative d'habitation protégée ou dans d'autres unités d'habitation.
+
+Le Gouvernement flamand détermine le contenu de l'accompagnement orienté rétablissement, visant au moins à :
+
+1° apporter un soutien psychosocial dans le propre milieu de vie ;
+
+2° favoriser le réseautage social ;
+
+3° aspirer à l'inclusion et à la participation à l'environnement dans lequel le client est actif ;
+
+4° prêter attention aux activités constructives.
+
+§ 2. Le Gouvernement flamand détermine les conditions dans lesquelles l'accompagnement par une initiative d'habitation protégée peut être combiné avec d'autres formes de soins.
+
+#### Section 2. - Agrément
+
+###### Art. 56
+
+Le Gouvernement flamand reconnaît des maisons de soins psychiatriques et initiatives d'habitation protégée et détermine les conditions d'agrément pour ces structures.
+
+Les conditions d'agrément de maison de soins psychiatriques concernent entre autres :
+
+1° le logement ;
+
+2° la dispensation de soins ;
+
+3° le personnel ;
+
+4° l'opération fonctionnelle et organisationnelle ;
+
+5° les aspects spécifiques relatifs à la sécurité incendie pour des structures, sans préjudice de l'application des normes de base fédérales relatives à la sécurité incendie de bâtiments.
+
+Les conditions d'agrément d'initiatives d'habitation protégée concernent entre autres :
+
+1° le logement qui est offert par les initiatives d'habitation protégée ;
+
+2° la dispensation de soins ;
+
+3° le personnel ;
+
+4° l'opération fonctionnelle et organisationnelle.
+
+###### Art. 57
+
+Le Gouvernement flamand ne peut reconnaître les structures que si elles s'inscrivent dans la programmation.
+
+###### Art. 58
+
+Le Gouvernement flamand peut, à la demande d'une structure, accorder une dérogation temporaire et motivée à certaines conditions d'agrément, visées à l'article 56, alinéa 1er, à condition que la sécurité des usagers de soins et du personnel, et la qualité des soins dispensés soient suffisamment assurées. Le Gouvernement flamand arrête les règles pour accorder cette dérogation.
+
+###### Art. 59
+
+Le Gouvernement flamand peut reconnaître des initiatives novatrices en matière de soins ou d'accompagnement orientés rétablissement d'adultes et de personnes âgées souffrant de graves problèmes psychiatriques de longue durée, organisées par une maison de soins psychiatriques agréée ou une initiative d'habitation protégée. Dans ce cas, le Gouvernement flamand fixe les conditions d'agrément de l'initiative novatrice en matière de soins.
+
+###### Art. 60
+
+Dans les conditions qu'il détermine et dans la limite des crédits budgétaires disponibles, le Gouvernement flamand peut accorder une subvention à des projets de soins ou d'accompagnement orientés rétablissement aux adultes et aux personnes âgées souffrant de graves problèmes psychiatriques de longue durée.
+
+#### Section 3. - Programmation
+
+###### Art. 61
+
+Le Gouvernement flamand peut arrêter la programmation des maisons de soins psychiatriques et des initiatives d'habitation protégée.
+
+#### Section 4. - Autorisation préalable
+
+###### Art. 62
+
+La création et la mise en service de places dans des maisons de soins psychiatriques et dans des initiatives d'habitation protégée est soumise à une autorisation préalable du Gouvernement flamand, qui doit s'inscrire dans le cadre des crédits budgétaires disponibles de la Communauté flamande.
+
+L'autorisation, visée à l'alinéa 1er, peut également être délivrée si l'établissement et la mise en service des places résulte de la conversion totale ou partielle d'un agrément ou d'une autorisation d'une autre forme de soins dans le cadre de la politique de santé ou de bien-être. Le Gouvernement flamand arrêté la procédure pour la conversion et les conditions auxquelles celle-ci aura lieu.
+
+Les autorisations préalables, visées à l'alinéa 1er, ne peuvent être accordées que si la structure s'inscrit dans le cadre du programme visé à l'article 61.
+
+#### Section 5. - Financement
+
+###### Art. 63
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 106, 005; En vigueur : 01-04-2023&gt;
+
+###### Art. 64
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 106, 005; En vigueur : 01-04-2023&gt;
+
+###### Art. 65
+
+Le Gouvernement flamand [<sup>1</sup> peut déterminer]<sup>1</sup> le financement et les conditions de financement des initiatives novatrices en matière de soins, visées à l'article 59.
+
+----------
+
+(1)&lt;DCFL 2021-06-18/25, art. 107, 005; En vigueur : 01-01-2022&gt;
+
+#### Section 6. - Intervention pour soins dans le prix d'hébergement et le prix par journée de séjour et le financement complémentaire en dehors de l'intervention
+
+###### Art. 66
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 108, 005; En vigueur : 01-04-2023&gt;
+
+###### Art. 67
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 27, 005; En vigueur : 01-01-2022&gt;
+
+###### Art. 68
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 108, 005; En vigueur : 01-04-2023&gt;
+
+#### Section 7.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 108, 005; En vigueur : 01-04-2023&gt;
+
+###### Art. 69
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 109, 005; En vigueur : 01-04-2023&gt;
+
+###### Art. 70
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 109, 005; En vigueur : 01-04-2023&gt;
+
+###### Art. 71
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 109, 005; En vigueur : 01-04-2023&gt;
+
+#### Section 8.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 109, 005; En vigueur : 01-04-2023&gt;
+
+###### Art. 72
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 109, 005; En vigueur : 01-04-2023&gt;
+
+### CHAPITRE 2. - Structures de revalidation
+
+#### Section 1re. - Champ d'application matériel
+
+###### Art. 73
+
+Le présent chapitre s'applique aux structures de revalidation.
+
+#### Section 2. - Conventions de revalidation
+
+###### Art. 74
+
+Conformément aux conditions fixées par le Gouvernement flamand, la convention de revalidation doit comporter au moins les éléments suivants :
+
+1° le programme de revalidation, y compris le groupe-cible ;
+
+2° le cadre organique ;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Dans l'alinéa 1er, on entend par programme de revalidation les prestations de revalidation qui font partie des soins dispensés dans la structure de revalidation.
+
+----------
+
+(1)&lt;DCFL 2021-06-18/25, art. 110, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 75
+
+§ 1er. Le Gouvernement flamand conclut, modifie et termine les conventions de revalidation avec les structures de revalidation.
+
+[<sup>1</sup> Lors de la conclusion, de la modification ou de la résiliation de conventions de revalidation, visées à l'alinéa 1er, le Gouvernement flamand peut demander l'avis de la Commission d'experts. ]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. Le Gouvernement flamand arrête la procédure et les conditions générales auxquelles les conventions de revalidation sont conclues, modifiées ou terminées.
+
+----------
+
+(1)&lt;DCFL 2021-06-18/25, art. 111, 005; En vigueur : 01-10-2022&gt;
+
+###### Art. 76
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 112, 005; En vigueur : 01-10-2023&gt;
+
+###### Art. 77
+
+§ 1er. Le Gouvernement flamand arrête les conditions et la procédure d'agrément, de suspension et du retrait de l'agrément des structures de revalidation. Tant que le Gouvernement flamand n'a pas fixé ces conditions et procédures et qu'aucune structure de revalidation n'a été reconnue à la suite de cette procédure, les structures de revalidation avec lesquelles une convention de revalidation a été conclue sont considérées comme des infrastructures de soins.
+
+§ 2. Le Gouvernement flamand peut arrêter la programmation des structures de revalidation.
+
+#### Section 3.
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 113, 005; En vigueur : 01-10-2023&gt;
+
+###### Art. 78
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 113, 005; En vigueur : 01-10-2023&gt;
+
+###### Art. 79
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 113, 005; En vigueur : 01-10-2023&gt;
+
+###### Art. 80
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 113, 005; En vigueur : 01-10-2023&gt;
+
+###### Art. 81
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 113, 005; En vigueur : 01-10-2023&gt;
+
+###### Art. 82
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 113, 005; En vigueur : 01-10-2023&gt;
+
+#### Section 4. - Conventions à caractère expérimental
+
+###### Art. 83
+
+Par dérogation à l'article 74, le Gouvernement flamand peut conclure avec des infrastructures de soins des conventions à caractère expérimental et limitées dans le temps pour la recherche et l'étude comparative de certains nouveaux modèles de financement et d'octroi de prestations de revalidation. A cet effet, le Gouvernement flamand [<sup>1</sup> peut solliciter l'avis de la Commission d'experts ]<sup>1</sup>.[<sup>1</sup> ...]<sup>1</sup>.
+
+Le Gouvernement flamand peut arrêter les conditions auxquelles les conventions, visées à l'alinéa 1er, sont conclues.
+
+Le Gouvernement flamand peut prévoir des modes de financement pour les conventions, visées à l'alinéa 1er.
+
+----------
+
+(1)&lt;DCFL 2021-06-18/25, art. 114, 005; En vigueur : 01-10-2022&gt;
+
+### CHAPITRE 3. - Hôpitaux de revalidation
+
+#### Section 1re. - Modifications de la loi coordonnée du 10 juillet 2008
+
+###### Art. 84
+
+La présente section est applicable aux hôpitaux de revalidation en Communauté flamande.
+
+###### Art. 85
+
+A l'article 32 de la loi coordonnée du 10 juillet 2008, les modifications suivantes sont apportées :
+
+1° au point 1°, le membre de phrase " articles 5, 6, 36, 38, 40, 41, 52, 53, 54, 57, 61, 66 et 124 " est remplacé par le membre de phrase " articles 35, 36, 38, 40, 41, 52, 53, 54, 57, 61 et 66 " ;
+
+2° le point 2° est remplacé par ce qui suit :
+
+" 2° une section Financement chargée d'émettre des avis conformément aux articles 63 et 85. ".
+
+###### Art. 86
+
+Au titre III de la loi coordonnée du 10 juillet 2008, les modifications suivantes sont apportées :
+
+1° chapitre VI, comprenant les articles 95 à 123, modifié par les lois des 10 décembre 2009, 23 décembre 2009, 19 décembre 2009, 19 mai 2010, 27 décembre 2012, 19 mars 2013, 15 décembre 2013 et 10 avril 2014 et le décret du 15 juillet 2016, est remplacé par le texte suivant, à l'exception des articles 106, 111, 117, 118, 122 et 123 :
+
+" Chapitre VI. Financement des coûts de fonctionnement des hôpitaux de revalidation
+
+Art. 95. Le Gouvernement flamand détermine le budget total des hôpitaux de revalidation.
+
+Dans les limites de ce budget, le Gouvernement flamand détermine un budget séparé pour chaque hôpital de revalidation.
+
+Le budget tient uniquement compte des soins hospitaliers donnant lieu à une intervention par application de l'article 110, à l'exception des soins hospitaliers qui sont remboursés dans le cadre du règlement (CE) n° 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale.
+
+Le budget visé au présent article est composé d'une partie fixe et d'une partie variable.
+
+Dans le présent chapitre, on entend par hôpital de revalidation : une infrastructure de soins telle que visée à l'article 2, 17°, du décret du 6 juillet 2018 relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs.
+
+Art. 96. Le Gouvernement flamand peut établir un budget séparé pour un ou plusieurs services hospitaliers ou unités hospitalières de l'hôpital de revalidation.
+
+Les modalités d'application du présent article sont déterminées par le Gouvernement flamand. Le Gouvernement flamand détermine plus particulièrement les articles du présent chapitre qui s'appliquent, en tout ou en partie, aux budgets séparés, visés à l'alinéa 1er, et procède aux ajustements qu'il juge nécessaires.
+
+Art. 97. § 1er. Pour un séjour en chambre individuelle, y compris l'hospitalisation de jour, un supplément de chambre peut être facturé en sus du budget à charge du patient qui a demandé une telle chambre, si au moins la moitié du nombre de lits de l'hôpital de revalidation peut être mise à disposition pour l'hébergement des patients souhaitant être admis sans supplément de chambre.
+
+Le nombre de lits disponibles, visé à l'alinéa 1er, doit comprendre un nombre suffisant de lits pour les enfants qui séjournent à l'hôpital de revalidation avec un parent accompagnateur.
+
+Le Gouvernement flamand peut déterminer le montant maximal du supplément de chambre qui peut être facturé pour un séjour en chambre individuelle, conformément aux conditions et procédures fixées par le Gouvernement flamand.
+
+§ 2. Pour un séjour en chambre individuelle, y compris l'hospitalisation de jour, un supplément de chambre, tel que visé au paragraphe 1er ne peut être facturé dans les cas suivants :
+
+1° si l'état de santé du patient ou les conditions techniques de l'examen, du traitement ou de la surveillance exigent le séjour dans une chambre individuelle ;
+
+2° si les besoins du service ou l'absence de lits inoccupés dans des chambres de deux patients ou dans les chambres communes nécessitent un séjour en chambre individuelle ;
+
+3° s'il s'agit d'une admission d'un enfant qui séjourne à l'hôpital de revalidation avec un parent accompagnateur.
+
+§ 3. Le Gouvernement flamand peut déterminer ce qu'il faut entendre par hospitalisation de jour dans un hôpital de revalidation visé aux paragraphes 1 et 2.
+
+Art. 98. Le Gouvernement flamand peut arrêter les modalités relatives :
+
+1° la nature des montants à charge du patient, qui doivent lui être communiqués à l'avance, y compris les suppléments, visés aux articles 97 et 152, ainsi que tous les frais de fournitures supplémentaires et frais divers ;
+
+2° les modalités de la communication et de la facturation au patient, des montants, visés au point 1° ;
+
+3° la présentation à la signature du patient d'un document indiquant les montants, visés au point 1°.
+
+Toute information ou clause figurant dans un document autre que le document visé à l'alinéa 1er, 3°, qui est contraire à l'information dans le document, visé à l'alinéa 1er, 3°, ou qui contient des montants, tels que visés à l'alinéa 1er, 1°, qui ne correspondent pas aux montants figurant dans le document, visé à l'alinéa 1er, 3°, est nulle.
+
+Art. 99. Le Gouvernement flamand détermine la manière dont le public est informé des montants, visés aux articles 97, 115 et 116.
+
+Art. 100. Sans préjudice de l'application de l'article 97, le budget couvre, sur une base forfaitaire, les coûts liés au séjour et à la dispensation de soins aux patients dans un hôpital de revalidation, y compris les patients en hospitalisation de jour, tels que décrits par le Gouvernement flamand.
+
+Le Gouvernement flamand spécifie les coûts, visés à l'alinéa 1er.
+
+Conformément aux conditions et règles fixées par le Gouvernement flamand, le budget peut également couvrir les coûts relatifs aux prestations aux patients admis dans un hôpital de revalidation et y pouvant séjourner, telles que visées à l'article 102, paragraphe 2, points a) à d).
+
+Pour l'application de l'alinéa 3, l'avis d'un organe consultatif pouvant être désigné par le Gouvernement flamand, peut être sollicité. Le Gouvernement flamand peut déterminer la procédure à suivre à cet égard.
+
+Art. 101. Le budget peut couvrir, sur une base forfaitaire, les coûts de prestation de services en raison de circonstances exceptionnelles déterminées par le Gouvernement flamand.
+
+Les coûts, visés à l'alinéa 1er, diffèrent des coûts, visés à l'article 100, et ne donnent lieu à aucune intervention au titre de la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994, ou de ses arrêtés d'exécution.
+
+Art. 102. Les éléments suivants ne sont pas inclus dans le budget de l'hôpital de revalidation :
+
+1° le prix des spécialités pharmaceutiques et le prix des médicaments génériques ;
+
+2° les honoraires des médecins et des praticiens paramédicaux pour les prestations de santé énumérées ci-après :
+
+a) les soins courants et les prestations techniques de diagnostic et de traitement donnés par les médecins pratiquant la médecine générale et les médecins spécialistes, ainsi que les soins dentaires conservateurs et réparateurs ;
+
+b) les soins donnés par les kinésithérapeutes ;
+
+c) la fourniture de lunettes et autres prothèses oculaires, d'appareils auditifs, orthopédiques et autres prothèses ;
+
+d) tous les autres soins et prestations nécessités par la revalidation et la rééducation professionnelle, pour autant que leur exécution ne soit pas liée aux activités spécifiques du service où le malade est hébergé ;
+
+3° la rémunération des prestations effectuées par des pharmaciens ou licenciés/masters en sciences chimiques habilités à effectuer des analyses de biologie clinique ;
+
+4° les frais liés aux implants, comme visés à l'article 34, 4° bis, a), de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, à l'exception :
+
+a) des implants soumis à l'obligation de notification par application de l'article 35septies de la loi précitée et qui n'ont pas fait l'objet d'une notification ;
+
+b) des implants, qui sont exemptés par le Roi de l'obligation de notification conformément à l'article 35septies, alinéa 5, de la loi précitée et qui n'entrent pas en ligne de compte pour un remboursement par l'assurance obligatoire dans le cadre des modalités de remboursement fixées ;
+
+c) des colles tissulaires, antiadhésifs et produits hémostatiques quand ceux-ci ne font pas l'objet d'une intervention de l'assurance obligatoire conformément aux modalités de remboursement fixées ;
+
+d) des implants qui ne peuvent pas entrer en ligne de compte pour une intervention effective de l'assurance obligatoire soins de santé par application de l'article 35septies/1, § 2, alinéa 3, de la loi précitée ;
+
+e) des implants qui ont fait l'objet d'une décision négative du ministre suite à une évaluation négative de la commission, visée à l'article 29ter de la loi précitée, effectuée conformément à l'article 35septies/2, § 3, de la loi précitée ou d'une décision négative du Comité de l'assurance suite à une évaluation négative de la commission précitée, effectuée conformément à l'article 35septies/3, § 3 de la loi précitée ;
+
+5° les coûts liés à d'autres dispositifs médicaux que les dispositifs médicaux, visés au point 4°, lorsqu'ils font l'objet d'une intervention de l'assurance obligatoire soins de santé conformément aux modalités de remboursement fixées ;
+
+6° les coûts relatifs à d'autres dispositifs médicaux que les dispositifs médicaux, visés aux points 4° et 5°, tels que définis par le Gouvernement flamand ;
+
+7° les coûts d'investissement pour l'infrastructure et les services médico-techniques, visés à l'article 5, § 1er, I, alinéa 1er, 1°, a), de la loi spéciale du 8 août 1980 de réformes institutionnelles, des hôpitaux de revalidation.
+
+Art. 103. Le Gouvernement flamand peut déroger, en tout ou en partie, à l'article 102, pour les hôpitaux de revalidation ou pour certains types de services hospitaliers, ou dans les cas et conditions, définis par lui.
+
+Art. 104. Pour les interventions, les services et prestations de soins dont les frais sont couverts de façon forfaitaire par le budget, en application des dispositions du présent chapitre, aucune intervention financière ne peut être réclamée au patient.
+
+Art. 105. § 1er. Le Gouvernement flamand détermine les conditions et les règles d'établissement du budget.
+
+Il détermine entre autres :
+
+1° la période d'octroi du budget qui ne peut en aucun cas dépasser dix ans ;
+
+2° la scission du budget en une partie fixe et une partie variable ;
+
+3° les critères et les modalités de calcul et les modalités d'indexation ;
+
+4° les conditions et les modalités de révision de certains éléments.
+
+§ 2. Le Gouvernement flamand détermine la façon dont le budget est communiqué aux gestionnaires des hôpitaux de revalidation.
+
+La notification au gestionnaire de la décision de fixer le budget d'un hôpital de revalidation, d'un service hospitalier ou d'une unité hospitalière doit contenir une référence à la décision 2012/21/UE de la Commission européenne du 20 décembre 2011 relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.
+
+Art. 107. Le Gouvernement flamand peut prévoir des modalités spécifiques de financement afin de permettre, sur une base expérimentale et pour une durée limitée, le financement de projets à caractère expérimental.
+
+Art. 108. Le Gouvernement flamand prévoit en une procédure de réclamation en matière de l'établissement du budget d'un hôpital de revalidation, d'un service hospitalier ou d'une unité hospitalière.
+
+Art. 109. Un montant spécifique peut être prévu dans le budget de l'hôpital de revalidation pour améliorer le fonctionnement de l'hôpital lorsque cela s'accompagne d'une décision du gestionnaire donnant lieu à une diminution réelle du budget et ce, dans le cadre d'une restructuration de l'établissement ou d'une collaboration avec un ou plusieurs hôpitaux revalidation ou hôpitaux.
+
+Le Gouvernement flamand fixe les règles et conditions d'octroi de ce montant.
+
+Art. 110. § 1er. Lorsque les soins hospitaliers donnent lieu à une intervention des organismes assureurs, tels que visés dans la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, le Gouvernement flamand accorde le budget.
+
+§ 2. Lorsque les soins hospitaliers donnent lieu à une intervention de l'Office national de Sécurité sociale pour la Sécurité sociale d'outre-mer, de la Caisse auxiliaire pour les invalides de guerre, anciens combattants et victimes de guerre et les marins, dans le cadre de leur réglementation propre, ou d'un centre public d'action sociale au profit des personnes démunies, la Communauté flamande peut accorder un pourcentage du budget fixé par le Gouvernement flamand.
+
+La partie restante du budget fixé par le Gouvernement flamand est à charge, selon le cas, de l'Office national de Sécurité sociale pour la Sécurité sociale d'outre-mer, de la Caisse auxiliaire pour les invalides de guerre, anciens combattants et victimes de guerre et les marins ou des centres publics d'action sociale.
+
+§ 3. Une convention entre le Gouvernement flamand et les organismes, visés au paragraphe 2, détermine les décomptes financiers entre la Communauté flamande et les organismes, visés au paragraphe 2.
+
+Art. 112. Le Gouvernement flamand peut octroyer une subvention complémentaire afin de couvrir des coûts spécifiques générés par un profil de patient très faible sur le plan socio-économique de l'hôpital de revalidation.
+
+Le Gouvernement flamand fixe les règles et les conditions suivant lesquelles cette subvention complémentaire est fixée, octroyée et liquidée.
+
+L'article 110 est applicable au budget, visé à l'article 95, après déduction de la subvention complémentaire, visée au présent article.
+
+Art. 113. L'octroi des interventions, prévues à l'article 110, peut être subordonné par le Gouvernement flamand à la conclusion par les hôpitaux de revalidation d'une convention telle que prévue par la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, ou ses arrêtés d'exécution et approuvée par le ministre qui a les Affaires sociales dans ses attributions, ainsi que par le ministre fédéral qui a la Santé publique dans ses attributions.
+
+Art. 114. Le Gouvernement flamand détermine les conditions et les modalités suivant lesquelles les interventions sont liquidées.
+
+Art. 115. Pour les patients qui relèvent d'un des organismes assureurs, visés dans la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, une partie du budget, telle que fixée par le Gouvernement flamand, est liquidée en douzièmes par les organismes assureurs. Le Gouvernement flamand fixe les modalités de liquidation par les organismes assureurs.
+
+La partie restante du budget, visé à l'alinéa 1er, est liquidée par les organismes assureurs, visés à l'alinéa 1er, selon un ou plusieurs paramètres d'activité à définir par le Gouvernement flamand.
+
+Le Gouvernement flamand peut fixer des modalités de liquidation, visées à l'alinéa 2, plus particulièrement en ce qui concerne le nombre de référence des activités qui est pris en considération pour le calcul du montant à liquider par paramètre d'activité.
+
+Nonobstant toute stipulation contraire, le prix qui peut être imputé est le prix qui est fixé par le Gouvernement flamand, conformément à l'alinéa 3.
+
+Le Gouvernement flamand peut fixer des règles et modalités pour la liquidation, visée aux alinéas 1er et 2.
+
+Art. 116. § 1er. Pour les patients qui ne relèvent pas d'un organisme assureur, tel que visé à l'article 115, alinéa 1er, et dont les soins hospitaliers donnent lieu à une intervention en application de l'article 110, le Gouvernement flamand peut fixer, selon les conditions et les règles déterminées par lui, un prix par paramètre d'activité sur la base du budget.
+
+Nonobstant toute stipulation contraire, le prix qui peut être imputé est le prix qui est fixé par le Gouvernement flamand, conformément à l'alinéa 1er.
+
+§ 2. Pour les patients qui ne relèvent pas d'un organisme assureur, tel que visé à l'article 115, alinéa 1er, et dont les soins hospitaliers ne donnent pas lieu à une intervention en application de l'article 110, le Gouvernement flamand peut fixer, selon les conditions et les règles déterminées par lui, un prix minimal par paramètre d'activité, entre autres sur la base du budget.
+
+Art. 119. § 1er. Le Gouvernement flamand et les organismes visés à l'article 110, sont, à concurrence de leur paiement aux hôpitaux de revalidation des frais de soins infirmiers des malades pour qui ils sont tenus d'intervenir, subrogés de plein droit dans les droits que ces personnes peuvent faire valoir contre le tiers, auteur responsable de la maladie ou de l'accident qui a nécessité l'hospitalisation.
+
+Lorsque ces dommages, visés à l'alinéa 1er, sont la suite d'une infraction à la loi pénale, l'action subrogatoire peut être exercée en même temps et devant le même juge que l'action publique.
+
+Le Gouvernement flamand fixe les règles suivant lesquelles les organismes, visés à l'alinéa 1er, remboursent à la Communauté flamande l'intervention comprise dans les sommes recouvrées en vertu du présent article.
+
+§ 2. Nonobstant d'autres dispositions légales, les créances que les hôpitaux de revalidation détiennent, dans le système du tiers payant, sur les organismes assureurs visés au présent décret, peuvent faire l'objet d'une dation en gage.
+
+Le Gouvernement flamand peut fixer les modalités d'application de l'alinéa 1er.
+
+Art. 120. § 1er. L'application des articles 95 à 105 et 109 à 116 peut, conformément aux règles fixées par le Gouvernement flamand, être subordonnée en tout ou en partie :
+
+1° aux communications qui doivent être faites conformément à l'article 92 et à l'article 92/1 ainsi qu'à l'exactitude et l'exhaustivité des données visées ;
+
+2° à l'obtention d'un agrément tel que visé aux articles 58, 66 et 67, d'une autorisation telle que visée à l'article 39 ou d'une autorisation telle que visée aux articles 54 et 57 ;
+
+3° à la tenue d'un dossier médical conformément aux dispositions de l'article 20 et de ses arrêtés d'exécution ;
+
+4° à la communication au patient des informations conformément à l'article 91 et à ses arrêtés d'exécution.
+
+En cas d'infractions aux dispositions visées à l'alinéa 1er, dans le cadre d'une collaboration d'hôpitaux avec des hôpitaux de revalidation, l'alinéa 1er est d'application à tous les hôpitaux de revalidation qui font partie de la collaboration.
+
+§ 2. Avant que les dispositions visées au § 1er, ne soient appliquées, l'hôpital de revalidation concerné en est informé.
+
+Dans un délai de quatre semaines après la notification, l'hôpital de revalidation peut transmettre ses remarques par écrit à l'administration compétente. " ;
+
+2° les articles 106, 111, 117, 118, 122 et 123 sont abrogés.
+
+###### Art. 87
+
+Dans le titre III de la loi coordonnée du 10 juillet 2008, le chapitre VII est remplacé par ce qui suit :
+
+" Chapitre VII. Suppression d'un type de service hospitalier
+
+Art. 124. Le Gouvernement flamand peut, conformément aux conditions et procédures fixées par lui, supprimer une ou plusieurs types de services hospitaliers au sein des hôpitaux de revalidation, visés à l'article 2, 17° du décret du 6 juillet 2018 relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs qui ne peuvent plus être considérés comme tels.
+
+Pour l'application de l'alinéa 1er, l'avis d'un organe consultatif à désigner par le Gouvernement flamand, peut être sollicité. Le Gouvernement flamand peut déterminer la procédure à suivre à cet égard. ".
+
+###### Art. 88
+
+Dans le titre III de la loi coordonnée du 10 juillet 2008, le chapitre VIII, modifié par la loi du 19 mars 2013 et comprenant les articles 125 et 126 est abrogé.
+
+#### Section 2. - Modifications du décret du 20 mars 2009 portant diverses dispositions relatives au domaine politique Aide sociale, Santé publique et Famille
+
+###### Art. 89
+
+A l'article 27 du décret du 20 mars 2009 portant diverses dispositions relatives au domaine politique Aide sociale, Santé publique et Famille, modifié par le décret du 21 juin 2013, les modifications suivantes sont apportées :
+
+1° dans le point 1°, le membre de phrase " hôpital de revalidation, " est inséré entre le membre de phrase " hôpital, " et les mots " maison de repos et de soins " ;
+
+2° il est ajouté un point 8°, rédigé comme suit :
+
+" 8° hôpital de revalidation : une infrastructure de soins, telle que visée à l'article 5, § 1er, I, 1er alinéa, 3° et 4° de la loi spéciale du 8 août 1980 de réformes institutionnelles, dans laquelle des soins appropriés sont offerts aux patients dont l'état de santé nécessite l'admission ou le séjour, dans le but de rétablir ou d'améliorer leur état de santé en luttant contre la maladie ou en revalidant le patient. ".
+
+### CHAPITRE 4. - Equipes d'accompagnement multidisciplinaires de soins palliatifs
+
+#### Section 1re. - Champ d'application matériel
+
+###### Art. 90
+
+Le présent chapitre s'applique aux équipes d'accompagnement multidisciplinaires.
+
+Une équipe d'accompagnement multidisciplinaire est une équipe spécialisée avec laquelle le Gouvernement flamand a conclu une convention et qui offre au moins les services suivants dans un milieu familial ou de remplacement :
+
+1° conseiller les prestataires de soins concernés qui, sous la direction du médecin généraliste de la personne palliative, restent, dans tous les cas, eux-mêmes entièrement responsables des soins et de l'accompagnement de la personne palliative ;
+
+2° de concert avec les prestataires de soins concernés et avec leur autorisation prendre en charge dans certains cas certains aspects des soins palliatifs, les organiser et les coordonner ;
+
+3° fournir des informations à la personne palliative, à sa famille et à ses aidants proches sur les soins palliatifs ;
+
+4° assurer un soutien psychologique et moral aux prestataires de soins concernés, à la personne palliative, à sa famille et à ses aidants proches.
+
+Dans l'alinéa 2, il faut entendre par :
+
+1° aidant proche : la personne physique qui partant d'un lien social ou émotionnel aide et soutient une ou plusieurs personnes à capacité d'autonomie réduite dans leur vie quotidienne, non pas dans une capacité professionnelle, mais avec une régularité plus qu'occasionnelle ;
+
+2° personne palliative : le patient qui se trouve en phase terminale d'une maladie incurable et qui en outre répond à toutes les conditions suivantes :
+
+a) l'état de santé général est assez grave. Le patient est généralement dépendant de tiers pour les actes de la vie quotidienne ;
+
+b) tout traitement du patient qui n'est pas purement symptomatique est superflu ;
+
+c) aucune rémission prévisible du patient n'est attendue ;
+
+d) les soins du patient exigent un effort important, long et soutenu de la part d'un personnel soignant possédant des compétences spécifiques et, dans certains cas, des ressources techniques appropriées ;
+
+3° soins palliatifs : l'ensemble des soins dispensés aux patients en phase terminale de maladie chez qui la maladie susceptible d'entraîner la mort ne réagit plus aux thérapies curatives. Pour ces personnes, le contrôle de la douleur et d'autres symptômes gênants, ainsi qu'un soutien psychologique, social et spirituel sont d'une importance essentielle. Le but principal des soins palliatifs est d'offrir à la personne palliative, à sa famille et à ses aidants proches la plus grande qualité de vie possible et le maximum d'autonomie. En ce sens, les soins palliatifs confirment la vie et considèrent la mort comme un processus normal, où il est important que la personne palliative puisse mourir dans les meilleures conditions possibles. Les soins palliatifs visent donc à améliorer la qualité de la durée de vie restante. Prolonger ou raccourcir la vie n'est pas une fin en soi des soins palliatifs ;
+
+4° [<sup>1</sup> prestataire de soins : un prestataire de soins de première ligne, tel que visé à l'article 2, 3°, du décret du 26 avril 2019 relatif à l'organisation des soins de première ligne, les plateformes régionales de soins et le soutien des prestataires de soins de première ligne.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-26/19, art. 29, 003; En vigueur : 01-10-2019&gt;
+
+#### Section 2. - Conventions avec les équipes d'accompagnement multidisciplinaires
+
+###### Art. 91
+
+§ 1er. Le Gouvernement flamand conclut, modifie et met fin aux conventions avec les équipes d'accompagnement pluridisciplinaires et peut déterminer leur domaine d'activité.
+
+[<sup>1</sup> Lors de la conclusion, de la modification ou de la résiliation, visées à l'alinéa 1er, le Gouvernement flamand peut demander l'avis de la Commission d'experts.]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. Le Gouvernement flamand peut déterminer la procédure et les conditions générales auxquelles les conventions avec les équipes d'accompagnement multidisciplinaires sont conclues, modifiées ou terminées.
+
+----------
+
+(1)&lt;DCFL 2021-06-18/25, art. 115, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 92
+
+Le Gouvernement flamand détermine au moins les éléments suivants :
+
+1° la composition de base des équipes d'accompagnement multidisciplinaires ;
+
+2° les missions des équipes d'accompagnement multidisciplinaires ;
+
+3° les conditions de fonctionnement des équipes d'accompagnement multidisciplinaires ;
+
+4° le financement des équipes d'accompagnement multidisciplinaires.
+
+Le Gouvernement flamand peut déterminer des éléments supplémentaires.
+
+Les éléments, visés à l'alinéa 1er, et les éléments supplémentaires, visés à l'alinéa 2, sont concrétisés dans la convention visée à l'article 91.
+
+###### Art. 93
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 116, 005; En vigueur : 01-01-2024&gt;
+
+###### Art. 94
+
+Le Gouvernement flamand arrête les conditions et la procédure d'agrément, de suspension et du retrait de l'agrément des équipes d'accompagnement multidisciplinaires. Tant que le Gouvernement flamand n'a pas fixé les conditions et la procédure d'agrément des équipes d'accompagnement multidisciplinaires et qu'aucune équipe d'accompagnement multidisciplinaire n'a été agréée en vertu de cette procédure, les équipes d'accompagnement multidisciplinaires avec lesquelles une convention a été conclue conformément au présent décret sont considérées comme des infrastructures de soins.
+
+#### Section 3. - Financement et intervention
+
+###### Art. 95
+
+&lt;Abrogé par DCFL 2021-06-18/25, art. 116, 005; En vigueur : 01-01-2024&gt;
+
+## TITRE 4. - Hôpitaux
+
+###### Art. 96
+
+A l'article 29 du décret du 20 mars 2009 portant diverses dispositions relatives au domaine politique Aide sociale, Santé publique et Famille, les modifications suivantes sont apportées :
+
+1° le membre de phrase " l'article 5, § 1er, I, 1°, " est remplacé par le membre de phrase " l'article 5, § 1er, I, alinéa 1er, 1°, 3° et 4°, " ;
+
+2° le membre de phrase " telles que visées à l'article 5, § 1er, I, 1°, f), de cette loi spéciale " est abrogé.
+
+## TITRE 5. - Dispositions finales
+
+### CHAPITRE 1er. - Dispositions abrogatoires
+
+###### Art. 97
+
+Dans la loi coordonnée du 10 juillet 2008, les articles suivants sont abrogés :
+
+1° l'article 6 ;
+
+2° les articles 47 à 50 ;
+
+3° l'article 170, modifié par le décret du 15 juillet 2016, pour ce qui est des maisons de repos et de soins, des centres de soins de jour et des maisons de soins psychiatriques.
+
+### CHAPITRE 2. - Dispositions modificatives
+
+###### Art. 98
+
+A l'article 581, 1°, du Code judiciaire, est ajouté le membre de phrase " et du décret du 6 juillet 2018 relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs ".
+
+###### Art. 99
+
+L'article 1410, § 2, du Code judiciaire, modifié en dernier lieu par la loi du 27 décembre 2006, est complété par un point 12°, rédigé comme suit :
+
+" 12° aux montants payés ou à payer aux bénéficiaires des interventions résultant du décret du 6 juillet 2018 relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation fonctionnelle, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs. ".
+
+###### Art. 100
+
+Dans l'article 22 de la loi relative à l'assurance obligatoire de soins de santé et indemnités, coordonnée le 14 juillet 1994, modifié en dernier lieu par la loi du 11 août 2017, le point 6° ter est abrogé.
+
+###### Art. 101
+
+Dans l'article 23 de la même loi, modifié en dernier lieu par la loi du 11 août 2017, le paragraphe 3bis est abrogé.
+
+###### Art. 102
+
+Dans l'article 34, alinéa 1er, de la même loi, modifié en dernier lieu par la loi du 11 août 2017, le point 21° est abrogé.
+
+###### Art. 103
+
+Dans l'article 153, § 1er, alinéa 1er, de la même loi, modifié en dernier lieu par la loi du 11 août 2017, le point 4) sera abrogé à une date à déterminer par le Gouvernement flamand.
+
+###### Art. 104
+
+A l'article 27 du décret du 20 mars 2009 portant diverses dispositions relatives au domaine politique Aide sociale, Santé publique et Famille, modifié par le décret du 21 juin 2013, les modifications suivantes sont apportées :
+
+1° dans le point 1°, les mots " maison de repos et de soins, " sont remplacés par les mots " centre de soins résidentiels " ;
+
+2° le point 4° est remplacé par ce qui suit :
+
+" 4° centre de soins résidentiels bénéficiant d'un agrément supplémentaire : un centre de soins résidentiels bénéficiant d'un agrément supplémentaire tel que visé à l'article 52/1 du Décret sur les soins résidentiels du 13 mars 2009 ; " ;
+
+3° au point 5°, le membre de phrase " la réglementation en exécution de l'article 5 de la loi du 27 juin 1978 modifiant la législation sur les hôpitaux et relative à certaines autres formes de dispensation de soins " est remplacé par le membre de phrase " le décret du 6 juillet 2018 relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs " ;
+
+4° au point 6°, le membre de phrase :au point 5°, le membre de phrase " la réglementation en exécution de l'article 6 de la loi sur les hôpitaux, coordonnée le 7 août 1987 " est remplacé par le membre de phrase " le décret du 6 juillet 2018 relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs ".
+
+###### Art. 105
+
+Dans l'article 30, § 4, du même décret, modifié par le décret du 21 juin 2013, le membre de phrase " de centres de soins de jour, prévus dans la réglementation en exécution de l'article 170 de la loi sur les hôpitaux et autres établissements de soins, coordonnée le 10 juillet 2008 " est remplacé par le membre de phrase " de centres de soins de jour bénéficiant d'un agrément supplémentaire tels que visés à l'article 52/2 du Décret sur les soins résidentiels du 13 mars 2009 ".
+
+###### Art. 106
+
+Le Gouvernement flamand peut apporter des modifications et abroger des dispositions dans les lois et décrets existants afin de les faire correspondre aux dispositions du présent décret.
+
+### CHAPITRE 3. - Dispositions transitoires et d'entrée en vigueur
+
+###### Art. 107
+
+Dans la réglementation fédérale applicable aux hôpitaux de revalidation et non encore remplacée par une réglementation flamande autonome, la référence aux dispositions de la loi coordonnée du 10 juillet 2008 remplacées aux articles 89 et 90 doit être interprétée comme une référence aux dispositions correspondantes des articles 86 et 87 du présent décret.
+
+###### Art. 108
+
+Dans les cas prévus à l'article 47/9, § 4, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, dans laquelle l'autorité fédérale assure le financement des investissements dans les infrastructures et les services médico-techniques, visés à l'article 5, § 1, I, alinéa 1er, 1°, a) de la loi spéciale du 8 août 1980 de réformes institutionnelles, des hôpitaux, au nom de la Communauté flamande, les dispositions de la loi coordonnée du 10 juillet 2008, telles qu'elles s'appliquaient avant l'entrée en vigueur du présent décret, restent d'application.
+
+###### Art. 109
+
+Les médecins-conseils effectuent également les contrôles conformément à l'article 153, § 1er, alinéa 1er, 4) de la loi coordonnée le 14 juillet 1994, tant que la " Zorgkassencommissie " ne peut être appelée à effectuer les contrôles, visés aux articles 24 et 25.
+
+###### Art. 110
+
+Par dérogation à l'article 75, le Gouvernement flamand conclut une convention de revalidation avec les structures qu'il détermine et qui, avant l'entrée en vigueur du présent décret, ont déjà conclu une convention en application des articles 22, 6°, et 23, § 3, de la loi coordonnée le 14 juillet 1994. Ces conventions de revalidation sont adaptées afin de les faire correspondre aux dispositions du présent décret et de ses arrêtés d'exécution.
+
+Le Gouvernement flamand peut déterminer les conditions des adaptations, visées à l'alinéa 1er.
+
+Chacune des conventions, visées à l'alinéa 1er, conclues en application de l'article 22, 6°, et 23, § 3, de la loi coordonnée le 14 juillet 1994, continue à être mise en oeuvre tant que le Gouvernement flamand n'a pas conclu une convention de revalidation avec la structure concernée conformément à l'alinéa 1er.
+
+###### Art. 111
+
+Par dérogation à l'article 91, le Gouvernement flamand conclut une convention de revalidation avec les équipes d'accompagnement multidisciplinaires qu'il détermine et qui, avant l'entrée en vigueur du présent décret, ont déjà conclu une convention en application des articles 22, 6° ter, et 23, § 3bis, de la loi coordonnée le 14 juillet 1994, telle qu'elle s'appliquait avant l'entrée en vigueur du présent décret. Ces conventions sont adaptées afin de les faire correspondre aux dispositions du présent décret et de ses arrêtés d'exécution.
+
+Le Gouvernement flamand peut déterminer les conditions des adaptations, visées à l'alinéa 1er.
+
+Chacune des conventions visées à l'alinéa 1er, conclues en application de l'article 22, 6° ter, et 23, § 3bis, de la loi coordonnée le 14 juillet 1994, continue à être mise en oeuvre tant que le Gouvernement flamand n'a pas conclu une convention avec les équipes d'accompagnement multidisciplinaires concernées conformément à l'alinéa 1er.
+
+###### Art. 112
+
+Des maisons de soins psychiatriques ou des initiatives d'habitation protégée, auxquelles un agrément a été accordé avant l'entrée en vigueur du présent décret gardent leur agrément pour la durée restante de l'agrément.
+
+###### Art. 113
+
+Si, au 1er janvier 2019, certains arrêtés d'exécution ne sont pas encore en vigueur, les arrêtés d'exécution fédéraux correspondants restent d'application jusqu'à ce qu'ils soient modifiés ou abrogés par le Gouvernement flamand.
+
+###### Art. 114
+
+Le présent décret entre en vigueur le 1er janvier 2019.
+
+###### Art. 115
+
+[<sup>1</sup> Le présent décret cesse d'être en vigueur à une date à fixer par disposition par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-02-15/21, art. 89, 004; En vigueur : 01-01-2020&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 6 juillet 2018.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+Le Ministre flamand du Bien-Etre, de la Santé publique et de la Famille,
+
+J. VANDEURZEN
