@@ -1,0 +1,57 @@
+---
+title: "Décret portant approbation de l'accord de coopération du 29 novembre 1993 qui met fin à l'accord de coopération relatif à l'exercice conjoint de compétences par la Communauté française et la Région wallonne conclu à Namur, le 17 novembre 1990 et modifié par l'accord de coopération du 2 avril 1992."
+identifier: "1994029206"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/31/1994029206/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1994-03-31
+published: 1994-05-19
+entry_into_force: 1994-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/31/1994029206/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 31 MARS 1994. - Décret portant approbation de l'accord de coopération du 29 novembre 1993 qui met fin à l'accord de coopération relatif à l'exercice conjoint de compétences par la Communauté française et la Région wallonne conclu à Namur, le 17 novembre 1990 et modifié par l'accord de coopération du 2 avril 1992.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'accord de coopération du 29 novembre 1993 qui met fin à l'accord de coopération relatif à l'exercice conjoint de compétences par la Communauté française et la Région wallonne conclu à Namur, le 17 novembre 1990 et modifié par l'accord de coopération du 2 avril 1992, est approuvé.
+
+## Art. 2
+
+Le présent décret entre en vigueur au 1er janvier 1994.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 31 mars 1994.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de la Fonction publique, de l'Enfance et de la Promotion de la Santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, de l'Aide à la Jeunesse et des Relations internationales,
+
+M. LEBRUN
+
+Le Ministre du Budget, de la Culture et du Sport,
+
+E. TOMAS
+
+Le Ministre de l'Education et de l'Audiovisuel,
+
+Ph. MAHOUX
+
+## ANNEXE.
+
+## Art. N
+
+Accord de coopération mettant fin à l'accord de coopération relatif à l'exercice conjoint de compétences par la Communauté française et la Région wallonne conclu à Namur, le 17 novembre 1990 et modifié par l'accord de coopération du 2 avril 1992.
+
+(Pour cet accord, voir %%1993-11-29/37%%).

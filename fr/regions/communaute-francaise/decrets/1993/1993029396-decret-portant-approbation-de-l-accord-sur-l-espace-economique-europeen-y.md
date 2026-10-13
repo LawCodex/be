@@ -1,0 +1,49 @@
+---
+title: "DECRET portant approbation de l'Accord sur l'Espace économique européen y compris les protocoles, les annexes, les arrangements et les déclarations des parties contractantes à l'accord, fait à Porto le 2 mai 1992"
+identifier: "1993029396"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1993/07/05/1993029396/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1993-07-05
+published: 1993-09-21
+entry_into_force: 1993-10-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1993/07/05/1993029396/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 5 JUILLET 1993. - DECRET portant approbation de l'Accord sur l'Espace économique européen y compris les protocoles, les annexes, les arrangements et les déclarations des parties contractantes à l'accord, fait à Porto le 2 mai 1992
+
+Le Conseil de la Communauté française a adopté et Nous, Exécutif, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. L'Accord sur l'Espace économique européen, 49 protocoles, XXII annexes et l'Acte final adoptant 30 déclarations communes, 2 déclarations des Gouvernements des Etats membres de la Communauté et des Etats membres de l'AELE ainsi que le procès-verbal agréé des négociations et prenant acte de 3 arrangements et 39 déclarations de l'une ou plusieurs des parties contractantes à l'Accord, faits à Porto le 2 mai 1992, sortiront leur plein et entier effet en ce qui concerne la Communauté française. &lt;Pour le texte voir CN : 1992-05-02/30&gt;.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 5 juillet 1993.
+
+La Ministre-Présidente du Gouvernement de la Communauté française chargée
+
+des Affaires sociales, de la Santé et du Tourisme,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur,
+
+de la Recherche scientifique et des Relations internationales,
+
+M. LEBRUN
+
+Le Ministre de l'Education, de l'Audiovisuel et de la Fonction publique,
+
+E. DI RUPO
+
+Le Ministre du Budget, de la Culture et du Sport,
+
+E. TOMAS

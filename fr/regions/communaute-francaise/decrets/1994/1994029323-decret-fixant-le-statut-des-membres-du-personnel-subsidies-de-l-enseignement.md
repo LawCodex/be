@@ -1,0 +1,3589 @@
+---
+title: "[Décret fixant le statut des membres du personnel subsidiés de l'enseignement officiel subventionné]<DCFR 2012-07-12/31 , art. 31, 026; En vigueur : 01-09-2012>"
+identifier: "1994029323"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/06/1994029323/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1994-06-06
+published: 1994-10-13
+entry_into_force: 1994-10-23
+last_amended: 2026-07-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/06/1994029323/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 16-06-1995 et mise à jour au 29-07-2026"
+retrieved: 2026-10-12
+---
+
+# 6 JUIN 1994. - [Décret fixant le statut des membres du personnel subsidiés de l'enseignement officiel subventionné]&lt;DCFR 2012-07-12/31 , art. 31, 026; En vigueur : 01-09-2012&gt;
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales.
+
+##### Art. 1
+
+&lt;DCFR 1997-07-24/61, art. 300, 004; En vigueur : 01-09-1997&gt; Le présent décret s'applique :
+
+1° aux membres subventionnés des catégories du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel social, paramédical et psychologique [<sup>1</sup> et du personnel administratif]<sup>1</sup> des établissements officiels subventionnés d'enseignement maternel, primaire, (spécialisé), secondaire, artistique et des homes pour enfants dont les parents n'ont pas de résidence fixe, qui exercent leur fonction dans l'enseignement de plein exercice, y compris l'enseignement à horaire réduit ou dans l'enseignement de promotion sociale, (ou dans l'enseignement secondaire artistique à horaire réduit), à l'exclusion des membres de ces personnels qui ne bénéficient pas d'une subvention-traitement à charge de la Communauté française, (sauf pour ce qui est mentionné aux articles (...) 24bis et 30, § 2 [<sup>2</sup> ainsi que les trois derniers alinéas de l'article 9]<sup>2</sup>; &lt;DCFR 1999-02-08/37, art. 1, 008; En vigueur : 01-01-1999&gt; &lt;DCFR 2003-05-08/49, art. 94, 010; En vigueur : 01-09-2002&gt; &lt;DCFR 2004-03-03/36, art. 256, 014; En vigueur : 01-09-2004&gt; &lt;DCFR 2004-05-12/66, art. 49, 016; En vigueur : 01-09-2004&gt;
+
+2° aux membres subventionnés des catégories du personnel directeur et enseignant, du personnel auxiliaire d'éducation [<sup>1</sup> et du personnel administratif]<sup>1</sup> des établissements officiels subventionnés d'enseignement supérieur de type court (et de type long) de promotion sociale, à l'exclusion des membres de ces personnels qui ne bénéficient pas d'une subvention-traitement à charge de la Communauté française, (sauf pour ce qui est mentionné aux articles 24, § 3, alinéa 1er; 24bis et 30, § 2 [<sup>2</sup> ainsi que les trois derniers alinéas de l'article 9]<sup>2</sup>; &lt;DCFR 1999-02-08/37, art. 2, 008; En vigueur : 01-01-1999&gt; &lt;DCFR 2003-05-08/49, art. 94, 010; En vigueur : 01-09-2002&gt;
+
+3° aux pouvoirs organisateurs de ces établissements d'enseignement.
+
+Les maîtres et professeurs de religion ne sont pas régis par le présent décret.
+
+(Le présent décret n'est pas applicable à la catégorie du personnel directeur et enseignant des Ecoles supérieures des Arts officielles subventionnées.) &lt;DCFR 2001-12-20/92, art. 505, 010; En vigueur : 01-09-2002&gt;
+
+(4° aux membres du personnel non statutaire tels que définis à l'article 4, 6° pour ce qui concerne les dispositions des articles 20, 24, 27ter et 34) [<sup>2</sup> ainsi que les trois derniers alinéas de l'article 9]<sup>2</sup>. &lt;DCFR 2004-05-12/66, art. 49, 016; En vigueur : 01-09-2004&gt;
+
+----------
+
+(1)&lt;DCFR 2023-07-06/17, art. 1, 050; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCFR 2026-04-02/18, art. 8, 054; En vigueur : 24-08-2026&gt;
+
+##### Art. 2
+
+&lt;DCFR 1999-02-08/37, art. 3, 008; En vigueur : 01-01-1999&gt; Pour l'application du présent décret, les titres de capacité qui sont déterminés en exécution de l'article 12bis, § 2, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, de l'article 15, 5°, de la loi sur l'enseignement artistique du 14 mai 1955 et l'article 22bis de la loi du 11 juillet 1973 modifiant celle du 29 mai 1959 précitée, et des articles 10 et 17, § 4, de la loi du 17 juillet 1970 relative à la structure générale de l'enseignement supérieur, ainsi que du décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française, peuvent être des diplômes, des certificats, des brevets, des attestations, des années d'expérience utile ou une notoriété professionnelle, scientifique ou artistique.
+
+[<sup>1</sup> Pour l'application du présent décret, dans l'enseignement fondamental et secondaire, y compris secondaire de promotion sociale, les titres de capacité sont définis conformément au chapitre 4 du titre 1er du décret du 11 avril 2014 [<sup>2</sup> réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française, sauf en ce qui concerne le personnel administratif dont les titres de capacité sont fixés par les articles 18 et 336 du décret du 12 mai 2004 fixant le statut des membres du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement organisé par la Communauté française]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2014-04-11/37, art. 107, 032; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFR 2023-07-06/17, art. 2, 050; En vigueur : 01-01-2024&gt;
+
+##### Art. 3
+
+(Sauf pour ce qui est fixé [<sup>1</sup> à l'article 100bis]<sup>1</sup> du décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française [<sup>2</sup> et pour ce qui est fixé par le chapitre 4 du titre 1er du décret du 11 avril 2014]<sup>2</sup>, l'expérience utile) est constituée par les services accomplis soit dans l'enseignement, soit dans un autre service des secteurs privé ou public. L'exercice d'une activité indépendante est prise en compte au même titre. &lt;DCFR 1999-02-08/37, art. 4, 008; En vigueur : 01-01-1999&gt;
+
+Le Gouvernement décide si l'expérience utile a contribué à assurer la formation requise pour la fonction à conférer.
+
+L'expérience utile est prouvée suivant les règles fixées par l'arrêté ministériel du 12 avril 1969 pris en exécution de l'article 3 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel de l'enseignement de l'Etat.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 32, 026; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2014-04-11/37, art. 108, 032; En vigueur : 01-09-2016&gt;
+
+##### Art. 4
+
+Pour l'application du présent décret :
+
+1° on entend par " emploi vacant ", l'emploi créé par le pouvoir organisateur, qui n'est pas attribué à un membre du personnel nommé à titre définitif au sens du présent décret, qui est admissible au régime des subventions de la Communauté et pour lequel une demande de subvention-traitement a été introduite;
+
+2° les fonctions exercées par les membres du personnel visés à l'article 1er sont classées en fonctions de recrutement, en fonctions de sélection ou en fonctions de promotion telles que fixées et classées pour les mêmes catégories de personnel de l'enseignement de la Communauté, à l'exception des fonctions de sélection du personnel enseignant dans l'enseignement normal moyen et dans l'enseignement normal technique moyen, qui sont classées en fonctions de recrutement;
+
+[<sup>1</sup> Par dérogation au 1er alinéa, la fonction d'éducateur-économe est classée en fonction de sélection de la catégorie du personnel auxiliaire d'éducation.]<sup>1</sup>
+
+(Toutefois, pour l'application du présent décret, les fonctions exercées dans l'enseignement de promotion sociale sont distinctes des fonctions exercées dans l'enseignement de plein exercice.) &lt;DCFR 1998-06-02/55, art. 1, 006; En vigueur : 04-08-1998&gt;
+
+(En ce qui concerne l'enseignement supérieur de type court et aussi longtemps qu'une spécificité de titres requis n'aura pas été définie en application de la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur, le porteur d'un des titres de capacité exigé par cette loi est présumé posséder le titre requis pour la spécificité qu'il a enseignée pendant 240 jours [<sup>2</sup> au moins]<sup>2</sup>, répartis sur deux années scolaires au moins.) &lt;DCFR 1995-04-10/24, art. 4, § 2, 002; En vigueur : 01-01-1995&gt;
+
+3° les notions de " fonction principale " et de " fonction accessoire " sont définies par référence à l'arrêté royal du 15 avril 1958 fixant le statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique (,) (à l'arrêté du Gouvernement de la Communauté française du 25 octobre 1993 portant statut pécuniaire des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement de promotion sociale de la Communauté française) (et à l'article 71 du décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française); &lt;DCFR 1996-07-25/47, art. 10, 003; En vigueur : 01-09-1996&gt; &lt;DCFR 1999-02-08/37, art. 5, 008; En vigueur : 01-01-1999&gt;
+
+[<sup>4</sup> Par dérogation au 1er alinéa, pour le personnel administratif, la notion de fonction principale correspond à la limite des prestations complètes telles que définies à l'article 3, d), de l'arrêté royal du 1er décembre 1970 fixant le statut pécuniaire du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat]<sup>4</sup>
+
+4° on entend par règles complémentaires de la commission paritaire compétente, les règles qui sont fixées en complément au présent décret par les commissions paritaires visées à l'article 85;
+
+5° les délais se calculent comme suit :
+
+a) le jour qui en constitue le point de départ n'est pas compris;
+
+b) le jour de l'échéance est compté dans le délai;
+
+c) toutefois, lorsque ce jour est un samedi, un dimanche, un jour férié légal ou les jours de fête de ou dans la Communauté française, le jour de l'échéance est reporté au plus prochain jour ouvrable.
+
+(6° on entend par "membres du personnel non statutaire" les personnes visées par les conventions prises en application [<sup>5</sup> des articles 16 à 20 décret de la Région wallonne du 10 juin 2021 relatif à la pérennisation des emplois créés dans le cadre du dispositif des aides à la promotion de l'emploi (APE) et à la création d'emplois répondant à des besoins sociétaux prioritaire]<sup>5</sup> et par l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 28 novembre 2002 relatif au régime des contractuels subventionnés, ainsi que les personnes qui occupent une fonction à charge du pouvoir organisateur, à condition que ces personnes occupent une fonction identique à une fonction qui peut être admise au subventionnement et à l'exception des puériculteurs visés par le titre premier du décret du 12 mai 2004 fixant les droits et obligations des puériculteurs et portant diverses dispositions relatives à la valorisation des jours prestés par le personnel non statutaire de la Communauté française.) &lt;DCFR 2004-05-12/66, art. 50, 016; En vigueur : 01-09-2004&gt;
+
+7° [<sup>3</sup> dans l'enseignement fondamental et secondaire, y compris secondaire de promotion sociale, on entend par " primo-recrutement ", le recrutement tel qu'il est défini à l'article 25 du décret du 11 avril 2014;]<sup>3</sup>
+
+8° [<sup>3</sup> dans l'enseignement fondamental et secondaire, y compris secondaire de promotion sociale, on entend par " titre pédagogique ", le titre tel qu'il est défini aux articles 17 et 18 du décret du 11 avril 2014;]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/92, art. 34, 025; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2012-07-12/31, art. 33, 026; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCFR 2014-04-11/37, art. 109, 032; En vigueur : 01-09-2016&gt;
+
+(4)&lt;DCFR 2023-07-06/17, art. 3, 050; En vigueur : 01-01-2024&gt;
+
+(5)&lt;DCFR 2024-04-04/37, art. 48, 052; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE II. - [<sup>1</sup> Devoirs]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2013-07-04/14, art. 1, 028; En vigueur : 01-09-2013&gt;
+
+### Section 1re. [<sup>1</sup> - Devoirs du pouvoir organisateur ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséreé par DCFR 2013-07-04/14, art. 2, 028; En vigueur : 01-09-2013&gt;
+
+##### Art. 4bis
+
+[<sup>1</sup> Le pouvoir organisateur :
+
+1° fait travailler le membre du personnel dans les conditions et au temps convenus et sur le lieu de travail ainsi que sur tous les lieux qui peuvent y être assimilés pour toute activité en lien avec le projet pédagogique de l'établissement, notamment en mettant à sa disposition des instruments et des matières nécessaires à l'accomplissement du travail;
+
+2° conditions qui garantissent la sécurité et la santé du travailleur, et assure les premiers secours au membre du personnel en cas d'accident;
+
+3° assure le payement de la rémunération aux conditions, au temps et au lieu convenus;
+
+4° consacre l'attention et les soins nécessaires à l'accueil des membres du personnel, et en particulier des membres du personnel débutants;
+
+5° veille, en bon père de famille, à la conservation des instruments de travail appartenant aux membres du personnel et dont il a autorisé l'entrée sur le lieu de travail. Ces instruments restent la propriété des membres du personnel;
+
+6° traite et s'assure que le membre du personnel est traité avec dignité et courtoisie et qu'aucune forme de harcèlement n'est admise ou tolérée à son égard.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-07-04/14, art. 3, 028; En vigueur : 01-09-2013&gt;
+
+##### Art. 4ter
+
+[<sup>1</sup> Le pouvoir organisateur délivre au membre du personnel tous les documents sociaux, notamment lorsque la désignation prend fin.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-07-04/14, art. 4, 028; En vigueur : 01-09-2013&gt;
+
+##### Art. 4ter/1
+
+[<sup>1</sup> - Sans préjudice des éventuels cas d'urgence dûment justifiés, et en fonction de la réalité des pouvoirs organisateurs, les membres du personnel bénéficient d'un droit à la déconnexion.
+
+Les modalités de ce droit et la mise en place de dispositifs de régulation de l'utilisation des outils numériques, en vue d'assurer le respect des temps de repos ainsi que de l'équilibre entre la vie privée et la vie professionnelle, sont fixées par le Gouvernement sur proposition des Commissions paritaires centrales compétentes.
+
+Les modalités et dispositifs visés à l'alinéa précédent doivent, au minimum, prévoir :
+
+\- les modalités pratiques pour l'application du droit du membre du personnel de ne pas être joignable en dehors de ses horaires de travail ;
+
+\- les consignes relatives à un usage des outils numériques qui assurent que les périodes de repos, les congés, la vie privée et familiale du membre du personnel soient garantis ;
+
+\- des formations et des actions de sensibilisation aux membres du personnel quant à l'utilisation raisonnée des outils numériques et les risques liés à une connexion excessive.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-01-18/27, art. 89, 048; En vigueur : 21-02-2024&gt;
+
+### Section 2. [<sup>1</sup> - Devoirs du membre du personnel]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFR 2013-07-04/14, art. 6, 028; En vigueur : 01-09-2013&gt;
+
+##### Art. 5
+
+Le présent chapitre s'applique aux membres du personnel désignés à titre temporaire et nommés à titre définitif.
+
+##### Art. 6
+
+Les membres du personnel doivent, en toutes circonstances, avoir le souci constant des intérêts de l'enseignement du pouvoir organisateur où ils exercent leurs fonctions.
+
+[<sup>1</sup> Ils sont tenus à un devoir de loyauté, impliquant le respect des principes visés à l'article 8, alinéa 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2016-02-04/02, art. 18, 031; En vigueur : 03-03-2016&gt;
+
+##### Art. 7
+
+Dans l'exercice de leur fonction, les membres du personnel accomplissent personnellement et consciencieusement les obligations qui leur sont imposées par les lois, décrets, arrêtés et règlements, par les règles complémentaires des commissions paritaires et par l'acte de désignation.
+
+##### Art. 8
+
+Les membres du personnel sont tenus à la correction la plus stricte tant dans leurs rapports de service que dans leurs relations avec les parents des élèves et toute autre personne étrangère au service.
+
+Ils doivent éviter tout ce qui pourrait compromettre l'honneur ou la dignité de leur fonction.
+
+[<sup>1</sup> Tant dans l'exercice de leurs fonctions qu'en dehors de celles-ci, ils s'abstiennent de tout comportement ou propos qui entre en contradiction manifeste avec l'un des principes essentiels du régime démocratique, ainsi que de tout comportement ou propos qui pourrait porter gravement atteinte à la confiance du public dans l'enseignement dispensé en Communauté française.
+
+Les principes essentiels du régime démocratique sont énoncés dans la Convention européenne de sauvegarde des droits de homme et des libertés fondamentales, la Charte des droits fondamentaux de l'Union européenne, la Convention relative aux droits de l'enfant, le Titre II de la Constitution, la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie, l'ensemble des législations anti-discriminations parmi lesquelles le décret de la Communauté française du 12 décembre 2008 relatif à la lutte contre certaines formes de discriminations ainsi que la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation du génocide commis par le régime national socialiste allemand pendant la seconde guerre mondiale.]<sup>1</sup>
+
+[<sup>2</sup> Les membres du personnel s'abstiennent de toute forme de violence physique ou psychique à l'égard des élèves. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2016-02-04/02, art. 19, 031; En vigueur : 03-03-2016&gt;
+
+(2)&lt;DCFR 2023-10-05/23, art. 6, 047; En vigueur : 02-02-2024&gt;
+
+##### Art. 9
+
+Ils ne peuvent exposer les élèves ou étudiants à des actes de propagande politique, religieuse ou philosophique, ou de publicité commerciale.
+
+[<sup>1</sup> En outre, à l'exception des membres du personnel des établissements officiels subventionnés d'enseignement supérieur et d'enseignement pour adultes, ils sont tenus dans l'exercice de leurs fonctions d'observer les principes de neutralité et de s'abstenir du port de tous signes convictionnels visibles, que ce soit dans l'enceinte de l`école ou en dehors, ainsi que sur les lieux de stage.
+
+Par exception, les maîtres et professeurs de morale non confessionnelle peuvent porter des signes convictionnels visibles dans la mesure où ils exercent leur fonction d'enseignement en cette qualité et pour les signes se rapportant à celle-ci.
+
+Par signe convictionnel, on entend tout vêtement ou accessoire exprimant une conviction ou une identité politique, idéologique, philosophique ou religieuse.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2026-04-02/18, art. 9, 054; En vigueur : 24-08-2026&gt;
+
+##### Art. 10
+
+Les membres du personnel doivent fournir, dans les limites fixées par la réglementation, par les règles complémentaires de la commission paritaire compétente et par leur acte de désignation, les prestations nécessaires à la bonne marche des établissements où ils exercent leurs fonctions.
+
+Ils ne peuvent suspendre l'exercice de leurs fonctions sans autorisation préalable du pouvoir organisateur ou de son représentant.
+
+##### Art. 10BIS
+
+[<sup>1</sup> Les membres du personnel doivent participer, dans les limites fixées par la réglementation, par les règles complémentaires de la commission paritaire compétente et par leur acte de désignation, à l'élaboration des plans de pilotage et à la mise en oeuvre des contrats d'objectifs ou à l'élaboration des dispositifs d'ajustement et à la mise en oeuvre des protocoles de collaboration visés par les articles 67 et 68 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-09-13/14, art. 30, 037; En vigueur : 12-09-2018&gt;
+
+##### Art. 11
+
+Les membres du personnel ne peuvent révéler les faits dont ils auraient eu connaissance en raison de leurs fonctions et qui auraient un caractère secret.
+
+##### Art. 12
+
+Les membres du personnel ne peuvent solliciter, exiger ou recevoir directement ou par personne interposée, même en dehors de leurs fonctions, mais à raison de celles-ci, des dons, cadeaux, gratifications ou avantages quelconques.
+
+##### Art. 13
+
+Ils ne peuvent se livrer à aucune activité qui est en opposition avec la Constitution, les lois du peuple belge qui poursuit la destruction de l'indépendance du pays ou qui met en danger la défense nationale ou l'exécution des engagements de la Belgique en vue d'assurer sa sécurité. Ils ne peuvent adhérer ni prêter leur concours à un mouvement, groupement, organisation ou association ayant une activité de même nature.
+
+##### Art. 14
+
+Les membres du personnel doivent respecter les obligations, fixées par écrit dans l'acte de désignation, qui découlent du caractère spécifique du projet éducatif du pouvoir organisateur auprès duquel ils exercent leurs fonctions.
+
+### Section 3. [<sup>1</sup> - Incompatibilités]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFR 2013-07-04/14, art. 7, 028; En vigueur : 01-09-2013&gt;
+
+##### Art. 15
+
+Est incompatible avec la qualité de membre du personnel d'un établissement de l'enseignement officiel subventionné, toute occupation qui serait de nature à nuire à l'accomplissement des devoirs qui découlent du caractère spécifique du projet éducatif de ce pouvoir organisateur ou qui serait contraire à la dignité de la fonction.
+
+Les incompatibilités visées à l'alinéa 1er sont indiquées dans tout acte de désignation ou de nomination.
+
+##### Art. 16
+
+En cas de contestation sur l'existence d'une incompatibilité mentionnée à l'article 15, le pouvoir organisateur ou le membre du personnel peuvent demander l'avis de la commission paritaire locale.
+
+L'avis est donné dans les trente jours.
+
+##### Art. 17
+
+La Chambre de recours instituée par l'article 75 connaît des recours introduits en matière d'incompatibilités.
+
+Lorsque l'avis demandé à la commission paritaire a été obtenu, ou à l'expiration du délai de 30 jours visé à l'article 16, alinéa 2, le membre du personnel ou le pouvoir organisateur saisit la Chambre de recours qui se prononce par voie d'avis.
+
+La décision finale du pouvoir organisateur se conforme à l'avis visé à l'alinéa 2.
+
+## CHAPITRE III. - Recrutement.
+
+### Section 1. - Dispositions générales.
+
+##### Art. 18
+
+Les fonctions de recrutement peuvent être exercées par les membres du personnel désignés à titre temporaire ou nommés à titre définitif.
+
+##### Art. 19
+
+Lors de sa première désignation dans l'enseignement, le membre du personnel prête serment suivant les règles fixées par le Gouvernement en exécution de l'article 28, 5°, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement.
+
+### Section 2. - Désignation à titre temporaire et personnel temporaire.
+
+##### Art. 20
+
+§ 1. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. Le pouvoir organisateur ne peut procéder à la désignation d'un membre du personnel temporaire qu'après avoir respecté la réglementation relative à la mise en disponibilité par défaut d'emploi et à la réaffectation.
+
+§ 3. [<sup>2</sup> Dans l'enseignement fondamental et secondaire, y compris secondaire de promotion sociale, au primo-recrutement, le pouvoir organisateur procède à la désignation à titre temporaire dans le respect des règles fixées au chapitre 4 du titre 1er du décret du 11 avril 2014.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2013-06-20/18, art. 25, 027; En vigueur : 27-07-2013&gt;
+
+(2)&lt;DCFR 2014-04-11/37, art. 110, 032; En vigueur : 01-09-2016&gt;
+
+##### Art. 21
+
+Chaque désignation dans une fonction de recrutement est faite par écrit et mentionne au moins :
+
+1° l'identité du pouvoir organisateur;
+
+2° l'identité du membre du personnel;
+
+3° la fonction à exercer ainsi que les caractéristiques et le volume de la charge;
+
+4° si l'emploi est vacant ou non et, dans ce dernier cas, le nom du titulaire de l'emploi et, le cas échéant, celui de son remplaçant temporaire;
+
+5° le cas échéant, les obligations complémentaires visées aux articles 7 et 14 ainsi que les incompatibilités visées à l'article 15;
+
+6° la date d'entrée en service;
+
+7° la date à laquelle la désignation prend fin. Cette date correspond, au plus tard, à la fin de l'année scolaire en cours.
+
+Au moment de la désignation, le pouvoir organisateur délivre au temporaire un acte écrit reprenant les mentions prévues à l'alinéa 1er. En l'absence d'écrit, le membre du personnel est réputé être désigné dans la fonction, la charge est l'emploi qu'il occupe effectivement.
+
+##### Art. 22
+
+Une désignation à titre temporaire dans une fonction de recrutement prend fin d'office pour l'ensemble ou pour une partie de la charge :
+
+1° au moment du retour du titulaire de l'emploi ou du membre du personnel qui le remplace temporairement;
+
+2° au moment où l'emploi du membre du personnel temporaire est attribué totalement ou partiellement à un autre membre du personnel, soit :
+
+a) par application de la réglementation relative à la mise en disponibilité par défaut d'emploi et à la réaffectation;
+
+b) par application de l'article 29, § 1er;
+
+c) par application de l'article 29, § 2;
+
+(cbis) par application de l'article 29bis, § 1er;
+
+cter) par application de l'article 29bis, § 2;) &lt;DCFR 2007-02-02/52, art. 66, 020; En vigueur : 01-09-2007&gt;
+
+d) par nomination définitive;
+
+e) par attribution de l'emploi devenu définitivement vacant à un temporaire prioritaire;
+
+3° à partir de la date de réception de la dépêche par laquelle la Communauté française qui octroie la subvention-traitement communique que la fonction exercée ne peut plus être subventionnée entièrement ou partiellement;
+
+4° au terme indiqué dans l'acte de désignation et, au plus tard, à la fin de l'année scolaire au cours de laquelle la désignation a été faite [<sup>1</sup> et pour le personnel administratif, à la veille de la nouvelle année scolaire qui suit celle au cours de laquelle la désignation a eu lieu;]<sup>1</sup>;
+
+5° à partir de la réception de l'avis de l'Office médico-social de l'Etat déclarant le membre du personnel temporaire définitivement inapte.
+
+Une désignation à titre temporaire dans une fonction de recrutement prend également fin pour l'ensemble ou pour une partie de la charge, soit moyennant préavis donné conformément aux articles 25, 26 et 27, soit de commun accord, soit en application de l'article 25, § 2.
+
+----------
+
+(1)&lt;DCFR 2023-07-06/17, art. 4, 050; En vigueur : 01-01-2024&gt;
+
+##### Art. 23
+
+A l'issue de toute période d'activité, le pouvoir organisateur remet au membre du personnel temporaire une attestation mentionnant les services accomplis par fonction exercée, avec dates de début et de fin, ainsi que la nature de la fonction et le taux d'occupation de l'emploi.
+
+##### Art. 24
+
+§ 1er. Pour toute désignation en qualité de membre du personnel temporaire, dans une fonction pour laquelle il possède le titre de capacité prévu à l'article 2, est prioritaire dans un pouvoir organisateur et entre dans un classement au sein de ce pouvoir organisateur, le membre du personnel qui peut faire valoir 360 jours de service effectivement accomplis dans une fonction de la catégorie en cause en fonction principale auprès de ce pouvoir organisateur et répartis sur deux années scolaires au moins et acquis au cours des cinq dernières années scolaires.
+
+(Les services rendus auprès du pouvoir organisateur par les membres du personnel non statutaire sont assimilés aux services visés à l'alinéa 1er aux mêmes conditions, mais selon un coefficient réducteur précisé à l'article 34, § 2 en ce qui concerne les 1200 premiers jours.) &lt;DCFR 2004-05-12/66, art. 51, 016; En vigueur : 01-09-2004&gt;
+
+(Par dérogation à l'alinéa premier,
+
+\- dans l'enseignement préscolaire et primaire, le membre du personnel ne peut se prévaloir des 360 jours acquis dans une fonction de la même catégorie que pour devenir prioritaire dans cette fonction ou toute autre fonction pour laquelle il possède le titre requis,
+
+\- dans l'enseignement secondaire, entrent dans le classement des prioritaires :
+
+1° tout membre du personnel qui compte 360 jours de service dans une fonction de la catégorie en cause et qui possède le titre requis pour la fonction qu'il postule ;
+
+2° tout membre du personnel qui compte, parmi les 360 jours exigés, 180 jours au moins de service dans la fonction qu'il postule [<sup>1</sup> et pour laquelle il possède un titre suffisant [<sup>4</sup> ou un autre titre remplissant en outre les conditions fixées par l'article 36, § 3 du décret du 11 avril 2014]<sup>4</sup>. Pour les fonctions enseignantes, le membre du personnel doit être porteur d'un titre pédagogique;]<sup>1</sup>
+
+[<sup>1</sup> - dans l'enseignement secondaire de promotion sociale, entrent dans le classement des prioritaires, tout membre du personnel qui compte, parmi les 360 jours exigés, 240 jours de service dans la fonction visée et qui possède [<sup>4</sup> soit le titre requis, soit le titre suffisant, soit un autre titre remplissant en outre les conditions fixées par l'article 36, § 3 du décret du 11 avril 2014]<sup>4</sup>. Pour les fonctions enseignantes, le membre du personnel doit être porteur d'un titre pédagogique;]<sup>1</sup>
+
+(- dans l'enseignement [<sup>1</sup> supérieur]<sup>1</sup> de promotion sociale, entre dans le classement des prioritaires, tout membre du personnel qui compte, parmi les 360 jours exigés, 240 jours de service dans la fonction visée.)
+
+Les désignations se font dans le respect du classement.
+
+Celui-ci est établi sur la base du nombre de jours d'ancienneté de service calculé conformément à l'article 34.) &lt;DCFR 1995-04-10/24, art. 1, 002; En vigueur : 01-01-1995&gt; &lt;DCFR 1998-06-02/55, art. 2, 006; En vigueur : 04-08-1998&gt;
+
+Les désignations se font dans le respect du classement. Celui-ci est établi sur base du nombre de jours d'ancienneté de service calculé conformément à l'article 34.
+
+§ 2. (Sauf dans l'enseignement préscolaire et primaire, tout membre du personnel nommé à titre définitif qui souhaite accéder à une autre fonction de la même catégorie et pour laquelle il possède un [<sup>1</sup> titre suffisant]<sup>1</sup> [<sup>4</sup> ou un autre titre remplissant en outre les conditions fixées par l'article 36, § 3 du décret du 11 avril 2014,]<sup>4</sup> et dans laquelle il a au moins 180 jours d'ancienneté de fonction, figurera, à sa demande, dans le classement des prioritaires.) &lt;DCFR 1999-02-08/37, art. 6, 008; En vigueur : 01-01-1999&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Dans l'enseignement secondaire, pour les fonctions enseignantes, le membre du personnel doit être porteur d'un titre pédagogique.
+
+Dans l'enseignement secondaire de promotion sociale, le membre du personnel visé à l'alinéa 1er doit être nommé à titre définitif dans cet enseignement et pour les fonctions enseignantes, être porteur d'un titre pédagogique.]<sup>1</sup>
+
+[<sup>3</sup> § 2bis. Après épuisement de la liste des candidats prioritaires visés au § 1er, et suivant les modalités fixées par les commissions paritaires locales, le pouvoir organisateur est tenu d'offrir un emploi dans la même fonction, au prorata du nombre de périodes perdues, à un membre du personnel temporaire qui a perdu totalement ou en partie la charge qu'il prestait au sein de l'enseignement officiel subventionné, et pour autant qu'il soit porteurs du titre de capacité visé à l'article 2 et qu'il ait acquis au sein de l'enseignement officiel subventionné une ancienneté comparable aux prioritaires visés au § 1er.
+
+Pour l'application de l'alinéa 1er, le membre du personnel doit compter, au sein du Pouvoir organisateur qui lui attribue l'emploi, 90 jours d'ancienneté de service sur deux années scolaires au moins au cours des 5 dernières années.]<sup>3</sup>
+
+§ 3. Après épuisement de la liste des candidats prioritaires visés au § 1er [<sup>3</sup> et temporaires non prioritaires visés au § 2bis]<sup>3</sup>, et suivant des modalités fixées par les commissions paritaires locales, le pouvoir organisateur est tenu d'offrir aux membres du personnel engagés dans un emploi non-subventionné, tout emploi subventionné de la même fonction, pour autant qu'ils soient porteurs du titre de capacité visé à l'article 2 et qu'ils aient acquis dans l'exercice d'un emploi non-subventionné une ancienneté comparable aux prioritaires visés au § 1er.
+
+[<sup>1</sup> Dans l'enseignement fondamental et secondaire, y compris secondaire de promotion sociale, pour les fonctions enseignantes, le membre du personnel doit être porteur d'un titre pédagogique.]<sup>1</sup>
+
+Après achèvement des procédures prévues à l'alinéa 1er, le pouvoir organisateur choisit parmi les candidats quand plusieurs candidats dans le groupe non prioritaire se présentent pour la même fonction.
+
+§ 4. Après épuisement des éventuelles procédures de recours, les services auxquels il est mis fin par un licenciement ne sont pas pris en considération pour le calcul des 360 jours de service visés au § 1er auprès du pouvoir organisateur qui a mis fin aux fonctions, sauf si celui-ci réengage le membre du personnel licencié.
+
+§ 5. La priorité visée [<sup>3</sup> aux §§ 1er, 2bis et 3]<sup>3</sup>, alinéa 1er est valable pour tous les emplois qui sont vacants ainsi que pour des emplois qui ne sont pas vacants et dont le titulaire ou le membre du personnel qui le remplace temporairement, doit être remplacé pour une période initiale ininterrompue d'au moins quinze semaines.
+
+§ 6. Les candidats visés [<sup>3</sup> aux §§ 1er, alinéa 1er, 2bis et 3]<sup>3</sup>, alinéa 1er qui souhaitent faire usage de leur droit de priorité, doivent, à peine de forclusion pour l'année scolaire concernée, introduire leur candidature par lettre recommandée [<sup>5</sup> ou par voie électronique selon les modalités fixées au sein de la commission paritaire locale]<sup>5</sup>, avant le 31 mai, auprès du pouvoir organisateur auprès duquel ils ont acquis une priorité. Cette lettre mentionne la fonction à laquelle se rapporte la candidature.
+
+§ 7. L'acte par lequel le candidat fait valoir sa priorité est valable pour l'année scolaire suivante. Le candidat qui n'accepte pas l'emploi qui lui est offert conformément aux règles de priorité perd sa priorité pour un emploi de la même fonction pendant l'année scolaire en cours, sauf s'il peut faire valoir des motifs admis par les commissions paritaires locales.
+
+§ 8. L'ancienneté visée [<sup>3</sup> aux §§ 1er et 2bis]<sup>3</sup> est calculée au dernier jour de l'année scolaire ou académique selon les modalités prévues à l'article 34.
+
+§ 9. Sur simple demande des candidats, et contre remboursement des frais d'envoi, l'administration compétente du département procure la liste des écoles ou établissements subventionnés avec mention du pouvoir organisateur qui les organise, par province et par niveau et forme d'enseignement.
+
+(Alinéa 2 abrogé) &lt;DCFR 1996-07-25/47, art. 11, 003; En vigueur : 01-09-1996&gt;
+
+----------
+
+(1)&lt;DCFR 2014-04-11/37, art. 111, 032; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFR 2017-10-19/10, art. 33, 033; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFR 2020-07-17/30, art. 11, 040; En vigueur : 01-09-2020&gt;
+
+(4)&lt;DCFR 2020-07-17/30, art. 91, 040; En vigueur : 14-09-2020&gt;
+
+(5)&lt;DCFR 2023-03-16/06, art. 16, 051; En vigueur : 29-08-2022&gt;
+
+##### Art. 24bis
+
+&lt;Inséré par DCFR 2003-05-08/49, art. 95; En vigueur : 01-09-2002&gt; Conformément à l'article 1er, 1° et 2°, le membre du personnel en congé de maternité, malade ou en incapacité de travail causée par un accident du travail est désigné en qualité de temporaire prioritaire en application de l'article 24.
+
+[<sup>1</sup> Le nombre de jours visé à l'article 19 du décret du 5 juillet 2000 fixant le régime des congés et de disponibilité pour maladie ou infirmité ou à l'article 9 de l'arrêté royal du 8 décembre 1967 pris en application de l'article 3 de l'arrêté royal du 28 février 1967 déterminant les positions administratives du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat est accordé au membre du personnel à partir de la première prise de fonction qui suit sa désignation et est calculé à compter de cette prise de fonction effective.]<sup>1</sup>
+
+Les absences pour maladie d'un membre du personnel désigné conformément à l'alinéa 1er sont imputées au nombre de jours dont il peut bénéficier en application de l'article 20 du même décret.
+
+[<sup>1</sup> Par dérogation à l'alinéa 3, pour le personnel administratif, les absences pour maladie d'un membre du personnel désigné conformément à l'alinéa 1er sont imputées au nombre de jours dont il peut bénéficier en application de l'article 9 de l'arrêté royal du 8 décembre 1967 susmentionné.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-07-06/17, art. 5, 050; En vigueur : 01-01-2024&gt;
+
+##### Art. 25
+
+§ 1. Le pouvoir organisateur peut licencier un membre du personnel désigné à titre temporaire aux conditions suivantes :
+
+1° Le membre du personnel non prioritaire peut être licencié moyennant préavis d'une durée de quinze jours.
+
+Ce licenciement est motivé, sous peine de nullité.
+
+(Préalablement à la notification de tout licenciement, le membre du personnel doit avoir été invité à se faire entendre par le pouvoir organisateur. La convocation à l'audition ainsi que les motifs en raison desquels le pouvoir organisateur envisage de licencier le membre du personnel doivent lui être notifiés cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'audition, le membre du personnel peut se faire assister ou représenter par un avocat, par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentative. La procédure se poursuit valablement lorsque le membre du personnel dûment convoqué ne se présente pas à l'audition ou n'y est pas représenté.) &lt;DCFR 1999-02-08/37, art. 7, 008; En vigueur : 01-01-1999&gt;
+
+Le membre du personnel temporaire mis en préavis, peut dans les dix jours de la notification du préavis, introduire un recours contre la décision de licenciement auprès de la Chambre de recours compétente.
+
+Cette (instance) transmet un avis au pouvoir organisateur dans un délai maximum de 45 jours à partir de la date de réception du recours. &lt;DCFR 1995-04-10/24, art. 2, § 1, 002; En vigueur : 01-01-1995&gt;
+
+La décision est prise par le pouvoir organisateur dans les trente jours de la réception de l'avis de la Chambre de recours.
+
+(Le recours n'est pas suspensif.) &lt;DCFR 1998-07-17/34, art. 18, 1°, 007; En vigueur : 01-09-1998&gt;
+
+2° (S'il est temporaire prioritaire au sens de l'article 24, § 1er, la même procédure que celle prévue au 1° est appliquée, mais l'avis de la Chambre de recours lie le pouvoir organisateur.) &lt;DCFR 1995-04-10/24, art. 2, § 2, 002; En vigueur : 01-01-1995&gt;
+
+(Dans le cadre d'un recours introduit à l'encontre d'une décision de licenciement, tous les éléments doivent être pris en considération par la Chambre de recours, en ce compris, le cas échéant, le rapport d'inspection portant sur les compétences professionnelles et pédagogiques ayant conduit à la procédure de licenciement. La durée de validité de ce rapport est limitée à un délai de douze mois prenant cours à la date de son établissement. Toutefois, lorsque la procédure de licenciement est entamée sur la base de celui-ci, dans ce délai, le rapport demeure valable jusqu'à la date à laquelle la décision définitive de licenciement est notifiée au membre du personnel.) &lt;DCFR 2007-03-08/46, art. 193, 1°, 021; En vigueur : 01-09-2007&gt;
+
+§ 2. Le pouvoir organisateur peut licencier tout membre du personnel engagé à titre temporaire sans préavis, pour faute grave.
+
+Est considéré comme constituant une faute grave, tout manquement qui rend immédiatement est définitivement impossible toute collaboration professionnelle entre le membre du personnel et son pouvoir organisateur.
+
+Dès le moment où il a connaissance d'éléments susceptibles de constituer une faute grave, le pouvoir organisateur convoque par lettre recommandée à la poste, le membre du personnel à une audition qui doit avoir lieu au plus tôt (cinq jours ouvrables) et au plus tard (dix jours ouvrables) après l'envoi de la convocation. &lt;DCFR 1998-07-17/34, art. 18, 2°, 007; En vigueur : 01-09-1998&gt;
+
+Si après l'audition, le pouvoir organisateur estime qu'il y a suffisamment d'éléments constitutifs d'une faute grave, il peut procéder dans les trois jours qui suivent l'audition au licenciement.
+
+Le licenciement est accompagné de la preuve de la réalité des faits reprochés.
+
+Il est notifié au membre du personnel, soit par exploit d'huissier, soit par lettre recommandée à l poste, laquelle produit ses effets le troisième jour ouvrable suivant la date de son expédition.
+
+Lors de l'audition, le membre du personnel peut se faire assister ou représenter par un avocat, par un défenseur choisi (parmi) les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentative. &lt;DCFR 1995-04-10/24, art. 2, § 3, 002; En vigueur : 01-01-1995&gt;
+
+##### Art. 26
+
+Le membre du personnel désigné à titre temporaire peut démissionner. Si cette démission n'est pas acceptée par le pouvoir organisateur, elle est donnée moyennant un préavis de huit jours.
+
+##### Art. 27
+
+La décision de licencier est notifiée par le pouvoir organisateur au membre du personnel. Dans le cas d'une cessation volontaire des fonctions, le temporaire notifie au pouvoir organisateur sa décision de démissionner.
+
+A défaut de notification, de telles décisions sont considérés comme non avenues.
+
+Cette notification est faite par la remise en main propre d'un document écrit, ou par l'envoi d'une lettre recommandée à la poste, ou encore par exploit d'huissier.
+
+La signature apposée par celui auquel le document écrit a été remis en main propre atteste seulement qu'il accuse réception de ce document.
+
+Si la notification est faite par l'envoi d'une lettre recommandée à la poste, elle produit ses effets le troisième jour ouvrable suivant celui où elle a été expédiée.
+
+L'écrit indique la date du début du préavis, qui ne peut être antérieure à la date de remise en main propre du document, et la durée de celui-ci; s'il s'agit d'une démission acceptée, il indique la date à partir de laquelle elle produit ses effets.
+
+##### Art. 27bis
+
+&lt;Inséré par DCFR 1995-04-10/24, art. 3; En vigueur : 01-01-1995&gt; Pour l'application (de la présente section), il y a lieu d'entendre par pouvoir organisateur : &lt;DCFR 1996-07-25/47, art. 12, 003; En vigueur : 01-09-1996&gt;
+
+\- dans l'enseignement organisé par les villes et les communes, le collège des bourgmestre et échevins ;
+
+\- dans l'enseignement organisé par les provinces, [<sup>2</sup> le collège provincial]<sup>2</sup> ;
+
+\- dans les établissements d'enseignement relevant des Centres publics d'aide sociale, le Conseil de ces institutions ;
+
+\- dans les établissements d'enseignement relevant de l'Office de la Naissance et de l'Enfance, le conseil d'administration de cette institution ;
+
+\- dans les établissements d'enseignement relevant des associations intercommunales, le conseil d'administration de ces institutions;
+
+[<sup>2</sup> - dans les établissements d'enseignement relevant de pouvoirs organisateurs créés en application du décret du 17 novembre 2016 autorisant la Communauté française à s'associer à des tierces parties au sein d'une personne morale de droit public et en fixant la création, la composition, la compétence, le fonctionnement et le contrôle, le conseil d'administration de ces établissements.]<sup>2</sup>
+
+Toutefois, toute désignation effectuée par le collège des bourgmestre et échevins est soumise à la ratification du conseil communal dans un délai de [<sup>1</sup> nonante jours]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 34, 026; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2018-07-11/29, art. 60, 036; En vigueur : 01-09-2018&gt;
+
+### Section 2bis. - De l'attribution des emplois subsidiés par la Région wallonne et la Région de Bruxelles-Capitale. &lt;Insérée par DCFR 2004-05-12/66, art. 52, En vigueur : 01-09-2004&gt;
+
+##### Art. 27ter
+
+&lt;Inséré par DCFR 2004-05-12/66, art. 52, En vigueur : 01-09-2004&gt; § 1er. Lorsqu'un pouvoir organisateur bénéficie de l'octroi d'un poste subsidié par la Région wallonne ou la Région de Bruxelles-Capitale, il l'offre conformément aux règles de priorité énoncées à l'article 24, § 1er.
+
+Après épuisement de la liste des candidats prioritaires visés à l'alinéa 1er, le pouvoir organisateur fait appel au membre du personnel qui a déjà été engagé dans un emploi de même nature et de la même fonction pour laquelle il est porteur du titre requis ou du [<sup>1</sup> titre suffisant]<sup>1</sup> qui compte plus 600 jours d'ancienneté sur 3 ans. [<sup>1</sup> Pour les fonctions enseignantes, le membre du personnel doit être porteur d'un titre pédagogique.]<sup>1</sup>
+
+Lorsque plusieurs membres du personnel répondent aux conditions visées à l'alinéa précédent, le pouvoir organisateur offre l'emploi au membre du personnel qui compte la plus grande ancienneté dans la fonction.
+
+§ 2. Les candidats visés au § 1er qui souhaitent faire usage de leur droit de priorité, doivent, à peine de forclusion pour l'année scolaire concernée, introduire leur candidature par lettre recommandée [<sup>2</sup> ou par voie électronique selon les modalités fixées au sein de la commission paritaire locale]<sup>2</sup>, avant le 31 mai, auprès du pouvoir organisateur auprès duquel ils ont acquis une priorité. Cette lettre mentionne la fonction à laquelle se rapporte la candidature.
+
+§ 3. L'acte par lequel le candidat fait valoir sa priorité est valable pour l'année scolaire suivante. Le candidat qui n'accepte pas l'emploi qui lui est offert conformément aux règles de priorité perd sa priorité pour un emploi de la même fonction pendant l'année scolaire en cours.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/37, art. 112, 032; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFR 2023-03-16/06, art. 17, 051; En vigueur : 29-08-2022&gt;
+
+### Section 3. - Nomination définitive et affectation.
+
+##### Art. 28
+
+(Sans préjudice, pour l'enseignement de promotion sociale, de l'article 2 du décret du 10 avril 1995 fixant des mesures urgentes en matière d'enseignement de promotion sociale et de l'article 111bis du décret du 16 avril 1991 organisant l'enseignement de promotion sociale.) Le pouvoir organisateur procède à une nomination à titre définitif dans un emploi vacant d'une fonction de recrutement sauf : &lt;DCFR 1998-06-02/55, art. 3, 006; En vigueur : 04-08-1998&gt;
+
+1° s'il est tenu, en vertu de la réglementation relative à la mise en disponibilité par défaut d'emploi et à la réaffectation, d'attribuer cet emploi à un membre du personnel mis en disponibilité;
+
+(Par ailleurs, toute réaffectation d'un membre du personnel mis en disponibilité auprès d'un autre pouvoir organisateur est reconduite chaque année aussi longtemps que l'intéressé n'a pas acquis 600 jours d'ancienneté au service du pouvoir organisateur auprès duquel il a été réaffecté. Ces 600 jours doivent être répartis sur trois années scolaires au moins. Ils sont calculés conformément à l'article 34.
+
+Toutefois, il est mis fin à cette réaffectation :
+
+\- en cas de retour du titulaire de l'emploi, si la réaffectation est temporaire ;
+
+\- si le pouvoir organisateur est tenu de réaffecter entre-temps un membre de son personnel ;
+
+(- si l'emploi est confié au membre du personnel victime d'un acte de violence dont l'affectation prioritaire est reconduite en application de l'article 36quinquies, § 4, alinéa 2) &lt;DCFR 2003-07-17/44, art. 9, 013; En vigueur : 01-09-2003&gt;
+
+\- si le pouvoir organisateur qui a mis en disponibilité dispose d'un emploi vacant de la même fonction et doit mettre fin à cette disponibilité ;
+
+\- si le membre du personnel néglige de faire acte de candidature à la nomination dès qu'il remplit les conditions prévues au présent décret (à l'exception de celle visée à l'article 30, 8°). L'ancienneté dont peut se prévaloir le membre du personnel à cette occasion est l'ancienneté acquise au service du pouvoir organisateur auprès duquel il a été réaffecté ; &lt;DCFR 1999-02-08/37, art. 8, 008; En vigueur : 01-01-1999&gt;
+
+\- si le membre du personnel ne souscrit ni ne respecte les obligations reprises aux articles 6 et 15 du présent décret.
+
+Il peut également être mis fin à cette réaffectation :
+
+\- de commun accord [<sup>1</sup> moyennant l'approbation de la Commission centrale de gestion des emplois compétente]<sup>1</sup>;
+
+\- en cas de faute grave ;
+
+\- sur décision de la commission de réaffectation compétente saisie par le pouvoir organisateur ou le membre du personnel.) &lt;DCFR 1995-04-10/24, art. 4, § 1, 002; En vigueur : 01-01-1995&gt;
+
+2° s'il a déjà attribué l'emploi par voie de mutation ou de changement d'affectation conformément aux dispositions prévues à l'article 29.
+
+(3° s'il a déjà attribué l'emploi conformément aux dispositions prévues à l'article 29bis.) &lt;DCFR 2007-02-02/52, art. 67, 020; En vigueur : 01-09-2007&gt;
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 83, 039; En vigueur : 01-09-2019&gt;
+
+##### Art. 29
+
+§ 1. Le pouvoir organisateur qui a un emploi vacant à conférer peut accepter la mutation d'un membre du personnel d'un autre pouvoir organisateur, si aucun des membres de son personnel n'est prioritaire.
+
+Le membre du personnel concerné doit en faire la demande et obtenir l'accord de son pouvoir organisateur.
+
+Nul ne peut muté dans un emploi d'une fonction de recrutement s'il n'est nommé à titre définitif dans la fonction de recrutement à laquelle appartient l'emploi vacant.
+
+Le pouvoir organisateur doit nommer à titre définitif le membre du personnel au moment où s'opère la mutation, quelle qu'en soit la date.
+
+Le membre du personnel muté doit démissionne dans le pouvoir organisateur qu'il quitte pour la charge qu'il y exerce et pour laquelle il a demandé la mutation.
+
+Le passage d'un pouvoir organisateur à un autre doit s'effectuer sans interruption.
+
+Les modalités des mutations sont, pour le surplus, fixées par la commission paritaire locale constituée au sein du pouvoir organisateur qui accueille l'agent.
+
+§ 2. Le pouvoir organisateur peut également accorder un changement d'affectation à l'un des membres de son personnel.
+
+Ce changement d'affectation ne peut se faire que si le membre du personnel est nommé à titre définitif au sein du pouvoir organisateur dans la fonction à laquelle appartient l'emploi vacant.
+
+Le passage d'un établissement à un autre doit se faire sans interruption.
+
+Les modalités des changements d'affectation sont, pour le surplus, fixées par les commissions paritaires locales.
+
+##### Art. 29bis
+
+[<sup>1</sup> § 1er. Un membre du personnel nommé à titre définitif dans une [<sup>2</sup> fonction de sélection ou de promotion]<sup>2</sup> auprès d'un pouvoir organisateur peut, s'il le demande et avec l'accord du pouvoir organisateur, être nommé à titre définitif, dans un emploi définitivement vacant, au sein du même pouvoir organisateur ou au sein d'un autre pouvoir organisateur auprès duquel il a déjà bénéficié d'une nomination :
+
+a) d'une fonction de recrutement qu'il a auparavant exercée à titre définitif;
+
+b) d'une fonction de sélection qu'il a auparavant exercée à titre définitif ou à laquelle donne accès une fonction de recrutement qu'il a auparavant exercée à titre définitif;
+
+c) d'une fonction de chef de travaux d'atelier s'il l'a auparavant exercée à titre définitif ou s'il a auparavant exercé à titre définitif une fonction de recrutement donnant accès à cette fonction.
+
+La nomination à titre définitif visée par l'alinéa précédent a lieu au sein d'un pouvoir organisateur auprès duquel il a déjà bénéficié d'une nomination à titre définitif dans une fonction de recrutement, de sélection ou de promotion.
+
+Le passage d'un emploi à l'autre conformément au présent paragraphe doit se faire sans interruption. Le membre du personnel doit préalablement démissionner de sa fonction d'origine.
+
+Les modalités de la nomination en vertu du présent paragraphe, sont, pour le surplus, fixées par les commissions paritaires locales.
+
+§ 2. Un membre du personnel nommé à titre définitif dans une [<sup>2</sup> fonction de sélection ou de promotion]<sup>2</sup> auprès d'un pouvoir organisateur peut, s'il le demande et avec l'accord du pouvoir organisateur, être nommé à titre définitif, au sein d'un autre pouvoir organisateur, dans un emploi définitivement vacant:
+
+a) d'une fonction de recrutement qu'il a auparavant exercée à titre définitif;
+
+b) d'une fonction de sélection qu'il a auparavant exercée à titre définitif ou à laquelle donne accès une fonction de recrutement qu'il a auparavant exercée à titre définitif;
+
+c) d'une fonction de chef de travaux d'atelier s'il l'a auparavant exercée à titre définitif ou s'il a auparavant exercé à titre définitif une fonction de recrutement donnant accès à cette fonction.
+
+La nomination à titre définitif visée par l'alinéa précédent a lieu auprès d'un pouvoir organisateur autre que ceux visés au § 1er, si aucun des membres de ce dernier n'est prioritaire.
+
+Le passage d'un emploi à l'autre conformément au présent paragraphe doit se faire sans interruption. Le membre du personnel doit préalablement démissionner de sa fonction d'origine.
+
+Les modalités de la nomination en vertu du présent paragraphe sont, pour le surplus, fixées par la commission paritaire locale constituée au sein du pouvoir organisateur qui accueille l'agent.
+
+§ 3. Pour l'application des §§ 1er et 2, et sans préjudice de l'article 28, 1°, la nomination à titre définitif peut avoir lieu quelle que soit la date. Elle ne peut être accordée que pour autant que le membre du personnel remplisse toutes les conditions prévues, selon le cas :
+
+a) à l'article 30, à l'exception du 8°, du 9° en ce qui concerne l'ancienneté de fonction et des 10° et 11° ;
+
+b) à l'article 40, alinéa 1er, à l'exception du 4 ° ;
+
+c) à l'article 49, alinéa 1er, à l'exception du 4° ;
+
+Pour l'application des points b) et c) de l'alinéa 1er, l'exigence d'avoir réussi la formation relative à une fonction déterminée est d'office réputée remplie si le membre du personnel a été titulaire à titre définitif de cette fonction avant l'exercice de sa fonction actuelle.
+
+Le membre du personnel exerçant la fonction de promotion de chef de travaux d'atelier ne peut bénéficier de la présente disposition qu'après avoir exercé ses fonctions dans l'emploi qu'il occupe pendant 3 ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 39, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 156, 039; En vigueur : 01-09-2019&gt;
+
+##### Art. 29ter
+
+Le membre du personnel visé à l'article 29bis se voit attribuer l'échelle de traitement de la fonction dans laquelle il est nommé à titre définitif conformément à cette disposition.
+
+Toutefois, le membre du personnel visé à l'article 29bis, qui a exercé à titre définitif pendant au moins dix ans la fonction de sélection ou de promotion qu'il quitte, bénéficie d'un mécanisme dégressif d'échelles de traitement pour rejoindre à partir de la 3e année l'échelle de traitement de la fonction dans laquelle il est nommé à titre définitif conformément à l'article 29bis, fixé comme suit :
+
+a) Au cours de la première année qui suit sa nouvelle affectation, le membre du personnel bénéficie de l'échelle de traitement de la fonction dans laquelle il est affecté, augmentée d'un montant équivalent à 66 % de la différence entre d'une part l'échelle de traitement dont il bénéficiait dans la fonction qu'il a quittée et d'autre part l'échelle de traitement de la fonction dans laquelle il est affecté;
+
+b) Au cours de la deuxième année qui suit sa nouvelle affectation, le membre du personnel bénéficie de l'échelle de traitement de la fonction dans laquelle il est affecté, augmentée d'un montant équivalent à 33 % de la différence entre d'une part l'échelle de traitement dont il bénéficiait dans la fonction qu'il a quittée et d'autre part l'échelle de traitement de la fonction dans laquelle il est affecté.
+
+##### Art. 30
+
+(§ 1.) Sous réserve des conditions de nomination en application dans l'enseignement supérieur de type court, nul ne peut être nommé à titre définitif s'il ne remplit pas, au moment de la nomination définitive, les conditions suivantes : &lt;DCFR 2003-05-08/49, art. 96, 012; En vigueur : 01-09-2002&gt;
+
+1° [<sup>3</sup> ...]<sup>3</sup>
+
+2° être de conduite irréprochable;
+
+3° jouir des droits civils et politiques;
+
+4° satisfaire aux lois sur la milice;
+
+5° être porteur d'un titre de capacité prévu à l'article 2 et qui lui donne, sans limitation de durée, accès à l'exercice de la fonction à titre définitif;
+
+6° posséder les aptitudes physiques fixées par le Gouvernement pour la nomination à titre définitif des membres du personnel dans l'enseignement de la Communauté;
+
+7° satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+8° être classé comme prioritaire suivant les modalités fixées à l'article 24, § 1er, alinéa 1er;
+
+9° [<sup>5</sup> compter 600 jours d'ancienneté de service [<sup>7</sup> dans l'enseignement organisé ou subventionné par la Communauté française et 360 jours dans le pouvoir organisateur dont 240 jours dans la fonction considérée]<sup>7</sup>, à l'exception des membres du personnel visés à l'article 33, alinéa 2; les 600 jours d'ancienneté acquis [<sup>7</sup> au sein de l'enseignement organisé ou subventionné par la Communauté française]<sup>7</sup> doivent être répartis sur trois années scolaires au moins;]<sup>5</sup>
+
+(10° abrogé par &lt;DCFR 1996-07-25/47, art. 13, 003; En vigueur : 01-09-1996&gt;)
+
+10° (anciennement 11°) avoir introduit sa candidature dans la forme et le délai fixés par l'appel aux candidats; &lt;DCFR 1996-07-25/47, art. 13, 003; En vigueur : 01-09-1996&gt;
+
+11° (anciennement 12°) faire l'objet, à l'issue de la période mentionnée au 9°, d'un rapport de service favorable de la part du chef d'établissement ou d'un délégué pédagogique du pouvoir organisateur; &lt;DCFR 1996-07-25/47, art. 13, 003; En vigueur : 01-09-1996&gt;
+
+12° [<sup>1</sup> ...]<sup>1</sup>
+
+(13° dans l'enseignement supérieur de promotion sociale, être porteur du Certificat d'aptitude pédagogique approprié à l'enseignement supérieur (CAPAES)[<sup>8</sup> à l'exception des catégories du personnel auxiliaire d'éducation et du personnel administratif]<sup>8</sup>.) &lt;DCFR 2006-06-02/60, art. 12, 002; En vigueur : 01-09-2006&gt;
+
+[<sup>4</sup> Pour l'application du 5°, dans l'enseignement fondamental et secondaire, y compris secondaire de promotion sociale, le candidat à la nomination à titre définitif doit être porteur [<sup>6</sup> soit du titre requis, soit du titre suffisant, soit d'un autre titre remplissant en outre les conditions fixées par l'article 36, § 3 du décret du 11 avril 2014]<sup>6</sup>. Pour les fonctions enseignantes, le candidat doit être porteur d'un titre pédagogique.]<sup>4</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le candidat à une nomination définitive est réputé satisfaire à la condition énoncée à l'(alinéa 1er, 11°), aussi longtemps qu'un rapport défavorable n'est pas rédigé à son sujet par le chef d'établissement ou par le délégué pédagogique du pouvoir organisateur. &lt;DCFR 1996-07-25/47, art. 13, 003; En vigueur : 01-09-1996&gt;
+
+[<sup>2</sup> Le chef d'établissement ou un délégué pédagogique du pouvoir organisateur établit, au plus tard le 31 octobre, un rapport de service, conforme aux modalités fixées par la Commission paritaire centrale et soumis au visa de l'intéressé.
+
+[<sup>9</sup> L'attribution d'une première mention " défavorable " définitive lors de l'évaluation visée à la section 4 du présent chapitre équivaut à un rapport " défavorable " précédant la nomination. Par année scolaire, le membre du personnel ne peut pas faire l'objet à la fois d'une mention lors de l'évaluation visée dans la section 4 du présent chapitre et d'un rapport précédant la nomination à titre définitif tel que visé au précédent paragraphe.]<sup>9</sup>
+
+Si le membre du personnel estime que le contenu du rapport n'est pas fondé, il en fait mention en le visant et, dans les dix jours ouvrables qui suivent la réception de ce rapport, il a le droit d'introduire un recours devant la Chambre de recours visée à l'article 75. Le membre du personnel qui fait usage de son droit de recours en notifie immédiatement une copie à son pouvoir organisateur.]<sup>2</sup>
+
+(Le cas échéant, le rapport d'inspection portant sur les compétences professionnelles et pédagogiques ayant conduit à l'établissement d'un rapport défavorable par le chef d'établissement ou le délégué pédagogique du pouvoir organisateur est pris en considération par la [<sup>2</sup> Chambre de recours]<sup>2</sup>.) &lt;DCFR 2007-03-08/46, art. 193, 2°, 021; En vigueur : 01-09-2007&gt;
+
+[<sup>2</sup> La Chambre de recours donne son avis au pouvoir organisateur dans un délai de 45 jours à partir de la date de réception du recours.
+
+Le pouvoir organisateur prend sa décision dans un délai de 30 jours à partir de la réception de l'avis visé à l'alinéa précédent et notifie sa décision à la Chambre de recours et au membre du personnel. Le cas échéant, le pouvoir organisateur indique les raisons pour lesquelles l'avis de la Chambre de recours n'a pas été suivi.
+
+S'il omet de se prononcer dans le délai requis, la décision est réputée conforme à l'avis.]<sup>2</sup>
+
+(Par dérogation à l'alinéa 1er, 13°, les professeurs en fonction dans l'enseignement supérieur de promotion sociale au 31 août 2006, sont réputés satisfaire à la condition visée s'ils sont porteurs d'un des titres pédagogiques suivants : le diplôme d'instituteur(trice) préscolaire, le diplôme d'instituteur(trice) primaire, l'agrégation de l'enseignement secondaire inférieur, l'agrégation de l'enseignement secondaire supérieur, l'agrégation de l'enseignement supérieur, le certificat d'aptitude pédagogique, le certificat d'aptitudes pédagogiques, le certificat de cours normaux techniques moyens ou le diplôme d'aptitudes pédagogiques.) &lt;DCFR 2006-06-02/60, art. 12, 002; En vigueur : 01-09-2006&gt;
+
+(Le membre du personnel nommé à titre définitif dans un emploi doit l'occuper en fonction principale.) &lt;DCFR 1996-07-25/47, art. 13, 003; En vigueur : 01-09-1996&gt;
+
+(§ 2. Conformément à l'article 1er, 1° et 2°, le paragraphe 1er est également applicable aux membres du personnel en congé de maternité, en congé de maladie ou en incapacité de travail causée par un accident du travail.) &lt;DCFR 2003-05-08/49, art. 96, 012; En vigueur : 01-09-2002&gt;
+
+----------
+
+(1)&lt;DCFR 2009-04-30/91, art. 39, 024; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2012-07-12/31, art. 35, 026; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCFR 2013-06-20/18, art. 25, 027; En vigueur : 27-07-2013&gt;
+
+(4)&lt;DCFR 2014-04-11/37, art. 113, 032; En vigueur : 01-09-2016&gt;
+
+(5)&lt;DCFR 2020-07-17/30, art. 12, 040; En vigueur : 01-09-2020&gt;
+
+(6)&lt;DCFR 2020-07-17/30, art. 92, 040; En vigueur : 14-09-2020&gt;
+
+(7)&lt;DCFR 2022-12-01/21, art. 26, 046; En vigueur : 10-02-2022&gt;
+
+(8)&lt;DCFR 2023-07-06/17, art. 6, 050; En vigueur : 01-01-2024&gt;
+
+(9)&lt;DCFR 2023-07-20/44, art. 49, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 30bis
+
+&lt;Inséré par DCFR 1995-04-10/24, art. 6; En vigueur : 01-01-1995&gt; Par dérogation aux dispositions de l'article 30, alinéa 1er, 8° et 9°, et pour la seule année scolaire 1995-1996, sont présumés satisfaire aux conditions de nomination au 1er octobre 1995 dans l'enseignement fondamental et au 1er novembre 1995 dans les autres niveaux d'enseignement, les membres du personnel qui ont acquis, à la fin de l'année scolaire ou académique 1994-1995, une ancienneté de 600 jours dont 240 dans la fonction considérée auprès du pouvoir organisateur. Cette ancienneté doit être répartie sur trois années scolaires au moins.
+
+##### Art. 31
+
+Chaque année scolaire, dans le courant du mois de mai, le pouvoir organisateur fait un appel aux candidats à la nomination définitive.
+
+Sont à conférer à titre définitif les emplois vacants (au 15 avril) qui précède l'appel aux candidats, pourvu que ces emplois demeurent vacants le 1er octobre suivant. &lt;DCFR 1999-02-08/37, art. 9, 1°, 008; En vigueur : 01-01-1999&gt;
+
+(Par dérogation à l'alinéa 2, dans l'enseignement de promotion sociale, sont à conférer à titre définitif, à la date du premier du mois qui suit le premier jour d'organisation dudit emploi, les emplois vacants proposes par le Pouvoir organisateur, après consultation de la commission paritaire locale visée à l'article 85, dans le respect des dispositions prévues à l'article 2 du décret du 10 avril 1995 fixant les mesures urgentes en matière d'enseignement de promotion sociale et à l'article 111bis du décret du 16 avril 1991 organisant l'enseignement de promotion sociale et pour autant que l'emploi resté vacant soit organisé pendant l'année scolaire où se produit la nomination.) &lt;DCFR 1998-06-02/55, art. 4, 006; En vigueur : 1998-08-04&gt;
+
+[<sup>1</sup> Dans l'enseignement de promotion sociale, une présentation du taux de nomination au sein du pouvoir organisateur est organisée annuellement au sein de la commission paritaire locale sur la base des données suivantes qui auront été préalablement communiquées par le pouvoir organisateur:
+
+\- taux de nomination global au sein du pouvoir organisateur et par établissement;
+
+\- taux de nomination dans les périodes organiques et par établissement;
+
+\- taux d'experts au sein du pouvoir organisateur et par établissement;
+
+\- taux des mises en disponibilité par défaut d'emploi et en perte partielle de charge au sein du pouvoir organisateur et par établissement.]<sup>1</sup>
+
+(Dans l'enseignement fondamental, les emplois d'instituteur(trice) maternel(le) et d'instituteur(trice) primaire doivent comporter une demi-charge ou une charge complète.) &lt;DCFR 1995-04-10/24, art. 7, 002; En vigueur : 01-01-1995&gt;
+
+(L'avis qui indique le classement des temporaires, la fonction à conférer, le volume des prestations des emplois offerts, les conditions requises dans le chef des candidats ainsi que la forme et le délai dans lesquels les candidatures doivent être introduites, est communiqué à tous les membres temporaires du pouvoir organisateur qui figurent au classement des prioritaires au sens des articles 24, § 1er, et 30.) &lt;DCFR 1995-04-10/24, art. 7, 002; En vigueur : 01-01-1995&gt;
+
+(Les emplois vacants (au 15 avril) sont globalisés dans chaque fonction pour l'ensemble des établissements d'un même pouvoir organisateur situés sur le territoire de la même commune. Sont conférés à titre définitif ceux qui demeurent vacants dans chacune des fonctions au 1er octobre suivant dans l'ensemble des établissements d'un même pouvoir organisateur situés sur le territoire de la même commune, à concurrence du nombre maximum d'emplois qui ont fait l'objet d'un appel aux candidats à la nomination au mois de mai précédent.) &lt;DCFR 1995-04-10/24, art. 7, 002; En vigueur : 01-01-1995&gt; &lt;DCFR 1999-02-08/37, art. 9, 2°, 008; En vigueur : 01-01-1999&gt;
+
+(Alinéa 7 abrogé) &lt;DCFR 1999-02-08/37, art. 9, 3°, 008; En vigueur : 01-01-1999&gt;
+
+Toutefois dans l'enseignement préscolaire et primaire, les nominations définitives dans les emplois vacants sont effectuées chaque année, (...), (au plus tard lors de la seconde réunion) du pouvoir organisateur qui suit la réception de la dépêche ministérielle fixant le nombre d'emploi subventionnés pour l'année scolaire en cours. &lt;DCFR 1996-07-25/47, art. 14, 003; En vigueur : 01-09-1996&gt;
+
+(Les nominations définitives opèrent leurs effets au plus tard le 1er avril, uniquement dans les emplois visés à l'alinéa 2 qui étaient encore vacants au 1er octobre de l'année scolaire en cours.) &lt;DCFR 1999-02-08/37, art. 9, 4°, 008; En vigueur : 01-01-1999&gt;
+
+L'obligation de nommer ne s'impose au pouvoir organisateur que si le membre du personnel a fait acte de candidature et remplit les conditions prévues au présent décret.
+
+L'ordre dans lequel le pouvoir organisateur procède aux nominations à titre définitif est déterminé par l'ancienneté des candidats calculée conformément à l'article 34.
+
+(Le pouvoir organisateur communique annuellement la liste des emplois vacants aux membres du personnel concernés suivant les modalités fixées par les Commissions paritaires locales.) &lt;DCFR 1996-07-25/47, art. 14, 003; En vigueur : 01-09-1996&gt;
+
+----------
+
+(1)&lt;DCFR 2021-07-19/12, art. 54, 043; En vigueur : 09-09-2021&gt;
+
+##### Art. 32
+
+La nomination définitive, la mutation et le changement d'affectation ne sont pas permis dans un emploi d'un établissement, d'une section, d'une implantation, d'un degré, d'un cycle ou d'une autre subdivision qui, en application des règles de rationalisation est en voie de fermeture progressive ou qui ne peut être subventionné que pour une période limitée en vertu d'une décision du Gouvernement.
+
+##### Art. 33
+
+La personne qui pose sa candidature à la nomination définitive dans différents emplois introduit une candidature séparée pour chaque emploi.
+
+(Dans l'enseignement de plein exercice et dans l'enseignement secondaire à horaire réduit, le membre du personnel nommé à titre définitif dans une fonction qui demande une affectation définitive au sein du même Pouvoir organisateur dans un emploi vacant de la même fonction ou d'une autre fonction de la même catégorie pour laquelle il possède le titre requis [<sup>1</sup> ...]<sup>1</sup>, doit répondre à l'appel à la nomination définitive dans cette fonction.
+
+Dans l'enseignement [<sup>1</sup> secondaire et supérieur]<sup>1</sup> de promotion sociale, le membre du personnel nommé à titre définitif dans une fonction qui demande une affectation définitive au sein du même Pouvoir organisateur dans un emploi vacant de la même fonction ou d'une autre fonction de la même catégorie pour laquelle il possède [<sup>1</sup> , respectivement pour chacun de ces niveaux d'enseignement,]<sup>1</sup> le titre requis [<sup>1</sup> tel que fixé par le décret du 11 avril 2014 ou tel que]<sup>1</sup> visé à l'article 101, doit répondre à l'appel à la nomination définitive dans cette fonction.
+
+Dans l'enseignement [<sup>2</sup> secondaire]<sup>2</sup> artistique à horaire réduit, le membre du personnel nommé à titre définitif dans une fonction qui demande une affectation définitive au sein du même Pouvoir organisateur dans un emploi vacant de la même fonction ou d'une autre fonction de la même catégorie pour laquelle il possède le titre requis [<sup>1</sup> tel que fixé par le décret du 2 juin 1998 précité]<sup>1</sup>, doit répondre à l'appel à la nomination définitive dans cette fonction.
+
+Pour l'application des alinéas 2, 3 et 4 l'emploi est attribué à titre définitif au membre du personnel qui compte l'ancienneté la plus élevée, calculée conformément à l'article 34.) &lt;DCFR 1998-06-02/55, art. 5, 006; En vigueur : 04-08-1998&gt;
+
+(L'alinéa 2 n'est pas applicable à l'enseignement préscolaire et primaire.) &lt;DCFR 1996-07-25/47, art. 15, 003; En vigueur : 01-09-1996&gt;
+
+----------
+
+(1)&lt;DCFR 2014-04-11/37, art. 114, 032; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFR 2020-07-17/30, art. 13, 040; En vigueur : 01-09-2020&gt;
+
+##### Art. 34
+
+(§ 1.) Pour le calcul de l'ancienneté visée à la présente section, sont seuls pris en considération les services accomplis et subventionnés à la fin de l'année scolaire ou académique en cours auprès du pouvoir organisateur, en fonction principale, (au sein d'une même catégorie) et pour autant que le candidat porte le titre de capacité pour cette fonction, tel que prévu à l'article 2. &lt;DCFR 1996-07-25/47, art. 16, 003; En vigueur : 01-09-1996&gt; &lt;DCFR 2004-05-12/66, art. 53, 016; En vigueur : 01-09-2004&gt;
+
+(Le nombre de jours acquis en qualité de temporaire dans une fonction à prestations complètes est formé de tous les jours comptés du début à la fin de la période d'activité continue.
+
+Par dérogation à l'alinéa 1er sont englobés dans cette période d'activité, les congés de détente ainsi que les vacances d'hiver et de printemps et les congés de maternité, d'accueil en vue de l'adoption et de la tutelle officieuse, et les congés exceptionnels prévus respectivement aux articles 5 et 5bis de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel de l'enseignement de l'Etat aux articles 2 et 3 de l'arrêté royal du 14 janvier 1979 relatif aux congés de circonstances accordés à certains membres du personnel temporaire des établissements d'enseignement de l'Etat [<sup>2</sup> ainsi que, pour le personnel administratif, aux articles 4 et 4bis de l'arrêté royal du 8 décembre 1967 pris en application de l'article 3 de l'arrêté royal du 28 février 1967 déterminant les positions administratives du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat. ]<sup>2</sup>.) &lt;DCFR 1995-04-10/24, art. 8, 002; En vigueur : 01-01-1995&gt;
+
+En cas de changement de fonction, les jours acquis en qualité de définitif dans une fonction à prestations complètes se comptent du début à la fin d'une période ininterrompue d'activité de service, vacances d'hiver et de printemps, congés de maternité, d'accueil et de circonstance compris, comme indiqué à l'alinéa précédent.
+
+Les services accomplis dans une fonction à prestations incomplètes comportant au moins la moitié du nombre d'heures requis pour la fonction à prestations complètes sont pris en considération au même titre que les services accomplis dans une fonction à prestations complètes.
+
+Le nombre de jours acquis dans une fonction à prestations incomplètes qui ne comporte pas la moitié du nombre requis pour la fonction à prestations complètes, est réduit de moitié.
+
+(Dans l'enseignement de promotion sociale, par dérogation aux alinéas 2, 5 et 6, pour autant que les services accomplis comportent au moins 40 périodes par année, le nombre de jours acquis en qualité de temporaire dans une fonction est de :
+
+1° 300 jours si les services accomplis représentent au moins 50 % du nombre de périodes par année nécessaire pour former une charge complète dans cette fonction;
+
+2° 150 jours si les services accomplis représentent moins de 50 % du nombre de périodes par année nécessaire pour former une charge complète dans cette fonction.) &lt;DCFR 1998-06-02/55, art. 6, 006; En vigueur : 04-08-1998&gt;
+
+Le nombre de jours acquis dans deux ou plusieurs fonctions à prestations complètes ou incomplètes, exercées simultanément, ne peut jamais dépasser le nombre de jours acquis dans une fonction à prestations complètes exercée pendant la même période.
+
+La durée des services que compte le membre du personnel ne peut jamais dépasser 300 jours par année scolaire, 300 jours constituant une année d'ancienneté.
+
+(§ 2. Les services rendus par un membre du personnel non statutaire sont assimilés aux services visés au présent article, à condition que ce membre du personnel soit porteur du titre requis ou du [<sup>1</sup> ou, sauf dans l'enseignement secondaire artistique à horaire réduit, du titre suffisant]<sup>1</sup>.
+
+En ce qui concerne les 1200 premiers jours, il leur est appliqué un coefficient réducteur de 0,3.
+
+[<sup>3</sup> A partir de l'année scolaire ou académique 2024-2025, ce coefficient réducteur de 0,3 n'est appliqué qu'aux prestations effectuées par les membres du personnel qui occupent une fonction à charge du pouvoir organisateur.]<sup>3</sup>
+
+Le nombre de jours acquis en qualité de membre du personnel non statutaire dans une fonction à prestations complètes est formé de tous les jours comptés du début à la fin de la période d'activité continue. Les congés s'appliquant aux membres du personnel non statutaire qui trouvent leur équivalent dans les congés énumérés au § 1er, alinéa 3, sont englobés dans cette période d'activité.
+
+Les services accomplis dans une fonction à prestations incomplètes comportant au moins la moitié du nombre d'heures requis pour la fonction à prestations complètes sont pris en considération au même titre que les services accomplis dans une fonction à prestations complètes.
+
+Le nombre de jours acquis dans une fonction à prestations incomplètes qui ne comporte pas la moitié du nombre d'heures requis pour la fonction à prestations complètes, est réduit de moitié.) &lt;DCFR 2004-05-12/66, art. 53, 016; En vigueur : 01-09-2004&gt;
+
+----------
+
+(1)&lt;DCFR 2014-04-11/37, art. 115, 032; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFR 2023-07-06/17, art. 7, 050; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DCFR 2024-04-04/37, art. 49, 052; En vigueur : 01-01-2024&gt;
+
+##### Art. 35
+
+[<sup>1</sup> § 1er. En cas de licenciement, un membre du personnel désigné à titre temporaire perd la priorité acquise auprès du pouvoir organisateur concerné. Il la recouvre néanmoins s'il est engagé à nouveau par ce pouvoir organisateur.
+
+En cas de démission volontaire, un membre du personnel désigné à titre temporaire perd la priorité acquise auprès du pouvoir organisateur concerné. Il la recouvre néanmoins si, après avoir démissionné, il est engagé à nouveau par ce pouvoir organisateur.
+
+§ 2. En cas de démission volontaire, un membre du personnel nommé à titre définitif perd la priorité acquise auprès du pouvoir concerné. Il la recouvre néanmoins si, après avoir démissionné, il est engagé à nouveau par ce pouvoir organisateur.]<sup>1</sup>
+
+[<sup>2</sup> § 3. En cas de démission d'office conformément à l'article 58, 11°, le membre du personnel perd la priorité acquise auprès du pouvoir concerné. Il la recouvre néanmoins si, après cette démission, il est engagé à nouveau par ce pouvoir organisateur.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 22, 039; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2023-07-20/44, art. 50, 056; En vigueur : 31-08-2026&gt;
+
+### Section 4. - Reprise d'un établissement d'enseignement d'un autre pouvoir organisateur.
+
+##### Art. 36
+
+§ 1. En cas de reprise par un pouvoir organisateur de l'enseignement officiel subventionné d'un établissement ou d'une partie d'établissement d'enseignement officiel organisé par la Communauté française ou par un autre pouvoir public, les dispositions suivantes sont d'application :
+
+1° Les membres du personnel nommés à titre définitif dans une fonction de recrutement et de sélection et en fonction au moment de la reprise acquièrent d'office la qualité de membre du personnel définitif dans les fonctions correspondantes au sein du pouvoir organisateur qui reprend.
+
+2° Les membres du personnel qui, au moment de la reprise, exercent à titre définitif une fonction de promotion sont nommés à une des fonctions de recrutement donnant accès à cette fonction de promotion.
+
+3° Les services effectifs rendus avant la reprise par les membres du personnel visés au 1° et 2° sont assimilés à des services effectifs rendus en qualité de membre du personnel du pouvoir organisateur qui reprend.
+
+La convention de reprise à conclure entre les pouvoirs organisateurs concernés peut fixer des règles complémentaires aux dispositions énoncées ci-dessus et préciser, s'il échet, des conditions de reprise pour les membres du personnel désignés à titre temporaire (, notamment les conditions dans lesquelles ces membres du personnel peuvent faire valoir une priorité à la désignation. La convention peut également déterminer les conditions auxquelles les membres du personnel temporaire qui, au moment de la reprise, auraient pu prétendre, sur la base des dispositions statutaires qui leur étaient applicables à cette date, à une nomination à titre définitif, peuvent être nommés à titre définitif dans l'emploi vacant occupé au moment de la reprise et qui demeure vacant après celle-ci). Ces règles complémentaires seront préparées au sein de la commission paritaire locale relevant du pouvoir organisateur qui reprend. &lt;DCFR 2005-07-01/39, art. 38, 018; En vigueur : 01-07-2005&gt;
+
+§ 2. Les conditions de reprise par un pouvoir organisateur de l'enseignement officiel subventionné d'un établissement ou d'une partie d'établissement d'enseignement libre subventionné seront fixées aux termes d'une convention à conclure entre les pouvoirs organisateurs concernés. Les règles précitées seront préparées au sein de la commission paritaire locale du pouvoir organisateur qui reprend.
+
+### Section 5. &lt;Créée par DCFR 2003-07-17/44, art. 10; En vigueur : 01-09-2003&gt; - Des membres du personnel victimes d'acte de violence [<sup>1</sup> ou de harcèlement]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/25, art. 40, 030; En vigueur : 29-06-2014&gt;
+
+#### Sous-section première. &lt;Créée par DCFR 2003-07-17/44, art. 10; En vigueur : 01-09-2003&gt; - Dispositions générales.
+
+##### Art. 36bis
+
+[<sup>2</sup> § 1er. Pour l'application de la section 5, il faut entendre par :
+
+1° " acte de violence " : toute atteinte physique et/ou psychologique commise avec une intention malveillante, toute agression [<sup>4</sup> liée à une des formes de discrimination visées par la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination]<sup>4</sup> contre un membre du personnel ainsi que toute détérioration aux biens de celui-ci commise soit par un élève, soit par un tiers sur instigation ou avec la complicité de celui-ci, soit par un membre de la famille de l'élève ou toute personne habitant sous le même toit, dans le cadre du service du membre du personnel ou en relation directe avec celui-ci, soit par tout autre personne n'appartenant pas au personnel de l'établissement, pour autant qu'il soit démontré par la victime que l'acte de violence est en relation directe avec le service;
+
+2° " harcèlement " : le harcèlement moral ou sexuel au sens de l'article 32ter, alinéa 1er, 2° et 3° de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail;
+
+3° " membre du personnel victime d'un acte de violence " : le membre du personnel définitif ou temporaire reconnu par le service du Gouvernement visé à l'article 6 de l'arrêté royal du 24 janvier 1969 relatif à la réparation, en faveur des membres du personnel du secteur public, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail victime d'un accident de travail résultant de l'acte défini au 1° ;
+
+4° " membre du personnel victime de harcèlement " : le membre du personnel définitif ou temporaire victime de harcèlement tel que défini au 2°.
+
+[<sup>4</sup> 5° " force majeure ": une situation indépendante de la volonté de la victime qui, sans qu'elle puisse raisonnablement y remédier, l'a empêchée d'introduire sa demande endéans le délai visé au présent chapitre, ou plus tôt après échéance de celui-ci.]<sup>4</sup>
+
+Dans les cas visés à l'alinéa 1er, 1°, la priorité visée au paragraphe 2 n'est accordée au membre du personnel que pour autant qu'il ait déposé plainte auprès des autorités judiciaires.
+
+Dans les cas visés à l'alinéa 1er, 2°, la priorité visée au paragraphe 2 n'est accordée au membre du personnel que pour autant que le harcèlement ait été reconnu par une décision de justice ou par un rapport du service externe de prévention et de protection au travail visé à l'arrêté royal du 27 mars 1998 relatif aux services externes pour la prévention et la protection au travail.
+
+Lorsque l'acte de violence ou le harcèlement a été commis à l'extérieur de l'établissement, la demande de priorité n'est prise en compte que pour autant que l'auteur de l'acte de violence ou du harcèlement ait pu être identifié ou, à défaut, que le lien entre l'acte de violence et l'activité d'enseignement ait pu être établi.
+
+§ 2. Les membres du personnel visés au paragraphe 1er bénéficient d'une priorité définie conformément à la sous-section 2 pour ce qui concerne le membre du personnel temporaire non prioritaire, à la sous-section 3 pour ce qui concerne le membre du personnel temporaire prioritaire et à la sous-section 4 pour le membre du personnel nommé à titre définitif.
+
+Si le membre du personnel n'a pas été mis en incapacité temporaire par le service de santé administratif et sauf cas de force majeure dûment justifié, il introduit sa demande de priorité [<sup>3</sup> ...]<sup>3</sup> auprès de la Direction générale de l'Enseignement obligatoire ou de la Direction générale de l'Enseignement non obligatoire, selon le cas, dans un délai de [<sup>4</sup> trois mois]<sup>4</sup> à partir de la survenance des faits pour la situation de violence ou de la reconnaissance du harcèlement pour la situation de harcèlement pour le harcèlement auprès de la Direction générale de l'Enseignement obligatoire ou de la Direction générale de l'Enseignement non obligatoire, selon le cas. Dans le même délai, il envoie également [<sup>3</sup> ...]<sup>3</sup> copie de cette demande à son pouvoir organisateur. La Direction générale de l'Enseignement obligatoire ou la direction générale de l'Enseignement non obligatoire, selon le cas, vérifie que les conditions d'application du présent décret sont remplies, en s'entourant de tout complément d'information qu'elle juge utile.
+
+Dans le cas où le membre du personnel a été mis en incapacité temporaire par le service de santé administratif [<sup>4</sup> dans les vingt jours ouvrables suivant la survenance de l'acte de violence ou le dépôt d'une plainte en harcèlement auprès des autorités judiciaires ou du service externe de prévention et de protection au travail]<sup>4</sup>, il introduit la demande visée à l'alinéa précédent dans un délai [<sup>4</sup> de trois mois suivant la survenance de l'acte de violence ou la reconnaissance de la situation de harcèlement]<sup>4</sup> à la Direction générale de l'Enseignement obligatoire ou à la Direction générale de l'Enseignement non obligatoire, selon le cas [<sup>4</sup> ...]<sup>4</sup>. Dans le même délai, il envoie également par recommandé avec accusé de réception copie de cette demande à son pouvoir organisateur. [<sup>4</sup> Ce délai de trois mois est suspendu aussi longtemps que le membre du personnel est reconnu en incapacité de travail temporaire.]<sup>4</sup> La Direction générale de l'Enseignement obligatoire ou la Direction générale de l'Enseignement non obligatoire, selon le cas, vérifie que les conditions d'application du présent décret sont remplies en s'entourant de tout complément d'information qu'elle juge utile.
+
+En cas d'acte de violence, une copie de la plainte visée au § 1er, alinéa 2, est annexée à la demande, de même qu'une copie de la reconnaissance de l'accident de travail par le service du Gouvernement visé à l'article 6 de l'arrêté royal du 24 janvier 1969 relatif à la réparation, en faveur des membres du personnel du secteur public, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail.
+
+En cas de harcèlement, est annexé à la demande, une copie de la décision de justice ou du rapport du service externe de prévention et de protection au travail visé à l'arrêté royal du 27 mars 1998 relatif aux services externes pour la prévention et la protection au travail attestant du harcèlement moral ou sexuel.]<sup>2</sup>
+
+§ 3. Dans les [<sup>4</sup> vingt jours ouvrables]<sup>4</sup> qui suivent la réception de la demande visée au § 2, la direction générale de l'Enseignement obligatoire ou la direction générale de l'Enseignement non obligatoire, selon le cas, rendent un avis au ministre fonctionnel. Une copie de cet avis est communiquée au pouvoir organisateur ainsi qu'au membre du personnel concerné.
+
+La décision d'octroi du dispositif visé au présent chapitre est prise par le ministre fonctionnel ou son délégué dans les [<sup>4</sup> dix jours ouvrables]<sup>4</sup>. Elle est notifiée immédiatement au pouvoir organisateur et au membre du personnel concerné.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 36, 026; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2014-04-11/25, art. 41, 030; En vigueur : 29-06-2014&gt;
+
+(3)&lt;ACF 2017-10-25/11, art. 6, 034; En vigueur : 22-04-2018&gt;
+
+(4)&lt;DCFR 2022-02-24/18, art. 77, 044; En vigueur : 01-09-2019&gt;
+
+#### Sous-section 2. &lt;Insérée par DCFR 2003-07-17/44, art. 10; En vigueur : 01-09-2003&gt; - Du droit à une nouvelle désignation des membres du personnel temporaires non prioritaires
+
+##### Art. 36ter
+
+&lt;Inséré par DCFR 2003-07-17/44, art. 10; En vigueur : 01-09-2003&gt; § 1er. Le membre du personnel temporaire non prioritaire victime d'un acte de violence [<sup>2</sup> ou de harcèlement]<sup>2</sup> peut solliciter, dans les conditions visées à la sous-section première, une nouvelle désignation dans un autre établissement relevant du même pouvoir organisateur.
+
+La demande de nouvelle désignation ne sera prise en considération que si la désignation initiale n'arrive pas à échéance avant l'écoulement d'un délai [<sup>1</sup> de trente jours]<sup>1</sup> à dater de l'introduction de la demande.
+
+La nouvelle désignation visée au présent article ne peut être d'une durée inférieure à la durée restant à courir dans le cadre de la désignation initiale, sauf accord du membre du personnel concerné. Toutefois, une désignation d'une durée inférieure à celle restant à courir dans le cadre de sa désignation initiale peut être imposée à la victime d'un acte de violence [<sup>2</sup> ou de harcèlement]<sup>2</sup> à condition que cet emploi soit disponible pour une durée de quinze semaines au moins et que le membre du personnel qui fait l'objet d'une telle désignation ne perde aucun droit pour la période qui représente la différence entre cette désignation et la durée de la désignation initiale.
+
+§ 2. Le pouvoir organisateur désigne le membre du personnel visé au § 1er :
+
+a) dans tout emploi de la même fonction qui n'est pas occupé par un autre membre du personnel dans le respect des dispositions statutaires;
+
+ou
+
+b) dans tout emploi de la même fonction occupé par un membre du personnel qui accepte de faire une permutation avec le membre du personnel victime d'un acte de violence [<sup>2</sup> ou de harcèlement]<sup>2</sup>.
+
+Le littera b) du présent paragraphe ne vaut que pour les désignations qui interviennent avant le 15 mai de l'année scolaire en cours.
+
+§ 3. A défaut d'avoir pu offrir au membre du personnel temporaire non prioritaire visé à la présente sous-section une nouvelle désignation conformément au § 2, le pouvoir organisateur le désigne dans tout emploi de la même fonction déjà occupé par un membre du personnel temporaire non prioritaire à qui il impose de permuter.
+
+L'alinéa précédent ne vaut que pour les désignations qui interviennent avant le 15 mai de l'année scolaire en cours.
+
+§ 4. S'il n'a pas pu faire l'objet d'une désignation dans un autre emploi de la même fonction conformément aux §§ 2 et 3, et qu'il est désigné par un autre pouvoir organisateur dans un emploi de la même fonction, les services qu'il preste dans ce nouveau pouvoir organisateur sont également pris en compte dans le calcul de l'ancienneté de fonction auprès du pouvoir organisateur d'origine, à concurrence du nombre de jours qu'il restait à prester dans le cadre de la désignation initiale.
+
+§ 5. Durant la période de congé rémunéré dont bénéficie le membre du personnel visé par le présent article en incapacité de travail consécutive à l'acte de violence [<sup>2</sup> ou à la reconnaissance du harcèlement]<sup>2</sup>, celui-ci est réputé rendre des services effectifs. Sa prise en compte dans l'ancienneté de service est toutefois limitée à la durée de la désignation initiale.
+
+§ 6. [<sup>2</sup> L'année scolaire qui suit celle au cours de laquelle il était dans les conditions pour bénéficier de la priorité prévue au présent article, le membre du personnel temporaire ne peut être à nouveau désigné dans l'établissement dans lequel il a été victime de l'acte de violence ou du harcèlement, sauf s'il en fait la demande et à condition qu'il ait été reconnu incapable de poursuivre sa (ses) fonction( s) dans l'établissement dans lequel il a été victime d'un acte de violence ou de harcèlement par le service externe de prévention et de protection au travail visé à l'arrêté royal du 27 mars 1998 relatif aux services externes pour la prévention et la protection au travail.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 36, 026; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2014-04-11/25, art. 42, 030; En vigueur : 29-06-2014&gt;
+
+#### Sous-section 3. &lt;DCFR 2003-07-17/44, art. 10; En vigueur : 01-09-2003&gt; - Du droit à une nouvelle désignation des membres du personnel temporaires prioritaires
+
+##### Art. 36quater
+
+&lt;DCFR 2003-07-17/44, art. 10; En vigueur : 01-09-2003&gt; § 1er. Le membre du personnel temporaire prioritaire [<sup>2</sup> victime d'un acte de violence ou de harcèlement]<sup>2</sup> peut solliciter, dans les conditions visées à la sous-section première, une nouvelle désignation dans un autre établissement relevant du même pouvoir organisateur.
+
+La demande de nouvelle désignation ne sera prise en considération que si la désignation initiale n'arrive pas à échéance avant l'écoulement d'un délai [<sup>1</sup> de trente jours]<sup>1</sup> à dater de l'introduction de la demande.
+
+La nouvelle désignation visée au présent article ne peut être d'une durée inférieure à la durée restant à courir dans le cadre de la désignation initiale, sauf accord du membre du personnel concerne. Toutefois, une désignation d'une durée inférieure à celle restant à courir dans le cadre de sa désignation initiale peut être imposée à la [<sup>2</sup> victime d'un acte de violence ou de harcèlement]<sup>2</sup> à condition que cet emploi soit disponible pour une durée de quinze semaines au moins et que le membre du personnel qui fait l'objet d'une telle désignation ne perde aucun droit pour la période qui représente la différence entre cette désignation et la durée de la désignation initiale.
+
+§ 2. Le pouvoir organisateur désigne le membre du personnel visé au § 1er
+
+a) dans tout emploi de la même fonction qui n'est pas occupé par un autre membre du personnel dans le respect des dispositions statutaires;
+
+ou
+
+b) dans tout emploi de la même fonction occupé par un membre du personnel qui accepte faire une permutation avec le membre du personnel[<sup>2</sup> victime d'un acte de violence ou de harcèlement]<sup>2</sup>.
+
+Le littera b) du présent paragraphe ne vaut que pour les désignations qui interviennent avant le 15 mai de l'année scolaire en cours.
+
+§ 3. A défaut d'avoir pu offrir au membre du personnel temporaire prioritaire visé à la présente sous-section une nouvelle désignation conformément au § 2, le pouvoir organisateur le désigne dans tout emploi de la même fonction déjà occupé par
+
+1° un membre du personnel temporaire non prioritaire à qui il impose de permuter;
+
+2° à défaut, par un membre du personnel temporaire prioritaire, dans l'ordre inverse du classement, à qui il impose de permuter.
+
+L'alinéa précédent ne vaut que pour les désignations qui interviennent avant le 15 mai de l'année scolaire en cours.
+
+§ 4. S'il n'a pas pu faire l'objet d'une désignation dans un autre emploi de la même fonction conformément aux §§ 2 et 3, et qu'il est désigné par un autre pouvoir organisateur dans un emploi de la même fonction, les services qu'il preste dans ce nouveau pouvoir organisateur sont également pris en compte dans le calcul de l'ancienneté de fonction auprès du pouvoir organisateur d'origine, à concurrence du nombre de jours qu'il restait à prester dans le cadre de la désignation initiale.
+
+§ 5. Durant la période de congé rémunéré dont bénéficie le membre du personnel visé par le présent article en incapacité de travail [<sup>3</sup> consécutive à l'acte de violence ou au harcèlement]<sup>3</sup>, celui-ci est réputé rendre des services effectifs. Sa prise en compte dans l'ancienneté de service est toutefois limitée à la durée de la désignation initiale.
+
+§ 6. L'année scolaire qui suit celle au cours de laquelle il était dans les conditions pour bénéficier de la priorité prévue au présent article, le membre du personnel temporaire prioritaire ne peut être à nouveau désigné dans l'établissement dans lequel il a été [<sup>4</sup> victime de l'acte de violence ou de harcèlement]<sup>4</sup>, sauf s'il en fait la demande et à condition qu'il ait été reconnu incapable de poursuivre sa (ses) fonction(s) dans l'établissement dans lequel il a été [<sup>2</sup> victime d'un acte de violence ou de harcèlement]<sup>2</sup> par le service externe de prévention et de protection au travail visé à l'arrêté royal du 27 mars 1998 relatif aux services externes pour la prévention et la protection au travail.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 36, 026; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2014-04-11/25, art. 43, 030; En vigueur : 29-06-2014&gt;
+
+(3)&lt;DCFR 2014-04-11/25, art. 44, 030; En vigueur : 29-06-2014&gt;
+
+(4)&lt;DCFR 2014-04-11/25, art. 45, 030; En vigueur : 29-06-2014&gt;
+
+#### Sous-section 4. &lt;Insérée par DCFR 2003-07-17/44, art. 10; En vigueur : 01-09-2003&gt; - Du changement d'affectation de circonstance, de la mutation et de la désignation dans un autre pouvoir organisateur des membres du personnel nommés à titre définitif
+
+##### Art. 36quinquies
+
+&lt;Inséré par DCFR 2003-07-17/44, art. 10; En vigueur : 01-09-2003&gt; § 1er. Le membre du personnel nommé à titre définitif [<sup>1</sup> victime d'un acte de violence ou de harcèlement]<sup>1</sup> peut solliciter, dans les conditions visées à la sous-section première, un changement d'affectation de circonstance dans un autre établissement relevant du même pouvoir organisateur.
+
+§ 2. Le pouvoir organisateur accorde le changement d'affectation de circonstance au membre du personnel visé au § 1er
+
+a) dans tout emploi de la même fonction qui n'est pas occupé par un autre membre du personnel;
+
+ou
+
+b) dans tout emploi de la même fonction occupé par un membre du personnel qui accepte faire une permutation avec le membre du personnel [<sup>1</sup> victime d'un acte de violence ou de harcèlement]<sup>1</sup>.
+
+Le littera b) du présent paragraphe ne vaut que pour les changements d'affectation de circonstance qui interviennent avant le 15 mai de l'année scolaire en cours.
+
+§ 3. A défaut d'avoir pu offrir au membre du personnel définitif visé à la présente sous-section un changement d'affectation de circonstance conformément au § 2, le pouvoir organisateur lui accorde ce changement d'affectation de circonstance dans tout emploi de la même fonction déjà occupé par
+
+1° un membre du personnel temporaire non prioritaire à qui il impose de permuter;
+
+2° à défaut, par un membre du personnel temporaire prioritaire, dans l'ordre inverse du classement, à qui il impose de permuter.
+
+L'alinéa précédent ne vaut que pour les changements d'affectation de circonstance qui interviennent avant le 15 mai de l'année scolaire en cours.
+
+§ 4. Le membre du personnel [<sup>1</sup> victime d'un acte de violence ou de harcèlement]<sup>1</sup> peut demander à un(d')autre(s) pouvoir(s) organisateur(s) à être muté dans un emploi définitivement vacant de la même fonction en application de l'article 29, § 1er.
+
+Le membre du personnel [<sup>1</sup> victime d'un acte de violence ou de harcèlement]<sup>1</sup> peut demander à un(d')autre(s) pouvoir(s) organisateur(s) à être désigné dans un emploi de la même fonction. S'il est désigné par ce pouvoir organisateur, il bénéficie dans ce cas d'un congé pour exercer provisoirement une autre fonction dans l'enseignement conformément à l'article 14, § 1er, 3° et 4°, de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, (spécialisé), moyen, technique, artistique et normal de l'Etat, des internats dépendants de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements [<sup>2</sup> ou, pour le personnel administratif, à l'article 23, § 1er, 2° et 3°, de l'arrêté royal du 8 décembre 1967 pris en application de l'article 3 de l'arrêté royal du 28 février 1967 déterminant les positions administratives du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat.]<sup>2</sup>. &lt;DCFR 2004-03-03/36, art. 256, 014; En vigueur : 01-09-2004&gt;
+
+La reconduction de cette affectation prioritaire se fait de la même manière jusqu'à ce que le membre du personnel remplisse les conditions de nomination définitive. Si, à ce moment, le membre du personnel ne pose pas sa candidature à la nomination définitive, le pouvoir organisateur est délié de l'obligation de reconduction.
+
+§ 5. L'année scolaire qui suit celle où le membre du personnel a été [<sup>1</sup> victime d'un acte de violence ou de harcèlement]<sup>1</sup>, le pouvoir organisateur lui accorde un changement d'affectation par priorité à tout autre changement d'affectation, à toute désignation et à toute nomination définitive d'un autre membre du personnel, dans tout emploi vacant de la même fonction à condition qu'il ait été reconnu incapable de poursuivre sa (ses) fonction( s) dans l'établissement dans lequel il a été [<sup>1</sup> victime d'un acte de violence ou de harcèlement]<sup>1</sup> par le service externe de prévention et de protection au travail visé à l'arrêté royal du 27 mars 1998 relatif aux services externes pour la prévention et la protection au travail.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/25, art. 43, 030; En vigueur : 29-06-2014&gt;
+
+(2)&lt;DCFR 2023-07-06/17, art. 8, 050; En vigueur : 01-01-2024&gt;
+
+#### Sous-section 5. [<sup>1</sup> - De l'assistance en justice et de l'assistance psychologique]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFR 2013-11-21/26, art. 66, 029; En vigueur : 01-09-2014&gt;
+
+##### Art. 36sexies
+
+[<sup>1</sup> § 1er. Dans la présente section, on entend par " victime " le " membre du personnel victime d'un acte de violence " tel que défini [<sup>2</sup> à l'article 36bis, § 1er, alinéa 1er, 3°]<sup>2</sup>.
+
+§ 2. L'assistance en justice et l'assistance psychologique ne sont octroyées que pour autant que la victime ait déposé une plainte auprès des autorités judiciaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-11-21/26, art. 67, 029; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFR 2014-04-11/25, art. 46, 030; En vigueur : 29-06-2014&gt;
+
+##### Art. 36septies
+
+[<sup>1</sup> § 1er. La victime peut bénéficier d'une assistance en justice visée au § 2 et/ou de l'assistance psychologique visée au § 3.
+
+§ 2. L'assistance en justice consiste en la prise en charge totale ou partielle des honoraires et des frais d'avocat et de procédure.
+
+§ 3. L'assistance psychologique consiste en la prise en charge de maximum douze séances de consultation auprès d'un psychologue et/ou d'un psychiatre dans le but de fournir une aide immédiate à la victime d'un acte de violence.
+
+§ 4. L'assistance en justice et l'assistance psychologique telles que définies aux paragraphes 1er et 2 ne sont octroyées que pour autant que la victime ait déposé plainte auprès des autorités judiciaires.
+
+§ 5. La victime recourt au prestataire de l'assistance de son choix.
+
+Le cas échéant, le Service concerné visé à l'article 37nonies lui communique, à sa demande et à titre indicatif, une liste de prestataires à contacter en cas d'agression.
+
+La victime communique au Service concerné le nom du/des prestataire(s) de son choix qui prend/prennent en charge son dossier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-11-21/26, art. 67, 028; En vigueur : 01-09-2014&gt;
+
+##### Art. 36octies
+
+[<sup>1</sup> § 1er. Sauf cas de force majeure dûment justifiée, la victime introduit la demande d'assistance en justice visée à l'article 37sexies, § 2, et/ou psychologique visée à l'article 37sexies, § 3, [<sup>2</sup> ...]<sup>2</sup> dans le mois qui suit la survenance des faits.
+
+Lorsque la victime exerce ses fonctions dans l'Enseignement obligatoire, la demande visée à l'alinéa 1er est introduite auprès de la Direction générale de l'Enseignement obligatoire. Celle-ci vérifie si les conditions de la présente section sont remplies.
+
+Lorsque la victime exerce sa fonction au sein d'un établissement d'enseignement supérieur non universitaire, la demande visée à l'alinéa 1er est introduite auprès de la Direction générale de l'Enseignement non obligatoire.
+
+§ 2. Dans le même délai, la victime envoie également par lettre recommandée avec accusé de réception, copie de la demande à son pouvoir organisateur.
+
+§ 3. La demande indique, dans la mesure du possible, les causes, les circonstances et les conséquences probables de l'acte de violence.
+
+§ 4. Le pouvoir organisateur dont relève la victime, fait parvenir son avis à la Direction générale de l'Enseignement obligatoire ou à la Direction générale de l'Enseignement non obligatoire, dans les trois jours ouvrables de la réception de la copie de la demande visée au § 1er.
+
+Il remet à la victime une copie de son avis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-11-21/26, art. 67, 028; En vigueur : 01-09-2014&gt;
+
+(2)&lt;ACF 2017-10-25/11, art. 6, 034; En vigueur : 22-04-2018&gt;
+
+##### Art. 36nonies
+
+[<sup>1</sup> § 1er. La décision d'octroi d'assistance est prise dans les 15 jours ouvrables qui suivent la réception de la demande visée à l'article 37septies, par la Direction générale de l'Enseignement obligatoire ou la Direction générale de l'Enseignement non obligatoire selon le cas.
+
+§ 2. En cas de refus, le membre du personnel ou, en cas de force majeure dûment justifié, son représentant, peut introduire, via la Direction générale de l'Enseignement obligatoire ou la Direction générale de l'Enseignement non obligatoire, un recours auprès du Ministre fonctionnel.
+
+Le recours est introduit [<sup>2</sup> ...]<sup>2</sup> dans les quinze jours ouvrables qui suivent la notification du refus d'octroi d'assistance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-11-21/26, art. 67, 028; En vigueur : 01-09-2014&gt;
+
+(2)&lt;ACF 2017-10-25/11, art. 6, 034; En vigueur : 22-04-2018&gt;
+
+##### Art. 36decies
+
+[<sup>1</sup> § 1er. La gestion de l'assistance en justice et psychologique relève du Service général d'Appui de la Direction générale de l'Audit, de la Coordination et de l'Appui.
+
+§ 2. Dans la présente section, par Service concerné, il faut entendre le Service visé au paragraphe 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-11-21/26, art. 67, 028; En vigueur : 01-09-2014&gt;
+
+##### Art. 36undecies
+
+[<sup>1</sup> § 1er. La prise en charge des honoraires et des frais d'avocat, de procédure et de consultation psychologique et/ou psychiatrique ne peut pas excéder, par sinistre, 3.718,40 euros.
+
+§ 2. A titre exceptionnel, sur demande dûment motivée, la prise en charge peut excéder le seuil prévu au paragraphe 1er. La victime ou, en cas de force majeure dûment justifié, son représentant, introduit cette demande dûment motivée auprès du Service concerné.
+
+§ 3. Les frais remboursés ou pris en charge, totalement ou partiellement, soit en vertu d'une autre disposition légale ou réglementaire, soit en vertu d'un contrat d'assurance souscrit par la victime ou par tout tiers, ne donnent pas lieu à une intervention.
+
+§ 4. La victime communique au Service concerné les pièces justifiant les dépenses. A cet effet, sont communiqués, notamment, les citations, assignations et généralement tous les actes judiciaires dans les 10 jours ouvrables de leur remise ou signification.
+
+§ 5. Le Service concerné apprécie les états de frais et d'honoraires visés aux paragraphes 1 et 2. Ce Service peut refuser ou interrompre son intervention lorsqu'il juge :
+
+1° que la thèse de la victime n'est pas défendable;
+
+2° que la proposition transactionnelle faite par le tiers est équitable et sérieuse;
+
+3° qu'un recours contre une décision judiciaire intervenue ne présente pas de chance sérieuse de succès.
+
+Toutefois, les frais ou honoraires pour lesquels le Service concerné a refusé ou interrompu son intervention en application de l'alinéa précédent sont pris en charge conformément au présent titre lorsque la victime obtient gain de cause par une décision définitive non susceptible de recours ordinaire ou extraordinaire.
+
+La décision du Service concerné de refuser ou d'interrompre son intervention est susceptible de recours auprès du Ministre ayant la Fonction publique dans ses attributions dans un délai de vingt jours ouvrables à dater de la réception de ladite décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-11-21/26, art. 67, 028; En vigueur : 01-09-2014&gt;
+
+##### Art. 36duodecies
+
+[<sup>1</sup> Les crédits nécessaires à couvrir les dépenses générées par les assistances en justice et psychologiques sont inscrits au budget de la Communauté française dans le cadre des crédits octroyés au service concerné. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-11-21/26, art. 67, 028; En vigueur : 01-09-2014&gt;
+
+### Section 6. [<sup>1</sup> - Du mécanisme d'évaluation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 51, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 36duodecies/1.
+
+[<sup>1</sup> § 1er. Dans la présente section, pour les membres du personnel temporaires, il y a lieu d'entendre par " pouvoir organisateur ", les autorités visées à l'article 27bis.
+
+Pour les membres du personnel définitifs, le pouvoir organisateur visé dans la présente section est l'autorité qui exerce le pouvoir de nomination.
+
+§ 2. Dans la présente section, toute notification de document, de décision ou de convocation se fait par courrier recommandé avec accusé de réception ou par une remise de la main à la main avec accusé de réception.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 52, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 36duodecies/2.
+
+[<sup>1</sup> § 1er. Une évaluation ne peut avoir lieu qu'une fois par année scolaire.
+
+§ 2. Toute première évaluation doit être précédée d'un plan de développement des compétences professionnelles et d'un entretien de clôture tels que visés à la section 3 du Chapitre 9 du titre Ier du livre 6 du Code de l'enseignement fondamental et de l'enseignement secondaire et à la section 3 du chapitre Ibis du décret du 30 juin 1998 relatif à la formation en cours de carrière et au mécanisme de soutien et de développement des compétences professionnelles des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement de promotion sociale ou à la section 3 du chapitre Ibis du décret du 15 mars 1999 relatif à la formation en cours de carrière et au mécanisme de soutien et de développement des compétences professionnelles des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française.
+
+§ 3. Au plus tôt six mois après avoir communiqué ce plan de développement des compétences professionnelles au membre du personnel et pour autant que l'entretien de clôture visé à l'article 6.1.9-7, § 5 du Code de l'enseignement fondamental et de l'enseignement secondaire, à l'article 8.7, § 5 du décret du 30 juin 1998 relatif à la formation en cours de carrière et au mécanisme de soutien et de développement des compétences professionnelles des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation et des experts de l'enseignement de promotion sociale et à l'article 8/6 § 5 du décret du 15 mars 1999 relatif à la formation en cours de carrière et au mécanisme de soutien et de développement des compétences professionnelles des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française ait eu lieu, en cas de mauvaise volonté manifeste en lien avec ledit plan ou de carence manifeste et répétée à atteindre les objectifs identifiés avec le membre du personnel dans le cadre du plan de développement des compétences professionnelles, le directeur rédige un rapport motivé à destination du pouvoir organisateur afin qu'il procède à une évaluation du membre du personnel.
+
+Pour le calcul du délai de 6 mois précité, sont seuls pris en considération les services effectifs rendus pendant l'exercice de la fonction, en ce compris :
+
+\- les vacances annuelles, à l'exclusion des vacances d'été ;
+
+\- les congés prévus aux articles 5, 5bis, 6 et 7 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 52, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 36duodecies/3.
+
+[<sup>1</sup> § 1er. Cette évaluation est menée par le pouvoir organisateur sur la base du rapport du directeur visé à l'article 36duodecies/2, § 3.
+
+Pour mener l'évaluation, une des conditions suivantes doit être remplie par le pouvoir organisateur :
+
+a. Soit un membre du pouvoir organisateur est formé à cette fin via la formation visée à l'article 132 du décret du 20 juillet 2023 relatif au soutien, au développement des compétences professionnelles et à l'évaluation des personnels de l'enseignement ;
+
+b. Soit un membre du pouvoir organisateur est un expert en pédagogie ou en ressources humaines ;
+
+c. Soit le pouvoir organisateur se fait assister par un expert en pédagogie ou en ressources humaines.
+
+§ 2. Le membre du personnel doit avoir été entendu préalablement à l'attribution de sa mention d'évaluation, par le pouvoir organisateur. La convocation doit lui être notifiée cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'entretien d'évaluation, le membre du personnel peut se faire assister par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentative.
+
+§ 3. A l'issue de l'évaluation, le pouvoir organisateur rédige un rapport d'évaluation, qui débouche sur une mention " favorable " ou " défavorable " et est formalisé selon le document visé à l'article 36duodecies/5 ainsi que notifié au membre du personnel.
+
+La mention d'évaluation est motivée sur la base des éléments :
+
+\- du rapport du directeur ;
+
+\- du plan de développement des compétences professionnelles ;
+
+\- de l'entretien d'évaluation.
+
+En l'absence de rapport d'évaluation, tout membre du personnel est réputé bénéficier de la mention " favorable ".
+
+§ 4. En cas d'évaluation débouchant sur la mention " défavorable ", un entretien entre, d'une part, le pouvoir organisateur et/ou le directeur à qui il donne délégation et, d'autre part, le membre du personnel est fixé afin de mettre en place un plan d'accompagnement individualisé, basé sur les éléments évoqués lors de l'évaluation. Celui-ci détermine les objectifs que le membre du personnel doit atteindre pour obtenir une mention favorable lors de l'évaluation suivante. Un maximum de 4 objectifs peut être fixé.
+
+Le plan d'accompagnement individualisé donne lieu à un entretien de clôture.
+
+L'entretien de clôture fait l'objet d'un compte-rendu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 52, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 36duodecies/4.
+
+[<sup>1</sup> § 1. Après un délai de minimum six mois d'exercice de la fonction entre la communication au membre du personnel du plan d'accompagnement individualisé convenu lors de l'évaluation avec mention défavorable précédente, une nouvelle évaluation peut avoir lieu.
+
+Ce délai doit permettre au membre du personnel de remédier aux carences constatées.
+
+Après une évaluation avec mention " défavorable ", l'évaluation suivante doit intervenir dans un délai maximum de deux ans suivant la communication du plan d'accompagnement individualisé faisant suite à la précédente évaluation. A défaut, elle est réputée favorable.
+
+Par dérogation à l'alinéa précédent, l'évaluation suivante peut intervenir dans un délai plus long en cas de prolongation du plan d'accompagnement individualisé telle que visée au paragraphe 3.
+
+§ 2. Pour le calcul des délais de six mois et de deux ans précités, sont seuls pris en considération les services effectifs rendus pendant l'exercice de la fonction, en ce compris :
+
+\- les vacances annuelles, à l'exclusion des vacances d'été ;
+
+\- les congés prévus aux articles 5, 5bis, 6 et 7 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.
+
+§ 3. A l'issue de l'évaluation, le pouvoir organisateur rédige un rapport d'évaluation, qui débouche sur une mention " favorable " ou " défavorable " ou, en cas d'un commun accord entre le membre du personnel et le Pouvoir organisateur sur la prolongation du plan d'accompagnement individualisé. Le rapport d'évaluation est formalisé selon le document visé à l'article 36duodecies/5 ainsi que notifié au membre du personnel.
+
+La prolongation du plan d'accompagnement individualisé est de minimum 3 mois et de maximum un an.
+
+Le membre du personnel doit avoir été entendu préalablement à l'attribution de sa mention d'évaluation, par le pouvoir organisateur. La convocation doit lui être notifiée cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'entretien d'évaluation, le membre du personnel peut se faire assister par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentative.
+
+La mention d'évaluation est motivée sur la base des éléments du plan d'accompagnement individualisé.
+
+§ 4. En l'absence de rapport d'évaluation, tout membre du personnel est réputé bénéficier de la mention " favorable ".
+
+§ 5. En cas de prolongation du plan d'accompagnement individualisé, un entretien entre, d'une part, le pouvoir organisateur et/ou le directeur à qui il donne délégation et, d'autre part, le membre du personnel est fixé afin de mettre en place un plan d'accompagnement individualisé, basé sur les éléments évoqués lors de l'évaluation. Celui-ci reprend les objectifs du plan d'accompagnement individualisé précédent que le membre du personnel doit atteindre pour obtenir une mention favorable lors de l'évaluation suivante. Un maximum de 4 objectifs peut être fixé.
+
+Le plan d'accompagnement individualisé donne lieu à un entretien de clôture.
+
+L'entretien de clôture fait l'objet d'un compte-rendu.
+
+§ 6. Après une prolongation de plan d'accompagnement individualisé, une nouvelle évaluation a lieu endéans un délai de minimum trois mois et un délai maximum d'un an d'exercice de la fonction à partir de la communication au membre du personnel du plan d'accompagnement individualisé adapté à la suite de la prolongation du plan d'accompagnement individualisé.
+
+A défaut, elle est réputée favorable.
+
+Ce délai doit permettre au membre du personnel de remédier aux carences constatées dans le cadre de l'évaluation précédente.
+
+§ 7. Pour le calcul des délais de trois mois et un an précités, sont seuls pris en considération les services effectifs rendus pendant l'exercice de la fonction, en ce compris :
+
+\- les vacances annuelles, à l'exclusion des vacances d'été ;
+
+\- les congés prévus aux articles 5, 5bis, 6 et 7 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.
+
+§ 8. Le rapport d'évaluation faisant suite à une prolongation de plan d'accompagnement individualisé est rédigé par le pouvoir organisateur. Il débouche sur une mention " favorable " ou " défavorable " et est formalisé selon le document visé à l'article 36duodecies/5 ainsi que notifié au membre du personnel.
+
+La mention d'évaluation est motivée sur la base des éléments du plan d'accompagnement individualisé.
+
+Le membre du personnel doit avoir été entendu préalablement à l'attribution de sa mention d'évaluation par le pouvoir organisateur. La convocation doit lui être notifiée cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'entretien d'évaluation, le membre du personnel peut se faire assister par un défenseur choisi parmi les membres du personnel des établissements d'enseignement officiel subventionné, en activité de service ou pensionnés, ou par un représentant d'une organisation syndicale représentative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 52, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 36duodecies/5.
+
+[<sup>1</sup> Le gouvernement fixe le modèle de rapport de la direction à destination du pouvoir organisateur, de plan d'accompagnement individualisé et de rapport d'évaluation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 52, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 36duodecies/6.
+
+[<sup>1</sup> La répétition de deux mentions " défavorable " consécutives sur deux années scolaires distinctes, et devenues définitives après épuisement des procédures devant la chambre de recours, telles que visées à l'article 36duodecies/7, a pour conséquence :
+
+\- la fin de fonction d'office dans la fonction considérée ;
+
+\- la perte de priorité pour tout nouvel emploi dans la fonction considérée au sein du même pouvoir organisateur au cours de la même année scolaire et lors des années scolaires suivantes. Il la recouvre néanmoins s'il est recruté à nouveau ultérieurement par ce même pouvoir organisateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 52, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 36duodecies/7.
+
+[<sup>1</sup> § 1. Le membre du personnel qui se voit attribuer une mention " défavorable " peut, dans les dix jours ouvrables qui suivent la réception de ce rapport, introduire, un recours devant la Chambre de recours visée au chapitre X. Le membre du personnel qui fait usage de son droit de recours en notifie immédiatement une copie à son pouvoir organisateur. Ce recours est suspensif.
+
+§ 2. Lorsque la mention défavorable est liée, en tout ou en partie, à un objectif qui porte sur la compétence pédagogique du membre du personnel, la chambre de recours peut faire appel au Service général de l'Inspection en sa qualité d'expert, sur des aspects techniques relatifs aux dimensions disciplinaires et/ou didactiques.
+
+Le président de la Chambre invite alors un représentant du Service général de l'Inspection, soit d'initiative, soit à la demande d'un ou plusieurs membres, soit à la demande du membre du personnel concerné par le recours.
+
+§ 3. Lors de l'audition, le membre du personnel peut se faire assister par un avocat, par un défenseur choisi parmi les membres du personnel des établissements d'enseignement officiel subventionné, en activité de service ou pensionnés, ou par un représentant d'une organisation syndicale représentative.
+
+L'audition fait l'objet d'un procès-verbal.
+
+La procédure se poursuit valablement lorsque le membre du personnel dûment convoqué ne se présente pas à l'audition.
+
+§ 4. L'avis est donné après un vote secret. En cas d'avis rendu à l'unanimité ou à la majorité simple des voix plus une, l'avis de la Chambre de recours est contraignant. En cas de parité des voix uniquement, le président décide. Dans ce cas, l'avis de la chambre de recours n'est pas contraignant.
+
+La Chambre de recours donne son avis au pouvoir organisateur dans un délai de 45 jours à partir de la date de réception du recours. L'avis de la Chambre de recours doit indiquer si, sur base des éléments qui lui sont soumis, la mention attribuée au membre du personnel est justifiée ou ne l'est pas. L'avis de la Chambre de recours ne propose pas d'alternative à la décision du pouvoir organisateur.
+
+§ 5. Le pouvoir organisateur prend sa décision dans un délai de 30 jours à partir de la réception de l'avis visé à l'alinéa précédent et notifie sa décision à la Chambre de recours et au membre du personnel. Le cas échéant, le pouvoir organisateur indique les raisons pour lesquelles l'avis de la Chambre de recours n'a pas été suivi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 52, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 36duodecies/8.
+
+[<sup>1</sup> § 1. Le pouvoir organisateur qui envisage une procédure pouvant conduire à l'attribution d'une mention d'évaluation " défavorable " à un délégué syndical dans le cadre de la procédure fixée dans la présente section doit, sous peine de nullité, en informer préalablement la délégation syndicale si celle-ci est composée de plusieurs délégués, ainsi que l'organisation syndicale qui l'a désigné. Cette information se fait par lettre recommandée sortant ses effets le 3ème jour ouvrable suivante la date de son expédition.
+
+§ 2. L'organisation syndicale intéressée dispose d'un délai de 10 jours pour notifier conformément à l'article 36duodecies/1, § 2au pouvoir organisateur, avec copie au président de la Commission paritaire centrale compétente, qu'elle considère que la mesure envisagée est inspirée par des motifs inhérents à l'exercice du mandat syndical et peut demander la tenue d'un bureau de conciliation. Le délai de 10 jours prend cours le jour où la lettre recommandée envoyée par le pouvoir organisateur sort ses effets. Toutefois, le délai de 10 jours est suspendu du 15 juillet au 15 août.
+
+§ 3. L'absence de réaction de l'organisation syndicale concernée dans le délai imparti, signifie dans son chef qu'elle considère que la mesure envisagée n'est pas inspirée par des motifs inhérents à l'exercice du mandat syndical.
+
+§ 4. A l'expiration du délai de 10 jours, le pouvoir organisateur peut poursuivre la procédure d'attribution d'une mention d'évaluation " défavorable ".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 52, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 36duodecies/9.
+
+[<sup>1</sup> Dans le cadre des entretiens et évaluations visés à la présente section, le membre du personnel et son évaluateur sont tenus au respect des devoirs suivants :
+
+a) la discrétion ;
+
+b) le respect mutuel.
+
+En outre, l'évaluateur est tenu de :
+
+a) motiver, de manière adéquate et constructive, ses instructions/conseils/échanges avec le membre du personnel ainsi que la mention d'évaluation ;
+
+b) soutenir le membre du personnel dans l'atteinte de ses objectifs;
+
+c) respecter les devoirs d'impartialité et d'objectivité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 52, 056; En vigueur : 31-08-2026&gt;
+
+## CHAPITRE IV. - Fonctions de sélection.
+
+### Section 1. [<sup>1</sup> Dispositions générales ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/22, art. 12, 035; En vigueur : 01-09-2018&gt;
+
+##### Art. 37
+
+Un pouvoir organisateur procède à une nomination à titre définitif dans un emploi vacant d'une fonction de sélection sauf :
+
+1° s'il est tenu, en vertu de la réglementation relative à la mise en disponibilité par défaut d'emploi et à la réaffectation, d'attribuer cet emploi à un membre du personnel mis en disponibilité;
+
+2° s'il a déjà attribué l'emploi par changement d'affectation conformément aux dispositions prévues à l'article 38.
+
+(3° s'il a déjà attribué l'emploi par application des dispositions prévues à l'article 29bis.) &lt;DCFR 2007-02-02/52, art. 69, 020; En vigueur : 01-09-2007&gt;
+
+##### Art. 38
+
+Le pouvoir organisateur qui a un emploi vacant à conférer peut accorder un changement d'affectation à l'un de ses membres du personnel titulaire de la fonction de sélection à laquelle appartient l'emploi vacant. Le changement d'affectation ne peut s'opérer que dans les conditions fixées à l'article 29, § 2.
+
+##### Art. 39
+
+Les nominations ou changements d'affectation ne sont pas permis dans un emploi faisant partie d'un établissement, d'une section, d'une implantation, d'un degré, [<sup>1</sup> d'un cycle, d'une autre subdivision ou d'un établissement secondaire dont dépend le centre de technologies avancées qui ]<sup>1</sup>, en application des règles de rationalisation, est en voie de fermeture progressive ou qui ne peut être subventionné que pour une période limitée.
+
+----------
+
+(1)&lt;DCFR 2018-07-11/22, art. 13, 035; En vigueur : 01-09-2018&gt;
+
+### Section 2. [<sup>1</sup> Conditions d'accès aux fonctions de sélection à l'exception de la fonction de coordonnateur de centre de technologies avancées [<sup>2</sup> et de la fonction de coordonnateur de pôle territoria]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/22, art. 14, 035; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2021-06-17/29, art. 35, 042; En vigueur : 01-09-2021&gt;
+
+##### Art. 39bis
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 71; En vigueur : 01-09-2007&gt; § 1er.[<sup>1</sup> Le pouvoir organisateur qui doit désigner à titre temporaire pour plus de 15 semaines un membre du personnel dans une fonction de sélection]<sup>1</sup> :
+
+1° consulte la commission paritaire locale sur le profil de la fonction de sélection à pourvoir;
+
+2° reçoit des membres du personnel toute information que ceux-ci jugent utile de lui communiquer en vue de la [<sup>1</sup> désignation à titre temporaire]<sup>1</sup>.
+
+§ 2. [<sup>1</sup> Le pouvoir organisateur, après application du § 1er :
+
+1° arrête le profil de la fonction de sélection à pourvoir en tenant compte des besoins spécifiques liés à son projet éducatif et pédagogique ainsi que des caractéristiques propres de l'école dans laquelle le poste est à pourvoir.
+
+Au-delà de compétences comportementales et techniques au choix du pouvoir organisateur, le profil de fonction reprend en tout cas les compétences comportementales suivantes :
+
+a) analyser l'information;
+
+b) résoudre des problèmes;
+
+c) travailler en équipe;
+
+d) s'adapter;
+
+e) faire preuve de fiabilité;
+
+f) avoir le sens de l'écoute et de la communication.
+
+Il reprend aussi les critères principaux de sélection des candidats et la pondération attribuée à chacun d'eux. Il peut comprendre des conditions de désignation complémentaires, soit obligatoires, soit constituant un atout pour le poste à pourvoir;
+
+2° lance un appel à candidatures selon les formes visées à l'article 52quinquies/1.]<sup>1</sup>
+
+[<sup>1</sup> § 3. Le pouvoir organisateur procède à la désignation après avoir suivi la procédure de sélection décrite à l'article 52quinquies/3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 40, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 40
+
+Nul ne peut être nommé à une fonction de sélection s'il ne répond, au moment de la nomination, aux conditions suivantes :
+
+[<sup>3</sup> 1° avoir acquis une ancienneté de service de six ans au sein de l'enseignement organisé ou subventionné par la Communauté française, calculée selon les modalités fixées à l'article 34
+
+2° avoir exercé cet emploi durant 600 jours, calculés selon les modalités définies à l'article 34;
+
+3° avoir suivi au préalable une formation spécifique, sanctionnée par une attestation de réussite;
+
+4° avoir répondu à l'appel à candidatures visé à l'article 39bis.]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>1</sup> Pour les fonctions de sélection du personnel auxiliaire d'éducation, un membre du personnel recruté par le pouvoir organisateur en vertu de l'article 44, § 5, peut également être nommé à titre définitif dans ladite fonction s'il répond aux conditions suivantes :
+
+1° [<sup>2</sup> ...]<sup>2</sup>
+
+2° Jouir des droits civils et politiques;
+
+3° Etre porteur d'un titre de capacité visé à l'article 44, [<sup>3</sup> ...]<sup>3</sup>;
+
+4° Satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+5° Etre de conduite irréprochable;
+
+6° Satisfaire aux lois sur la milice;
+
+7° Compter, au sein du pouvoir organisateur, 600 jours d'ancienneté de service répartis sur trois années scolaires au moins, dont 300 jours dans la fonction auprès du pouvoir organisateur répartis sur deux années scolaires au moins.
+
+Peuvent être pris en considération dans les 600 jours d'ancienneté de service les services prestés dans la catégorie du personnel administratif.
+
+8° [<sup>3</sup> ...]<sup>3</sup>
+
+9° Avoir répondu à l'appel aux candidats visé à l'article 39bis;
+
+10° Avoir suivi une formation spécifique sanctionnée par un certificat [<sup>3</sup> de réussite]<sup>3</sup>;
+
+11° Ne pas avoir fait l'objet d'un rapport défavorable définitif établi avant le 1er mai par le pouvoir organisateur ou son délégué, conformément à l'article 30, § 1er, alinéa 3, du présent décret.
+
+Le membre du personnel désigné à titre temporaire dans une fonction de sélection du personnel auxiliaire d'éducation en vertu [<sup>3</sup> de l'article 42]<sup>3</sup>, détenteur d'un titre de capacité visé à l'article 44, [<sup>3</sup> ...]<sup>3</sup>, pour la fonction considérée peut bénéficier de l'[<sup>3</sup> alinéa 2]<sup>3</sup> du présent article si celui-ci lui permet d'accéder plus rapidement à la nomination à titre définitif.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/92, art. 36, 025; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2013-06-20/18, art. 26, 027; En vigueur : 27-07-2013&gt;
+
+(3)&lt;DCFR 2019-03-14/20, art. 41, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 41
+
+Nul ne peut être nommé dans une fonction de sélection si l'emploi de cette fonction n'est pas occupé en fonction principale.
+
+##### Art. 42
+
+[<sup>1</sup> § 1er. Une fonction de sélection peut être confiée temporairement à un membre du personnel remplissant toutes les conditions suivantes, au moment de la désignation :
+
+1° avoir acquis une ancienneté de service de trois ans au sein de l'enseignement organisé ou subventionné par la Communauté française, dans une des fonctions de la catégorie en cause, calculée selon les modalités fixées à l'article 34;
+
+2° être titulaire, avant cette désignation d'une ou de plusieurs fonctions donnant accès à la fonction de sélection à conférer, conformément à l'article 101 du décret du 2 février 2007 fixant le statut des directeurs, dans un pouvoir organisateur de l'enseignement subventionné ou organisé par la Communauté française;
+
+3° être porteur d'un titre de capacité conformément à l'article 101 précité;
+
+4° avoir répondu à l'appel à candidatures visé à l'article 39bis.
+
+Pendant cette période le membre du personnel reste, le cas échéant, titulaire de l'emploi dans lequel il est nommé ou engagé à titre définitif.
+
+Le membre du personnel définitif dans une fonction de sélection qui postule dans un autre emploi de la même fonction est réputé remplir les conditions d'accès à titre temporaire, énumérées aux 1° à 3° de l'alinéa 1er pour ladite fonction. Pour sa nomination à titre définitif, il sera également réputé remplir les conditions 1° et 3° de l'article 40, alinéa 1er.
+
+§ 2. Par dérogation aux conditions fixées au § 1er, pour les fonctions de directeur adjoint, de directeur adjoint de l'enseignement secondaire inférieur [<sup>2</sup> , directeur adjoint d'une école maternelle, directeur adjoint d'une école primaire ou fondamentale]<sup>2</sup> ou de directeur adjoint de l'enseignement secondaire artistique à horaire réduit, le pouvoir organisateur peut confier temporairement l'exercice de ladite fonction à un candidat remplissant les conditions suivantes :
+
+1° être porteur d'un [<sup>2</sup> titre de niveau bachelier]<sup>2</sup> au moins; dans l'enseignement secondaire artistique à horaire réduit, les membres du personnel enseignant des disciplines pour lesquelles n'existe pas de formation délivrant un titre de niveau supérieur du 1er degré, peuvent se voir confier l'exercice de la fonction de directeur adjoint pour autant qu'ils soient porteurs d'un des titres visés aux articles 105 à 108, point a) ou b), du décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française;
+
+2° être porteur d'un des titres pédagogiques listés à l'article 100 du décret du 2 février 2007 précité;
+
+3° avoir une ancienneté de service de 3 ans dans l'enseignement organisé ou organisé par la Communauté française;
+
+4° avoir répondu à l'appel à candidatures visé à l'article 39bis.
+
+Remplit les conditions 1° et 2°, le candidat qui possède un diplôme constitutif à la fois d'un titre pédagogique et d'un titre du niveau supérieur du 1er degré au moins.
+
+§ 3. [<sup>3</sup> Un pouvoir organisateur qui atteste avoir lancé un appel à candidatures et n'avoir pas reçu de candidature valable après ce premier appel, peut lancer un second appel à candidatures pour recruter :
+
+\- un directeur adjoint ne remplissant pas la condition visée au 3° du § 2 ;
+
+\- un éducateur-économe ou un secrétaire de direction ne remplissant pas la condition 1° visée au § 1er, à condition d'avoir lancé un premier appel aux candidats remplissant les conditions visées au § 1er, alinéa 1er, et aux candidats remplissant les conditions visées à l'article 44, alinéa 1er.]<sup>3</sup>
+
+Si la personne désignée dans l'une des fonctions visées au paragraphe 2, alinéa 1er, n'exerce pas de fonction dans l'enseignement organisé ou subventionné par la Communauté française au moment de son entrée en fonction, elle ne sera désignée que si elle rencontre également les conditions suivantes :
+
+1° jouir des droits civils et politiques;
+
+2° satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+3° être de conduite irréprochable;
+
+4° satisfaire aux lois sur la milice.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-02-04/17, art. 23, 041; En vigueur : 03-02-2021&gt;
+
+(3)&lt;DCFR 2025-11-20/11, art. 24, 053; En vigueur : 01-01-2026&gt;
+
+##### Art. 42bis
+
+[<sup>1</sup> [<sup>2</sup> Par dérogation à l'article 42, § 1er, alinéa 1er, 1° et 4°, les conditions d'ancienneté et de l'appel à candidatures ne sont pas exigées pour toute désignation d'une durée égale ou inférieure à quinze semaines. Par dérogation à l'article 42, § 2, alinéa 1er, 3° et 4°, les conditions de l'appel à candidatures et de l'ancienneté ne sont pas exigées pour toute désignation d'une durée égale ou inférieure à quinze semaines. Par ailleurs, les autorités visées à l'article 27bis sont habilitées à effectuer ces désignations d'une durée égale ou inférieure à quinze semaines.]<sup>2</sup>
+
+Cette désignation pour 15 semaines maximum peut être renouvelée pour autant que la durée totale de désignation n'excède pas 12 mois.
+
+Si l'absence du titulaire de la fonction se prolonge, le pouvoir organisateur lance un appel à candidatures au plus tard le dernier jour de la période de désignation visée à l'alinéa précédent.
+
+Par dérogation à l'alinéa 2, la désignation visée à l'alinéa 1er est prolongée pendant la période entre l'appel à candidatures et la désignation d'un candidat.
+
+Le pouvoir organisateur désigne un candidat dans les trois mois qui suivent l'appel à candidatures. A défaut, au terme de ces trois mois, l'emploi n'est plus subventionné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 43, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2025-11-20/11, art. 25, 053; En vigueur : 01-01-2026&gt;
+
+##### Art. 43
+
+[<sup>1</sup> § 1er. Lorsque l'emploi est définitivement vacant, le membre du personnel temporaire est nommé à titre définitif dans la fonction de sélection au terme d'un délai de deux ans s'il remplit les conditions de l'article 40, alinéa 1er ou alinéa 3, ou dès qu'il remplit ces dernières.
+
+Lorsqu'au terme de ce délai de 2 ans, l'emploi est temporairement vacant, le membre du personnel remplissant toutes les conditions de l'article 40, alinéa 1er ou alinéa 3, est nommé à titre définitif dès que l'emploi devient vacant.
+
+§ 2. Le membre du personnel qui s'est vu confier temporairement une fonction de sélection en application de l'article 42 peut, le cas échéant, être déchargé de ladite fonction par le pouvoir organisateur conformément à l'article 44bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 44, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 44
+
+[<sup>1</sup> Pour la catégorie du personnel auxiliaire d'éducation, le pouvoir organisateur peut, dans le cadre de l'application des articles du présent chapitre, mettre en concurrence la candidature des membres du personnel répondant aux conditions de l'article 42, § 1er, avec celle de personnes répondant aux conditions suivantes :
+
+1° jouir des droits civils et politiques;
+
+2° être porteur d'un des titres de capacité suivants :
+
+a) pour la fonction d'éducateur-économe : un titre du niveau supérieur du premier degré au moins à orientation économique, commerciale, comptable ou en gestion;
+
+b) pour la fonction de secrétaire de direction : un titre du niveau supérieur du premier degré au moins à orientation secrétariat, en droit ou en administration. Le Gouvernement arrête la liste des titres de capacité admis dans ce cadre.
+
+3° satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+4° être de conduite irréprochable;
+
+5° satisfaire aux lois sur la milice;
+
+6° avoir répondu à l'appel à candidatures.
+
+La personne recrutée en vertu de l'alinéa 1er est désignée à titre temporaire dans la fonction d'éducateur-économe ou de secrétaire de direction respectivement auprès du pouvoir organisateur, jusqu'à ce qu'elle remplisse les conditions de l'article 40, alinéa 2, ou le cas échéant de l'article 40, alinéa 1er, et si entre-temps, le pouvoir organisateur ne l'a pas déchargée de cette fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 44, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 44bis
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 73; En vigueur : 01-09-2007&gt; § 1er. Toute désignation temporaire dans un emploi de sélection est établie par écrit, en reprenant les mentions visées à l'article 21, à l'exception du 7°.
+
+§ 2. Le pouvoir organisateur ne peut procéder à une désignation temporaire dans un emploi de sélection s'il est tenu, par les dispositions relatives à la réaffectation, de conférer cet emploi à un membre du personnel mis en disponibilité par défaut d'emploi.
+
+§ 3. Une désignation temporaire dans un emploi de sélection prend fin :
+
+a) d'un commun accord;
+
+b) par décision du pouvoir organisateur suite à la procédure visée au § 4 du présent article ou pour ce qui concerne le membre du personnel de l'enseignement de plein exercice suite à l'application des dispositions du chapitre Vbis.
+
+c) ou par application de l'article 22, alinéa 1er.
+
+Toutefois, la fin de l'année scolaire est sans incidence sur la désignation temporaire dans un emploi de sélection.
+
+§ 4. Moyennant un préavis de quinze jours, le pouvoir organisateur soit sur proposition du directeur, soit d'initiative peut mettre fin à la désignation d'un membre du personnel désigné à titre temporaire dans une fonction de sélection.
+
+Préalablement à la notification de toute décision de fin de désignation, le membre du personnel doit avoir été invité à se faire entendre par le pouvoir organisateur.
+
+La convocation à l'audition, ainsi que les motifs en raison desquels le pouvoir organisateur envisage de mettre fin à la désignation du membre du personnel lui sont notifiés cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'audition, le membre du personnel peut se faire assister ou représenter par un avocat, par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentant les membres du personnel de l'enseignement officiel subventionné affiliée à des organisations siégeant au Conseil national du Travail. L'audition fait l'objet d'un procès-verbal. La procédure se poursuit valablement lorsque le membre du personnel dûment convoqué ne se présente pas à l'audition ou n'y est pas représenté.
+
+##### Art. 44ter
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 73; En vigueur : 01-09-2007&gt; Tout membre du personnel peut renoncer à sa nomination en vertu de l'article 40 dans les six cents jours qui suivent sa première entrée en fonction dans une fonction de sélection. Dans ce cas, il réintègre [<sup>1</sup> , le cas échéant,]<sup>1</sup> à titre définitif sa fonction d'origine.
+
+[<sup>1</sup> Le pouvoir organisateur peut, pour assurer la continuité dans la fonction de sélection ou afin de ne pas perturber la stabilité des équipes pédagogiques, reporter la réintégration du membre du personnel dans sa fonction et son affectation d'origine de 15 semaines à dater de la demande du membre du personnel.
+
+Si, au-delà de la période visée à l'alinéa précédent, le poste n'a pas pu être pourvu, la réintégration peut encore être reportée de maximum 15 semaines de commun accord entre le pouvoir organisateur et le membre du personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 45, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 44quater
+
+[<sup>1</sup> Quand un membre du personnel est titulaire à titre définitif d'une charge incomplète dans une fonction de sélection, le pouvoir organisateur qui a un emploi définitivement vacant à conférer peut, par dérogation à l'article 39bis du présent décret, compléter la charge de son membre du personnel à sa demande, par une extension de son engagement à titre définitif dans la même fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-01-23/38, art. 90, 023; En vigueur : 01-02-2009&gt;
+
+### .Section 3. [<sup>1</sup> ]Dispositions particulières à la fonction de coordonnateur de centre de technologies avancées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/22, art. 15, 035; En vigueur : 01-09-2018&gt;
+
+##### Art. 44quinquies
+
+[<sup>1</sup> § 1er. Préalablement à toute déclaration de vacance d'emploi dans une fonction de coordonnateur de centre de technologies avancées, le Gouvernement arrête les compétences génériques du profil de la fonction de sélection à pourvoir.
+
+§ 2. Lorsqu'au sein d'un Pouvoir Organisateur, un emploi définitivement vacant de coordonnateur de centre de technologies avancées est à pourvoir :
+
+1° le Pouvoir Organisateur détermine les compétences techniques et spécifiques du profil de la fonction de sélection à pourvoir.
+
+Dans ce cadre, il consulte le Comité d'accompagnement du centre de technologies avancées dans lequel l'emploi est à pourvoir et selon le cas, l'instance de concertation locale ou, à défaut, la délégation syndicale de l'établissement dont relève l'emploi.
+
+Le Pouvoir Organisateur peut ajouter des critères complémentaires aux conditions de nomination à titre définitif visées à l'article 44sexies, § 1er ou § 2.
+
+2° le Pouvoir Organisateur lance un appel aux candidats selon les formes déterminées par le Gouvernement et sur proposition de la Commission paritaire centrale ;
+
+3° le Pouvoir Organisateur, compte tenu des critères fixés dans le profil de la fonction déterminé conformément au présent article, examine les candidatures répondant aux conditions de l'article 44quinquies, § 3 ou § 4.
+
+A compétences égales, le membre du personnel remplissant les conditions de l'article 44quinquies, § 3 bénéficie d'une priorité à la désignation à titre temporaire par rapport au membre du personnel remplissant les conditions de l'article 44quinquies, § 4.
+
+4° Après examen des candidatures conformément au 3°, le Pouvoir Organisateur choisit librement son candidat et désigne à titre temporaire le candidat ainsi sélectionné à l'issue de cette procédure.
+
+§ 3. Nul ne peut être désigné à titre temporaire dans une fonction de coordonnateur de centre de technologies avancées s'il ne répond, au moment de la désignation à titre temporaire, aux conditions suivantes :
+
+1° avoir acquis une ancienneté de service de six années au sein de l'enseignement organisé ou subventionné, dans une des fonctions de recrutement, de sélection ou de promotion de la catégorie du personnel directeur et enseignant visées à l'annexe I du décret du 2 février 2007 fixant le statut des directeurs, et calculée selon les modalités fixées à l'article 34 ;
+
+2° être nommé à titre définitif dans l'une de ces fonctions de recrutement, de sélection ou de promotion;
+
+3° être titulaire, à titre définitif d'une ou plusieurs fonction(s) comportant au moins la moitié du nombre minimum d'heures requis pour former une fonction à prestations complètes dans l'enseignement organisé ou subventionné ;
+
+4° exercer à titre définitif au sein de l'enseignement organisé ou subventionné une ou plusieurs fonctions donnant accès à la fonction de sélection à conférer et être porteur d'un titre de capacité conformément à l'article 101 du décret du 2 février 2007 fixant le statut des directeurs ;
+
+5° répondre aux critères du profil de fonction visé à l'article 44quinquies, § 2, 1° ;
+
+6° avoir répondu à l'appel aux candidats visé à l'article 44quinquies, § 2, 2°.
+
+§ 4. Peut également prétendre à une désignation à titre temporaire dans une fonction de coordonnateur de centre de technologies avancées le membre du personnel remplissant, au moment de la désignation à titre temporaire, les conditions suivantes :
+
+1° jouir des droits civils et politiques ;
+
+2° être porteur d'un des titres de capacité suivants :
+
+\- le certificat d'étude de 6ème année secondaire professionnelle, complété par une expérience professionnelle utile de 9 années, valorisée selon la procédure prévue aux articles 23 et 24 du Décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française, dans le domaine d'activité du centre de technologies avancées concerné par l'appel à candidatures visé à l'article 44quinquies, § 2, 2° ;
+
+\- le certificat d'étude secondaire supérieur complété par une expérience professionnelle utile de 6 années, valorisée selon la procédure prévue aux articles 23 et 24 du Décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française, dans le domaine d'activité du centre de technologies avancées concerné par l'appel à candidatures visé à l'article 44quinquies, § 2, 2° ;
+
+\- un titre supérieur du premier cycle tel que défini à l'article 69, 1er ou à l'article 70, § 1er du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études, complété par une expérience professionnelle utile de 3 années, valorisée selon la procédure prévue aux articles 23 et 24 du Décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française, dans le domaine d'activité du centre de technologies avancées concerné par l'appel à candidatures visé à l'article 44quinquies, § 2, 2° ;
+
+3° satisfaire aux dispositions légales et réglementaires relatives au régime linguistique ;
+
+4° être de conduite irréprochable ;
+
+5° satisfaire aux lois sur la milice ;
+
+6° répondre aux critères du profil de fonction visé à l'article 44quinquies, § 2, 1° ;
+
+7° avoir répondu à l'appel aux candidats visé à l'article 44quinquies, § 2, 2°. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/22, art. 16, 035; En vigueur : 01-09-2018&gt;
+
+##### Art. 44sexies
+
+[<sup>1</sup> § 1er. Le membre du personnel désigné à titre temporaire comme coordonnateur de centre de technologies avancées dans le respect de l'article 44quinquies est nommé à titre définitif dans cette fonction dès qu'il répond aux conditions fixées au présent article.
+
+§ 2. Nul ne peut être nommé à titre définitif dans une fonction de coordonnateur de centre de technologies avancées s'il ne répond, au moment de la nomination à titre définitif, outre aux conditions reprises à l'article 44quinquies, § 3, aux conditions suivantes :
+
+1° avoir été désigné à titre temporaire pendant une période ininterrompue de 600 jours suite à l'engagement effectué conformément à l'article 44quinquies, § 2, 4° ;
+
+2° avoir fait l'objet, dans les trois mois qui précèdent l'issue de cette période, d'une évaluation ayant conduit à l'attribution de la mention " favorable " par le Pouvoir Organisateur de l'établissement secondaire dont dépend le centre de technologies avancées dont le membre du personnel relève.
+
+§ 3. Pour la fonction de sélection de coordonnateur de centre de technologies avancées, un membre du personnel recruté par le Pouvoir Organisateur en vertu de l'article 44quinquies, § 4, peut également être nommé à titre définitif dans cette même fonction s'il répond, au moment de la nomination à titre définitif, aux autres conditions suivantes :
+
+1° avoir été désigné à titre temporaire pendant une période ininterrompue de 600 jours suite à l'engagement effectué conformément à l'article 44quinquies, § 2, 4° ;
+
+2° avoir fait l'objet, dans les trois mois qui précèdent l'issue de cette période, d'une évaluation ayant conduit à l'attribution de la mention " favorable " par le Pouvoir Organisateur de l'établissement secondaire dont dépend le centre de technologies avancées. "
+
+3° compter, dans l'enseignement subventionné, 600 jours d'ancienneté de service répartis sur trois années scolaires au moins, dont 300 jours dans la fonction auprès du Pouvoir Organisateur répartis sur deux années scolaires au moins ;
+
+4° occuper l'emploi en fonction principale
+
+§ 4. En cas d'évaluation défavorable à l'issue de la période mentionnée au § 2, 2° et au § 3, 2°, il est mis fin d'office aux fonctions du membre du personnel.
+
+A défaut d'évaluation réalisée dans ce délai, celle-ci est présumée favorable.
+
+§ 5. Le coordonnateur de centre de technologies avancées qui se voit attribuer une mention " défavorable " peut introduire par recommandé un recours écrit contre cette mention dans les dix jours de sa notification auprès de la chambre de recours créée par le chapitre X du présent décret.
+
+Les règles de procédure et de fonctionnement prévues par ces dispositions s'appliquent au recours organisé en vertu du présent paragraphe.
+
+La Commission paritaire centrale fixe le modèle de rapport d'évaluation et détermine les modalités selon lesquelles l'évaluation se déroule.
+
+Le membre du personnel qui introduit un recours contre une mention d'évaluation défavorable notifie immédiatement au Pouvoir Organisateur de l'établissement secondaire dont dépend le centre de technologies avancées dont il relève une copie de son recours.
+
+La Chambre de recours visée à l'alinéa 1er remet son avis au Pouvoir Organisateur de l'établissement secondaire dont dépend le centre de technologies avancées dont relève le membre du personnel dans un délai maximum de 45 jours calendrier à partir de la date de réception du recours. Le même Pouvoir Organisateur prend sa décision et attribue la mention d'évaluation au coordonnateur dans un délai maximum d'un mois à dater de la réception de l'avis.]<sup>1</sup>
+
+[<sup>2</sup> § 6. Les coordonnateurs de centre de technologies avancées nommés à titre définitif sont évalués selon les dispositions prévues à la section II du Chapitre Vbis du présent titre, applicables mutatis mutandis.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/22, art. 17, 035; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2023-07-20/44, art. 53, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 44septies
+
+[<sup>1</sup> Nul ne peut être nommé à une fonction de coordonnateur de centre de technologies avancées si l'emploi de cette fonction n'est pas occupé en fonction principale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/22, art. 18, 035; En vigueur : 01-09-2018&gt;
+
+##### Art. 44octies
+
+[<sup>1</sup> § 1er. La fonction de coordonnateur de centre de technologies avancées peut être confiée temporairement à un membre du personnel remplissant les conditions prévues à l'article 44quinquies, § 3, 1° à 6° ou § 4, 1° à 7° :
+
+1° en cas d'absence du titulaire de la fonction pour une durée de plus de quinze semaines ;
+
+2° ou dans le cas visé à l'article 39.
+
+Pendant cette période, le membre du personnel visé à l'article 44sexies, § 1er reste titulaire de l'emploi dans lequel il est nommé définitivement le cas échéant auprès de son Pouvoir Organisateur d'origine.
+
+§ 2. Par dérogation au § 1er, alinéa 1er, 1°, pour tout engagement d'une durée égale ou inférieure à quinze semaines, la condition visée à l'article 44quinquies, § 3, 6° ou § 4, 7° n'est pas exigée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/22, art. 19, 035; En vigueur : 01-09-2018&gt;
+
+##### Art. 44novies
+
+[<sup>1</sup> § 1er. Toute désignation temporaire dans un emploi de coordonnateur de centre de technologies avancées est établie par écrit, en reprenant les mentions visées à l'article 21, à l'exception du 7°.
+
+§ 2. Le Pouvoir Organisateur ne peut procéder à une désignation temporaire dans un emploi de coordonnateur de centre de technologies avancées s'il est tenu, par les dispositions relatives à la réaffectation, de conférer cet emploi à un membre du personnel mis en disponibilité par défaut d'emploi.
+
+§ 3. Une désignation temporaire dans un emploi de coordonnateur de centre de technologies avancées prend fin :
+
+a) d'un commun accord;
+
+b) par décision du Pouvoir Organisateur suite à la procédure visée au § 4 du présent article
+
+c) ou par application de l'article 22, alinéa 1er.
+
+Toutefois, la fin de l'année scolaire est sans incidence sur la désignation temporaire dans cet emploi de sélection.
+
+§ 4. Moyennant un préavis de quinze jours, le Pouvoir Organisateur peut mettre fin à la désignation d'un membre du personnel désigné à titre temporaire dans une fonction de coordonnateur de centre de technologies avancées.
+
+Préalablement à la notification de toute décision de fin de désignation, le membre du personnel doit avoir été invité à se faire entendre par le Pouvoir Organisateur.
+
+La convocation à l'audition, ainsi que les motifs en raison desquels le Pouvoir Organisateur envisage de mettre fin à la désignation du membre du personnel lui sont notifiés cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'audition, le membre du personnel peut se faire assister ou représenter par un avocat, par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentant les membres du personnel de l'enseignement officiel subventionné affiliée à des organisations siégeant au Conseil national du Travail.
+
+L'audition fait l'objet d'un procès-verbal.
+
+La procédure se poursuit valablement lorsque le membre du personnel dûment convoqué ne se présente pas à l'audition ou n'y est pas représenté.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/22, art. 20, 035; En vigueur : 01-09-2018&gt;
+
+### Section 4. [<sup>1</sup> Dispositions particulières à la fonction de coordonnateur de pôle territorial]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 36, 042; En vigueur : 01-09-2021&gt;
+
+##### Art. 44decies/1
+
+[<sup>1</sup> Nul ne peut être désigné à titre temporaire dans la fonction de coordonnateur de pôle territorial s'il ne répond au moment de la désignation à titre temporaire aux conditions suivantes :
+
+1° être nommé ou engagé à titre définitif dans une fonction de recrutement, de sélection ou de promotion de la catégorie du personnel directeur et enseignant, du personnel paramédical, du personnel social, du personnel psychologique et du personnel auxiliaire d'éducation au sein de l'enseignement organisé ou subventionné par la Communauté française, de niveau fondamental ou secondaire, ordinaire ou spécialisé ;
+
+2° être porteur d'un titre de niveau bachelier au moins ;
+
+3° répondre aux critères du profil de fonction visé à l'article 44decies/4, § 2 ;
+
+4° compter trois années d'ancienneté dans l'enseignement spécialisé ;
+
+5° avoir suivi une formation spécifique sanctionné par un certificat de réussite ou s'engager à suivre cette formation permettant d'en disposer dans les deux années de la prise de fonction ;
+
+6° avoir répondu à l'appel à candidatures visé à l'article 44decies/4.
+
+A défaut de candidat répondant aux conditions visées à l'alinéa 1er, le pouvoir organisateur peut engager un candidat répondant à toutes les conditions de l'alinéa 1er mais revêtant la qualité de membre du personnel engagé ou désigné à titre temporaire dans une fonction visée à l'alinéa 1er, 1°, ou de membre du personnel technique des centres psycho-médico-sociaux et/ou ne remplissant pas la condition visée au 4°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 37, 042; En vigueur : 01-09-2021&gt;
+
+##### Art. 44decies/2
+
+[<sup>1</sup> Le pouvoir organisateur nomme le coordonnateur de pôle à titre définitif dans l'emploi vacant qu'il occupe après l'expiration d'un délai de deux ans, éventuellement prolongé de six mois en application de l'article 52septdecies, § 2, alinéa 2, après que sa seconde ou, le cas échéant, troisième évaluation ait été clôturée, s'il remplit les conditions suivantes :
+
+1° être titulaire du certificat de la formation spécifique visé à l'article 44decies/1 ;
+
+2° ne pas avoir un rapport d'évaluation " défavorable ".
+
+Pour le calcul de la durée de deux ans, éventuellement prolongée de six mois, sont seuls pris en considération les services effectifs accomplis après la désignation, en ce compris les vacances annuelles, les congés prévus aux articles 5, 5bis [<sup>2</sup> , 6]<sup>2</sup> et 7 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, ainsi que les congés en vue de l'adoption et de la tutelle officieuse et les congés de maternité prévus respectivement, au chapitre IIbis et au chapitre XIII du même arrêté royal du 15 janvier 1974.]<sup>1</sup>
+
+[<sup>3</sup> Les coordonnateurs de pôles territoriaux nommés à titre définitif sont évalués selon les dispositions prévues à la section II du Chapitre Vbis du présent titre, applicables mutatis mutandis.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 37, 042; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFR 2023-07-20/47, art. 44, 049; En vigueur : 28-08-2023&gt;
+
+(3)&lt;DCFR 2023-07-20/44, art. 54, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 44decies/3
+
+[<sup>1</sup> Nul ne peut être nommé dans une fonction de coordonnateur de pôle territorial si l'emploi de cette fonction n'est pas occupé en fonction principale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 37, 042; En vigueur : 01-09-2021&gt;
+
+##### Art. 44decies/4
+
+[<sup>1</sup> § 1er. Le pouvoir organisateur qui doit désigner à titre temporaire pour plus de 15 semaines un membre du personnel dans la fonction de coordonnateur de pôle territorial :
+
+1° consulte la commission paritaire locale de l'école siège sur le profil de la fonction de sélection à pourvoir ;
+
+2° reçoit des membres du personnel de l'équipe pluridisciplinaire du pôle territorial toute information que ceux-ci jugent utile de lui communiquer en vue de la désignation à titre temporaire.
+
+§ 2. Le pouvoir organisateur, après application du § 1er :
+
+1° arrête le profil de la fonction de sélection de coordonnateur de pôle à pourvoir en tenant compte des besoins spécifiques liés pôle ainsi que des caractéristiques propres de l'école siège dans laquelle le poste est à pourvoir. Au-delà de compétences comportementales et techniques au choix du pouvoir organisateur, le profil de fonction reprend en tout cas les compétences comportementales suivantes :
+
+a) analyser l'information ;
+
+b) résoudre des problèmes ;
+
+c) travailler en équipe ;
+
+d) s'adapter ;
+
+e) faire preuve de fiabilité ;
+
+f) avoir le sens de l'écoute et de la communication.
+
+Il reprend aussi les critères principaux de sélection des candidats et la pondération attribuée à chacun d'eux. Il peut comprendre des conditions de désignation complémentaires, soit obligatoires, soit constituant un atout pour le poste à pourvoir ;
+
+2° lance un appel à candidatures selon les formes fixées par le gouvernement sur proposition de la Commission paritaire centrale compétente.
+
+§ 3. Le pouvoir organisateur procède à la désignation après avoir suivi la procédure de sélection décrite à l'article 52quinquies/3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 37, 042; En vigueur : 01-09-2021&gt;
+
+##### Art. 44decies/5
+
+[<sup>1</sup> § 1er. Lorsque le titulaire de la fonction est temporairement absent ou durant le temps nécessaire à une procédure d'appel à candidatures, le pouvoir organisateur peut désigner un membre du personnel remplissant les conditions visées à l'article 44decies/1 pour une durée égale ou inférieure à 15 semaines. Par dérogation à l'article 44decies/1, la condition de l'appel à candidatures n'est pas exigée.
+
+Par ailleurs, les autorités visées à l'article 27bis sont habilitées à effectuer ces désignations d'une durée égale ou inférieure à quinze semaines.
+
+Cette désignation pour 15 semaines maximum peut être renouvelée pour autant que la durée totale de désignation n'excède pas 12 mois.
+
+Si l'absence du titulaire de la fonction se prolonge, le pouvoir organisateur lance un appel à candidatures au plus tard le dernier jour de la période de désignation visée à l'alinéa précédent.
+
+Par dérogation à l'alinéa 3, la désignation visée à l'alinéa 1er est prolongée pendant la période entre l'appel à candidatures et la désignation d'un candidat.
+
+Le pouvoir organisateur désigne un candidat dans les trois mois qui suivent l'appel à candidatures. A défaut, au terme de ces trois mois, l'emploi n'est plus subventionné.
+
+§ 2. Toute désignation temporaire dans un emploi de coordonnateur de pôle territorial est établie par écrit, en reprenant les mentions visées à l'article 21, à l'exception du 7° § 2.
+
+§ 3. Le pouvoir organisateur ne peut procéder à une désignation temporaire dans un emploi de coordonnateur de pôle territorial s'il est tenu, par les dispositions relatives à la réaffectation, de conférer cet emploi à un membre du personnel mis en disponibilité par défaut d'emploi.
+
+§ 4. Une désignation temporaire dans un emploi de sélection prend fin :
+
+a) d'un commun accord ;
+
+b) par décision du pouvoir organisateur suite à la procédure visée au § 5 du présent article ;
+
+c) ou par application de l'article 22, alinéa 1er.
+
+Toutefois, la fin de l'année scolaire est sans incidence sur la désignation temporaire dans un emploi de coordonnateur de pôle territorial.
+
+§ 5. Moyennant un préavis de quinze jours, le pouvoir organisateur soit sur proposition du directeur, soit d'initiative peut mettre fin à la désignation d'un membre du personnel désigné à titre temporaire dans une fonction de coordonnateur de pôle territorial.
+
+Préalablement à la notification de toute décision de fin de désignation, le membre du personnel doit avoir été invité à se faire entendre par le pouvoir organisateur.
+
+La convocation à l'audition, ainsi que les motifs en raison desquels le pouvoir organisateur envisage de mettre fin à la désignation du membre du personnel lui sont notifiés cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'audition, le membre du personnel peut se faire assister ou représenter par un avocat, par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentant les membres du personnel de l'enseignement officiel subventionné affiliée à des organisations siégeant au Conseil national du Travail. L'audition fait l'objet d'un procès-verbal. La procédure se poursuit valablement lorsque le membre du personnel dûment convoqué ne se présente pas à l'audition ou n'y est pas représenté.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 37, 042; En vigueur : 01-09-2021&gt;
+
+## CHAPITRE V. [<sup>1</sup> - De l'accès à la fonction de promotion de chef de travaux d'atelier]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 46, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 45
+
+Un pouvoir organisateur procède à une nomination à titre définitif dans un emploi vacant d'une fonction de promotion sauf :
+
+1° s'il est tenu, en vertu de la réglementation relative à la mise en disponibilité par défaut d'emploi et à la réaffectation, d'attribuer cet emploi à un membre du personnel mis en disponibilité;
+
+2° s'il a déjà attribué l'emploi par changement d'affectation conformément aux dispositions prévues à l'article 46.
+
+(3° s'il a déjà attribué l'emploi par application des dispositions prévues à l'article 29bis.) &lt;DCFR 2007-02-02/52, art. 70, 020; En vigueur : 01-09-2007&gt;
+
+##### Art. 46
+
+Le pouvoir organisateur qui a un emploi vacant à conférer peut accorder un changement d'affectation à l'un des membres de son personnel titulaire de la fonction de promotion à laquelle appartient l'emploi vacant. Le changement d'affectation ne peut s'opérer que dans les conditions fixées à l'article 29, § 2.
+
+(Par dérogation à l'alinéa précédent, le membre du personnel titulaire d'une fonction de promotion ne peut demander de changement d'affectation qu'après avoir exercé ses fonctions dans l'emploi qu'il occupe durant un délai de trois ans.) &lt;DCFR 2007-02-02/52, art. 74, 020; En vigueur : 01-09-2007&gt;
+
+##### Art. 47
+
+Les nominations ou changements d'affectation ne sont pas permis dans un emploi faisant partie d'un établissement, d'une section, d'une implantation, d'un degré, d'un cycle ou d'une autre subdivision qui, en application des règles de rationalisation, est en fermeture progressive ou qui ne peut être subventionne que pour une période limitée.
+
+##### Art. 48
+
+La nomination à une fonction de promotion ne peut intervenir que si l'emploi est occupé en fonction principale.
+
+##### Art. 48bis
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 75; En vigueur : 01-09-2007&gt; § 1er. [<sup>1</sup> Le pouvoir organisateur qui doit désigner à titre temporaire pour plus de 15 semaines un membre du personnel dans la fonction de promotion de chef de travaux d'atelier]<sup>1</sup> :
+
+1° consulte la commission paritaire locale sur le profil de la fonction de promotion à pourvoir;
+
+2° reçoit des membres du personnel toute information que ceux-ci jugent utile de lui communiquer en vue de la [<sup>1</sup> désignation à titre temporaire]<sup>1</sup>.
+
+§ 2. [<sup>1</sup> Le pouvoir organisateur, après application du § 1er :
+
+1° arrête le profil de la fonction de promotion de chef de travaux d'atelier à pourvoir en tenant compte des besoins spécifiques liés à son projet éducatif et pédagogique ainsi que des caractéristiques propres de l'école dans laquelle le poste est à pourvoir.
+
+Au-delà de compétences comportementales et techniques au choix du pouvoir organisateur, le profil de fonction reprend en tout cas les compétences comportementales suivantes :
+
+a) analyser l'information;
+
+b) résoudre des problèmes;
+
+c) travailler en équipe;
+
+d) s'adapter;
+
+e) faire preuve de fiabilité;
+
+f) avoir le sens de l'écoute et de la communication.
+
+Il reprend aussi les critères principaux de sélection des candidats et la pondération attribuée à chacun d'eux. Il peut comprendre des conditions de désignation complémentaires, soit obligatoires, soit constituant un atout pour le poste à pourvoir.
+
+2° lance un appel à candidatures selon les formes visées à l'article 52quinquies/1.]<sup>1</sup>
+
+[<sup>1</sup> § 3. Le pouvoir organisateur procède à la désignation après avoir suivi la procédure de sélection décrite à l'article 52quinquies/3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 47, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 49
+
+Nul ne peut être nommé à une fonction de promotion s'il ne répond au moment de la nomination aux conditions suivantes :
+
+[<sup>1</sup> 1° avoir acquis une ancienneté de service de six ans au sein de l'enseignement organisé ou subventionné par la Communauté française, calculée conformément à l'article 34;
+
+2° avoir exercé cet emploi durant 600 jours, calculés depuis l'entrée en fonction selon les modalités définies à l'article 34;
+
+3° avoir suivi au préalable une formation spécifique, sanctionnée par une attestation de réussite;
+
+4° avoir répondu à l'appel à candidatures visé à l'article 48bis]<sup>1</sup>
+
+5° [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 48, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 50
+
+[<sup>1</sup> § 1er. Une fonction de promotion de chef de travaux d'atelier peut être confiée temporairement à un membre du personnel remplissant toutes les conditions suivantes, au moment de la désignation :
+
+1° avoir acquis une ancienneté de service de trois ans au sein de l'enseignement subventionné ou organisé par la Communauté française, dans une des fonctions de la catégorie du personnel directeur et enseignant, calculée selon les modalités fixées à l'article 34;
+
+2° être titulaire, avant cette désignation d'une ou de plusieurs fonctions donnant accès à la fonction de promotion à conférer, conformément à l'article 102 du décret du 2 février précité, dans un pouvoir organisateur de l'enseignement organisé ou subventionné par la Communauté française;
+
+3° être porteur d'un titre de capacité conformément à l'article 102 précité;
+
+4° avoir répondu à l'appel à candidatures visé à l'article 48bis.
+
+Pendant cette période le membre du personnel reste, le cas échéant, titulaire de l'emploi dans lequel il est nommé ou engagé à titre définitif.
+
+Le membre du personnel définitif dans une fonction de promotion de chef de travaux d'atelier qui postule dans un autre emploi de la même fonction est réputé remplir les conditions d'accès à titre temporaire, énumérées aux 1° à 3° de l'alinéa 1er pour ladite fonction. Pour sa nomination à titre définitif, il sera également réputé remplir les conditions 1° et 3° de l'article 49.
+
+Le membre du personnel ne pourra bénéficier du changement d'emploi visé à l'alinéa précédent qu'après avoir exercé ses fonctions dans l'emploi qu'il occupe durant un délai de 3 ans.
+
+§ 2. [<sup>2</sup> Par dérogation au § 1er, alinéa 1er, 1° et 4°, pour toute désignation d'une durée égale ou inférieure à quinze semaines, les conditions d'ancienneté et de l'appel à candidatures ne sont pas exigées. Par ailleurs, les autorités visées à l'article 27bis sont habilitées à effectuer ces désignations d'une durée égale ou inférieure à quinze semaines.]<sup>2</sup>
+
+Cette désignation pour 15 semaines maximum peut être renouvelée pour autant que la durée totale de désignation n'excède pas 12 mois.
+
+Si l'absence du titulaire de la fonction se prolonge, le pouvoir organisateur lance un appel à candidatures au plus tard le dernier jour de la période de désignation visée à l'alinéa précédent.
+
+Par dérogation à l'alinéa 2, la désignation visée à l'alinéa 1er est prolongée pendant la période entre l'appel à candidatures et la désignation d'un candidat.
+
+Il désigne un candidat dans les trois mois qui suivent l'appel à candidatures. A défaut, au terme de ces trois mois, l'emploi n'est plus subventionné.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 49, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2025-11-20/11, art. 26, 053; En vigueur : 01-01-2026&gt;
+
+##### Art. 51
+
+[<sup>1</sup> § 1er. Lorsque l'emploi est définitivement vacant, le membre du personnel temporaire est nommé à titre définitif dans la fonction de promotion de chef de travaux d'atelier au terme d'un délai de deux ans s'il remplit les conditions de l'article 49 ou dès qu'il remplit ces dernières.
+
+Lorsqu'au terme de ce délai de 2 ans, l'emploi est temporairement vacant, le membre du personnel remplissant toutes les conditions de l'article 49 est nommé à titre définitif dès que l'emploi devient vacant.
+
+§ 2. Le membre du personnel qui s'est vu confier temporairement une fonction de promotion de chef de travaux d'atelier en application de l'article 50 peut, le cas échéant, être déchargé de ladite fonction par le pouvoir organisateur conformément à l'article 52bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 50, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 51, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52bis
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 77; En vigueur : 01-09-2007&gt; § 1er. Toute désignation temporaire dans un emploi de promotion est établie par écrit, en reprenant les mentions visées à l'article 21, à l'exception du 7°.
+
+§ 2. Le pouvoir organisateur ne peut procéder à une désignation temporaire dans un emploi de promotion s'il est tenu, par les dispositions relatives à la réaffectation, de conférer cet emploi à un membre du personnel mis en disponibilité par défaut d'emploi.
+
+§ 3. Une désignation temporaire dans un emploi de promotion prend fin :
+
+a) d'un commun accord;
+
+b) par décision du pouvoir organisateur suite à la procédure visée au § 4 du présent article ou à la suite de l'application des dispositions du chapitre Vbis ;
+
+c) ou par application de l'article 22, alinéa 1er.
+
+Toutefois, la fin de l'année scolaire est sans incidence sur la désignation temporaire dans un emploi de promotion.
+
+§ 4. Moyennant un préavis de quinze jours, le pouvoir organisateur peut mettre fin à la désignation d'un membre du personnel désigné à titre temporaire dans une fonction de promotion.
+
+Préalablement à la notification de toute décision de fin de désignation, le membre du personnel doit avoir été invité à se faire entendre par le pouvoir organisateur.
+
+La convocation à l'audition, ainsi que les motifs en raison desquels le pouvoir organisateur envisage de mettre fin à la désignation du membre du personnel lui sont notifiés cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'audition, le membre du personnel peut se faire assister ou représenter par un avocat, par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentant les membres du personnel de l'enseignement officiel subventionné affiliée à des organisations siégeant au Conseil national du Travail. L'audition fait l'objet d'un procès-verbal. La procédure se poursuit valablement lorsque le membre du personnel dûment convoqué ne se présente pas à l'audition ou n'y est pas représenté.
+
+##### Art. 52ter
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 77; En vigueur : 01-09-2007&gt; Tout membre du personnel peut renoncer à sa nomination en vertu de l'article 49 dans les six cents jours qui suivent sa première entrée en fonction de promotion. Dans ce cas, il réintègre [<sup>1</sup> , le cas échéant,]<sup>1</sup> à titre définitif sa fonction d'origine.
+
+[<sup>1</sup> Le pouvoir organisateur peut, pour assurer la continuité dans la fonction de promotion ou afin de ne pas perturber la stabilité des équipes pédagogiques, reporter la réintégration du membre du personnel dans sa fonction et son affectation d'origine de 15 semaines à dater de la demande du membre du personnel.
+
+Si, au-delà de la période visée à l'alinéa précédent, le poste n'a pas pu être pourvu, la réintégration peut encore être reportée de maximum 15 semaines de commun accord entre le pouvoir organisateur et le membre du personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 52, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52quater
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 77; En vigueur : 01-09-2007&gt; Les articles 49 à 52ter ne s'appliquent pas aux fonctions de promotion de directeur d'école maternelle, directeur d'école primaire, directeur d'école fondamentale, directeur de l'enseignement secondaire inférieur ou de préfet des études ou directeur, régies par le décret du 2 février 2007 fixant le statut des directeurs.
+
+## CHAPITRE Vbis. [<sup>1</sup> - De l'appel à candidatures, de la commission de sélection, de la lettre de mission, de l'évaluation et de la fin de l'exercice de certaines fonctions de promotion et de sélection]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 53, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52quinquies
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 78; En vigueur : 01-09-2007&gt; § 1er. Le présent chapitre s'applique aux membres du personnel titulaires d'une fonction de promotion ou de sélection telle que visée aux articles [<sup>1</sup> 4 § 1er, 3° et [<sup>3</sup> 5, § 1er, 1° à 3°, 5° et 8°]<sup>3</sup> [<sup>2</sup> , 5 § 2, 1° et 2° [<sup>4</sup> et 5 § 3 du décret du 4 janvier 1999]<sup>4</sup>]<sup>2</sup>]<sup>1</sup> relatif aux fonctions de promotion et de sélection dans l'enseignement de plein exercice, et à l'article 50 du décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française.
+
+[<sup>1</sup> Il]<sup>1</sup> s'applique également aux membres du personnel titulaires d'une fonction de sélection telle que visée à l'article 6ter, 6°, b, de l'arrêté de l'Exécutif de la Communauté française du 2 octobre 1968 déterminant et classant les fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique et du personnel social des établissements d'enseignement préscolaire, primaire, spécialise, moyen, technique, artistique, de promotion sociale et supérieur non universitaire de la Communauté française et les fonctions des membres du personnel du service d'inspection chargé de la surveillance de ces établissements dans l'enseignement de plein exercice.
+
+[<sup>1</sup> [<sup>4</sup> ...]<sup>4</sup> Ce chapitre est également applicable aux membres du personnel exerçant une fonction de sélection du personnel auxiliaire d'éducation, telle que visée à l'article 7, b), 9. et 10. et à l'article 7bis, 2°, a) et b) de l'arrêté de l'Exécutif de la Communauté française du 2 octobre 1968 déterminant et classant les fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique et du personnel social des établissements d'enseignement préscolaire, primaire, spécialisé, moyen, technique, artistique, de promotion sociale et supérieur non universitaire de la Communauté française et les fonctions des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.]<sup>1</sup>
+
+§ 2. Pour l'application du présent chapitre, il faut entendre par " directeur " le membre du personnel titulaire, à quelque titre que ce soit, de la fonction de promotion de directeur d'école maternelle, de directeur d'école primaire, de directeur d'école fondamentale, de directeur de l'enseignement secondaire inférieur ou de préfet des études ou directeur, telles qu'énumérées aux articles 3 et 4, 1° et 2° du décret du 4 janvier 1999 relatif aux fonctions de promotion et de sélection ou de la fonction de promotion de directeur d'établissement de promotion sociale telle que prévue à l'article 6ter, 6°, a de l'arrêté de l'Exécutif de la Communauté française du 2 octobre 1968 déterminant et classant les fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique et du personnel social des établissements d'enseignement préscolaire, primaire, spécialisé, moyen, technique, artistique, de promotion sociale et supérieur non universitaire de la Communauté française et les fonctions des membres du personnel du service d'inspection chargé de la surveillance de ces établissements dans l'enseignement de plein exercice.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 54, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-02-04/17, art. 24, 041; En vigueur : 03-02-2021&gt;
+
+(3)&lt;DCFR 2021-06-17/29, art. 38, 042; En vigueur : 01-09-2021&gt;
+
+(4)&lt;DCFR 2023-07-20/44, art. 55, 056; En vigueur : 31-08-2026&gt;
+
+### Section Ire. [<sup>1</sup> - De l'appel à candidatures]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 55, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52quinquies/1
+
+[<sup>1</sup> Le modèle des appels à candidats visé aux articles 39bis et 48bis est fixé par le Gouvernement, sur proposition conjointe de la Commission permanente de la promotion et de la sélection de l'enseignement organisé par la Communauté française, de la Commission paritaire centrale de l'enseignement officiel subventionné, de la Commission paritaire centrale de l'enseignement libre non confessionnel et de la Commission Paritaire Centrale de l'enseignement libre confessionnel.
+
+Le Gouvernement peut fixer le modèle d'initiative au cas où les Commissions visées à l'alinéa précédent ne lui ont pas adressé de proposition conjointe dans un délai de 30 jours après l'adoption du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 57, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52quinquies/2
+
+[<sup>1</sup> Le pouvoir organisateur qui lance un appel à candidatures précise l'extension des destinataires auxquels l'appel s'adresse soit, aux seuls membres du personnel exerçant leurs fonctions au sein du pouvoir organisateur soit, à toute personne répondant aux conditions d'accès à la fonction.]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, l'appel à candidatures pour l'emploi de coordonnateur de pôle territorial précise toujours qu'il s'adresse à toute personne répondant aux conditions d'accès à la fonction.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 58, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-06-17/29, art. 39, 042; En vigueur : 01-09-2021&gt;
+
+### Section 1bis. [<sup>1</sup> De la commission de sélection]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 59, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52quinquies/3
+
+[<sup>1</sup> § 1er. Le pouvoir organisateur met en place une commission de sélection. Elle est composée du directeur de l'établissement concerné et de membres ou de délégués du pouvoir organisateur auxquels celui-ci peut adjoindre un ou plusieurs membres extérieurs au pouvoir organisateur, disposant d'une expérience en ressources humaines et en matière de sélection du personnel.
+
+[<sup>3</sup> Un représentant par pouvoir organisateur des écoles partenaires du pôle est également membres de la commission de sélection composée pour la sélection d'un coordonnateur de pôle.]<sup>3</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. La sélection des candidats se fonde sur le profil de fonction élaboré par le pouvoir organisateur et annexé à l'appel à candidatures et, plus particulièrement, sur l'évaluation des compétences techniques et comportementales des candidats, assorties d'indicateurs de maîtrise, et leur compatibilité avec le projet éducatif et pédagogique du pouvoir organisateur.
+
+La commission de sélection peut opérer un tri des candidatures sur dossier et n'entendre que les candidats retenus suite à cette sélection.
+
+§ 3. Au terme des auditions, la commission de sélection établit un rapport classant les candidats et fournissant toutes informations utiles pour motiver le classement.
+
+Ce rapport est adressé au pouvoir organisateur qui, sur cette base, prend la décision de désignation.
+
+§ 4. A sa demande, tout candidat recevra communication de la façon dont a été évaluée la correspondance de ses compétences comportementales et techniques avec les critères de sélection définis et pondérés par le profil de fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 60, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-02-04/17, art. 25, 041; En vigueur : 03-02-2021&gt;
+
+(3)&lt;DCFR 2021-06-17/29, art. 40, 042; En vigueur : 01-09-2021&gt;
+
+### Section Iter. [<sup>1</sup> - De la lettre de mission]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 61, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52sexies
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 78; En vigueur : 01-09-2007&gt; Dès l'entrée en fonction du membre du personnel visé à l'article 52quinquies du présent décret, le directeur lui confie une lettre de mission approuvée préalablement par le pouvoir organisateur.
+
+Celle-ci spécifie les missions du membre du personnel visé à l'article 52quinquies et les priorités qui lui sont assignées, en fonction des besoins de l'établissement au sein duquel il est affecté et en fonction des objectifs contenus dans la lettre de mission que le directeur a lui-même reçue, conformément au chapitre III du titre II du décret du 2 février 2007 fixant le statut des directeurs.
+
+[<sup>1</sup> Préalablement à la rédaction de la lettre de mission, le pouvoir organisateur consulte l'organe local de concertation sociale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 62, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52septies
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 78; En vigueur : 01-09-2007&gt; § 1er. La lettre de mission a une durée de six ans.
+
+§ 2. Le contenu de la lettre de mission peut être modifié avant son échéance, au plus tôt après deux ans, par le directeur, en raison de l'évolution des besoins et du fonctionnement de l'établissement.
+
+Par dérogation à l'alinéa 1er, le contenu de la lettre de mission peut être modifié avant son échéance, de commun accord entre le directeur et le membre du personnel visé à l'article 52quinquies.
+
+La lettre de mission modifiée est soumise à l'approbation du pouvoir organisateur.
+
+##### Art. 52octies
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 78; En vigueur : 01-09-2007&gt; § 1er. Par dérogation à l'article 52sexies, § 1er, alinéa 1er, le directeur, si besoin est et moyennant approbation préalable du pouvoir organisateur, peut confier une lettre de mission au membre du personnel désigné à titre temporaire dans l'exercice d'une fonction visée à l'article 52quinquies du présent décret.
+
+Le directeur confie d'office une lettre de mission, approuvée préalablement par le pouvoir organisateur, au membre du personnel [<sup>1</sup> nommé à titre définitif et [<sup>2</sup> au membre du personnel]<sup>2</sup>]<sup>1</sup> désigné à titre temporaire dans l'exercice d'une fonction visée à l'article 52quinquies pour une durée égale ou supérieure à un an, ou dont la durée de la désignation a atteint au moins un an.
+
+§ 2. La lettre de mission visée au présent article peut consister dans la confirmation de la lettre de mission du membre du personnel visé à l'article 52quinquies faisant l'objet d'un remplacement ou dans un nouveau document.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 63, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-02-04/17, art. 26, 041; En vigueur : 03-02-2021&gt;
+
+##### Art. 52octies/1
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 52septies, après consultation préalable de l'organe local de concertation sociale, avec l'accord préalable du pouvoir organisateur, le directeur modifie d'office le contenu de la lettre de mission du chef de travaux d'atelier qui bénéficie d'une mise en disponibilité partielle pour convenances personnelles précédant la pension de retraite ou d'une interruption partielle de la carrière professionnelle après 58 ans.
+
+La lettre de mission modifiée précise les missions qu'il exerçait antérieurement et qu'il déléguera.
+
+Elle définit l'organisation de ses prestations et les modalités de concertation avec le chef d'atelier à temps partiel appelé à le seconder.
+
+§ 2. Après consultation préalable de l'organe local de concertation sociale et avec l'accord préalable du pouvoir organisateur, le directeur confie une lettre de mission au chef d'atelier à temps partiel visé au paragraphe précédent.
+
+§ 3. Après consultation préalable de l'organe local de concertation sociale, avec l'accord préalable du pouvoir organisateur, le directeur qui bénéficie d'une mise en disponibilité partielle pour convenances personnelles précédant la pension de retraite ou d'une interruption partielle de la carrière professionnelle après 58 ans confie une lettre de mission au directeur adjoint à temps partiel appelé à le seconder.
+
+§ 4. Il peut aussi, le cas échéant, apporter certaines modifications aux lettres de missions d'autres directeurs adjoints et chefs d'atelier en cohérence avec les dispositions prises en vertu des paragraphes précédents.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-02-04/17, art. 27, 041; En vigueur : 03-02-2021&gt;
+
+### Section 2. [<sup>1</sup> - Du mécanisme d'évaluation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-07-20/44, art. 56, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52novies
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 78; En vigueur : 01-09-2007&gt; Cette section s'applique au membre du personnel nommé à titre définitif.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-07-20/44, art. 57, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52novies/1.
+
+[<sup>1</sup> § 1er. Pour les membres du personnel nommés à titre définitif, le pouvoir organisateur visé dans la présente section est l'autorité qui exerce le pouvoir de nomination.
+
+§ 2. Dans la présente section, toute notification de document, de décision ou de convocation se fait par courrier recommandé avec accusé de réception ou par une remise de la main à la main avec accusé de réception.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 58, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52novies/2.
+
+[<sup>1</sup> § 1. Une évaluation ne peut avoir lieu qu'une fois par année scolaire.
+
+§ 2. Toute première évaluation doit être précédée d'un plan de développement des compétences professionnelles et d'un entretien de clôture tels que visés à la section 4 du Chapitre 9 du titre Ier du livre 6 du Code de l'enseignement fondamental et de l'enseignement secondaire et à la section 4 du chapitre Ibis du décret du 30 juin 1998 relatif à la formation en cours de carrière et au mécanisme de soutien et de développement des compétences professionnelles des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement de promotion sociale ou à la section 4 du chapitre Ibis du décret du 15 mars 1999 relatif à la formation en cours de carrière et au mécanisme de soutien et de développement des compétences professionnelles des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française.
+
+§ 3. Au plus tôt six mois après avoir communiqué ce plan de développement des compétences professionnelles au membre du personnel et pour autant que l'entretien de clôture visé à l'article 6.1.9-9, § 5 du Code de l'enseignement fondamental et de l'enseignement secondaire, à l'article 8.9, § 5 du décret du 30 juin 1998 relatif à la formation en cours de carrière et au mécanisme de soutien et de développement des compétences professionnelles des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation et des experts de l'enseignement de promotion sociale et à l'article 8/8 § 5 du décret du 15 mars 1999 relatif à la formation en cours de carrière et au mécanisme de soutien et de développement des compétences professionnelles des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française ait eu lieu, en cas de mauvaise volonté manifeste en lien avec ledit plan ou de carence manifeste et répétée à atteindre les objectifs identifiés avec le membre du personnel dans le cadre du plan de développement des compétences professionnelles, le directeur rédige un rapport motivé à destination du pouvoir organisateur afin qu'il procède à une évaluation du membre du personnel.
+
+§ 4. Pour le calcul du délai de 6 mois précité, sont seuls pris en considération les services effectifs rendus pendant l'exercice de la fonction, en ce compris :
+
+\- les vacances annuelles, à l'exclusion des vacances d'été ;
+
+\- les congés prévus aux articles 5, 5bis, 6 et 7 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 58, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52novies/3.
+
+[<sup>1</sup> § 1er. Cette évaluation est menée par le pouvoir organisateur sur la base du rapport du directeur visé à l'article 52novies/2, § 3.
+
+Pour mener l'évaluation, une des conditions suivantes doit être remplie par le pouvoir organisateur :
+
+a. Soit un membre du pouvoir organisateur est formé à cette fin via la formation visée à l'article 132 du décret du 20 juillet 2023 relatif au soutien, au développement des compétences professionnelles et à l'évaluation des personnels de l'enseignement ;
+
+b. Soit un membre du pouvoir organisateur est un expert en pédagogie ou en ressources humaines ;
+
+c. Soit le pouvoir organisateur se fait assister par un expert en pédagogie ou en ressources humaines.
+
+§ 2. Le membre du personnel doit avoir été entendu préalablement à l'attribution de sa mention d'évaluation, par le pouvoir organisateur. La convocation doit lui être notifiée cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'entretien d'évaluation, le membre du personnel peut se faire assister par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentative.
+
+§ 3. A l'issue de cette évaluation, le pouvoir organisateur rédige un rapport d'évaluation, comportant l'une des mentions suivantes " favorable " ou " défavorable ". L'évaluation est formalisée selon le document visé à l'article 52novies/5 et notifiée au membre du personnel.
+
+La mention d'évaluation est motivée sur la base des éléments :
+
+\- du rapport du directeur ;
+
+\- du plan de développement des compétences professionnelles ;
+
+\- de l'entretien d'évaluation.
+
+En l'absence de rapport d'évaluation, tout membre du personnel est réputé bénéficier de la mention " favorable ".
+
+§ 4. En cas d'évaluation débouchant sur la mention " défavorable ", un entretien entre, d'une part, le pouvoir organisateur et/ou le directeur à qui il donne délégation et, d'autre part, le membre du personnel est fixé afin de mettre en place un nouveau plan d'accompagnement individualisé, basé sur les éléments évoqués lors de l'évaluation. Celui-ci détermine les objectifs que le membre du personnel doit atteindre pour obtenir une mention favorable lors de l'évaluation suivante. Un maximum de quatre objectifs peut être fixé.
+
+Le plan d'accompagnement individualisé donne lieu à un entretien de clôture.
+
+L'entretien de clôture fait l'objet d'un compte-rendu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 58, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52novies/4.
+
+[<sup>1</sup> § 1er. Après un délai de minimum six mois d'exercice de la fonction suite à la communication au membre du personnel du plan d'accompagnement individualisé convenu lors de l'évaluation avec mention défavorable qui précède, une nouvelle évaluation peut avoir lieu.
+
+Ce délai doit permettre au membre du personnel de remédier aux carences constatées.
+
+Après une évaluation avec mention " défavorable ", l'évaluation suivante doit intervenir dans un délai maximum de deux ans suivant la communication du plan d'accompagnement individualisé faisant suite à la précédente évaluation. A défaut, elle est réputée favorable.
+
+Par dérogation à l'alinéa précédent, l'évaluation suivante peut intervenir dans un délai plus long en cas de prolongation du plan d'accompagnement individualisé telle que visée au paragraphe 3.
+
+§ 2. Pour le calcul des délais de six mois et deux ans précités, sont seuls pris en considération les services effectifs rendus pendant l'exercice de la fonction, en ce compris :
+
+\- les vacances annuelles, à l'exclusion des vacances d'été ;
+
+\- les congés prévus aux articles 5, 5bis, 6 et 7 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.
+
+§ 3. Lors de l'évaluation suivant l'attribution d'une mention " défavorable " définitive, le pouvoir organisateur rédige un rapport d'évaluation, qui débouche sur une mention " favorable " ou " défavorable " ou, en cas d'un commun accord entre le membre du personnel et le pouvoir organisateur sur la prolongation du plan d'accompagnement individualisé. Le rapport d'évaluation est formalisé selon le document visé à l'article 52novies/5 ainsi que notifié au membre du personnel.
+
+La prolongation du plan d'accompagnement individualisé est de minimum 3 mois et de maximum un an.
+
+La mention d'évaluation est motivée sur la base des éléments du plan d'accompagnement individualisé.
+
+Le membre du personnel doit avoir été entendu préalablement à l'attribution de sa mention d'évaluation, par le pouvoir organisateur. La convocation doit lui être notifiée cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'entretien d'évaluation, le membre du personnel peut se faire assister par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentative.
+
+§ 4. En l'absence de rapport d'évaluation, tout membre du personnel est réputé bénéficier de la mention " favorable ".
+
+§ 5. En cas de prolongation du plan d'accompagnement individualisé, un entretien entre, d'une part, le pouvoir organisateur et/ou le directeur à qui il donne délégation et, d'autre part, le membre du personnel est fixé afin de mettre en place un plan d'accompagnement individualisé, basé sur les éléments évoqués lors de l'évaluation. Celui-ci reprend les objectifs du plan d'accompagnement individualisé précédent que le membre du personnel doit atteindre pour obtenir une mention favorable lors de l'évaluation suivante. Un maximum de quatre objectifs peut être fixé.
+
+Le plan d'accompagnement individualisé donne lieu à un entretien de clôture.
+
+L'entretien de clôture fait l'objet d'un compte-rendu.
+
+§ 6. Après une prolongation du plan d'accompagnement individualisé, une nouvelle évaluation a lieu endéans un délai de minimum trois mois et un délai maximum d'un an d'exercice de la fonction à partir de la communication au membre du personnel du plan d'accompagnement individualisé convenu lors de l'évaluation précédente.
+
+Ce délai doit permettre au membre du personnel de remédier aux carences constatées.
+
+A défaut, elle est réputée favorable.
+
+§ 7. Pour le calcul des délais de trois mois et un an précités, sont seuls pris en considération les services effectifs rendus pendant l'exercice de la fonction, en ce compris :
+
+\- les vacances annuelles, à l'exclusion des vacances d'été ;
+
+\- les congés prévus aux articles 5, 5bis, 6 et 7 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.
+
+§ 8. Le rapport d'évaluation faisant suite à une prolongation de plan d'accompagnement individualisé est rédigé par le pouvoir organisateur. Il débouche sur une mention " favorable " ou " défavorable " et est formalisé selon le document visé à l'article 52novies/5 ainsi que notifié au membre du personnel.
+
+La mention d'évaluation est motivée sur la base des éléments du plan d'accompagnement individualisé.
+
+Le membre du personnel doit avoir été entendu préalablement à l'attribution de sa mention d'évaluation par le pouvoir organisateur. La convocation doit lui être notifiée cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'entretien d'évaluation, le membre du personnel peut se faire assister par un défenseur choisi parmi les membres du personnel des établissements d'enseignement officiel subventionné, en activité de service ou pensionnés, ou par un représentant d'une organisation syndicale représentative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 58, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52novies/5.
+
+[<sup>1</sup> Le gouvernement fixe le modèle de rapport de la direction à destination du pouvoir organisateur, de plan d'accompagnement individualisé et le rapport d'évaluation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 58, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52novies/6.
+
+[<sup>1</sup> La répétition de deux mentions " défavorable " consécutives sur deux années scolaires distinctes, devenues définitives après épuisement des procédures devant la chambre de recours, telles que visées à l'article 52novies/7, a pour conséquence la fin de fonction d'office, conformément à l'article 58.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 58, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52novies/7.
+
+[<sup>1</sup> § 1er. Le membre du personnel qui se voit attribuer une mention " défavorable " peut, dans les dix jours ouvrables qui suivent la réception de ce rapport, introduire, un recours devant la Chambre de recours visée au chapitre X. Le membre du personnel qui fait usage de son droit de recours en notifie immédiatement une copie à son pouvoir organisateur. Ce recours est suspensif.
+
+§ 2. Lorsque la mention défavorable est liée, en tout ou en partie, à un objectif qui porte sur la compétence pédagogique du membre du personnel, la chambre de recours peut faire appel au Service général de l'Inspection en sa qualité d'expert, sur des aspects techniques relatifs aux dimensions disciplinaires et/ou didactiques.
+
+Le Président de la chambre invite alors un représentant du Service général de l'Inspection, soit d'initiative, soit à la demande d'un ou plusieurs membres, soit à la demande du membre du personnel concerné par le recours.
+
+§ 3. Lors de l'audition, le membre du personnel peut se faire assister par un avocat, par un défenseur choisi parmi les membres du personnel des établissements d'enseignement officiel subventionné, en activité de service ou pensionnés, ou par un représentant d'une organisation syndicale représentative.
+
+L'audition fait l'objet d'un procès-verbal.
+
+La procédure se poursuit valablement lorsque le membre du personnel dûment convoqué ne se présente pas à l'audition.
+
+§ 4. L'avis est donné après un vote secret. En cas d'avis rendu à l'unanimité ou à la majorité simple des voix plus une, l'avis de la Chambre de recours est contraignant. En cas de parité des voix uniquement, le président décide. Dans ce cas, l'avis de la chambre de recours n'est pas contraignant.
+
+La Chambre de recours donne son avis au pouvoir organisateur dans un délai de 45 jours à partir de la date de réception du recours. L'avis de la Chambre de recours doit indiquer si, sur base des éléments qui lui sont soumis, la mention attribuée au membre du personnel est justifiée ou ne l'est pas. L'avis de la Chambre de recours ne propose pas d'alternative à la décision du pouvoir organisateur.
+
+§ 5. Le pouvoir organisateur prend sa décision dans un délai de 30 jours à partir de la réception de l'avis visé à l'alinéa précédent et notifie sa décision à la Chambre de recours et au membre du personnel. Le cas échéant, le pouvoir organisateur indique les raisons pour lesquelles l'avis de la Chambre de recours n'a pas été suivi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 58, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52novies/8.
+
+[<sup>1</sup> Le pouvoir organisateur qui envisage une procédure pouvant conduire à l'attribution d'une mention d'évaluation " défavorable " à un délégué syndical dans le cadre de la procédure fixée dans la présente section doit, sous peine de nullité, en informer préalablement la délégation syndicale si celle-ci est composée de plusieurs délégués, ainsi que l'organisation syndicale qui l'a désigné. Cette information se fait par lettre recommandée sortant ses effets le 3ème jour ouvrable suivante la date de son expédition.
+
+§ 2. L'organisation syndicale intéressée dispose d'un délai de 10 jours pour notifier par lettre recommandée au pouvoir organisateur, avec copie au président de la Commission paritaire centrale compétente, qu'elle considère que la mesure envisagée est inspirée par des motifs inhérents à l'exercice du mandat syndical et peut demander la tenue d'un bureau de conciliation. Le délai de 10 jours prend cours le jour où la lettre recommandée envoyée par le pouvoir organisateur sort ses effets. Toutefois, le délai de 10 jours est suspendu du 15 juillet au 15 août.
+
+§ 3. L'absence de réaction de l'organisation syndicale concernée dans le délai imparti, signifie dans son chef qu'elle considère que la mesure envisagée n'est pas inspirée par des motifs inhérents à l'exercice du mandat syndical.
+
+§ 4. A l'expiration du délai de 10 jours, le pouvoir organisateur peut poursuivre la procédure d'attribution d'une mention d'évaluation " défavorable ".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 58, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52novies/9.
+
+[<sup>1</sup> Dans le cadre des entretiens et évaluations visés à la présente section, le membre du personnel et son évaluateur sont tenus au respect des devoirs suivants :
+
+a) la discrétion ;
+
+b) le respect mutuel.
+
+En outre, l'évaluateur est tenu de :
+
+a) motiver, de manière adéquate et constructive, ses instructions/conseils/échanges avec le membre du personnel ainsi que la mention d'évaluation ;
+
+b) soutenir le membre du personnel dans l'atteinte de ses objectifs;
+
+c) respecter les devoirs d'impartialité et d'objectivité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 58, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52decies
+
+&lt;Abrogé par DCFR 2023-07-20/44, art. 59, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52undecies
+
+&lt;Abrogé par DCFR 2023-07-20/44, art. 59, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52duodecies
+
+&lt;Abrogé par DCFR 2023-07-20/44, art. 59, 056; En vigueur : 31-08-2026&gt;
+
+### Section 3. - De la fin de l'exercice de certaines fonctions de promotion et de sélection [<sup>1</sup> exercées]<sup>1</sup> à titre temporaire. &lt;Insérée par DCFR 2007-02-02/52, art. 78; En vigueur : 01-09-2007&gt;
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 56, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52terdecies
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 78; En vigueur : 01-09-2007&gt; Moyennant un préavis de quinze jours, le pouvoir organisateur peut, soit sur proposition du directeur, soit d'initiative, mettre fin à la désignation d'un membre du personnel visé à l'article 52quinquies désigné à titre temporaire.
+
+Préalablement à la notification de toute décision de fin de désignation, le membre du personnel doit avoir été invité à se faire entendre par le pouvoir organisateur.
+
+La convocation à l'audition, ainsi que les motifs en raison desquels le pouvoir organisateur envisage de mettre fin à la désignation du membre du personnel ou en raison desquels le directeur envisage d'en faire la proposition au pouvoir organisateur lui sont notifiés cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste, soit par la remise d'une lettre de la main à la main avec accusé de réception portant ses effets à la date figurant sur cet accusé de réception. Lors de l'audition, le membre du personnel peut se faire assister ou représenter par un avocat, par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentant les membres du personnel de l'enseignement officiel subventionné affiliée à des organisations siégeant au Conseil national du Travail. La procédure se poursuit valablement lorsque le membre du personnel dûment convoqué ne se présente pas à l'audition ou n'y est pas représenté.
+
+### Section 4. [<sup>1</sup> De la lettre de mission, de l'évaluation et de la fin de l'exercice de la fonction de coordonnateur de pôle territorial exercée à titre temporaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 41, 042; En vigueur : 01-09-2021&gt;
+
+##### Art. 52quaterdecies
+
+[<sup>1</sup> Les articles 52sexies à [<sup>2</sup> 52octies/1 et l'article 52terdecies]<sup>2</sup> ne s'appliquent pas aux coordonnateurs de pôles territoriaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 42, 042; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFR 2023-07-20/44, art. 60, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 52quinquiesdecies
+
+[<sup>1</sup> Dès l'entrée en fonction du coordonnateur de pôle désigné à titre temporaire, le directeur de l'école siège lui confie une lettre de mission approuvée préalablement par le pouvoir organisateur de l'école siège. Y sont spécifiées les missions du coordonnateur du pôle et les priorités qui lui sont assignées en fonction des besoins des écoles coopérantes du pôle.
+
+Préalablement à la rédaction de la lettre de mission, le pouvoir organisateur de l'école siège consulte l'organe local de concertation sociale.
+
+La lettre de mission a une durée de six ans. Le contenu de la lettre de mission peut être modifié avant son échéance par le directeur en raison de l'évolution des besoins et du fonctionnement du pôle ou d'un commun accord entre le coordonnateur du pôle et le directeur.
+
+La lettre de mission modifiée est soumise à l'approbation du pouvoir organisateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 42, 042; En vigueur : 01-09-2021&gt;
+
+##### Art. 52sexiesdecies
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 52quinquesdecies, alinéa 1er, le directeur de l'école siège, si besoin est et moyennant approbation préalable du pouvoir organisateur, peut confier une lettre de mission au membre du personnel désigné à titre temporaire comme coordonnateur de pôle territorial pour une durée inférieure à un an.
+
+Le directeur de l'école siège confie d'office une lettre de mission approuvée préalablement par le pouvoir organisateur au membre du personnel nommé à titre définitif et le membre du personnel désigné à titre temporaire comme coordonnateur de pôle territorial pour une durée égale ou supérieure à un an, ou dont la durée de la désignation a atteint au moins un an.
+
+§ 2. La lettre de mission visée au présent article peut consister dans la confirmation de la lettre de mission du coordonnateur de pôle territorial faisant l'objet d'un remplacement ou dans un nouveau document.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 42, 042; En vigueur : 01-09-2021&gt;
+
+##### Art. 52septiesdecies
+
+[<sup>1</sup> § 1er. Le coordonnateur du pôle désigné à titre temporaire est évalué par le pouvoir organisateur de l'école siège à au moins deux reprises avant de pouvoir être nommé à titre définitif. La première évaluation est initiée entre le 9e mois effectif et la fin du 12e mois effectif de la première année de la prise de fonction du coordonnateur de pôle. La seconde évaluation est initiée entre le 9e mois effectif et la fin du 12e mois effectif de la deuxième année. Si ce délai prend cours durant une période de vacances scolaires, sa prise de cours est reportée au premier jour qui suit cette période de vacances.
+
+L'évaluation se fonde sur la lettre de mission et, le cas échéant, sur le bon suivi de la formation spécifique visé à l'article 44decies/1 si le coordonnateur du pôle n'en disposait pas avant sa désignation. Elle tient compte du contexte global dans lequel est amené à évoluer le coordonnateur du pôle et des moyens qui sont mis à sa disposition.
+
+Le gouvernement fixe le modèle de rapport d'évaluation et ses modalités sur proposition de la Commission paritaire centrale compétente.
+
+La mention attribuée au terme de l'évaluation peut être " favorable ", " réservé " ou " défavorable ".
+
+Le rapport d'évaluation motivé du directeur de pôle proposant l'une des mentions visées à l'alinéa 4 est soumis au coordonnateur du pôle qui dispose d'un délai de dix jours pour introduire une réclamation auprès du pouvoir organisateur. Dans les quinze jours de la réception de la réclamation le pouvoir organisateur notifie sa décision au coordonnateur de pôle.
+
+En cas de mention " défavorable ", le coordonnateur de pôle dispose d'un délai de vingt jours pour adresser un recours à l'encontre de son évaluation devant la Chambre de recours compétente.
+
+La Chambre de recours donne son avis au pouvoir organisateur dans un délai de 45 jours à partir de la date de réception du recours.
+
+Le pouvoir organisateur attribue la mention définitive au coordonnateur de pôle dans le mois de la réception de l'avis de la Chambre de recours. Si il omet de se prononcer dans le délai requis, la décision est réputée conforme à l'avis.
+
+A défaut d'avoir été initiées dans les délais mentionnés à l'alinéa 1er, les évaluations du coordonnateur du pôle sont réputées " favorables ".
+
+§ 2. Si la première évaluation définitivement attribuée en application de la procédure prévue au paragraphe 1er, est " réservée ", la seconde évaluation ne peut être que " favorable " ou " défavorable ".
+
+Si la seconde évaluation définitivement attribuée est " réservée ", la désignation temporaire est prolongée d'office de six mois. Le coordonnateur de pôle est évalué une troisième fois. La troisième évaluation est initiée six mois après que la seconde évaluation ait été définitivement attribuée et la mention est attribuée endéans le mois qui suit ce délai. Elle ne peut être que " favorable " ou " défavorable ".
+
+Si la première, la seconde ou, le cas échéant, la troisième évaluation définitivement attribuée est " défavorable ", il est mis fin d'office à la désignation du coordonnateur de pôle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 42, 042; En vigueur : 01-09-2021&gt;
+
+##### Art. 52octiesdecies
+
+[<sup>1</sup> Nul ne peut être nommé à une fonction de coordonnateur de pôle territorial si l'emploi de cette fonction n'est pas occupé en fonction principale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 42, 042; En vigueur : 01-09-2021&gt;
+
+## CHAPITRE VI. - Positions administratives.
+
+### Section 1. - Dispositions générales.
+
+##### Art. 53
+
+Les positions administratives dans lesquelles peuvent se trouver les membres du personnel sont :
+
+1° l'activité de service;
+
+2° la non-activité;
+
+3° la disponibilité;
+
+### Section 2. - Activité de service.
+
+##### Art. 54
+
+Un membre du personnel est toujours censé être en activité de service sauf disposition formelle le plaçant dans une autre position administrative.
+
+##### Art. 55
+
+Le membre du personnel en activité de service a droit à une subvention-traitement et à l'avancement de traitement dans les mêmes conditions que dans l'enseignement de la Communauté.
+
+[<sup>1</sup> A droit à la subvention-traitement qui lui serait revenue s'il avait pu accomplir normalement sa tâche journalière, le membre du personnel apte à travailler au moment de se rendre au travail :
+
+1° qui, se rendant normalement à son travail, ne parvient qu'avec retard ou n'arrive pas au lieu de travail pourvu que ce retard ou cette absence soit dû à une cause survenue sur le chemin du travail et indépendante de sa volonté;
+
+2° qui ne peut, pour une cause indépendante de sa volonté, soit entamer le travail, alors qu'il s'était rendu normalement sur les lieux de travail, soit poursuivre le travail auquel il était occupé.]<sup>1</sup>
+
+Le membre du personnel peut obtenir un congé du pouvoir organisateur, dans les mêmes conditions que dans l'enseignement de la Communauté française.
+
+Tout congé pour lequel une décision du membre du Gouvernement compétent, ou de son délégué, est nécessaire pour pouvoir bénéficier du traitement dans l'enseignement de la Communauté, est soumis par le pouvoir organisateur à l'approbation de la même autorité.
+
+----------
+
+(1)&lt;DCFR 2013-07-04/14, art. 5, 028; En vigueur : 01-09-2013&gt;
+
+### Section 3. - Non-activité.
+
+##### Art. 56
+
+Un membre du personnel est dans la position de non-activité dans les mêmes conditions que dans l'enseignement de la Communauté.
+
+### Section 4. - Mise en disponibilité.
+
+##### Art. 57
+
+Un membre du personnel peut être mis en disponibilité par son pouvoir organisateur dans les mêmes conditions que dans l'enseignement de la Communauté, à l'exception de la mise en disponibilité par retrait d'emploi dans l'intérêt du service qui fait l'objet du chapitre XI.
+
+Toute mise en disponibilité pour laquelle une décision du ministre compétent ou de son délégué est nécessaire en vue de l'octroi du traitement d'attente dans l'enseignement de la Communauté est soumise par le pouvoir organisateur à l'approbation de la même autorité.
+
+## CHAPITRE VII. - Cessation définitive des fonctions.
+
+##### Art. 58
+
+Les membres du personnel désignés à titre temporaire et les membres du personnel nommés à titre définitif sont demis de leurs fonctions d'office et sans préavis :
+
+1° [<sup>1</sup> ...]1
+
+2° si, après une absence autorisée, ils négligent, sans motif valable, de reprendre leur service et restent absents pendant une période ininterrompue de plus de dix jours;
+
+3° s'ils abandonnent leur emploi sans motif valable et restent absents pendant une période ininterrompue de plus de dix jours;
+
+4° s'ils se trouvent dans la situation où l'application des lois civiles et pénales entraîne la cessation des fonctions;
+
+5° s'ils refusent, après épuisement de la procédure, de mettre fin à une occupation incompatible avec la qualité de membre du personnel d'un établissement d'enseignement officiel subventionné;
+
+6° s'il est constaté qu'une incapacité permanente de travail reconnue conformément à la loi ou au règlement les met hors d'état de remplir convenablement leurs fonctions;
+
+7° si, rappelés en activités de service, ils refusent, sans motif valable, d'occuper l'emploi attribué par le pouvoir organisateur;
+
+8° s'ils n'ont pas été désignés ou nommés à titre définitif de façon régulière; dans ces deux cas, les membres du personnel gardent les droits acquis liés à leur situation régulière précédente;
+
+9° en cas de nomination à titre définitif dans une autre fonction au prorata des heures qui font l'objet de cette nouvelle nomination, à concurrence d'une fonction complète;
+
+[<sup>2</sup> 10° dans l'hypothèse d'un rapport d'évaluation défavorable tel que visé à l'article 52sexdecies, § 2, alinéa 3;]<sup>2</sup>
+
+[<sup>3</sup> 11° suite à l'attribution d'une mention " défavorable " précédée d'une mention défavorable, sur 2 années scolaires distinctes, devenues définitives après épuisement des procédures devant la chambre de recours, telles que visées aux articles 36duodecies/7 et 52novies/7.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2013-06-20/18, art. 25, 027; En vigueur : 27-07-2013&gt;
+
+(2)&lt;DCFR 2021-06-17/29, art. 43, 042; En vigueur : 01-09-2021&gt;
+
+(3)&lt;DCFR 2023-07-20/44, art. 61, 056; En vigueur : 31-08-2026&gt;
+
+##### Art. 59
+
+Pour les membres du personnel nommés à titre définitif, entraînent également la cessation définitive des fonctions :
+
+1° la démission volontaire [<sup>2</sup> , sans préjudice de l'article 35, § 2, dans l'hypothèse où il serait engagé à nouveau par le pouvoir organisateur qui l'employait avant sa démission " après les termes " la démission volontaire "]<sup>2</sup>;
+
+2° la mise à la retraite pour limite d'âge ou pour inaptitude physique;
+
+3° les peines disciplinaires de [<sup>1</sup> démission disciplinaire]<sup>1</sup> et de révocation.
+
+En cas de démission volontaire, le membre du personnel ne peut abandonner son service qu'à condition d'y avoir été autorisé ou après un préavis de quinze jours.
+
+Lorsque la cessation définitive des fonctions entraîne l'application de l'article 10 de la loi du 20 juillet 1991 portant dispositions sociales et diverses, la Communauté française verse à l'Office national de sécurité sociale les cotisations prévues dans cette disposition.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/91, art. 54, 024; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 23, 039; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE VIII. - (De la suspension préventive : Mesure administrative.) &lt;DCFR 1998-04-06/32, art. 1, 005; En vigueur : 01-09-1998&gt;
+
+### Section 1. &lt; Créée par DCFR 2003-07-17/44, art. 8; En vigueur : 01-09-2003&gt; - Dispositions générales.
+
+##### Art. 59bis
+
+&lt;Numéro d'article inséré par DCFR 2003-07-17/44, art. 8; En vigueur : 01-09-2003; contenu de l'ancien article 63bis&gt; Pour l'application du présent chapitre, il y a lieu d'entendre par pouvoir organisateur :
+
+1° dans l'enseignement organisé par les villes et les communes, le collège des bourgmestre et échevins;
+
+2° dans l'enseignement organisé par les provinces, le Conseil provincial ou [<sup>1</sup> le collège provincial]<sup>1</sup>;
+
+3° dans les établissements d'enseignement relevant des Centres publics d'aide sociale, le Conseil de ces institutions;
+
+4° dans les établissements d'enseignement relevant de l'Office pour la Naissance de l'enfant, le conseil d'administration de cette institution;
+
+5° dans les établissements d'enseignement relevant des associations intercommunales, le conseil d'administration de ces institutions.
+
+----------
+
+(1)&lt;DCFR 2018-07-11/29, art. 61, 036; En vigueur : 01-09-2018&gt;
+
+### Section 2. &lt;Créée par DCFR 2003-07-17/44, art. 8; En vigueur : 01-09-2003&gt; - De la suspension préventive des membres du personnel nommés à titre définitif.
+
+##### Art. 60
+
+&lt;DCFR 1998-04-06/32, art. 1, 005; En vigueur : 01-09-1998&gt; § 1er. Lorsque l'intérêt du service ou de l'enseignement le requiert, une procédure de suspension préventive peut être entamée à l'égard d'un membre du personnel nommé à titre définitif :
+
+1° s'il fait l'objet de poursuites pénales;
+
+2° dès qu'une procédure disciplinaire est engagée contre lui par le pouvoir organisateur;
+
+3° dès que le pouvoir organisateur lui notifie, par lettre recommandée à la poste, la constatation d'une incompatibilité.
+
+[<sup>2</sup> 4° s'il est fait application de l'article 67, § 17, ou de l'article 68, § 14, du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre. ]<sup>2</sup>
+
+§ 2. La suspension préventive organisée par le présent chapitre est une mesure purement administrative n'ayant pas le caractère d'une sanction.
+
+Elle est prononcée par le pouvoir organisateur et est motivée. Elle a pour effet d'écarter le membre du personnel de ses fonctions.
+
+Pendant la durée de la suspension préventive, le membre du personnel reste dans la position administrative de l'activité de service.
+
+§ 3. Avant toute mesure de suspension préventive, le membre du personnel doit avoir été invité à se faire entendre par le pouvoir organisateur [<sup>2</sup> par le pouvoir organisateur]<sup>2</sup>.
+
+La convocation à l'audition ainsi que les motifs justifiant la suspension préventive sont notifiés au membre du personnel trois jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception portant ses effets trois jours ouvrables après la date de son expédition, soit par la remise d'une lettre de la main à la main avec accusé de réception portant ses effets à la date figurant sur cet accusé de réception.
+
+Au cours de l'audition, le membre du personnel peut se faire assister ou représenter par un avocat ou par un défenseur choisi parmi les membres du personnel de l'enseignement officiel subventionné en service ou à la retraite, ou par un délégué d'une organisation syndicale représentative en vertu de l'arrêté royal du 28 septembre 1984, portant exécution de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats relevant de ces autorités.
+
+Dans les trois jours ouvrables qui suivent celui prévu pour l'audition et même si le membre du personnel ou son représentant (ne se sont pas présentés à l'audition sans pouvoir faire valoir des circonstances de force majeure de nature à justifier leur absence à l'audition), le pouvoir organisateur communique à l'agent sa décision par lettre recommandée à la poste. &lt;DCFR 2003-07-17/44, art. 7, 013; En vigueur : 01-09-2003&gt;
+
+(Si le membre du personnel ou son représentant peuvent faire valoir des circonstances de force majeure de nature à justifier leur absence à l'audition, le membre du personnel est convoqué à une nouvelle audition conformément à l'alinéa 2.
+
+Dans ce cas, et même si le membre du personnel ou son représentant ne se sont pas présentés à l'audition, la décision est communiquée au membre du personnel par lettre recommandée à la poste dans les trois jours ouvrables qui suivent celui prévu pour l'audition.) &lt;DCFR 2003-07-17/44, art. 7, 013; En vigueur : 01-09-2003&gt;
+
+Si cette décision conclut à la suspension préventive du membre du personnel, elle produit ses effets le troisième jour ouvrable suivant la date de son expédition.
+
+§ 4. Par dérogation à l'alinéa 1er du § 3, le membre du personnel peut être écarté de ses fonctions sur-le-champ en cas de faute grave pour laquelle il y a flagrant délit ou lorsque les griefs qui lui sont reprochés revêtent un caractère de gravité tel qu'il est souhaitable, dans l'intérêt de l'enseignement, que le membre du personnel ne soit plus présent à l'école.
+
+Dans les dix jours ouvrables qui suivent le jour où la mesure d'écartement immédiat a été prise, le pouvoir organisateur est tenu d'engager la procédure de suspension préventive conformément aux dispositions du présent article. A défaut, la mesure d'écartement immédiat prendra fin au terme du délai précité et le membre du personnel ne pourra à nouveau être écarté de l'établissement pour la même faute grave ou les mêmes griefs que moyennant le respect de la procédure de suspension préventive telle que prévue notamment au § 3 du présent article.
+
+Le membre du personnel écarté sur-le-champ reste dans la position administrative de l'activité de service.
+
+§ 5. Dans le cadre d'une procédure disciplinaire ou dans le cadre de la constatation d'une incompatibilité, la durée de la suspension préventive ne peut dépasser un an et, dans le cadre d'une procédure disciplinaire, expire en tout cas :
+
+1° quarante-cinq jours calendrier après la date prévue pour l'audition visée à l'[<sup>1</sup> article 65, § 2bis,]<sup>1</sup> si dans ce délai, le pouvoir organisateur n'a pas notifié au membre du personnel la décision visée à l'article 65, § 2;
+
+2° le troisième jour ouvrable qui suit la notification au membre du personnel de la décision visée à l'article 65, § 2, si cette décision est le rappel à l'ordre, le blâme ou la retenue sur traitement;
+
+3° le jour où la décision portant sanction disciplinaire sort ses effets.
+
+Dans le cadre de poursuites pénales, la durée de la suspension préventive n'est pas limitée à un an.
+
+Lorsqu'une procédure disciplinaire est engagée ou poursuivie après une décision judiciaire de condamnation pénale définitive, le délai d'un an visé à l'alinéa 1er ne commence à courir qu'à dater du prononcé de cette condamnation définitive.
+
+[<sup>2</sup> Dans le cadre d'une procédure visée au § 1er, 4°, la suspension préventive peut être prise pour une ou plusieurs périodes avec un maximum de 12 mois. ]<sup>2</sup>
+
+§ 6. Dans le cadre d'une procédure disciplinaire [<sup>2</sup> et d'une procédure visée au § 1er, 4° ]<sup>2</sup>, la suspension préventive doit faire l'objet d'une confirmation écrite par le pouvoir organisateur tous les [<sup>1</sup> nonante jours]<sup>1</sup> à dater de sa prise d'effet.
+
+Cette confirmation est notifiée à l'intéressé par lettre recommandée à la poste.
+
+A défaut de confirmation de la suspension préventive dans les délais requis, le membre du personnel concerné peut réintégrer ses fonctions après en avoir informé le pouvoir organisateur [<sup>2</sup> et en ce qui concerne le § 1er, 4°, le délégué au contrat d'objectifs et le directeur de zone]<sup>2</sup>, par lettre recommandée, au moins dix jours ouvrables avant la reprise effective du travail.
+
+Après réception de cette notification le pouvoir organisateur peut confirmer le maintien en suspension préventive selon la procédure décrite à l'alinéa 2.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 37, 026; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2018-09-13/14, art. 31, 037; En vigueur : 12-09-2018&gt;
+
+##### Art. 60bis
+
+&lt;DCFR 1998-04-06/32, art. 1, 005; En vigueur : 01-09-1998&gt; § 1er. Par dérogation au § 1er de l'article 60, le membre du personnel est d'office suspendu préventivement lorsqu'il est inculpé ou prévenu pour des faits et/ou agissements punissables en vertu d'un des articles mentionnés ci-après qui figurent au : Titres VII ou VIII du Livre II du Code pénal :
+
+\- 364, 365,368, 369, 370, 372, 379, 380bis, §§ 4 et 5, 380quinquies, § 1er, 382bis, 383bis, 386, 396, 401bis;
+
+\- 373, 375,376, 377, 378bis, 393, 394, 397 pour autant que la victime du crime ou du délit soit un mineur d'âge ou un élève majeur de l'établissement scolaire ou du home visé à l'article 1er, 1°, du présent décret où le membre du personnel exerce tout ou partie de ses fonctions;
+
+\- 380bis, § 1er, 1°, pour autant que la personne majeure qui y est visée soit un élève de l'établissement scolaire ou du home visé à l'article 1er, 1°, du présent décret où le membre du personnel exerce tout ou partie de ses fonctions;
+
+\- 380bis, § 1er, 4°, pour autant que la personne majeure dont la débauche ou la prostitution a été exploitée est un élève de l'établissement scolaire ou du home visé à l'article 1er, 1°, du présent décret où le membre du personnel exerce tout ou partie de ses fonctions;
+
+\- 380bis, § 2, pour autant qu'il s'agisse de la tentative de commettre les infractions visées au § 1er, 1° et 4°, et seulement dans les limites précisées ci-avant pour ces dispositions;
+
+\- 380bis, § 3, pour autant qu'il s'agisse des infractions visées au § 1er, 1° et 4°, et seulement dans les limites précisées ci-avant pour ces dispositions;
+
+\- 380quater, pour autant que la personne provoquée à la débauche soit une personne mineur d'âge ou un élève majeur de l'établissement scolaire ou du home visé à l'article 1er, 1°, du présent décret où le membre du personnel exerce tout ou partie de ses fonctions;
+
+\- 380quinquies, § 2 et § 3, pour autant qu'une personne mineur d'âge ou qu'un élève majeur de l'établissement scolaire ou du home visé à l'article 1er, 1°, du présent décret où le membre du personnel exerce tout ou partie de ses fonctions soir en cause dans les offres de service qui y sont visées;
+
+\- 385 pour autant que l'outrage soit commis en présence d'un mineur d'âge ou d'un élève majeur de l'établissement scolaire ou du home visé à l'article 1er, 1°, du présent décret où le membre du personnel exerce tout ou partie de ses fonctions;
+
+\- 398, 399, 400, 401 pour autant que les coups ou blessures soient portés à un élève mineur ou majeur de l'établissement scolaire ou du home visé à l'article 1er, 1°, du présent décret où le membre du personnel exerce tout ou partie de ses fonctions.
+
+Dès le jour où le pouvoir organisateur a connaissance de l'inculpation ou de la prévention du membre du personnel, il doit prendre à son égard la mesure d'écartement visée au § 4 de l'article 60.
+
+Dans les dix jours ouvrables qui suivent la mesure d'écartement, la procédure de suspension préventive doit être engagée dans le respect notamment des §§ 3 et 4, alinéa 2, du même article.
+
+§ 2. Si le pouvoir organisateur ne se conforme pas aux dispositions du § 1er, le Gouvernement lui adresse une mise en demeure par laquelle il l'invite, dans un délai de trente jours calendrier à dater de cette mise en demeure, à apporter la preuve que les mesures prévues au § 1er ont été prises. Le Gouvernement peut, par arrêté, déléguer cette compétence au ministre fonctionnellement compétent.
+
+Si, à l'échéance de ce délai de trente jours calendrier, le pouvoir organisateur n'a pas apporté la preuve de ce qu'il a pris les mesures prévues au § 1er, il perd, pour une durée déterminée ci-après, le bénéfice des subventions de fonctionnement pour l'établissement ou les établissements où le membre du personnel concerne exerce tout ou partie de ses fonctions.
+
+La période visée à l'alinéa précédent débute à l'échéance du délai de trente jours calendrier et court jusqu'au jour où le pouvoir organisateur a apporté la preuve qu'il a pris les mesures prévues au § 1er.
+
+§ 3. La mesure de suspension préventive d'office visée au § 1er, alinéa 1er, est maintenue à l'égard du membre du personnel qui fait l'objet :
+
+1° d'une condamnation pénale non définitive prononcée sur base d'un des articles du Code pénal visés au § 1er, alinéa 1er, et contre laquelle le membre du personnel a fait usage de ses droits de recours ordinaires;
+
+2° d'une procédure disciplinaire engagée ou poursuivie à la suite d'une condamnation pénale définitive prononcée sur base d'un des articles du Code pénal visés au § 1er, alinéa 1er.
+
+Par contre, la mesure de suspension préventive d'office cesse ses effets si le membre du personnel fait l'objet d'un jugement d'acquittement rendu en première instance et qui fait l'objet d'un recours ordinaire.
+
+Toutefois, dans ce cas, le pouvoir organisateur peut décider de maintenir la suspension préventive du membre du personnel concerné en application de l'article 60.
+
+##### Art. 61
+
+&lt;DCFR 1998-04-06/32, art. 1, 005; En vigueur : 01-09-1998&gt; Tout membre du personnel suspendu préventivement maintient son droit au traitement.
+
+Par dérogation à l'alinéa 1er, le traitement de tout membre du personnel suspendu préventivement, qui fait l'objet :
+
+1° d'une inculpation ou d'une prévention dans le cadre de poursuites pénales;
+
+2° d'une condamnation pénale non définitive contre laquelle le membre du personnel a fait usage de ses droits de recours ordinaires;
+
+3° d'une procédure disciplinaire engagée ou poursuivie à la suite d'une condamnation pénale définitive;
+
+4° d'une procédure disciplinaire en raison d'une faute grave pour laquelle il y a soit flagrant délit, soit des indices probants et dont l'appréciation appartient au pouvoir organisateur;
+
+5° d'une décision de peine disciplinaire prévue à l'article 64, 4°, [<sup>1</sup> 5°,]<sup>1</sup> 6°, 7° et 8°, et contre laquelle le membre du personnel a introduit un recours, conformément à l'article 65, § 2, est fixé à la moitié de son traitement d'activité.
+
+Cette réduction du traitement ne peut avoir pour effet de ramener le traitement à un montant inférieur au montant des allocations de chômage auquel le membre du personnel aurait droit s'il bénéficiait du régime de sécurité sociale des travailleurs salariés.
+
+Pour l'application de l'alinéa 2, 1° et 2°, cette réduction de traitement prend effet le premier jour du mois qui suit le jour de l'inculpation ou de la prévention ou du prononcé de la condamnation non définitive.
+
+Pour l'application de l'alinéa 2, 3°, cette réduction de traitement déjà opérée en vertu de l'alinéa 2, 1° ou 2°, est maintenue au-delà de la condamnation définitive si le pouvoir organisateur notifie au membre du personnel son intention de poursuivre ou d'engager la procédure disciplinaire.
+
+Pour l'application de l'alinéa 2, 4°, la réduction de traitement prend effet le premier jour du mois qui suit la notification au pouvoir organisateur au membre du personnel de l'application de cet alinéa 2, 4°.
+
+Pour l'application de l'alinéa 2, 5°, cette réduction de traitement prend effet le jour où le membre du personnel a introduit son recours. ".
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 38, 026; En vigueur : 01-09-2012&gt;
+
+##### Art. 62
+
+&lt;DCFR 1998-04-06/32, art. 1, 005; En vigueur : 01-09-1998&gt; A l'issue de la procédure disciplinaire ou de la procédure pénale, la mesure de réduction de traitement est rapportée, sauf si :
+
+1° au terme de l'action disciplinaire, le pouvoir organisateur inflige au membre du personnel une des sanctions prévues à l'article 64, 4°, [<sup>1</sup> 5°,]<sup>1</sup> 6°, 7° et 8°;
+
+2° il est fait application de l'article 58, 1°, b, 4°;
+
+3° [<sup>1</sup> indépendamment de la poursuite ou non de la procédure disciplinaire, le membre du personnel fait l'objet d'une condamnation pénale définitive ou bénéficie d'une suspension du prononcé, et ce qu'elle soit ordonnée par une juridiction de jugement ou par une juridiction d'instruction, pour au moins un des faits qui ont justifié la procédure pénale.]<sup>1</sup>
+
+Lorsque la mesure de réduction de traitement est rapportée en application de l'alinéa 1er, le membre du personnel reçoit le complément de sa subvention-traitement initialement retenue augmenté des intérêts de retard calculés au taux légal et dus depuis le jour où la réduction a été opérée.
+
+Les sommes perçues par le membre du personnel durant la suspension préventive lui restent acquises.
+
+Si le traitement du membre du personnel a été réduit en application de l'article 61, alinéa 2, 4° ou 5°, et qu'au terme de la procédure disciplinaire, une sanction de suspension par mesure disciplinaire est prononcée pour une durée inférieure à la durée de la mesure de réduction de traitement, cette dernière est rapportée pour la période excédant la durée de la suspension par mesure disciplinaire et le membre du personnel perçoit dans ce cas le complément de sa subvention-traitement indûment retenue durant cette période, augmenté des intérêts de retard calculés au taux légal et dus depuis le jour où la réduction a été opérée.
+
+L'alinéa 4 ne s'applique pas dans le cadre d'une procédure disciplinaire engagée ou poursuivie après une condamnation pénale définitive.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 39, 026; En vigueur : 01-09-2012&gt;
+
+##### Art. 63
+
+&lt;DCFR 1998-04-06/32, art. 1, 005; En vigueur : 01-09-1998&gt; La suspension préventive est portée à la connaissance du Gouvernement afin que l'exécution immédiate de cette mesure soit assurée.
+
+### Section 3. &lt;Créée par DCFR 2003-07-17/44, art. 8; En vigueur : 01-09-2003&gt; - De la suspension préventive des membres du personnel désignés à titre temporaire.
+
+##### Art. 63bis
+
+&lt;DCFR 2003-07-17/44, art. 8, 013; En vigueur : 01-09-2003; l'ancien contenu de l'art. 63bis est passé dans l'article 59bis&gt; La suspension préventive organisée par la présente section est une mesure purement administrative, n'ayant pas le caractère d'une sanction.
+
+Elle est prononcée par le pouvoir organisateur et est motivée. Elle a pour effet d'écarter le membre du personnel temporaire de ses fonctions.
+
+Pendant la durée de la suspension préventive, le membre du personnel temporaire reste dans la position administrative de l'activité de service.
+
+##### Art. 63ter
+
+&lt;Inséré par DCFR 2003-07-17/44, art. 8; En vigueur : 01-09-2003&gt; § 1er. Lorsque l'intérêt du service ou de l'enseignement le requiert, une procédure de suspension préventive peut être entamée à l'égard d'un membre du personnel désigné à titre temporaire ou en qualité de temporaire prioritaire :
+
+1° s'il fait l'objet de poursuites pénales;
+
+2° dès que le pouvoir organisateur lui notifie, par lettre recommandée à la poste, la constatation d'une incompatibilité conformément aux articles 15 à 17;
+
+[<sup>1</sup> 3° concomitamment à la mise en oeuvre d'une procédure de licenciement dudit membre du personnel temporaire ou concomitamment à une procédure de fin de désignation à titre temporaire d'un membre du personnel exerçant une fonction de sélection ou de promotion.]<sup>1</sup>
+
+[<sup>2</sup> 4° s'il est fait application de l'article 67, § 17, ou de l'article 68, § 14, du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.]<sup>2</sup>
+
+§ 2. Avant toute mesure de suspension préventive, le membre du personnel doit avoir été invité à se faire entendre par le pouvoir organisateur [<sup>2</sup> par le pouvoir organisateur ]<sup>2</sup>.
+
+La convocation à l'audition ainsi que les motifs justifiant la suspension préventive sont notifiés au membre du personnel trois jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception portant ses effets trois jours ouvrables après la date de son expédition, soit par la remise d'une lettre de la main à la main avec accusé de réception portant ses effets à la date figurant sur cet accusé de réception.
+
+Au cours de l'audition, le membre du personnel peut se faire assister ou représenter par un avocat, par un défenseur choisi parmi les membres du personnel de l'enseignement officiel subventionné, en activité de service ou à la retraite, ou par un représentant d'une organisation syndicale agréée.
+
+Dans les trois jours ouvrables qui suivent celui prévu pour l'audition, le pouvoir organisateur communique sa décision au membre du personnel par lettre recommandée à la poste, et ce même si le membre du personnel ou son représentant ne se sont pas présentés à l'audition sans pouvoir faire valoir des circonstances de force majeure de nature à justifier leur absence à l'audition.
+
+Si le membre du personnel ou son représentant peuvent faire valoir des circonstances de force majeure de nature à justifier leur absence à l'audition, le pouvoir organisateur convoque le membre du personnel à une nouvelle audition notifiée conformément à l'alinéa 2.
+
+Dans ce cas, et même si le membre du personnel ou son représentant ne se sont pas présentés à l'audition, le pouvoir organisateur communique sa décision au membre du personnel par lettre recommandée à la poste dans les trois jours ouvrables qui suivent celui prévu pour l'audition.
+
+Si la décision conclut à la suspension préventive du membre du personnel, elle produit ses effets le troisième jour ouvrable suivant la date de son expédition.
+
+§ 3. Par dérogation à l'alinéa 1er du § 2, le membre du personnel peut être écarte de ses fonctions sur-le-champ en cas de faute grave pour laquelle il y a flagrant délit ou lorsque les griefs qui lui sont reprochés revêtent un caractère de gravite tel qu'il est souhaitable, dans l'intérêt du service, que le membre du personnel ne soit plus présent à l'école.
+
+Dans les dix jours ouvrables qui suivent le jour où la mesure d'écartement immédiat a été prise, le pouvoir organisateur est tenu d'engager la procédure de suspension préventive conformément aux dispositions du présent article. A défaut, la mesure d'écartement immédiat prendra fin au terme du délai précité et le membre du personnel ne pourra à nouveau être écarté de l'établissement pour la même faute grave ou les mêmes griefs que moyennant le respect de la procédure de suspension préventive telle que prévue notamment au § 2 du présent article.
+
+Le membre du personnel écarté sur-le-champ reste dans la position administrative de l'activité de service.
+
+§ 4. La durée de la suspension préventive ne peut dépasser six mois dans le cadre de la constatation d'une incompatibilité; dans le cadre de poursuites pénales, la durée de la suspension préventive n'est pas limitée à six mois.
+
+[<sup>2</sup> § 5. Dans le cadre d'une procédure visée au § 1er, 4°, la suspension préventive peut être prise pour une ou plusieurs périodes avec un maximum de 12 mois.
+
+Elle doit faire l'objet d'une confirmation écrite par le pouvoir organisateur tous les trois mois à dater de la prise d'effet.
+
+Cette confirmation est notifiée à l'intéressé par lettre recommandée à la poste.
+
+A défaut de confirmation de la suspension préventive dans les délais requis, le membre du personnel concerné peut réintégrer ses fonctions après en avoir informé le pouvoir organisateur, le délégué au contrat d'objectifs et le directeur de zone, par lettre recommandée, au moins dix jours ouvrables avant la reprise effective du travail.
+
+Après réception de cette notification, le pouvoir organisateur peut confirmer le maintien en suspension préventive selon la procédure décrite à l'alinéa 3.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 40, 026; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2018-09-13/14, art. 32, 037; En vigueur : 12-09-2018&gt;
+
+##### Art. 63quater
+
+&lt;Inséré par DCFR 2003-07-17/44, art. 8; En vigueur : 01-09-2003&gt; Tout membre du personnel temporaire suspendu préventivement maintient son droit au traitement.
+
+Par dérogation à l'alinéa 1er, le traitement de tout membre du personnel suspendu préventivement, qui fait l'objet :
+
+1° d'une inculpation ou d'une prévention dans le cadre de poursuites pénales;
+
+2° d'une condamnation pénale non définitive contre laquelle le membre du personnel a fait usage de ses droits de recours ordinaires, est fixé à la moitié de son traitement d'activité.
+
+Cette réduction du traitement ne peut avoir pour effet de ramener le traitement à un montant inférieur au montant des allocations de chômage auquel le membre du personnel aurait droit s'il bénéficiait du régime de sécurité sociale des travailleurs salariés.
+
+Cette réduction de traitement prend effet le premier jour du mois qui suit le jour de l'inculpation ou de la prévention ou du prononcé de la condamnation non définitive.
+
+##### Art. 63quinquies
+
+&lt;Inséré par DCFR 2003-07-17/44, art. 8; En vigueur : 01-09-2003&gt; § 1er. A l'issue de la procédure pénale, la mesure de réduction de traitement est rapportée sauf si :
+
+1° il est fait application de l'article 58, 1°, b), ou 4°;
+
+2° [<sup>1</sup> le membre du personnel fait l'objet d'une condamnation pénale définitive ou bénéficie d'une suspension du prononcé, et ce qu'elle soit ordonnée par une juridiction de jugement ou par une juridiction d'instruction, pour au moins un des faits qui ont justifié la procédure pénale.]<sup>1</sup>
+
+Lorsque la mesure de réduction de traitement est rapportée en application de l'alinéa 1er, le membre du personnel reçoit le complément de sa subvention-traitement initialement retenu augmenté des intérêts de retard calculés au taux légal et dus depuis le jour où la réduction a été opérée.
+
+Les sommes perçues par le membre du personnel durant la suspension préventive lui restent acquises.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 41, 026; En vigueur : 01-09-2012&gt;
+
+##### Art. 63sexies
+
+&lt;Inséré par DCFR 2003-07-17/44, art. 8; En vigueur : 01-09-2003&gt; La suspension préventive est portée à la connaissance du Gouvernement afin que l'exécution immédiate de cette mesure soit assurée.
+
+##### Art. 63septies
+
+&lt;Inséré par DCFR 2003-07-17/44, art. 8; En vigueur : 01-09-2003&gt; La procédure de suspension préventive ainsi que les mesures prises par le pouvoir organisateur à l'égard d'un membre du personnel désigné à titre temporaire en application des dispositions de la présente section prennent fin de plein droit à la date à laquelle la désignation prend fin et, au plus tard,[<sup>1</sup> le dernier jour]<sup>1</sup> de l'année scolaire en cours.
+
+Si le membre du personnel visé par la présente section acquiert la qualité de définitif, les dispositions de la section 2 du présent chapitre sont applicables.
+
+----------
+
+(1)&lt;DCFR 2022-03-31/35, art. 168, 045; En vigueur : 29-08-2022&gt;
+
+## CHAPITRE IX. - Régime disciplinaire.
+
+##### Art. 64
+
+La hiérarchie des peines disciplinaires qui peuvent être infligées aux membres du personnel nommés à titre définitif est la suivante :
+
+1° le rappel à l'ordre;
+
+2° le blâme;
+
+3° la retenue sur traitement;
+
+4° la suspension par mesure disciplinaire;
+
+5° la rétrogradation;
+
+6° la mise en disponibilité par mesure disciplinaire;
+
+7° [<sup>1</sup> la démission disciplinaire;]<sup>1</sup>
+
+8° la révocation.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/91, art. 55, 024; En vigueur : 01-09-2009&gt;
+
+##### Art. 65
+
+(§ 1. Les peines disciplinaires sont prononcées par le pouvoir organisateur de l'établissement dans lequel le membre du personnel est nommé à titre définitif ou par le pouvoir organisateur de l'établissement dans lequel le membre du personnel, nommé à titre définitif par un autre pouvoir organisateur, exerce tout ou partie de ses fonctions en application des dispositions réglementaires relatives à la mise en disponibilité par défaut d'emploi et à la réaffectation.
+
+La procédure peut également être engagée de façon conjointe par le pouvoir organisateur de l'établissement dans lequel le membre du personnel est nommé à titre définitif et par le ou les pouvoirs organisateurs du ou des établissements dans lequel ou lesquels le membre du personnel exerce tout ou partie de ses fonctions en application des dispositions réglementaires relatives à la mise en disponibilité par défaut d'emploi et à la réaffectation.
+
+Afin de permettre l'exercice conjoint de la procédure disciplinaire tel que précisé à l'alinéa précédent, le pouvoir organisateur de l'établissement dans lequel le membre du personnel exerce tout ou partie de ses fonctions en application des dispositions réglementaires relatives à la mise en disponibilité par défaut d'emploi et à la réaffectation, avertit par écrit le pouvoir organisateur de l'établissement dans lequel le membre du personnel est nommé, de son intention de diligenter une procédure disciplinaire à l'encontre du membre du personnel concerné.
+
+La peine disciplinaire ne sort ses effets qu'à l'égard du ou des pouvoirs organisateurs qui a ou ont prononcé une sanction.) &lt;DCFR 1999-02-08/37, art. 12, 1°, 008; En vigueur : 01-01-1999&gt;
+
+(§ 2.) (Sauf les précisions apportées par le présent article, le pouvoir organisateur visé au paragraphe 1er est l'autorité qui exerce le pouvoir de nomination.) &lt;DCFR 1999-02-08/37, art. 12, 2°, 008; En vigueur : 01-01-1999&gt;
+
+Dans les établissements relevant de l'enseignement communal, le collège des bourgmestre et échevins a le pouvoir de prononcer les peines suivantes : le rappel à l'ordre, le blâme, la retenue sur traitement et la suspension par mesure disciplinaire pour une durée qui ne pourra excéder [<sup>2</sup> trente jours]<sup>2</sup>.
+
+Dans les établissements relevant de l'enseignement provincial, [<sup>3</sup> le collège provincial]<sup>3</sup> a le pouvoir de prononcer les mêmes peines.
+
+[<sup>1</sup> § 2bis. Préalablement à la notification de la décision d'infliger une peine disciplinaire, le membre du personnel doit avoir été invité à se faire entendre par le pouvoir organisateur. La convocation à l'audition ainsi que les motifs en raison desquels le pouvoir organisateur envisage d'infliger une peine disciplinaire au membre du personnel doivent lui être notifiés cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception, soit par la remise d'une lettre de la main à la main avec accusé de réception. Lors de l'audition, le membre du personnel peut se faire assister ou représenter par un avocat, par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale agréée.
+
+La procédure se poursuit valablement lorsque le membre du personnel dûment convoqué ne se présente pas à l'audition ou n'y est pas représenté.]<sup>1</sup>
+
+(§ 3.) La décision d'infliger une peine disciplinaire est notifiée au membre du personnel qui peut, dans un délai de 20 jours à compter de la notification, exercer un recours auprès de la chambre de recours compétente, visée à l'article 75. (Le membre du personnel qui fait usage de son droit de recours en notifie immédiatement une copie à son pouvoir organisateur.) &lt;DCFR 1999-02-08/37, art. 12, 3°, 008; En vigueur : 01-01-1999&gt;
+
+Le recours suspend la procédure.
+
+Sauf dans les cas de poursuites pénales, la chambre de recours donne un avis motivé dans les nonante jours qui suivent la réception du recours introduit par le membre du personnel.
+
+§ 4. La décision définitive est prise par l'autorité habilitée à prononcer la peine dans [<sup>2</sup> les trente jours qui suivent]<sup>2</sup> la réception de l'avis.
+
+Elle reproduit l'avis motivé de la chambre de recours. Elle est, elle-même, motivée si elle s'écarte soit de l'avis, soit de la motivation de celui-ci.
+
+L'autorité notifie sa décision à la chambre de recours et au requérant.
+
+Si elle omet de se prononcer dans le délai requis, la décision est réputée conforme à l'avis.
+
+(§ 5. Si le membre du personnel n'a pas introduit de recours devant la chambre de recours dans le délai prescrit au paragraphe 3, la sanction disciplinaire notifiée au membre du personnel en application de ce même paragraphe 3, sort ses effets le troisième jour ouvrable qui suit l'échéance du délai précité.
+
+La notification vises au paragraphe 3, alinéa 1er, mentionne la date à laquelle la sanction disciplinaire prend effet en cas d'application de l'alinéa 1er du présent paragraphe.) &lt;DCFR 1999-02-08/37, art. 12, 4°, 008; En vigueur : 01-01-1999&gt;
+
+(§ 6. Dans le cadre d'un recours introduit à l'encontre d'une décision de peine disciplinaire, tous les éléments doivent être pris en considération par la Chambre de recours, en ce compris, le cas échéant, le rapport d'inspection portant sur les compétences professionnelles et pédagogiques ayant conduit à la procédure disciplinaire. La durée de validité de ce rapport est limitée à un délai de douze mois prenant cours à la date de son établissement. Toutefois, lorsque la procédure disciplinaire est entamée sur la base de celui-ci, dans ce délai, le rapport demeure valable jusqu'à la date à laquelle la décision définitive de peine disciplinaire est notifiée au membre du personnel.) &lt;DCFR 2005-05-04/42, art. 50, 017; En vigueur : 01-09-2004&gt;
+
+----------
+
+(1)&lt;DCFR 2007-12-13/54, art. 12, 022; En vigueur : 01-01-2008&gt;
+
+(2)&lt;DCFR 2012-07-12/31, art. 42, 026; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCFR 2018-07-11/29, art. 61, 036; En vigueur : 01-09-2018&gt;
+
+##### Art. 66
+
+La retenue sur traitement est appliquée pendant [<sup>1</sup> trente jours]<sup>1</sup> au minimum et [<sup>1</sup> nonante jours]<sup>1</sup> au maximum. Elle ne peut excéder le cinquième du traitement brut d'activité ou d'attente.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 43, 026; En vigueur : 01-09-2012&gt;
+
+##### Art. 67
+
+La suspension par mesure disciplinaire est prononcée pour un an au maximum.
+
+L'intéressé est écarté de ses fonctions et bénéficie de la moitié de son traitement brut d'activité ou d'attente.
+
+##### Art. 68
+
+La durée de mise en disponibilité par mesure disciplinaire en peut être inférieure à un an, ni dépasser cinq ans.
+
+Le membre du personnel est écarté de ses fonctions et bénéficie pendant les deux premières années d'un traitement d'attente égal à la moitié du traitement d'activité. Sans jamais pouvoir dépasser ce montant, le traitement d'attente est ensuite, fixé au taux de la pension que l'intéressé obtiendrait s'il était admis prématurément à la retraite.
+
+Après avoir subi la moitié de sa peine, le membre du personnel peut demander sa réintégration dans l'enseignement.
+
+##### Art. 69
+
+La retenue sur traitement d'attente ou l'attribution d'un traitement d'attente ne peut avoir pour conséquence que le traitement du membre du personnel soit ramené à un montant inférieur au montant des allocations de chômage auxquelles le membre du personnel aurait droit s'il bénéficiait du régime de sécurité sociale des travailleurs salariés.
+
+##### Art. 70
+
+&lt;Abrogé par DCFR 2007-12-13/54, art. 13, 022; En vigueur : 01-01-2008&gt;
+
+##### Art. 71
+
+Aucune peine ne peut produire d'effet pour la période qui précède son prononcé.
+
+##### Art. 72
+
+Hormis le cas de la suspension préventive, l'action disciplinaire engagée à l'égard d'un membre du personnel n'entraîne l'éloignement de l'intéressé de ses fonctions qu'à partir de la notification de la décision disciplinaire, (définitive visée à l'article 65, paragraphe 4, ou le troisième jour ouvrable visé au paragraphe 5 du même article). &lt;DCFR 1999-02-08/37, art. 13, 008; En vigueur : 01-01-1999&gt;
+
+##### Art. 73
+
+L'action pénale relative aux faits qui font l'objet d'une procédure disciplinaire est suspensive de la procédure et du prononcé disciplinaires, sauf dans le cas de flagrant délit ou si les faits établis, liés à l'activité professionnelle, sont reconnus par le membre du personnel.
+
+Quel que soit le résultat de l'action pénale, l'autorité administrative reste juge de l'application des peines disciplinaires.
+
+Toutefois, l'autorité disciplinaire est, dans cette appréciation, liée par la matérialité des faits définitivement établie par la décision pénale.
+
+##### Art. 74
+
+La peine disciplinaire est effacée d'office au terme d'un délai :
+
+1° d'un an pour le rappel à l'ordre et le blâme;
+
+2° de trois ans pour la retenue sur traitement;
+
+3° de cinq ans pour la suspension disciplinaire [<sup>1</sup> et la rétrogradation]<sup>1</sup>;
+
+4° de sept ans pour la mise en disponibilité par mesure disciplinaire.
+
+Le délai visé à l'alinéa 1er commence à courir selon le cas, au prononcé de la sanction disciplinaire ou à l'expiration du délai visé à l'article 65, § 3.
+
+Sans préjudice de l'exécution de la peine disciplinaire, l'effacement a pour conséquence que la peine ne peut plus avoir d'effet, notamment sur les droits à une fonction de sélection ou de promotion.
+
+La peine disciplinaire est effacée dans le dossier du membre du personnel.
+
+----------
+
+(1)&lt;DCFR 2018-07-11/29, art. 62, 036; En vigueur : 01-09-2018&gt;
+
+## CHAPITRE X. - Des chambres de recours.
+
+##### Art. 75
+
+Des chambres de recours, dont la compétence s'étend à un ou plusieurs niveaux d'enseignement, sont instituées par le Gouvernement après consultation des groupements les plus représentatifs des pouvoirs organisateurs et des groupements du personnel de l'enseignement officiel subventionné, au sens de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des gents relevant de ces autorités et de l'arrêté royal du 28 septembre 1984 portant exécution de la loi précitée.
+
+L'arrêté du Gouvernement instituant les chambres de recours en détermine la dénomination, la compétence et la composition.
+
+Chaque chambre de recours élabore son règlement d'ordre intérieur sous réserve d'approbation du Gouvernement.
+
+##### Art. 76
+
+Les chambres de recours sont composées :
+
+1° d'un nombre égal de représentants des pouvoirs organisateurs et des membres du personnel de l'enseignement officiel subventionné;
+
+2° (d'un président choisi parmi les magistrats en activité ou admis à la retraite (ou choisi parmi les fonctionnaires généraux de la Direction générale des Personnels de l'Enseignement subventionné. Si le président ou le président suppléant visé à l'alinéa 3 du présent article est un fonctionnaire général, l'indemnité de (50 euros) prévue à l'article 6 de l'arrêté du Gouvernement de la Communauté française du 19 mai 1995 instituant les chambres de recours dans l'enseignement officiel subventionné n'est pas due).) &lt;DCFR 1995-04-10/24, art. 13, 002; En vigueur : 01-01-1995&gt; &lt;DCFR 1999-02-08/37, art. 14, 008; En vigueur : 01-01-1999&gt; &lt;ACF 2002-06-27/38, art. 2, 011; En vigueur : 05-08-2002&gt;
+
+3° d'un secrétaire et de deux secrétaire adjoints.
+
+Le Gouvernement fixe le nombre de membres de chaque chambre de recours ainsi que la durée de leur mandat, chaque chambre comprenant au moins quatre membres effectifs représentant les pouvoirs organisateurs et quatre membres effectifs représentants les membres du personnel.
+
+Pour chaque membre effectif, il y a deux membres suppléants.
+
+Les membres effectifs et suppléants sont nommés par le Gouvernement sur proposition des groupements visés à l'article 76. A défaut d'accord au sein de ceux-ci, le Gouvernement procède directement aux nominations.
+
+##### Art. 77
+
+Dès qu'une affaire est introduite, le président communique au membre du personnel et au pouvoir organisateur la liste des membres effectifs et suppléants. Dans les dix jours qui suivent la réception de cette liste, le membre du personnel et le pouvoir organisateur peuvent récuser trois membres au maximum. Toutefois, ils ne peuvent récuser en même temps un membre effectif et ses deux suppléants.
+
+Les président, présidents suppléants, les membres effectifs et les membres suppléants ne peuvent siéger dans une affaire concernant leur conjoint ou un parent ou un allié, jusqu'au quatrième degré inclusivement.
+
+Tout membre qui sait cause de récusation en sa personne est tenu de s'abstenir.
+
+Un membre peut également demander à être déchargé s'il estime avoir un intérêt moral en la cause ou s'il croit que l'on puisse douter de son impartialité.
+
+##### Art. 78
+
+Les parties sont convoquées par le président dans les vingt jours qui suivent la réception du recours et sont entendues par la chambre de recours.
+
+Le membre du personnel peut se faire assister ou représenter par un avocat, par un défenseur choisi parmi les membres du personnel en activité de service ou pensionnés de l'enseignement officiel subventionné ou par un représentant d'une organisation syndicale représentative, au sens de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités et de l'arrêté royal du 28 septembre 1984 portant exécution de la loi précitée.
+
+Le pouvoir organisateur peut se faire assister ou représenter par un représentant d'une organisation représentative de pouvoirs organisateurs, par un avocat, par un défenseur choisi parmi les représentants des pouvoirs organisateurs de l'enseignement officiel subventionné ou par un délégué d'une association qui défend les intérêts des pouvoirs organisateurs.
+
+(En cas d'absence de l'une des parties régulièrement convoquées ou de son défenseur), la chambre de recours statue valablement lors de sa deuxième séance. Les deux séances ne peuvent être espacés de moins de cinq jours. &lt;DCFR 1999-02-08/37, art. 15, 008; En vigueur : 01-01-1999&gt;
+
+Avant de délibérer, la chambre de recours peut ordonner une enquête complémentaire et entendre des témoins.
+
+##### Art. 79
+
+La chambre de recours ne peut se prononcer que si au moins deux membres représentant les pouvoirs organisateurs et deux membres représentant les membres du personnel sont présents.
+
+Les membres représentant les pouvoirs organisateurs et les membres représentant les membres du personnel doivent être en nombre égal pour prendre part au vote. Le cas échéant, la parité est rétablie par l'élimination d'un ou de plusieurs membres après tirage au sort.
+
+Si le quorum visé à l'alinéa 1er n'est pas atteint, le président convoque une nouvelle réunion dans les quinze jours. Au cours de cette réunion, une décision pourra être prise quel que soit le nombre des membres présents.
+
+L'avis est donné à la majorité. Le vote est secret. En cas de parité, le président décide.
+
+L'avis motivé de la chambre de recours est signifié aux parties [<sup>1</sup> ...]<sup>1</sup> à la poste dans les cinq jours qui suivent la réunion au cours de laquelle il a été donné.
+
+----------
+
+(1)&lt;ACF 2017-10-25/11, art. 6, 034; En vigueur : 22-04-2018&gt;
+
+##### Art. 79bis
+
+&lt;Inséré par DCFR 1998-07-17/34, art. 19; En vigueur : 01-09-1998&gt; La chambre de recours ne peut se réunir du 15 juillet au 15 août inclus, sauf urgence unanimement reconnue par l'ensemble des membres présents y compris le président.
+
+[<sup>1</sup> Les délais visés aux articles 25, § 1er, 1° ; 30 § 1er, alinéa 7; 65, § 3, alinéa 3 et 83, § 1, alinéa 3, attribués à la Chambre de recours pour rendre son avis motivé, sont suspendus durant cette période.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-07-11/29, art. 63, 036; En vigueur : 01-09-2018&gt;
+
+##### Art. 80
+
+[<sup>1</sup> - Les frais de fonctionnement de la Chambre de recours sont à charge de la Communauté française. Le Gouvernement détermine les indemnités auxquelles le Président et les Présidents suppléants ont droit. Toutefois, si le Président ou le Président suppléant est un fonctionnaire général, aucune indemnité n'est due.
+
+Le mandat des membres de la Chambre de recours est gratuit. Toutefois, des indemnités de frais de parcours peuvent leur être accordées suivant les dispositions réglementaires applicables en la matière.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2026-06-11/18, art. 121, 055; En vigueur : 24-08-2026&gt;
+
+## CHAPITRE XI. - (De la mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement.) &lt;DCFR 2003-07-17/44, art. 6; En vigueur : 01-09-2003&gt;
+
+##### Art. 81
+
+&lt;DCFR 2003-07-17/44, art. 6, 013; En vigueur : 01-09-2003&gt; Le membre du personnel nommé à titre définitif peut être mis en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement par son pouvoir organisateur suite à une proposition de mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement formulée selon des modalités définies par le Gouvernement. La durée de la mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement ne peut dépasser, en une ou plusieurs périodes, six mois sur l'ensemble de la carrière du membre du personnel.
+
+Toutefois, il peut être dérogé à la limitation visée à l'alinéa 1er afin que la mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement prononcée au cours d'une année scolaire à l'égard d'un membre du personnel soit prolongée jusqu'au terme de l'année scolaire en cours.
+
+La demande de dérogation est soumise, pour accord, au Gouvernement par le pouvoir organisateur.
+
+Durant la mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement, le membre du personnel perçoit un traitement d'attente égal à 75 % de son dernier traitement d'activité.
+
+Un pouvoir organisateur ne peut placer un membre de son personnel en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement si les faits pour lesquels il envisage cette mesure peuvent faire l'objet d'une sanction disciplinaire ou d'une procédure de constatation d'incompatibilité ou si le membre du personnel fait l'objet, pour ces faits, de poursuites pénales.
+
+##### Art. 82
+
+&lt;DCFR 2003-07-17/44, art. 6, 013; En vigueur : 01-09-2003&gt; Préalablement à toute proposition de mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement, le membre du personnel doit avoir été invite à se faire entendre par le pouvoir organisateur.
+
+La convocation à l'audition ainsi que les motifs en raison desquels le pouvoir organisateur envisage de placer le membre du personnel en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement doivent lui être notifiés cinq jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception, soit par la remise d'une lettre de la main à la main avec accusé de réception.
+
+Lors de l'audition, le membre du personnel peut se faire assister ou représenter par un avocat, par un défenseur choisi parmi les membres du personnel de l'enseignement officiel subventionné, en activité de service ou pensionné, ou par un représentant d'une organisation syndicale agréée. La procédure se poursuit valablement lorsque le membre du personnel dûment convoqué ne se présente pas à l'audition ou n'y est pas représenté.
+
+Toutefois, si le membre du personnel ou son représentant peuvent faire valoir des circonstances de force majeure de nature à justifier leur absence à l'audition, le membre du personnel est convoqué à une nouvelle audition notifiée conformément aux alinéas précédents.
+
+Dans ce cas, et même si le membre du personnel ou son représentant ne se sont pas présentés à l'audition, la procédure se poursuit valablement.
+
+##### Art. 83
+
+&lt;DCFR 2003-07-17/44, art. 6, 013; Inwerkingtreding : 01-09-2003&gt; § 1er. Le pouvoir organisateur notifie la proposition de mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement au membre du personnel qui peut, dans les dix jours de cette notification, introduire un recours auprès de la chambre de recours compétente.
+
+Le membre du personnel qui fait usage de son droit de recours en notifie immédiatement une copie à son pouvoir organisateur.
+
+La chambre de recours se prononce [<sup>2</sup> dans un délai de 45 jours]<sup>2</sup> maximum à dater de la réception du recours.
+
+La chambre de recours remet son avis motivé à la direction générale de l'Enseignement obligatoire ou à la direction générale de l'Enseignement non obligatoire, selon le cas.
+
+La direction générale de l'Enseignement obligatoire ou la direction générale de l'Enseignement non obligatoire, selon le cas, rendent un avis au ministre fonctionnel dans un délai de [<sup>1</sup> quatorze jours]<sup>1</sup> maximum à partir de la réception de l'avis de la chambre de recours. A cet effet, elles s'entourent de tout complément d'information quelles jugent utile.
+
+Une copie de l'avis visé au paragraphe précédent est communiquée au pouvoir organisateur et au membre du personnel concerné.
+
+Le ministre fonctionnel autorise ou refuse la proposition de mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement dans un délai de [<sup>1</sup> quatorze jours]<sup>1</sup> maximum. Cette décision est notifiée au plus tard à l'échéance du délai pour rendre la décision et sort ses effets le troisième jour ouvrable après sa notification au membre du personnel concerné.
+
+Dans le cas d'un refus, le pouvoir organisateur ne peut mettre le membre du personnel en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement.
+
+Dans le cas d'une autorisation, le pouvoir organisateur peut mettre le membre du personnel en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement.
+
+§ 2. Si le membre du personnel n'a pas introduit de recours devant la chambre de recours dans le délai prescrit au § 1er, la proposition de mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement est transmise, à l'issue dudit délai, à la direction générale de l'Enseignement obligatoire ou à la direction générale de l'Enseignement non obligatoire, selon le cas.
+
+La proposition de mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement contre laquelle un recours n'a pas été exercé peut être exécutée par le pouvoir organisateur à ses risques et périls.
+
+La direction générale de l'Enseignement obligatoire ou la direction générale de l'Enseignement non obligatoire, selon le cas, rendent un avis dans un délai de [<sup>1</sup> quatorze jours]<sup>1</sup> maximum à compter de la réception de la proposition de mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement. A cet effet, elles s'entourent de tout complément d'information qu'elles jugent utile.
+
+Une copie de l'avis visé à l'alinéa précédent est communiquée au pouvoir organisateur et au membre du personnel concerné.
+
+Le ministre fonctionnel autorise ou refuse la proposition de mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement dans un délai de [<sup>1</sup> quatorze jours]<sup>1</sup> maximum. Cette décision est notifiée au plus tard à l'échéance du délai pour rendre la décision et sort ses effets le troisième jour ouvrable après sa notification au membre du personnel concerné.
+
+Dans le cas d'un refus, le pouvoir organisateur ne peut mettre le membre du personnel en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement.
+
+Dans le cas d'une autorisation, le pouvoir organisateur peut mettre le membre du personnel en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 44, 026; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2026-06-11/18, art. 122, 055; En vigueur : 24-08-2026&gt;
+
+##### Art. 84
+
+(Abrogé) &lt;DCFR 1998-07-17/34, art. 20, 007; En vigueur : 01-09-1998&gt;
+
+## CHAPITRE XII. - Des commissions paritaires.
+
+### Section 1. - Généralités.
+
+##### Art. 85
+
+Après consultation des groupements les plus représentatifs des pouvoirs organisateurs et des groupements du personnel de l'enseignement officiel subventionné, au sens de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités et de l'arrêté royal du 28 septembre 1984 portant exécution de la loi précitée, le Gouvernement institue :
+
+1° une commission paritaire centrale dont la compétence s'étend à tous les niveaux d'enseignement;
+
+2° des commissions paritaires dont la compétence s'étend à un ou plusieurs niveaux d'enseignement;
+
+3° des commissions paritaires locales dont la compétence s'étend à un ou plusieurs niveaux d'enseignement.
+
+L'arrêté du Gouvernement instituant une commission paritaire en précise la dénomination, la compétence et la composition.
+
+##### Art. 86
+
+Les décisions des commissions paritaires visées à l'article 85, alinéa 1er, 1° et 2° peuvent, à leur demande, être rendues obligatoires, par arrêté du Gouvernement.
+
+Si le Gouvernement estime ne pas pouvoir donner suite à cette demande, il en fait connaître les motifs à la commission intéressée.
+
+##### Art. 87
+
+&lt;DCFR 1999-02-08/37, art. 16, 008; En vigueur : 01-01-1999&gt; Les règles complémentaires prises par la commission paritaire centrale ne peuvent s'écarter des règles du présent décret.
+
+Les règles complémentaires prises par les commissions paritaires visées à l'article 85, alinéa 1er, 2° et 3°, ne peuvent s'écarter des règles du présent décret ni des règles complémentaires fixées par la commission paritaire centrale et rendues obligatoires par arrêté du Gouvernement.
+
+Par ailleurs, les règles complémentaires prises par les commissions paritaires locales ne peuvent s'écarter des règles complémentaires fixées par les commissions paritaires visées à l'article 85, alinéa 1er, 2°, rendues obligatoires par arrêté du Gouvernement, et ne peuvent être rendues obligatoires que si elles sont approuvées par délibération du conseil communal ou [<sup>1</sup> du collège provincial]<sup>1</sup>, selon le cas.
+
+----------
+
+(1)&lt;DCFR 2018-07-11/29, art. 64, 036; En vigueur : 01-09-2018&gt;
+
+### Section 2. - Des commissions paritaires centrales.
+
+##### Art. 88
+
+Le règlement général des commissions paritaires est établi par le Gouvernement.
+
+Chaque commission élabore son règlement d'ordre intérieur particulier, sous réserve d'approbation du Gouvernement de la Communauté.
+
+##### Art. 89
+
+Les commissions paritaires sont composées :
+
+1° d'un nombre égal de représentants des pouvoirs organisateurs et des membres du personnel;
+
+2° d'un président et d'un vice-président;
+
+3° de référendaires, dont la mission est de conseiller la commission;
+
+4° d'un secrétaire et d'un secrétaire adjoint.
+
+Le nombre de membres de chaque commission paritaire, ainsi que la durée de leur mandat est fixé par le Gouvernement.
+
+Le président, le vice-président, les référendaires, le secrétaire et le secrétaire adjoint n'ont pas voix délibérative.
+
+Chaque commission comprend au moins six membres effectifs représentant les pouvoirs organisateurs et six membres effectifs représentant le personnel.
+
+Les représentants des pouvoirs organisateurs des membres du personnel peuvent se faire assister de conseillers techniques dont le nombre maximum sera déterminé par le règlement d'ordre intérieur visé à l'article 88.
+
+##### Art. 90
+
+Les membres effectifs et suppléants des commissions paritaires sont nommés par le Gouvernement sur proposition des groupements visés à l'article 85. A défaut d'accord entre ces groupements, le Gouvernement de la Communauté détermine le nombre de mandats attribués à chacun d'eux.
+
+Le président et vice-président sont choisis par le Gouvernement parmi les personnes indépendantes des intérêts dont la commission peut avoir à connaître.
+
+Les référendaires, secrétaires et secrétaires-adjoints sont nommés par le Gouvernement. L'exercice des fonctions de président et de vice-président est incompatible avec l'exercice d'un mandat parlementaire.
+
+##### Art. 91
+
+Les commissions paritaires ont principalement pour mission, chacune dans leur champ de compétence :
+
+1° de délibérer sur les conditions générales de travail;
+
+2° de prévenir ou de concilier tout différend qui menacerait de s'élever ou se serait élevé entre les pouvoirs organisateurs et les membres du personnel relevant du présent décret;
+
+3° d'établir pour le personnel de l'enseignement officiel subventionné des règles complémentaires aux dispositions statutaires du présent décret et de ses arrêtés d'exécution;
+
+4° de donner des avis sur toutes questions relatives à l'organisation, la défense et le promotion de l'enseignement officiel.
+
+##### Art. 92
+
+Les décisions des commissions paritaires sont prises à l'unanimité, la majorité des membres se trouvant réunie dans chaque groupe.
+
+Toutefois, si l'unanimité ne peut être atteinte ou si la majorité n'est pas présente au sein de chaque groupe, une nouvelle réunion de la commission se tient dans les quinze jours.
+
+Dans ce cas, les décisions seront prises valablement à condition qu'elles recueillent les deux tiers des suffrages exprimés parmi les membres présents au sein de chaque groupe.
+
+Pour l'application des alinéas 1er à 3, ne sont pas considérés comme des suffrages :
+
+1° les votes blancs;
+
+2° les abstentions.
+
+### Section 3. - Des commissions paritaires locales.
+
+##### Art. 93
+
+Le règlement général des commissions paritaires locales est établi par un arrêté du Gouvernement.
+
+Chaque commission élabore son règlement d'ordre intérieur.
+
+##### Art. 94
+
+Les commissions paritaires locales comprennent :
+
+1° un nombre égal de représentants du pouvoir organisateur et des membres du personnel;
+
+2° un président et un vice-président;
+
+3° un secrétaire et un secrétaire adjoint.
+
+La composition et le mode de fonctionnement de ces commissions sont fixés par le Gouvernement.
+
+Dans l'enseignement provincial, la présidence de ces commissions est exercée par le délégué [<sup>1</sup> du collège provincial]<sup>1</sup> du conseil provincial. Dans l'enseignement communal, elle est exercée par le bourgmestre ou son délégué. [<sup>1</sup> En ce qui concerne les pouvoirs organisateurs créés en application du décret du 17 novembre 2016 autorisant la Communauté française à s'associer à des tierces parties au sein d'une personne morale de droit public et en fixant la création, la composition, la compétence, le fonctionnement et le contrôle, elle est exercée par le président du pouvoir organisateur ou son délégué.]<sup>1</sup>
+
+Le vice-président est choisi parmi les représentants des membres du personnel.
+
+----------
+
+(1)&lt;DCFR 2018-07-11/29, art. 65, 036; En vigueur : 01-09-2018&gt;
+
+##### Art. 95
+
+Les commissions paritaires locales ont principalement pour mission, chacune dans leur champ de compétence :
+
+1° de délibérer sur les conditions générales de travail;
+
+2° de prévenir ou de concilier tout différend qui menacerait de s'élever ou se serait élevé entre le pouvoir organisateur et les membres de son personnel relevant du présent décret;
+
+3° d'établir pour le personnel de l'enseignement officiel subventionné des règles complémentaires aux dispositions statutaires du présent décret et de ses arrêtés d'exécution, et aux règles complémentaires fixées par les commissions paritaires communautaires rendues obligatoires par le Gouvernement;
+
+4° de donner des avis sur toutes questions relatives à l'organisation, la défense et la promotion de l'enseignement officiel;
+
+5° [<sup>1</sup> ...]<sup>1</sup>
+
+(6° de contrôler le respect par le pouvoir organisateur des articles 36ter, §§ 2 et 3, 36quater, §§ 2 et 3, et 36quinquies, §§ 2 et 3.) &lt;DCFR 2003-07-17/44, art. 11, 013; En vigueur : 01-09-2003&gt;
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 45, 026; En vigueur : 01-09-2012&gt;
+
+##### Art. 96
+
+Les décisions des commissions paritaires locales sont prises à l'unanimité, la majorité des membres se trouvant réunie au sein de chaque groupe.
+
+Toutefois, si l'unanimité ne peut être atteinte ou si la majorité des membres n'est pas présente dans chaque groupe, une nouvelle réunion de la commission se tient dans les quinze jours.
+
+Dans ce cas, les décisions seront prises valablement à la condition qu'elles recueillent deux tiers des suffrages exprimés parmi les membres présents au sein de chaque groupe.
+
+Pour l'application des alinéas 1er à 3, ne sont pas considérés comme des suffrages :
+
+1° les votes blancs;
+
+2° les abstentions.
+
+### Section 4. - Contrôle et sanction des décisions rendues obligatoires.
+
+##### Art. 97
+
+§ 1. L'exécution des décisions, rendues obligatoires conformément à l'article 86 est surveillée, sans préjudice des devoirs qui incombent aux officiers de police judiciaire, par des agents désignés par le Gouvernement.
+
+§ 2. En cas d'infraction, les agents mentionnés au § 1er dressent des procès-verbaux qu'ils transmettent au procureur du Roi compétent et une copie en est adressée, [<sup>1</sup> ...]<sup>1</sup> à la poste dans les huit jours, au contrevenant, le tout à peine de nullité.
+
+§ 3. Les agents mentionnés au § 1er ont la libre entrée des locaux où les membres du personnel exercent leur mission.
+
+Les chefs d'établissement, ainsi que les membres du personnel administratif sont tenus de leur fournir les renseignements dont ils ont besoin pour s'acquitter de leur mission.
+
+§ 4. Toute infraction aux décisions, rendues obligatoires, conformément à l'article 86, est punie d'une amende de (2,50 à 2.500 EUR). L'amende est encourue autant de fois qu'il y a de personnes employées en contravention des dites décisions, sans que le total des amendes puisse dépasser (5.000 EUR). &lt;ACF 2001-11-08/51, art. 16, 009; En vigueur : 01-01-2002&gt;
+
+Ces peines prévues à l'alinéa précédent sont applicables à tout membre du personnel qui contrevient aux mêmes dispositions.
+
+§ 5. Les pouvoirs organisateurs et les chefs d'établissement, ainsi que le personnel enseignant et administratif qui ont mis obstacle à la surveillance organisée en vertu du présent décret, sont punis d'une amende de 26 à 100 francs, sans préjudices, s'il y a lieu, de l'application des peines édictées par les articles 269 à 274 du Code pénal.
+
+§ 6. Est puni d'une amende de (2,50 à 2.500 EUR), quiconque a, dans le but d'induire en erreur, fait des déclarations inexactes au cours des enquêtes effectuées par le service de contrôle. &lt;ACF 2001-11-08/51, art. 16, 009; En vigueur : 01-01-2002&gt;
+
+§ 7. Les pouvoirs organisateurs sont civilement responsables du paiement des amendes prononcées à charge de leurs chefs d'établissement.
+
+----------
+
+(1)&lt;ACF 2017-10-25/11, art. 6, 034; En vigueur : 22-04-2018&gt;
+
+## CHAPITRE XIII. - Inopposabilité des clauses contraires au statut.
+
+##### Art. 98
+
+Toute disposition figurant dans un acte de désignation ou dans un règlement de travail, contraire aux dispositions légales impératives, notamment des articles 12bis, § 1er, et 45 de la loi du 29 mai 1959 modifiant certaines dispositions de législation de l'enseignement, au présent décret ou aux règles complémentaires fixées par les commissions paritaires compétentes, est inopposable.
+
+## CHAPITRE XIV. - Dispositions modificatives, abrogatoires, transitoires et finales.
+
+##### Art. 99
+
+Cessent de s'appliquer au personnel soumis au présent décret :
+
+1° les articles 150 à 152 de la nouvelle loi communale, modifié par la loi du 24 mai 1991;
+
+2° (Les articles 30, § 1er, 74, 75 et 76 des lois sur l'enseignement primaire, coordonnées le 20 août 1957.) &lt;DCFR 1995-04-10/24, art. 14, 002; En vigueur : 01-01-1995&gt;
+
+##### Art. 100
+
+§ 1. Les membres du personnel subventionnés, nommés à titre définitif et y assimilés avant l'entrée en vigueur du présent décret, sont censés être nommés à titre définitif au sens du présent décret (, dans les attributions exercées au 31 décembre 1994). &lt;DCFR 1998-07-17/34, art. 21, 007; En vigueur : 01-01-1995&gt;
+
+§ 2. Les membres du personnel subventionnés qui, avant la date d'entrée en vigueur du présent décret, occupent temporairement un emploi dans une fonction de recrutement, peuvent être nommés à titre définitif au plus tard le 1er jour du troisième mois qui suit la date de publication au Moniteur belge, à condition qu'à la date de la nomination, ils satisfassent aux conditions de l'article 30, à l'exception des 8° et 11°, et qu'en outre, ils aient occupé pendant deux ans un emploi subventionné.
+
+La nomination (visée à l'alinéa 1) ne peut être accordée que dans un emploi vacant qui, sur la base de la réglementation en vigueur, n'est plus accessible par réaffectation d'un membre du personnel mis en disponibilité par défaut d'emploi. &lt;DCFR 1995-04-10/24, art. 15, 2°, 002; En vigueur : 01-01-1995&gt;
+
+Les membres du personnel visés au présent paragraphe qui n'ont pas bénéficié de la disposition de l'alinéa 1er valorisent l'ancienneté acquise au service du pouvoir organisateur selon le mode de calcul prévu à l'article 34, pour autant qu'ils soient prioritaires auprès du pouvoir organisateur conformément à l'article 24, § 1er.
+
+(Les pouvoirs organisateurs peuvent néanmoins procéder à des nominations avec effet au 1er janvier 1995 au plus tard jusqu'au 30 juin de l'année scolaire 1994-1995.
+
+Par ailleurs, dans l'enseignement de promotion sociale, ces nominations peuvent être effectuées entre le 1er janvier et le 30 juin pour autant que les unités de formation aient été prévues avant le 1er janvier 1995.) &lt;DCFR 1995-04-10/24, art. 15, 1°, 002; En vigueur : 01-01-1995&gt;
+
+§ 3. Les membres du personnel qui, avant l'entrée en vigueur du présent décret, occupent temporairement un emploi (...) dans une fonction de sélection, peuvent être nommés à titre définitif dans cette fonction dès qu'ils satisfont à la condition de l'article 40, alinéa 1er, 1°, et possèdent l'aptitude physique requise par l'article 30, alinéa 1er, 6°. &lt;DCFR 1995-04-10/24, art. 15, 3°, 002; En vigueur : 01-01-1995&gt;
+
+La nomination (visée à l'alinéa 1) ne peut être accordée que dans l'emploi qui, sur base de la réglementation en vigueur, n'est plus accessible par réaffectation ou par remise au travail d'un membre du personnel mis en disponibilité par défaut d'emploi. &lt;DCFR 1995-04-10/24, art. 15, 2°, 002; En vigueur : 01-01-1995&gt;
+
+Par dérogation à l'article 42, § 1er, 3°, et en attendant cette nomination, les membres du personnel visés à l'alinéa 1er peuvent continuer à exercer la fonction dont ils ont été chargés temporairement.
+
+§ 4. Les membres du personnel subventionnés qui, avant l'entrée en vigueur du présent décret, occupent temporairement un emploi (...) dans une fonction de promotion, peuvent être nommés à titre définitif dans cette fonction dès qu'ils satisfont à la condition de l'article 49, alinéa 1er, 1°, et remplissent la condition d'aptitude physique fixée à l'article 30, alinéa 1er, 6°. &lt;DCFR 1995-04-10/24, art. 15, 3°, 002; En vigueur : 01-01-1995&gt;
+
+La nomination (visée à l'alinéa 1) ne peut être accordée que dans l'emploi qui, sur base de la réglementation en vigueur, n'est plus accessible par réaffectation ou par remise au travail d'un membre du personnel mis en disponibilité par défaut d'emploi dans l'enseignement subventionné. &lt;DCFR 1995-04-10/24, art. 15, 2°, 002; En vigueur : 01-01-1995&gt;
+
+Par dérogation à l'article 50, § 1er, 3°, et en attendant cette nomination, ces membres du personnel peuvent continuer à exercer la fonction dont ils ont été chargés temporairement.
+
+§ 5. Les commissions paritaires locales déterminent les conditions de validation des services accomplis avant l'entrée en vigueur du présent décret en tant qu'agent contractuel subventionné, chômeur mis au travail, cadre spécial temporaire, stagiaire de l'éducation nationale ou communautaire.
+
+§ 6. Les membres du personnel subventionné nommés à titre de stagiaires dans l'enseignement de promotion socio-culturelle (et dans l'enseignement artistique) avant l'entrée en vigueur du présent statut sont censés être nommés à titre définitif le premier jour du mois qui suit l'entrée en vigueur du présent décret. &lt;DCFR 1995-04-10/24, art. 15, 4°, 002; En vigueur : 01-01-1995&gt;
+
+§ 7. Par dérogation aux dispositions de l'article 29, § 1er, les membres du personnel qui, au 1er janvier 1995, exercent à titre définitif une fonction de recrutement dans deux pouvoirs organisateurs issus de la scission de la province de Brabant, conservent pendant trois années scolaires consécutives à compter de l'année scolaire 1994-1995, la possibilité d'obtenir à leur demande un changement d'affectation prioritaire dans l'un des deux pouvoirs organisateurs précités.
+
+Ce changement d'affectation leur est accordé dans tout emploi vacant de la même fonction qui reste disponible après que le pouvoir organisateur qui accueille ait satisfait à ses obligations en matière de réaffectation vis-à-vis des membres de son personnel.
+
+##### Art. 101
+
+&lt;DCFR 1995-04-10/24, art. 16, § 1, 002; En vigueur : 01-01-1995&gt; En attendant l'exécution de l'article 12bis, § 2, de la loi du 29 mai 1959, les titres de capacité requis et jugés suffisants sont considérés comme titres de capacité visés à l'article 2 [<sup>1</sup> , alinéa 1er]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/37, art. 116, 032; En vigueur : 01-09-2016&gt;
+
+##### Art. 101bis
+
+&lt;Inséré par DCFR 1995-04-10/24, art. 16, § 2; En vigueur : 01-01-1995&gt; La mise en disponibilité par défaut d'emploi, la déclaration en perte partielle de charge, la réaffectation des membres du personnel mis en disponibilité et l'octroi d'une subvention-traitement d'attente sont réglés par le Gouvernement.
+
+##### Art. 101ter
+
+(inséré par &lt;DCFR 1998-06-02/55, art. 7, En vigueur : 04-08-1998&gt;) A titre transitoire, les membres du personnel qui avaient acquis la qualité de temporaire prioritaire dans une fonction de l'enseignement de promotion sociale pour l'année scolaire 1997-1998 gardent cette qualité de temporaire prioritaire pour l'année scolaire 1998-1999, pour autant qu'ils fassent acte de candidature dans la fonction visée selon les conditions fixées pour l'année scolaire 1998-1999.
+
+##### Art. 101quater
+
+&lt;Inséré par DCFR 1998-07-17/34, art. 22; En vigueur : 01-09-1998&gt; § 1. Le pouvoir organisateur perd le bénéfice de la subvention-traitement pour tout membre du personnel dont il ne notifierait pas la mise en disponibilité par défaut d'emploi ou la perte partielle de charge.
+
+Dans le cas de la perte partielle de charge, la perte de la subvention-traitement est limitée au nombre de périodes perdues.
+
+§ 2. Le pouvoir organisateur qui omet de signaler aux (Commissions de gestion des emplois) l'emploi occupé par un membre du personnel temporaire et qui est susceptible d'être annoncé à la réaffectation et au rappel provisoire à l'activité perd le bénéfice de la subvention-traitement accordée à ce membre du personnel. &lt;DCFR 2004-05-12/62, art. 40, 015; En vigueur : 01-09-2004&gt;
+
+§ 3. Le pouvoir organisateur qui a refusé, sans motif valable, de donner suite à une réaffectation ou à un rappel provisoire à l'activité décidé par l'organe de réaffectation créé par le Gouvernement ou qui ne satisfait pas à ses obligations en matière de reconduction des réaffectations et des rappels provisoires à l'activité perd le bénéfice de la subvention-traitement accordée au membre du personnel temporaire qui occupe l'emploi attribué à cette réaffectation ou à ce rappel provisoire à l'activité.
+
+§ 4. Le Gouvernement adresse au pouvoir organisateur une mise en demeure par laquelle il l'invite, dans un délai de trente jours à dater de cette mise en demeure, à apporter la preuve qu'il ne se trouve plus dans un cas d'application des paragraphes 1 à 3. Le Gouvernement peut, par arrêté, déléguer cette compétence au ministre fonctionnellement compétent.
+
+Si, à l'échéance de ce délai de trente jours, le pouvoir organisateur n'a pas apporté la preuve de ce qu'il ne se trouve plus dans un des cas d'application des paragraphes 1 à 3, il perd, comme indiqué à ces paragraphes, le bénéfice de la subvention-traitement pour une période qui débute à échéance du délai de trente jours précité et qui court jusqu'au jour où le pouvoir organisateur a apporté la preuve qu'il ne se trouve plus dans un cas d'application des paragraphes 1 à 3.
+
+Une copie de la mise en demeure visée à l'alinéa 1 est notifiée au membre du personnel concerné.
+
+§ 5. Le membre du personnel qui ne s'est pas présenté au pouvoir organisateur auprès duquel il a été réaffecté ou rappelé provisoirement à l'activité, perd le droit à toute subvention-traitement ou subvention-traitement d'attente à dater du jour où il aurait dû se présenter auprès de ce pouvoir organisateur. Le paiement de la subvention-traitement d'attente ou de la subvention-traitement sera rétabli à dater du jour où la (Commissions de gestion des emplois) aura donné gain de cause au membre du personnel qui aurait introduit un recours auprès d'elle. &lt;DCFR 2004-05-12/62, art. 40, 015; En vigueur : 01-09-2004&gt;
+
+##### Art. 102
+
+Le présent décret entre en vigueur le 1er janvier 1995.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il sont publié au Moniteur belge.
+
+Bruxelles, le 6 juin 1994.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de la Fonction publique, de l'Enfance et de la Promotion de la Santé,
+
+Mme. L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, de l'Aide à la Jeunesse et des Relations internationales,
+
+M. LEBRUN
+
+Le Ministre du Budget, de la Culture et du Sport,
+
+E. TOMAS
+
+Le Ministre de l'Education et de l'Audiovisuel,
+
+Ph. MAHOUX

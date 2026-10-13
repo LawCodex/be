@@ -1,0 +1,51 @@
+---
+title: "Décret approuvant la convention du 13 janvier 1995 relative à la cession par la Communauté française de ses droits dans le Domaine Solvay à La Hulpe à la Région wallonne."
+identifier: "1995029211"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/10/1995029211/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1995-04-10
+published: 1995-06-09
+entry_into_force: 1995-04-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/10/1995029211/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 10 AVRIL 1995. - Décret approuvant la convention du 13 janvier 1995 relative à la cession par la Communauté française de ses droits dans le Domaine Solvay à La Hulpe à la Région wallonne.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le Conseil de la Communauté française approuve la convention du 13 janvier 1995 relative à la cession par la Communauté française à la Région wallonne de tous les droits et obligations que la première détient en tant que copropriétaire indivis du Domaine "Solvay" de La Hulpe.
+
+## Art. 2
+
+Le Gouvernement fixe la date d'entrée en vigueur du présent décret.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 10 avril 1995.
+
+Par le Gouvernement de la Communauté française :
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de la Fonction publique, de l'Enfance et de la Promotion de la Santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, de l'Aide à la jeunesse et des Relations internationales,
+
+M. LEBRUN
+
+Le Ministre du Budget, de la Culture et du Sport,
+
+E. TOMAS
+
+Le Ministre de l'Education et de l'Audiovisuel,
+
+P. MAHOUX

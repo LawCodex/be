@@ -1,0 +1,49 @@
+---
+title: "DECRET portant approbation du Protocole d'adaptation de l'Accord sur l'Espace économique européen, et de l'Acte final, faits à Bruxelles le 17 mars 1993"
+identifier: "1993029487"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1993/09/30/1993029487/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1993-09-30
+published: 1993-10-27
+entry_into_force: 1993-11-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1993/09/30/1993029487/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 30 SEPTEMBRE 1993. - DECRET portant approbation du Protocole d'adaptation de l'Accord sur l'Espace économique européen, et de l'Acte final, faits à Bruxelles le 17 mars 1993
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. Le Protocole portant adaptation de l'Accord sur l'Espace Economique européen et l'Acte final, faits à Bruxelles, le 17 mars 1993, sortiront leur plein et entier effet en ce qui concerne la Communauté française.
+
+&lt;Pour le texte, voir CN : 1993-03-17/35&gt;.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 30 septembre 1993.
+
+La Ministre-Présidente du Gouvernement de la Communauté française,
+
+chargée des Affaires sociales, de la Santé et du Tourisme,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique et des Relations internationales,
+
+M. LEBRUN
+
+Le Ministre de l'Education, de l'Audiovisuel et de la Fonction publique,
+
+E. DI RUPO
+
+Le Ministre du Budget, de la Culture et du Sport,
+
+E. TOMAS
