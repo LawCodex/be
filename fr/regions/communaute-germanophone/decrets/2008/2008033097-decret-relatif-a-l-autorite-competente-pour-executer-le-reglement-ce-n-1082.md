@@ -1,0 +1,59 @@
+---
+title: "Décret relatif à l'autorité compétente pour exécuter le règlement (CE) n° 1082/2006 relatif à un groupement européen de coopération territoriale (GECT) (TRADUCTION)."
+identifier: "2008033097"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/23/2008033097/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2008-06-23
+published: 2008-12-30
+entry_into_force: 2009-01-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/23/2008033097/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 23 JUIN 2008. - Décret relatif à l'autorité compétente pour exécuter le règlement (CE) n° 1082/2006 relatif à un groupement européen de coopération territoriale (GECT) (TRADUCTION).
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. Dans la mesure où des compétences de la Communauté germanophone sont concernées, le Gouvernement de la Communauté germanophone est l'autorité compétente pour exécuter le règlement (CE) n° 1082/2006 du Parlement européen et du Conseil du 5 juillet 2006 relatif à un groupement européen de coopération territoriale (GECT), et ce pour :
+
+1° recevoir les communications et documents relatifs à la participation, à l'approbation ou au rejet de la participation ainsi que pour l'approbation de toute modification de l'accord et de toute modification importante des statuts, conformément à l'article 4, alinéas 3, 4 et 6, du règlement;
+
+2° contrôler la gestion des fonds publics, conformément à l'article 6 du règlement;
+
+3° interdire l'activité et exiger la démission en cas d'infraction aux dispositions concernant l'ordre public, la santé publique ou la moralité publique, conformément à l'article 13, alinéa 1er, du règlement et
+
+4° ordonner la dissolution, conformément à l'article 14 du règlement.
+
+Les autres modalités sont fixées par le Gouvernement.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 23 juin 2008.
+
+Le Ministre-Président du Gouvernement de la Communauté germanophone,
+
+Ministre des Pouvoirs locaux,
+
+K.-H. LAMBERTZ
+
+Le Vice-Ministre-Président du Gouvernement de la Communauté germanophone,
+
+Ministre de la Formation et de l'Emploi, des Affaires sociales et du Tourisme,
+
+B. GENTGES
+
+Le Ministre de l'Enseignement et de la Recherche scientifique,
+
+O. PAASCH
+
+La Ministre de la Culture et des Médias, de la Protection des Monuments, de la Jeunesse et des Sports,
+
+Mme I. WEYKMANS.

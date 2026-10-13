@@ -1,0 +1,61 @@
+---
+title: "Décret portant assentiment aux actes internationaux suivants : 1) l'accord de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, signé à Luxembourg le 26 octobre 2004; 2) l'accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la République d'Albanie, d'autre part, signé à Luxembourg, le 12 juin 2006; 3) l'accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs états membres, d'une part, et la République du Tadjikistan, d'autre part, signé à Luxembourg le 11 octobre 2004; 4) l'accord de dialogue politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Communauté andine et ses Pays membres (Bolivie, Colombie, Equateur, Pérou et Venezuela), d'autre part, signé à Rome le 15 décembre 2003; 5) l'accord de dialogue politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et les Républiques du Costa Rica, d'El Salvador, du Guatemala, du Honduras, du Nicaragua et du Panama, d'autre part, signé à Rome le 15 décembre 2003 (TRADUCTION)."
+identifier: "2007033090"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/10/29/2007033090/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2007-10-29
+published: 2008-01-04
+entry_into_force: 2008-01-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/10/29/2007033090/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 29 OCTOBRE 2007. - Décret portant assentiment aux actes internationaux suivants : 1) l'accord de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, signé à Luxembourg le 26 octobre 2004; 2) l'accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la République d'Albanie, d'autre part, signé à Luxembourg, le 12 juin 2006; 3) l'accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs états membres, d'une part, et la République du Tadjikistan, d'autre part, signé à Luxembourg le 11 octobre 2004; 4) l'accord de dialogue politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Communauté andine et ses Pays membres (Bolivie, Colombie, Equateur, Pérou et Venezuela), d'autre part, signé à Rome le 15 décembre 2003; 5) l'accord de dialogue politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et les Républiques du Costa Rica, d'El Salvador, du Guatemala, du Honduras, du Nicaragua et du Panama, d'autre part, signé à Rome le 15 décembre 2003 (TRADUCTION).
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'accord de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, signé à Luxembourg le 26 octobre 2004, sortira son plein et entier effet.
+
+## Art. 2
+
+L'accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la République d'Albanie, d'autre part, signé à Luxembourg le 12 juin 2006, sortira son plein et entier effet.
+
+## Art. 3
+
+L'accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la République du Tadjikistan, d'autre part, ainsi que les déclarations jointes à l'acte final, signés à Luxembourg le 11 octobre 2004, sortiront leur plein et entier effet.
+
+## Art. 4
+
+L'accord de dialogue politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la Communauté andine et ses pays membres (Bolivie, Colombie, Equateur, Pérou et Venezuela), d'autre part, signé à Rome le 15 décembre 2003, sortira son plein et entier effet.
+
+## Art. 5
+
+L'accord de dialogue politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et les Républiques du Costa Rica, d'El Salvador, du Guatemala, du Honduras, du Nicaragua et du Panama, d'autre part, signé à Rome le 15 décembre 2003, sortira son plein et entier effet.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 29 octobre 2007.
+
+K.-H. LAMBERTZ,
+
+Ministre-Président du Gouvernement de la Communauté germanophone, Ministre des Pouvoirs locaux
+
+B. GENTGES,
+
+Vice-Ministre-Président du Gouvernement de la Communauté germanophone, Ministre de la Formation et de l'Emploi, des Affaires sociales et du Tourisme
+
+O. PAASCH,
+
+Ministre de l'Enseignement et de la Recherche scientifique
+
+I. WEYKMANS,
+
+Ministre de la Culture et des Médias, de la Protection des Monuments, de la Jeunesse et des Sports.

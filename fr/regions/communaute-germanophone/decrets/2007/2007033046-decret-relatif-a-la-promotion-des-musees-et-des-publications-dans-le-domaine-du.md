@@ -1,0 +1,365 @@
+---
+title: "Décret relatif à la promotion des musées et des publications dans le domaine du patrimoine culturel (TRADUCTION)"
+identifier: "2007033046"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/07/2007033046/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2007-05-07
+published: 2007-07-10
+entry_into_force: 2008-01-01
+last_amended: 2026-03-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/07/2007033046/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 10-07-2007 et mise à jour au 02-03-2026"
+retrieved: 2026-10-12
+---
+
+# 7 MAI 2007. - Décret relatif à la promotion des musées et des publications dans le domaine du patrimoine culturel (TRADUCTION)
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales.
+
+## Champ d'application.
+
+##### Art. 1
+
+Dans les limites des crédits budgétaires disponibles à cette fin et conformément au présent décret, le Gouvernement peut accorder des subsides aux personnes et associations actives dans les domaines du travail muséal et du patrimoine culturel.
+
+## Définitions.
+
+##### Art. 2
+
+Pour l'application du présent décret, l'on entend par :
+
+1° patrimoine culturel : le patrimoine culturel au sens de l'article 1er de la Convention du 21 octobre 1972 concernant la protection du patrimoine mondial culturel et naturel et le patrimoine culturel immatériel au sens de l'article 2 de la Convention du 17 octobre 2003 pour la sauvegarde du patrimoine culturel immatériel;
+
+2° Ministère : le Ministère de la Communauté germanophone;
+
+3° travail muséal : l'exercice des fonctions muséales de base que sont la collecte, la conservation, la recherche et la transmission;
+
+[<sup>1</sup> 3.1 périodique : un imprimé paraissant au moins une fois par an à intervalles réguliers;]<sup>1</sup>
+
+4° Gouvernement : le Gouvernement de la Communauté germanophone.
+
+----------
+
+(1)&lt;DCG 2019-12-12/19, art. 13, 005; En vigueur : 01-01-2020&gt;
+
+## Egalité des sexes.
+
+##### Art. 3
+
+Dans le présent décret, les qualifications valent pour les deux sexes.
+
+## CHAPITRE II. - Agrément et subventionnement des musées.
+
+### Section 1er. - Agrément.
+
+### Conditions d'agrément.
+
+##### Art. 4
+
+Le Gouvernement décide de l'agrément d'un musée.
+
+Pour être agréé comme musée, le demandeur établit un concept muséal comprenant une description de l'institution, de ses objectifs et de son fonctionnement.
+
+Pour être et rester agréé en tant que tel, le musée doit remplir les conditions d'agrément suivantes :
+
+1° être une institution d'utilité publique, permanente, ouverte au public, sans but lucratif, au service de la société et de son développement, et qui acquiert des témoins matériels de l'homme et de son environnement, les conserve, les étudie, les rend publics et les expose à des fins d'études, d'éducation et de divertissement. [<sup>1</sup> La condition relative à l'absence de but lucratif ne vaut pas pour les régies communales autonomes.]<sup>1</sup> Des institutions comme les expositions vente, centres scientifiques, planétariums, jardins zoologiques ou botaniques, monuments naturels ou centres de visiteurs n'entrent pas en considération.
+
+2° disposer d'une collection de patrimoine culturel digne d'un musée;
+
+3° être institué par ou avoir comme pouvoir organisateur une association sans but lucratif, une fondation ou une personne morale de droit public dont le siège est situé en région de langue allemande où elle effectue ses activités principales;
+
+4° exister depuis au moins le 1er janvier de l'année civile qui précède l'année de la demande et exercer une activité régulière;
+
+5° offrir des garanties suffisantes de bon fonctionnement quant à l'accessibilité, l'infrastructure, au personnel et aux moyens financiers;
+
+6° être classé conformément à l'article 8;
+
+7° présenter tous les deux ans un rapport d'activités et chaque année des documents financiers.
+
+----------
+
+(1)&lt;DCG 2013-02-25/07, art. 30, 002; En vigueur : 01-01-2013&gt;
+
+### Demande d'agrément.
+
+##### Art. 5
+
+La demande d'agrément doit être introduite auprès du Gouvernement. Elle comprend l'ensemble des documents et renseignements indispensables au Gouvernement conformément au présent décret ou à ses arrêtés d'exécution.
+
+### Communes.
+
+##### Art. 6
+
+Les demandes d'agrément sont transmises par le Gouvernement au collège communal de la commune dans laquelle se trouve le siège du demandeur, pour avis.
+
+A défaut d'avis de la commune dans le délai fixé par l'arrêté d'exécution, la procédure d'agrément est immédiatement poursuivie.
+
+### Contrôle.
+
+##### Art. 7
+
+Le demandeur concède au Gouvernement le droit de procéder aux contrôles nécessaires à l'application du décret et lui accorde notamment un droit de regard sur sa comptabilité.
+
+Le Gouvernement désigne les personnes chargées de ces contrôles.
+
+### Classement.
+
+##### Art. 8
+
+§ 1er. Les institutions qui remplissent les conditions d'agrément énoncées à l'article 4 sont classées dans une des trois catégories existantes.
+
+§ 2. Le classement se fonde sur les critères de base suivants :
+
+1° l'intérêt du patrimoine culturel;
+
+2° la responsabilité culturelle et sociale qu'assume le musée;
+
+3° la qualité du travail muséal;
+
+4° la qualité de la gestion et
+
+5° la portée géographique.
+
+Les autres modalités sont fixées par le Gouvernement.
+
+§ 3. Le classement est effectué par un jury spécialisé composé de deux experts et d'un membre du personnel du Ministère de la Communauté germanophone.
+
+L'agrément intervient une fois le classement opéré.
+
+La procédure de classement et les possibilités de recours sont déterminées par le Gouvernement.
+
+### Durée de l'agrément.
+
+##### Art. 9
+
+[<sup>1</sup> Période d'agrément.
+
+La période d'agrément d'un musée commence le 1er janvier de l'année suivant celle où le Gouvernement a octroyé son approbation. Elle couvre six années et s'applique de manière uniforme à tous les musées agréés.
+
+Les nouvelles demandes d'agrément peuvent, pendant une période d'agrément, être introduites jusqu'au [<sup>2</sup> [<sup>3</sup> 31 mars]<sup>3</sup>]<sup>2</sup> de chaque année calendrier. L'éventuel agrément expire au terme de la période uniforme d'agrément.
+
+La première période uniforme d'agrément débute le 1er janvier 2015 et expire le 31 décembre 2020.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2014-02-24/14, art. 9, 003; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DCG 2018-12-11/11, art. 18, 004; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCG 2020-12-10/38, art. 16, 006; En vigueur : 01-01-2021&gt;
+
+### Retrait de l'agrément.
+
+##### Art. 10
+
+[<sup>1</sup> § 1er.]<sup>1</sup> L'agrément est retiré lorsque les conditions énoncées à l'article 4 ne sont plus satisfaites.
+
+[<sup>1</sup> Par dérogation au premier alinéa, l'agrément est conservé lorsque des travaux de construction rendent nécessaire une interruption temporaire, complète ou partielle, des activités muséales. Au préalable, le Gouvernement détermine au cas par cas :
+
+1° les travaux projetés motivant la dérogation temporaire;
+
+2° à quelles conditions, parmi celles énoncées à l'article 4, il peut être dérogé temporairement;
+
+3° la durée de la dérogation. Celle-ci peut être prolongée mais ne peut dépasser la durée des travaux.]<sup>1</sup>
+
+[<sup>1</sup> § 2.]<sup>1</sup> L'agrément n'est retiré qu'après que le Gouvernement a donné à l'association la possibilité d'émettre son avis.
+
+La décision de retrait est communiquée par écrit à l'association concernée.
+
+----------
+
+(1)&lt;DCG 2014-02-24/14, art. 10, 003; En vigueur : 25-04-2014&gt;
+
+### Désignation.
+
+##### Art. 11
+
+Seules les institutions agréées conformément au présent décret peuvent utiliser l'appellation " musée agréé par la Communauté germanophone ".
+
+Le Gouvernement crée un logo pour les institutions agréées.
+
+### Section 2. - Subsides.
+
+#### Sous-section 1re. - Dispositions communes.
+
+#### Coefficient.
+
+##### Art. 12
+
+Le montant des subsides peut être multiplié par un coefficient en vue de son adaptation aux crédits budgétaires disponibles et à l'évolution de l'indice des prix à la consommation.
+
+#### Récupération.
+
+##### Art. 13
+
+Le Gouvernement peut récupérer un subside lorsqu'il a été utilisé à d'autres fins, lorsque les conditions d'agrément ne sont pas remplies ou lorsque les contrôles prévus à l'article 7 sont entravés ou empêchés.
+
+Le Gouvernement récupère à due concurrence un subside liquidé pour l'année en cours lorsque le musée est dissout ou cesse ses activités pendant l'année concernée.
+
+Le subside n'est récupéré qu'après que le Gouvernement a donné à l'association concernée la possibilité d'émettre son avis. Cette disposition ne vaut pas lorsque l'association a cessé ses activités.
+
+#### Sous-section 2. - Subsides forfaitaires.
+
+#### Subsides forfaitaires.
+
+##### Art. 14
+
+§ 1er. Une institution agréée comme musée reçoit annuellement un subside forfaitaire de base.
+
+Les musées de la catégorie 1 reçoivent 25.000 EUR;
+
+Les musées de la catégorie 2 reçoivent 15.000 EUR;
+
+Les musées de la catégorie 3 reçoivent 10.000 EUR.
+
+§ 2. Un musée agréé peut de plus recevoir annuellement un forfait variable pour le travail muséal.
+
+L'octroi et le montant du forfait variable accordé pour le travail muséal sont réglés dans une convention conclue entre le Gouvernement et le musée agréé et valable pour le terme de l'agrément. La convention tient notamment compte de l'évolution du musée et de l'emploi de personnel qualifié.
+
+En cas d'octroi, le besoin en personnel qualifié sert de base pour calculer le forfait supplémentaire; un équivalent temps plein est évalué à la base à 20.000 EUR en ce qui concerne le personnel technique du musée et à 30.000 EUR pour ce qui concerne le personnel plus qualifié.
+
+Les autres modalités sont fixées par le Gouvernement.
+
+#### Sous-section 3. - Subside pour des projets spécifiques.
+
+#### Principe.
+
+##### Art. 15
+
+&lt;Abrogé par DCG 2020-12-10/38, art. 17, 006; En vigueur : 01-01-2021&gt;
+
+## CHAPITRE III. - Publications dans le domaine du patrimoine culturel.
+
+## Subside accordé pour les publications.
+
+##### Art. 16
+
+Peuvent introduire une demande de subsides pour des publications dans le domaine du patrimoine culturel :
+
+1° des institutions agréées comme musées conformément au présent décret;
+
+2° des personnes morales et physiques.
+
+Les demandeurs doivent remplir les critères suivants :
+
+1° le contenu de leurs publications doit se référer au patrimoine culturel en Communauté germanophone;
+
+2° leurs publications doivent avoir une portée régionale et, le cas échéant, transfrontalière;
+
+3° leurs publications doivent posséder des caractéristiques de qualité quant au contenu, à la langue, la méthode et la forme;
+
+4° prouver qu'ils visent un public suffisamment ciblé et la vente;
+
+5° garantir une assise financière et une gestion commerciale solides pour assurer la publication.
+
+Ne sont toutefois pas admissibles à de tels subsides les publications suivantes :
+
+1° les publications pouvant être subsidiées en vertu d'un autre décret de la Communauté germanophone;
+
+2° les publications régulières de musées agréés conformément au présent décret.
+
+[<sup>2</sup> Le demandeur dispose de vingt-quatre mois à compter de l'octroi de la promesse de subsides pour publier son oeuvre. Sur demande introduite par écrit, le Gouvernement peut prolonger ce délai une seule fois de douze mois au maximum. En cas de non-respect du délai pour la publication, le Gouvernement exige le remboursement du subside.]<sup>2</sup>
+
+[<sup>1</sup> Les subsides prévus au présent article peuvent être octroyés pour des périodiques et des non-périodiques. Les subsides pour les non-périodiques sont octroyés sous la forme d'avances correspondant à [<sup>3</sup> 80 pour cent]<sup>3</sup> du subside probable.]<sup>1</sup>
+
+[<sup>3</sup> En vue de la liquidation du solde, les documents nécessaires au subventionnement doivent être introduits auprès du Gouvernement après la publication.]<sup>3</sup>
+
+Les autres modalités sont fixées par le Gouvernement.
+
+----------
+
+(1)&lt;DCG 2019-12-12/19, art. 14, 005; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCG 2021-12-15/17, art. 31, 007; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DCG 2025-02-24/04, art. 87, 008; En vigueur : 01-01-2025&gt;
+
+## CHAPITRE IV. - Dispositions finales.
+
+## Dispositions transitoires.
+
+##### Art. 17
+
+Les subsides à liquider sur la base du présent décret remplacent toutes les prestations revenant aux bénéficiaires en vertu de l'arrêté réglementaire du 29 mars 1982 réglementant l'octroi de subventions aux musées ne relevant pas de l'Etat et du décret du 23 mars 1992 accordant des subventions destinées aux frais de personnel encourus par les musées reconnus, les ateliers créatifs reconnus, les organisations régionales reconnues pour l'éducation populaire et la formation des adultes ainsi que par les organisations de jeunesse, centres de jeunesse et services pour jeunes reconnus.
+
+Les associations qui, d'ici le 31 mars 2008, auront introduit une demande d'agrément comme musée en application du présent décret recevront, pour l'année civile 2008, les subsides accordés en vertu de l'arrêté réglementaire du 29 mars 1982 réglementant l'octroi de subventions aux musées ne relevant pas de l'Etat et du décret du 23 mars 1992 accordant des subventions destinées aux frais de personnel encourus par les musées reconnus, les ateliers créatifs reconnus, les organisations régionales reconnues pour l'éducation populaire et la formation des adultes ainsi que par les organisations de jeunesse, centres de jeunesse et services pour jeunes reconnus. Pour cette phase transitoire d'un an, ce sont les subsides de l'année 2007 qui seront accordés.
+
+[<sup>1</sup> Par dérogation à l'article 9, alinéa 1er, la période de soutien qui court jusqu'au 31 décembre 2026 est prolongée jusqu'au 31 décembre 2027.
+
+Par dérogation à l'article 9, alinéa 2, aucune nouvelle demande d'agrément comme musée ne peut être introduite entre 2026 et 2029.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 42, 009; En vigueur : 01-01-2026&gt;
+
+## Dispositions abrogatoires.
+
+##### Art. 18
+
+Sont abrogés :
+
+1° l'arrêté réglementaire du 29 mars 1982 réglementant l'octroi de subventions aux musées ne relevant pas de l'Etat;
+
+2° l'article 6 du décret du 23 mars 1992 accordant des subventions destinées aux frais de personnel encourus par les musées reconnus, les ateliers créatifs reconnus, les organisations régionales reconnues pour l'éducation populaire et la formation des adultes ainsi que par les organisations de jeunesse, centres de jeunesse et services pour jeunes reconnus.
+
+## Disposition modificative.
+
+##### Art. 19
+
+Dans l'intitulé du décret du 23 mars 1992 accordant des subventions destinées aux frais de personnel encourus par les musées reconnus, les ateliers créatifs reconnus, les organisations régionales reconnues pour l'éducation populaire et la formation des adultes ainsi que par les organisations de jeunesse, centres de jeunesse et services pour jeunes reconnus, le passage " les musées reconnus, " est supprimé sans être remplacé.
+
+Dans l'article 1er, alinéa 1er, du même décret, le passage " aux musées reconnus, " est supprimé sans être remplacé.
+
+Dans l'article 4 du même décret, le passage ", les musées ou " est remplacé par les mots " et les ".
+
+## Entrée en vigueur.
+
+##### Art. 20
+
+Le présent décret entre en vigueur le 1er janvier 2008.
+
+---
+
+Adopté par le parlement de la Communauté germanophone.
+
+Eupen, le 7 mai 2007.
+
+S. Thomas,
+
+Greffier.
+
+L. Siquet,
+
+Président.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Donné à Eupen, le 7 mai 2007.
+
+Le Ministre-Président du Gouvernement de la Communauté germanophone,
+
+Ministre des Pouvoirs locaux,
+
+K.-H. LAMBERTZ
+
+Le Vice-Ministre-Président du Gouvernement de la Communauté germanophone,
+
+Ministre de la Formation et de l'Emploi, des Affaires sociales et du Tourisme,
+
+B. GENTGES
+
+Le Ministre de l'Enseignement et de la Recherche scientifique,
+
+O. PAASCH
+
+La Ministre de la Culture et des Médias, de la Protection des Monuments, de la Jeunesse et des Sports,
+
+Mme I. WEYKMANS.

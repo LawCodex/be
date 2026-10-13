@@ -1,0 +1,987 @@
+---
+title: "Décret portant financement des communes et des centres publics d'aide sociale par la Communauté germanophone. (Traduction)"
+identifier: "2009033000"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/15/2009033000/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2008-12-15
+published: 2009-01-27
+entry_into_force: 2009-01-01
+last_amended: 2026-02-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/15/2009033000/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 27-01-2009 et mise à jour au 10-02-2026"
+retrieved: 2026-10-12
+---
+
+# 15 DECEMBRE 2008. - Décret portant financement des communes et des centres publics d'aide sociale par la Communauté germanophone. (Traduction)
+
+### CHAPITRE Ier. - Dispositions générales.
+
+### Objectif.
+
+##### Art. 1
+
+Dans le cadre des moyens budgétaires disponibles, le Gouvernement accorde aux communes de la région de langue allemande une dotation annuelle comprenant :
+
+1\. une dotation communale destinée à financer les missions générales des communes;
+
+2\. une dotation " voiries " destinée à financer les investissements dans les voiries communales;
+
+3\. une dotation destinée à assurer l'encouragement de base des associations culturelles, folkloriques, sportives et récréatives ainsi que des bibliothèques publiques[<sup>1</sup>; ]<sup>1</sup>
+
+[<sup>1</sup> 4° une dotation de compensation des risques sociaux destinée à soutenir les communes qui comptent une proportion importante de bénéficiaires du revenu d'intégration et disposent d'un nombre relativement élevé de logements sociaux. ]<sup>1</sup>
+
+Dans le cadre des moyens budgétaires disponibles, le Gouvernement accorde aux Centres publics d'aide sociale de la région de langue allemande une dotation annuelle destinée à financer leurs missions générales.
+
+----------
+
+(1)&lt;DCG 2025-12-22/13, art. 1, 015; En vigueur : 01-01-2025&gt;
+
+### Versement.
+
+##### Art. 2
+
+Les dotations visées à l'article 1er sont versées en douzièmes mensuels. Le paiement a lieu avant le 22 de chaque mois.
+
+##### Art. 2.1
+
+[<sup>1</sup> - Contrôle continu
+
+Le Gouvernement évalue les effets et l'applicabilité du présent décret dans le cadre d'un contrôle continu qui s'étend chaque fois sur une période de sept ans et qui se base sur les enseignements tirés au cours de cette période. Le Gouvernement établit un rapport correspondant qu'il présente au Parlement avant la fin de la période de sept ans en cours, accompagné d'éventuelles propositions d'adaptation pour la période de sept ans suivante. [<sup>2</sup> Le premier rapport est déposé en 2031. ]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2024-12-23/09, art. 11, 013; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DCG 2025-12-22/13, art. 2, 015; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE II. - La dotation communale.
+
+### Montant de la dotation communale.
+
+##### Art. 3
+
+[<sup>1</sup> Montant de la dotation communale.
+
+§ 1er. [<sup>2</sup> La dotation communale est de 16.985.988,61 euros pour l'année budgétaire 2009.]<sup>2</sup>
+
+La dotation communale pour l'année budgétaire 2010 est calculée comme suit : un montant de 15.687.832,53 EUR est adapté au taux d'évolution de l'année 2009 et majoré de 1.306.000 EUR. La somme ainsi obtenue est adaptée au taux d'évolution de l'année 2010 et est ensuite réduite de deux pour cent.
+
+[<sup>3</sup> Pour les années budgétaires 2011 à 2023]<sup>3</sup>, ce montant sera adapté annuellement au taux d'évolution.
+
+[<sup>3</sup> Pour l'année budgétaire 2024, la dotation communale est de 117 235 771,47 euros.
+
+[<sup>4</sup> Pour les années budgétaires 2025 à 2031, la dotation communale s'élève à chaque fois ]<sup>4</sup>.]<sup>3</sup>
+
+[<sup>4</sup> Le montant mentionné à l'alinéa 5 est indexé chaque année de 2 % à partir de l'année 2028 jusqu'à l'année 2031.
+
+Pour l'année budgétaire 2032, la dotation communale est calculée comme suit : un montant de 28 332 203,34 euros est ajusté en fonction du taux d'évolution de l'année 2032.
+
+A partir de l'année budgétaire 2033, le montant fixé pour l'année budgétaire 2032 est ajusté chaque année au taux d'évolution. ]<sup>4</sup>
+
+En cas d'augmentation du montant de base de la dotation accordée par la Région wallonne à la Communauté germanophone en application des décrets de la Communauté germanophone du 1er juin 2004 et de la Région wallonne du 27 mai 2004 relatifs à l'exercice, par la Communauté germanophone, de certaines compétences de la Région wallonne en matière de pouvoirs subordonnés, la dotation communale sera adaptée en conséquence.
+
+§ 2. Pour l'année 2009, le taux d'évolution visé au § 1er correspond au taux de croissance de l'indice moyen des prix à la consommation de l'année budgétaire 2009. A partir de 2010, ce taux d'évolution correspond au taux de croissance de l'indice moyen des prix à la consommation de l'année budgétaire concernée, majoré d'un pour cent.
+
+Jusqu'à la fixation définitive de l'indice moyen des prix à la consommation pour une année budgétaire, l'adaptation des montants au taux de croissance estimé de l'indice moyen des prix à la consommation de l'année budgétaire en question s'effectue comme prévu au budget économique au sens de l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses.
+
+§ 3. La dotation communale sera distribuée aux communes de la région de langue allemande via une dotation des recettes et une dotation des dépenses, conformément aux dispositions du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2010-04-19/17, art. 3, 002; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DCG 2012-02-13/07, art. 26, 004; En vigueur : 01-01-2009&gt;
+
+(3)&lt;DCG 2024-12-23/09, art. 12, 013; En vigueur : 23-12-2024&gt;
+
+(4)&lt;DCG 2025-12-22/13, art. 3, 015; En vigueur : 01-01-2025&gt;
+
+### Dotation des recettes.
+
+##### Art. 4
+
+Du montant total de la dotation communale, les communes reçoivent d'abord une dotation des recettes, calculée suivant les dispositions suivantes.
+
+[<sup>2</sup> [<sup>3</sup> Sur la base des recettes communales annuelles provenant de l'impôt additionnel sur les revenus des personnes physiques, le produit par habitant d'un centime additionnel est calculé pour chaque commune. Les recettes encaissées par les communes en vertu de la décision du Comité de ministres de l'Union économique belgo-luxembourgeoise modifiant la décision du 24 octobre 1975 concernant l'application de l'article 8 de la Convention coordonnée instituant l'Union économique belgo-luxembourgeoise, signée à Bruxelles le 14 décembre 2001, sont assimilées aux recettes annuelles visées provenant de l'impôt additionnel sur les revenus des personnes physiques. A partir de là, le produit moyen par habitant des communes de la région de langue allemande sera calculé. Si, pour une commune, le produit par habitant d'un centime additionnel est inférieur à ce produit moyen, une compensation est calculée à partir de la différence entre ces deux valeurs, multipliée par le nombre d'habitants de la commune et le taux moyen de l'impôt additionnel de la Communauté germanophone. Le taux moyen de l'impôt additionnel résulte ainsi de la pondération des différents taux d'imposition des communes en fonction de leur nombre d'habitants]<sup>3</sup>.]<sup>2</sup>
+
+[<sup>2</sup> [<sup></sup>Ce calcul est effectué sur la base des valeurs des six dernières années pour lesquelles les données sont disponibles. Chaque commune reçoit comme dotation en recettes la valeur moyenne de la péréquation de ces six années. ]<sup>3</sup>]<sup>2</sup>
+
+[<sup>2</sup> [<sup>3</sup> ...]<sup>3</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2015-03-02/05, art. 42, 006; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCG 2024-12-23/09, art. 13, 013; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DCG 2025-12-22/13, art. 4, 015; En vigueur : 01-01-2025&gt;
+
+### Dotation des dépenses.
+
+##### Art. 5
+
+Le solde de la dotation communale est réparti comme suit entre les communes, sous forme de dotations des dépenses :
+
+\- cinq pour cent à parts égales;
+
+\- [<sup>1</sup> [<sup>2</sup> quarante-cinq ]<sup>2</sup>-1 pour cent en fonction du nombre d'habitants de la commune;
+
+\- [<sup>1</sup> [<sup>2</sup> vingt ]<sup>2</sup>]<sup>1</sup> pour cent en fonction du nombre de travailleurs assujettis à la sécurité sociale sur le territoire communal le 31 décembre;
+
+\- quinze pour cent en fonction du nombre moyen de [<sup>2</sup> chômeurs complets ]<sup>2</sup> dans la commune pendant un an;
+
+\- quinze pour cent en fonction de la superficie globale de la commune.
+
+Les mesures utilisées s'appuient sur les chiffres moyens des six dernières années pour lesquelles ces informations sont disponibles.
+
+----------
+
+(1)&lt;DCG 2024-12-23/09, art. 14, 013; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DCG 2025-12-22/13, art. 5, 015; En vigueur : 01-01-2025&gt;
+
+### Calcul.
+
+##### Art. 6
+
+Le Gouvernement fixe chaque année le montant par commune calculé en application des articles 4 et 5.
+
+Lorsque ce calcul montre que la somme de la dotation communale et de la dotation d'aide sociale, calculée conformément au chapitre V, est inférieure à 90 % du montant correspondant de l'année précédente, le montant nécessaire pour arriver à cette somme sera d'abord prélevé sur la dotation des dépenses, après calcul de la dotation des recettes pour l'ensemble des communes. Ensuite, il est procédé au calcul, prévu à l'article 5, pour la répartition de la dotation des dépenses aux autres communes.
+
+### CHAPITRE III. - Dotation des voiries.
+
+### Montant de la dotation des voiries.
+
+##### Art. 7
+
+La dotation globale pour les voiries communales s'élève à :
+
+\- pour l'année budgétaire 2009 : à 850 000 EUR,
+
+\- pour l'année budgétaire 2010 : à 900 000 EUR,
+
+\- pour l'année budgétaire 2011 : à 1 000 000 EUR,
+
+\- pour l'année budgétaire 2012 : à 1 100 000 EUR,
+
+[<sup>1</sup> - pour l'année budgétaire 2013 : 1.200.000 euros;
+
+\- pour l'année budgétaire 2014 : 1.300.000 euros;
+
+\- pour l'année budgétaire 2015 : 1.400.000 euros;
+
+\- pour l'année budgétaire 2016 : 1.600.000 euros;
+
+\- pour l'année budgétaire 2017 : 1.800.000 euros;
+
+\- pour l'année budgétaire 2018 : 2.000.000 euros;
+
+\- pour l'année budgétaire 2019 : 2.250.000 euros;
+
+[<sup>2</sup> - pour l'année budgétaire 2020 : 2.250.000 euros;
+
+\- pour l'année budgétaire 2021 : 2.250.000 euros;
+
+\- pour l'année budgétaire 2022 : 2.250.000 euros;]<sup>2</sup>]<sup>1</sup>
+
+[<sup>4</sup> - pour l'année budgétaire 2023 : 3 000 000 d'euros ;
+
+\- pour l'année budgétaire 2024 : 24 000 000 d'euros ;
+
+\- [<sup>5</sup> pour les années budgétaires 2025 à 2031]<sup>5</sup>.]<sup>4</sup>
+
+[<sup>3</sup> [<sup>4</sup> [<sup>5</sup> A partir de l'année budgétaire 2032, la dotation annuelle totale s'élève à 3 000 000 d'euros. "]<sup>5</sup>]<sup>4</sup>]<sup>3</sup>
+
+----------
+
+(1)&lt;DCG 2012-02-13/07, art. 27, 004; En vigueur : 01-01-2012&gt;
+
+(2)&lt;DCG 2019-12-12/19, art. 47, 008; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCG 2022-12-15/54, art. 57, 011; En vigueur : 01-01-2023&gt;
+
+(4)&lt;DCG 2024-12-23/09, art. 15, 013; En vigueur : 23-12-2024&gt;
+
+(5)&lt;DCG 2025-12-22/13, art. 6, 015; En vigueur : 01-01-2025&gt;
+
+### Clé de répartition.
+
+##### Art. 8
+
+Le montant global de la dotation visée à l'article 7 est réparti comme suit :
+
+1\. trente pour cent du montant global par parts égales;
+
+2\. vingt pour cent du montant global en fonction de la longueur du réseau des voiries communales sur le territoire de la commune;
+
+3\. cinquante pour cent du montant global en fonction de la surface bâtie sur le territoire de la commune.
+
+Le Gouvernement relève les données concernant la longueur des voiries communales et la surface bâtie. Il actualise ces données tous les trois ans.
+
+Le Gouvernement fixe chaque année le montant par commune calculé en application des alinéas 1 et 2.
+
+### Investissements acceptés.
+
+##### Art. 9
+
+Les investissements visés à l'article 1er, alinéa 1, 2°, comprennent les travaux et les achats suivants, y compris les études éventuelles et les essais préalables :
+
+1\. la création et l'entretien de voies publiques;
+
+2\. la création et l'entretien de parkings aménagés dans l'espace public, à condition que ces travaux respectent le plan de mobilité communal, s'il en existe un;
+
+3\. la construction et l'entretien d'aqueducs et de canalisation, lorsque ces travaux ne sont pas pris en charge par la Société wallonne de distribution d'eau;
+
+4\. l'aménagement, l'extension, le déplacement et le renouvellement de l'éclairage public.
+
+### Contrôle de l'utilisation de la dotation des voiries communales.
+
+##### Art. 10
+
+Le Gouvernement contrôle l'utilisation des fonds de la dotation des voiries communales via la reddition des comptes annuelle des communes.
+
+Tous les frais liés directement ou indirectement aux voiries communales entrent en ligne de compte pour la justification de l'utilisation des fonds.
+
+Le Gouvernement réclame le remboursement des fonds non utilisés aux fins prévues dans les six ans de leur versement. Des intérêts au taux légal sont calculés sur ces montants.
+
+### CHAPITRE IV. - Dotation pour l'encouragement de base des associations culturelles, folkloriques, sportives et récréatives ainsi que des bibliothèques publiques [<sup>1</sup> et des syndicats d'initiative]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2017-02-20/13, art. 45, 007; En vigueur : 20-02-2017&gt;
+
+### Montant.
+
+##### Art. 11
+
+[<sup>2</sup> § 1er]<sup>2</sup> [<sup>1</sup> Montant.
+
+[<sup>2</sup> ...]<sup>2</sup> La dotation globale pour l'encouragement de base des associations culturelles, folkloriques, sportives et récréatives ainsi que des bibliothèques publiques s'élève à 428.000 EUR.
+
+Ce montant est réparti comme suit entre les communes :
+
+<table><br>   <br>   <tr><td>Commune </td><td>Associations culturelles et folkloriques </td><td>Associations sportives et récréatives </td><td>Bibliothèques publiques </td><td>Total<br>   </td></tr><tr><td>Amblève </td><td>15.500 EUR </td><td>15.000 EUR </td><td>11.000 EUR </td><td>41.500 EUR<br>   </td></tr><tr><td>Bullange </td><td>17.500 EUR </td><td>19.500 EUR </td><td>9.500 EUR </td><td>46.500 EUR<br>   </td></tr><tr><td>Burg-Reuland </td><td>16.500 EUR </td><td>4.000 EUR </td><td>4.500 EUR </td><td>25.000 EUR<br>   </td></tr><tr><td>Butgenbach </td><td>15.000 EUR </td><td>29.500 EUR </td><td>11.000 EUR </td><td>55.500 EUR<br>   </td></tr><tr><td>Eupen </td><td>18.500 EUR </td><td>55.000 EUR </td><td>17.000 EUR </td><td>90.500 EUR<br>   </td></tr><tr><td>La Calamine </td><td>11.500 EUR </td><td>25.000 EUR </td><td>6.000 EUR </td><td>42.500 EUR<br>   </td></tr><tr><td>Lontzen </td><td>5.000 EUR </td><td>8.000 EUR </td><td>1.000 EUR </td><td>14.000 EUR<br>   </td></tr><tr><td>Raeren </td><td>12.000 EUR </td><td>20.000 EUR </td><td>7.000 EUR </td><td>39.000 EUR<br>   </td></tr><tr><td>Saint-Vith </td><td>25.500 EUR </td><td>31.000 EUR </td><td>17.000 EUR </td><td>73.500 EUR<br>   </td></tr><tr><td>Total </td><td>137.000 EUR </td><td>207.000 EUR </td><td>84.000 EUR </td><td>428.000 EUR</td></tr></table>
+
+Ces montants seront [<sup>2</sup> adaptés au taux d'évolution]<sup>2</sup> chaque année à partir de l'année budgétaire 2010.
+
+[<sup>2</sup> ...]<sup>2</sup> La dotation pour les associations sportives et récréatives comprend 6.000 EUR pour la commune d'Eupen et 2.500 EUR pour la commune de Saint-Vith, et ce exclusivement pour soutenir les établissements pour personnes âgées implantés dans ces communes.]<sup>1</sup>
+
+[<sup>3</sup> § 2 - Les communes d'Eupen et Saint-Vith obtiennent en outre respectivement 6.000 et 2.500 euros qui serviront uniquement à soutenir les établissements pour personnes âgées implantés dans ces communes. Ces montants seront adaptés au taux d'évolution chaque année à partir de l'année budgétaire 2012.]<sup>3</sup>
+
+[<sup>4</sup> § 2.1. Les communes reçoivent en outre 7 000 euros pour le financement de base des syndicats d'initiative et autres associations semblables. Ce montant est réparti comme suit entre les communes :
+
+Amblève : 1 400 euros
+
+Bullange : 750 euros
+
+Burg-Reuland : 655 euros
+
+Butgenbach : 375 euros
+
+Eupen : 280 euros
+
+La Calamine : 280 euros
+
+Lontzen : 1 300 euros
+
+Raeren : 750 euros
+
+Saint-Vith : 1 210 euros
+
+Ces montants seront adaptés au taux d'évolution chaque année à partir de l'année budgétaire 2018.]<sup>4</sup>
+
+[<sup>5</sup> § 2.2 [<sup>7</sup> ...]<sup>7</sup>]<sup>5</sup>
+
+[<sup>6</sup> § 2.3 - Les communes obtiennent en outre 100 000 euros pour la mise en place de budgets participatifs conformément à l'article 170.11 du décret communal du 23 avril 2018. Ce montant est réparti entre les communes en fonction du nombre d'habitants déterminé au 1er janvier de l'année calendrier précédente.]<sup>6</sup>
+
+[<sup>2</sup> § 3 - Le taux d'évolution mentionné aux [<sup>4</sup> §§ 1er à 2.1]<sup>4</sup> correspond au taux de croissance de l'indice moyen des prix à la consommation pour l'année budgétaire en question. Jusqu'à ce que l'indice moyen des prix à la consommation soit fixé définitivement, l'adaptation des montants s'opère sur la base de l'indice moyen estimé des prix à la consommation pour l'année budgétaire en question, tel que prévu dans le budget économique au sens de l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2011-02-14/08, art. 18, 003; En vigueur : 01-01-2011&gt;
+
+(2)&lt;DCG 2012-02-13/07, art. 28, 004; En vigueur : 01-01-2009&gt;
+
+(3)&lt;DCG 2012-02-13/07, art. 28, 004; En vigueur : 01-01-2011&gt;
+
+(4)&lt;DCG 2017-02-20/13, art. 46, 007; En vigueur : 20-02-2017&gt;
+
+(5)&lt;DCG 2021-12-15/17, art. 117, 010; En vigueur : 01-01-2022&gt;
+
+(6)&lt;DCG 2024-04-22/18, art. 1, 012; En vigueur : 01-01-2024&gt;
+
+(7)&lt;DCG 2024-12-23/09, art. 16, 013; En vigueur : 01-01-2025&gt;
+
+### Encouragement de base.
+
+##### Art. 12
+
+§ 1er. Seules les associations et les bibliothèques publiques régulièrement actives dans la commune depuis un an ont droit à un encouragement de base.
+
+Chaque commune fixe des critères objectifs, pertinents et appropriés pour le subventionnement des associations culturelles, folkloriques, sportives et récréatives ainsi que des bibliothèques publiques [<sup>1</sup> et des syndicats d'initiative]<sup>1</sup>.
+
+Les critères fixés par la commune tiennent compte au moins :
+
+1\. pour les associations culturelles, folkloriques, sportives et récréatives :
+
+\- du nombre de membres;
+
+\- des activités régulières;
+
+2\. pour les associations culturelles et sportives : du nombre de jeunes membres;
+
+3\. pour les bibliothèques publiques :
+
+\- des heures d'ouverture régulières;
+
+\- de la gestion régulière du contenu.
+
+§ 2. Tant que les communes n'auront pas fixé les critères visés au § 1er, les dispositions actuelles réglant le subventionnement en Communauté germanophone seront d'application dans ces communes, notamment :
+
+1\. pour les associations d'art amateur : le décret du 28 juin 1988 réglant l'agréation et le subventionnement des associations d'art amateur, dans sa version du 31 décembre 2008;
+
+2\. pour les ensembles de musique de chambre : le décret du 25 mai 1999 réglant l'agréation et le subventionnement des ensembles de musique de chambre, dans sa version du 31 décembre 2008;
+
+3\. pour les ensembles folkloriques : le décret du 16 février 1998 réglant l'agréation et le subventionnement des ensembles folkloriques, dans sa version du 31 décembre 2008;
+
+4\. les associations sportives : le décret du 19 avril 2004, dans sa version du 31 décembre 2008;
+
+5\. les organisations de loisirs : la circulaire du 23 décembre 2002 relative à l'encouragement des associations récréatives en Communauté germanophone;
+
+6\. pour les bibliothèques publiques : le décret du 15 juin 1994 relatif aux bibliothèques publiques, dans sa version du 31 décembre 2008 [<sup>1</sup> ;]<sup>1</sup>
+
+[<sup>1</sup> 7° le décret du 17 février 2003 relatif à la reconnaissance et à la promotion des comités d'embellissement, syndicats d'initiative et de leurs associations faîtières, ainsi que des bureaux d'information et points d'information dans sa version du 31 décembre 2016.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2017-02-20/13, art. 47, 007; En vigueur : 20-02-2017&gt;
+
+### Contrôle de l'utilisation de la dotation.
+
+##### Art. 13
+
+Le Gouvernement contrôle l'utilisation des fonds accordés sur base de l'article 11 du présent décret via la reddition des comptes annuelle des communes.
+
+Le Gouvernement réclame le remboursement des fonds non utilisés aux fins prévues au cours de l'année budgétaire.
+
+##### Art. 13.1
+
+[<sup>1</sup> - Indication du soutien
+
+Conformément aux prescriptions fixées par le Gouvernement, les communes mentionnent le soutien de la Communauté germanophone au moment du versement des fonds mentionnés dans le présent chapitre aux bénéficiaires concernés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2024-04-22/18, art. 2, 012; En vigueur : 01-01-2024&gt;
+
+### CHAPITRE V. - Dotation d'aide sociale.
+
+### Montant de la dotation d'aide sociale.
+
+##### Art. 14
+
+§ 1er. [<sup>2</sup> La dotation d'aide sociale est de 1.742.220,96 euros pour l'année budgétaire 2009.]<sup>2</sup>
+
+[<sup>1</sup> La dotation d'aide sociale pour l'année budgétaire 2010 est calculée comme suit : un montant de 1.743.092,50 EUR est adapté au taux d'évolution visé à l'article 3, § 2, des années 2009 et 2010, et est ensuite réduit de deux pour cent.
+
+[<sup>3</sup> Pour les années budgétaires 2011 à 2023]<sup>3</sup>, ce montant est adapté annuellement au taux d'évolution visé à l'article 3, § 2.]<sup>1</sup>
+
+[<sup>3</sup> Pour l'année budgétaire 2024, la dotation d'aide sociale est de [<sup>4</sup> 22 851 934,15 euros]<sup>4</sup>.
+
+[<sup>5</sup> Pour les années budgétaires 2025 à 2031]<sup>5</sup>, la dotation d'aide sociale est de 0 euro.]<sup>3</sup>
+
+[<sup>6</sup> Pour l'année budgétaire 2032, la dotation d'aide sociale est calculée comme suit : un montant de 2 855 028,13 euros est ajusté en fonction du taux d'évolution de l'année 2032 mentionné à l'article 3, § 2.
+
+A partir de l'année budgétaire 2033, le montant fixé pour l'année budgétaire 2032 est ajusté chaque année au taux d'évolution mentionné à l'article 3, § 2.]<sup>6</sup>
+
+§ 2. La dotation d'aide sociale est répartie entre les Centres publics d'aide sociale conformément aux dispositions du présent décret.
+
+----------
+
+(1)&lt;DCG 2010-04-19/17, art. 8, 002; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DCG 2012-02-13/07, art. 29, 004; En vigueur : 01-01-2009&gt;
+
+(3)&lt;DCG 2024-12-23/09, art. 17, 013; En vigueur : 23-12-2024&gt;
+
+(4)&lt;DCG 2025-12-22/13, art. 7,1°, 015; En vigueur : 01-01-2025&gt;
+
+(5)&lt;DCG 2025-12-22/13, art. 7,2°, 015; En vigueur : 01-01-2025&gt;
+
+(6)&lt;DCG 2025-12-22/13, art. 7,3°, 015; En vigueur : 01-01-2025&gt;
+
+### Clé de répartition.
+
+##### Art. 15
+
+La dotation d'aide sociale est répartie entre les Centres publics d'aide sociale des communes de la région de langue allemande d'après les critères suivants :
+
+\- cinq pour cent par parts égales;
+
+\- sept pour cent en fonction du nombre d'habitants enregistrés comme emprunteurs négatifs;
+
+\- huit pour cent en fonction du nombre de bénéficiaires de l'aide sociale assimilée;
+
+\- dix pour cent en fonction du nombre d'habitants dont l'âge dépasse l'espérance de vie moyenne de la population belge;
+
+\- douze pour cent en fonction du nombre d'habitations destinées à l'accueil d'urgence sur le territoire communal;
+
+\- vingt pour cent en fonction du nombre de lits de maison de repos reconnus et de lits de maison de repos et de soins reconnus dont le déficit est supporté en tout ou en partie par le Centre public d'aide social ou la commune;
+
+\- trente-huit pour cent en fonction du nombre d'habitants bénéficiaires du revenu d'insertion.
+
+Les mesures utilisées s'appuient sur les chiffres moyens des six dernières années pour lesquelles ces informations sont disponibles.
+
+Le Gouvernement fixe chaque année le montant par Centre public d'aide sociale calculé en application des alinéas 1 et 2.
+
+##### Art. 15.1
+
+[<sup>1</sup> Lutte contre la précarité énergétique
+
+Outre la dotation d'aide sociale, chaque centre public d'aide sociale reçoit une dotation d'un montant de 250 euros par habitant qui bénéficie du revenu d'intégration, et ce, pour financer des mesures visant à lutter contre la précarité énergétique.
+
+La mesure utilisée est le nombre d'habitants de la commune qui ont perçu un revenu d'intégration sociale au cours de l'avant-dernière année calendrier. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2021-12-13/12, art. 12, 009; En vigueur : 01-10-2021&gt;
+
+##### Art. 15_1.DROIT_FUTUR
+
+&lt;Abrogé par DCG 2025-02-24/04, art. 11, 014; En vigueur : 01-07-2025&gt;
+
+### CHAPITRE V. 1 [<sup>1</sup> Dotation de compensation des risques sociaux ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/13, art. 8, 015; En vigueur : 01-01-2025&gt;
+
+##### Art. 15.2
+
+[<sup>1</sup> - Montant de la dotation de compensation des risques sociaux
+
+La dotation de compensation des risques sociaux s'élève à 1 500 000,00 euros.
+
+Conformément aux articles 15.3 et 15.4, la dotation de compensation des risques sociaux est répartie entre les communes de la région de langue allemande sous forme d'une dotation de participation au soutien des bénéficiaires de l'aide sociale et d'une dotation pour les logements sociaux. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/13, art. 9, 015; En vigueur : 01-01-2025&gt;
+
+##### Art. 15.3
+
+[<sup>1</sup> Dotation de participation au soutien des bénéficiaires de l'aide sociale
+
+Sur le montant total de la dotation de compensation des risques sociaux, les communes reçoivent d'abord une dotation de participation au soutien des bénéficiaires de l'aide sociale, calculée conformément aux alinéas 2 à 5.
+
+Les chiffres mensuels relatifs au nombre de bénéficiaires du revenu d'intégration de l'année précédente sont déterminés pour chaque commune de la région de langue allemande. Ces chiffres mensuels permettent de calculer le nombre moyen de bénéficiaires du revenu d'intégration pour l'année concernée.
+
+Le rapport entre le nombre de bénéficiaires du revenu d'intégration et le nombre d'habitants est ensuite calculé pour chaque commune de la région de langue allemande. Cela permet de déterminer la moyenne des bénéficiaires du revenu d'intégration par habitant de la région de langue allemande.
+
+Les communes qui remplissent les conditions ci-après reçoivent un montant de 1 250,00 euros multiplié par le nombre moyen de bénéficiaires du revenu d'intégration de l'année précédente, calculé conformément à l'alinéa 2 :
+
+1° le rapport, calculé conformément à l'alinéa 3, entre les bénéficiaires du revenu d'intégration et les habitants de la commune est supérieur à la moyenne;
+
+2° le centre public d'aide sociale de la commune a, au cours de l'année précédente, reçu une subvention de l'Etat sur la base de l'article 32, § 1er, de la loi du 26 mai 2002 concernant le droit à l'intégration sociale.
+
+Les valeurs de l'année précédente sont à chaque fois utilisées pour déterminer les valeurs moyennes mentionnées dans le présent article. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/13, art. 10, 015; En vigueur : 01-01-2025&gt;
+
+##### Art. 15.4
+
+[<sup>1</sup> Dotation pour les logements sociaux
+
+Le reste de la dotation de compensation des risques sociaux est réparti entre les communes sous forme de dotation pour les logements sociaux, calculée conformément aux alinéas 2 à 4.
+
+Le rapport entre le nombre de logements loués par la société de logement de service public ou par le biais d'agences immobilières sociales au sens du Code wallon de l'habitation durable et le nombre d'habitants est calculé pour chaque commune de la région de langue allemande. Cela permet de déterminer la valeur moyenne de ces logements par habitant de la région de langue allemande.
+
+Le solde mentionné à l'alinéa 1er est réparti entre les communes qui remplissent les conditions suivantes :
+
+1° la condition mentionnée à l'article 15.3, alinéa 4, 1° ;
+
+2° le rapport, calculé conformément à l'alinéa 2, entre les logements y mentionnés et les habitants de la commune est supérieur à la moyenne.
+
+La répartition du solde entre les communes qui sont éligibles conformément à l'alinéa 3 s'effectue proportionnellement, sur la base du nombre total des logements mentionnés à l'alinéa 2 par commune éligible.
+
+Les chiffres moyens des six dernières années pour lesquelles les données sont disponibles sont applicables pour déterminer les valeurs moyennes mentionnées dans le présent article. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/13, art. 11, 015; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE V. 2 [<sup>1</sup> Fonds de solidarité ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/13, art. 12, 015; En vigueur : 01-01-2025&gt;
+
+##### Art. 15.5
+
+[<sup>1</sup> Montant et versement du fonds de solidarité
+
+Le Gouvernement met à disposition un fonds de solidarité annuel s'élevant à 150 000,00 euros. Ce montant est versé à une commune conformément à la proposition mentionnée à l'alinéa 2 ou est réparti entre plusieurs communes de la région de langue allemande. Le montant reçu par le biais du fonds de solidarité est exclusivement destiné à financer des travaux d'entretien sur des biens immobiliers communaux, conformément à l'article 34.2, § 1er.
+
+Le Gouvernement verse ce montant sur la base d'une proposition unanime des bourgmestres des communes de la région de langue allemande. Cette proposition est applicable pour l'année budgétaire en cours.
+
+Si aucune proposition unanime n'est introduite, le Gouvernement ne procède pas au versement du montant du fonds de solidarité pour l'année budgétaire concernée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/13, art. 13, 015; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE VI. - Dispositions modificatives.
+
+#### Section 1re. - Art amateur.
+
+## Titre du décret du 28 juin 1988.
+
+##### Art. 16
+
+Le titre du décret du 28 juin 1988 réglant le subventionnement des associations d'art amateur, modifié la dernière fois le 20 février 2006, est modifié comme suit :
+
+" Décret relatif au classement et au subventionnement des associations d'art amateur et des ensembles de musique de chambre ".
+
+## Contenu du décret relatif au classement et au subventionnement des associations d'art amateur et des ensembles de musique de chambre.
+
+##### Art. 17
+
+Les articles 1er à 18 du même décret sont remplacés par les articles suivants :
+
+" Chapitre Ier. - Dispositions générales.
+
+Définitions.
+
+Article 1er. Pour l'application du présent décret, il y a lieu d'entendre par :
+
+1\. art amateur : toute forme d'art permettant à une personne de s'épanouir et de développer librement, de manière non professionnelle, sa créativité par le contact avec l'art;
+
+2\. association d'art amateur : tout regroupement autonome de personnes physiques dont l'activité principale se situe dans le domaine de l'art amateur;
+
+3\. volet artistique : une forme d'art ou un groupe cohérent de formes d'art appartenant à une des expressions suivantes : musique instrumentale, chant ou théâtre;
+
+4\. ensemble de musique de chambre : toute association autonome de personnes physiques dont l'activité principale se situe dans le domaine de la musique instrumentale classique et qui compte, outre le directeur artistique, au moins quatre et maximum six membres actifs;
+
+5\. Gouvernement : le Gouvernement de la Communauté germanophone.
+
+CHAPITRE II. - Classement.
+
+Classement.
+
+Art. 2. § 1er. Le Gouvernement organise, par volet artistique, un classement des associations d'art amateur et des ensembles de musique de chambre qui :
+
+1\. ont leur siège dans la région de langue allemande et y exercent leur activité principale;
+
+2\. sont constituées sous forme d'association sans but lucratif;
+
+3\. existent depuis un an au moins et organisent leurs propres spectacles dans la région de langue allemande ou y participent à des manifestations;
+
+4\. chaque année donnent un minimum de spectacles publics dont le Gouvernement fixe le nombre par volet artistique;
+
+5\. outre leur directeur artistique, comptent un minimum de membres, que le Gouvernement fixe pour les associations d'art amateur en fonction du volet artistique.
+
+Le classement des associations d'art amateur est organisé par volet artistique.
+
+Le classement des ensembles de musique de chambre est organisé tous les quatre ans.
+
+§ 2. Le Gouvernement arrête :
+
+\- les catégories du classement;
+
+\- les organisateurs;
+
+\- la distribution artistique;
+
+\- les procédures de classement;
+
+\- la validité du classement.
+
+Le Gouvernement met en place des jurys spécialisés qui proposent le classement des candidats admis.
+
+Subventions.
+
+Art. 3. Dans le cadre des moyens budgétaires disponibles, le Gouvernement accorde aux associations d'art amateur et aux ensembles de musique de chambre classés une prime en fonction de la catégorie de classement, dont il fixe le montant.
+
+Le Gouvernement peut accorder à toutes les associations d'art amateur et à tous les ensembles de musique de chambre bénéficiant d'un encouragement de base de la part d'une commune une subvention pour des initiatives spéciales.
+
+CHAPITRE III. - Associations d'art amateur à valeur artistique élevée.
+
+Agréation.
+
+Art. 4. Sur proposition d'un des jurys spécialisés visés à l'article 2, § 2, alinéa 2, le Gouvernement peut agréer des associations d'art amateur en tant qu'association d'art amateur à valeur artistique élevée.
+
+Subvention.
+
+Art. 5. Dans le cadre des moyens budgétaires disponibles, le Gouvernement accorde chaque année aux associations d'art amateur à valeur artistique élevée une subvention pour les activités de l'année précédente à concurrence de :
+
+\- 75 % des dépenses visées à l'article 6, 1°;
+
+\- 60 % des dépenses visées à l'article 6, 3°;
+
+\- 50 % des dépenses visées à l'article 6, 2°, 4° et 5°.
+
+Pour avoir droit à la subvention, l'association d'art amateur à valeur artistique élevée doit :
+
+\- pouvoir faire état d'une comptabilité régulière, vérifiable à tout moment par le Gouvernement au siège de l'association;
+
+\- donner au moins six spectacles publics par année, dont au moins un à l'intérieur et au moins un à l'extérieur de la région de langue allemande;
+
+\- déposer chaque année un rapport sur les activités de l'année précédente.
+
+Dépenses éligibles.
+
+Art. 6. Pour le calcul de la subvention annuelle, les dépenses justifiées sont éligibles dans les domaines suivants, dans la mesure où elles ne sont pas déjà couvertes par des subventions accordées par la Communauté germanophone ou par d'autres pouvoirs publics :
+
+1\. les dépenses pour la rémunération :
+
+a) du directeur artistique;
+
+b) du personnel du secrétariat à raison de deux heures maximum par semaine;
+
+2\. les dépenses de secrétariat, de publicité et d'assurance ainsi que les cotisations aux fédérations nationales et internationales;
+
+3\. les dépenses liées immédiatement à l'organisation de manifestations;
+
+4\. les dépenses couvrant les frais de déplacement à l'occasion des spectacles à l'étranger dont le Gouvernement a approuvé le subventionnement sur base d'un programme présenté au début de l'année;
+
+5\. les dépenses pour l'achat de matériel.
+
+Avances.
+
+Art. 7. Les associations d'art amateur à valeur artistique élevée peuvent recevoir une avance sur la subvention annuelle conformément aux modalités à fixer par le Gouvernement.
+
+Mission du Gouvernement.
+
+Art. 8. Le Gouvernement définit :
+
+\- la procédure d'agréation des associations d'art amateur à valeur artistique élevée;
+
+\- les conditions et la procédure de retrait de l'agréation;
+
+\- la procédure de demande et de paiement des subventions accordées aux associations d'art amateur à valeur artistique élevée.
+
+CHAPITRE IV. - Ensembles de musique de chambre à valeur artistique élevée.
+
+Agréation.
+
+Art. 9. Sur proposition d'un des jurys spécialisés visés à l'article 2, § 2, alinéa 2, le Gouvernement peut agréer des ensembles de chambre de musique en tant qu'ensembles de chambre de musique à valeur artistique élevée.
+
+Subvention.
+
+Art. 10. Dans le cadre des moyens budgétaires disponibles, les ensembles de chambre de musique à valeur artistique élevée reçoivent chaque année une subvention forfaitaire maximale de 2 000 EUR pour les activités de l'année précédente.
+
+Pour avoir droit à la subvention, l'ensemble de chambre de musique à valeur artistique élevée doit :
+
+\- pouvoir faire état d'une comptabilité régulière, vérifiable à tout moment par le Gouvernement au siège de l'association;
+
+\- donner au moins cinq spectacles publics par année, dont au moins un à l'intérieur et au moins un à l'extérieur de la région de langue allemande;
+
+\- déposer chaque année un rapport sur les activités de l'année précédente.
+
+Les subventions ne sont versées qu'à concurrence des dépenses éligibles justifiées. Le Gouvernement peut fixer des catégories de dépenses éligibles et des plafonds par catégorie.
+
+La première subvention est versée sur base des activités de l'année d'agréation.
+
+Retrait de l'agréation.
+
+Art. 11. Le Gouvernement retire l'agréation en tant qu'ensemble de musique de chambre à valeur artistique élevée lorsque les conditions liées à l'agréation ne sont plus remplies.
+
+CHAPITRE V. - Subventions pour les biens d'équipement destinés à l'exercice d'un art amateur.
+
+Subvention.
+
+Art. 12. Dans le cadre des moyens budgétaires disponibles, le Gouvernement accorde aux fédérations et aux associations d'art amateur organisant régulièrement des activités à participation nombreuse et durable des subventions pour l'acquisition de biens d'équipement destinés à l'exercice d'une activité culturelle et ne faisant pas partie d'une infrastructure, dont le but est de couvrir une partie des frais liés au renouvellement ou à l'élargissement de l'équipement de base.
+
+Les associations n'ont droit à la subvention visée à l'alinéa 1 que s'ils peuvent bénéficier d'un encouragement de base de la part d'une commune de la région de langue allemande.
+
+Conditions.
+
+Art. 13. Les subventions ne sont accordées que si le demandeur s'engage par écrit :
+
+\- à ne pas céder les objets subventionnés contre paiement ou à titre gracieux dans les douze ans suivant la date de paiement des subventions;
+
+\- à donner à tout moment au Gouvernement la possibilité de vérifier les indications et à avoir accès à tous les documents;
+
+\- à informer immédiatement le Gouvernement de sa dissolution.
+
+pas de traduction
+
+Montant de la subvention.
+
+Art. 14. Dans le cadre des moyens budgétaires disponibles, le Gouvernement fixe le plafond des subventions et les pourcentages applicables pour leur calcul.
+
+Les demandes d'octroi de subventions d'équipement dans le cadre d'un encouragement permanent des jeunes bénéficient d'un traitement prioritaire.
+
+Demande.
+
+Art. 15. Les subventions d'équipement ne sont accordées que si l'accord écrit du Gouvernement a été obtenu avant chaque commande ou chaque achat. Pour pouvoir recevoir la subvention pendant l'année budgétaire en cours, les demandeurs introduisent avant le 31 mars de l'année concernée une demande en double exemplaire auprès du Gouvernement.
+
+Les documents suivants doivent être joints à la demande :
+
+1\. une justification attestant de l'existence de l'animation et de la nécessité d'acquérir des biens d'équipement pour celle-ci;
+
+2\. trois devis lorsque le prix de l'équipement atteint 5 500 EUR; dans les autres cas, un seul devis suffit.
+
+Paiement.
+
+Art. 16. Le paiement de la subvention a lieu après présentation et vérification de l'original des factures et des pièces justificatives pour les dépenses éligibles.
+
+Obligations.
+
+Art. 17. Les biens d'équipement acquis à l'aide de subventions accordées en vertu du présent décret doivent figurer pendant 12 ans dans un inventaire permanent. Cet inventaire contient au moins les indications suivantes :
+
+\- la date d'achat;
+
+\- le prix d'achat;
+
+\- le montant de la subvention accordée; et
+
+\- le cas échéant, les remarques sur l'état des objets.
+
+Les biens d'équipement acquis à l'aide de subventions accordées en vertu du présent décret doivent être assurés contre le feu s'ils sont entreposés dans un seul et même endroit.
+
+Remboursement.
+
+Art. 18. En cas de violation des dispositions des articles 12 à 17 du présent décret, le Gouvernement réclame le remboursement total ou partiel des subventions. "
+
+## Disposition abrogatoire.
+
+##### Art. 18
+
+Les articles 18bis à 22 du même décret sont abrogés.
+
+#### Section 2. - Bibliothèques publiques.
+
+## Titre du décret du 15 juin 1994.
+
+##### Art. 19
+
+Le titre du décret du 15 juin 1994 relatif aux bibliothèques publiques est complété comme suit :
+
+&lt;et à la Commission consultative des bibliothèques publiques&gt;. &lt; Erratum,M.B. 09-12-2016,p. 80946&gt;
+
+## Modification de l'article 1er du même décret.
+
+##### Art. 20
+
+L'article 1er du même décret est modifié comme suit :
+
+\- § 1er est remplacé par le texte suivant :
+
+" § 1er. Pour l'application du présent décret, il y a lieu d'entendre par " bibliothèques agréées " les bibliothèques bénéficiant d'un encouragement de base de la part des communes; "
+
+\- § 3 est abrogé.
+
+## [La Commission consultative] des bibliothèques publiques.
+
+##### Art. 21
+
+L'article 2, §§ 2 et 3, du même décret, modifié par le décret du 1er mars 2004 est remplacé par le texte suivant :
+
+" § 2. &lt;La Commission consultative&gt; a pour mission :
+
+1\. de donner son avis sur tous les avant-projets de décrets concernant les bibliothèques publiques;
+
+2\. de donner son avis, à la demande du Gouvernement ou de sa propre initiative, sur toutes les questions concernant les bibliothèques publiques et les médiathèques scolaires;
+
+3\. de défendre les intérêts et de créer un forum des bibliothèques publiques et des médiathèques scolaires afin d'encourager la coopération et l'échange de vues entre les bibliothèques publiques et les médiathèques scolaires;
+
+4\. de développer des idées et de faire des suggestions pour le développement des bibliothèques publiques en Communauté germanophone;
+
+5\. de suggérer des mesures et des campagnes pour la promotion de la lecture;
+
+6\. de développer un concept pour la formation et la formation continue des collaboratrices et des collaborateurs des bibliothèques publiques;
+
+7\. de défendre la cause des bibliothèques publiques dans l'opinion publique;
+
+8\. de mettre en réseau les bibliothèques de la Communauté germanophone;
+
+9\. de nouer et d'entretenir des contacts avec les organisations actives dans le secteur des bibliothèques sur le plan national et international. &lt;Erratum, M.B. 09-12-2016,p.80946&gt;
+
+§ 3.&lt;La Commission consultative&gt; est composé comme suit :
+
+1\. un représentant par bibliothèque publique de la région de langue allemande;
+
+2\. un représentant des bibliothèques, médiathèques et bibliothèques spécialisées collaborant au sein de l'association " Verbund Media DG ";
+
+3\. un représentant du Gouvernement;
+
+4\. un représentant de la Fédération des bibliothèques et des bibliothécaires belges;
+
+5\. un représentant du Centre médiatique.&lt;Erratum, M.B. 09-12-2016,p.80946&gt;
+
+Les représentants mentionnés aux points 3 à 5 participent avec voix consultative aux réunions &lt;du Conseil&gt;. &lt;Erratum, M.B. 09-12-2016,p.80946&gt;
+
+## Disposition abrogatoire.
+
+##### Art. 22
+
+Les articles 2 à 11, 14 à 24 et 30 à 32 du même décret sont abrogés.
+
+## Modification de l'article 26 du décret sur les bibliothèques.
+
+##### Art. 23
+
+L'article 26, alinéa 1, 3°, du même décret est remplacé par le texte suivant : " 3. initiatives spéciales. "
+
+#### Section 3. - Associations sportives.
+
+#### Modification de l'article 3 du décret sur le sport.
+
+##### Art. 24
+
+L'article 3 du décret du 19 avril 2004 sur le sport est complété par un nouveau numéro 9 libellé comme suit : " 9. Associations sportives : associations bénéficiant de la part d'une commune de la région de langue allemande d'un encouragement de base pour des activités sportives. "
+
+#### Modification de l'article 5 du décret sur le sport.
+
+##### Art. 25
+
+A l'article 5 du même décret, les mots " Vereine und " (associations et) sont supprimés.
+
+#### Modification de l'article 6 du décret sur le sport.
+
+##### Art. 26
+
+A l'article 6, alinéa 1, du même décret, le numéro 5 est supprimé.
+
+#### Modification de l'article 20 du décret sur le sport.
+
+##### Art. 27
+
+L'article 20, alinéa 1re, du même décret est modifié comme suit :
+
+1\. au 3° les mots " le cas échéant " sont abrogés;
+
+2\. le 4° est abrogé.
+
+#### Abrogation de différents articles du décret sur le sport.
+
+##### Art. 28
+
+Les articles 8, 15 et 25 du même décret sont abrogés.
+
+#### Modification de l'article 31 du décret sur le sport.
+
+##### Art. 29
+
+A l'article 31, alinéa 1, du même décret, les mots " 22, 23 und 25 " sont remplacés par les mots " 22 et 23 ".
+
+#### Modification du décret sur le statut des tireurs sportifs.
+
+##### Art. 30
+
+L'article 2, 5°, du décret du 20 novembre 2006 sur le statut des tireurs sportifs est remplacé par le texte suivant : " club de tir : association sportive pratiquant le tir et bénéficiant d'un encouragement de base de la part d'une commune de la région de langue allemande. "
+
+#### Modification du décret sur la prévention de risques pour la santé lors de la pratique du sport.
+
+##### Art. 31
+
+L'article 2, 5°, du décret sur la prévention de risques pour la santé lors de la pratique du sport est remplacé par le texte suivant : " 5. Association sportive : association bénéficiant de la part d'une commune de la région de langue allemande d'un encouragement de base pour des activités sportives. "
+
+### CHAPITRE VII. - Dispositions finales.
+
+### Dispositions abrogatoires.
+
+##### Art. 32
+
+Sont abrogés :
+
+\- l'article 105, alinéas 2 et 3, de la loi organique du 8 juillet 1976 sur les Centres publics d'aide sociale, modifiée par la loi du 31 décembre 1983;
+
+\- le décret du 18 avril 1995 fixant les critères de subventionnement pour l'acquisition de biens d'équipement par des fédérations et des associations pour la pratique de l'art amateur;
+
+\- le décret du 16 février 1998 sur l'agréation et le subventionnement des associations et des fédérations actives dans le domaine du folklore;
+
+\- le décret du 25 mai 1999 réglant l'agréation et le subventionnement des ensembles de musique de chambre;
+
+\- le décret du 17 mars 2008 sur la dotation des voiries communales;
+
+\- l'arrêté du Gouvernement du 14 janvier 1999 fixant les critères de répartition du Fonds spécial d'aide sociale entre les Centres publics d'aide sociale de la Communauté germanophone.
+
+### Disposition transitoire pour l'article 9.
+
+##### Art. 33
+
+Les communes ne reçoivent pas de subvention en application du décret d'infrastructure du 18 mars 2002 pour les investissements visés à l'article 9 du présent décret, à l'exception des projets approuvés par le plan d'infrastructure 2005-2009.
+
+Les frais liés aux emprunts contractés avant le 1er janvier 2008 pour le financement de travaux aux voiries communales n'entrent pas en ligne de compte pour justifier l'affectation de la dotation.
+
+### Disposition transitoire pour l'article 11.
+
+##### Art. 34
+
+La dotation visée à l'article 11 remplace toutes les prestations de l'encouragement de base auxquelles les bénéficiaires des subventions ont droit en vertu de procédures de subventionnement antérieures.
+
+##### Art. 34.1
+
+[<sup>1</sup> Disposition transitoire pour les années budgétaires 2013 et 2014.
+
+Par dérogation à l'article 3, § 2, alinéa 1er, et à l'article 14, § 1er, alinéa 3, le taux d'évolution y mentionné au § 1er correspond, pour calculer la dotation communale et la dotation d'aide sociale pour les années budgétaires 2013 et 2014, au taux de croissance de l'indice moyen des prix à la consommation pour l'année budgétaire en question.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 23, 005; En vigueur : 01-01-2013&gt;
+
+##### Art. 34.2
+
+[<sup>1</sup> - [<sup>2</sup> Disposition transitoire pour les années budgétaires 2025 à 2031 ]<sup>2</sup>
+
+§ 1er - Par dérogation à l'article 1er, alinéa 1er, les communes reçoivent [<sup>2</sup> pour les années budgétaires 2025 à 2031 une dotation annuelle d'entretien ]<sup>2</sup> destinée à financer des travaux d'entretien de biens immobiliers communaux.
+
+§ 2 [<sup>2</sup> Sans préjudice de l'application de l'article 15.5, la dotation d'entretien s'élève à 7 500 000 euros. ]<sup>2</sup>.
+
+Ce montant est réparti entre les communes sur une base proportionnelle déterminée en application [<sup>2</sup> de l'article 5 ]<sup>2</sup>.
+
+§ 3 - Le Gouvernement contrôle l'utilisation des fonds accordés en vertu du présent article au moyen de la reddition des comptes annuelle des communes.
+
+Le Gouvernement réclame le remboursement des fonds non utilisés aux fins prévues au cours de l'année budgétaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2024-12-23/09, art. 18, 013; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DCG 2025-12-22/13, art. 14, 015; En vigueur : 01-01-2025&gt;
+
+##### Art. 34.3
+
+[<sup>1</sup> - Disposition transitoire pour l'année budgétaire 2025
+
+Par dérogation à l'article 104, §§ 1er et 2, du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone, la dotation mentionnée à l'article 15.1 pour le premier semestre 2025 est liquidée en totalité en une seule fois, au plus tard le 30 juin 2025.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-02-24/04, art. 12, 014; En vigueur : 01-01-2025&gt;
+
+### Entrée en vigueur.
+
+##### Art. 35
+
+Le présent décret entre en vigueur le 1er janvier 2009.
+
+---
+
+Eupen, le 15 décembre 2008.
+
+K.-H. LAMBERTZ
+
+Ministre-Président du Gouvernement de la Communauté germanophone, Ministre des Pouvoirs locaux,
+
+B. GENTGES
+
+Vice-Ministre-Président du Gouvernement de la Communauté germanophone, Ministre de la Formation et de l'Emploi, des Affaires et du Tourisme,
+
+O. PAASCH
+
+Ministre de l'Enseignement et de la Recherche scientifique,
+
+I. WEYKMANS
+
+Ministre de la Culture et des Médias, de la Protection des Monuments, de la Jeunesse et des Sports.

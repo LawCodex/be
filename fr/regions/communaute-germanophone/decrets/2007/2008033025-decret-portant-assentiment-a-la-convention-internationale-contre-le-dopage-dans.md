@@ -1,0 +1,53 @@
+---
+title: "Décret portant assentiment à la Convention internationale contre le dopage dans le sport, adoptée à Paris le 19 octobre 2005, et à ses annexes Ire et II (TRADUCTION)."
+identifier: "2008033025"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/17/2008033025/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2007-12-17
+published: 2008-04-09
+entry_into_force: 2008-04-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/17/2008033025/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 17 DECEMBRE 2007. - Décret portant assentiment à la Convention internationale contre le dopage dans le sport, adoptée à Paris le 19 octobre 2005, et à ses annexes Ire et II (TRADUCTION).
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+La Convention internationale contre le dopage dans le sport, adoptée à Paris le 19 octobre 2005, et ses annexes I et II sortiront leur plein et entier effet.
+
+## Art. 2
+
+Les amendements aux annexes, adoptés conformément à l'article 34 de cette convention, sortissent leur plein et entier effet.
+
+## Art. 3
+
+Le Gouvernement communique au Parlement tout projet d'amendement aux annexes dans un délai de quinze jours à dater de la réception de la notification officielle des amendements proposés.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 17 décembre 2007.
+
+Ministre-Président du Gouvernement de la Communauté germanophone, Ministre des Pouvoirs locaux,
+
+K.-H. LAMBERTZ
+
+Vice-Ministre-Président du Gouvernement de la Communauté germanophone, Ministre de la Formation et de l'Emploi, des Affaires sociales et du Tourisme,
+
+B. GENTGES
+
+Ministre de l'Enseignement et de la Recherche scientifique,
+
+O. PAASCH
+
+Ministre de la Culture et des Médias, de la Protection des Monuments, de la Jeunesse et des Sports,
+
+I. WEYKMANS.

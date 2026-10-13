@@ -1,0 +1,47 @@
+---
+title: "Décret portant assentiment au Protocole d'amendement à la Convention portant création du Centre européen pour les prévisions météorologiques à moyen terme ainsi qu'au Protocole sur les privilèges et immunités du Centre européen pour les prévisions météorologiques à moyen terme, signés à Bruxelles, le 11 octobre 1973, adopté le 22 avril 2005"
+identifier: "2009201429"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/23/2009201429/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2009-03-23
+published: 2009-04-21
+entry_into_force: 2009-05-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/23/2009201429/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 23 MARS 2009. - Décret portant assentiment au Protocole d'amendement à la Convention portant création du Centre européen pour les prévisions météorologiques à moyen terme ainsi qu'au Protocole sur les privilèges et immunités du Centre européen pour les prévisions météorologiques à moyen terme, signés à Bruxelles, le 11 octobre 1973, adopté le 22 avril 2005
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. unique
+
+- Le Protocole d'amendement au Protocole d'amendement à la Convention portant création du Centre européen pour les prévisions météorologiques à moyen terme ainsi qu'au Protocole sur les privilèges et immunités du Centre européen pour les prévisions météorologiques à moyen terme, signés à Bruxelles, le 11 octobre 1973, adopté le 22 avril 2005, sortira son plein et entier effet.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 23 mars 2009.
+
+Le Ministre-Président du Gouvernement de la Communauté germanophone, Ministre des Pouvoirs locaux,
+
+K.-H. LAMBERTZ
+
+Le Vice-Ministre-Président du Gouvernement de la Communauté germanophone,
+
+Ministre de la Formation et de l'Emploi, des Affaires sociales et du Tourisme,
+
+B. GENTGES
+
+Le Ministre de l'Enseignement et de la Recherche scientifique,
+
+O. PAASCH
+
+La Ministre de la Culture et des Médias, de la Protection des Monuments, de la Jeunesse et des Sports,
+
+Mme I. WEYKMANS
