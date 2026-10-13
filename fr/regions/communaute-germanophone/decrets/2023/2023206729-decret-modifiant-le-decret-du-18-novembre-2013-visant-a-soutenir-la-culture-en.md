@@ -1,0 +1,149 @@
+---
+title: "Décret modifiant le décret du 18 novembre 2013 visant à soutenir la culture en Communauté germanophone"
+identifier: "2023206729"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/16/2023206729/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2023-10-16
+published: 2024-02-09
+entry_into_force: 2024-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/16/2023206729/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 16 OCTOBRE 2023. - Décret modifiant le décret du 18 novembre 2013 visant à soutenir la culture en Communauté germanophone
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+A l'article 1er du décret du 18 novembre 2013 visant à soutenir la culture en Communauté germanophone, les modifications suivantes sont apportées :
+
+1° au 11°, le point en fin de phrase est remplacé par un point-virgule.
+
+2° l'article est complété par un 12° rédigé comme suit :
+
+" 12° organisation faîtière : l'organisation faîtière pour la musique en Communauté germanophone mentionnée à l'article 73. "
+
+## Art. 2
+
+Dans l'article 48, § 3, du même décret, dans l'alinéa 1er, les mots " La fédération d'art amateur mentionnée à l'article 73 " sont remplacés par les mots " L'organisation faîtière ", et dans l'alinéa 2, les mots " la fédération " sont remplacés par les mots " ladite organisation ".
+
+## Art. 3
+
+Dans l'article 50, § 1er, alinéa 1er, du même décret, les mots " la fédération d'art amateur mentionnée à l'article 73 " sont remplacés par les mots " l'organisation faîtière ".
+
+## Art. 4
+
+Dans le chapitre 4, l'intitulé de la section 5 du même décret, comportant les articles 73 à 78, est remplacé par ce qui suit :
+
+" Section 5 - Soutien accordé à une organisation faîtière pour la musique en Communauté germanophone ".
+
+## Art. 5
+
+A l'article 73 du même décret, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 1er, les mots " une fédération d'art amateur pour la discipline artistique "musique" en région de langue allemande " sont remplacés par les mots " une organisation faîtière pour la musique en Communauté germanophone ";
+
+2° l'alinéa 2 est remplacé par ce qui suit :
+
+" L'organisation faîtière a notamment pour mission d'assurer :
+
+1° la planification et la mise en oeuvre de projets dans la discipline artistique "musique" qui contribuent à la formation et à la formation continue des musiciens et des chanteurs ainsi qu'à la promotion de la qualité artistique au sein et en dehors des associations relevant de la discipline artistique "musique" et au renforcement du travail associatif;
+
+2° la représentation des intérêts des associations affiliées;
+
+3° l'organisation pratique des classements dans le domaine de la musique en coopération avec les services du Gouvernement;
+
+4° la mise à disposition d'une centrale d'achat pour les fournitures et les services;
+
+5° le secrétariat central, joignable au moins 200 jours par an;
+
+6° la mise sur pied d'une offre de conseils pour les associations relevant de la discipline artistique "musique" en ce qui concerne toutes les questions administratives et juridiques dans le domaine du bénévolat et du travail associatif, en coopération avec le service compétent du Gouvernement;
+
+7° la mise en place d'une offre de soutien en ce qui concerne la planification et la réalisation de manifestations pour les associations affiliées relevant de la discipline artistique "musique";
+
+8° la direction d'un centre de documentation, notamment en ce qui concerne les partitions et la littérature spécifique;
+
+9° le suivi des contacts et la création de synergies avec les autres organisations faîtières de musique en Belgique et à l'étranger. "
+
+## Art. 6
+
+A l'article 74 du même décret, modifié par le décret du 26 février 2018, les modifications suivantes sont apportées :
+
+1° dans la phrase introductive, les mots " fédération d'art amateur pour la discipline artistique "musique" " sont remplacés par les mots " organisation faîtière ";
+
+2° au 2°, les mots " 6 communes " sont remplacés par les mots " huit communes ";
+
+3° au 6°, les mots " la convention mentionnée à l'article 78 " sont remplacés par les mots " le contrat de gestion mentionné à l'article 78 ";
+
+4° il est inséré un 6.1° rédigé comme suit :
+
+" 6.1° assurer un vaste travail de relations publiques; "
+
+5° il est inséré un 7.1° rédigé comme suit :
+
+" 7.1° générer elle-même au moins 20 % des recettes annuelles; "
+
+6° au 8°, les mots " et un budget pour l'exercice suivant " sont remplacés par les mots " ainsi qu'un budget pour l'exercice suivant et les éventuelles modifications des statuts ".
+
+## Art. 7
+
+A l'article 75 du même décret, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 1er, 1°, les mots " qui seront menées les cinq années suivantes " sont remplacés par les mots " et des objectifs pour la durée de la période de soutien concernée ";
+
+2° l'alinéa 3 est remplacé par ce qui suit :
+
+" La première période de soutien débute le 1er janvier 2024 et expire le 31 décembre 2028. "
+
+## Art. 8
+
+Dans l'article 76, alinéa 1er, du même décret, les mots " 31 mars " sont remplacés par les mots " 30 juin ".
+
+## Art. 9
+
+Dans l'article 77, alinéa 1er, du même décret, les mots " pour fédération d'art amateur " sont remplacés par les mots " à l'organisation faîtière ".
+
+## Art. 10
+
+L'article 78 du même décret est remplacé par ce qui suit :
+
+" Art. 78 - Contrat de gestion
+
+Si le Gouvernement approuve le soutien, il conclut avec l'organisation faîtière, pour la durée de la période de soutien et conformément à l'article 105 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone, un contrat de gestion qui régit la réalisation du concept de mise en oeuvre. "
+
+## Art. 11
+
+Dans l'article 80, § 1er, 2°, du même décret, les mots " la fédération d'art amateur soutenue " sont remplacés par les mots " l'organisation faîtière ".
+
+## Art. 12
+
+Le présent décret entre en vigueur le 1er janvier 2024.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 16 octobre 2023.
+
+O. PAASCH,
+
+Le Ministre-Président, Ministre des Pouvoirs locaux et des Finances
+
+A. ANTONIADIS,
+
+Le Vice-Ministre-Président, Ministre de la Santé et des Affaires sociales, de l'Aménagement du territoire et du Logement
+
+I. WEYKMANS,
+
+La Ministre de la Culture et des Sports, de l'Emploi et des Médias
+
+L. KLINKENBERG,
+
+La Ministre de l'Education et de la Recherche scientifique

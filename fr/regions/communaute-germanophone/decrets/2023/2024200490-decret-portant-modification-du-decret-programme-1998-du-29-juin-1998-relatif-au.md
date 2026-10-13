@@ -1,0 +1,65 @@
+---
+title: "Décret portant modification du décret-programme 1998 du 29 juin 1998 relatif au régime de pension du personnel statutaire du B.R.F. (Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone)"
+identifier: "2024200490"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/12/2024200490/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2023-12-12
+published: 2024-04-29
+entry_into_force: 2024-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/12/2024200490/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 12 DECEMBRE 2023. - Décret portant modification du décret-programme 1998 du 29 juin 1998 relatif au régime de pension du personnel statutaire du B.R.F. (Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone)
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Dans le chapitre VIII du décret-programme 1998 du 29 juin 1998, il est inséré une section 1, comportant l'article 87.1, intitulée comme suit :
+
+" Section 1 - Dispositions générales ".
+
+## Art. 2
+
+Dans la section 1 du même décret, il est inséré un article 87.1 rédigé comme suit :
+
+" Art. 87.1. Sous réserve des dispositions dérogatoires prévues dans le présent chapitre, les pensions du personnel statutaire du B.R.F. (Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone) sont octroyées dans les conditions et selon les modalités applicables aux fonctionnaires des services publics fédéraux. "
+
+## Art. 3
+
+L'ancienne section 1 du chapitre VIII du même décret, comportant les articles 88 à 89, devient la section 1.1.
+
+## Art. 4
+
+Le décret du 18 avril 1990 réglant l'admissibilité de certaines années pour la mise à la retraite et pour le calcul de la pension du personnel du Centre belge de Radiodiffusion et de Télévision de la Communauté germanophone est abrogé.
+
+## Art. 5
+
+Le présent décret entre en vigueur le 1er janvier 2024.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 12 décembre 2023.
+
+O. PAASCH, Le Ministre-Président,
+
+Ministre des Pouvoirs locaux et des Finances
+
+A. ANTONIADIS, Le Vice-Ministre-Président, Ministre de la Santé et des Affaires sociales, de l'Aménagement du territoire et du Logement
+
+I. WEYKMANS,
+
+La Ministre de la Culture et des Sports, de l'Emploi et des Médias
+
+L. KLINKENBERG,
+
+La Ministre de l'Education et de la Recherche scientifique
