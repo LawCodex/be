@@ -1,0 +1,57 @@
+---
+title: "Décret spécial modifiant les articles 5 et 22 du décret spécial du 26 juin 1991 relatif à l'\" Universiteit Gent \" et à l'\" Universitair Centrum Antwerpen \""
+identifier: "2020042010"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/19/2020042010/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2020-06-19
+published: 2020-07-10
+entry_into_force: 2020-07-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/19/2020042010/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 19 JUIN 2020. - Décret spécial modifiant les articles 5 et 22 du décret spécial du 26 juin 1991 relatif à l'" Universiteit Gent " et à l'" Universitair Centrum Antwerpen "
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+A l'article 5 du décret spécial du 26 juin 1991 relatif à l' " Universiteit Gent " et à l'" Universitair Centrum Antwerpen ", remplacé par le décret spécial du 3 février 2017, les modification suivantes sont apportées :
+
+1° l'alinéa 2 est remplacé par ce qui suit :
+
+" Le collège électoral est composé de tous les membres du personnel académique autonome, du personnel académique assistant et du personnel administratif et technique et de tous les étudiants de l'université qui répondent aux critères minimaux d'importance de la désignation ou de la nomination ou aux critères minimaux pour les unités d'études engagées.Ces critères minimaux sont fixés par voie de règlement. ";
+
+2° l'alinéa 6 est remplacé par ce qui suit :
+
+" Le conseil d'administration fixe la procédure électorale à la majorité spéciale des deux tiers des voix valablement exprimées et à la majorité simple des voix valablement exprimées dans chaque catégorie visée à l'article 16, alinéa 1er, 3°, 4°, 5°, 6° et 7°. ".
+
+## Art. 3
+
+" L'article 22 du même décret spécial, modifié par le décret spécial du 13 juillet 2012, est remplacé par ce qui suit :
+
+" Art. 22. Les décisions du conseil d'administration sont prises à la majorité simple des voix exprimées, à l'exception de la décision sur la procédure électorale visée à l'article 5, alinéa 6, et des décisions visées à l'article 21, § 2. Les abstentions, les votes nuls et blancs ne sont pas pris en considération. En cas de partage des voix, le président décide. ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 19 juin 2020.
+
+Le Ministre-président du Gouvernement flamand,
+
+J. JAMBON
+
+Le Ministre flamand de l'Enseignement, des Sports, du Bien-Etre des Animaux et du Vlaamse Rand,
+
+B. WEYTS

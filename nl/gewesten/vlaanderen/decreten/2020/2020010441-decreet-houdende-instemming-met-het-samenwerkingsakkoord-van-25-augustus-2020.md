@@ -1,0 +1,45 @@
+---
+title: "Decreet houdende instemming met het samenwerkingsakkoord van 25 augustus 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gezamenlijke gegevensverwerking door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde agentschappen aangeduide contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek bij personen die (vermoedelijk) met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank bij Sciensano"
+identifier: "2020010441"
+eli: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/02/2020010441/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: nl
+date: 2020-10-02
+published: 2020-10-15
+entry_into_force: 2020-10-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/02/2020010441/justel"
+department: "Vlaamse Overheid"
+retrieved: 2026-10-12
+---
+
+# 2 OKTOBER 2020. - Decreet houdende instemming met het samenwerkingsakkoord van 25 augustus 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gezamenlijke gegevensverwerking door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde agentschappen aangeduide contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek bij personen die (vermoedelijk) met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank bij Sciensano
+
+Het VLAAMS PARLEMENT heeft aangenomen en Wij, REGERING, bekrachtigen hetgeen volgt :
+
+Decreet houdende houdende instemming met het samenwerkingsakkoord van 25 augustus 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gezamenlijke gegevensverwerking door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde agentschappen aangeduide contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek bij personen die (vermoedelijk) met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank bij Sciensano
+
+## Art. 1
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
+## Art. 2
+
+Instemming wordt verleend met het samenwerkingsakkoord van 25 augus- tus 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gezamenlijke gegevensverwerking door Sciensano en de door de bevoegde gefedereerde entiteiten of door de bevoegde agentschappen aangedui- de contactcentra, gezondheidsinspecties en mobiele teams in het kader van een contactonderzoek bij personen die (vermoedelijk) met het coronavirus COVID-19 besmet zijn op basis van een gegevensbank bij Sciensano.
+
+---
+
+Kondigen dit decreet af, bevelen dat het in het Belgisch Staatsblad zal worden bekendgemaakt.
+
+Brussel, 2 oktober 2020.
+
+De minister-president van de Vlaamse Regering,
+
+J. JAMBON
+
+De Vlaamse minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding,
+
+W. BEKE

@@ -1,0 +1,1101 @@
+---
+title: "Décret relatif à l'organisation des soins de première ligne, des plateformes régionales de soins, et du soutien des prestataires de soins de première ligne"
+identifier: "2019030471"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019030471/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2019-04-26
+published: 2019-05-24
+entry_into_force: 2019-10-01
+last_amended: 2025-12-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019030471/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 24-05-2019 et mise à jour au 30-12-2025"
+retrieved: 2026-10-12
+---
+
+# 26 AVRIL 2019. - Décret relatif à l'organisation des soins de première ligne, des plateformes régionales de soins, et du soutien des prestataires de soins de première ligne
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret relatif à l'organisation des soins de première ligne, des plateformes régionales de soins, et du soutien des prestataires de soins de première ligne
+
+## CHAPITRE 1er. - Dispositions générales
+
+#### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+#### Art. 2
+
+Dans le présent décret, on entend par :
+
+[<sup>1</sup> 1° règlement général sur la protection des données : règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;]<sup>1</sup>
+
+[<sup>1</sup> 1°/1]<sup>1</sup> zone de première ligne : la zone d'action du conseil des soins, visé à l'article 13 ;
+
+2° soins de première ligne : les soins et le soutien qui s'adressent aux personnes ayant besoin de soins et de soutien largement accessibles à tous, ambulatoires et généralistes, pour des problèmes liés à la santé ou au bien-être, de nature physique, psychologique ainsi que sociale, qui est offerte par des prestataires de soins de première ligne, après l'orientation ou non par un autre prestataire de soins ;
+
+3° prestataire de soins de première ligne : une personne, un service ou une organisation qui, en tant qu'acteur de soins ou de bien-être, fournit des soins ou du soutien professionnels aux personnes en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup>, à l'exception des personnes, services ou organisations disposant d'une offre de soins et de soutien spécialisés ;
+
+4° soins et soutien intégrés : la coopération au niveau opérationnel et organisationnel de tous les acteurs de soins et du bien-être concernés et des initiatives d'acteurs de soins et du bien-être volontaires et informels dans la poursuite des soins et du soutien cohérents et continus de la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> et ses aidants proches, lors de laquelle la [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> et le contexte de la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> forment le point de départ et ce pendant toute la durée de vie ;
+
+5° soins informels : les soins et le soutien que des personnes fournissent, non pas dans une capacité professionnelle mais avec une régularité plus qu'occasionnelle, à la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> ;
+
+6° interdisciplinaire : le mode de coopération qui est développé sur la base d'objectifs de soins et de soutien conjointement formulés, lors duquel ces objectifs de soins et de soutien ne peuvent pas être réalisés par une seule discipline ou organisation. Une coopération interdisciplinaire combine des conceptions à partir de différentes perspectives, disciplines et expériences ;
+
+[<sup>1</sup> 6° /1 but dans la vie : un objectif personnel de la personne en besoin de soins et de soutien, basé sur ses valeurs et ses souhaits, qui permet de prodiguer des soins ciblés et d'établir des objectifs de soins et de soutien ;]<sup>1</sup>
+
+7° administrations locales : les communes et les centres publics d'action sociale ;
+
+8° aidant proche : la personne physique qui partant d'un lien social ou émotionnel aide et soutient une ou plusieurs personnes en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> dans leur vie quotidienne, non pas dans une capacité professionnelle, mais avec une régularité plus qu'occasionnelle ;
+
+9° organisation oeuvrant sur le terrain : une organisation dotée de la personnalité juridique qui exécute les missions sur le terrain, qui applique les méthodologies, fournies ou non par une organisation partenaire, ou qui fournit du soutien aux soins de première ligne, et qui est agréée ou subventionnée à cette fin par le Gouvernement flamand ;
+
+10° organisation partenaire : une organisation dotée de la personnalité juridique qui fonctionne comme centre d'expertise dans l'ensemble ou des aspects partiels des soins de première ligne, et qui est agréée et subventionnée par le Gouvernement flamand, ou est subventionnée par le biais d'un contrat de gestion ;
+
+11° représentant : la personne physique qui agit en lieu de la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> lors de toutes les actions que la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> doit accomplir dans le cadre du présent décret, si celle-ci est incapable d'exercer ses droits elle-même ;
+
+12° autorégie : la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> dispose de la capacité de faire correspondre les soins et le soutien, tant au niveau du processus que du contenu, à ses buts dans la vie et à la qualité de vie qu'elle souhaite, elle peut les contrôler et en a la direction ;
+
+13° capacité d'autonomie : la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> a la capacité, en tant que personne physique, de prendre des décisions et d'agir dans la vie quotidienne afin de répondre à ses besoins de base, et les activités associées ;
+
+14° prestataire de soins : une personne, un service ou une organisation qui, en tant qu'acteur de soins ou de bien-être, fournit des soins ou du soutien à des personnes en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup>, y compris les personnes, services ou organisations disposant d'une offre de soins et de soutien spécialisés ;
+
+15° soins et soutien : une activité ou l'ensemble des activités menées dans le cadre de la politique de santé ou de bien-être, qui sont exécutées dans le cadre du présent décret ;
+
+16° objectif de soins et de soutien : un objectif formulé par la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup>, son représentant ou aidant proche et ses prestataires de soins concernant les soins souhaitables en vue des buts dans la vie et la qualité de vie que la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> souhaite atteindre ;
+
+17° [<sup>1</sup> plan de soins et de soutien : un instrument de travail numérique ou non dans lequel sont repris, après la clarification de la demande ou l'indication, sur les conseils de la personne et en concertation avec celle-ci, le besoin de soins et de soutien, les objectifs de soins et de soutien et les accords concernant les soins et le soutien envisagés pour cette personne et avec lequel l'équipe de soins et de soutien collabore et communique entre elles ;]<sup>1</sup>
+
+18° [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> : le besoin de soins et de soutien qui est ressenti par une personne ou son environnement ou qui est constaté de manière objective ;
+
+19° [<sup>1</sup> équipe de soins et de soutien]<sup>1</sup> : la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> et les acteurs de soins et de bien-être informels et professionnels concernés qui collaborent au sujet des soins de la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup>, dans le cadre d'un plan de soins et de soutien.
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 10, 004; En vigueur : 01-01-2025&gt;
+
+## CHAPITRE 2. - Principes de fonctionnement pour une organisation axée sur la personne et intégrée des soins de première ligne
+
+#### Art. 3
+
+Le présent décret règle l'organisation des soins de première ligne, des plateformes régionales de soins et du soutien des prestataires de soins de première ligne.
+
+#### Art. 4
+
+Dans le cadre des soins de première ligne, les principes de fonctionnement suivants sont prioritaires :
+
+1° considérer la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> sur la base du principe des soins et du soutien intégraux, visés à l'article 4, alinéa 2, 1°, en respectant son droit d'autodétermination ;
+
+2° se concentrer sur la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup>, et partir de sa [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup>, ses choix, besoins et buts dans la vie ;
+
+3° soutenir et renforcer l'autonomie et les soins informels, en concordance avec le principe de subsidiarité ;
+
+4° investir au maximum dans l'amélioration de la littératie en soins ;
+
+5° investir au maximum dans la prévention, la détection précoce et l'intervention précoce ;
+
+6° accorder la priorité aux objectifs suivants lors de la planification, organisation et exécution des soins de première ligne :
+
+a) optimiser la qualité des soins de première ligne telle que la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> l'éprouve ;
+
+b) améliorer la santé et le bien-être de la population en prêtant une attention particulière à l'accessibilité et à la justice sociale ;
+
+c) créer une plus-value dans le domaine de la santé et du bien-être pour la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup>, à l'aide des moyens engagés ;
+
+d) assurer une manière d'opérer qualitative et durable pour les prestataires de soins ;
+
+7° organiser et réaliser les soins et le soutien intégraux de manière qualitative. L'accessibilité, l'acceptabilité, l'aptitude, l'effectivité, la sécurité, la justice, la pertinence, l'efficacité, l'innovation et la durabilité sont essentielles à cet égard ;
+
+8° poursuivre des soins et du soutien intégrés. A cet effet, des données relatives à la personne avec laquelle une relation de soins existe, peuvent être partagées à condition que le libre choix, la transparence et des informations objectives à la personne sont préservés. Les données sont partagées conformément au [<sup>1</sup> règlement général sur la protection des données]<sup>1</sup>, et au décret du 25 avril 2014 relatif à l'organisation du réseau pour le partage de données entre acteurs des soins, de préférence par voie numérique. De bonnes connaissances du paysage de soins et de soutien sont indispensables à cet effet.
+
+Dans l'alinéa 1er, on entend par :
+
+1° soins et soutien intégraux : les soins et le soutien qui considèrent une personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> dans son ensemble, en tenant compte des aspects de nature médicale, psychosociale, philosophique et culturelle, ainsi que de facteurs liés à la vie quotidienne ;
+
+2° détection précoce : l'ensemble des activités pour détecter une affection ou une problématique au stade le plus précoce possible de développement, ou un risque accru de cette affection ou problématique ;
+
+3° intervention précoce : l'ensemble des activités effectuées par des prestataires de soins afin de réagir de manière adéquate aux signaux captés lors de la détection précoce ;
+
+4° relation de soins : le lien relationnel créé dans le cadre du présent décret entre une personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> et le prestataire des soins de première ligne ;
+
+5° autodétermination : le droit de faire ses propres choix et l'autonomie dans la détermination de sa propre vie ;
+
+6° littératie en soins : la mesure dans laquelle la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> dispose de la capacité d'accéder, d'assimiler et de comprendre des informations et services fondamentaux dans le domaine de la santé et du bien-être de manière à pouvoir prendre une décision qui profite à sa santé et son bien-être.
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 11, 004; En vigueur : 01-01-2025&gt;
+
+## CHAPITRE 3. [<sup>1</sup> Organisation des soins de première ligne pour la personne en besoin de soins et de soutien]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 12, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 5
+
+Lors de l'organisation des soins de première ligne pour la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup>, tous les prestataires de soins concernés respectent les objectifs de soins et de soutien de cette personne, ainsi que sa capacité d'autonomie, sa liberté de choix et son souhait et sa capacité d'autorégie.
+
+Les prestataires de soins concernés, la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> et éventuellement les aidants proches concluent des accords de coopération sur l'organisation des soins de première ligne, visés à l'alinéa 1er, afin d'atteindre ces objectifs de soins et de soutien.
+
+[<sup>1</sup> Le Gouvernement flamand peut définir d'autres modalités pour l'organisation des soins de première ligne pour la personne en besoin de soins et de soutien et des accords de coopération, visés à l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 13, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 6
+
+§ 1er. En cas de besoins complexes de soins et de soutien ou en cas de soins et de soutien de longue durée, un plan de soins et de soutien est établi à la demande de la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> ou de son représentant. Le plan de soins et de soutien est établi et exécuté par l'[<sup>1</sup> équipe de soins et de soutien]<sup>1</sup>.
+
+Un plan de soins et de soutien peut également être établi à la demande des aidants proches ou des prestataires de soins de première ligne, à condition que la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> ou son représentant donne son accord.
+
+Le Gouvernement flamand peut arrêter des modalités relatives au plan de soins et de soutien et à son établissement.
+
+Une [<sup>1</sup> équipe de soins et de soutien]<sup>1</sup> comprend :
+
+1° la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> ou son représentant ;
+
+2° le cas échéant, la personne ou les personnes actives dans les soins informels ;
+
+3° les prestataires de soins, choisis par la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup>, qui sont associés à la réalisation des objectifs de soins et de soutien de la personne visée au point 1°.
+
+La composition de l'[<sup>1</sup> équipe de soins et de soutien]<sup>1</sup> est reprise dans le plan de soins et de soutien.
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+L'[<sup>1</sup> équipe de soins et de soutien]<sup>1</sup> accomplit les missions suivantes :
+
+1° établir, exécuter, évaluer et si nécessaire ajuster le plan de soins et de soutien afin d'atteindre les objectifs de soins et de soutien ;
+
+2° si nécessaire, mettre la personne ou son représentant en contact avec des prestataires de soins qui n'y sont pas encore associés ou avec des services d'autres domaines que les soins de première ligne, toujours en respectant le libre choix de la personne ;
+
+3° ajouter de l'expertise temporaire, si nécessaire, pour l'exécution du plan de soins et de soutien ;
+
+4° si nécessaire, organiser une concertation interdisciplinaire.
+
+Le Gouvernement flamand peut formuler des tâches supplémentaires pour l'[<sup>1</sup> équipe de soins et de soutien]<sup>1</sup> et arrêter des modalités pour l'exécution des tâches, visées à l'alinéa 1er.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 3. Le coordinateur de soins est le point de contact de l'[<sup>1</sup> équipe de soins et de soutien]<sup>1</sup> qui, en tant que membre de l'[<sup>1</sup> équipe de soins et de soutien]<sup>1</sup>, se charge de maintenir une vue d'ensemble et de veiller à ce que tous les soins et le soutien, établis sur la base des [<sup>1</sup> besoins de soins et de soutien ]<sup>1</sup> de la personne, soient adaptés, suivis et évalués.
+
+La personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> ou son représentant assume de préférence la tâche de coordinateur de soins. Un membre de l'[<sup>1</sup> équipe de soins et de soutien]<sup>1</sup> peut assister la personne pour cette tâche.
+
+[<sup>1</sup> Si la personne en besoin de soins et de soutien ou son représentant ne le souhaite pas ou ne peut pas s'en charger, ou à des moments charnières, la personne en besoin de soins et de soutien désigne, en concertation et après délibération avec l'équipe de soins et de soutien, un prestataire de soins comme coordinateur de soins.]<sup>1</sup>
+
+[<sup>1</sup> A l'alinéa 3, on entend par moments charnières : des situations dans lesquelles le contexte des soins et du soutien, la fréquence à laquelle les soins et le soutien sont administrés ou la complexité changent. ]<sup>1</sup>
+
+§ 4. Le Gouvernement flamand peut arrêter les modalités et, le cas échéant, les conditions de financement, le montant de financement et la procédure de demande et d'octroi du financement de la tâche, visée au paragraphe 3.
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 14, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 7
+
+§ 1er. Dans le présent article, on entend par case management : l'analyse et l'évaluation approfondies du [<sup>1</sup> besoin de soins et de soutien ou du]<sup>1</sup> processus de soins et de soutien, élaboré et mis en oeuvre par l'[<sup>1</sup> équipe de soins et de soutien]<sup>1</sup>, afin de formuler une problématique claire ainsi que l'accompagnement du processus orienté vers la solution et l'harmonisation des soins qui y sont liés.
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 3. [<sup>1</sup> La désignation d'un prestataire de soins, qui assume la tâche de case management, ne peut se faire que dans les cas suivants :
+
+1° dans des situations de soins où toutes les conditions suivantes sont remplies :
+
+a) les personnes en besoin de soins et de soutien ne reçoivent pas les soins qui doivent être présents selon leurs besoins ;
+
+b) aucune équipe de soins et de soutien n'est présente ou composée ;
+
+c) aucun prestataire de soins n'est en mesure de commencer le processus de soins en raison de la grande complexité ;
+
+dans les processus de soins pour lesquels l'équipe de soins et de soutien existante ne parvient pas à atteindre les objectifs de soins et de soutien ou pour lesquels les personnes en besoin de soins et de soutien, leur soignant informel ou un prestataire de soins indiquent que le processus de soins doit être amélioré.
+
+Le prestataire de soins qui assume la tâche de case management :
+
+1° ne fait pas partie de l'équipe de soins et de soutien ;
+
+2° ne remplace pas l'équipe de soins et de soutien ;
+
+3° assume à temps la tâche de case management.]<sup>1</sup>
+
+§ 4. Le Gouvernement flamand peut arrêter les modalités et, le cas échéant, les conditions de financement, le montant de financement et la procédure de demande et d'octroi du financement de la tâche, visée au paragraphe 3.
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 15, 004; En vigueur : 01-01-2025&gt;
+
+## CHAPITRE 4. - Soutien des prestataires de soins de première ligne et la coopération interdisciplinaire en pratique
+
+#### Art. 8
+
+Le Gouvernement flamand peut prévoir un financement à l'appui des prestataires de soins de première ligne et de la coopération interdisciplinaire en pratique. Le but du financement est de soutenir les prestataires de soins de première ligne dans leurs activités professionnelles ou de leur permettre d'exercer et de continuer à exercer leurs activités relatives aux soins de première ligne d'une manière interdisciplinaire.
+
+Le Gouvernement flamand arrête les conditions du financement visé à l'alinéa 1er.
+
+## CHAPITRE 5. - Conseils des soins
+
+### Section 1re. - Dispositions générales
+
+#### Art. 9
+
+Un conseil des soins est une personne morale qui travaille dans sa zone d'action à l'organisation des soins de première ligne et au soutien des prestataires de soins de première ligne.
+
+#### Art. 10
+
+Le Gouvernement flamand agrée et subventionne des conseils des soins et fixe leur zone d'action.
+
+Le Gouvernement flamand arrête les conditions d'agrément, la durée de l'agrément, ainsi que les règles pour accorder l'agrément et pour suspendre ou retirer l'agrément en cas de non-respect des conditions d'agrément.
+
+Le Gouvernement flamand détermine la subvention et les conditions de subvention pour l'exécution des missions, visées à l'article 11.
+
+Un conseil des soins prend la forme d'une association de droit privé dotée de la personnalité juridique, qui ne peut, directement ou indirectement, distribuer ou fournir un quelconque avantage patrimonial, sauf pour l'objectif désintéressé défini dans les statuts.
+
+### Section 2. - Missions
+
+#### Art. 11
+
+[<sup>2</sup> Un conseil des soins, comme visé à l'article 9, accomplit les missions suivantes :
+
+1° adapter l'organisation et l'offre de soins et de soutien qualitatifs dans sa zone d'action aux besoins de soins et de soutien en fixant des priorités établies au niveau de la population dans sa zone d'action d'un conseil des soins, comme visé à l'article 9. Le conseil des soins précité exécute la mission précitée en concertation avec les acteurs suivants :
+
+a) les associations de personnes en demande de soins et de soutien, les associations d'aidants proches et les associations de volontaires ;
+
+b) les prestataires de soins de première ligne ;
+
+c) les personnes, services ou organisations offrant des soins plus spécialisés pour lesquels la Communauté flamande est compétente ;
+
+d) les administrations locales qui déterminent leurs politiques et priorités portant sur le fond dans le cadre de la politique sociale locale et qui peuvent prendre une initiative conjointe pour développer une politique sociale supralocale.
+
+Le conseil des soins précité coordonne la mission précitée avec les personnes, services ou organisations offrant des soins plus spécialisés pour lesquels la Communauté flamande n'est pas compétente, en fonction des priorités de la politique ;
+
+2° soutenir une politique sociale locale ;
+
+3° soutenir les associations professionnelles, les prestataires de soins de première ligne, les associations d'aidants proches, les personnes en besoin de soins et de soutien et les bénévoles au sens large dans l'organisation de soins et de soutien de qualité et intégrés pour la personne en besoin de soins et de soutien, tels que visés au chapitre 3, y compris le partage de données numériques lors de la coopération interdisciplinaire et multidisciplinaire en offrant ces soins ;
+
+4° collaborer à la réalisation des objectifs politiques pour le domaine politique Bien-être, Santé publique et Famille et, si nécessaire, proposer d'autres objectifs prioritaires pour la zone d'action à la Communauté flamande.]<sup>2</sup>
+
+[<sup>2</sup> Si la mission, visée à l'alinéa 1er, 1° est accomplie, le conseil des soins, visé à l'article 9, peut adopter une approche spécifique au groupe cible et/ou axée sur le quartier et se baser sur la planification de la stratégie des soins élaborée et le management de la population. La planification de la stratégie des soins élaborée mise au maximum sur une offre de soins et de soutien intégrée et respecte la liberté de choix du patient. Le conseil des soins évalue en permanence le processus du management de la population en veillant à la qualité et ajuste le processus lorsque c'est nécessaire.]<sup>2</sup>
+
+[<sup>2</sup> Dans les alinéas 1er et 2, on entend par :]<sup>2</sup>
+
+1° soins qualitatifs : les soins et le soutien justifiés qui tiennent compte de l'efficacité, l'efficience, la continuité, l'acceptabilité sociale et l'orientation vers l'usager ;
+
+[<sup>2</sup> 1° /1 politique sociale locale : la politique sociale locale, visée à l'article 3, 4°, du décret du 9 février 2018 relatif à la politique sociale locale ;]<sup>2</sup>
+
+2° coopération multidisciplinaire : le mode de coopération de prestataires de soins sur et avec la personne en [<sup>2</sup> besoin de soins et de soutien]<sup>2</sup>, qui concerne plusieurs disciplines et part de la propre discipline, sans combinaison ou échange d'expertise, d'expérience ou de connaissance ;
+
+[<sup>2</sup> 2° /1 management de la population : un processus progressif et cyclique visant à maintenir ou à améliorer l'état d'une population bien définie dans différents domaines grâce à des interventions réfléchies, soutenues par des données et des connaissances et segmentées ou non, et à réduire le gradient socio-économique en termes de décès, de maladie et de santé. Les différents domaines précités peuvent inclure des objectifs organisationnels, médicaux, préventifs et de bien-être ;]<sup>2</sup>
+
+3° bénévole : la personne physique effectuant ses activités de façon volontaire et non rémunérée dans une structure organisée ;
+
+4° [<sup>2</sup> planification de la stratégie des soins : un plan qui détermine les besoins de soins dans le cadre des soins de première ligne sur la base d'indicateurs de santé et de données démographiques, et qui permet de déterminer l'offre future en soins de première ligne sur la base de ces besoins de soins.]<sup>2</sup>
+
+Pour le soutien de ces missions, le conseil des soins fait autant que possible appel à l'expertise des organisations oeuvrant sur le terrain et des organisations partenaires.
+
+Le Gouvernement flamand peut préciser les missions, arrêter les conditions pour leur exécution, et arrêter des missions supplémentaires outre celles visées à l'alinéa 1er.
+
+----------
+
+(1)&lt;DCFL 2023-04-21/07, art. 26, 002; En vigueur : 01-06-2023&gt;
+
+(2)&lt;DCFL 2024-03-01/16, art. 16, 004; En vigueur : 01-01-2025&gt;
+
+### Section 3. - Composition des conseils des soins
+
+#### Art. 12
+
+Dans le présent article on entend par délégué : une personne désignée au nom d'une administration locale, d'une organisation ou d'un groupe professionnel pour représenter cette administration locale, cette organisation ou ce groupe professionnel au sein du conseil des soins.
+
+Un conseil des soins a une composition pluraliste et diverse et comprend au moins les délégués des :
+
+1° administrations locales ;
+
+2° prestataires de soins de première ligne de différentes disciplines, des centres de soins résidentiels, des services d'aide aux familles, des services d'assistance sociale des mutualités, des centres d'aide sociale générale ;
+
+3° associations de personnes en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> ;
+
+4° associations agréées d'aidants proches et d'usagers.
+
+[<sup>1</sup> 5° les structures agréées, autorisées ou subventionnées par l'Agence flamande pour les Personnes handicapées ("Vlaams Agentschap voor Personen met een Handicap"), visée à l'article 3 du décret du 7 mai 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Agence flamande pour les Personnes handicapées ("Vlaams Agentschap voor Personen met een Handicap"), et les structures agréées, autorisées ou subventionnées par l'agence Grandir régie ("agentschap Opgroeien regie", visée à l'article 3 du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir régie.]<sup>1</sup>
+
+Si la zone d'action du conseil des soins se situe en région bilingue de Bruxelles-Capitale, la participation de délégués des administrations locales de la région bilingue de Bruxelles-Capitale est facultative. Les administrations locales de la région bilingue de Bruxelles-Capitale sont invitées à participer, via des délégués, aux réunions du conseil des soins.
+
+Le Gouvernement flamand peut arrêter des modalités relatives à la composition du conseil des soins.
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 17, 004; En vigueur : 01-01-2025&gt;
+
+### Section 4. - Zone d'action
+
+#### Art. 13
+
+Le Gouvernement flamand détermine la zone d'action du conseil des soins, ci-après dénommée la zone de première ligne.
+
+Lors de la détermination des zones de première ligne, le Gouvernement flamand respecte les conditions suivantes :
+
+1° les zones de première ligne ne se chevauchent pas ;
+
+2° les zones de première ligne couvrent la région de langue néerlandaise et la région bilingue de Bruxelles-Capitale ;
+
+3° une commune ne peut faire partie que d'une seule zone de première ligne, à l'exception des communes d'Anvers et de Gand ;
+
+4° une zone de première ligne comprend au minimum [<sup>1</sup> 60.000]<sup>1</sup> habitants.
+
+[<sup>1</sup> 5° les zones de première ligne concordent avec les limites de leur région de référence, visées à l'article 5 du Décret sur les régions du 3 février 2023.]<sup>1</sup>
+
+[<sup>1</sup> Le Gouvernement flamand peut déroger à la condition visée à l'alinéa 2, 5°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 18, 004; En vigueur : 15-04-2024&gt;
+
+## CHAPITRE 6. - Plateformes régionales de soins
+
+### Section 1re. - Dispositions générales
+
+#### Art. 14
+
+Une plateforme régionale de soins est une personne morale qui travaille dans sa zone d'action pour coordonner et soutenir les membres de la plateforme régionale de soins.
+
+#### Art. 15
+
+Le Gouvernement flamand agrée et subventionne des plateformes régionales de soins pour l'exécution des missions visées à l'article 16.
+
+Le Gouvernement flamand arrête les conditions d'agrément, la durée de l'agrément, ainsi que les règles pour accorder l'agrément et pour suspendre ou retirer l'agrément en cas de non-respect des conditions d'agrément.
+
+Le Gouvernement flamand fixe la subvention et ses conditions.
+
+Une plateforme régionale de soins prend la forme d'une association de droit privé dotée de la personnalité juridique, qui ne peut, directement ou indirectement, distribuer ou fournir un quelconque avantage patrimonial, sauf pour l'objectif désintéressé défini dans les statuts.
+
+### Section 2. - Missions
+
+#### Art. 16
+
+Une plateforme régionale de soins accomplit au moins les missions suivantes :
+
+1° conseiller le domaine politique du Bien-Etre, de la Santé publique et de la Famille sur l'adaptation de l'offre de soins et de soutien aux besoins de la population dans sa zone d'action ;
+
+2° coordonner les soins et le soutien, de sorte que la continuité des soins peut être garantie pour la personne en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> ;
+
+3° traiter des problèmes, obstacles ou difficultés qui ne peuvent pas être résolus par les conseils des soins au sein de leur zone d'action.
+
+Dans l'alinéa 1er, 1°, on entend par domaine politique du Bien-être, de la Santé publique et de la Famille : le domaine politique, visé à l'article 2, 7°, et l'article 9 de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande.
+
+Le Gouvernement flamand peut préciser les missions visées à l'alinéa 1er, arrêter les conditions pour leur exécution, et arrêter des missions supplémentaires outre celles visées à l'alinéa 1er.
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 19, 004; En vigueur : 01-01-2025&gt;
+
+### Section 3. - Composition des plateformes régionales de soins
+
+#### Art. 17
+
+Dans le présent article, on entend par réseau de santé mentale : un groupement formalisé qui est responsable d'une zone d'action déterminée et est associé aux soins fournis à la sous-population à laquelle s'adresse le groupement, et qui facilite et optimise l'offre de santé mentale et des fonctions en collaboration avec les représentants des usagers et leurs aidants proches.
+
+Les organisations suivantes qui opèrent dans sa zone d'action, sont au moins membre d'une plateforme régionale de soins :
+
+1° les Logos, visés à l'article 2, 19°, du décret du 21 novembre 2003 relatif à la politique de santé préventive ;
+
+2° les réseaux palliatifs et les partenariats en matière de soins palliatifs ;
+
+3° les centres d'expertise régionaux agréés de la démence ;
+
+4° les réseaux de santé mentale ;
+
+5° les conseils des soins dans la zone d'action de la plateforme régionale de soins ;
+
+6° les associations de personnes en [<sup>1</sup> besoin de soins et de soutien]<sup>1</sup> et les associations agréées d'aidants proches et d'usagers.
+
+Les hôpitaux et les partenariats d'hôpitaux peuvent participer aux plateformes régionales de soins sans qu'ils doivent devenir membres et sans les obligations correspondantes liées aux plateformes régionales de soins.
+
+Le Gouvernement flamand peut arrêter des modalités relatives à la composition des plateformes régionales de soins.
+
+Pour la région bilingue de Bruxelles-Capitale, le Gouvernement flamand peut désigner des organisations spécifiques pour soutenir la plateforme régionale de soins lors de l'exécution de ses missions.
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 19, 004; En vigueur : 01-01-2025&gt;
+
+### Section 4. - Zone d'action
+
+#### Art. 18
+
+Le Gouvernement flamand détermine la zone d'action d'une plateforme régionale de soins, ci-après dénommée la zone régionale de soins.
+
+Lors de la détermination des zones régionales de soins, le Gouvernement flamand respecte les conditions suivantes :
+
+1° les zones régionales de soins couvrent la région de langue néerlandaise et la région bilingue de Bruxelles-Capitale ;
+
+2° une zone régionale de soins comprend au moins deux zones de première ligne, à l'exception de la région bilingue de Bruxelles-Capitale, qui peut comprendre une seule zone de première ligne ;
+
+3° une zone régionale de soins couvre un territoire contigu, à l'exception des communes de Fourons et de Baerle-Duc, qui comprend au moins 300.000 habitants ;
+
+4° la zone d'action des organisations visées à l'article 17, alinéa 2, 1° à 4°, et les zones régionales de soins sont harmonisées au maximum.
+
+[<sup>1</sup> 5° sous réserve des conditions, visées aux points 1° à 3°, les zones régionales de soins concordent avec les limites de leur région de référence, visées à l'article 5 du Décret sur les régions du 3 février 2023.]<sup>1</sup>
+
+[<sup>2</sup> Le Gouvernement flamand peut déroger pour des raisons motivées aux conditions visées à l'alinéa 2, 3° et 5°, à condition que le nombre de zones régionales de soins en région de langue néerlandaise est inférieur ou égal au nombre de régions de référence, visées à l'article 5 du Décret sur les Régions du 3 février 2023]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 20, 004; En vigueur : 15-04-2024&gt;
+
+(2)&lt;DCFL 2025-12-19/57, art. 67, 005; En vigueur : 09-01-2026&gt;
+
+## CHAPITRE 7. - Organisations partenaires
+
+#### Art. 19
+
+§ 1er. Dans le cadre du présent décret, le Gouvernement flamand peut agréer et subventionner des organisations, dans les limites des crédits budgétaires disponibles, en tant qu'organisations partenaires, et définir leur zone d'action.
+
+Le Gouvernement flamand arrête les conditions d'agrément, la durée de l'agrément, ainsi que les règles pour accorder l'agrément et pour suspendre ou retirer l'agrément en cas de non-respect des conditions d'agrément.
+
+Le Gouvernement flamand fixe la subvention et ses conditions.
+
+Les organisations partenaires prennent la forme d'une association de droit privé dotée de la personnalité juridique, qui ne peut, directement ou indirectement, distribuer ou fournir un quelconque avantage patrimonial, sauf pour l'objectif désintéressé défini dans les statuts.
+
+§ 2. Par dérogation au paragraphe 1er, le Gouvernement flamand peut conclure, après un appel, un contrat de gestion avec une organisation partenaire. Une organisation partenaire avec laquelle un contrat de gestion est conclu, est censée être agréée pour la durée de ce contrat.
+
+Le contrat de gestion, visé à l'alinéa 1er, vaut pour trois ans au minimum et cinq ans au maximum, et peut être prolongé une seule fois de la durée initiale du contrat au maximum.
+
+Le contrat de gestion comprend :
+
+1° la nature de l'expertise de l'organisation partenaire, les groupes cibles auxquels l'organisation partenaire offre au moins du soutien et les missions qu'assume l'organisation partenaire vis-à-vis de la Communauté flamande ;
+
+2° un plan de gestion pour la durée du contrat de gestion. Ce plan de gestion comprend :
+
+a) les domaines de résultats pour l'exécution du contrat de gestion ;
+
+b) les critères d'évaluation pour les domaines de résultats, visés au point a) ;
+
+c) la manière dont les rapports périodiques sont prévus ;
+
+3° la zone d'action de l'organisation partenaire ;
+
+4° les accords pratiques relatifs à la subvention visée à l'alinéa 4.
+
+Le Gouvernement flamand arrête les modalités relatives à l'appel et à la conclusion d'un contrat de gestion, et détermine la subvention et les conditions de subvention.
+
+## CHAPITRE 8. - Organisations oeuvrant sur le terrain
+
+#### Art. 20
+
+Le Gouvernement flamand peut agréer ou subventionner des structures dans les soins de première ligne, dans les limites des crédits budgétaires disponibles, en tant qu'organisations oeuvrant sur le terrain et définir leur zone d'action.
+
+Le Gouvernement flamand arrête les conditions d'agrément et les règles concernant la durée, la suspension et le retrait de l'agrément.
+
+Le Gouvernement flamand fixe la subvention et ses conditions.
+
+Les organisations oeuvrant sur le terrain prennent la forme d'une association de droit privé dotée de la personnalité juridique, qui ne peut, directement ou indirectement, distribuer ou fournir un quelconque avantage patrimonial, sauf pour l'objectif désintéressé défini dans les statuts. Dans la région bilingue de Bruxelles-Capitale, une organisation oeuvrant sur le terrain peut être établie par la Commission communautaire flamande.
+
+#### Art. 21
+
+Lorsqu'elles ont besoin d'appui pour certaines missions ou parties de missions, les organisations oeuvrant sur le terrain font appel à l'offre des organisations partenaires qui, en raison de leur expertise au niveau du contenu ou leur capacité de fournir des données, peuvent fournir l'appui demandé.
+
+## CHAPITRE 9. - Projets
+
+#### Art. 22
+
+Le Gouvernement flamand peut accorder une subvention à des projets à caractère temporaire et innovant en matière de soins de première ligne, aux conditions qu'il arrête et dans les limites des crédits budgétaires.
+
+#### Art. 22/1.
+
+[<sup>1</sup> . Dans les limites des crédits budgétaires, le Gouvernement flamand peut accorder une subvention à des organisations qui fournissent aux citoyens des informations sur la santé fondées sur des données probantes.
+
+Le cas échéant, le Gouvernement flamand arrête les modalités relatives à la subvention, y compris le montant de subvention, la période de subvention, les conditions de subvention, la procédure d'octroi et la manière dont la surveillance de l'affectation des subventions est organisée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-01/10, art. 42, 003; En vigueur : 20-01-2024&gt;
+
+## CHAPITRE 10. - Traitement de données
+
+### Section 1er. [<sup>1</sup> Traitement de données à caractère personnel dans le cadre du financement, visé à l'article 8, et à des fins politiques]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-01/16, art. 21, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 23
+
+[<sup>1</sup> § 1er. Le service compétent désigné par le Gouvernement flamand collecte des données à caractère personnel sur les prestataires de soins de première ligne qui travaillent dans la région de langue néerlandaise et la région bilingue de Bruxelles-Capitale. Les données précitées sont collectées aux fins suivantes :
+
+1° le traitement et le contrôle du financement destiné à soutenir les prestataires de soins de première ligne et la collaboration interdisciplinaire dans la pratique professionnelle, visée à l'article 8 ;
+
+2° la prise de mesures politiques afin de renforcer les soins de première ligne ;
+
+3° contacter les prestataires de soins de première ligne pour leur faire remplir un questionnaire sur l'offre de soins de première ligne dans la région de langue néerlandaise ;
+
+4° si le prestataire de soins de première ligne est d'accord, contacter le prestataire de soins de première ligne en vue d'une communication de crise et de campagnes d'information par l'Autorité flamande.
+
+A l'alinéa 1er, on entend par Autorité flamande : la Communauté flamande et la Région flamande, y compris les institutions qui en relèvent.
+
+§ 2. Aux fins visées au paragraphe 1er, 1°, le service compétent désigné par le Gouvernement flamand traite les données à caractère personnel suivantes des prestataires de soins de première ligne actifs dans la région de langue néerlandaise et la région bilingue de Bruxelles-Capitale qui demandent un financement comme visé à l'article 8 :
+
+1° les données d'identification du demandeur, y compris le numéro INAMI et le numéro NISS ;
+
+2° les coordonnées du demandeur ;
+
+3° les données suivantes sur le cabinet dans lequel le demandeur travaille :
+
+a) l'adresse ;
+
+b) le numéro BCE ;
+
+c) l'offre et les disciplines présentes ;
+
+d) le nombre d'employés et leur taux d'emploi ;
+
+e) le système de dédommagement utilisé ;
+
+4° le numéro de compte bancaire du demandeur ;
+
+5° la date d'agrément en tant que professionnel de la santé du demandeur ;
+
+6° le cas échéant, la date de retour en Belgique si le demandeur a été actif à l'étranger pendant plus d'un an ;
+
+7° les documents et les données prouvant que le demandeur remplit les conditions pour recevoir un financement ;
+
+8° si le financement est fourni sous la forme d'un prêt : l'état civil du demandeur et, si le demandeur est marié ou cohabitant légal, les données d'identification, y compris le numéro NISS du partenaire du demandeur ;
+
+9° les données d'identification, y compris le numéro NISS et les données relatives à l'emploi du travailleur ou des travailleurs que les demandeurs emploient dans leur cabinet.
+
+Aux fins visées au paragraphe 1er, 2°, le service compétent désigné par le Gouvernement flamand traite les données à caractère personnel suivantes des prestataires de soins de première ligne actifs dans la région de langue néerlandaise :
+
+1° les données d'identification du prestataire de soins de première ligne, y compris le numéro INAMI ;
+
+2° les données suivantes sur le cabinet dans lequel le prestataire de soins de première ligne travaille :
+
+a) l'adresse ;
+
+b) le type de cabinet ;
+
+c) le système de dédommagement utilisé ;
+
+d) l'offre, les disciplines présentes et les taux d'emploi des différentes disciplines ;
+
+e) la délimitation géographique ;
+
+f) les données sur la charge de travail au sein du cabinet ;
+
+g) les données relatives à la mise en oeuvre ou non d'une limitation de l'accessibilité du cabinet ;
+
+h) les données sur la continuité des soins dans le cabinet ;
+
+i) les données relatives à une extension de la capacité du cabinet ;
+
+3° l'année de naissance du prestataire de soins de première ligne ;
+
+4° les données sur la profession et le statut du prestataire de soins de première ligne ;
+
+5° les données sur la charge de travail du prestataire de soins de première ligne, la charge de travail perçue et le bien-être du prestataire de soins de première ligne dans l'exercice de sa profession.
+
+Aux fins visées au paragraphe 1er, 3° et 4°, le service compétent désigné par le Gouvernement flamand traite les données à caractère personnel suivantes des prestataires de soins de première ligne actifs dans la région de langue néerlandaise :
+
+1° le nom et le prénom du prestataire de soins de première ligne ;
+
+2° les coordonnées du prestataire de soins de première ligne et du cabinet.
+
+Le Gouvernement flamand peut, après avoir consulté l'autorité de contrôle compétente visée à l'article 4, 21) du règlement général sur la protection des données, préciser les données à caractère personnel visées aux alinéas 1er à 3.
+
+§ 3. Le service compétent désigné par le Gouvernement flamand conserve les données à caractère personnel visées au paragraphe 2, alinéa 1er, pendant maximum dix ans à compter de la date d'octroi du financement visé à l'article 8 ou, s'il s'agit d'un prêt, à compter de la date de paiement de la dernière tranche.
+
+Le service compétent désigné par le Gouvernement flamand conserve les données à caractère personnel visées au paragraphe 2, alinéa 2, pendant maximum dix ans à compter de la date de réception de ces données.
+
+Le service compétent désigné par le Gouvernement flamand conserve les données à caractère personnel visées au paragraphe 2, alinéa 3, pendant maximum dix-huit mois.
+
+§ 4. Le Département Soins, visé à l'article 23, § 1er, du décret du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande, est responsable du traitement, comme visé à l'article 4, 7), du Règlement général sur la protection des données, pour le traitement des données à caractère personnel, visées au paragraphe 2.
+
+§ 5. Les données à caractère personnel, visées au paragraphe 2, alinéa 2, sont communiquées aux conseils des soins, aux organisations partenaires et aux organisations oeuvrant sur le terrain si ces données sont nécessaires à l'accomplissement de leurs tâches pour prendre des initiatives afin de renforcer les soins de première ligne.
+
+Les données à caractère personnel visées à l'alinéa 1er ont été dans la mesure du possible anonymisées ou pseudonymisées. Si la pseudonymisation ou l'anonymisation des données à caractère personnel est impossible ou inappropriée pour atteindre les objectifs visés à l'alinéa 1er, ces données sont toujours limitées à ce qui est nécessaire.
+
+§ 6. Pour l'application du présent article, le département, visé au paragraphe 4, met en oeuvre les mesures techniques et organisationnelles appropriées conformément à l'article 32 du règlement général sur la protection des données afin de garantir un niveau de sécurité adapté au risque.
+
+Dans le cadre de l'application du présent article, le département visé au paragraphe 4 respecte les principes de protection des données dès conception et par défaut, visés à l'article 25 du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-01/16, art. 22, 004; En vigueur : 15-08-2024&gt;
+
+### Section 2. [<sup>1</sup> Traitement des données dans le cadre du plan de soins et de soutien numérique]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-01/16, art. 23, 004; En vigueur : 15-08-2024&gt;
+
+#### Art. 23/1.
+
+[<sup>1</sup> Dans la présente section, on entend par :
+
+1° données de communication électronique : le contenu échangé par le biais de services de communications électroniques et les métadonnées sur ces communications électroniques, à savoir les données traitées dans un réseau de communications électroniques visant la transmission, la distribution ou l'échange de contenu de communications électroniques ;
+
+2° autre membre de l'équipe de soins et de soutien : chaque membre de l'équipe de soins et de soutien visée à l'article 6, § 1er, alinéa 4, qui n'est pas la personne en besoin de soins et de soutien ou son représentant, le prestataire de soins ou l'aidant proche ;
+
+3° tâche de soins et de soutien : chaque action confiée à un ou plusieurs membres de l'équipe de soins et de soutien pour atteindre les objectifs de soins et de soutien.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-01/16, art. 24, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 23/2.
+
+[<sup>1</sup> Les données à caractère personnel visées à l'article 23/3 sont traitées dans le cadre de l'élaboration du plan de soins et de soutien numérique pour les finalités de traitement suivantes :
+
+1° la détermination des buts dans la vie de la personne en besoin de soins et de soutien ;
+
+2° l'établissement et l'attribution des objectifs de soins et de soutien par les membres de l'équipe de soins et de soutien aux membres de l'équipe de soins et de soutien ;
+
+3° l'établissement et l'attribution des tâches de soins et de soutien par l'équipe de soins et de soutien aux membres de l'équipe de soins et de soutien ;
+
+4° la composition et la validation de l'équipe de soins et de soutien ;
+
+5° rendre possible une communication non urgente entre les membres de l'équipe de soins et de soutien dans le module de communication du plan de soins et de soutien numérique au sujet de son contenu ;
+
+6° l'identification du contexte complexe de la personne en besoin de soins et de soutien ;
+
+7° la détermination du calendrier et des échéances à l'aide d'agendas internes et externes, indiquant les tâches de soins et de soutien prévues pour la personne en besoin de soins et de soutien ;
+
+8° rendre possible l'établissement de rapports politiques ;
+
+9° la promotion et l'amélioration de la qualité des soins et du soutien ainsi que du plan de soins et de soutien.
+
+A l'alinéa 1er, on entend par :
+
+1° module de communication : le moyen de communication électronique pour des communications non urgentes sécurisées et simples qui est accessible à tous les membres de l'équipe de soins et de soutien, y compris à la personne en besoin de soins et de soutien, et qui permet une communication ciblée entre tous les membres de l'équipe de soins et de soutien ;
+
+2° contexte complexe : le contexte biopsychosocial multidimensionnel de la personne en besoin de soins et de soutien, qui contient des informations biomédicales succinctes et des informations non médicales complètes sur la personne en besoin de soins et de soutien ainsi que sur son passé psychologique et socio-économique ;
+
+3° agenda externe : un agenda provenant d'un logiciel externe dans lequel un membre de l'équipe de soins et de soutien reprend les tâches de soins et de soins de la personne en besoin de soins et de soutien qui est importé dans le plan de soins et de soutien numérique ou vers lequel les tâches de soins et de soutien de la personne en besoin de soins et de soutien sont exportées ;
+
+4° agenda interne : les tâches de soins et de soutien qu'un membre de l'équipe de soins et de soutien ajoute manuellement dans le plan de soins et de soutien numérique ;
+
+5° communication non urgente : la communication, sous quelque forme que ce soit, entre les membres de l'équipe de soins et de soutien au sujet d'affaires portant sur le plan de soins et de soutien numérique et à la personne en besoin de soins et de soutien, sans qu'il s'agisse d'une communication médicale ou non médicale urgente. Par urgent, il faut comprendre une importance vitale ou nécessitant une intervention médicale urgente.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-01/16, art. 25, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 23/3.
+
+[<sup>1</sup> Les catégories suivantes de données à caractère personnel d'une personne en besoin de soins et de soutien sont traitées pour les finalités de traitement, visées à l'article 23/2 :
+
+1° les données d'identification ;
+
+2° les coordonnées ;
+
+3° le numéro NISS ;
+
+4° les données sur la santé et le bien-être de la personne en besoin de soins et de soutien ;
+
+5° les données pertinentes qui sont nécessaires pour fournir des soins et un soutien à la personne en besoin de soins et de soutien, et qui sont différentes des données sur la santé, à savoir :
+
+a) la situation socio-économique, d'après le niveau d'études, la profession et les revenus qui peuvent également être liés à des interventions de la personne en besoin de soins et de soutien, ainsi que les données sur le bien-être général de la personne en besoin de soins et de soutien ;
+
+b) les tâches de soins et de soutien indiquées pour la personne en besoin de soins et de soutien ;
+
+c) la planification, la coordination et la communication des soins et du soutien ;
+
+d) la collecte de données mesurant le degré de besoin en soins de la personne en besoin de soins et de soutien ;
+
+e) les buts dans la vie ainsi que les objectifs de soins et de soutien de la personne en besoin de soins et de soutien ;
+
+f) les données sur les convictions religieuses ou philosophiques de la personne en besoin de soins et de soutien ;
+
+6° les données de communication électronique qui sont échangées entre les membres de l'équipe de soins et de soutien ;
+
+7° les données sur la capacité de la personne en besoin de soins et de soutien ;
+
+8° les données techniques sur l'identité de la personne en besoin de soins et de soutien et son utilisation du plan de soins et de soutien numérique ;
+
+9° les données statistiques sur l'utilisation du plan de soins et de soutien numérique.
+
+Les catégories suivantes de données à caractère personnel du prestataire de soins sont traitées pour les finalités de traitement, visées à l'article 23/2 :
+
+1° les données d'identification ;
+
+2° les coordonnées ;
+
+3° le numéro NISS et le numéro d'agrément ;
+
+4° les données de communication électronique qui sont échangées entre les membres de l'équipe de soins et de soutien ;
+
+5° les données sur la capacité de l'utilisateur ;
+
+6° les données techniques sur l'identité du prestataire de soins et son utilisation du plan de soins et de soutien numérique ;
+
+7° les données statistiques sur l'utilisation du plan de soins et de soutien numérique.
+
+Les catégories suivantes de données à caractère personnel de l'aidant proche sont traitées pour les finalités de traitement, visées à l'article 23/2 :
+
+1° les données d'identification ;
+
+2° les coordonnées ;
+
+3° le numéro NISS ;
+
+4° les données de communication électronique qui sont échangées entre les membres de l'équipe de soins et de soutien ;
+
+5° les données sur la capacité de l'utilisateur ;
+
+6° les données techniques sur l'identité de l'aidant proche et son utilisation du plan de soins et de soutien numérique ;
+
+7° les données statistiques sur l'utilisation du plan de soins et de soutien numérique.
+
+Les catégories suivantes de données à caractère personnel des autres membres de l'équipe de soins et de soutien sont traitées pour les finalités de traitement, visées à l'article 23/2 :
+
+1° les données d'identification ;
+
+2° les coordonnées ;
+
+3° le numéro NISS ;
+
+4° les données de communication électronique qui sont échangées entre les membres de l'équipe de soins et de soutien ;
+
+5° les données sur la capacité de l'utilisateur ;
+
+6° les données techniques sur l'identité des autres membres de l'équipe de soins et de soutien et leur utilisation du plan de soins et de soutien numérique ;
+
+7° les données statistiques sur l'utilisation du plan de soins et de soutien numérique.
+
+Le Gouvernement flamand peut, après avoir consulté l'autorité de contrôle compétente visée à l'article 4, 21) du règlement général sur la protection des données, préciser la liste des données, visées dans le présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-01/16, art. 26, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 23/4.
+
+[<sup>1</sup> Les utilisateurs suivants reçoivent certaines données à caractère personnel, comme visé à l'article 23/3, conformément à leur rôle dans le plan de soins et de soutien numérique :
+
+1° la personne en besoin de soins et de soutien ;
+
+2° le prestataire de soins ;
+
+3° l'aidant proche ;
+
+4° les autres membres de l'équipe de soins et de soutien ;
+
+5° le service compétent désigné par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-01/16, art. 27, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 23/5.
+
+[<sup>1</sup> Les personnes en besoin de soins et de soutien ont accès aux données à caractère personnel suivantes, visées à l'article 23/3 :
+
+1° leurs données d'identification et de contact ;
+
+2° leur numéro NISS ;
+
+3° les données d'identification et de contact des prestataires de soins ;
+
+4° le numéro d'agrément des prestataires de soins ;
+
+5° les données d'identification et de contact des aidants proches ;
+
+6° les données d'identification et de contact des autres membres de l'équipe de soins et de soutien ;
+
+7° les données sur la santé ;
+
+8° les données pertinentes qui sont nécessaires pour fournir des soins et un soutien aux personnes, et qui sont différentes des données sur la santé, à savoir :
+
+a) leur situation socio-économique, d'après le niveau d'éducation, la profession et les revenus qui peuvent également être liés à des interventions, ainsi que des données sur le bien-être général ;
+
+b) les tâches de soins et de soutien indiquées pour ces personnes ;
+
+c) la planification, la coordination et la communication des soins et du soutien ;
+
+d) la collecte de données mesurant leur degré de besoin en soins ;
+
+e) leurs buts dans la vie ainsi que leurs objectifs de soins et de soutien ;
+
+f) les données révélant des convictions religieuses ou philosophiques ;
+
+9° les données de communication électronique qui sont échangées entre les membres de l'équipe de soins et de soutien ;
+
+10° les données sur les capacités des membres de l'équipe de soins et de soutien.
+
+Le prestataire de soins qui est membre de l'équipe de soins et de soutien a accès aux données à caractère personnel suivantes, visées à l'article 23/3 :
+
+1° les données d'identification et de contact des prestataires de soins ;
+
+2° le numéro d'agrément des prestataires de soins ;
+
+3° les données d'identification et de contact de la personne en besoin de soins et de soutien ;
+
+4° le numéro NISS de la personne en besoin de soins et de soutien ;
+
+5° les données d'identification et de contact des aidants proches ;
+
+6° les données d'identification et de contact des autres membres de l'équipe de soins et de soutien ;
+
+7° les données sur la santé de la personne en besoin de soins et de soutien ;
+
+8° les données pertinentes qui sont nécessaires pour fournir des soins et un soutien à la personne en besoin de soins et de soutien, et qui sont différentes des données sur la santé, à savoir :
+
+a) la situation socio-économique, d'après le niveau d'études, la profession et les revenus qui peuvent également être liés à des interventions de la personne en besoin de soins et de soutien, ainsi que les données sur le bien-être général de la personne en besoin de soins et de soutien ;
+
+b) les tâches de soins et de soutien indiquées pour la personne en besoin de soins et de soutien ;
+
+c) la planification, la coordination et la communication des soins et du soutien ;
+
+d) la collecte de données mesurant le degré de besoin en soins de la personne en besoin de soins et de soutien ;
+
+e) les buts dans la vie ainsi que les objectifs de soins et de soutien de la personne en besoin de soins et de soutien ;
+
+f) les données sur les convictions religieuses ou philosophiques de la personne en besoin de soins et de soutien ;
+
+9° les données de communication électronique qui sont échangées entre les membres de l'équipe de soins et de soutien ;
+
+10° les données sur les capacités des membres de l'équipe de soins et de soutien.
+
+L'aidant proche a accès aux données à caractère personnel suivantes, visées à l'article 23/3 :
+
+1° les propres données d'identification et de contact ;
+
+2° les données d'identification et de contact de la personne en besoin de soins et de soutien ;
+
+3° le numéro NISS de la personne en besoin de soins et de soutien ;
+
+4° les données d'identification et de contact des prestataires de soins ;
+
+5° le numéro d'agrément des prestataires de soins ;
+
+6° les données d'identification et de contact des autres membres de l'équipe de soins et de soutien ;
+
+7° les données pertinentes qui sont nécessaires pour fournir des soins et un soutien à la personne en besoin de soins et de soutien, et qui sont différentes des données sur la santé, à savoir :
+
+a) la situation socio-économique, d'après le niveau d'études, la profession et les revenus qui peuvent également être liés à des interventions de la personne en besoin de soins et de soutien, ainsi que les données sur le bien-être général de la personne en besoin de soins et de soutien ;
+
+b) les tâches de soins et de soutien indiquées pour la personne en besoin de soins et de soutien ;
+
+c) la planification, la coordination et la communication des soins et du soutien ;
+
+d) la collecte de données mesurant le degré de besoin en soins de la personne en besoin de soins et de soutien ;
+
+e) les buts dans la vie ainsi que les objectifs de soins et de soutien de la personne en besoin de soins et de soutien ;
+
+f) les données sur les convictions religieuses ou philosophiques de la personne en besoin de soins et de soutien ;
+
+8° les données de communication électronique qui sont échangées entre les membres de l'équipe de soins et de soutien ;
+
+9° les données sur les capacités des membres de l'équipe de soins et de soutien.
+
+Les autres membres de l'équipe de soins et de soutien ont accès aux données à caractère personnel suivantes, visées à l'article 23/3 :
+
+1° les propres données d'identification et de contact ;
+
+2° les données d'identification et de contact de la personne en besoin de soins et de soutien ;
+
+3° les données d'identification et de contact des prestataires de soins ;
+
+4° le numéro d'agrément des prestataires de soins ;
+
+5° les données d'identification et de contact des aidants proches ;
+
+6° les données d'identification et de contact des autres membres de l'équipe de soins et de soutien ;
+
+7° si la personne en besoin de soins et de soutien y consent, les données pertinentes qui sont nécessaires pour fournir des soins et un soutien à la personne en besoin de soins et de soutien, et qui sont différentes des données sur la santé, à savoir :
+
+a) la situation socio-économique, d'après le niveau d'études, la profession et les revenus qui peuvent également être liés à des interventions de la personne en besoin de soins et de soutien, ainsi que les données sur le bien-être général de la personne en besoin de soins et de soutien ;
+
+b) les tâches de soins et de soutien indiquées pour la personne en besoin de soins et de soutien ;
+
+c) la planification, la coordination et la communication des soins et du soutien ;
+
+d) la collecte de données mesurant le degré de besoin en soins de la personne en besoin de soins et de soutien ;
+
+e) les buts dans la vie ainsi que les objectifs de soins et de soutien de la personne en besoin de soins et de soutien ;
+
+f) les données sur les convictions religieuses ou philosophiques de la personne en besoin de soins et de soutien ;
+
+8° les données de communication électronique qui sont échangées entre les membres de l'équipe de soins et de soutien ;
+
+9° les données sur les capacités des membres de l'équipe de soins et de soutien.
+
+Le service compétent désigné par le Gouvernement flamand a accès aux données à caractère personnel suivantes visées à l'article 23/3 :
+
+1° les données techniques sur l'utilisation du plan de soins et de soutien numérique par la personne en besoin de soins et de soutien, le prestataire de soins, l'aidant proche et les autres membres de l'équipe de soins et de soutien ;
+
+2° les données statistiques sur l'utilisation du plan de soins et de soutien numérique par la personne en besoin de soins et de soutien, le prestataire de soins, l'aidant proche et les autres membres de l'équipe de soins et de soutien ;]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-01/16, art. 28, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 23/6.
+
+[<sup>1</sup> Les droits des membres de l'équipe de soins et de soutien, visés aux articles 12 à 22 et à l'article 34 du règlement général la protection des données et les principes, visés à l'article 5 du règlement précité, peuvent, conformément à l'article 23, alinéa 1er, du règlement précité, être limités pour garantir la prévention, l'enquête, la détection et la poursuite d'actes portant atteinte à l'honneur et à la dignité de l'exercice des professions réglementées. Ce n'est possible qu'à partir de la réception de la demande d'exercice de l'un de ces droits et pendant la durée de l'enquête, de la détection et/ou de la poursuite des actes portant atteinte à l'honneur et à la dignité de l'exercice des professions réglementées. Cela ne porte pas préjudice à l'obligation incombant au responsable du traitement de garantir l'exactitude des données à caractère personnel, comme visé à l'article 5, alinéa 1er, d), du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-01/16, art. 29, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 23/7.
+
+[<sup>1</sup> § 1er. Les données à caractère personnel traitées, visées à l'article 23/3, alinéa 1er, 1° à 7°, sont conservées pendant maximum six mois après le décès de la personne en besoin de soins et de soutien, ou après la suspension de son profil d'utilisateur dans le plan de soins et de soutien numérique.
+
+Les données à caractère personnel traitées, visées à l'article 23/3, alinéa 1er, 8° et 9°, sont conservées pendant cinq ans après le dernier traitement de ses données.
+
+§ 2. Les données à caractère personnel traitées, visées à l'article 23/3, alinéa 2, 1° à 5°, sont conservées pendant maximum 6 mois après le décès de la personne en besoin de soins et de soutien, ou après la suspension de son profil d'utilisateur dans le plan de soins et de soutien numérique.
+
+Les données à caractère personnel traitées, visées à l'article 23/3, alinéa 2, 6° et 7°, sont conservées pendant cinq ans après le dernier traitement de ses données.
+
+§ 3. Les données à caractère personnel traitées, visées à l'article 23/3, alinéa 3, 1° à 5°, sont conservées pendant maximum 6 mois après le décès de la personne en besoin de soins et de soutien, ou après la suspension de son profil d'utilisateur dans le plan de soins et de soutien numérique.
+
+Les données à caractère personnel traitées, visées à l'article 23/3, alinéa 3, 6° et 7°, sont conservées pendant cinq ans après le dernier traitement de ses données.
+
+§ 4. Les données à caractère personnel traitées, visées à l'article 23/3, alinéa 4, 1° à 5°, sont conservées pendant maximum 6 mois après le décès de la personne en besoin de soins et de soutien, ou après la suspension de son profil d'utilisateur dans le plan de soins et de soutien numérique.
+
+Les données à caractère personnel traitées, visées à l'article 23/3, alinéa 4, 6° et 7°, sont conservées pendant cinq ans après le dernier traitement de ses données.
+
+§ 5. Les données à caractère personnel traitées dans le plan de soins et de soutien numérique, à savoir, les profils d'utilisateur et les données de contact des utilisateurs, visés à l'article 23/4, sont conservées pendant maximum 6 mois après le décès de la personne en besoin de soins et de soutien, ou après la suspension de son profil d'utilisateur dans le plan de soins et de soutien numérique.
+
+Si les données, visées à l'alinéa 1er, sont des données techniques, elles sont conservées pendant cinq ans après le dernier traitement de ses données.
+
+§ 6. Le Gouvernement flamand peut, pour des données spécifiques, déterminer un délai de conservation plus court que les délais de conservation visés aux paragraphes 1er à 5.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-01/16, art. 30, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 23/8.
+
+[<sup>1</sup> Le Département Soins, visé à l'article 23, § 1er, du décret du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande, est responsable du traitement, visé à l'article 4, 7), du Règlement général sur la protection des données, pour la gestion du plan de soins et de soutien numérique.
+
+Dans le cadre d'autres traitements dans le plan de soins et de soutien numérique dans le cadre de l'offre de soins, le département visé à l'alinéa 1er et les prestataires de soins peuvent agir en qualité de responsables conjoints du traitement comme visé à l'article 26 du règlement général sur la protection des données. Dans ce cas, ils établissent leurs rôles, responsabilités et obligations respectifs dans un accord conformément à l'article 26, alinéa 1er, du règlement général sur la protection des données.
+
+Dans d'autres cas que celui visé à l'alinéa 2, les prestataires de soins agissent, dans le cadre de leurs obligations légales en matière de santé auxquelles ils doivent se conformer, en tant que responsable du traitement visé à l'article 4, 7) du règlement précité, et le département visé à l'alinéa 1er, en tant que sous-traitant comme visé à l'article 4, 8) du Règlement précité.
+
+Le département, visé à l'alinéa 1er, et chaque utilisateur qui reçoit des données à caractère personnel, conformément à l'article 23/4, définissent par écrit leurs accords mutuels sur l'échange de données.
+
+Les utilisateurs, visés à l'article 23/4, sont responsables des contenus qu'ils mettent à disposition et échangent via le plan de soins et de soutien numérique ainsi que de l'usage scrupuleux des données qu'ils ont obtenues via le plan de soins et de soutien numérique.
+
+Le département, visé à l'alinéa 1er, n'a jamais accès à un plan de soins et de soutien individuel d'une personne en besoin de soins et de soutien, et ne peut pas gérer un plan de soins et de soutien individuel dans le cadre de soins et du bien-être. Cependant, cela n'empêche pas le département, visé à l'alinéa 1er, de prendre les mesures nécessaires dans le cadre de ses responsabilités et obligations de responsable du traitement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-01/16, art. 31, 004; En vigueur : 01-01-2025&gt;
+
+#### Art. 23/9.
+
+[<sup>1</sup> Pour l'application de la présente section, le département, visé à l'article 23/8, alinéa 1er, met en oeuvre les mesures techniques et organisationnelles appropriées conformément à l'article 32 du règlement général sur la protection des données afin de garantir un niveau de sécurité adapté au risque.
+
+Dans le cadre de l'application de la présente section, le département visé à l'article 23/8, alinéa 1er, respecte les principes de protection des données dès conception et par défaut, visés à l'article 25 du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-01/16, art. 32, 004; En vigueur : 01-01-2025&gt;
+
+## CHAPITRE 11. - Obligation de rendre compte et surveillance
+
+#### Art. 24
+
+Tous les conseils des soins, plateformes régionales de soins, organisations partenaires et organisations oeuvrant sur le terrain, agréés ou subventionnés par le Gouvernement flamand pour des missions prévues dans le cadre du présent décret, doivent rendre compte et se soumettre à la surveillance.
+
+Le contrôle du respect des dispositions du présent décret et de ses arrêtés d'exécution est organisé conformément au décret du 19 janvier 2018 relatif au contrôle public dans le cadre de la politique de la santé et de l'aide sociale et à ses arrêtés d'exécution.
+
+#### Art. 25
+
+Tous les conseils des soins, plateformes régionales de soins, organisations partenaires et organisations oeuvrant sur le terrain, subventionnés par le Gouvernement flamand pour l'exécution ou le soutien des soins de première ligne, sont tenus, sur simple demande du Gouvernement flamand, à rendre public toutes autres ressources financières que les fonds obtenus dans le cadre du présent décret. Toutes les pièces justificatives seront mises à disposition sur simple demande.
+
+Sauf si un double financement de la même activité pour l'exécution ou le soutien des soins de première ligne est démontré, les moyens financiers acquis en dehors du cadre du présent décret ne sont pas déduits des subventions obtenues en vertu du présent décret.
+
+La constitution de réserves peut être autorisée. Le Gouvernement flamand détermine les modalités à cet effet.
+
+## CHAPITRE 12. - Sanctions administratives
+
+#### Art. 26
+
+L'agrément d'un conseil des soins, d'une plateforme régionale de soins, d'une organisation partenaire et d'une organisation oeuvrant sur le terrain peut être suspendu ou retiré si l'organisation ne remplit pas ou ne remplit plus les obligations résultant du présent décret.
+
+#### Art. 27
+
+Une sanction administrative telle que visée à l'article 26 ne peut être exécutée que si :
+
+1° l'intéressé a reçu de la part [<sup>1</sup> du Département Soins]<sup>1</sup> une sommation écrite de remplir les obligations en question ;
+
+2° l'intéressé n'a pas rempli les obligations en question dans le délai imparti [<sup>1</sup> par le Département Soins]<sup>1</sup> ;
+
+3° la personne concernée a été invitée à être entendue [<sup>1</sup> par le Département Soins]<sup>1</sup>.
+
+[<sup>1</sup> Dans l'alinéa 1er, on entend par Département Soins : le Département Soins, visé à l'article 23, § 1, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-04-21/07, art. 27, 002; En vigueur : 01-06-2023&gt;
+
+## CHAPITRE 13. - Procédure d'agrément, de suspension et de retrait de l'agrément
+
+#### Art. 28
+
+Pour les conseils des soins, les plateformes régionales de soins, les organisations partenaires et les organisations oeuvrant sur le terrain, le Gouvernement flamand règle la procédure d'agrément, de suspension et de retrait de l'agrément.
+
+La Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats) Accueillants, telle que visée à l'article 12 du décret du 7 décembre 2007 portant création d[<sup>1</sup> ...]<sup>1</sup> d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats) Accueillants, émet un avis quant aux moyens de défense ou d'objection déposés dans le cadre des procédures résultant du présent décret, en cas d'une intention de refus, de suspension ou de retrait d'un agrément.
+
+----------
+
+(1)&lt;DCFL 2023-12-01/10, art. 43, 003; En vigueur : 20-01-2024&gt;
+
+## CHAPITRE 14. - Dispositions modificatives
+
+#### Art. 29
+
+Dans l'article 90, alinéa 3, du décret du 6 juillet 2018 relatif à la reprise des secteurs des maisons de soins psychiatriques, des initiatives d'habitation protégée, des conventions de revalidation, des hôpitaux de revalidation et des équipes d'accompagnement multidisciplinaires de soins palliatifs, le point 4° est remplacé par ce qui suit :
+
+" 4° prestataire de soins : un prestataire de soins de première ligne, tel que visé à l'article 2, 3°, du décret du 26 avril 2019 relatif à l'organisation des soins de première ligne, les plateformes régionales de soins et le soutien des prestataires de soins de première ligne . ".
+
+## CHAPITRE 15. - Dispositions finales
+
+#### Art. 30
+
+Le Gouvernement flamand règle l'abrogation de chacune des dispositions du décret du 3 mars 2004 relatif aux soins de santé primaires et à la coopération entre les prestataires de soins.
+
+#### Art. 31
+
+Les arrêtés suivants restent d'application jusqu'au moment de leur abrogation par le Gouvernement flamand :
+
+1° l'arrêté du Gouvernement flamand du 19 décembre 2008 relatif aux initiatives de coopération dans le domaine des soins de santé primaires ;
+
+2° l'arrêté du Gouvernement flamand du 26 juin 2015 relatif aux cercles de médecins généralistes ;
+
+3° l'arrêté du Gouvernement flamand du 1er mars 2019 portant règles d'agrément et de subvention d'une organisation partenaire comme Institut flamand pour la première ligne.
+
+#### Art. 32
+
+Le Gouvernement flamand arrête les mesures transitoires nécessaires pour les initiatives de coopération dans le domaine des soins de santé primaires, agréées conformément à l'article 8 du décret du 3 mars 2004 relatif aux soins de santé primaires et à la coopération entre les prestataires de soins, tel qu'en vigueur le jour avant l'abrogation de l'article précité.
+
+#### Art. 33
+
+Le Gouvernement flamand arrête les mesures transitoires nécessaires pour les organisations partenaires agréées conformément à l'article 14 du décret du 3 mars 2004 relatif aux soins de santé primaires et à la coopération entre les prestataires de soins, tel qu'en vigueur le jour avant l'abrogation de l'article précité, et les partenariats au niveau de la pratique dans le cadre des soins de santé primaires, agréés conformément à l'article 7 du décret précité, tel qu'en vigueur le jour avant l'abrogation de l'article précité.
+
+#### Art. 34
+
+Le Gouvernement flamand fixe, pour chaque disposition du présent décret, la date d'entrée en vigueur.
+
+(NOTE : Entrée en vigueur fixée au 01-10-2019 par AGF 2019-05-17/78, art. 29)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 26 avril 2019.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+Le Ministre flamand du Bien-Etre, de la Santé publique et de la Famille,
+
+J. VANDEURZEN

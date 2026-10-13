@@ -1,0 +1,279 @@
+---
+title: "Décret relatif à la surveillance de la qualité des parcours de qualification professionnelle sur la base d'un cadre commun de qualité"
+identifier: "2019012556"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019012556/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2019-04-26
+published: 2019-05-23
+entry_into_force: 2019-06-02
+last_amended: 2026-07-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019012556/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 23-05-2019 et mise à jour au 28-07-2026"
+retrieved: 2026-10-12
+---
+
+# 26 AVRIL 2019. - Décret relatif à la surveillance de la qualité des parcours de qualification professionnelle sur la base d'un cadre commun de qualité
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° qualification professionnelle : la qualification professionnelle visée à l'article 2, 4°, du décret du 30 avril 2009 ;
+
+2° parcours de qualification professionnelle : un parcours de formation ou un parcours EVC permettant à l'apprenant d'acquérir les compétences ou de les faire évaluer dans le cadre d'une ou plusieurs qualifications professionnelles ;
+
+3° certification professionnelle : une certification reconnue par la Communauté flamande prouvant qu'une personne possède les compétences d'une qualification professionnelle reconnue. La certification indique la ou les qualifications professionnelles concernées, y compris toute qualification partielle, et contient une référence à un niveau du cadre des certifications visé à l'article 2, 13°, du décret du 30 avril 2009 ;
+
+4° certification partielle : une certification reconnue par la Communauté flamande prouvant qu'une personne possède les compétences d'une qualification partielle reconnue. La certification précise la qualification professionnelle dont fait partie la qualification partielle ;
+
+5° certification des compétences : une certification reconnue par la Communauté flamande prouvant qu'une personne a acquis la ou les compétences d'une qualification reconnue. Cette certification est délivrée si l'apprenant ne remplit pas les conditions requises pour l'obtention d'une certification mentionnée au point 3° ou 4° comprenant les compétences concernées ;
+
+6° compétence : la compétence visée à l'article 2, 6°, du décret du 30 avril 2009 ;
+
+7° décret du 30 avril 2009 : le décret du 30 avril 2009 relatif à la structure des certifications ;
+
+8° qualification partielle : la qualification partielle visée à l'article 8, alinéa 2, du décret du 30 avril 2009 ;
+
+9° parcours EVC : un parcours de reconnaissance des compétences acquises ;
+
+10° inspection de l'enseignement : l'inspection, visée au titre IV de la partie II du décret du 8 mai 2009 relatif à la qualité de l'enseignement ;
+
+11° apprenant : une personne inscrite dans un parcours de formation professionnelle qualifiant ou dans un parcours EVC de qualification professionnelle ;
+
+12° délai normal : un délai ininterrompu et sans répétition d'une partie.
+
+[<sup>1</sup> 13° responsable du traitement : le responsable du traitement, visé à l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données).]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/55, art. 187, 003; En vigueur : 01-09-2024&gt;
+
+### Art. 3
+
+Le présent décret s'applique à tous les parcours de [<sup>1</sup> qualification professionnelle ou qualification partielle ]<sup>1</sup>, à l'exception des parcours conduisant à une certification professionnelle proposés par un établissement d'enseignement reconnu, financé ou subventionné par la Communauté flamande.
+
+Il ne peut être satisfait à l'obligation scolaire en suivant un parcours de qualification professionnelle reconnu relevant du champ d'application de l'alinéa 1er.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/17, art. 150, 001; En vigueur : 01-09-2023&gt;
+
+### Art. 4
+
+En reconnaissant les parcours de qualification professionnelle, une organisation est autorisée à délivrer des certifications professionnelles, des certifications partielles ou des certifications de compétences pour ces parcours de qualification professionnelle.
+
+[<sup>1</sup> Une organisation peut avoir la compétence de ne proposer que des parcours de qualification professionnelle reconnus au niveau de la qualification partielle. L'organisation précitée n'est habilitée qu'à délivrer des certifications partielles.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-07-07/17, art. 151, 001; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE 2. - Candidature pour proposer des parcours de qualification professionnelle reconnus
+
+### Art. 5
+
+§ 1er. Une organisation souhaitant proposer des parcours de qualification professionnelle reconnus doit soumettre une demande de reconnaissance. Les parcours pour lesquels la reconnaissance est demandée doivent être proposés en néerlandais.
+
+Une organisation souhaitant proposer des parcours de qualification professionnelle reconnus doit démontrer dans sa demande de reconnaissance sa qualité au niveau de l'organisation.
+
+§ 2. Le Gouvernement flamand détermine la procédure de demande, y compris les exigences de qualité au niveau de l'organisation. Le Gouvernement flamand assure que la qualité au niveau de l'organisation des organisations proposant des parcours de qualification professionnelle reconnus est conforme aux exigences de qualité établies.
+
+Le Gouvernement flamand établit un registre des parcours de qualification professionnelle reconnus et des organisations qui les proposent et tient à jour ce registre.
+
+§ 3. Si une organisation proposant des parcours de qualification professionnelle reconnus ne peut plus démontrer sa qualité au niveau de l'organisation, les parcours de qualification professionnelle de cette organisation ne sont plus reconnus et tant les parcours que l'organisation sont radiés du registre visé au paragraphe 2. A partir de la date de radiation du registre, l'organisation en question n'est plus compétente pour délivrer des certifications professionnelles, des certifications partielles ou des certifications des compétences.
+
+A partir du jour de la radiation du registre, aucun nouvel apprenant n'est autorisé à commencer dans le parcours. Par dérogation à l'alinéa 1er, les apprenants qui, au moment de leur radiation du registre, sont inscrits dans un parcours de qualification professionnelle proposé par l'organisation en question doivent avoir la possibilité de compléter le parcours entamé dans un délai normal et d'obtenir une certification professionnelle, une certification partielle ou une certification des compétences.
+
+## CHAPITRE 3. - Surveillance de la qualité des parcours de qualification professionnelle reconnus
+
+### Art. 6
+
+§ 1er. Une organisation proposant des parcours de [<sup>1</sup> qualifications professionnelles ou qualifications partielles]<sup>1</sup> reconnus permet une surveillance de la qualité au niveau du parcours. La surveillance de la qualité au niveau du parcours consiste à vérifier si le parcours de qualification professionnelle permet effectivement aux apprenants d'acquérir d'une manière qualitative les compétences de la ou des qualifications professionnelles visées.
+
+La surveillance de la qualité se fait de manière neutre et indépendante. Les responsables de la surveillance de la qualité ne sont pas impliqués dans la conception, l'accompagnement ou l'organisation des parcours de qualification professionnelle qui font l'objet de la surveillance de la qualité.
+
+La surveillance de la qualité a lieu au moins tous les six ans. La surveillance de la qualité sur place des parcours de qualification professionnelle doit avoir lieu dans l'année qui suit la première période de formation du parcours de qualification professionnelle.
+
+Le Gouvernement flamand précise les modalités de la surveillance de la qualité.
+
+§ 2. Dans le cadre de la surveillance de la qualité des domaines politiques de l'emploi et de la formation professionnelle, le Gouvernement flamand institue une Commission de reconnaissance chargée d'évaluer la demande de reconnaissance, visée à l'article 5, § 1er, et le maintien ou le retrait de la reconnaissance conformément à l'article 9.
+
+Dans le cadre de la surveillance de la qualité des domaines politiques de l'emploi et de la formation professionnelle, le Gouvernement flamand crée une Commission de recours chargée de statuer sur les recours formés contre les décisions de la Commission de reconnaissance visée à l'alinéa 1er.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/17, art. 152, 001; En vigueur : 01-09-2023&gt;
+
+### Art. 7
+
+La surveillance de la qualité au niveau du parcours est basée sur un cadre de qualité qui couvre tous les domaines de qualité suivants :
+
+1° les objectifs du parcours de [<sup>1</sup> qualification professionnelle ou qualification partielle]<sup>1</sup> correspondent aux compétences de la qualification professionnelle envisagée ;
+
+2° la conception du parcours de qualification professionnelle est élaborée et organisée de manière à permettre aux apprenants d'acquérir ou de rendre visibles les compétences de la qualification professionnelle envisagée ;
+
+3° l'accompagnement des apprenants dans le cadre du parcours de qualification professionnelle permet de leur offrir les meilleures opportunités d'acquérir ou de rendre visibles les compétences de la qualification professionnelle envisagée ;
+
+4° l'évaluation des apprenants dans le cadre du parcours de qualification professionnelle permet de vérifier qu'ils ont acquis les compétences de la qualification professionnelle envisagée ;
+
+5° les points d'amélioration établis en relation avec les objectifs, la conception, l'accompagnement et l'évaluation sont convertis en actions d'amélioration.
+
+Le Gouvernement flamand continue à développer les domaines de qualité du cadre de qualité et fait connaître ce cadre par le biais de forums accessibles au public.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/17, art. 153, 001; En vigueur : 01-09-2023&gt;
+
+### Art. 8
+
+§ 1er. La surveillance de la qualité peut être organisée de trois façons :
+
+1° un domaine ou champ politique organise la surveillance de la qualité des parcours de [<sup>1</sup> qualification professionnelle ou qualification partielle]<sup>1</sup> toujours en collaboration avec l'inspection de l'enseignement. Ceci n'est possible que pour les parcours de qualification professionnelle des niveaux 1 à 4 visés à l'article 6 du décret du 30 avril 2009 ;
+
+2° un domaine ou champ politique sous-traite complètement la surveillance de la qualité à l'inspection de l'enseignement. Ceci n'est possible que pour les parcours de qualification professionnelle des niveaux 1 à 4 visés à l'article 6 du décret du 30 avril 2009 ;
+
+3° un domaine ou champ politique organise la surveillance de la qualité de manière autonome.
+
+Un domaine ou champ politique décide selon quelle procédure la surveillance de la qualité des parcours de qualification professionnelle est effectuée pour les organisations relevant de ce domaine ou champ politique.
+
+§ 2. Si la surveillance de la qualité est effectuée par l'inspection de l'enseignement ou toujours en collaboration avec elle et tout au long du processus de la surveillance de la qualité, les certifications professionnelles délivrées par l'organisation qui faisait l'objet de cette surveillance entraînent automatiquement une dispense d'un parcours de qualification professionnelle qui fait partie d'un parcours de certification en enseignement proposé par l'éducation des adultes et pour lequel la même certification professionnelle est délivrée.
+
+Si une qualification professionnelle ou qualification partielle a été mise à jour ou radiée conformément à la procédure visée aux articles 15/3 et 15/4 de l'arrêté du Gouvernement flamand du 11 janvier 2013 portant exécution du décret relatif à la structure des certifications du 30 avril 2009 en matière de reconnaissance de qualifications professionnelles et en matière de reconnaissance des qualifications d'enseignement pour l'enseignement secondaire après secondaire, après l'obtention par l'apprenant de la certification, une dispense pour cette qualification professionnelle ou qualification partielle peut être refusée par un établissement d'enseignement.
+
+§ 3. Si un domaine ou champ politique organise la surveillance de la qualité de manière autonome, les certifications acquises ne donnent pas automatiquement lieu à des dispenses basées sur l'obtention d'une qualification d'enseignement.
+
+§ 4. Au cours des trois premières années pendant lesquelles un domaine ou champ politique organise de manière autonome une surveillance de la qualité des parcours de qualification professionnelle, cela se fait en coopération avec l'inspection de l'enseignement. Les certifications acquises n'entraînent automatiquement des dispenses basées sur l'obtention d'une qualification d'enseignement que si l'inspection de l'enseignement est impliquée à tout moment et pendant tout le processus de surveillance de la qualité au niveau du parcours. Le Gouvernement flamand détermine les modalités en la matière.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/17, art. 153, 001; En vigueur : 01-09-2023&gt;
+
+### Art. 9
+
+§ 1er. Si la surveillance de la qualité au niveau du parcours confirme que le parcours de qualification professionnelle permet effectivement aux apprenants d'acquérir de manière qualitative les compétences de la ou [<sup>1</sup> des qualifications professionnelles ou qualifications partielles envisagées]<sup>1</sup>, le parcours de qualification professionnelle reste reconnu et le parcours reste inscrit dans le registre, comme indiqué à l'article 5, § 2. L'organisation en question reste habilitée à délivrer des [<sup>1</sup> certifications professionnelles ou partielles]<sup>1</sup> aux apprenants qui réussissent le parcours de qualification professionnelle, y compris les certifications partielles et compétences[<sup>1</sup> éventuelles]<sup>1</sup> sous-jacentes, visées à l'article 5, § 3, du décret du 26 avril 2019 relatif à une politique intégrée de reconnaissance des compétences acquises.
+
+§ 2. Si la surveillance de la qualité au niveau du parcours conduit à la conclusion que le parcours de qualification professionnelle ne permet pas à l'apprenant d'acquérir de manière qualitative les compétences de la ou [<sup>1</sup> des qualifications professionnelles ou qualifications partielles envisagées]<sup>1</sup>, le parcours de qualification professionnelle n'est plus reconnu et le parcours est radié du registre, comme indiqué à l'article 5, § 2. L'organisation en question n'est plus compétente pour délivrer des [<sup>1</sup> certifications professionnelles ou partielles ]<sup>1</sup>, y compris les certifications partielles et compétences [<sup>1</sup> éventuelles]<sup>1</sup> sous-jacentes, pour ce parcours de qualification professionnelle.
+
+Pour déterminer les autres modalités de surveillance de la qualité visées à l'article 6, alinéa 4, le Gouvernement flamand peut, le cas échéant, établir une procédure de remédiation.
+
+A partir du jour de la radiation du registre, aucun nouvel apprenant ne pourra s'inscrire au parcours. Par dérogation à l'alinéa 1er, les apprenants qui, au moment de la suppression de la reconnaissance, sont inscrits à ce parcours de qualification professionnelle doivent avoir la possibilité de compléter le parcours entamé dans un délai normal et d'obtenir une certification professionnelle, une certification partielle ou une certification de compétences.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/17, art. , 154; En vigueur : 01-09-2023&gt;
+
+## Chapitre 4. [<sup>1</sup> Dispositions pour les domaines politiques de l'emploi et de la formation professionnelle]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 188, 003; En vigueur : 01-09-2024&gt;
+
+### Art. 10.
+
+Art. 10.[<sup>1</sup> Le présent chapitre s'applique aux domaines politiques de l'emploi et de la formation professionnelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 189, 003; En vigueur : 01-09-2024&gt;
+
+### Art. 11.
+
+Art. 11.[<sup>1</sup> Dans le cadre du suivi de l'efficacité et de la portée de la mesure parcours de qualification professionnelle, l'organisation transmet au Département de l'Emploi et de l'Economie sociale, avant la fin du mois de janvier, par parcours de qualification professionnelle reconnu, les données suivantes, qui ont trait à l'année calendaire précédente :
+
+1° les prénom et nom et le numéro de registre national de l'apprenant ;
+
+2° la date de début du parcours de qualification professionnelle ;
+
+3° la qualification professionnelle, la qualification partielle ou les compétences obtenues par l'apprenant, ou la mention que l'apprenant n'a pas obtenu de qualification professionnelle ou partielle ou de compétences.
+
+Dans le cadre de l'évaluation politique de parcours de qualification professionnelle, le [<sup>2</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>2</sup> peut demander des données supplémentaires, qui ne sont pas des données à caractère personnel. L'organisation transmet les données précitées au [<sup>2</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>2</sup> dans les trente jours après avoir reçu la demande précitée.
+
+L'organisation est le responsable du traitement des données à caractère personnel dans le cadre du transfert des données, visé à l'alinéa 1er.
+
+L'organisation ne conserve les données visées à l'alinéa 1er que le temps nécessaire pour le suivi et pour une période maximale de dix ans.
+
+Le [<sup>2</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>2</sup> est le responsable du traitement des données à caractère personnel dans le cadre du suivi, visé à l'alinéa 1er.
+
+Le [<sup>2</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>2</sup> ne conserve les données visées à l'alinéa 1er que le temps nécessaire pour le suivi et pour une période maximale de 10 ans. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 190, 003; En vigueur : 01-09-2024&gt;
+
+(2)&lt;DCFL 2026-06-26/19, art. 54, 004; En vigueur : 07-08-2026&gt;
+
+### Art. 12.
+
+Art. 12. [<sup>1</sup> Les preuves des qualifications professionnelles sont délivrées et enregistrées dans la base de données visée à l'article 13 au plus tard deux mois après la fin du parcours de qualification professionnelle.
+
+Une certification de qualification partielle et une certification de compétences peuvent être délivrées au cours d'un parcours à l'apprenant qui en est éligible, si l'apprenant le demande.
+
+L'organisation enregistre les données suivantes afin de fournir à l'apprenant une certification professionnelle, une certification de qualification partielle ou une certification de compétences :
+
+1° les prénom et nom et le numéro de registre national de l'apprenant ;
+
+2° la qualification professionnelle évaluée ;
+
+3° le résultat de l'évaluation ;
+
+4° un aperçu des compétences prouvées ;
+
+5° la décision de délivrer une certification professionnelle, une certification de qualification partielle ou une certification de compétences ;
+
+6° la date de l'évaluation.
+
+Dans le cas visé à l'alinéa 1er, l'organisation est le responsable du traitement.
+
+L'organisation conserve les données visées à l'alinéa 1er pendant un an après la notification de la décision de délivrer une certification professionnelle, une certification de qualification partielle ou une certification de compétences. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 191, 003; En vigueur : 01-09-2024&gt;
+
+### Art. 13.
+
+Art. 13.[<sup>1</sup> Dans le présent article, on entend par base de données de titres d'apprentissage et de compétence professionnelle : la base de données de titres d'apprentissage et de compétence professionnelle, visée à l'article 20 du décret du 30 avril 2009 relatif à la structure des certifications.
+
+L'organisation enregistre les données suivantes dans la base de données de titres d'apprentissage et de compétence professionnelle :
+
+1° le numéro de registre national de l'apprenant qui a acquis une certification professionnelle, une certification partielle ou une certification des compétences ;
+
+2° le nom de la certification professionnelle, de la certification partielle ou de la certification des compétences ;
+
+3° la date à laquelle la certification est délivrée à l'apprenant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 192, 003; En vigueur : 01-09-2024&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 26 avril 2019.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+La Ministre flamande de l'Enseignement,
+
+H. CREVITS
+
+Le Ministre flamand de l'Emploi, de l'Economie, de l'Innovation et des Sports,
+
+Ph. MUYTERS

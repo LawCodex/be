@@ -1,0 +1,603 @@
+---
+title: "Décret portant organisation de l'accueil extrascolaire et coordination des activités extrascolaires"
+identifier: "2019013072"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019013072/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2019-05-03
+published: 2019-06-27
+entry_into_force: 2021-01-01
+last_amended: 2025-12-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019013072/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 27-06-2019 et mise à jour au 05-12-2025"
+retrieved: 2026-10-12
+---
+
+# 3 MAI 2019. - Décret portant organisation de l'accueil extrascolaire et coordination des activités extrascolaires
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit:
+
+Décret portant organisation de l'accueil extrascolaire et coordination des activités extrascolaires
+
+## CHAPITRE 1er. - Dispositions générales
+
+#### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+#### Art. 2
+
+Dans le présent décret, on entend par :
+
+[<sup>1</sup> 1° agence : l'agence autonomisée interne dotée de la personnalité juridique " Opgroeien regie " (Grandir régie), créée par l'article 3 du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir régie (" Opgroeien regie ") ;]<sup>1</sup>
+
+[<sup>1</sup> 1° /1]<sup>1</sup> activités extrascolaires : l'ensemble des activités organisées formellement pour des enfants, y compris l'accueil de la petite enfance et l'accueil dans l'enseignement fondamental ;
+
+2° utilisateurs : les parents et les autres personnes responsables de l'éducation, ainsi que leurs enfants ;
+
+3° accueil de la petite enfance: l'accueil organisé [<sup>2</sup> ...]<sup>2</sup> pour des enfants qui peuvent fréquenter l'enseignement maternel, visé à l'article 5 du décret du 25 février 1997 relatif à l'enseignement fondamental et qui ne fréquentent pas encore l'enseignement primaire, visé à l'article 6, § 1er, du même décret ;
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+5° enfants : les enfants dès l'âge à partir duquel ils peuvent fréquenter l'école maternelle visée à l'article 3, 26° du décret du 25 février 1997 relatif à l'enseignement fondamental ;
+
+6° administration locale : l'administration communale et l'administration du Centre Public d'Action Sociale ou, en ce qui concerne la région bilingue de Bruxelles-Capitale, la Commission Communautaire Flamande ;
+
+7° plan pluriannuel: le planning pluriannuel, visé aux articles 254 et 255 du décret du 22 décembre 2017 sur l'administration locale ;
+
+8° accueil dans l'enseignement primaire: les activités destinées aux enfants fréquentant l'enseignement primaire, visé à l'article 6, § 1er, du décret sur l'enseignement fondamental du 25 février 1997, à l'exception des activités d'animation pour jeunes ou des associations sportives ;
+
+9° organisateur : la personne physique ou morale organisant une offre d'activités extrascolaires ;
+
+Parmi les activités qui ne sont pas considérées comme des activités extrascolaires et qui ne ressortissent par conséquent pas à l'application du présent décret, se trouvent :
+
+1° l'organisation d'enseignement ou l'organisation de l'accueil de midi à l'école, à l'exception de l'enseignement artistique à temps partiel ;
+
+2° l'offre d'activités de jour ou d'accompagnement dans les internats ou dans les semi-internats ;
+
+3° l'offre d'aide à la jeunesse telle que visée à l'article 2, § 1er, 30° du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse ;
+
+4° l'offre de soins exclusifs à des enfants handicapés ;
+
+5° l'offre de soins de santé à des enfants ;
+
+6° la garde des enfants de clients ou de visiteurs.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 96, 002; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCFL 2025-11-21/04, art. 5, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 3
+
+L'Autorité flamande vise à une offre intégrée d'activités extrascolaires pour enfants à travers une coopération entre les acteurs pertinents tout en accordant un rôle de direction aux administrations locales. Elle contribue ainsi à la réalisation des droits de l'enfant.
+
+Le présent décret règle l'organisation de l'accueil extrascolaire, en particulier l'accueil de la petite enfance et l'accueil dans l'enseignement primaire, ainsi que la coordination des activités extrascolaires sur la base des objectifs suivants :
+
+1° offrir aux enfants des possibilités de développement et de jeu en dehors des heures de classe et en dehors de l'accueil scolaire de midi ;
+
+2° donner la possibilité aux parents de participer au marché du travail ou de suivre une formation ;
+
+3° promouvoir la cohésion sociale et l'égalité des chances.
+
+## CHAPITRE 2. - Direction, coopération et qualité
+
+### Section 1re. - Direction
+
+#### Art. 4
+
+L'administration locale assume la direction des activités extrascolaires et effectue les missions suivantes à cet effet:
+
+1° élaborer une politique locale qui tient compte des objectifs visés à l'article 3, alinéa 2, et qui fait partie du plan pluriannuel ;
+
+2° décider de l'utilisation et de la répartition des moyens financiers, personnels, logistiques et infrastructurels disponibles, y compris la subvention visée à l'article 12;
+
+[<sup>1</sup> 3° l'agrément, le contrôle et le maintien en ce qui concerne l'offre locale d'activités extrascolaires]<sup>1</sup>.
+
+[<sup>1</sup> S'il existe des indices laissant supposer que la sécurité ou la santé des enfants pourrait être compromise et que le contrôle organisé par l'administration locale ne suffit pas à décider de la nécessité d'un maintien, l'administration locale peut demander à l'Inspection des Soins d'effectuer un contrôle sur place.
+
+Pour l'application de l'alinéa 2, on entend par Inspection des Soins : l'Inspection des Soins telle que visée à l'article 4, § 2, alinéa 3, de l'arrêté du Gouvernement flamand du 12 mai 2023 relatif au Département Soins. L'Inspection des Soins exerce son contrôle conformément au décret du 19 janvier 2018 relatif au contrôle public dans le cadre de la politique de la santé et de l'aide sociale. Le contrôle sur place peut être annoncé ou inopiné.]<sup>1</sup>
+
+[<sup>1</sup> L'administration locale exécute les missions visées à l'alinéa 1er en concertation avec les acteurs pertinents pour les activités extrascolaires. L'administration locale exécute ces missions en fonction des besoins des utilisateurs, tout en examinant l'accessibilité et en accordant une attention particulière à la petite enfance, aux familles vulnérables et aux enfants nécessitant des soins spécifiques, et à l'encouragement de l'utilisation multifonctionnelle et efficace d'infrastructures]<sup>1</sup>.
+
+Le Gouvernement flamand arrête les modalités et fixe ce qui est entendu par plan pluriannuel pour la Commission Communautaire flamande.
+
+----------
+
+(1)&lt;DCFL 2025-11-21/04, art. 6, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5
+
+L'administration locale peut développer une politique locale, telle que visée à l'article 4, en collaboration avec d'autres administrations locales.
+
+#### Art. 6
+
+L'autorité locale agit de manière neutre lors de l'application des missions visées à l'article 4, entre autres en séparant le rôle de régisseur local du rôle d'organisateur qu'elle assume éventuellement.
+
+Le Gouvernement flamand arrête les modalités.
+
+### Section 2. - Coopération
+
+#### Art. 7
+
+Les acteurs au sein du territoire de l'administration locale collaborent dans une seule structure de coopération locale, composée de façon diverse d'acteurs pertinents pour les activités extrascolaires.
+
+La participation à la structure de coopération locale ne peut pas être une condition à l'agrément ou à l'appui financier, personnel, logistique ou infrastructurel d'acteurs par l'administration locale.
+
+Par dérogation à l'alinéa 1er, une structure commune de coopération locale existe pour le territoire des communes qui font l'objet d'une coopération des administrations locales en application de l'article 5.
+
+#### Art. 8
+
+L'administration locale prend l'initiative pour la structure de coopération locale et est chargée de son organisation.
+
+Par dérogation à l'alinéa 1er, l'administration locale peut confier l'organisation de la structure de coopération locale entièrement ou partiellement à un ou plusieurs autres acteurs pertinents pour les activités extrascolaires.
+
+A défaut d'initiative de la part de l'administration locale, un ou plusieurs autres acteurs pertinents pour les activités extrascolaires peuvent prendre l'initiative de la structure de coopération locale.
+
+Les acteurs agissent de manière neutre, entre autres en séparant leur rôle dans l'exécution des missions telles que visées aux paragraphes 1er à 3 et leur rôle éventuel en tant qu'organisateur.
+
+Le Gouvernement flamand arrête les modalités des conditions sous lesquelles un ou plusieurs acteurs autres que l'administration locale peuvent prendre l'initiative pour la structure de coopération locale ou en reprendre l'organisation partant du principe de l'égalité de traitement, ainsi que celles de la séparation du rôle d'acteur et d'organisateur.
+
+#### Art. 9
+
+La structure de coopération locale a les missions suivantes :
+
+1° conseiller l'administration locale [<sup>1</sup> ...]<sup>1</sup> sur les missions visées à l'article 4 et sur la mise en oeuvre du plan pluriannuel visé à l'article 4, alinéa 1er, 1° ;
+
+2° élaborer des objectifs opérationnels communs et coordonner des actions opérationnelles dans les limites des moyens disponibles visés à l'article 4, alinéa 1er, 2°.
+
+La structure de coopération locale exécute les missions visées à l'alinéa 1er en concertation avec d'autres acteurs pertinents pour les activités extrascolaires [<sup>1</sup> en tenant compte des objectifs visés à l'article 3, alinéa 2]<sup>1</sup>.
+
+La structure de coopération locale stimule l'utilisation du néerlandais comme langue véhiculaire.
+
+[<sup>1</sup> Le Gouvernement flamand arrête les modalités relatives aux missions de la structure de coopération locale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-11-21/04, art. 7, 005; En vigueur : 01-01-2026&gt;
+
+### Section 3. - Qualité
+
+#### Art. 10
+
+[<sup>1</sup> Le Gouvernement flamand prévoit, en concertation avec les acteurs pertinents et en tenant compte des objectifs visés à l'article 3, alinéa 2, les éléments suivants :
+
+1° un cadre d'inspiration pour réaliser une offre intégrée d'activités extrascolaires ;
+
+2° une subvention aux instances fournissant un soutien à la réalisation d'une offre intégrée d'activités extrascolaires.
+
+Par cadre d'inspiration, on entend : un outil pour soutenir des administrations locales et partenaires des activités extrascolaires dans la politique locale en matière d'activités extrascolaires.
+
+Le Gouvernement flamand arrête les modalités relatives à l'exécution du cadre d'inspiration et la subvention de soutien.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-11-21/04, art. 8, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 11
+
+[<sup>1</sup> L'agence]<sup>1</sup> accorde un label de qualité aux organisateurs d'accueil de la petite enfance qui demandent le label de qualité et qui répondent aux conditions de qualité.
+
+Les conditions de qualité visées à l'alinéa 1er concernent au moins les éléments suivants :
+
+1° l'offre des activités extrascolaires ;
+
+2° l'accessibilité, en particulier axée sur les familles vulnérables et sur les enfants nécessitant des soins spécifiques ;
+
+3° les interactions de haute qualité entre les collaborateurs et les enfants, les collaborateurs possédant les compétences nécessaires et des connaissances suffisantes en langue néerlandaise ;
+
+4° [<sup>2</sup> lors de la désignation de chaque personne travaillant dans le milieu d'accueil d'enfants, l'organisateur contrôle la bonne conduite de la personne concernée, ce qui inclut au moins un comportement irréprochable vis-à-vis des mineurs. L'article 3, alinéas 2 à 5, l'article 4, alinéa 1er, et l'article 5 du décret du 3 juin 2022 portant l'obligation pour certaines organisations de contrôler un extrait du casier judiciaire tel que visé à l'article 596, alinéa 2, du Code d'instruction criminelle, pour certains nouveaux collaborateurs travaillant dans le milieu d'accueil d'enfants s'appliquent à cet égard. En outre, l'organisateur dispose d'un extrait du casier judiciaire central au nom de la personne morale.]<sup>2</sup>.
+
+5° l'emploi du néerlandais ;
+
+Le Gouvernement flamand peut arrêter des conditions supplémentaires.
+
+Le Gouvernement flamand arrête les modalités relatives au label de qualité dont le contrôle du respect des conditions de qualité.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 97, 002; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCFL 2024-04-19/13, art. 20, 004; En vigueur : 18-05-2024&gt;
+
+#### Art. 11 DROIT FUTUR
+
+&lt;Abrogé par DCFL 2025-11-21/04, art. 9, 005; En vigueur : 01-09-2026&gt;
+
+#### Art. 11/1
+
+[<sup>1</sup> L'offre agréée d'activités extrascolaires, visée à l'article 4, alinéa 1er, 3°, du présent décret, répond au moins aux conditions relatives :
+
+1° à la politique organisationnelle, y compris les compétences de gestion ;
+
+2° à la politique pédagogique, y compris :
+
+a) l'établissement d'interactions de haute qualité entre les collaborateurs et les enfants ;
+
+b) l'utilisation du néerlandais comme langue de liaison et la promotion de la connaissance du néerlandais ;
+
+3° à la politique du personnel, y compris :
+
+a) la possession des compétences nécessaires par les collaborateurs ;
+
+b) une connaissance suffisante du néerlandais par les collaborateurs ;
+
+c) la vérification par l'organisateur, lors de l'embauche de chaque personne travaillant sur le site des activités extrascolaires, de la bonne conduite de la personne concernée. La bonne conduite comprend au moins un comportement irréprochable vis-à-vis des mineurs. L'article 3, alinéas 2 à 5, l'article 4, alinéa 1er, et l'article 5 du décret du 3 juin 2022 portant l'obligation pour certaines organisations de contrôler un extrait du casier judiciaire tel que visé à l'article 596, alinéa 2, du Code d'instruction criminelle, pour certains nouveaux collaborateurs s'appliquent à cet égard. En outre, l'organisateur dispose d'un extrait du casier judiciaire central au nom de la personne morale qui exploite le site des activités extrascolaires ;
+
+4° à l'accessibilité, au moins axée sur la petite enfance, sur les familles vulnérables et sur les enfants nécessitant des soins spécifiques ;
+
+5° à la surveillance et à l'évaluation ;
+
+6° à la connexion.
+
+Les conditions visées à l'alinéa 1er tiennent compte des objectifs visés à l'article 3, alinéa 2.
+
+L'administration locale traite les plaintes concernant l'offre agréée d'activités extrascolaires et établit une procédure à cet effet.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-11-21/04, art. 10, 005; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE 3. - Subvention
+
+#### Art. 12
+
+Le Gouvernement flamand accorde, dans les limites des crédits inscrits à cet effet dans le budget de la Communauté flamande, une subvention aux administration locales sur la base des paramètres et indicateurs suivants :
+
+1° paramètre 1er : le nombre d'enfants de 2 à 12 ans domiciliés dans la commune ou inscrits au registre du séjour de la commune ;
+
+2° paramètre 2 : le nombre d'enfants fréquentant une école fondamentale située sur le territoire de la commune ;
+
+3° indicateur 1er : la mesure dans laquelle l'administration locale atteint les familles vulnérables ;
+
+4° indicateur 2 : la mesure dans laquelle l'administration locale atteint les enfants nécessitant des soins spécifiques.
+
+[<sup>2</sup> L'administration locale affecte la subvention visée à l'alinéa 1er, aux missions visées à l'article 4, alinéa 1er. L'administration locale consacre au moins 33 % de cette subvention à l'offre agréée d'activités extrascolaires spécifiquement destinées à la petite enfance, visée à l'article 4, alinéa 1er, 3°.
+
+Le Gouvernement flamand arrête les modalités relatives à l'octroi de la subvention visée à l'alinéa 1er, y compris la définition des familles vulnérables et des enfants nécessitant des soins spécifiques.
+
+Le Gouvernement flamand arrête également la manière dont la subvention est payée]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2022-05-06/06, art. 2, 003; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFL 2025-11-21/04, art. 11, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 13
+
+Les dispositions du décret du 15 juillet 2011 fixant les règles générales auxquelles dans la Communauté flamande et la Région flamande des obligations de planning et de rapportage périodiques peuvent être imposées à des administrations locales, sont d'application [<sup>1</sup> , à l'exception de l'article 9 dudit décret]<sup>1</sup>.
+
+Le Gouvernement flamand arrête les modalités des obligations de planning et de rapportage périodiques s'appliquant à la Commission communautaire flamande.
+
+----------
+
+(1)&lt;DCFL 2022-05-06/06, art. 3, 003; En vigueur : 01-09-2021&gt;
+
+#### Art. 13 DROIT FUTUR
+
+Les dispositions du décret du 15 juillet 2011 fixant les règles générales auxquelles dans la Communauté flamande et la Région flamande des obligations de planning et de rapportage périodiques peuvent être imposées à des administrations locales, sont d'application [<sup>1</sup> , à l'exception de l'article 9 dudit décret]<sup>1</sup>.
+
+Le Gouvernement flamand arrête les modalités des obligations de planning et de rapportage périodiques s'appliquant à la Commission communautaire flamande.
+
+[<sup>2</sup> Le Gouvernement flamand arrête les modalités relatives à la surveillance de l'offre et de l'utilisation, au suivi et à la récupération des subventions.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2022-05-06/06, art. 3, 003; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFL 2025-11-21/04, art. 12, 005; En vigueur : 01-09-2026&gt;
+
+## CHAPITRE 4. - Traitement de données à caractère personnel
+
+#### Art. 14
+
+§ 1er. [<sup>1</sup> L'agence]<sup>1</sup>, les contrôleurs, les organisateurs et les administrations locales traitent toutes les données à caractère personnel nécessaires concernant les organisateurs, les collaborateurs, les enfants et leurs familles faisant usage des activités extrascolaires afin de pouvoir atteindre les objectifs formulés à l'article 3.
+
+§ 2. En vue de l'octroi d'un label de qualité tel que visé à l'article 11, les organisateurs de l'accueil de la petite enfance traitent les catégories suivantes de données à caractère personnel concernant les collaborateurs de l'accueil de la petite enfance et les enfants et leurs familles faisant usage de l'accueil de petite enfance :
+
+1° les données d'identification des enfants ;
+
+2° les données concernant la santé des enfants ;
+
+3° les données concernant la vulnérabilité des familles ;
+
+4° les données concernant la participation des enfants à l'offre des activités extrascolaires ;
+
+5° les données d'identification, les données concernant les compétences et les connaissances suffisantes du néerlandais des collaborateurs ;
+
+6° les données concernant l'extrait du casier judiciaire visé à l'article 11, alinéa 2, 4°.
+
+Les organisateurs de l'accueil de la petite enfance sont les responsables du traitement des données à caractère personnel précitées. Ils fournissent les données du point 1° au point 3°, du point 5° et du point 6° à [<sup>1</sup> l'agence]<sup>1</sup> en vue d'appliquer et de maintenir les conditions de qualité visées à l'article 11.
+
+Les données à caractère personnel visées à l'alinéa 1er, de 1° à 4°, sont conservées jusqu'à cinq ans après que l'enfant ne fait plus usage de l'accueil de la petite enfance offert par l'organisateur concerné. Les données à caractère personnel visées à l'alinéa 1er, 5° et 6°, sont conservées jusqu'à cinq ans après la fin de l'association du collaborateur à l'organisateur d'accueil de la petite enfance concerné.
+
+§ 3. En vue de l'application et du maintien des exigences de qualité visées à l'article 11, [<sup>1</sup> l'agence]<sup>1</sup> traite les catégories suivantes des données à caractère personnel concernant les collaborateurs de l'accueil de la petite enfance, les enfants et les familles faisant usage de l'accueil de la petite enfance et des organisateurs de l'accueil de la petite enfance :
+
+1° les données d'identification de l'organisateur d'accueil de la petite enfance et les données des conditions de qualité visées à l'article 11, alinéa 2, auxquelles cet organisateur doit répondre ;
+
+2° les données du § 2, alinéa 1er, 1° à 3°, 5° et 6°.
+
+[<sup>1</sup> L'agence]<sup>1</sup> est le responsable de traitement des données à caractère personnel précitées.
+
+Les données à caractère personnel visées à l'alinéa 1er sont conservées jusqu'à cinq ans après leur traitement.
+
+§ 4. En vue de l'application et du maintien des conditions de qualité visées à l'article 11, les contrôleurs traitent les catégories suivantes de données à caractère personnel concernant les collaborateurs, les enfants et les familles faisant usage de l'accueil de la petite enfance et les organisateurs d'accueil de petite enfance :
+
+1° les données d'identification de l'organisateur d'accueil de la petite enfance et les données des conditions de qualité visées à l'article 11, alinéa 2, auxquelles cet organisateur doit répondre ;
+
+1° les données du paragraphe 2, alinéa 1er, 1° à 6° ;
+
+Les contrôleurs sont les responsables du traitement des données à caractère personnel précitées.
+
+Les données à caractère personnel visées à l'alinéa 1er sont conservées jusqu'à trois ans après que leur rapport dans le cadre du contrôle est devenu définitif.
+
+§ 5. A la demande de l'administration locale et dans le cadre de la direction des activités extrascolaires visées à l'article 4 et de l'octroi des subventions visé à l'article 12, les organisateurs traitent les catégories suivantes de données à caractère personnel concernant les enfants et leurs familles faisant usage d'activités extrascolaires et concernant les collaborateurs :
+
+1° les données d'identification des enfants ;
+
+2° les données concernant la santé des enfants ;
+
+3° les données concernant la vulnérabilité des familles ;
+
+4° les données concernant la demande de et la participation à l'offre d'activités extrascolaires d'enfants ;
+
+5° les données d'identification, les données concernant les compétences et les connaissances suffisantes du néerlandais des collaborateurs ;
+
+6° pour leurs collaborateurs, les données d'un extrait récent du casier judiciaire, visé à l'article 596, alinéa 2, du Code d'instruction criminelle ou un document équivalent pour les personnes non domiciliées en Belgique prouvant une conduite irréprochable vis-à-vis des enfants.
+
+Les organisateurs sont les responsables du traitement des données à caractère personnel précitées. L'organisateur fournit ces données à caractère personnel à l'administration locale, à la demande de l'administration locale et ceci dans le cadre de leur direction concernant les activités extrascolaires.
+
+Les données à caractère personnel visées à l'alinéa 1er, 1° à 4°, sont conservées jusqu'à cinq ans après que l'enfant ne fait plus usage des activités extrascolaires offertes par l'organisateur concerné. Les données à caractère personnel visées à l'alinéa 1er, 5° et 6° sont conservées jusqu'à cinq ans après que l'association du collaborateur à l'organisateur concerné a pris fin.
+
+§ 6. En vue de l'exécution de la direction des activités extrascolaires, les administrations locales traitent les catégories suivantes de données à caractère personnel concernant les enfants et leurs familles faisant usage des activités extrascolaires et concernant les collaborateurs :
+
+1° les données d'identification de l'organisateur et les données des conditions auxquelles cet organisateur doit répondre ;
+
+2° les données du paragraphe 5, alinéa 1er, 1° à 6° ;
+
+L'administration locale est le responsable du traitement des données à caractère personnel précitées.
+
+Les données à caractère personnel visées à l'alinéa 1er sont conservées jusqu'à cinq ans après leur traitement.
+
+§ 7. En vue de l'organisation de la structure de coopération locale, visée à l'article 7, les administrations locales et, le cas échéant, l'acteur désigné conformément à l'article 8, alinéa 2, traitent les données d'identification des organisateurs ou de la personne qui les représente, qui font partie de la structure de coopération.
+
+L'administration locale ou, le cas échéant, l'acteur désigné, est le responsable du traitement des données à caractère personnel précitées.
+
+Les données à caractère personnel visées à l'alinéa 1er sont conservées jusqu'à cinq ans après leur traitement.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 98, 002; En vigueur : 01-01-2021&gt;
+
+#### Art. 14 DROIT FUTUR
+
+§ 1er. [<sup>1</sup> L'agence]<sup>1</sup>, les contrôleurs, les organisateurs et les administrations locales traitent toutes les données à caractère personnel nécessaires concernant les organisateurs, les collaborateurs, les enfants et leurs familles faisant usage des activités extrascolaires afin de pouvoir atteindre les objectifs formulés à l'article 3.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 5. A la demande de l'administration locale et dans le cadre de la direction des activités extrascolaires visées à l'article 4 et de l'octroi des subventions visé à l'article 12, les organisateurs traitent les catégories suivantes de données à caractère personnel concernant les enfants et leurs familles faisant usage d'activités extrascolaires et concernant les collaborateurs :
+
+1° les données d'identification des enfants ;
+
+2° les données concernant la santé des enfants ;
+
+3° les données concernant la vulnérabilité des familles ;
+
+4° les données concernant la demande de et la participation à l'offre d'activités extrascolaires d'enfants ;
+
+5° les données d'identification, les données concernant les compétences et les connaissances suffisantes du néerlandais des collaborateurs ;
+
+6° pour leurs collaborateurs, les données d'un extrait récent du casier judiciaire, visé à l'article 596, alinéa 2, du Code d'instruction criminelle ou un document équivalent pour les personnes non domiciliées en Belgique prouvant une conduite irréprochable vis-à-vis des enfants.
+
+Les organisateurs sont les responsables du traitement des données à caractère personnel précitées. L'organisateur fournit ces données à caractère personnel à l'administration locale, à la demande de l'administration locale et ceci dans le cadre de leur direction concernant les activités extrascolaires.
+
+Les données à caractère personnel visées à l'alinéa 1er, 1° à 4°, sont conservées jusqu'à cinq ans après que l'enfant ne fait plus usage des activités extrascolaires offertes par l'organisateur concerné. Les données à caractère personnel visées à l'alinéa 1er, 5° [<sup>2</sup> ...]<sup>2</sup> sont conservées jusqu'à cinq ans après que l'association du collaborateur à l'organisateur concerné a pris fin.
+
+§ 6. En vue de l'exécution de la direction des activités extrascolaires, les administrations locales traitent les catégories suivantes de données à caractère personnel concernant les enfants et leurs familles faisant usage des activités extrascolaires et concernant les collaborateurs :
+
+1° les données d'identification de l'organisateur et les données des conditions auxquelles cet organisateur doit répondre ;
+
+2° les données du paragraphe 5, alinéa 1er, 1° à 6° ;
+
+L'administration locale est le responsable du traitement des données à caractère personnel précitées.
+
+Les données à caractère personnel visées à l'alinéa 1er [<sup>2</sup> , à l'exception de 6°,]<sup>2</sup> sont conservées jusqu'à cinq ans après leur traitement.
+
+§ 7. En vue de l'organisation de la structure de coopération locale, visée à l'article 7, les administrations locales et, le cas échéant, l'acteur désigné conformément à l'article 8, alinéa 2, traitent les données d'identification des organisateurs ou de la personne qui les représente, qui font partie de la structure de coopération.
+
+L'administration locale ou, le cas échéant, l'acteur désigné, est le responsable du traitement des données à caractère personnel précitées.
+
+Les données à caractère personnel visées à l'alinéa 1er sont conservées jusqu'à cinq ans après leur traitement.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 98, 002; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCFL 2025-11-21/04, art. 13, 005; En vigueur : 01-09-2026&gt;
+
+## CHAPITRE 5. - Dispositions finales
+
+### Section 1re. - Dispositions transitoires
+
+#### Art. 15
+
+[<sup>1</sup> Dans son plan pluriannuel, l'administration locale indique les options politiques choisies relatives à la poursuite de l'offre d'accueil de la petite enfance et d'accueil dans l'enseignement primaire après la fin du délai transitoire, visé à l'article 17, alinéa 1er.
+
+Après la fin du délai transitoire visé à l'article 17, alinéa 1er, au moins 75% de la subvention octroyée, visée à l'article 12, sont consacrés à la réalisation de [<sup>2</sup> l'offre agréée d'activités extrascolaires]<sup>2</sup> pendant une période de six ans.
+
+Le Gouvernement flamand arrête, pour ce qui concerne l'alinéa 2, les modalités, au minimum la manière dont l'administration communale exécute cette mission et en fait rapport, et ce qu'il convient d'entendre par la réalisation de l'offre d'accueil .de la petite enfance et d'accueil dans l'enseignement primaire ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2022-05-06/06, art. 4, 003; En vigueur : 01-01-2022&gt;
+
+(2)&lt;DCFL 2025-11-21/04, art. 14, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 16
+
+[<sup>1</sup> Si le Gouvernement flamand octroie une subvention telle que visée à l'article 12 aux administrations locales pendant le délai transitoire visé à l'article 17, alinéa 1er, la subvention existante visée à l'article 17, alinéa 1er, est incluse dans le calcul et les indicateurs visés à l'article 12, alinéa 1er, 3° et 4°, ne sont pas appliqués lors de la détermination du montant de la subvention, mais le pourcentage de précarité est pris en compte lors de la sélection des administrations locales pouvant bénéficier d'une subvention.
+
+Le Gouvernement flamand arrête les modalités, au minimum la manière dont la comptabilisation est effectuée, ce qu'il convient d'entendre par pourcentage de précarité et la façon dont le pourcentage de précarité est pris en compte lors de la sélection des administrations locales]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2022-05-06/06, art. 5, 003; En vigueur : 01-09-2021&gt;
+
+#### Art. 17
+
+[<sup>1</sup> L'organisateur qui reçoit une subvention pour une offre d'activités extrascolaires telle que visée aux arrêtés suivants continue à toucher cette subvention pendant un délai transitoire allant du 1er janvier 2021 au 31 août 2026 :
+
+1° l'arrêté du Gouvernement flamand du 16 mai 2014 portant les conditions de subvention de l'accueil extrascolaire familial et en groupe ;
+
+2° l'arrêté du Gouvernement flamand du 15 juillet 2016 relatif au subventionnement de projets issus de l'ancien Fonds d'équipements et de services collectifs et pour les membres du personnel dans un ancien statut gesco ;
+
+3° l'arrêté du Gouvernement flamand du 27 novembre 2015 fixant les conditions d'agrément et de subventionnement des structures mandatées, points de coordination et pools d'accueil flexible de travailleurs de groupes cibles, les conditions d'autorisation et de subventionnement de services locaux d'accueil extrascolaire de voisinage, ainsi que les conditions pour une subvention supplémentaire pour les organisateurs ayant une autorisation d'accueil de groupe et une subvention supplémentaire ;
+
+4° l'arrêté du Gouvernement flamand du 17 mars 2017 portant subvention des organisateurs d'accueil d'enfants et d'accueil extrascolaire en exécution de l'Accord intersectoriel flamand et les arrêtés du Gouvernement flamand en exécution du sixième Accord intersectoriel flamand du 30 mars 2021.
+
+Par dérogation à l'alinéa 1er, l'administration locale peut demander une réduction du délai transitoire dans les cas suivants :
+
+1° jusqu'au 31 décembre 2025, sous réserve de l'accord des organisateurs. Dans ce cas, une subvention est accordée à l'administration locale pour le reste du délai transitoire visé à l'alinéa 1er, dont le montant est au moins égal à la totalité des subventions des organisateurs portant sur le territoire de la commune ;
+
+2° à partir du 1er janvier 2026, à condition que l'administration et la structure de coopération locale exécutent effectivement les missions visées aux articles 4 et 9. Dans ce cas :
+
+a) le Gouvernement flamand accorde une subvention à l'administration locale pour le reste du délai transitoire visé à l'alinéa 1er sur la base des paramètres visés à l'article 12, alinéa 1er, 1° et 2° ;
+
+b) l'agence met fin à tout label de qualité pour l'accueil de la petite enfance dans cette commune.
+
+Les administrations locales qui ont demandé une réduction du délai transitoire visé à l'alinéa 2, 1°, continuent à toucher la subvention pour la période allant du 1er janvier 2026 au 31 août 2026.
+
+Pendant le délai transitoire, qui peut éventuellement être raccourci tel que visé à l'alinéa 2, l'agence conserve la mission d'accorder et de payer la subvention aux organisateurs concernés.
+
+A partir du 1er octobre 2025, un organisateur ne peut plus introduire de demande de label de qualité auprès de l'agence, sauf s'il reprend un milieu d'accueil pour lequel il existe un label de qualité et dont l'organisateur cédant reçoit une subvention visée à l'article 3 de l'Arrêté transitoire relatif aux subventions d'accueil extrascolaire du 24 septembre 2021.
+
+La possibilité de reprise totale ou partielle de l'activité subventionnée d'un autre organisateur reste ouverte à un organisateur ou un candidat organisateur après consultation avec l'administration locale et à condition d'un consentement mutuel.
+
+Le Gouvernement flamand arrête les modalités applicables pendant le délai transitoire, au moins en ce qui concerne les familles vulnérables et les enfants nécessitant des soins spécifiques, et en ce qui concerne la réduction éventuelle du délai transitoire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-11-21/04, art. 15, 005; En vigueur : 01-10-2025&gt;
+
+}Art. 17/1. [<sup>1</sup> Après la fin du délai transitoire visé à l'article 17, alinéa 1er, les administrations locales des communes ayant subi une perte substantielle de subvention par rapport aux subventions octroyées aux organisateurs en vertu de l'article 17, alinéa 1er, reçoivent une compensation partielle pendant une période de quatre ans.
+
+10 % du budget total disponible pour la subvention, visée à l'article 12, sont utilisés pour cette compensation.
+
+Après la fin du délai transitoire visé à l'article 17, alinéa 1er, les indicateurs visés à l'article 12, alinéa 1er, 3° et 4°, ne sont pas appliqués lors de la détermination du montant de la subvention, mais le montant de la subvention est basé sur le pourcentage de précarité par rapport au nombre de familles dans la commune, et ce pour une période de quatre ans.
+
+Le Gouvernement flamand arrête les modalités, au minimum l'élaboration du régime de compensation et ce qu'il convient d'entendre par le pourcentage de précarité, visé à l'alinéa 3. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-05-06/06, art. 7, 003; En vigueur : 01-01-2022&gt;
+
+### }Art. 17/1 DROIT FUTUR. [<sup>1</sup> Après la fin du délai transitoire visé à l'article 17, alinéa 1er, les administrations locales des communes ayant subi une perte substantielle de subvention par rapport aux subventions octroyées aux organisateurs en vertu de l'article 17, alinéa 1er, reçoivent une compensation. La compensation est octroyée pendant une période de cinq ans.
+
+Après la fin du délai transitoire visé à l'article 17, alinéa 1er, les indicateurs visés à l'article 12, alinéa 1er, 3° et 4°, ne sont pas appliqués pour déterminer le montant de la subvention pendant une période de cinq ans. Le montant de la subvention est en revanche également déterminé en fonction de la proportion d'enfants bénéficiant d'un supplément social ou d'une allocation de soins.
+
+Dans l'alinéa 2, on entend par :
+
+1° enfants bénéficiant d'un supplément social :
+
+a) pour la Communauté flamande : les enfants visés à l'article 18, alinéa 2, 1°, du Décret relatif au Panier de croissance de 2018 ;
+
+b) pour la région bilingue de Bruxelles-Capitale : les enfants bénéficiant d'une allocation scolaire dont les revenus de ménage sont inférieurs au montant visé à l'article 18, alinéa 2, 1°, du décret précité ;
+
+2° enfants bénéficiant d'une allocation de soins :
+
+a) pour la Communauté flamande : les enfants visés à l'article 16, § 1er, du décret précité ;
+
+b) pour la région bilingue de Bruxelles-Capitale : les enfants bénéficiant d'une allocation supplémentaire pour enfant en situation de handicap, en plus des allocations familiales.
+
+Le Gouvernement flamand arrête les modalités relatives à l'élaboration du régime de compensation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-11-21/04, art. 16, 005; En vigueur : 01-09-2026&gt;
+
+### Section 2. - Dispositions modificatives
+
+#### Art. 18
+
+Au décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir régie, modifié en dernier lieu par le décret du 1er mars 2019, sont apportées les modifications suivantes :
+
+1° dans l'article 2, le point 2° est remplacé par ce qui suit :
+
+" 2° accueil d'enfants : l'accueil d'enfants visé à l'article 2 du décret du 20 avril 2012 portant organisation de l'accueil de bébés et de bambins ; " ;
+
+2° à l'article 2 sont ajoutés les points 12° à 14°, rédigés comme suit :
+
+" 12° activités extrascolaires : les activités extrascolaires visées à l'article 2, 1°, du décret du 3 mai 2019 portant organisation de l'accueil extrascolaire et coordination des activités extrascolaires ;
+
+13° accueil de la petite enfance : l'accueil de la petite enfance, visé à l'article 2, 3°, du décret du 3 mai 2019 portant organisation de l'accueil extrascolaire et coordination des activités extrascolaires ;
+
+14° accueil dans l'enseignement primaire: l'accueil dans l'enseignement primaire, visé à l'article 2, 8°, du décret du 3 mai 2019 portant organisation de l'accueil extrascolaire et coordination des activités extrascolaires. " ;
+
+3° à l'article 5, § 1er, 1° est ajouté un point i), rédigé comme suit :
+
+" i) les activités extrascolaires. " ;
+
+4° dans l'article 5, § 2, le membre de phrase " les domaines visés au paragraphe 1er, 1°, a) à h) " est remplacé par le membre de phrase " les domaines visés au paragraphe 1er, 1°, a) à i) " ;
+
+5° un point 6/1 est inséré, rédigé comme suit :
+
+" Art. 6/1. La mission relative à la direction des activités extrascolaires comprend en tout cas l'octroi d'un label de qualité à des organisateurs de l'accueil de la petite enfance et le maintien des conditions de qualité telles que visées au décret du 3 mai 2019 portant organisation de l'accueil extrascolaire et coordination des activités extrascolaires.
+
+Sur l'ordre du Gouvernement flamand, l'agence peut être chargée, en toute ou en partie, du contrôle du respect des conditions de qualité attachées au label de qualité.
+
+L'agence peut contribuer au développement du cadre d'inspiration pour une offre intégrée d'activités extrascolaires" ;
+
+6° il est inséré un article 8/1, rédigé comme suit :
+
+" Art. 8/1. L'agence soutient des organisateurs et des acteurs pertinents pour l'accueil d'enfants, l'accueil de la petite enfance, l'accueil dans l'enseignement primaire et pour le soutien préventif aux familles. L'agence peut coopérer avec d'autres instances à cette fin.
+
+Le Gouvernement flamand en arrête les modalités. " ;
+
+7° dans l'article 10, aux alinéas 1er, 2 et 6, le membre de phrase " mentionnée aux articles 5, 6, 7, 7/1, 7/2, 7/3 et 8 " est remplacé par le membre de phrase " mentionnée aux articles 5, 6, 6/1, 7, 7/1, 7/2, 7/3, 8 et 8/1 " ;
+
+8° à l'article 12, le membre de phrase " mentionnée aux articles 5, 6, 6/1, 7, 7/1, 7/2, 7/3 et 8 " est remplacé par le membre de phrase " mentionnée aux articles 5, 6, 6/1, 7, 7/1, 7/2, 7/3, 8 et 8/1 ".
+
+#### Art. 19
+
+A l'article 12 du décret du 7 décembre 2007 portant création d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats) Accueillants, les modifications suivantes sont apportées à l'alinéa 2 :
+
+1° au point 1°, le membre de phrase " une admission " est remplacé par le membre de phrase " un label de qualité, une admission, " ;
+
+2° au point 2°, le membre de phrase " une admission " est remplacé par le membre de phrase " un label de qualité, une admission, ".
+
+### Section 3. - Disposition d'entrée en vigueur
+
+#### Art. 20
+
+Le présent décret entre en vigueur le 1 janvier 2021.
+
+Pour chaque article du présent décret, le Gouvernement flamand peut déterminer une date d'entrée en vigueur antérieure à celle visée à l'alinéa 1er.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 3 mai 2019.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+La Ministre flamande de l'Enseignement,
+
+H. CREVITS
+
+Le Ministre flamand du Bien-Etre, de la Santé publique et de la Famille,
+
+J. VANDEURZEN

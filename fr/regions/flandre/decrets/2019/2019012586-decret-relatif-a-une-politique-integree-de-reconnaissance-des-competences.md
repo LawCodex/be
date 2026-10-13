@@ -1,0 +1,171 @@
+---
+title: "Décret relatif à une politique intégrée de reconnaissance des compétences acquises"
+identifier: "2019012586"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019012586/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2019-04-26
+published: 2019-06-03
+entry_into_force: 2019-06-13
+last_amended: 2023-08-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019012586/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 03-06-2019 et mise à jour au 28-08-2023"
+retrieved: 2026-10-12
+---
+
+# 26 AVRIL 2019. - Décret relatif à une politique intégrée de reconnaissance des compétences acquises
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit:
+
+Décret relatif à une politique intégrée de reconnaissance des compétences acquises
+
+## CHAPITRE 1er. - Dispositions générales
+
+### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° qualification professionnelle : la qualification professionnelle visée à l'article 2, 4°, du décret du 30 avril 2009 ;
+
+2° compétence : la compétence visée à l'article 2, 6°, du décret du 30 avril 2009 ;
+
+3° décret du 30 avril 2009 : le décret du 30 avril 2009 relatif à la structure des certifications ;
+
+4° EVC : reconnaissance des compétences acquises.
+
+### Art. 3
+
+§ 1er. Dans un parcours de reconnaissance des compétences acquises, tout individu peut passer par les quatre phases consécutives suivantes :
+
+1° identification : prendre conscience des compétences et les identifier ;
+
+2° documentation : rendre les compétences visibles et les justifier à l'aide de pièces justificatives ;
+
+3° évaluation : évaluation des compétences sur la base d'un cadre de référence formel ;
+
+4° certification : reconnaissance formelle des compétences, basée sur les résultats de l'évaluation des compétences.
+
+Le présent décret s'applique aux parcours de [<sup>1</sup> qualifications professionnelles ou qualifications partielles ]<sup>1</sup> EVC qui comprennent l'évaluation et la certification des compétences d'une qualification professionnelle.
+
+§ 2. Le présent décret ne s'applique pas :
+
+1° à l'évaluation des compétences dans l'enseignement obligatoire ;
+
+2° aux épreuves d'entrée, d'orientation et de dispenses ;
+
+3° aux examens du jury de la Communauté flamande ;
+
+4° aux reconnaissances d'équivalence des certifications d'études étrangères dans l'enseignement secondaire, l'enseignement des adultes et l'enseignement supérieur par le service compétent du Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/17, art. 155, 002; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE 2. - Parcours de qualification professionnelle EVC
+
+### Art. 4
+
+§ 1er. [<sup>1</sup> qualifications professionnelles ou qualifications partielles]<sup>1</sup> de la structure des certifications constituent le cadre de référence pour l'évaluation des compétences d'une personne.
+
+Dans l'alinéa premier on entend par structure des certifications : la structure des certifications visée à l'article 2, 14° du décret du 30 avril 2009.
+
+§ 2. Le cadre de référence visé au paragraphe premier sert de base à l'établissement des normes EVC.
+
+La norme EVC indique les méthodes appropriées pour évaluer les compétences des [<sup>1</sup> qualifications professionnelles ou qualifications partielles]<sup>1</sup> et détermine les conditions préalables à une évaluation de haute qualité.
+
+Le service compétent du Ministère flamand de l'Enseignement et de la Formation coordonne l'établissement des normes EVC. A cette fin il fait notamment appel aux intéressés.
+
+Le Gouvernement flamand détermine la procédure de reconnaissance comme norme EVC.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/17, art. 156, 002; En vigueur : 01-09-2023&gt;
+
+### Art. 5
+
+§ 1er. La personne souhaitant faire évaluer et certifier ses compétences suit un parcours de qualifications professionnelles VC enregistré. Ce centre d'examen fournit à la personne l'information et l'encadrement nécessaires pour qu'elle soit en mesure de suivre le parcours EVC.[<sup>1</sup> Un centre d'examen EVC enregistré peut être habilité à proposer des parcours de qualification professionnelle au niveau de la qualification professionnelle ou à proposer uniquement des parcours de qualification professionnelle au niveau de la qualification partielle.]<sup>1</sup>
+
+§ 2. Le centre d'examen EVC fonde son évaluation sur une norme EVC reconnue par la Communauté flamande.
+
+§ 3. Selon les résultats de l'évaluation, la personne recevra l'une des certifications suivantes :
+
+1° une certification de qualification professionnelle : une certification reconnue par la Communauté flamande qu'une personne a obtenu les compétences d'une reconnue. La certification indique la qualification professionnelle concernée, y compris toute qualification partielle, et contient une référence à un niveau du cadre des certifications visé à l'article 2, 13°, du décret du 30 avril 2009 ;
+
+2° une certification de qualification partielle : une certification reconnue par la Communauté flamande qu'une personne a obtenu les compétences d'une qualification partielle reconnue. La certification indique la ou les qualifications professionnelles dont fait partie la qualification partielle ;
+
+3° une certification de compétences : une certification reconnue par la Communauté flamande qu'une personne a obtenu la ou les compétences d'une qualification reconnue. Cette certification est délivrée si la personne ne remplit pas les conditions requises pour l'obtention d'une certification mentionnée au point 1° ou 2° contenant la ou les compétences concernées.
+
+Au premier alinéa, la qualification partielle s'entend de la qualification partielle visée à l'article 8 du décret du 30 avril 2009, comme un ensemble cohérent de compétences d'une même qualification professionnelle, qui offre des possibilités à la sortie dans une partie plus restreinte du marché du travail que la qualification professionnelle complète.
+
+Le Gouvernement flamand détermine le modèle des certifications visées au premier alinéa ainsi que les autres modalités de leur délivrance.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/17, art. 157, 002; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE 3. - Reconnaissance et contrôle de la qualité des parcours de qualification professionnelle EVC
+
+### Art. 6
+
+L'organisme qui souhaite offrir un ou plusieurs parcours EVC en tant que centre d'examen EVC doit soumettre une demande de reconnaissance. Seule une organisation qui peut démontrer sa qualité au niveau de l'organisation peut demander la reconnaissance des parcours qu'elle offre.
+
+Un établissement d'enseignement agréé, financé ou subventionné par la Communauté flamande, disposant de la compétence d'enseignement pour les qualifications professionnelles pour lesquelles il souhaite offrir des parcours EVC, remplit la condition prévue au premier alinéa.
+
+Pour les organisations qui ne font pas partie d'un établissement d'enseignement agréé, financé ou subventionné par la Communauté flamande, les conditions prévues par le décret du 26 avril 2019 relatif à la surveillance de la qualité des parcours de qualification professionnelle sur la base d'un cadre commun de qualité s'appliquent.
+
+Le Gouvernement flamand arrête la procédure de demande de reconnaissance, visée à l'alinéa premier. Le Gouvernement flamand établit un registre des centres d'examen EVC et des parcours EVC reconnus qu'ils proposent.
+
+### Art. 7
+
+Le centre d'examen EVC enregistré permet le contrôle de qualité des parcours EVC proposés. Seuls les parcours EVC évalués comme étant de haute qualité restent reconnus et enregistrés et peuvent donner lieu à l'obtention d'une certification visée à l'article 5, § 3.
+
+Le contrôle de la qualité des parcours EVC proposés par les centres d'examen EVC enregistrés qui font partie d'un établissement d'enseignement agréé, financé ou subventionné par la Communauté flamande se fait de la manière suivante :
+
+1° aux qualifications professionnelles des niveaux 1 à 4 s'appliquent les dispositions du décret du 8 mai 2009 relatif à la qualité de l'enseignement ;
+
+2° aux qualifications professionnelles des niveaux 5 à 8 s'appliquent les dispositions du Code de l'Enseignement supérieur concernant le système de gestion de la qualité et d'accréditation dans l'enseignement supérieur.
+
+Le contrôle de qualité des parcours EVC proposés par les centres d'examen EVC enregistrés qui ne font pas partie d'un établissement d'enseignement agréé, financé ou subventionné par la Communauté flamande est effectué conformément aux dispositions du décret du 26 avril 2019 relatif à la surveillance de la qualité des parcours de qualification professionnelle sur la base d'un cadre commun de qualité.
+
+## CHAPITRE 4. - Contribution financière du candidat EVC
+
+### Art. 8
+
+Les personnes qui souhaitent faire évaluer et certifier leurs compétences payent une contribution financière au centre d'examen EVC.
+
+Le Gouvernement flamand détermine le montant de la contribution et les modalités. Le Gouvernement flamand peut réduire le montant pour des groupes cibles spécifiques.
+
+## CHAPITRE 5. - Modification du décret du 15 juin 2007 relatif à l'éducation des adultes
+
+### Art. 9
+
+Dans l'article 63, § 3 du décret du 15 juin 2007 relatif à l'éducation des adultes, modifié par le décret du 23 décembre 2016, il est inséré un alinéa deux qui s'énonce comme suit :
+
+" Les centres d'éducation des adultes reconnus comme centres d'examen EVC conformément à l'article 6 du décret du 26 avril 2019 relatif à une politique intégrée de reconnaissance des compétences acquises sont également compétents pour procéder à l'évaluation des personnes qui n'ont pas suivi de cours dans le centre en question, pour les formations conduisant à la certification d'une qualification professionnelle reconnue. ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 26 avril 2019.
+
+Le Ministre-président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+La Ministre flamande de l'Enseignement,
+
+H. CREVITS
+
+Le Ministre flamand de l'Emploi, de l'Economie, de l'Innovation et des Sports,
+
+Ph. MUYTERS
