@@ -1,0 +1,1123 @@
+---
+title: "Décret relatif aux mesures AktiF et AktiF PLUS destinées à promouvoir l'emploi"
+identifier: "2018203147"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/28/2018203147/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2018-05-28
+published: 2018-07-10
+entry_into_force: 2019-01-01
+last_amended: 2026-03-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/28/2018203147/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 10-07-2018 et mise à jour au 02-03-2026"
+retrieved: 2026-10-12
+---
+
+# 28 MAI 2018. - Décret relatif aux mesures AktiF et AktiF PLUS destinées à promouvoir l'emploi
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+##### Art. 1er
+
+Le présent décret fixe plusieurs mesures destinées à lutter contre le chômage en région de langue allemande et, plus particulièrement, à donner aux personnes qui font face à des désavantages liés au marché de l'emploi ou individuels, une chance d'accéder à l'emploi et d'obtenir un vrai contrat de travail. Ces mesures englobent des incitations financières destinées à promouvoir la formation et l'engagement ainsi qu'à assurer la sécurité de l'emploi.
+
+##### Art. 2
+
+Dans le présent décret, les qualifications s'appliquent à tous les sexes.
+
+##### Art. 3
+
+Pour l'application du présent décret, il faut entendre par :
+
+1°[<sup>1</sup> 1° Service : le service désigné par le Gouvernement;]<sup>1</sup>;
+
+2° CPAS : les centres publics d'action sociale ayant leur siège en région de langue allemande;
+
+3° demandeur d'emploi inoccupé : la personne physique qui :
+
+a) est inscrite comme demandeur d'emploi inoccupé [<sup>1</sup> auprès du Service]<sup>1</sup>;
+
+b) a son domicile en région de langue allemande;
+
+c) n'est pas soumise à l'obligation scolaire;
+
+d) n'a pas atteint l'âge légal de la retraite;
+
+4° durée de l'inscription [<sup>1</sup> auprès du Service]<sup>1</sup> : la période prenant cours à l'inscription en tant que demandeur d'emploi inoccupé et au cours de laquelle celui-ci n'est pas soumis à l'application de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs et ne fournit pas de prestations de travail sous l'autorité d'une autre personne, ne se trouve pas dans une relation statutaire et n'exerce aucune activité d'indépendant à titre principal;
+
+5° bénéficiaires des mesures AktiF : les demandeurs d'emploi inoccupés décrits au chapitre 2, section 1re, qui remplissent les conditions correspondantes y mentionnées;
+
+6° bénéficiaires des mesures AktiF PLUS : les demandeurs d'emploi inoccupés décrits au chapitre 2, section 2, qui remplissent les conditions correspondantes y mentionnées;
+
+7° subvention AktiF : la subvention qui peut être octroyée à l'employeur pour chaque bénéficiaire des mesures AktiF qu'il occupe;
+
+8° subvention AktiF PLUS : la subvention qui peut être octroyée à l'employeur pour chaque bénéficiaire des mesures AktiF PLUS qu'il occupe;
+
+9° attestation : le document délivré par[<sup>1</sup> le Service]<sup>1</sup> qui atteste que le demandeur d'emploi inoccupé remplit les conditions de subventionnement pour les bénéficiaires des mesures AktiF ou AktiF PLUS mentionnées dans le chapitre 2, et ce :
+
+a) au moment de l'établissement de l'attestation, si le demandeur d'emploi inoccupé n'a pas encore été engagé, ou
+
+b) à la veille de son entrée en service ou du début d'une mesure mentionnée aux articles 9, 12 ou 13;
+
+[<sup>2</sup> 10° règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données)]<sup>2</sup>.
+
+Le Gouvernement peut déterminer :
+
+1° qui peut être assimilé à un demandeur d'emploi inoccupé au sens de l'alinéa 1er, 3°;
+
+2° la période qui peut être assimilée à la durée de l'inscription [<sup>1</sup> auprès du Service ]<sup>1</sup> de l'emploi mentionnée à l'alinéa 1er, 4°;
+
+3° ce qu'il faut entendre par " activité d'indépendant à titre principal ";
+
+4° [<sup>2</sup> les conditions de délivrance et la durée de validité de l'attestation mentionnée à l'alinéa 1er, 9°]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCG 2023-11-13/19, art. 24, 012; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCG 2025-12-22/16, art. 60, 016; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE 2. - Conditions de subventionnement
+
+### Section 1re. - Bénéficiaires des mesures AktiF
+
+#### Sous-section 1re. - Jeunes demandeurs d'emploi
+
+##### Art. 4
+
+Sans préjudice de l'alinéa 2, le Gouvernement peut octroyer une subvention AktiF pour l'occupation de demandeurs d'emploi inoccupés qui :
+
+1° sont âgés de 25 ans au plus;
+
+2° sont porteurs au plus :
+
+a) d'un diplôme de l'enseignement secondaire supérieur et ne suivent aucune formation qui mène à l'obtention d'un diplôme plus élevé dans les trois mois suivants;
+
+b) d'un certificat d'aptitudes professionnelles de l'apprentissage mentionné à l'article 7 du décret du 16 décembre 1991 relatif à la formation et la formation continue dans les classes moyennes et les PME et ne suivent aucun apprentissage qui mène à l'obtention d'un diplôme supérieur dans les trois mois suivants;
+
+c) d'un diplôme équivalent à celui mentionné aux a) et b) délivré par une autre entité fédérée ou un autre Etat;
+
+3° apportent la preuve d'une durée d'inscription d'au moins six mois [<sup>1</sup> auprès du Service]<sup>1</sup>.
+
+Le Gouvernement peut octroyer une subvention AktiF pour l'occupation de demandeurs d'emploi inoccupés qui :
+
+1° sont âgés de 25 ans au plus;
+
+2° ne sont porteurs;
+
+a) ni d'un diplôme de l'enseignement secondaire supérieur et ne suivent aucune formation qui mène à une telle obtention dans les trois mois suivants;
+
+b) ni d'un certificat d'aptitudes professionnelles de l'apprentissage mentionné à l'article 7 du décret du 16 décembre 1991 relatif à la formation et la formation continue dans les classes moyennes et les PME et ne suivent aucun apprentissage qui mène à une telle obtention dans les trois mois suivants;
+
+c) ni d'un diplôme équivalent à celui mentionné au a) et b) délivré par une autre entité fédérée ou un autre Etat.
+
+Le Gouvernement peut fixer des conditions supplémentaires pour l'octroi des subventions mentionnées aux alinéas 1er et 2.
+
+----------
+
+(1)&lt;DCG 2023-11-13/19, art. 25, 012; En vigueur : 01-01-2024&gt;
+
+#### Sous-section 2. - Demandeurs d'emploi âgés
+
+##### Art. 5
+
+Le Gouvernement peut octroyer une subvention AktiF pour l'occupation de demandeurs d'emploi inoccupés qui :
+
+1° sont âgés de 50 ans au moins;
+
+2° ont perdu leur dernier emploi involontairement.
+
+Le Gouvernement peut :
+
+1° déterminer ce qu'il faut entendre par " perdre son emploi involontairement " au sens du présent article;
+
+2° fixer des conditions supplémentaires pour l'octroi des subventions mentionnées à l'alinéa 1er.
+
+#### Sous-section 3. - Demandeurs d'emploi de longue durée
+
+##### Art. 6
+
+Le Gouvernement peut octroyer une subvention AktiF pour l'occupation de demandeurs d'emploi inoccupés qui apportent la preuve d'une durée d'inscription d'au moins douze mois [<sup>1</sup> auprès du Service]<sup>1</sup>.
+
+Le Gouvernement peut fixer des conditions supplémentaires pour l'octroi de la subvention AktiF mentionnée à l'alinéa 1er.
+
+----------
+
+(1)&lt;DCG 2023-11-13/19, art. 26, 012; En vigueur : 01-01-2024&gt;
+
+#### Sous-section 4. - Victimes de restructurations
+
+##### Art. 7
+
+Le Gouvernement peut accorder une subvention AktiF aux demandeurs d'emploi inoccupés qui, en application de l'article 31 de la loi du 23 décembre 2005 relative au pacte de solidarité entre les générations, ont été licenciés dans le cadre d'une restructuration ou à ceux qui ont été licenciés dans le cadre de la faillite, de la fermeture ou de la dissolution d'une entreprise.
+
+Le Gouvernement peut fixer des conditions supplémentaires pour l'octroi de la subvention mentionnée à l'alinéa 1er.
+
+### Section 2. - Bénéficiaires des mesures AktiF PLUS
+
+##### Art. 8
+
+Le Gouvernement peut octroyer une subvention AktiF PLUS pour l'occupation de demandeurs d'emploi inoccupés qui apportent la preuve de l'existence d'au moins deux obstacles rencontrés.
+
+Sont considérés comme " obstacles rencontrés " au sens de l'alinéa 1er :
+
+1° la preuve d'une réduction de la capacité de travail;
+
+2° la preuve d'une durée d'inscription d'au moins vingt-quatre mois [<sup>1</sup> auprès du Service]<sup>1</sup>;
+
+3° l'absence d'un diplôme de l'enseignement secondaire supérieur ou, selon le cas, d'un certificat d'aptitudes professionnelles de l'apprentissage mentionné dans l'article 7 du décret du 16 décembre 1991 relatif à la formation et la formation continue dans les classes moyennes et les PME ou d'un diplôme équivalent délivré par une autre entité fédérée ou un autre Etat;
+
+4° le fait de ne pas avoir atteint le niveau B1 conformément au Cadre européen commun de références pour les langues tant en allemand qu'en français.
+
+Le Gouvernement :
+
+1° détermine ce qu'il faut entendre par " réduction de la capacité de travail " au sens du présent article;
+
+2° fixe les modalités de vérification desdits obstacles rencontrés;
+
+3° peut arrêter des conditions supplémentaires pour l'octroi de la subvention mentionnée à l'alinéa 1er.
+
+----------
+
+(1)&lt;DCG 2023-11-13/19, art. 27, 012; En vigueur : 01-01-2024&gt;
+
+##### Art. 9
+
+Par dérogation à l'article 8, le Gouvernement peut fixer une liste de mesures destinées à l'intégration socioprofessionnelle. Après la participation d'un bénéficiaire des mesures AktiF PLUS à une telle mesure, un employeur qui l'occupe sans que ledit bénéficiaire ait renouvelé l'attestation au terme de ladite mesure reçoit une subvention AktiF PLUS, à condition que :
+
+1° le bénéficiaire des mesures AktiF PLUS soit en possession de l'attestation dans les trente jours suivant le début de la mesure susmentionnée et que
+
+2° l'employeur engage le bénéficiaire des mesures AktiF PLUS dans un délai de six mois à compter de la participation à la mesure susmentionnée.
+
+Le Gouvernement fixe la durée minimale de participation à la mesure mentionnée dans l'alinéa 1er.
+
+## CHAPITRE 3. - Subventions générales
+
+### Section 1re. - Champ d'application
+
+##### Art. 10
+
+Pour l'application du présent chapitre, il faut entendre par " employeur " toute personne physique ou morale qui occupe et rémunère, sous sa responsabilité et son autorité, un bénéficiaire des mesures AktiF ou AktiF PLUS et qui reçoit une subvention dans le cadre du présent décret et de ses arrêtés d'exécution.
+
+Les dispositions du présent chapitre ne s'appliquent pas à l'employeur qui :
+
+1° occupe des travailleurs dans le cadre de contrats de travail intérimaire conformément au chapitre II de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs;
+
+2° ne relève pas du champ d'application de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+### Section 2. - Durée, montant et liquidation de la subvention
+
+##### Art. 11
+
+§ 1er. Dans la limite des crédits budgétaires disponibles à cette fin, le Gouvernement peut, dans le cadre du présent chapitre, octroyer les subventions suivantes :
+
+1° une subvention AktiF pour une durée non renouvelable de deux ans;
+
+2° une subvention AktiF PLUS pour une durée non renouvelable de trois ans.
+
+§ 2. La subvention [AktiF] mentionnée au § 1er, 1°, s'élève à [<sup>6</sup> 630 euros]<sup>6</sup> par mois. (Erratum du 16-11-20118, p. 88107)
+
+A partir du 13<sup>e</sup> mois complet qui suit celui de l'entrée en service, la subvention AktiF s'élève à [<sup>6</sup> 377 euros]<sup>6</sup> par mois.
+
+§ 3. La subvention AktiF PLUS mentionnée au § 1er, 2°, s'élève à [<sup>6</sup> 1 259 euros]<sup>6</sup> par mois.
+
+A partir du 13<sup>e</sup> mois complet qui suit celui de l'entrée en service, la subvention AktiF PLUS s'élève à [<sup>6</sup> 756 euros]<sup>6</sup> par mois.
+
+A partir du 25<sup>e</sup> mois complet qui suit celui de l'entrée en service, la subvention AktiF PLUS s'élève à [<sup>6</sup> 377 euros]<sup>6</sup> par mois.
+
+§ 4. Le Gouvernement peut fixer d'autres critères de subventionnement.
+
+----------
+
+(1)&lt;AM 2019-10-15/02, art. 1, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCG 2020-12-10/38, art. 68, 007; En vigueur : 01-01-2021&gt;
+
+(3)&lt;AM 2021-11-23/10, art. 1, 009; En vigueur : 01-01-2022&gt;
+
+(4)&lt;AM 2022-03-22/05, art. 1, 010; En vigueur : 01-01-2022&gt;
+
+(5)&lt;AM 2022-09-15/22, art. 1, 011; En vigueur : 01-01-2023&gt;
+
+(6)&lt;AM 2023-10-12/16, art. 1, 013; En vigueur : 01-01-2024&gt;
+
+##### Art. 12
+
+Si un bénéficiaire des mesures AktiF ou AktiF PLUS est, dans les trente jours suivant le début d'une mesure de formation règlementaire, en possession de l'attestation et est occupé par le même employeur au terme de celle-ci, ladite attestation ne doit pas être renouvelée pour l'octroi de la subvention mentionnée à l'article 11.
+
+##### Art. 13
+
+§ 1er. Si un bénéficiaire des mesures AktiF est occupé auprès du même employeur au terme de la mesure de formation fixée par le Gouvernement, la subvention AktiF octroyée pendant toute la durée mentionnée à l'article 11, 1°, s'élève à [<sup>6</sup> 630 euros]<sup>6</sup> par mois, pour autant que ledit bénéficiaire soit en possession de l'attestation dans les trente jours suivant le début de la mesure de formation.
+
+§ 2. Si un bénéficiaire des mesures AktiF PLUS est occupé auprès du même employeur au terme de la mesure de formation mentionnée au § 1er, la subvention AktiF PLUS s'élève à [<sup>6</sup> 1 259 euros]<sup>6</sup> par mois, pour autant que ledit bénéficiaire soit en possession de l'attestation dans les trente jours suivant le début de la mesure de formation.
+
+A partir du 25<sup>e</sup> mois complet qui suit celui de l'entrée en service, la subvention AktiF PLUS s'élève à [<sup>6</sup> 756 euros]<sup>6</sup> par mois.
+
+Par dérogation à l'alinéa 1er, le Gouvernement peut octroyer les subventions mentionnées aux alinéas 1er et 2 sans que le bénéficiaire des mesures AktiF PLUS ne soit en possession de l'attestation au début de la mesure de formation mentionnée à l'alinéa 1er, s'il la commence à la suite de celle mentionnée à l'article 9 ou au plus tard dans un délai de six mois après celle-ci.
+
+§ 3. Pour l'application des § § 1er et 2, la subvention AktiF ou AktiF PLUS ne peut être octroyée que si le bénéficiaire des mesures AktiF ou AktiF PLUS achève la mesure de formation y mentionnée.
+
+§ 4. Pour l'application du présent article, le Gouvernement peut fixer des modalités spécifiques pour les personnes qui, avant l'entrée en vigueur du présent décret, ont entamé une mesure de formation mentionnée au § 1er et remplissaient, à ces débuts, les conditions fixées dans le chapitre 2.
+
+----------
+
+(1)&lt;AM 2019-10-15/02, art. 2, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCG 2020-12-10/38, art. 69, 007; En vigueur : 01-01-2021&gt;
+
+(3)&lt;AM 2021-11-23/10, art. 2, 009; En vigueur : 01-01-2022&gt;
+
+(4)&lt;AM 2022-03-22/05, art. 2, 010; En vigueur : 01-01-2022&gt;
+
+(5)&lt;AM 2022-09-15/22, art. 2, 011; En vigueur : 01-01-2023&gt;
+
+(6)&lt;AM 2023-10-12/16, art. 2, 013; En vigueur : 01-01-2024&gt;
+
+##### Art. 13.1.
+
+[<sup>1</sup> Le Gouvernement peut fixer des cas spéciaux dans lesquels il peut être dérogé au délai de trente jours mentionné aux articles 12 et 13.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2021-04-26/06, art. 42, 008; En vigueur : 27-05-2021&gt;
+
+##### Art. 14
+
+§ 1er - A partir du mois de l'entrée en service, les subventions mentionnées à l'article 11 sont liquidées mensuellement par le Gouvernement sous forme d'avances récupérables.
+
+Pour l'application du présent chapitre est considéré comme entrée en service le jour où :
+
+1° le bénéficiaire des mesures AktiF ou AktiF PLUS est réellement engagé;
+
+2° un contrat de travail écrit conformément à la loi du 3 juillet 1978 relative aux contrats de travail est conclu;
+
+3° la déclaration correspondante est introduite conformément à l'article 4 de l'arrêté royal du 5 novembre 2002 instaurant une déclaration immédiate de l'emploi, en application de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.
+
+§ 2 - Les subventions mensuelles correspondent au résultat obtenu en multipliant la subvention correspondante par une fraction dont le dénominateur est le nombre de jours ouvrables du mois en fonction du régime de travail applicable et le numérateur, le nombre de jours de travail effectifs ou assimilés pour lesquels l'employeur a payé un traitement.
+
+Dans le cas d'une occupation à temps partiel, les subventions sont à chaque fois réduites, sur la base de la durée des prestations, au prorata d'un emploi à temps plein auprès de l'employeur concerné.
+
+Le Gouvernement peut multiplier les subventions AktiF et AktiF PLUS par un coefficient en vue de les adapter aux crédits budgétaires disponibles.
+
+§ 3 - Le Gouvernement peut déterminer d'autres modalités de liquidation et d'indexation.
+
+##### Art. 15
+
+Sans préjudice du chapitre 6, l'octroi des subventions AktiF ou AktiF PLUS prend fin si :
+
+1° la durée mentionnée à l'article 11, § 1er, s'est écoulée;
+
+2° le contrat de travail expire.
+
+##### Art. 16
+
+Les employeurs qui engagent un bénéficiaire des mesures AktiF ou AktiF PLUS qui, l'année précédant l'occupation, était occupé auprès du même employeur ou auprès d'un établissement lié à ce dernier, à l'exception de travailleurs occupés auprès du même employeur ou auprès d'un établissement lié à ce dernier dans le cadre d'une mesure en faveur de l'emploi [<sup>1</sup> ou d'une occupation dont la forme et la durée maximale sont fixées par le Gouvernement]<sup>1</sup>, ne sont pas subventionnés.
+
+Le Gouvernement peut déterminer ce qu'il faut entendre par " mesures en faveur de l'emploi ".
+
+----------
+
+(1)&lt;DCG 2019-12-12/19, art. 43, 002; En vigueur : 01-01-2020&gt;
+
+### Section 3. - Procédure de demande et de recours
+
+##### Art. 17
+
+Les employeurs peuvent demander l'octroi de subventions auprès du Gouvernement. La demande comprend au moins les informations concernant l'employeur et le bénéficiaire des mesures AktiF ou AktiF PLUS ainsi que l'attestation.
+
+[<sup>1</sup> Le traitement de la demande est suspendu si le demandeur refuse de fournir les informations mentionnées à l'article 43.11, alinéa 1er, 1°, h) à k), et 2°.]<sup>1</sup>
+
+Le Gouvernement détermine :
+
+1° les autres éléments et informations contenus dans la demande;
+
+2° la procédure d'introduction de la demande et de prise de décision.
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 61, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 18
+
+L'employeur dont la demande a été refusée peut introduire un recours auprès du Gouvernement. Ce recours doit être envoyé par recommandé dans un délai d'un mois à compter de la notification de la décision en question.
+
+Le Gouvernement peut fixer d'autres modalités de procédure de recours.
+
+## CHAPITRE 4. - Subventions spécifiques
+
+### Section 1re. - Postes liés à des projets
+
+#### Sous-section 1re. - Champ d'application
+
+##### Art. 19
+
+Pour l'application de la présente section, il faut entendre par " employeur " les institutions suivantes qui occupent et rémunèrent sous leur responsabilité et autorité un bénéficiaire des mesures AktiF ou AktiF PLUS :
+
+1° les institutions mentionnées à l'article 2, 2°, du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone;
+
+2° les associations sans but lucratif et fondations d'utilité publique mentionnées dans [<sup>1</sup> le Code des sociétés et des associations]<sup>1</sup>, qui ont leur siège en région de langue allemande, pour autant qu'elles effectuent des missions relevant des compétences de la Communauté germanophone ou de domaines y liés, à l'exception des hôpitaux.
+
+----------
+
+(1)&lt;DCG 2020-12-10/38, art. 70, 007; En vigueur : 01-01-2021&gt;
+
+#### Sous-section 2. - Durée, montant et liquidation de la subvention
+
+##### Art. 20
+
+Dans la limite des crédits budgétaires disponibles à cette fin, le Gouvernement peut, conformément aux conditions fixées par lui, octroyer une subvention AktiF ou AktiF PLUS pour une durée renouvelable de maximum cinq ans, pour autant que l'employeur occupe un bénéficiaire desdites mesures AktiF ou AktiF PLUS dans le cadre d'un poste lié à un projet.
+
+Le Gouvernement détermine ce qu'il faut entendre par " poste lié à un projet ".
+
+##### Art. 21
+
+§ 1er. Dans le cas d'un nouvel engagement, la subvention AktiF mentionnée à l'article 20 s'élève à [<sup>6</sup> 1 259 euros]<sup>6</sup> par mois.
+
+A partir du 13<sup>e</sup> mois complet qui suit celui de l'entrée en service, la subvention AktiF s'élève à [<sup>6</sup> 1 156 euros]<sup>6</sup> par mois.
+
+§ 2. Dans le cas d'un nouvel engagement, la subvention AktiF PLUS mentionnée à l'article 20 s'élève à [<sup>6</sup> 2 308 euros]<sup>6</sup> par mois.
+
+A partir du 13<sup>e</sup> mois complet qui suit celui de l'entrée en service, la subvention AktiF PLUS s'élève à [<sup>6</sup> 2 203 euros]<sup>6</sup> par mois.
+
+§ 3. Si un bénéficiaire des mesures AktiF ou AktiF PLUS est en possession de l'attestation au début d'une mesure de formation règlementaire et est occupé par le même employeur au terme de celle-ci, ladite attestation ne doit pas être renouvelée pour l'octroi de la subvention AktiF ou AktiF PLUS.
+
+§ 4. Le Gouvernement peut :
+
+1° fixer d'autres critères de subventionnement;
+
+2° déterminer ce qu'il faut entendre par " nouvel engagement ".
+
+----------
+
+(1)&lt;AM 2019-10-15/02, art. 3, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCG 2020-12-10/38, art. 71, 007; En vigueur : 01-01-2021&gt;
+
+(3)&lt;AM 2021-11-23/10, art. 3, 009; En vigueur : 01-01-2022&gt;
+
+(4)&lt;AM 2022-03-22/05, art. 3, 010; En vigueur : 01-01-2022&gt;
+
+(5)&lt;AM 2022-09-15/22, art. 3, 011; En vigueur : 01-01-2023&gt;
+
+(6)&lt;AM 2023-10-12/16, art. 3, 013; En vigueur : 01-01-2024&gt;
+
+##### Art. 22
+
+L'octroi et la liquidation des subventions AktiF et AktiF PLUS mentionnées à l'article 21 s'effectuent conformément aux modalités et aux conditions fixées dans les articles 14 et 16.
+
+#### Sous-section 3. - Procédure de demande
+
+##### Art. 23
+
+Les employeurs peuvent demander l'octroi de subventions auprès du Gouvernement. La demande contient au moins des informations concernant l'employeur, le nombre de postes demandés ainsi qu'une description du projet.
+
+[<sup>1</sup> Le traitement de la demande est suspendu si le demandeur refuse de fournir les informations mentionnées à l'article 43.11, alinéa 1er, 1°, h) à k), et 2°.]<sup>1</sup>
+
+Le Gouvernement détermine :
+
+1° les autres éléments et informations contenus dans la demande;
+
+2° la procédure d'introduction de la demande et de prise de décision;
+
+3° la procédure de recours.
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 62, 016; En vigueur : 01-01-2026&gt;
+
+### Section 2. - Emplois réglés par une convention
+
+#### Sous-section 1re. - Champ d'application
+
+##### Art. 24
+
+Pour l'application de la présente section, il faut entendre par " employeur " les autorités suivantes qui occupent et rémunèrent sous leur responsabilité et autorité un bénéficiaire des mesures AktiF ou AktiF PLUS :
+
+1° les communes de la région de langue allemande;
+
+2° les associations de communes, à l'exception de celles à finalité économique et les parcs à conteneurs dont le siège se trouve en région de langue allemande;
+
+3° les régies communales autonomes dont le siège se trouve en région de langue allemande et qui sont actives dans les domaines de la culture, du sport, du tourisme ou des loisirs, dans l'enseignement ou les affaires sociales, ou dans les secteurs économique ou de la santé;
+
+4° les CPAS, les associations de CPAS et les intercommunales de CPAS dont le siège se trouve en région de langue allemande;
+
+5° les zones pluricommunales mentionnées dans l'article 9 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux.
+
+Le Gouvernement peut étendre le champ d'application à d'autres autorités.
+
+#### Sous-section 2. - Durée, montant et liquidation de la subvention
+
+##### Art. 25
+
+Dans la limite des crédits budgétaires disponibles à cette fin, le Gouvernement peut, conformément aux conditions fixées par lui et dans le cadre d'un accord conclu avec l'employeur, accorder un budget destiné à l'occupation de bénéficiaires des mesures AktiF ou AktiF PLUS. Le Gouvernement peut octroyer des subventions AktiF ou AktiF PLUS dans les limites de ce budget. Cet accord est conclu pour une durée renouvelable de cinq ans maximum à chaque fois.
+
+Le Gouvernement fixe le budget mis à disposition des employeurs en se basant notamment sur le recours effectif de ceux-ci à des programmes de remise au travail dans le cadre de l'article 6, § 1er, IX, 2°, de la loi spéciale du 8 août 1980 de réformes institutionnelles et/ou sur les chiffres du chômage dans les communes pour un mois de référence.
+
+##### Art. 26
+
+§ 1er - Dans le cas d'un nouvel engagement, la subvention AktiF mentionnée à l'article 25, alinéa 1er, s'élève à [<sup>6</sup> 1 259 euros]<sup>6</sup> par mois.
+
+A partir du 13<sup>e</sup> mois complet qui suit celui de l'entrée en service, la subvention AktiF s'élève à [<sup>6</sup> 1 156 euros]<sup>6</sup> par mois.
+
+§ 2 - Dans le cas d'un nouvel engagement, la subvention AktiF PLUS mentionnée à l'article 25, alinéa 1er, s'élève à [<sup>6</sup> 2 308 euros]<sup>6</sup> par mois.
+
+A partir du 13<sup>e</sup> mois complet qui suit celui de l'entrée en service, la subvention AktiF PLUS s'élève à [<sup>6</sup> 2 203 euros]<sup>6</sup> par mois.
+
+§ 3 - Si un bénéficiaire des mesures AktiF ou AktiF PLUS est en possession de l'attestation au début d'une mesure de formation règlementaire et est occupé par le même employeur au terme de celle-ci, ladite attestation ne doit pas être renouvelée pour l'octroi de la subvention AktiF ou AktiF PLUS.
+
+§ 4 - Le Gouvernement peut :
+
+1° fixer d'autres critères de subventionnement;
+
+2° déterminer ce qu'il faut entendre par " nouvel engagement ".
+
+----------
+
+(1)&lt;AM 2019-10-15/02, art. 4, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCG 2020-12-10/38, art. 72, 007; En vigueur : 01-01-2021&gt;
+
+(3)&lt;AM 2021-11-23/10, art. 4, 009; En vigueur : 01-01-2022&gt;
+
+(4)&lt;AM 2022-03-22/05, art. 4, 010; En vigueur : 01-01-2022&gt;
+
+(5)&lt;AM 2022-09-15/22, art. 4, 011; En vigueur : 01-01-2023&gt;
+
+(6)&lt;AM 2023-10-12/16, art. 4, 013; En vigueur : 01-01-2024&gt;
+
+##### Art. 27
+
+Le budget mentionné à l'article 25 est liquidé mensuellement en douzièmes par le Gouvernement sous forme d'avances récupérables.
+
+L'octroi des subventions AktiF et AktiF PLUS s'effectue conformément aux conditions fixées dans l'article 16.
+
+##### Art. 28
+
+Le budget fixé par le Gouvernement est mis à disposition des communes mentionnées à l'article 24, 1°, qui peuvent le céder, en tout ou partie, à d'autres employeurs qui exercent une activité sur le territoire de la commune concernée ou pour elle. Cette cession est consignée dans la convention prévue à l'article 25.
+
+Cette cession englobe tous les droits et devoirs de la commune dans le cadre du présent décret et de ses arrêtés d'exécution.
+
+## CHAPITRE 5. - Incompatibilités
+
+##### Art. 29
+
+Dans le cadre du même contrat de travail, les subventions AktiF pour l'occupation d'un bénéficiaire des mesures AktiF ne peuvent pas être cumulées.
+
+Dans le cadre du même contrat de travail, les subventions AktiF PLUS pour l'occupation d'un bénéficiaire des mesures AktiF PLUS ne peuvent pas être cumulées.
+
+Dans le cadre du même contrat de travail, les subventions AktiF pour l'occupation d'un bénéficiaire des mesures AktiF ou AktiF PLUS ne peuvent pas être cumulées avec les subventions Aktif PLUS..
+
+##### Art. 30
+
+Si l'employeur reçoit des subventions AktiF ou AktiF PLUS en application du chapitre 3, aucun transfert vers le champ d'application du chapitre 4 n'est possible pour le même bénéficiaire des mesures AktiF ou AktiF PLUS.
+
+Si l'employeur reçoit des subventions AktiF ou AktiF PLUS en application du chapitre 4, aucun transfert vers le champ d'application du chapitre 3 n'est possible pour le même bénéficiaire des mesures AktiF ou AktiF PLUS.
+
+##### Art. 31
+
+Les subventions AktiF et AktiF PLUS ne peuvent être cumulées avec celles octroyées en application de l'article 60, § 7, de la loi du 8 juillet 1976 organique des centres publics d'action sociale.
+
+##### Art. 32
+
+Les subventions AktiF et AktiF PLUS mentionnées dans le chapitre 4 ne peuvent être cumulées avec les titres-services mentionnés dans la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité.
+
+##### Art. 32.1
+
+[<sup>1</sup> Les subventions AKTIF et AktiF PLUS mentionnées dans les chapitres 3 et 4 ne peuvent pas être octroyées dans le cadre d'un contrat de travail d'étudiant mentionné au titre VII de la loi du 3 juillet 1978 sur les contrats de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2019-12-12/19, art. 44, 002; En vigueur : 01-01-2020&gt;
+
+##### Art. 33
+
+Le Gouvernement peut fixer d'autres interdictions de cumul et exceptions.
+
+## CHAPITRE 6. [<sup>1</sup> - Rejet de la demande, mise en demeure, suspension et suppression des subventions]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2019-12-12/19, art. 45, 002; En vigueur : 01-01-2020&gt;
+
+##### Art. 34
+
+§ 1er. [<sup>1</sup> L'approbation de la demande ainsi que l'octroi des subventions sont subordonnés]<sup>1</sup> au respect des obligations et conditions fixées dans le présent décret qui sous-tendent l'octroi desdites subventions AktiF ou AktiF PLUS.
+
+Sans préjudice de l'alinéa 1er, [<sup>1</sup> l'approbation de la demande ainsi que l'octroi des subventions "sont subordonnés]<sup>1</sup> au respect des dispositions applicables à l'employeur dans les domaines de la non-discrimination, de la comptabilité et en matière de droit fiscal, social et du travail.
+
+§ 2. Les employeurs qui perçoivent indûment des subventions ne sont pas subventionnés.
+
+Un employeur est censé percevoir indûment des subventions au sens de l'alinéa 1er, lorsqu'il réalise, par l'acte juridique ou l'ensemble des actes juridiques qu'il pose, le cas échéant, en collaboration avec un membre du personnel ou un autre tiers, une opération par laquelle il ouvre le droit à un subventionnement dans le cadre d'une disposition du présent décret dont l'octroi serait en contradiction avec l'objectif de ladite disposition, et qui vise essentiellement le bénéfice de ce subventionnement.
+
+Par dérogation aux alinéas 1er et 2, une subvention est censée ne pas être perçue indûment lorsque l'employeur prouve que le choix de l'acte juridique ou de l'ensemble des actes juridiques mentionnés à l'alinéa 2 est motivé par d'autres raisons que la volonté de percevoir des subventions.
+
+§ 3 - Le Gouvernement peut :
+
+1° préciser les dispositions mentionnées dans le § 1er, alinéa 2;
+
+2° fixer d'autres obligations destinées au maintien de l'octroi des subventions.
+
+----------
+
+(1)&lt;DCG 2019-12-12/19, art. 46, 002; En vigueur : 01-01-2020&gt;
+
+##### Art. 35
+
+Si le Gouvernement constate que l'employeur ne respecte pas une ou plusieurs obligations ou conditions, il l'enjoint, conformément aux modalités fixées par lui, à présenter par écrit ses observations sur les faits constatés.
+
+Sans préjudice de l'application des dispositions pénales prévues au chapitre 7 et de l'article 104, § 3, du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone, le Gouvernement peut mettre un employeur en demeure et suspendre temporairement l'octroi de subventions et finalement le supprimer.
+
+Le Gouvernement peut :
+
+1° fixer la procédure de mise en demeure, de suspension et de suppression;
+
+2° fixer une liste de faits qui excluent l'employeur, pour une durée maximale de cinq ans, de l'application du présent décret.
+
+##### Art. 36
+
+L'employeur dont les subventions ont été suspendues ou supprimées peut introduire un recours auprès du Gouvernement. Ce recours doit être envoyé par recommandé dans un délai d'un mois à compter de la notification de la décision en question.
+
+Le Gouvernement peut fixer d'autres modalités de procédure de recours.
+
+##### Art. 37
+
+Le contrôle de l'utilisation des subventions octroyées et, le cas échéant, de leur répétition s'opère conformément aux dispositions de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes.
+
+## CHAPITRE 7.
+
+&lt;Abrogé par DCG 2023-03-27/17, art. 107, 014; En vigueur : 01-07-2023&gt;
+
+##### Art. 38
+
+&lt;Abrogé par DCG 2023-03-27/17, art. 107, 014; En vigueur : 01-07-2023&gt;
+
+##### Art. 39
+
+&lt;Abrogé par DCG 2023-03-27/17, art. 107, 014; En vigueur : 01-07-2023&gt;
+
+##### Art. 40
+
+&lt;Abrogé par DCG 2023-03-27/17, art. 107, 014; En vigueur : 01-07-2023&gt;
+
+##### Art. 41
+
+&lt;Abrogé par DCG 2023-03-27/17, art. 107, 014; En vigueur : 01-07-2023&gt;
+
+##### Art. 42
+
+&lt;Abrogé par DCG 2023-03-27/17, art. 107, 014; En vigueur : 01-07-2023&gt;
+
+## CHAPITRE 8. - Rapport
+
+##### Art. 43
+
+Au 30 juin de l'année qui suit celle de l'application, le Gouvernement rédige un rapport annuel concernant l'application du présent décret. Il transmet ce rapport au Parlement.
+
+## CHAPITRE 8.1. [<sup>1</sup> - Mesures provisoires introduisant une prime à l'embauche AktiF et AktiF PLUS visant à atténuer les répercussions de la réforme des allocations de chômage]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 63, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.1
+
+[<sup>1</sup> - Pour la période allant du 1er janvier 2026 au 31 décembre 2027, les montants applicables aux subventions AktiF et AktiF PLUS mentionnées à l'article 11 sont les suivants :
+
+1° la subvention AktiF mentionnée au § 2, alinéa 1er, s'élève à 833 euros;
+
+2° la subvention AktiF mentionnée au § 2, alinéa 2, s'élève à 500 euros;
+
+3° la subvention AktiF PLUS mentionnée au § 3, alinéa 1er, s'élève à 1 667 euros;
+
+4° la subvention AktiF PLUS mentionnée au § 3, alinéa 2, s'élève à 1 000 euros;
+
+5° la subvention AktiF PLUS mentionnée au § 3, alinéa 3, s'élève à 500 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 64, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.2
+
+[<sup>1</sup> - Pour la période allant du 1er janvier 2026 au 31 décembre 2027, les montants applicables aux subventions AktiF et AktiF PLUS mentionnées à l'article 13 sont les suivants :
+
+1° la subvention AktiF mentionnée au § 1er s'élève à 833 euros;
+
+2° la subvention AktiF PLUS mentionnée au § 2, alinéa 1er, s'élève à 1 667 euros;
+
+3° la subvention AktiF PLUS mentionnée au § 2, alinéa 2, s'élève à 1 000 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 65, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.3
+
+[<sup>1</sup> - Pour la période allant du 1er janvier 2026 au 31 décembre 2027, les montants applicables aux subventions AktiF et AktiF PLUS mentionnées à l'article 21 sont les suivants :
+
+1° la subvention AktiF mentionnée au § 1er, alinéa 1er, s'élève à 2 092 euros;
+
+2° la subvention AktiF mentionnée au § 1er, alinéa 2, s'élève à 1 989 euros;
+
+3° la subvention AktiF PLUS mentionnée au § 2, alinéa 1er, s'élève à 2 933 euros;
+
+4° la subvention AktiF PLUS mentionnée au § 2, alinéa 2, s'élève à 2 828 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 66, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.4
+
+[<sup>1</sup> - Pour la période allant du 1er janvier 2026 au 31 décembre 2027, les montants applicables aux subventions AktiF et AktiF PLUS mentionnées à l'article 26 sont les suivants :
+
+1° la subvention AktiF mentionnée au § 1er, alinéa 1er, s'élève à 2 092 euros;
+
+2° la subvention AktiF mentionnée au § 1er, alinéa 2, s'élève à 1 989 euros;
+
+3° la subvention AktiF PLUS mentionnée au § 2, alinéa 1er, s'élève à 2 933 euros;
+
+4° la subvention AktiF PLUS mentionnée au § 2, alinéa 2, s'élève à 2 828 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 67, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.5
+
+[<sup>1</sup> - Les montants mentionnés aux articles 43.1 à 43.4 s'appliquent uniquement aux subventions des bénéficiaires des mesures AktiF et AktiF PLUS dont l'entrée en service intervient dans la période mentionnée dans les articles précités. Ils ne s'appliquent pas aux bénéficiaires des mesures AktiF et AktiF PLUS dont l'entrée en service intervient avant la période y mentionnée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 68, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.6
+
+&lt;Abrogé par DCG 2025-12-22/16, art. 69, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.7
+
+&lt;Abrogé par DCG 2025-12-22/16, art. 69, 016; En vigueur : 01-01-2026&gt;
+
+## Chapitre 8.2 [<sup>1</sup> - Confidentialité et protection des données]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 7, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.8
+
+[<sup>1</sup> - Sans préjudice de dispositions légales ou décrétales contraires, le Gouvernement, le Service ainsi que toutes les autres personnes parties prenantes à l'exécution du présent décret et de ses dispositions d'exécution sont tenus de traiter confidentiellement les données qui leur sont confiées dans l'exercice de leur mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 71, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.9.
+
+[<sup>1</sup> - § 1er - Le Gouvernement est responsable du traitement des données mentionnées à l'article 43.11, alinéa 1er, et ce, pour la réalisation des finalités mentionnées à l'article 43.12, § 1er.
+
+Il est réputé responsable du traitement de ces données au sens de l'article 4, 7), du règlement général sur la protection des données.
+
+Il ne peut utiliser les données collectées à d'autres fins que celles de l'exercice desdites missions.
+
+§ 2 - Le Service est responsable du traitement des données mentionnées à l'article 43.11, alinéa 2, et ce, pour la réalisation des finalités mentionnées à l'article 43.12, § 2.
+
+Il est réputé responsable du traitement de ces données au sens de l'article 4, 7), du règlement général sur la protection des données.
+
+Il ne peut utiliser les données collectées à d'autres fins que celles de l'exercice desdites missions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 72, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.10.
+
+[<sup>1</sup> - Le traitement de données relatives à la santé des personnes concernées s'opère sous la responsabilité d'un professionnel des soins de santé occupé auprès du Service ou d'un autre professionnel soumis au secret professionnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 73, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.11.
+
+[<sup>1</sup> - Le Gouvernement peut, conformément à l'article 43.9, traiter les données des catégories de données à caractère personnel suivantes :
+
+1° en ce qui concerne les bénéficiaires AktiF ou AktiF PLUS :
+
+a) les nom et prénom;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale et le numéro de registre national;
+
+c) le domicile;
+
+d) les données relatives à la situation socioprofessionnelle;
+
+e) les données relatives aux expériences professionnelles antérieures;
+
+f) les données pertinentes relatives à la santé physique et psychique pour déterminer la capacité de travail réduite mentionnée à l'article 8, alinéa 2, 1°, et pour déterminer la durée de l'inscription auprès du Service mentionnée à l'article 3, alinéa 1er, 4° ;
+
+g) les données relatives aux peines de détention ou d'emprisonnement au cours des deux dernières années, à l'aide d'une attestation de détention, pour déterminer la durée de l'inscription auprès du Service mentionnée à l'article 3, alinéa 1er, 4° ;
+
+h) les données relatives aux qualifications, compétences et expériences professionnelles;
+
+i) les pièces justificatives de salaire introduites par l'employeur pendant la durée de perception de la subvention AktiF ou AktiF PLUS;
+
+j) le contrat de travail signé entre le bénéficiaire AktiF ou AktiF PLUS et l'employeur;
+
+k) l'attestation définie à l'article 3, alinéa 1er, 9° ;
+
+2° en ce qui concerne les employeurs :
+
+a) les nom et prénom ou la dénomination;
+
+b) le numéro d'entreprise;
+
+c) le numéro de compte;
+
+d) les données relatives aux dettes fiscales et sociales.
+
+En ce qui concerne les demandeurs d'une attestation, le Service peut, conformément à l'article 43.9, traiter les données des catégories de données à caractère personnel suivantes :
+
+a) les nom et prénom;
+
+b) le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale et le numéro de registre national;
+
+c) le domicile, l'adresse électronique, le numéro de téléphone;
+
+d) les données relatives à la situation socioprofessionnelle;
+
+e) les données relatives aux expériences professionnelles antérieures;
+
+f) les données pertinentes relatives à la santé physique et psychique pour déterminer la capacité de travail réduite mentionnée à l'article 8, alinéa 2, 1°, et pour déterminer la durée de l'inscription auprès du Service mentionnée à l'article 3, alinéa 1er, 4° ;
+
+g) les données relatives aux peines de détention ou d'emprisonnement au cours des deux dernières années, à l'aide d'une attestation de détention, pour déterminer la durée de l'inscription auprès du Service mentionnée à l'article 3, alinéa 1er, 4° ;
+
+h) les données relatives aux qualifications, compétences et expériences professionnelles.
+
+Le Gouvernement peut préciser les catégories de données mentionnées aux alinéas 1er et 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 74, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.12.
+
+[<sup>1</sup> - § 1er - Le Gouvernement collecte et traite les catégories de données mentionnées à l'article 43.11, alinéa 1er, pour les finalités suivantes :
+
+1° pour octroyer la subvention définie aux chapitres 3, 4 et 8.1 sur la base des catégories de données mentionnées à l'article 43.11, alinéa 1er, 1°, h) à k), et 2° ;
+
+2° pour effectuer les opérations décrites dans le chapitre 6, sur la base des catégories de données mentionnées à l'article 43.11, alinéa 1er;
+
+3° pour établir le rapport prévu au chapitre 8, sur la base des catégories de données mentionnées à l'article 43.11, alinéa 1er.
+
+§ 2 - Le Service collecte et traite les catégories de données mentionnées à l'article 43.11, alinéa 2, pour les finalités suivantes :
+
+1° pour vérifier les conditions de subventionnement mentionnées au chapitre 2;
+
+2° pour établir l'attestation définie à l'article 3, alinéa 1er, 9° ;
+
+3° pour établir le rapport prévu au chapitre 8.
+
+§ 3 - Le Gouvernement et le Service peuvent échanger les données mentionnées à l'article 43.11 aux fins prévues aux §§ 1er et 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 75, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.13.
+
+[<sup>1</sup> - Sans préjudice d'autres dispositions légales, décrétales ou règlementaires qui, le cas échéant, prévoient un délai de conservation plus long, les données mentionnées à l'article 43.11 sont conservées pendant dix ans au maximum après la fin de l'octroi des subventions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 76, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.14.
+
+[<sup>1</sup> - Sauf dispositions contraires dans le présent décret, le Gouvernement et le Service recourent, en principe, de préférence à des données anonymes pour établir des analyses et statistiques en ce qui concerne l'exercice de leurs missions.
+
+Si les données anonymes mentionnées à l'alinéa 1er ne permettent pas d'établir des analyses et statistiques détaillées, le recours à des données pseudonymisées est autorisé.
+
+Pour l'application de l'alinéa 2, le Service mentionne dans la déclaration de traitement les raisons pour lesquelles le traitement de données anonymes ne permet pas d'établir les analyses et statistiques mentionnées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 77, 016; En vigueur : 01-01-2026&gt;
+
+##### Art. 43.15.
+
+[<sup>1</sup> - Lors du traitement des données mentionnées à l'article 43.11, le Gouvernement et le Service veillent, conformément à l'article 5, paragraphe 1er, f), du règlement général sur la protection des données, à ce que des mesures de sécurité appropriées soient appliquées.
+
+Dans la mesure où les données sont rendues anonymes ou pseudonymisées, la technique correspondante s'aligne sur les recommandations de l'Agence de l'Union européenne pour la cybersécurité.
+
+Le Gouvernement peut :
+
+1° préciser les mesures de sécurité à appliquer dans le cadre de l'utilisation des données à caractère personnel mentionnées;
+
+2° prendre d'autres mesures d'ordre technique et organisationnel appropriées au sens de l'article 32 du règlement général sur la protection des données afin de garantir un niveau de sécurité adapté aux risques encourus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 78, 016; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE 9. - Dispositions finales
+
+##### Art. 44
+
+A l'article 1er de l'arrêté royal n° 474 du 28 octobre 1986 portant création d'un régime de contractuels subventionnés par l'Etat auprès de certains pouvoirs locaux, modifié par le décret du 27 avril 2009, l'alinéa 1er est remplacé par ce qui suit :
+
+" Pour l'application du présent arrêté est considérée comme autorité locale une commune ou association de communes occupant un travailleur contractuel subventionné pour l'exploitation d'un parc à conteneurs, à savoir un site clôturé dûment autorisé et surveillé où est opéré l'accueil sélectif des déchets et où ceux-ci sont triés et répartis dans des conteneurs selon leur nature, puis écoulés vers des centres qui procèdent soit à leur valorisation s'ils sont récupérables, soit à leur élimination s'ils ne le sont pas. "
+
+##### Art. 45
+
+L'article 5 du même arrêté royal est remplacé par ce qui suit :
+
+" § 1er - Les demandeurs d'emploi inoccupés suivants, inscrits en tant que demandeurs d'emploi, peuvent occuper un emploi en tant que travailleur contractuel subventionné :
+
+1° les chômeurs complets indemnisés et inoccupés, conformément à l'arrêté royal du 25 novembre 1991 portant réglementation du chômage;
+
+2° les bénéficiaires, inoccupés, d'une allocation de remplacement de revenus ou d'une allocation d'intégration en vertu de la loi du 27 février 1987 relative aux allocations aux handicapés;
+
+3° les chômeurs énumérés à l'article 89 de l'arrêté royal susmentionné;
+
+4° les chômeurs complets indemnisés qui suivent une formation professionnelle organisée ou agréée par l'Office de l'Emploi de la Communauté germanophone, par l'Institut pour la formation et la formation continue dans les Classes moyennes et les PME ou par l'Office pour une vie autodéterminée;
+
+5° les bénéficiaires, inoccupés, du revenu d'intégration prévu dans la loi du 26 mai 2002 concernant le droit à l'intégration sociale;
+
+6° les bénéficiaires, inoccupés, de l'aide sociale qui, en raison de leur nationalité, n'ont pas droit au revenu d'intégration sociale prévu dans la loi du 26 mai 2002 concernant le droit à l'intégration sociale et qui sont inscrits au registre des étrangers, dans la mesure où ils sont dispensés de la demande d'un permis de travail conformément à l'article 2 de l'arrêté royal du 9 juin 1999 portant exécution de la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers ou sont en possession d'un permis de travail;
+
+7° les demandeurs d'asile en possession d'un permis de travail C valable, conformément à l'article 17, 1°, de l'arrêté royal du 9 juin 1999 susmentionné;
+
+8° les demandeurs d'emploi inoccupés domiciliés en région de langue allemande.
+
+§ 2 - Les personnes engagées en tant que travailleurs contractuels subventionnés ne peuvent, la veille de l'exécution du contrat, être porteuses d'un diplôme supérieur au certificat de l'enseignement secondaire supérieur.
+
+§ 3 - La situation des personnes visées au premier alinéa est appréciée le jour qui précède l'exécution du contrat.
+
+§ 4 - Le Gouvernement peut limiter ou étendre le champ d'application du présent article. "
+
+##### Art. 46
+
+Dans la loi-programme du 30 décembre 1988 sont abrogés :
+
+1° le titre III, chapitre II, comportant les articles 93 à 101, modifié en dernier lieu par la loi du 24 avril 2014;
+
+2° le titre III, chapitre IIter, comportant l'article 101quater, inséré par le décret du 25 juin 2007.
+
+##### Art. 47
+
+A l'article 1er, alinéa 1er, du décret de la Région wallonne du 5 février 1998 relatif à la surveillance et au contrôle des législations relatives à la politique de l'emploi, modifié en dernier lieu par le décret du 25 avril 2016, les modifications suivantes sont apportées :
+
+1° le 13° est abrogé;
+
+2° l'article est complété par un 26° rédigé comme suit :
+
+" 26° le décret du 28 mai 2018 relatif aux mesures AktiF et AktiF PLUS destinées à promouvoir l'emploi ainsi que ses arrêtés d'exécution ".
+
+##### Art. 48
+
+A l'article 339 de la loi-programme (I) du 24 décembre 2002, modifié en dernier lieu par le décret-programme du 26 février 2018, les modifications sont apportées :
+
+1° dans l'alinéa 1er, 2°, le nombre " 54 " est remplacé par le nombre " 55 ";
+
+2° un alinéa rédigé comme suit est inséré entre les alinéas 2 et 3, qui devient l'alinéa 4 :
+
+" La réduction groupe-cible prend fin le premier jour du trimestre qui suit celui au cours duquel les travailleurs atteignent l'âge légal de la retraite. "
+
+##### Art. 49
+
+Dans la même loi-programme sont abrogés :
+
+1° les articles 340 et 341;
+
+2° le titre IV, chapitre 7, section 3, sous-section 5, comportant les articles 346 et 347, modifié en dernier lieu par la loi du 27 décembre 2012;
+
+3° le titre IV, chapitre 7, section 3, sous-section 7, comportant l'article 353bis, inséré par la loi du 22 décembre 2003 et modifié par les lois des 19 juin 2009 et 4 juillet 2011.
+
+##### Art. 50
+
+L'article 10 du décret de crise du 19 avril 2010 est abrogé.
+
+##### Art. 51
+
+Dans l'arrêté royal du 16 mai 2003 pris en exécution du Chapitre 7 du Titre IV de la loi-programme du 24 décembre 2002 (I), visant à harmoniser et à simplifier les régimes de réductions de cotisations de sécurité sociale, sont abrogés :
+
+1° l'article 7;
+
+2° l'article 8, modifié par les arrêtés royaux des 21 janvier 2004 et 28 mars 2007;
+
+3° l'article 9, modifié par les arrêtés royaux des 21 janvier 2004, 17 juillet 2013 et 26 janvier 2014;
+
+4° l'article 10, modifié par les arrêtés royaux des 21 janvier 2004 et 28 mars 2007;
+
+5° l'article 11, modifié par les arrêtés royaux des 21 janvier 2004 et 28 mars 2007;
+
+6° l'article 13;
+
+7° l'article 14bis, alinéa 1er, inséré par l'arrêté royal du 21 janvier 2004 et modifié par l'arrêté royal du 28 mars 2007;
+
+8° le titre III, chapitre V, comportant les articles 17 à 20, modifié en dernier lieu par l'arrêté royal du 24 janvier 2013;
+
+9° le titre III, chapitre VII, comportant les articles 28/1 à 28/1ter, modifié en dernier lieu par l'arrêté royal du 18 août 2011.
+
+##### Art. 52
+
+Sont abrogés :
+
+1° l'arrêté du Gouvernement wallon du 11 mai 1995 relatif à l'engagement d'agents contractuels subventionnés auprès de certains pouvoirs publics et employeurs y assimilés, modifié en dernier lieu par l'arrêté du Gouvernement du 28 septembre 2017;
+
+2° l'arrêté royal du 19 décembre 2001 de promotion de mise à l'emploi des demandeurs d'emploi de longue durée, modifié en dernier lieu par l'arrêté royal du 28 septembre 2017;
+
+3° l'arrêté du Gouvernement de la Communauté germanophone du 20 décembre 2001 portant octroi de subventions aux pouvoirs locaux occupant des travailleurs contractuels subventionnés, modifié en dernier lieu par l'arrêté du Gouvernement du 28 septembre 2017;
+
+4° l'arrêté royal du 11 juillet 2002 déterminant l'intervention financière du centre public d'aide sociale dans le coût salarial d'un ayant droit à l'intégration sociale qui est engagé dans le cadre du plan Activa, modifié en dernier lieu par l'arrêté du Gouvernement du 28 septembre 2017;
+
+5° l'arrêté royal du 14 novembre 2002 déterminant l'intervention financière du centre public d'aide sociale dans le coût salarial d'un ayant droit à une aide sociale financière qui est engagé dans le cadre du plan Activa, modifié en dernier lieu par l'arrêté du Gouvernement du 28 septembre 2017;
+
+6° l'arrêté royal du 29 mars 2006 d'exécution de l'article 7, § 1er, alinéa 3, m), de l'arrêté-loi du 28 décembre 1944 relatif à la sécurité sociale des travailleurs pour la promotion de mise à l'emploi des jeunes moins qualifiés ou très peu qualifiés, modifié par les arrêtés royaux des 20 juillet 2006 et 2 mai 2007;
+
+7° l'arrêté du Gouvernement du 29 avril 2010 instaurant un programme visant la mise au travail de travailleurs âgés dans le secteur marchand privé, modifié en dernier lieu par l'arrêté du Gouvernement du 28 septembre 2017.
+
+##### Art. 53
+
+Le Gouvernement peut fixer des règles qui limitent ou abrogent, en tout ou partie, les dispositions relatives à l'activation de l'allocation de travail et aux réductions de cotisations de sécurité sociale, fixées dans les textes suivants :
+
+1° l'arrêté royal du 25 novembre 1991 portant réglementation du chômage;
+
+2° l'arrêté royal du 3 mai 1999 portant exécution de l'article 7, § 1er, alinéa 3, m), de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs relatif à la réinsertion de chômeurs très difficiles à placer;
+
+3° l'arrêté royal du 11 juillet 2002 déterminant l'intervention financière du centre public d'aide sociale dans le coût salarial d'un ayant droit à l'intégration sociale mis au travail dans une initiative d'insertion sociale;
+
+4° l'arrêté royal du 14 novembre 2002 déterminant l'intervention financière du centre public d'aide sociale dans le coût salarial d'un ayant droit à une aide sociale financière mis au travail dans une initiative d'insertion sociale;
+
+5° l'arrêté royal du 16 mai 2003 pris en exécution du Chapitre 7 du Titre IV de la loi-programme du 24 décembre 2002 (I), visant à harmoniser et à simplifier les régimes de réductions de cotisations de sécurité sociale.
+
+##### Art. 54
+
+Pour les travailleurs entrés en service avant l'entrée en vigueur du présent décret, les réductions pour groupe cible continuent à être octroyées aux employeurs telles qu'elles sont fixées dans les articles 340 à 341, 346, 347 et 353bis de la loi-programme (I) du 24 décembre 2002 ou dans leurs dispositions exécutoires, dans leur version en vigueur au 31 décembre 2018.
+
+##### Art. 55
+
+[<sup>6</sup> Les employeurs]<sup>6</sup> qui occupent des travailleurs dans le cadre de l'arrêté du Gouvernement de la Région wallonne du 11 mai 1995 relatif à l'engagement d'agents contractuels subventionnés auprès de certains pouvoirs publics et employeurs y assimilés, entrés en service avant l'entrée en vigueur du présent décret, sont soumis, pour ces travailleurs, à l'application du présent décret, à l'exception du montant des primes payables annuellement, [<sup>1</sup> fixé à l'alinéa 2]<sup>1</sup>. Le nombre de postes, exprimé en équivalents temps plein, octroyés aux employeurs en application de l'arrêté susmentionné continuent à l'être pendant six mois après le terme du contrat de travail conclu avec les travailleurs susmentionnés, pour autant qu'un nouvel engagement ait lieu pendant cette période en application du chapitre 4, section 1re, du présent décret.
+
+[<sup>1</sup> Le montant des primes payables annuellement aux employeurs occupant les travailleurs mentionnés au premier alinéa s'élève à :
+
+1° [<sup>5</sup> 19 522 euros]<sup>5</sup> pour les travailleurs pour lesquels les employeurs obtenaient, au 31 décembre 2018, une prime de la catégorie de subventionnement B1 au sens de l'article 5, § 1er, de l'arrêté du Gouvernement de la Région wallonne du 11 mai 1995 relatif à l'engagement de travailleurs contractuels subventionnés auprès de certains pouvoirs publics et employeurs y assimilés;
+
+2° [<sup>5</sup> 27 343 euros]<sup>5</sup> pour les travailleurs pour lesquels les employeurs obtenaient, au 31 décembre 2018, une prime de la catégorie de subventionnement B2 au sens de l'article 5, § 2, du même arrêté;
+
+3° [<sup>5</sup> 34 514 euros]<sup>5</sup> pour les travailleurs pour lesquels les employeurs obtenaient, au 31 décembre 2018, une prime de la catégorie de subventionnement B3 au sens de l'article 5, § 3, alinéas 1er et 3, du même arrêté.
+
+Sans préjudice de l'application du premier alinéa, l'indexation de la prime fixée conformément à l'alinéa 2 est soumise à l'application de l'article 14, § 3. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2020-12-10/38, art. 73, 007; En vigueur : 01-01-2021&gt;
+
+(2)&lt;AM 2021-11-23/10, art. 5, 009; En vigueur : 01-01-2022&gt;
+
+(3)&lt;AM 2022-03-22/05, art. 5, 010; En vigueur : 01-01-2022&gt;
+
+(4)&lt;AM 2022-09-15/22, art. 5, 011; En vigueur : 01-01-2023&gt;
+
+(5)&lt;AM 2023-10-12/16, art. 5, 013; En vigueur : 01-01-2024&gt;
+
+(6)&lt;DCG 2025-02-24/04, art. 168, 015; En vigueur : 01-09-2025&gt;
+
+##### Art. 56
+
+&lt;Abrogé par DCG 2025-02-24/04, art. 169, 015; En vigueur : 01-09-2025&gt;
+
+##### Art. 57
+
+Les employeurs qui occupent des travailleurs dans le cadre de l'arrêté du Gouvernement du 20 décembre 2001 portant octroi de subventions aux pouvoirs locaux occupant des travailleurs contractuels subventionnés, entrés en service avant l'entrée en vigueur du présent décret, sont soumis, pour ces travailleurs, à l'application du présent décret, à l'exception du montant des primes [<sup>1</sup> fixé à l'alinéa 2]<sup>1</sup>.
+
+[<sup>1</sup> Le montant des subventions aux employeurs occupant les travailleurs mentionnés au premier alinéa s'élève à :
+
+1° [<sup>5</sup> 16 235 euros]<sup>5</sup> pour les travailleurs pour lesquels les employeurs obtenaient, au 31 décembre 2018, une subvention au sens de l'article 5 de l'arrêté du Gouvernement du 20 décembre 2001 portant octroi de subventions aux pouvoirs locaux occupant des travailleurs contractuels subventionnés;
+
+2° [<sup>5</sup> 23 043 euros]<sup>5</sup> pour les travailleurs pour lesquels les employeurs obtenaient, au 31 décembre 2018, une subvention au sens de l'article 6 du même arrêté du Gouvernement;
+
+3° [<sup>5</sup> 29 850 euros]<sup>5</sup> euros pour les travailleurs pour lesquels les employeurs obtenaient, au 31 décembre 2018, une subvention au sens de l'article 7 du même arrêté du Gouvernement.
+
+Sans préjudice de l'application du premier alinéa, l'indexation de la subvention fixée conformément à l'alinéa 2 est soumise à l'application de l'article 14, § 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2020-12-10/38, art. 74, 007; En vigueur : 01-01-2021&gt;
+
+(2)&lt;AM 2021-11-23/10, art. 6, 009; En vigueur : 01-01-2022&gt;
+
+(3)&lt;AM 2022-03-22/05, art. 6, 010; En vigueur : 01-01-2022&gt;
+
+(4)&lt;AM 2022-09-15/22, art. 6, 011; En vigueur : 01-01-2023&gt;
+
+(5)&lt;AM 2023-10-12/16, art. 6, 013; En vigueur : 01-01-2024&gt;
+
+##### Art. 58
+
+Les employeurs qui, en application de la loi du 24 décembre 1999 en vue de la promotion de l'emploi et de l'arrêté royal du 30 mars 2000 d'exécution des articles 26, 27, alinéa 1er, 2°, 30, 39, § 1er et § 4, alinéa 2, 40, alinéa 2, 40bis, alinéa 2, 41, 43, alinéa 2, et 47, § 1er, alinéa 5, de la loi du 24 décembre 1999 en vue de la promotion de l'emploi - et dans le cadre d'une convention de premier emploi du projet global " Assistance dans le cadre de projets d'économie sociale " - occupent des travailleurs, entrés en service avant l'entrée en vigueur du présent décret, continuent à recevoir l'intervention dans les coûts salariaux prévue par ladite convention jusqu'au terme du contrat de travail conclu avec ces travailleurs ou jusqu'à ce que les conditions prévues dans ladite convention ne soient plus remplies. Le nombre de postes, exprimé en équivalents temps plein, octroyé aux employeurs dans le cadre de la convention susmentionnée continue à l'être pendant six mois après le terme du contrat de travail conclu avec les travailleurs susmentionnés, pour autant qu'un nouvel engagement ait lieu pendant cette période en application du chapitre 4, section 1re, du présent décret.
+
+##### Art. 59
+
+Les travailleurs entrés en service avant l'entrée en vigueur du présent décret continuent à recevoir l'allocation de travail conformément aux conditions mentionnées dans l'arrêté royal du 19 décembre 2001 de promotion de mise à l'emploi des demandeurs d'emploi de longue durée et dans l'arrêté royal du 29 mars 2006 d'exécution de l'article 7, § 1er, alinéa 3, m), de l'arrêté-loi du 28 décembre 1944 relatif à la sécurité sociale des travailleurs pour la promotion de mise à l'emploi des jeunes moins qualifiés ou très peu qualifiés, dans leur version en vigueur au 31 décembre 2018.
+
+Le Gouvernement fixe les autres modalités transitoires.
+
+##### Art. 60
+
+Pour les travailleurs entrés en service avant l'entrée en vigueur du présent décret, les employeurs continuent à recevoir l'intervention financière du CPAS conformément aux conditions mentionnées dans l'arrêté royal du 11 juillet 2002 déterminant l'intervention financière du centre public d'aide sociale dans le coût salarial d'un ayant droit à l'intégration sociale qui est engagé dans le cadre du plan Activa et dans l'arrêté royal du 14 novembre 2002 déterminant l'intervention financière du centre public d'aide sociale dans le coût salarial d'un ayant droit à une aide sociale financière qui est engagé dans le cadre du plan Activa, dans leur version en vigueur au 31 décembre 2018.
+
+##### Art. 61
+
+Les employeurs qui occupent des travailleurs, entrés en service avant l'entrée en vigueur du présent décret, dans le cadre d'un accord bilatéral concernant l'emploi des jeunes dans le secteur non-marchand, en application de l'article 7 du décret du 14 décembre 2017 contenant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2018, continuent à recevoir l'intervention dans les coûts salariaux prévue dans ledit accord jusqu'au terme du contrat de travail conclu avec ces travailleurs ou jusqu'à ce que les conditions prévues dans l'accord ne soient plus remplies. Le nombre de postes, exprimé en équivalents temps plein, octroyé aux employeurs dans le cadre de l'accord susmentionné continue à l'être pendant six mois après le terme du contrat de travail conclu avec les travailleurs susmentionnés, pour autant qu'un nouvel engagement ait lieu pendant cette période en application du chapitre 4, section 1re, du présent décret.
+
+##### Art. 62
+
+Le travailleur susceptible, au 31 décembre 2018, d'ouvrir le droit à une réduction de cotisations de sécurité sociale en application de l'article 339 de la loi-programme (I) du 24 décembre 2002 continue à bénéficier de cette réduction à concurrence du montant forfaitaire s'élevant à G3 mentionné à l'article 336 de ladite loi, et ce, jusqu'au dernier jour du trimestre précédant celui au cours duquel il atteint l'âge de 55 ans.
+
+##### Art. 63
+
+Dans l'hypothèse où un travailleur bénéficie, dans une autre région, d'une activation de l'allocation de travail en application de dispositions abrogées par ou en vertu du présent décret après son entrée en service et qu'il est domicilié en région de langue allemande, il continue à bénéficier de ladite activation conformément aux conditions prévues dans ces dispositions, dans leur version en vigueur au 31 décembre 2018.
+
+Dans l'hypothèse où un travailleur bénéficie, dans une autre région, d'une réduction de cotisations de sécurité sociale en application de dispositions abrogées par ou en vertu du présent décret après son entrée en service et qu'il est transféré vers une unité d'établissement située en région de langue allemande ou, si son employeur ne dispose pas d'unité d'établissement en Belgique, est principalement occupé sur le territoire de la région de langue allemande, il continue à bénéficier de ladite réduction de cotisations de sécurité sociale conformément aux conditions prévues dans ces dispositions, dans leur version en vigueur au 31 décembre 2018.
+
+Les alinéas 1er et 2 ne s'appliquent pas lorsque l'entrée en service du travailleur, respectivement à l'origine de l'activation de l'allocation de travail ou des réductions de cotisations de sécurité sociale, a eu lieu après l'abrogation des dispositions fédérales y visées par la Région dans laquelle étaient situées respectivement sa résidence principale ou l'unité d'établissement au sein de laquelle il est occupé.
+
+##### Art. 64
+
+Les subventions, réductions et aides octroyées dans le cadre de ce chapitre ne peuvent être cumulées avec les subventions AktiF et AktiF PLUS.
+
+##### Art. 65
+
+Le présent décret entre en vigueur le 1er janvier 2019, à l'exception des articles 47, 1°, 50 et 52, 7°, qui entrent en vigueur le 1er avril 2020.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 28 mai 2018.
+
+O. PAASCH
+
+Le Ministre-Président,
+
+I. WEYKMANS
+
+La Vice-Ministre-Présidente, Ministre de la Culture, de l'Emploi et du Tourisme,
+
+A. ANTONIADIS
+
+Le Ministre de la Famille, de la Santé et des Affaires sociales,
+
+H. MOLLERS
+
+Le Ministre de l'Education et de la Recherche scientifique,

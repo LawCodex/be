@@ -1,0 +1,437 @@
+---
+title: "Décret instituant un dialogue citoyen permanent en Communauté germanophone"
+identifier: "2019201683"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/25/2019201683/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2019-02-25
+published: 2019-04-12
+entry_into_force: 2019-02-25
+last_amended: 2024-11-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/25/2019201683/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 12-04-2019 et mise à jour au 28-11-2024"
+retrieved: 2026-10-12
+---
+
+# 25 FEVRIER 2019. - Décret instituant un dialogue citoyen permanent en Communauté germanophone
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - DISPOSITIONS GENERALES
+
+### Art. 1er
+
+Définitions
+
+[<sup>2</sup> Compte tenu des conditions-cadres fixées dans le présent décret, le Parlement organise un dialogue citoyen permanent en Communauté germanophone.]<sup>2</sup>
+
+Au sens du présent décret, il faut entendre par :
+
+1°[<sup>2</sup> règlement intérieur : le règlement intérieur du Parlement de la Communauté germanophone de Belgique]<sup>2</sup>;
+
+2° greffier : l'agent parlementaire décrit à l'article 58 du règlement intérieur [<sup>2</sup> ...]<sup>2</sup>;
+
+3° [<sup>2</sup> personne chargée de la médiation : la personne en charge de la fonction décrite dans le décret du 26 mai 2009 instituant la fonction de personne chargée de la médiation en Communauté germanophone]<sup>2</sup>;]<sup>1</sup>
+
+4° assemblée citoyenne : l'assemblée décrite à l'article 3;
+
+5° conseil citoyen : le conseil décrit à l'article 4;
+
+6° secrétaire permanent : le mandataire décrit à l'article 5;
+
+[<sup>2</sup> 7° Registre national : les services du Registre national des personnes physiques; ]<sup>2</sup>
+
+[<sup>2</sup> 8° règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2022-02-21/10, art. 72, 002; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCG 2024-04-22/22, art. 1, 003; En vigueur : 01-07-2024&gt;
+
+### Art. 2
+
+Qualifications
+
+Dans le présent décret, les qualifications s'appliquent à tous les sexes.
+
+## CHAPITRE 2. - ACTEURS DU DIALOGUE CITOYEN
+
+### Art. 3
+
+Assemblée citoyenne
+
+§ 1er - Des assemblées citoyennes sont convoquées ponctuellement en vue d'élaborer des recommandations sur un sujet particulier. [<sup>1</sup> Par législature du Parlement, ce sont au maximum cinq assemblées citoyennes qui sont convoquées]<sup>1</sup>. Aucune assemblée citoyenne ne peut être convoquée durant les six mois précédant les élections du Parlement de la Communauté germanophone.
+
+§ 2 - [<sup>1</sup> Les assemblées citoyennes se composent de vingt-cinq à cinquante citoyens tirés au sort dans le respect des alinéas suivants ainsi que des conditions énoncées aux § § 3 et 4.
+
+Dans le cadre d'un premier tirage au sort, le secrétaire permanent charge le Registre national de sélectionner un nombre de citoyens qu'il aura indiqué, lesquels remplissent les conditions suivantes :
+
+1° être inscrit dans les registres de la population ou dans le registre des étrangers d'une commune de la région de langue allemande;
+
+2° être âgé de seize ans accomplis;
+
+3° ne pas faire l'objet d'une condamnation ou d'une décision emportant dans leur chef l'exclusion des droits électoraux ou leur suspension.
+
+Les conditions énoncées à l'alinéa 2 doivent être remplies le jour du premier tirage au sort. Le Registre national vérifie leur respect dans le cadre de ce tirage au sort.
+
+Avec, pour objectif,
+
+\- de contacter les citoyens tirés au sort conformément à l'alinéa 2,
+
+\- de vérifier les indications des citoyens visées au § 3, alinéa 1er, et
+
+\- de vérifier le respect des conditions énoncées à l'alinéa 2 et au § 4 dans le cadre du second tirage au sort, de la mise en place de l'assemblée citoyenne et jusqu'au terme de l'assemblée citoyenne,
+
+le Registre national transmet au secrétaire permanent la liste des citoyens tirés au sort en mentionnant les informations indiquées à l'article 1er, alinéa 1er, 1° à 4°, 14° et 26°, de l'arrêté royal du 16 juillet 1992 déterminant les informations mentionnées dans les registres de la population et dans le registre des étrangers.
+
+Les citoyens tirés au sort par le Registre national conformément à l'alinéa 2 sont invités par le secrétaire permanent à participer à l'assemblée citoyenne. L'invitation comporte notamment toutes les informations qui sont imposées en vertu de l'article 13 du règlement général sur la protection des données]<sup>1</sup>.
+
+§ 3 - [<sup>1</sup> La participation à une assemblée citoyenne est volontaire. Les citoyens qui souhaitent participer à une assemblée citoyenne communiquent cette information par voie écrite ou électronique en indiquant les informations suivantes :
+
+1° noms et prénoms;
+
+2° sexe;
+
+3° âge;
+
+4° résidence principale;
+
+5° degré de formation;
+
+6° exercice de l'un des mandats ou fonctions énoncés au § 4.
+
+En puisant dans la liste des citoyens qui se sont déclarés prêts à participer à une assemblée citoyenne conformément à l'alinéa 1er et qui continuent à remplir les conditions énoncées au § 2, alinéa 2, et au § 4, le secrétaire permanent sélectionne, dans le cadre d'un second tirage au sort, un nombre de citoyens qui correspond au nombre qui a été déterminé conformément à l'article 8, alinéa 1er, 2°. Sous réserve de l'alinéa 5, les citoyens ainsi tirés au sort forment le groupe des participants effectifs de l'assemblée citoyenne.
+
+Le tirage au sort mentionné à l'alinéa 2 s'effectue en deux étapes. Afin d'assurer un échantillon représentatif de la population de la région de langue allemande, le nombre de citoyens remplissant respectivement les critères suivants est tout d'abord déterminé :
+
+1° résidence principale : la liste des citoyens énoncée à l'alinéa 2 est subdivisée en deux sous-groupes : d'un côté, les citoyens dont la résidence principale se trouve dans la commune d'Eupen, de La Calamine, de Lontzen ou de Raeren, et de l'autre, les citoyens dont la résidence principale se trouve dans la commune d'Amblève, de Bullange, de Burg-Reuland, de Butgenbach ou de Saint-Vith. Le nombre de citoyens à sélectionner dans chaque sous-groupe correspond au résultat de la division du nombre d'habitants du sous-groupe par un diviseur obtenu en divisant le nombre d'habitants de la région de langue allemande par le nombre de participants fixé par le conseil citoyen conformément à l'article 8, alinéa 1er, 2°. Si, sur la base de ce calcul, le nombre de participants fixé par le conseil citoyen n'a pas encore été atteint, les citoyens à tirer au sort restants sont affectés au sous-groupe qui dispose du plus grand excédent de population non représenté. La détermination du nombre d'habitants respectif s'effectue sur la base des chiffres les plus récents publiés par l'office statistique belge;
+
+2° sexe : la répartition par sexe des citoyens à tirer au sort correspond à la répartition par sexe des citoyens appliquée dans la base de données qui a été utilisée dans le cadre du premier tirage au sort décrit au § 2, alinéa 2. La répartition des citoyens par groupe de sexe s'effectue sur la base des chiffres les plus récents publiés par l'office statistique belge;
+
+3° âge : la répartition par âge des citoyens à tirer au sort correspond à la répartition par âge des citoyens appliquée dans la base de données qui a été utilisée dans le cadre du premier tirage au sort décrit au § 2, alinéa 2. La répartition des citoyens par groupe d'âge s'effectue sur la base des chiffres les plus récents publiés par l'office statistique belge. Il est tenu compte des groupes d'âge suivants :
+
+\- 16 à 35 ans,
+
+\- 36 à 55 ans,
+
+\- 56 ans et plus;
+
+4° niveau d'éducation : la répartition par niveau d'éducation des citoyens à tirer au sort correspond à la répartition par niveau d'éducation des citoyens appliquée dans la base de données qui a été utilisée dans le cadre du premier tirage au sort décrit au § 2, alinéa 2. La répartition des citoyens par niveau d'éducation s'effectue sur la base des chiffres les plus récents publiés par l'office statistique belge. Les niveaux d'éducation pris en compte correspondent à ceux qui sont applicables pour désigner les agents du service public de la Communauté germanophone :
+
+\- niveau I : diplôme universitaire ou un diplôme y assimilé délivré par l'enseignement supérieur de type long,
+
+\- niveau II+ : diplôme de l'enseignement supérieur de type court ou diplômes y assimilés,
+
+\- niveau II : diplôme de l'enseignement secondaire supérieur ou diplôme y assimilé,
+
+\- niveau III : aucune formation ou aucun diplôme pouvant être assimilé à l'un des diplômes de niveau I, II+ et II.
+
+Parmi les citoyens qui correspondent au profil respectivement recherché, ceux qui font partie de l'assemblée citoyenne en tant que membres effectifs sont tirés au sort dans une seconde étape.
+
+Conformément à la procédure décrite à l'alinéa 3, le secrétaire permanent tire au sort, dans la liste des citoyens énoncée à l'alinéa 2, deux fois plus de membres suppléants que de membres effectifs ayant été tirés au sort.
+
+Si l'un des citoyens tirés au sort conformément à l'alinéa 2 renonce à participer ou ne remplit plus les conditions énoncées au § 2, alinéa 2, et au § 4, avant le début de la première séance de l'assemblée citoyenne, il est remplacé par un membre suppléant qui, sur la base des critères énoncés à l'alinéa 3, a le même profil que le citoyen qui renonce à sa participation ou ne remplit plus les conditions susmentionnées. Si plusieurs membres suppléants correspondent au profil recherché, la sélection est effectuée de manière aléatoire par tirage au sort.
+
+Les membres de l'assemblée citoyenne qui, après la première assemblée, renoncent à une autre participation, se retirent ou sont absents ne sont pas remplacés ]<sup>1</sup>.
+
+§ 4 - [<sup>1</sup> Ne peuvent participer à une assemblée citoyenne que les citoyens qui n'exercent aucun des mandats ou fonctions ci-après :]<sup>1</sup>
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2°[<sup>1</sup> ...]<sup>1</sup>
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° [<sup>1</sup> ...]<sup>1</sup> :
+
+a. membre du Parlement, de la Chambre des représentants, du Sénat, du Parlement wallon et du Parlement européen;
+
+b. membre du gouvernement fédéral, d'un gouvernement communautaire ou régional;
+
+c. [<sup>1</sup> gouverneur de province, gouverneur adjoint de la province du Brabant flamand, vice-gouverneur de l'arrondissement administratif de Bruxelles-Capitale, haut fonctionnaire ou greffier provincial désigné par le Gouvernement de la Région de Bruxelles-Capitale]<sup>1</sup>;
+
+d. [<sup>1</sup> membre du Conseil provincial de Liège ou du Collège provincial de Liège;]<sup>1</sup>
+
+e. commissaire d'arrondissement;
+
+f. [<sup>1</sup> ...]<sup>1</sup>
+
+g. [<sup>1</sup> ...]<sup>1</sup>
+
+h. [<sup>1</sup> ...]<sup>1</sup>
+
+i. [<sup>1</sup> ...]<sup>1</sup>
+
+j. tout mandat auprès d'un organisme public ou privé en tant que représentant de l'Etat, d'une communauté, d'une région, d'une province ou d'une commune, dans la mesure où sont liés à ce mandat plus de pouvoirs qu'une simple appartenance à l'assemblée générale ou au conseil d'administration dudit organisme;
+
+k. bourgmestre, échevin, président d'un CPAS, conseiller communal ou membre du conseil de l'aide sociale;
+
+l. une fonction sous le contrôle direct du Parlement ou du gouvernement, à l'exception des membres du personnel de l'enseignement communautaire;
+
+m. [<sup>1</sup> fonctionnaire dirigeant, directeur ou directeur délégué d'un organisme d'intérêt public défini à l'article 87 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone]<sup>1</sup>.
+
+Pour des raisons déontologiques, par exemple dans le cas d'un très grand intérêt personnel, le conseil citoyen peut en outre exclure de la participation à une assemblée citoyenne des personnes tirées au sort. Cette décision doit être dûment motivée et notifiée à l'intéressé. Le citoyen concerné peut introduire un recours contre cette décision auprès du bureau, lequel statue définitivement sur l'exclusion.
+
+[<sup>1</sup> Les conditions énoncées à l'alinéa 1er et au § 2, alinéa 2, doivent être remplies jusqu'au terme de l'assemblée citoyenne. Le membre qui ne remplit plus l'une de ces conditions communique immédiatement cela au secrétaire permanent.]<sup>1</sup>
+
+[<sup>1</sup> § 4.1. A la première séance de l'assemblée citoyenne, toutes les données à caractère personnel des citoyens qui ne sont ni membres, ni membres suppléants de l'assemblée citoyenne, collectées en vertu du présent article, sont détruites par le secrétaire permanent et, après une notification correspondante du secrétaire permanent, par le Registre national.
+
+Au plus tard cinq ans après la première séance de l'assemblée citoyenne, toutes les données des citoyens qui étaient membres ou membres suppléants de l'assemblée citoyenne, collectées en vertu du présent décret, sont détruites par le Registre national et le secrétaire permanent.
+
+Par dérogation aux alinéas 1er et 2, les données collectées en vertu du présent décret sont conservées pour autant que les citoyens aient été informés de la finalité de cette mesure et que leur accord ait été obtenu.]<sup>1</sup>
+
+§ 5 - Les décisions de l'assemblée citoyenne sont en règle générale prises par voie de consensus. Si plusieurs tentatives de conciliation ne mènent pas à un accord, une décision est prise à une majorité de 4/5 des voix, au moins 4/5 des citoyens qui participent à l'assemblée citoyenne devant être présents. Les citoyens ayant voté contre cette décision peuvent motiver leur divergence d'opinion dans un avis motivé qui sera joint à ladite décision.
+
+§ 6 - Pour leur participation, les membres de l'assemblée citoyenne bénéficient :
+
+1° de jetons de présence s'élevant à 37,50 euros;
+
+2° d'une indemnité pour frais de déplacement correspondant soit au coût réel pour l'usage des transports publics, soit au coût du déplacement avec leur propre voiture, en tenant compte du taux kilométrique calculé conformément à l'article 13 de l'arrêté royal du 18 janvier 1965 portant réglementation générale en matière de frais de parcours.
+
+Si la séance dure plus de quatre heures, les jetons de présence mentionnés à l'alinéa 1er, 1°, sont doublés.
+
+Les montants mentionnés à l'alinéa 1er, 1°, et à l'alinéa 2 sont liés aux fluctuations de l'indice des prix à la consommation mentionné dans l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays. L'indice-pivot est 138,01. Le [<sup>1</sup> Parlement]<sup>1</sup> établit les conditions et les modalités de liquidation de ces montants.
+
+----------
+
+(1)&lt;DCG 2024-04-22/22, art. 2, 003; En vigueur : 01-07-2024&gt;
+
+### Art. 4
+
+Conseil citoyen
+
+§ 1er - [<sup>2</sup> Un conseil citoyen permanent est instauré pour la préparation, la mise en oeuvre et le suivi des assemblées citoyennes. Le conseil citoyen se compose de vingt-quatre citoyens sélectionnés, sur la base d'un échantillon aussi représentatif que possible de la population de la région de langue allemande, parmi les citoyens qui ont auparavant participé à une assemblée citoyenne et approuvé une adhésion au conseil citoyen. Sous réserve de l'alinéa 3, le mandat des différents membres du conseil citoyen couvre la période qui est nécessaire à l'organisation et à la mise en oeuvre de trois assemblées citoyennes. Après l'expiration de ce mandat, les membres en exercice du conseil citoyen sont remplacés par de nouveaux représentants issus des assemblées citoyennes précédentes. Ce changement au terme de chaque assemblée citoyenne intervient, pour un tiers du total des vingt-quatre mandataires, à la première séance du conseil citoyen qui suit la séance de présentation de l'avis du Parlement indiquée dans le règlement intérieur du Parlement.
+
+Afin d'opérer le changement visé à l'alinéa 1er, le secrétaire permanent tire au sort huit citoyens en présence du président du conseil citoyen, en puisant dans la liste des citoyens qui ont approuvé une adhésion au conseil citoyen conformément à l'alinéa 1er et qui continuent à remplir les conditions énoncées à l'article 3, § 2, alinéa 2, et § 4, alinéa 1er. A cet égard, il tient compte, dans la mesure du possible, des critères énoncés à l'article 3, § 3, alinéa 3. Si un seul citoyen présente le profil nécessaire pour assurer la représentativité, ce dernier est élu membre du conseil citoyen sans tirage au sort préalable. Si plusieurs citoyens présentent des profils identiques, le citoyen qui intègre le conseil citoyen est tiré au sort de manière aléatoire parmi ces derniers.
+
+Si un citoyen se retire prématurément du conseil citoyen, le mandat est achevé par un citoyen également tiré au sort et issu des assemblées citoyennes précédentes. A cet effet, plusieurs membres suppléants peuvent être sélectionnés au préalable conformément au mode décrit à l'alinéa 2]<sup>2</sup>.
+
+§ 2 [<sup>2</sup> En même temps que le changement d'une partie de ses membres visé au § 1er, alinéa 1er, le conseil citoyen élit en son sein un président qui dirige les séances. Dans la mesure où il existe des candidatures à cette fonction, des citoyens de sexe différent sont élus à la présidence à tour de rôle]<sup>2</sup>.
+
+Le secrétaire permanent assiste aux séances du conseil citoyen avec voix consultative. Le conseil citoyen peut inviter le greffier et [<sup>1</sup> la personne chargée de la médiation]<sup>1</sup> à participer à ses délibérations.
+
+Compte tenu du prescrit du présent décret, le conseil citoyen arrête tous les autres aspects de son mode de fonctionnement.
+
+§ 3 - Sous réserve de l'article 7, § 3, le conseil citoyen ne délibère valablement que si la majorité des membres sont présents. Toutes les décisions du conseil citoyen sont en règle générale prises par voie de consensus. Si plusieurs tentatives de conciliation ne mènent pas à un accord, une décision est prise à une majorité de 2/3 des voix. S'il est constaté que la majorité des membres n'est pas présente, la décision est reportée à la séance suivante.
+
+§ 4 - Pour leur participation, les membres du conseil citoyen bénéficient :
+
+1° de jetons de présence s'élevant à 37,50 euros;
+
+2° d'une indemnité pour frais de déplacement correspondant soit au coût réel pour l'usage des transports publics, soit au coût du déplacement avec leur propre voiture, en tenant compte du taux kilométrique calculé conformément à l'article 13 de l'arrêté royal du 18 janvier 1965 portant réglementation générale en matière de frais de parcours.
+
+Si la séance dure plus de quatre heures, les jetons de présence mentionnés à l'alinéa 1er, 1°, sont doublés.
+
+Les montants mentionnés à l'alinéa 1er, 1°, et à l'alinéa 2 sont liés aux fluctuations de l'indice des prix à la consommation mentionné dans l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays. L'indice-pivot est 138,01. [<sup>2</sup> Le Parlement établit les conditions et les modalités de liquidation de ces montants]<sup>2</sup>.
+
+[<sup>2</sup> § 5 - Aussitôt qu'un citoyen se retire du conseil citoyen conformément au § 1er, toutes les données à caractère personnel collectées en vertu du présent article sont détruites.
+
+Par dérogation à l'alinéa 1er, ces données sont conservées pour autant que les citoyens qui se sont retirés aient été informés de la finalité de cette mesure et que leur accord ait été obtenu. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2022-02-21/10, art. 73, 002; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCG 2024-04-22/22, art. 3, 003; En vigueur : 01-07-2024&gt;
+
+### Art. 5
+
+Secrétaire permanent
+
+[<sup>1</sup> Pour le soutien administratif et organisationnel du conseil citoyen et de l'assemblée citoyenne, le Parlement désigne un secrétaire permanent conformément à la procédure fixée dans son règlement intérieur ]<sup>1</sup>.
+
+Le conseil citoyen supervise le travail du secrétaire permanent et est habilité à donner des ordres à ce dernier en ce qui concerne les missions qui lui sont assignées en vertu du présent décret.
+
+----------
+
+(1)&lt;DCG 2024-04-22/22, art. 4, 003; En vigueur : 01-07-2024&gt;
+
+### Art. 6
+
+[<sup>1</sup> - Parlement et organes parlementaires
+
+Le Parlement définit les conditions-cadres pour l'organisation du dialogue citoyen. Dans son règlement intérieur, il organise notamment les aspects du dialogue citoyen qui concernent le mode de fonctionnement parlementaire. Le Parlement désigne les organes et les personnes qui exercent les compétences attribuées au Parlement dans le présent décret ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2024-04-22/22, art. 5, 003; En vigueur : 01-07-2024&gt;
+
+## CHAPITRE 3. - DEROULEMENT DU DIALOGUE CITOYEN
+
+### Art. 7
+
+[<sup>1</sup> - Sélection des thèmes
+
+§ 1er - Avant la convocation d'une assemblée citoyenne, le conseil citoyen fixe le thème sur lequel elle devra délibérer. Les thèmes portent sur les compétences de la Communauté germanophone. En invoquant des motifs particuliers et uniquement avec l'accord du Parlement, le conseil citoyen peut sélectionner des thèmes qui ne sont pas en lien avec les compétences de la Communauté germanophone ou qui ne le sont qu'indirectement.
+
+Il est interdit de proposer des thèmes en contradiction avec les libertés et les droits fondamentaux qui figurent au titre 2 de la Constitution ainsi que dans les traités internationaux pour la protection des droits de l'Homme ratifiés par la Belgique.
+
+§ 2 - Lorsqu'il sélectionne les thèmes, le conseil citoyen peut recourir à des propositions qui lui sont présentées soit par au moins deux de ses membres, par le Parlement ou par des citoyens qui remplissent la condition visée à l'article 3, § 2, alinéa 2, 1°.
+
+Toutes les propositions visées à l'alinéa 1er comportent une description du thème ainsi qu'une justification établissant qu'elles se prêtent comme thème pour une assemblée citoyenne. Les propositions soumises par les citoyens comportent en outre les noms, les prénoms, l'adresse postale et électronique et la signature des citoyens responsables du dépôt ainsi que des citoyens qui soutiennent cette initiative. L'invitation adressée aux citoyens pour le dépôt de propositions de thèmes comporte notamment toutes les informations qui sont imposées en vertu de l'article 13 du règlement général sur la protection des données.
+
+Au cours d'une législature du Parlement, le conseil citoyen tient compte au moins d'une proposition de thème parmi celles qui lui sont présentées par le Parlement. En outre, la sélection doit de préférence être effectuée de manière à ce que les thèmes de deux assemblées citoyennes directement consécutives ne concernent pas principalement le domaine de compétence d'une seule et même commission parlementaire. Concernant les propositions déposées par les citoyens, le conseil citoyen peut, lors de la sélection, tenir notamment compte du nombre de soutiens également.
+
+Le conseil citoyen fixe les autres modalités relatives au dépôt des propositions par ses membres et par les citoyens. Conformément à l'alinéa 2, il peut notamment prévoir une procédure électronique pour le dépôt de propositions par les citoyens et pour le soutien de ces dernières.
+
+§ 3 - Après la décision de principe concernant la sélection du thème, le conseil citoyen formule précisément la question sur laquelle l'assemblée citoyenne devra délibérer. S'il considère que cela est nécessaire, le conseil citoyen peut déléguer tout ou partie de cette tâche à l'assemblée citoyenne.
+
+Par dérogation à l'article 4, § 3, au moins deux tiers des membres du conseil citoyen doivent être présents pour que les décisions énoncées à l'alinéa 1er puissent être prises.
+
+§ 4 - Aussitôt que le conseil citoyen a pris une décision quant à la sélection des thèmes et a communiqué cette décision, toutes les données à caractère personnel des citoyens dont la proposition de thème a été définitivement rejetée, collectées en vertu du § 2, sont détruites. Il en va de même pour les données à caractère personnel des citoyens qui ont soutenu ces propositions de thèmes.
+
+Au plus tard cinq ans après réception des propositions de thèmes, toutes les données à caractère personnel des citoyens dont la proposition de thème a été retenue pour l'un des prochains dialogues citoyens, collectées en vertu du § 2, sont détruites. Il en va de même pour les données à caractère personnel des citoyens qui ont soutenu ces propositions de thèmes.
+
+Par dérogation aux alinéas 1er et 2, les données à caractère personnel collectées en vertu du § 2 sont conservées pour autant que les citoyens aient été informés de la finalité de cette mesure et que leur accord à ce sujet ait été obtenu ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2024-04-22/22, art. 6, 003; En vigueur : 01-07-2024&gt;
+
+### Art. 8
+
+Organisation et tenue des assemblées citoyennes
+
+Le conseil citoyen prend toutes les décisions en ce qui concerne l'organisation et la tenue des assemblées citoyennes. Cela concerne notamment :
+
+1° la détermination du nombre d'assemblées citoyennes, en tenant compte du prescrit de l'article 3, § 1er;
+
+2° la détermination du nombre de citoyens et leur sélection par tirage au sort, en tenant compte du prescrit de l'article 3, §§ 2 à 4;
+
+3° la fixation de la date, de la durée, du lieu, [<sup>1</sup> et du programme ]<sup>1</sup> de chacune des assemblées citoyennes;
+
+4° la [<sup>1</sup> sélection]<sup>1</sup> des animateurs des assemblées citoyennes;
+
+5° la création d'un groupe consultatif en ce qui concerne la collecte des informations et de la documentation qui seront mises à la disposition des membres des assemblées citoyennes;
+
+6° la sélection des experts et représentants d'intérêts qui seront entendus ou priés de donner leur avis dans le cadre des assemblées citoyennes;
+
+7° l'évaluation des assemblées citoyennes tenues.
+
+[<sup>1</sup> S'il considère que cela est nécessaire, le conseil citoyen peut déléguer tout ou partie des tâches énoncées à l'alinéa 1er, 3°, 5° et 6°, à l'assemblée citoyenne. ]<sup>1</sup>
+
+Le secrétaire permanent prépare les décisions mentionnées à l'alinéa 1er, élabore des propositions à leur sujet et met en oeuvre les décisions prises par le conseil citoyen. Il règle en outre tous les aspects administratifs et logistiques allant de pair avec la tenue d'assemblées citoyennes. [<sup>1</sup> Si les décisions prises, visées aux alinéas 1er et 2, donnent lieu à des obligations juridiquement contraignantes, le Parlement assume ces dernières. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2024-04-22/22, art. 7, 003; En vigueur : 01-07-2024&gt;
+
+### Art. 9
+
+[<sup>1</sup> Recommandations de l'assemblée citoyenne et leur prise en compte par le Parlement
+
+A l'issue des délibérations, l'assemblée citoyenne formule une ou plusieurs recommandations qui seront transmises au Parlement. Dans son règlement intérieur, le Parlement définit la procédure de délibération des recommandations et leur prise en compte. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2024-04-22/22, art. 8, 003; En vigueur : 01-07-2024&gt;
+
+### Art. 10
+
+Suivi des recommandations
+
+Le conseil citoyen assure le suivi des recommandations qui, conformément à l'avis [<sup>1</sup> du Parlement]<sup>1</sup>, devront être mises en oeuvre. A cet effet, le secrétaire permanent soumet à intervalles réguliers des rapports sur l'avancement de la mise en oeuvre des recommandations. S'il le juge nécessaire, le conseil citoyen en informe les membres de l'assemblée citoyenne concernée.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2024-04-22/22, art. 9, 003; En vigueur : 01-07-2024&gt;
+
+## CHAPITRE 4. - GESTION ET FINANCEMENT
+
+### Art. 11
+
+Gestion
+
+La gestion courante relative au dialogue citoyen appartient au secrétaire permanent, notamment la préparation et l'exécution des décisions prises par le conseil citoyen. Il est le premier interlocuteur pour toutes les questions ayant trait au dialogue citoyen.[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2024-04-22/22, art. 10, 003; En vigueur : 01-07-2024&gt;
+
+### Art. 12
+
+[<sup>1</sup> - Financement
+
+Le secrétaire permanent élabore chaque année une proposition de budget qui est approuvée par le conseil citoyen. Par la suite, la proposition de budget approuvée par le conseil citoyen est soumise au Parlement pour approbation. Si la proposition de budget est approuvée, les crédits y relatifs sont prévus dans le budget du Parlement.
+
+Le secrétaire permanent gère les crédits disponibles sous la supervision du conseil citoyen, et ce, en tenant compte de l'enveloppe financière fixée par le Parlement.
+
+Avant le 31 août de l'année suivante, le secrétaire permanent élabore une proposition de reddition des comptes de l'exercice clôturé qui est approuvée par le conseil citoyen. Par la suite, la proposition de reddition des comptes approuvée par le conseil citoyen est soumise au Parlement pour approbation ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2024-04-22/22, art. 11, 003; En vigueur : 01-07-2024&gt;
+
+### Art. 13
+
+&lt;Abrogé par DCG 2024-04-22/22, art. 12, 003; En vigueur : 01-07-2024&gt;
+
+## CHAPITRE 5. - DISPOSITIONS FINALES
+
+### Art. 14
+
+Premier conseil citoyen
+
+Le premier conseil citoyen est composé de vingt-quatre membres qui, par dérogation à l'article 4, § 1er, sont désignés comme suit :
+
+1° un membre est désigné par chacun des groupes représentés au Parlement, étant entendu que les citoyens proposés doivent satisfaire aux conditions mentionnées à l'article 3, § 4, alinéa 1er;
+
+2° six membres sont tirés au sort parmi les citoyens du dialogue citoyen tenu les 16 et 30 septembre 2017 à propos de l'accueil des enfants;
+
+3° les autres membres sont tirés au sort conformément à l'article 3, § § 2 à 4, les compétences confiées au conseil citoyen étant assurées par le secrétaire permanent.
+
+Le premier conseil citoyen sera installé le 16 septembre 2019.
+
+Après la tenue de la première assemblée citoyenne, huit membres sont remplacés; les membres mentionnés à l'alinéa 1er, 1°, se retirent en premier lieu et ensuite une partie des membres mentionnés à l'alinéa 1er, 2°. Après la tenue de la deuxième assemblée citoyenne, huit autres membres du premier conseil citoyen sont remplacés; les membres mentionnés à l'alinéa 1er, 2°, restants se retirent en premier lieu et ensuite une partie des membres mentionnés à l'alinéa 1er, 3°. Après la tenue de la troisième assemblée citoyenne sont remplacés les membres du premier conseil citoyen, restant parmi ceux mentionnés à l'alinéa 1er, 3°. Chaque changement s'effectue conformément à la procédure décrite à l'article 4, § 1er, alinéa 1er.
+
+### Art. 14.1.
+
+[<sup>1</sup> Régime transitoire pour le tirage au sort
+
+Jusqu'à une date fixée par le Parlement, le secrétaire permanent peut demander aux communes de la région de langue allemande une liste de personnes inscrites dans leurs registres de la population ou des étrangers en vue de l'exécution du premier tirage au sort. Pour l'exécution du premier tirage au sort et pour le traitement des données à caractère personnel collectées dans ce cadre, les règles énoncées à l'article 3, § § 2 et 4.1, sont applicables. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2024-04-22/22, art. 13, 003; En vigueur : 01-07-2024&gt;
+
+### Art. 15
+
+Entrée en vigueur
+
+Le présent décret entre en vigueur le jour de son adoption.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 25 février 2019.
+
+O. PAASCH,
+
+Le Ministre-Président
+
+I. WEYKMANS,
+
+La Vice-Ministre-Présidente, Ministre de la Culture, de l'Emploi et du Tourisme
+
+A. ANTONIADIS,
+
+Le Ministre de la Famille, de la Santé et des Affaires sociales
+
+H. MOLLERS,
+
+Le Ministre de l'Education et de la Recherche scientifique
+
+Session 2018-2019
+
+Document parlementaire : 284 (2018-2019) n° 1 Proposition de décret + Erratum
+
+Compte rendu intégral : 25 février 2019 - n° 62 Discussion et vote

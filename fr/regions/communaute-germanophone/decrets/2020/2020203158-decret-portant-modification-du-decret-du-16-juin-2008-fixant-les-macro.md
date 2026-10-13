@@ -1,0 +1,119 @@
+---
+title: "Décret portant modification du décret du 16 juin 2008 fixant les macro-compétences et les référentiels de compétences dans l'enseignement"
+identifier: "2020203158"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/22/2020203158/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2020-06-22
+published: 2020-09-03
+entry_into_force: 2020-09-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/22/2020203158/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 22 JUIN 2020. - Décret portant modification du décret du 16 juin 2008 fixant les macro-compétences et les référentiels de compétences dans l'enseignement
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+- L'article 1er du décret du 16 juin 2008 fixant les macro-compétences et les référentiels de compétences dans l'enseignement, remplacé par le décret du 25 octobre 2010 et modifié en dernier lieu par le décret du 29 avril 2019, est remplacé par ce qui suit :
+
+" Article 1er - Les référentiels de compétences de l'enseignement sont fixés dans les annexes suivantes :
+
+1° Annexe Ire : référentiel " Allemand langue de l'enseignement " pour l'enseignement primaire et le premier degré de l'enseignement secondaire ordinaire;
+
+2° Annexe II : référentiel " Français première langue étrangère " pour l'enseignement primaire et le premier degré de l'enseignement secondaire ordinaire;
+
+3° Annexe III : référentiel " Mathématiques " pour l'enseignement primaire et le premier degré de l'enseignement secondaire ordinaire;
+
+4° Annexe IV : référentiel " Histoire/Géographie " pour l'enseignement primaire et le premier degré de l'enseignement secondaire ordinaire;
+
+5° Annexe V : référentiel " Sciences/Technologie " pour l'enseignement primaire et le premier degré de l'enseignement secondaire ordinaire;
+
+6° Annexe VI : référentiel " Musique/Art. " pour l'enseignement primaire et le premier degré de l'enseignement secondaire ordinaire;
+
+7° Annexe VII : référentiel " Education physique " pour l'enseignement primaire et le premier degré de l'enseignement secondaire ordinaire;
+
+8° Annexe VIII : référentiel " Aide-soignant " pour la 7<sup>e</sup> année de l'enseignement secondaire professionnel ordinaire;
+
+9° Annexe XI : référentiel " Préparation au choix d'une profession et orientation professionnelle en milieu scolaire " pour l'enseignement primaire et secondaire ordinaire;
+
+10° Annexe X : référentiel " Allemand première langue étrangère " pour l'enseignement primaire;
+
+11° Annexe XI : référentiel " Français langue de l'enseignement " pour l'enseignement primaire;
+
+12° Annexe XII : référentiel " Allemand " pour les deuxième et troisième degrés de l'enseignement général et technique de transition dans l'enseignement secondaire ordinaire;
+
+13° Annexe XIII : référentiel " Français " pour les deuxième et troisième degrés de l'enseignement général et technique de transition dans l'enseignement secondaire ordinaire;
+
+14° Annexe XIV : référentiel " Géographie " pour les deuxième et troisième degrés de l'enseignement général et technique de transition dans l'enseignement secondaire ordinaire;
+
+15° Annexe XV : référentiel " Histoire " pour les deuxième et troisième degrés de l'enseignement général et technique de transition dans l'enseignement secondaire ordinaire;
+
+16° Annexe XVI : référentiel " Education physique " pour les deuxième et troisième degrés de l'enseignement secondaire ordinaire;
+
+17° Annexe XVII : référentiel " Anglais deuxième langue étrangère " pour les deuxième et troisième degrés de l'enseignement général et technique de transition dans l'enseignement secondaire ordinaire;
+
+18° Annexe XVIII : référentiel " Mathématiques " pour les deuxième et troisième degrés de l'enseignement général et technique de transition dans l'enseignement secondaire ordinaire;
+
+19° Annexe XIX : référentiel " Sciences " pour les deuxième et troisième degrés de l'enseignement général et technique de transition dans l'enseignement secondaire ordinaire;
+
+20° Annexe XX : référentiel " Ethique " pour l'enseignement primaire et secondaire ordinaire;
+
+21° Annexe XXI : référentiel " Français première langue étrangère " pour les deuxième et troisième degrés de l'enseignement technique de qualification et professionnel dans l'enseignement secondaire ordinaire;
+
+22° Annexe XXII : référentiel " Mathématiques " pour les deuxième et troisième degrés de l'enseignement technique de qualification et professionnel dans l'enseignement secondaire ordinaire;
+
+23° Annexe XXIII : référentiel " Allemand " pour les deuxième et troisième degrés de l'enseignement technique de qualification et professionnel dans l'enseignement secondaire ordinaire;
+
+24° Annexe XXIV : référentiel " Géographie " pour les deuxième et troisième degrés de l'enseignement technique de qualification et professionnel dans l'enseignement secondaire ordinaire;
+
+25° Annexe XXV : référentiel " Néerlandais, troisième langue étrangère " pour les deuxième et troisième degrés de l'enseignement général et technique de transition ainsi que de l'enseignement technique de qualification et professionnel dans l'enseignement secondaire ordinaire;
+
+26° Annexe XXVI : référentiel " Histoire" pour les deuxième et troisième degrés de l'enseignement technique de qualification et professionnel dans l'enseignement secondaire ordinaire.
+
+## Art. 2
+
+- L'annexe XXVI, jointe au présent décret, est insérée dans le même décret.
+
+## Art. 3
+
+- Le présent décret entre en vigueur le 1er septembre 2020.
+
+## ANNEXE.
+
+## Art. N
+
+(Image non reprise pour des raisons techniques, voir M.B. du 03-09-2020, p. 64883)
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur Belge.
+
+Donné à Eupen, le 22 juin 2020.
+
+O. PAASCH,
+
+Le Ministre-Président,
+
+Ministre des Pouvoirs locaux et des Finances
+
+A. ANTONIADIS,
+
+Le Vice-Ministre-Président,
+
+Ministre de la Santé et des Affaires sociales, de l'Aménagement du territoire et du Logement
+
+I. WEYKMANS,
+
+Ministre de la Culture et du Sport, de l'Emploi et des Médias
+
+H. MOLLERS,
+
+Le Ministre de l'Education et de la Recherche scientifique
