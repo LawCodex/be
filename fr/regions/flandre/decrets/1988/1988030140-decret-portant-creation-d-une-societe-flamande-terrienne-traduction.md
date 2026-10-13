@@ -1,0 +1,733 @@
+---
+title: "Décret portant création d'une Société flamande terrienne. (Traduction)"
+identifier: "1988030140"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1988/12/21/1988030140/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1988-12-21
+published: 1988-12-29
+entry_into_force: 1989-01-01
+last_amended: 2024-07-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1988/12/21/1988030140/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 21-12-1990 et mise à jour au 10-07-2024"
+retrieved: 2026-10-12
+---
+
+# 21 DECEMBRE 1988. - Décret portant création d'une Société flamande terrienne. (Traduction)
+
+Le Conseil flamand a adopté et Nous, Exécutif, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Disposition générale &lt;DCFL 2004-05-07/64, art. 2, 011; En vigueur : 01-04-2006&gt;
+
+##### Art. 1
+
+Le présent décret règle une matière visée à l'article 107quater de la Constitution.
+
+## CHAPITRE II. - Définitions &lt;Inséré par DCFL 2004-05-07/64, art. 3; En vigueur : 01-04-2006&gt;
+
+##### Art. 1bis
+
+&lt;Inséré par DCFL 2004-05-07/64, art. 3; En vigueur : 01-04-2006&gt; § 1er. Les définitions, reprises à l'article 1.1.2, § 1er, du décret du 5 avril 1995 stipulant les dispositions générales concernant la politique environnementale sont d'application sur ce décret, à moins qu'il n'en soit formellement convenu autrement.
+
+§ 2. Pour l'application du présent décret, on entend par :
+
+1° [<sup>2</sup> le Décret de gouvernance : le Décret de gouvernance du 7 décembre 2018]<sup>2</sup>
+
+2° (...) &lt;DCFL 2006-12-22/32, art. 74, 014; En vigueur : 01-01-2007&gt;
+
+3° le décret pour la préservation de la nature : le décret du 21 octobre 1997 relatif à la préservation de la nature et à l'environnement naturel;
+
+4° la législation concernant le remembrement des propriétés terriennes : la loi du 22 juillet 1970 relative au remembrement des propriétés terriennes en vertu de la loi, la loi du 10 janvier 1978 relative aux mesures particulières concernant le remembrement des propriétés terriennes, la loi du 12 juillet 1976 relative aux mesures particulières concernant le remembrement des propriétés terriennes en vertu de la loi dans le cadre de l'exécution des grands travaux d'infrastructure;
+
+5° le décret stipulant les dispositions générales pour la politique environnementale : le décret du 5 avril 1995 relatif aux dispositions générales concernant la politique environnementale.
+
+(6° le décret Banque foncière flamande : le décret du 16 juin 2006 portant création d'une "Vlaamse Grondenbank" (Banque foncière flamande) et portant modification de diverses dispositions;) &lt;DCFL 2006-06-16/53, art. 22, 016; En vigueur : 19-02-2007&gt;
+
+[<sup>1</sup> 7° le décret Rénovation rurale : le décret relatif à la rénovation rurale ;
+
+8° autorité administrative : la Région flamande, la Communauté flamande, les services et agences dépendant de la Région flamande ou de la Communauté flamande, les administrations soumises à la surveillance administrative de la Région flamande ou de la Communauté flamande, de même que les personnes morales de droit public et de droit privé, chargées de missions d'utilité publique.]<sup>1</sup>
+
+[<sup>3</sup> 9° agence " Digitaal Vlaanderen " (Flandre numérique) : l'agence " Digitaal Vlaanderen ", visée à l'article 2 de l'arrêté du Gouvernement flamand du 18 mars 2016 portant création de l'agence autonomisée interne " Digitaal Vlaanderen ", et détermination du fonctionnement, de la gestion et de la comptabilité de l' " Eigen Vermogen Digitaal Vlaanderen " (Fonds propres Flandre numérique).]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/54, art. 7.2.1, 024; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.1, 029; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2021-04-02/35, art. 13, 031; En vigueur : 10-05-2021&gt;
+
+## CHAPITRE III. - Statut, capital et action, durée et dissolution de l'agence &lt;L'ancien chapitre I est remplacé par chapitre III par DCFL 2004-05-07/64, art. 4, 011; En vigueur : 01-04-2006&gt;
+
+##### Art. 2
+
+§ 1. Il est créé une Société flamande terrienne, en abrégé : " VLM ", et (l'agence à nommer [<sup>6</sup> a été créée comme une]<sup>6</sup> agence autonome externe de droit public [<sup>4</sup> au sens de l'article III.7 du Décret de gouvernance]<sup>4</sup>). &lt;DCFL 2004-05-07/64, art. 5, 011; En vigueur : 01-04-2006&gt;
+
+[<sup>6</sup> Sur tous les actes, factures, annonces, avis, lettres, ordres, sites web et autres documents, électroniques ou non, émanant de l'agence, la dénomination " Vlaamse Landmaatschappij " ou l'abréviation " VLM " doit toujours être précédée ou suivie de la mention " agence autonomisée externe de droit public sous la forme d'une société anonyme de droit public " ou " AAE sous forme de SA de droit public".]<sup>6</sup>
+
+§ 2. L'agence [<sup>6</sup> est constitué sous forme de société anonyme de droit public]<sup>6</sup>. &lt;DCFL 2004-05-07/64, art. 35, 011; En vigueur : 01-04-2006&gt;
+
+(L'agence) est dotée de la personnalité civile. (Le statut juridique de l'agence est réglé en ordre successif par le [<sup>4</sup> Décret de gouvernance]<sup>4</sup>, par ce décret et par ses statuts. Sans porter préjudice à ce qui précède, les dispositions du [<sup>6</sup> Code des sociétés et des associations]<sup>6</sup> en rapport avec la société anonyme s'appliquent à l'agence pour tout ce qui n'est pas déterminé par le [<sup>4</sup> Décret de gouvernance]<sup>4</sup>, par ce décret, par [<sup>6</sup> le Code flamand des Finances publiques du 29 mars 2019]<sup>6</sup> un règlement concernant le budget, la comptabilité, l'organisation du contrôle, et le contrôle sur les subsides, et par les statuts de la société, et seulement dans la mesure où le [<sup>6</sup> Code des sociétés et des associations]<sup>6</sup> n'est pas en contradiction avec ces dispositions.) &lt;DCFL 2004-05-07/64, art. 5 et 35, 011; En vigueur : 01-04-2006&gt;
+
+([<sup>6</sup> Les dispositions du Livre XX du Code de droit économique]<sup>6</sup> ne s'appliquent pas non plus à l'agence, pas plus que les règles de droit qui ont un rapport avec la situation de concours général des créanciers [<sup>6</sup> ...]<sup>6</sup>.) &lt;DCFL 2004-05-07/64, art. 5, 011; En vigueur : 01-04-2006&gt;
+
+La Région flamande, les provinces et les communes situées en Région flamande peuvent souscrire au capital de (l'agence). &lt;DCFL 2004-05-07/64, art. 35, 011; En vigueur : 01-04-2006&gt;
+
+(Toutes les actions sont et restent nominatives.
+
+[<sup>6</sup> Une action donne droit à une voix.]<sup>6</sup>
+
+L'intérêt direct de la Région flamande en tant qu'actionnaire dans le capital social de l'agence doit toujours s'élever au total à plus de 50 %. Les actions que la Région flamande souscrit et qu'elle peut souscrire par la suite sont inaliénables, à l'exception de la partie des actions qui dépassent quatre cinquième du capital total.
+
+Les actions que les provinces et les communes souscrivent peuvent seulement être octroyées aux provinces et aux communes, même si elles sont seulement remboursées pour un montant de 25 %, et après procuration du [<sup>1</sup> assemblée générale]<sup>1</sup> de l'agence et du Gouvernement flamand.
+
+[<sup>6</sup> Un transfert en violation de ces dispositions n'est pas opposable à la société ou aux tiers, que le cessionnaire soit de bonne ou de mauvaise foi.]<sup>6</sup>
+
+Le capital social peut être majoré par décision du conseil d'administration par des souscriptions d'actions indivisibles en argent. Seules la Région flamande, les provinces et les communes situées en Région flamande peuvent souscrire cette augmentation du capital. En aucun cas, une augmentation du capital ne peut faire en sorte que la Région flamande en tant qu'actionnaire ne possède plus directement plus de 50 % du capital de l'agence.
+
+Chaque nouvelle souscription doit à chaque fois être fixée par un acte authentique, qui est associé à un versement en espèces d'au moins un quart de chaque action.
+
+Le montant de chaque souscription qui n'est pas remboursé doit être versé aux dates, fixées par le conseil d'administration, après avertissement trois mois à l'avance à l'aide d'un courrier recommandé. La remise de la lettre à la poste vaut comme notification, à compter à partir du jour suivant.
+
+Les actionnaires sont habilités à payer leur souscription entièrement ou partiellement à l'avance.
+
+Chaque versement en retard implique de plein droit et sans mise en demeure des intérêts au taux d'intérêt légal, au profit de [<sup>1</sup> l'agence]<sup>1</sup>, à partir de l'échéance du délai mentionné de trois mois.
+
+Les actionnaires sont seulement liées pour les pertes s'élevant au montant de leurs actions.)&lt;DCFL 2004-05-07/64, art. 5, 011; En vigueur : 01-04-2006&gt;
+
+§ 3. Après approbation par l'Exécutif flamand, les statuts de (l'agence) sont arrêtés dans un acte notarié portant création de la Société flamande terrienne. Toute modification des statuts nécessite l'approbation de l'Exécutif flamand (par des actions indivisibles en argent). &lt;DCFL 2004-05-07/64, art. 5 et 35, 011; En vigueur : 01-04-2006&gt;
+
+[<sup>2</sup> § 4. Les biens mobiliers de la division " Ondersteunend Centrum GIS Vlaanderen " de la " Vlaamse Landmaatschappij ", créée par décret du 21 décembre 1988 portant création d'une Société flamande terrienne, sont transférés à titre gratuit et dans l'état dans lequel ils se trouvent à [<sup>3</sup> [<sup>5</sup> l'agence " Digitaal Vlaanderen "]<sup>5</sup>]<sup>3</sup>.
+
+En vue du transfert, visé au premier alinéa, il est établi un inventaire de tous les biens mobiliers, y compris les droits et obligations, en concertation commune entre les membres du personnel dirigeants de la VLM et de l'[<sup>3</sup> agence [<sup>5</sup> " Digitaal Vlaanderen "]<sup>5</sup>]<sup>3</sup>. Cet inventaire est repris dans le compte annuel.
+
+L'[<sup>3</sup> agence [<sup>5</sup> " Digitaal Vlaanderen "]<sup>5</sup>]<sup>3</sup> est subrogé dans les droits et obligations de la VLM, y compris les droits et obligations résultant de procédures judiciaires.
+
+Les moyens disponibles de la VLM liés aux droits et obligations, visés au troisième alinéa, sont transférés à l'[<sup>3</sup> agence [<sup>5</sup> " Digitaal Vlaanderen "]<sup>5</sup>]<sup>3</sup> sur la base du compte clôturé.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 22, 019; En vigueur : 28-02-2011&gt;
+
+(2)&lt;DCFL 2012-04-20/11, art. 11, 021; En vigueur : 01-04-2006&gt;
+
+(3)&lt;AGF 2016-03-18/17, art. 1, 026; En vigueur : 01-01-2016&gt;
+
+(4)&lt;DCFL 2018-12-07/05, art. IV.2, 029; En vigueur : 01-01-2019&gt;
+
+(5)&lt;DCFL 2021-04-02/35, art. 14, 031; En vigueur : 10-05-2021&gt;
+
+(6)&lt;DCFL 2024-05-17/29, art. 22, 033; En vigueur : 20-07-2024&gt;
+
+##### Art. 3
+
+&lt;DCFL 2004-05-07/64, art. 6, 011; En vigueur : 01-04-2006&gt; Le Gouvernement flamand détermine le domaine politique homogène dont l'agence fait partie.
+
+La durée de l'agence est indéterminée.
+
+La dissolution de l'agence peut seulement être décidée par décret. Ce décret détermine également la méthode et les conditions de liquidation.
+
+##### Art. 4
+
+L'établissement du siège de (l'agence) est déterminé par l'Exécutif flamand. &lt;DCFL 2004-05-07/64, art. 35, 011; En vigueur : 01-04-2006&gt;
+
+## CHAPITRE IV. - Mission &lt;Inséré par DCFL 2004-05-07/64, art. 7; En vigueur : 01-04-2006&gt;
+
+##### Art. 5
+
+&lt;DCFL 2004-05-07/64, art. 8, 011; En vigueur : 01-04-2006&gt; L'agence a pour mission de contribuer à la réalisation des objectifs de :
+
+1° la politique environnementale, stipulée à l'article 1.2.1, § 1er, du décret stipulant les dispositions générales de la politique environnementale;
+
+2° le remembrement, stipulé dans la législation relative au remembrement des propriétés terriennes;
+
+3° [<sup>1</sup> la rénovation rurale, visée au décret du 28 mars 2014 relatif à la rénovation rurale ;]<sup>1</sup>
+
+4° le décret pour la préservation de la nature;
+
+5° (décret relatif aux engrais du 22 décembre 2006); &lt;DCFL 2006-12-22/32, art. 75, 014; En vigueur : 01-01-2007&gt;
+
+6° la politique intégrée sur les campagnes;
+
+7° la politique terrienne du domaine politique propre;
+
+(8° le décret Banque foncière flamande.) &lt;DCFL 2006-06-16/53, art. 23, 016; En vigueur : 19-02-2007&gt;
+
+----------
+
+(1)&lt;DCFL 2014-03-28/54, art. 7.2.2, 024; En vigueur : 01-11-2014 (voir AGF 2014-06-06/24, art. 7.1.1.9)&gt;
+
+## CHAPITRE V. - Tâches de l'agence &lt;Inséré par DCFL 2004-05-07/64, art. 9; En vigueur : 01-04-2006&gt;
+
+### Section Ire. - Tâches que l'agence exerce de sa propre initiative &lt;Insérée par DCFL 2004-05-07/64, art. 9; En vigueur : 01-04-2006&gt;
+
+##### Art. 6
+
+&lt;DCFL 2004-05-07/64, art. 10, 011; En vigueur : 01-04-2006&gt; § 1er. L'agence a pour tâche l'exécution de la politique sur les engrais, telle que stipulée dans le (décret relatif aux engrais du 22 décembre 2006). &lt;DCFL 2006-12-22/32, art. 76, 1°, 014; En vigueur : 01-01-2007&gt;
+
+Elle remplit cette tâche entre autres :
+
+1° en s'occupant de l'inventaire de la production d'engrais animaux, du contrôle sur l'écoulement des surplus d'engrais animaux dans les entreprises et sur la conduite des flux d'engrais;
+
+2° en s'occupant du développement et de la gestion d'une base de données terriennes en rapport avec la problématique des engrais;
+
+3° en intervenant dans les négociations ou la reprise, le transport et le traitement des engrais animaux;
+
+4° en stimulant la demande d'une utilisation écologique des engrais animaux;
+
+5° en donnant des explications à propos de la production, du transport, du stockage, de l'étalement sur le sol et du traitement des engrais animaux;
+
+6° en prenant des initiatives concernant le traitement des engrais;
+
+7° (...); &lt;DCFL 2006-12-22/32, art. 76, 2°, 014; En vigueur : 01-01-2007&gt;
+
+8° en s'assurant du maintien du décret sur les engrais et des arrêtés d'exécution de celui-ci;
+
+9° (...). &lt;DCFL 2006-12-22/32, art. 76, 2°, 014; En vigueur : 01-01-2007&gt;
+
+§ 2. L'agence est chargée de l'exécution de la politique pour la protection de la qualité du sol qui vise à le rendre ou à le garder en bon état pour le plus possible de fonctions du sol.
+
+L'agence remplit cette tâche entre autres :
+
+1° en faisant un tour d'horizon de la situation des sols en Région flamande et en les surveillant;
+
+2° en contribuant à la préparation et à l'exécution de la politique de protection des sols;
+
+3° en protégeant les sols avec valeur exceptionnelle contre entre autres la pollution par les pesticides et la détérioration à cause de l'érosion et de la dépravation.
+
+§ 8. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 23, 019; En vigueur : 28-02-2011&gt;
+
+### Section II. - Tâches optionnelles qui sont réalisées à la demande de et en collaboration avec les services compétents du Gouvernement flamand ou les agences compétentes ou, le cas échéant, en collaboration avec les administrations locales compétentes &lt;Insérée par DCFL 2004-05-07/64, art. 11; En vigueur : 01-04-2006&gt;
+
+##### Art. 6bis
+
+&lt;Inséré par DCFL 2004-05-07/64, art. 12; En vigueur : 01-04-2006&gt; § 1er. L'agence a pour tâche de collaborer à l'assistance de l'établissement général du domaine extérieur et des espaces ouverts, à la demande des services compétents du Gouvernement flamand, des agences compétentes ou, le cas échéant des administrations locales compétentes.
+
+L'agence remplit cette tâche entre autres :
+
+1° en collaborant à la politique relative à l'établissement et au développement de l'instrumentation de l'aménagement;
+
+2° en collaborant à la préparation, à l'exécution, à l'assurance de la maintenance, à la surveillance et à l'évaluation des projets d'aménagement;
+
+3° en collaborant à la préparation à l'exécution du remembrement des propriétés terriennes;
+
+4° en collaborant à la préparation et à l'exécution de l'aménagement du territoire;
+
+5° en collaborant à la préparation et à l'exécution de l'aménagement de la nature;
+
+6° en construisant, en aménagement et en favorisant l'exploitation des bâtiments d'entreprises agraires et d'entreprises directement liées au secteur agraire, et en déplaçant des entreprises, y compris la maison d'habitation et les terrains qui sont nécessaires pour l'entreprise.
+
+§ 2. L'agence a pour mission l'exécution de la politique intégrée des campagnes à l'exception des aspects qui ont été attribués à d'autres agences ou qui ressortent d'un autre domaine politique.
+
+L'agence remplit cette tâche entre autres :
+
+1° en préparant, stimulant et soutenant les projets et les programmes en collaboration avec d'autres domaines politiques et les administrations locales compétentes;
+
+2° en préparant et en soutenant les structures, les instruments et l'étude sous-tendant la politique et en gérant le financement de la politique intégrée des campagnes;
+
+3° en donnant des avis à propos de l'utilisation du domaine extérieur et des espaces ouverts en fonction de la politique sur les campagnes.
+
+§ 3. L'agence a pour tâche de créer et de gérer un bureau unique de contrats de gestion pour le groupe cible agriculture.
+
+L'agence remplit cette tâche entre autres :
+
+1° en préparant ces contrats de gestion en collaboration avec les services du Gouvernement flamand et les agences du [<sup>1</sup> [<sup>3</sup> domaine politique de l'Environnement et de l'Aménagement du Territoire]<sup>3</sup>]<sup>1</sup> et des autres domaines politiques;
+
+2° en concluant ces contrats de gestion;
+
+3° en exécutant une stratégie d'accompagnement active et en suivant l'exécution des contrats.
+
+§ 4. L'agence a pour tâche de collaborer à l'exécution de la politique terrienne à la demande des services compétents du Gouvernement flamand ou des agences compétentes.
+
+L'agence remplit cette tâche entre autres :
+
+1° en acquérant des biens immobiliers en dehors de son domaine politique au nom et pour le compte de la Région flamande;
+
+2° soit en acquérant, au sein de son domaine politique, des biens au nom et pour le compte des agences avec la personnalité juridique du domaine politique, soit en acquérant des biens en son nom propre et pour son propre compte, en les gérant administrativement jusqu'au transfert et en les transférant;
+
+3° en recueillant des informations à propos des biens immobiliers et en les mettant à disposition de manière centrale;
+
+4° en mettant sur pied un lieu pour annoncer les offres de vente au sein du domaine de politique.
+
+§ 5. L'agence a pour tâche d'offrir son assistance à l'[<sup>2</sup> agence [<sup>4</sup> " Digitaal Vlaanderen "]<sup>4</sup>]<sup>2</sup> ].
+
+§ 6. L'agence a pour tâche de mettre sur pied et de gérer une banque de données terriennes.
+
+L'agence remplit cette tâche entre autres :
+
+1° en stockant, traitant et en gérant des informations à propos des caractéristiques et de l'utilisation du sol et des données à propos des aspects d'aménagement des lieux ouverts;
+
+2° en collaborant à l'exécution d'études à propos de l'interprétation des données en fonction de leurs implications économiques, sociales et spatiales;
+
+3° en s'occupant de la mise au point, de la gestion et de la distribution de fichiers de données et de leurs informations dérivées dans le cadre de la banque de données environnementales.
+
+§ 7. Les tâches de l'agence concernant les lieux ouverts et le domaine extérieur concernent, à la demande des services compétents du Gouvernement flamand ou des agences compétentes :
+
+1° l'encouragement d'initiatives, la collaboration au niveau des initiatives et la réalisation des initiatives qui peuvent contribuer au développement des lieux ouverts et du domaine extérieur. L'agence collabore en particulier à la préservation de la nature, à la politique intégrale de l'eau, à la protection des sols, à la préservation générale des paysages, à la préservation des monuments, à la préservation des monuments archéologiques, au boisement et au reboisement;
+
+2° en collaborant au soutien général de la politique concernant les lieux ouverts et le domaine extérieur.
+
+[<sup>1</sup> § 8. L'agence est chargée des tâches imposées à la " Vlaamse Grondenbank " conformément au décret relatif à la " Vlaamse Grondenbank ".]<sup>1</sup>
+
+[<sup>5</sup> § 9. L'agence se voit confier les missions dévolues à l'Agence flamande terrienne conformément au décret du 26 janvier 2024 relatif à l'approche programmatique de l'azote.]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 24, 019; En vigueur : 28-02-2011&gt;
+
+(2)&lt;AGF 2016-03-18/17, art. 2, 026; En vigueur : 01-01-2016&gt;
+
+(3)&lt;DCFL 2017-10-27/06, art. 2, 028; En vigueur : 07-12-2017&gt;
+
+(4)&lt;DCFL 2021-04-02/35, art. 15, 031; En vigueur : 10-05-2021&gt;
+
+(5)&lt;DCFL 2024-01-26/27, art. 63, 032; En vigueur : 23-02-2024&gt;
+
+## CHAPITRE VI. - Relation avec les autres niveaux d'administration, domaines de politique et acteurs, collaboration et coordination au niveau du contenu, compétences &lt;Inséré par DCFL 2004-05-07/64, art. 13; En vigueur : 01-04-2006&gt;
+
+##### Art. 7
+
+&lt;DCFL 2004-05-07/64, art. 14, 011; En vigueur : 01-04-2006&gt; L'agence poursuit sa mission et réalise ses tâches pour contribuer à la préparation de la politique du [<sup>1</sup> [<sup>2</sup> domaine politique de l'Environnement et de l'Aménagement du Territoire]<sup>2</sup>]<sup>1</sup>, y compris la planification environnementale et la réglementation, ou pour exécuter la politique fixée. La préparation de la politique et l'exécution de la politique constituent l'objet du cycle de politique et de gestion dirigé par le Gouvernement flamand et le département.
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 25, 019; En vigueur : 28-02-2011&gt;
+
+(2)&lt;DCFL 2017-10-27/06, art. 3, 028; En vigueur : 07-12-2017&gt;
+
+##### Art. 8
+
+&lt;DCFL 2004-05-07/64, art. 15, 011; En vigueur : 01-04-2006&gt; Dans le cadre de sa mission et de ses tâches, l'agence coopère, en collaboration au niveau du domaine politique et de manière coordonnée par le Gouvernement flamand et le département :
+
+1° à la collaboration internationale, européenne, suprarégionale et interrégionale et à la prise de décision dans le domaine de l'environnement;
+
+2° à la stimulation de la réalisation des objectifs de la politique environnementale par d'autres domaines de politique et à l'élaboration de formes de collaboration pour ce faire;
+
+3° à la réalisation de formes de collaboration avec les autorités locales;
+
+4° à la réalisation de formes de collaboration avec des organisations non gouvernementales et des groupes d'intérêts.
+
+##### Art. 8bis
+
+(Supprimé) &lt;DCFL 2004-05-07/64, art. 16, 011; En vigueur : 01-04-2006&gt;
+
+##### Art. 9
+
+&lt;DCFL 2004-05-07/64, art. 17, 011; En vigueur : 01-04-2006&gt; Dans le cadre de sa mission et de ses tâches, l'agence coopère, en collaboration au niveau du domaine politique et de manière coordonnée par le Gouvernement flamand et le département :
+
+1° à la transposition et l'application complètes du droit environnemental international et européen et aux accords de coopération avec d'autres régions;
+
+2° à la stratégie et à la planification de la communication du domaine politique, y compris la sensibilisation et la délivrance d'informations;
+
+3° à la réalisation d'une large base sociale pour sa mission et à la favorisation de la participation de la société dans celle-ci;
+
+4° à la politique coordonnée du groupe cible du domaine de politique;
+
+au développement d'une instrumentation la plus intégrée possible pour la politique environnementale;
+
+6° à la détermination des besoins d'informations, à la collecte intégrée des données et des informations et à la gestion intégrée des informations;
+
+7° à la direction intégrée de la recherche scientifique.
+
+##### Art. 10
+
+&lt;DCFL 2004-05-07/64, art. 18, 011; En vigueur : 01-04-2006&gt; § 1er. L'agence peut réaliser toutes les activités qui contribuent directement ou indirectement à remplir sa mission ou ses tâches.
+
+§ 2. L'agence peut acquérir, que ce soit au nom de la Région flamande ou au nom d'autres agences, des biens immobiliers qui sont utiles pour l'exécution de sa mission et de ses tâches. Elle peut également les aliéner si ce n'est plus le cas.
+
+Le Gouvernement flamand peut mandater l'agence pour les expropriations dans les cas où elle estime que l'obtention des biens en question est nécessaire pour l'intérêt général.
+
+§ 3. L'agence peut [<sup>2</sup> donner ou ses propriétés à ferme ou en location]<sup>2</sup> pour autant que cela soit utile pour l'exécution de sa mission et de ses tâches.
+
+§ 4. L'agence peut faire réaliser des études scientifiques pour autant que ce soit nécessaire pour l'exécution de ses tâches.
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 6. L'agence peut exercer le droit de préemption qui est attribué à l'agence par la réglementation en la matière.
+
+§ 7. L'agence réalise l'achat obligatoire de biens construits et non construits qui est attribué à l'agence par la réglementation en la matière.
+
+[<sup>1</sup> § 8. L'agence peut accorder à l'acheteur une remise de paiement lors de l'aliénation des immeubles domaniaux propres. Le prix d'achat est remboursé au taux d'intérêt à fixer par le Gouvernement flamand. Le délai de remboursement est de 20 ans au maximum.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/05, art. 2, 018; En vigueur : 01-01-2006&gt;
+
+(2)&lt;DCFL 2010-12-23/39, art. 26, 019; En vigueur : 28-02-2011&gt;
+
+##### Art. 10/1
+
+[<sup>1</sup> Les autorités administratives fournissent à la VLM, sur simple demande ou de leur propre initiative, toutes les informations, y compris les données personnelles, qui sont nécessaires pour l'exercice des tâches suivantes dont la VLM est chargée :
+
+1° en exécution du décret du 27 mars 2009 établissant un cadre pour la compensation des usagers lors de modifications d'affectation, surimpressions et servitudes d'utilité publique : le calcul de la compensation des usagers ;
+
+2° en exécution du décret du 18 juillet 2003 relatif à la politique intégrée de l'eau [<sup>2</sup> , coordonné le 15 juin 2018]<sup>2</sup> : l'exercice de l'obligation d'acquisition et de l'obligation d'indemnisation ;
+
+3° en exécution du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel :
+
+a) l'élaboration de rapports, plans et listes dans le cadre de l'aménagement de la nature et le calcul d'indemnités dans le cadre de l'aménagement de la nature ;
+
+b) l'exercice de l'obligation d'acquisition ;
+
+c) le calcul des indemnités pour la hausse du niveau d'eau dans le cadre de plans directeurs de la nature ;
+
+4° en exécution du décret du 21 décembre 1988 portant création d'une Société flamande terrienne :
+
+a) l'élaboration d'études relatives à la préparation, à la mise en oeuvre, au suivi et à l'évaluation de projets d'aménagement, axées sur le soutien de l'aménagement général de l'espace rural et de l'espace ouvert ;
+
+b) l'élaboration d'analyses de susceptibilité agricole et de rapports d'incidences agricoles relatifs aux tâches de la VLM contribuant à l'aide à la décision politique générale en matière d'espace ouvert et d'espace rural et relatifs aux projets et programmes que la VLM prépare, encourage et soutient en coopération avec d'autres domaines politiques et les administrations locales compétentes ;
+
+5° en exécution du décret du 16 juin 2006 portant création d'une " Vlaamse Grondenbank " (Banque foncière flamande) et portant modification de diverses dispositions :
+
+a) la constitution de réserves foncières ;
+
+b) l'échange de biens immobiliers ;
+
+c) la gestion de biens immobiliers ;
+
+d) le déplacement d'entreprises agricoles ;
+
+6° en exécution du décret du 28 mars 2014 relatif à la rénovation rurale.
+
+L'agence est responsable du traitement de l'information, visée à l'alinéa premier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-03-28/54, art. 7.2.3, 024; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2024-05-17/29, art. 23, 033; En vigueur : 20-07-2024&gt;
+
+## CHAPITRE VII.
+
+&lt;Abrogé par DCFL 2014-03-28/54, art. 7.2.4, 024; En vigueur : 01-11-2014 (voir AGF 2014-06-06/24, art. 7.1.1.9)&gt;
+
+##### Art. 11
+
+&lt;Abrogé par DCFL 2014-03-28/54, art. 7.2.4, 024; En vigueur : 01-11-2014 (voir AGF 2014-06-06/24, art. 7.1.1.9)&gt;
+
+##### Art. 12
+
+&lt;Abrogé par DCFL 2014-03-28/54, art. 7.2.4, 024; En vigueur : 01-11-2014 (voir AGF 2014-06-06/24, art. 7.1.1.9)&gt;
+
+##### Art. 13
+
+&lt;Abrogé par DCFL 2014-03-28/54, art. 7.2.4, 024; En vigueur : 01-11-2014 (voir AGF 2014-06-06/24, art. 7.1.1.9)&gt;
+
+##### Art. 14
+
+&lt;Abrogé par DCFL 2014-03-28/54, art. 7.2.4, 024; En vigueur : 01-11-2014 (voir AGF 2014-06-06/24, art. 7.1.1.9)&gt;
+
+## CHAPITRE VIII. - Administration et fonctionnement de l'agence &lt;Chapitre II est remplacé par chapitre VIII par DCFL 2004-05-07/64, art. 21, 011; En vigueur : 01-04-2006&gt;
+
+### Section Ire. - Organes &lt;Insérée par DCFL 2004-05-07/64, art. 22; En vigueur : 01-04-2006&gt;
+
+##### Art. 15
+
+&lt;DCFL 2004-05-07/64, art. 23, 011; En vigueur : 01-04-2006&gt; Les organes de l'agence sont :
+
+1° l'assemblée générale des actionnaires;
+
+2° le conseil d'administration;
+
+3° l'administrateur délégué de l'agence, chargé de l'administration quotidienne;
+
+4° le directeur général qui assiste l'administrateur délégué de l'agence dans l'exercice de l'administration quotidienne.
+
+[<sup>2</sup> Sans préjudice des dispositions du Décret de gouvernance, du présent décret, du Code flamand des Finances publiques du 29 mars 2019 et des statuts, le fonctionnement des organes visés à l'alinéa 1er, 1° à 4°, est en outre réglé par le Code des sociétés et des associations]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.3, 029; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2024-05-17/29, art. 24, 033; En vigueur : 20-07-2024&gt;
+
+### Section II. - Assemblée générale des actionnaires &lt;Insérée par DCFL 2004-05-07/64, art. 24; En vigueur : 01-04-2006&gt;
+
+##### Art. 16
+
+&lt;DCFL 2004-05-07/64, art. 25, 011; En vigueur : 01-04-2006&gt; L'assemblée générale des actionnaires est composée de tous les actionnaires de l'agence. [<sup>1</sup> ...]<sup>1</sup>
+
+Le rapport du conseil d'administration et le rapport du [<sup>2</sup> commissaire]<sup>2</sup> sont communiqués à l'assemblée générale. Elle se prononce à propos des conséquences de ces rapports, ainsi qu'à propos du plan des comptes annuels. Elle accorde une quittance aux membres du conseil d'administration. [<sup>1</sup> Elle peut à tout moment décider de placer de nouvelles actions.]<sup>1</sup> Les statuts peuvent être modifiés par elle à condition que le Gouvernement flamand donne son approbation. [<sup>1</sup> le conseil d'administration peut à tout moment procéder]<sup>1</sup> à la convocation d'assemblées générales extraordinaires. Lorsque la réunion est demandée par les actionnaires qui représentent au moins un cinquième du capital social, elle doit avoir lieu dans les trente jours à partir de la demande.
+
+Les statuts de l'agence déterminent les règles ultérieures à propos du statut et du fonctionnement de l'assemblée générale.
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 27, 019; En vigueur : 28-02-2011&gt;
+
+(2)&lt;DCFL 2017-06-30/08, art. 30, 027; En vigueur : 17-07-2017&gt;
+
+### Section III. - Conseil d'administration &lt;Insérée par DCFL 2004-05-07/64, art. 26; En vigueur : 01-04-2006&gt;
+
+#### Sous-Section. - Compétences, délégation des compétences &lt;Insérée par DCFL 2004-05-07/64, art. 26; En vigueur : 01-04-2006&gt;
+
+##### Art. 17
+
+[<sup>6</sup> Nonobstant l'article III.8 du Décret de gouvernance, l'agence est administrée par un conseil d'administration au sens de l'article 7:85 du Code des sociétés et des associations. Le administrateur délégué, le directeur général et les commissaires du gouvernement ou leurs suppléants assistent au conseil d'administration avec voix consultative]<sup>6</sup>.
+
+[<sup>6</sup> Le conseil d'administration est compétent pour accomplir tous les actes nécessaires ou utiles à la réalisation de l'objet de l'agence, à l'exception de ceux pour lesquels, en vertu de la loi ou du décret, l'assemblée générale ou un autre organe de l'agence est exclusivement compétent]<sup>6</sup>. Ainsi, il règle entre autres ce qui suit :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° il se prononce à propos des emprunts [<sup>1</sup> ...]<sup>1</sup>, il donne les garanties pour les obligations qui sont contractées par l'agence et accepte la garantie proposée pour les engagements qui sont pris à son encontre;
+
+3° il détermine par un règlement général et avec l'approbation du Gouvernement flamand le taux d'intérêt et les conditions des emprunts de l'agence;
+
+4° il fixe les programmes pour l'acquisition, la gestion et le transfert de terrains, de bâtiments et d'entreprises;
+
+5° [<sup>2</sup> il établit le projet de budget et le projet d'ajustement du budget, ainsi que les états estimatifs justificatifs et les exposés des motifs, il établit le compte général de l'Agence et exerce les compétences qui lui sont dévolues par [<sup>5</sup> le Code flamand des Finances publiques du 29 mars 2019]<sup>5</sup>]<sup>2</sup>
+
+6° il conclut des accords d'entreprise pour des travaux, des livraisons et des services;
+
+7° il exerce des compétences qui lui sont attribuées en vertu de l'arrêté du Gouvernement flamand stipulant la réglementation du statut juridique du personnel, ainsi qu'en vertu de toutes les autres dispositions légales, décrétales ou réglementaires qui sont d'application sur le personnel;
+
+8° il accuse réception de toutes les sommes et de toutes les valeurs qui reviennent à l'agence, ou il charge ses représentants de la perception de celles-ci;
+
+9° il traite toutes les affaires qui ont un rapport avec les intérêts de l'agence, et prend des arrangements et fait des compromis à ce propos;
+
+10° il donne une procuration pour entamer les procédures judiciaires;
+
+11° il renonce à tous les droits qui concernent les affaires, aux privilèges et aux exigences de dissolution, et accorde une procuration pour la suspension de toutes les souscriptions, virements, saisies, oppositions et tout autre empêchement hypothécaires ou privilégiés, sans devoir justifier l'épuisement des créances et des paiements sociaux. A ce propos, il peut transmettre ses compétences à un administrateur délégué de l'agence ou à un [<sup>6</sup> membre du personnel]<sup>6</sup> désigné par ce dernier;
+
+12° il désigne le secrétaire de toutes les commissions de coordination, de chaque comité de remembrement et de chaque autre organe, chargé du remembrement des propriétés terriennes et de l'aménagement rural, et il fournit, dans les limites de l'argent disponible de la société, les crédits nécessaires pour chaque organe précité pour la réalisation des travaux et pour toutes les autres dépenses nécessaires pour la réalisation de ceux-ci;
+
+13° il désigne le secrétaire de chaque comité de projet et de chaque commission de projet, créés pour chaque projet d'aménagement de la nature.
+
+[<sup>1</sup> 14° dans les limites de la loi, du décret ou du règlement, il dispose de fonds en dépôt ou sur un compte courant.]<sup>1</sup>
+
+§ 2. Le conseil d'administration ne peut en aucun cas déléguer les compétences suivantes :
+
+1° [<sup>3</sup> ...]<sup>3</sup> [<sup>6</sup> les compétences expressément réservées au conseil d'administration par la loi ou le décret]<sup>6</sup>;
+
+[<sup>3</sup> 2° l'établissement du plan d'entreprise conformément à [<sup>4</sup> l'article III.61, § 1er, alinéa deux du Décret de gouvernance]<sup>4</sup> ;
+
+3° l'établissement du rapport annuel relatif à la mise en oeuvre du plan d'entreprise conformément à [<sup>4</sup> l'article III.62 du Décret de gouvernance]<sup>4</sup>.]<sup>3</sup>
+
+4° l'établissement du plan de budget;
+
+5° l'établissement du plan d'adaptation du budget;
+
+6° l'établissement des comptes généraux;
+
+7° le rapport à propos de la réalisation du budget;
+
+8° l'établissement d'estimations justifiées et de l'exposé des motifs.
+
+§ 3. Le conseil d'administration peut, sous sa propre responsabilité, transmettre une partie de ses compétences à un ou à plusieurs de ses membres ou à l'administrateur délégué, à l'exception des compétences stipulées au § 2. [<sup>6</sup> Une telle délégation ne porte pas préjudice au pouvoir de décision du conseil d'administration. Elle peut être révoquée à tout moment.]<sup>6</sup>
+
+L'administrateur délégué peut, à condition d'avoir obtenu l'approbation du conseil d'administration, transmettre certaines de ses compétences aux [<sup>6</sup> membres du personnel]<sup>6</sup> de l'agence désignés par lui, à l'exception des compétences stipulées au § 2.
+
+§ 4. Le conseil d'administration peut constituer en son sein [<sup>6</sup> et sous sa responsabilité]<sup>6</sup> un comité d'administration qui est chargé des décisions à propos de l'obtention du droit de propriété ou du droit d'utilisation des propriétés dans l'exercice de la mission et des tâches, stipulées aux articles 5, 6 et 6 bis [<sup>3</sup> ...]<sup>3</sup>, qui sont confiées à l'agence.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Les statuts de l'agence déterminent les règles ultérieures concernant le fonctionnement et la composition du comité d'administration.
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 28, 019; En vigueur : 28-02-2011&gt;
+
+(2)&lt;DCFL 2013-03-01/19, art. 18, 022; En vigueur : 25-04-2013&gt;
+
+(3)&lt;DCFL 2017-06-30/08, art. 31, 027; En vigueur : 17-07-2017&gt;
+
+(4)&lt;DCFL 2018-12-07/05, art. IV.4, 029; En vigueur : 01-01-2019&gt;
+
+(5)&lt;DCFL 2019-03-29/45, art. 111, 030; En vigueur : 01-01-2020&gt;
+
+(6)&lt;DCFL 2024-05-17/29, art. 25, 033; En vigueur : 20-07-2024&gt;
+
+#### Sous-Section II. - Composition, désignation, licenciement, fonctionnement &lt;Insérée par DCFL 2004-05-07/64, art. 29; En vigueur : 01-04-2006&gt;
+
+##### Art. 18
+
+&lt;DCFL 2004-05-07/64, art. 29, 011; En vigueur : 01-04-2006&gt; § 1er. Le conseil d'administration est composé [<sup>5</sup> ...]<sup>5</sup> au maximum de 17 membres, parmi lesquels un président et un vice-président. Le Gouvernement flamand détermine le nombre de membres, nomme et révoque le président, le vice-président et les autres membres du conseil. Il détermine également le fonctionnement du conseil.
+
+[<sup>5</sup> Tous les administrateurs de l'agence sont nommés sur la base de leur expertise complémentaire en matière de administration générale de l'agence, de leur expertise spécifique concernant la matière de fond et du domaine stratégique dans lequel l'agence opère]<sup>5</sup>.
+
+[<sup>3</sup> ...]<sup>3</sup>.
+
+§ 2. Parmi les membres du conseil d'administration de l'agence, il y a autant d'administrateurs qu'il y a de provinces représentées dans l'assemblée des actionnaires, sur la base d'une double liste présentée par ces provinces dans lesquelles chaque province propose un candidat masculin et un candidat féminin.
+
+[<sup>5</sup> Un certain nombre d'administrateurs indépendants sont nommés conformément aux articles III.40 à III.43 du Décret de gouvernance du 7 décembre 2018. Par dérogation au § 1er, alinéa 1er, le Gouvernement flamand ne peut licencier les administrateurs indépendants qu'en cas de motifs graves, sur proposition du conseil d'administration, conformément à l'article III.43, alinéa 1er, du Décret de gouvernance du 7 décembre 2018.
+
+Les administrateurs autres que ceux visés aux alinéas 1er et 2 sont nommés sur proposition du Gouvernement flamand.]<sup>5</sup>
+
+§ 3. Pour autant que cela ne soit par réglé dans l'arrêté du Gouvernement flamand, stipulé au § 1er, les statuts de l'agence déterminent les règles ultérieures concernant le statut et le fonctionnement du conseil d'administration.
+
+§ 4. [<sup>3</sup> ...]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 29, 019; En vigueur : 28-02-2011&gt;
+
+(2)&lt;DCFL 2013-03-01/19, art. 19, 022; En vigueur : 25-04-2013&gt;
+
+(3)&lt;DCFL 2015-12-18/24, art. 13, 025; En vigueur : 08-01-2016&gt;
+
+(4)&lt;DCFL 2017-06-30/08, art. 32, 027; En vigueur : 17-07-2017&gt;
+
+(5)&lt;DCFL 2024-05-17/29, art. 26, 033; En vigueur : 20-07-2024&gt;
+
+### Section IV. - La gestion quotidienne &lt;Insérée par DCFL 2004-05-07/64, art. 30; En vigueur : 01-04-2006&gt;
+
+##### Art. 18bis
+
+&lt;Inséré par DCFL 2004-05-07/64, art. 30; En vigueur : 01-04-2006&gt; § 1er. La gestion quotidienne de l'agence, ainsi que la représentation de l'agence pour cette gestion quotidienne, est confiée à l'administrateur délégué de l'agence. Il est assisté à ce niveau par un directeur général qui le remplace en cas d'absence.
+
+Le Gouvernement flamand désigne l'administrateur délégué et le directeur général qui assiste l'administrateur délégué dans le cadre de l'exercice de la gestion quotidienne.
+
+§ 2. L'administrateur délégué de l'agence est entre autres chargé des tâches suivantes de l'administration quotidienne :
+
+1° l'administrateur délégué exerce les compétences qui lui sont attribuées en vertu de l'arrêté du Gouvernement flamand stipulant la réglementation du statut juridique du personnel, ainsi qu'en vertu de toutes les autres dispositions légales, décrétales ou réglementaires qui sont d'application sur le personnel;
+
+2° l'administrateur délégué assiste aux réunions du conseil d'administration et remplit la fonction de rapporteur. L'administrateur délégué dispose d'une voix consultative;
+
+3° l'administrateur délégué est chargé de l'exécution des décisions du conseil d'administration et de l'assemblée générale;
+
+4° l'administration quotidienne des affaires sociales est confiée à l'administrateur délégué à condition qu'il établisse un rapport à ce propos au conseil d'administration. L'administrateur délégué peut transmettre certaines compétences ressortant de sa responsabilité et concernant l'administration quotidienne à des [<sup>2</sup> membres du personnel]<sup>2</sup> de l'agence désignés par lui;
+
+5° l'administrateur délégué représente [<sup>1</sup> l'agence]<sup>1</sup> vis-à-vis de tierces parties dans les opérations qui ont un rapport avec cette administration quotidienne et il signe les contrats qui sont conclus par l'agence. L'administrateur délégué fournit des copies et des extraits des rapports du conseil d'administration et de l'assemblée générale. L'administrateur délégué peut transmettre ces compétences ressortant de sa responsabilité à des [<sup>2</sup> membres du personnel]<sup>2</sup> de l'agence désignés par lui;
+
+6° les procédures judiciaires sont intentées à la demande de l'administrateur délégué;
+
+7° l'administrateur délégué désigne les [<sup>2</sup> membres du personnel]<sup>2</sup> qu'il charge de la signature, au nom de l'agence, des actes de remembrement, des acteurs complémentaires de remembrement et des actes d'aménagement de la nature :
+
+8° l'administrateur délégué émancipe toutes les souscriptions préférentielles et hypothécaires [<sup>2</sup> ...]<sup>2</sup>. L'administrateur délégué peut transmettre ses compétences en la matière aux [<sup>2</sup> membres du personnel]<sup>2</sup> désignés par lui;
+
+9° l'administrateur délégué dirige le travail des membres du personnel de l'agence et exerce un contrôle sur celui-ci;
+
+10° L'agence est représentée dans tous les cas vis-à-vis des tierces parties par l'administrateur délégué, sans que celui-ci doive présenter une preuve de son mandat ou de la décision prise par le conseil d'administration ou par l'assemblée générale.
+
+Les statuts déterminent les règles ultérieures concernant la notion d'administration quotidienne et les compétences de l'administrateur délégué et du directeur général de l'agence.
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 30, 019; En vigueur : 28-02-2011&gt;
+
+(2)&lt;DCFL 2024-05-17/29, art. 27, 033; En vigueur : 20-07-2024&gt;
+
+## CHAPITRE IX. [<sup>1</sup> - Le plan d'entreprise et le rapport annuel]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 33, 027; En vigueur : 17-07-2017&gt;
+
+##### Art. 18ter
+
+[<sup>1</sup> Conformément à [<sup>2</sup> les articles III.61 et III.62 du Décret de gouvernance]<sup>2</sup>, les conditions et la procédure pour la réalisation des missions de service public sont arrêtées par le conseil dans un plan d'entreprise annuel, en concertation avec le Gouvernement flamand, ainsi que dans un rapport annuel relatif à la mise en oeuvre du plan d'entreprise.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 34, 027; En vigueur : 17-07-2017&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.5, 029; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE X. - Dispositions financières &lt;Inséré par DCFL 2004-05-07/64, art. 32; En vigueur : 01-04-2006&gt;
+
+### Section Ire. - Revenus &lt;Insérée par DCFL 2004-05-07/64, art. 32; En vigueur : 01-04-2006&gt;
+
+##### Art. icle18quater
+
+Article 18quater.&lt;Inséré par DCFL 2004-05-07/64, art. 32; En vigueur : 01-04-2006&gt; § 1er. L'agence peut disposer des recettes suivantes :
+
+1° [<sup>3</sup> allocations]<sup>3</sup>;
+
+2° des prêts;
+
+3° des prélèvements fiscaux pour autant qu'ils soient attribués à l'agence par décret;
+
+4° des rétributions pour autant qu'elles soient attribuées à l'agence par décret;
+
+5° des recettes provenant des actes de gestion ou de disposition concernant les biens propres au domaine;
+
+6° des dons et des legs en argent comptant [<sup>1</sup> ou des dons et des legs de biens ou de droits]<sup>1</sup>. Le conseil d'administration évalue d'abord l'opportunité et les risques de l'acceptation;
+
+7° des recettes des propres participations et des prêts octroyés par l'agence à des tiers;
+
+8° les produits de la vente de propres participations;
+
+9° les subventions pour lesquelles l'agence entre en ligne de compte comme bénéficiaire;
+
+10° les recouvrements de dépenses indues;
+
+11° les indemnités pour les prestations vis-à-vis des tierces personnes, en fonction des conditions, stipulées dans le [<sup>2</sup> plan d'entreprise]<sup>2</sup>;
+
+12° les recettes des droits intellectuels;
+
+13° [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. A moins que cela ne soit convenu autrement dans un décret, les rentrées stipulées au § 1er sont considérées comme des rentrées qui sont destinées pour les dépenses communes.
+
+§ 3. Le Gouvernement flamand peut fournir à l'agence des acomptes qui peuvent être réclamés afin de compléter les revenus de l'agence. Les règles de demande, de constatation, d'attribution et de remboursement de ces acomptes sont fixées par le Gouvernement flamand.
+
+L'agence peut s'engager dans un préfinancement afin de réaliser la mission, les tâches et les compétences, stipulées aux articles 5, 6, 6bis et 10 [<sup>2</sup> ...]<sup>2</sup>, qui sont transférées à l'agence.
+
+----------
+
+(1)&lt;DCFL 2013-03-01/19, art. 20, 022; En vigueur : 25-04-2013&gt;
+
+(2)&lt;DCFL 2017-06-30/08, art. 35, 027; En vigueur : 17-07-2017&gt;
+
+(3)&lt;DCFL 2024-05-17/29, art. 28, 033; En vigueur : 20-07-2024&gt;
+
+### Section II. [<sup>1</sup> - Commissaire]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-02-28/11, art. 22, 023; En vigueur : 01-10-2013&gt;
+
+##### Art. 18quinquies
+
+&lt;Inséré par DCFL 2004-05-07/64, art. 32; En vigueur : 01-04-2006&gt; [<sup>1</sup> Avec maintien de l'application du [<sup>2</sup> Code flamand des Finances publiques du 29 mars 2019]<sup>2</sup>, le contrôle sur la situation financière, sur le compte annuel et sur la régularité vis-à-vis des lois, décrets et les statuts de la société et des opérations représentées dans le compte annuel, est confié à un commissaire, une personne physique ou morale, inscrit au registre public de l'institut des Réviseurs d'Entreprises. "
+
+Avec maintien de l'application du décret visé à l'alinéa premier, le commissaire a les droits, obligations, tâches et compétences [<sup>3</sup> prévus par le Code des sociétés et des associations et par le Code flamand des Finances publiques du 29 mars 2019]<sup>3</sup>.
+
+Si la nature de droit public de la VLM l'exige, le Gouvernement flamand peut élargir la mission et les moyens d'action du commissaire.
+
+[<sup>3</sup> L'assemblée générale nomme le commissaire parmi les membres de l'Institut des réviseurs d'entreprises pour une période renouvelable de trois ans. L'assemblée générale fixe la rémunération du commissaire.
+
+Sans préjudice d'autres dispositions d'incompatibilité, les mêmes incompatibilités que celles pour le mandat de commissaire du gouvernement auprès de l'agence s'appliquent au commissaire. En outre, la fonction de commissaire est incompatible avec le mandat de commissaire du gouvernement auprès de l'agence.
+
+Conformément à l'article 28 du Code flamand des Finances publiques du 29 mars 2019, l'agence tient une comptabilité de gestion avec une composante analytique, conformément aux règles de la comptabilité double. La comptabilité de l'agence est tenue conformément à la législation sur la comptabilité et les comptes annuels des entreprises.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2014-02-28/11, art. 23, 023; En vigueur : 01-10-2013&gt;
+
+(2)&lt;DCFL 2019-03-29/45, art. 112, 030; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCFL 2024-05-17/29, art. 29, 033; En vigueur : 20-07-2024&gt;
+
+## CHAPITRE XI. - Règlement des pensions &lt;Inséré par DCFL 2004-05-07/64, art. 33; En vigueur : 01-04-2006&gt;
+
+##### Art. 18sexies
+
+&lt;Inséré par DCFL 2004-05-07/64, art. 33; En vigueur : 01-04-2006&gt; L'agence est habilitée à participer au règlement des pensions, institué par la loi du 28 avril 1958 relative à la pension du personnel de certains organismes d'utilité publique, ainsi que de leurs ayants droits
+
+## CHAPITRE XII. - Disposition finale &lt;Inséré par DCFL 2004-05-07/64, art. 34; En vigueur : 01-04-2006&gt;
+
+##### Art. 18septies
+
+&lt;Abrogé par DCFL 2019-03-29/45, art. 113, 030; En vigueur : 01-01-2020&gt;
+
+##### Art. 18octies
+
+[<sup>1</sup> En ce qui concerne la Région flamande, les mentions " Société terrienne nationale " et " STN " doivent respectivement être lus " Société terrienne flamande " et " VLM " dans les dispositions légales et réglementaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-12-23/39, art. 34, 019; En vigueur : 01-01-1989&gt;
+
+##### Art. 19
+
+Le présent décret entre en vigueur le 1er janvier 1989, à l'exception des articles 1er, 2, 3, 4 et 5 qui entrent en vigueur le jour de leur publication au Moniteur belge.

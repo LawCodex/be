@@ -1,0 +1,961 @@
+---
+title: "[Décret relatif à l'agence autonomisée externe Vlaamse Vervoermaatschappij - De Lijn]. <Traduction> <DCFL 2004-04-02/52, art. 2, 009; En vigueur : 15-03-2006>"
+identifier: "1990005147"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1990/07/31/1990005147/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1990-07-31
+published: 1990-10-27
+entry_into_force: 1991-01-01
+last_amended: 2024-03-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1990/07/31/1990005147/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 29-12-1992 et mise à jour au 05-03-2024"
+retrieved: 2026-10-12
+---
+
+# 31 JUILLET 1990. - [Décret relatif à l'agence autonomisée externe Vlaamse Vervoermaatschappij - De Lijn]. &lt;Traduction&gt; &lt;DCFL 2004-04-02/52, art. 2, 009; En vigueur : 15-03-2006&gt;
+
+## CHAPITRE I. - (Dispositions générales.) &lt;DCFL 2004-04-02/52, art. 3, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 1
+
+Le présent décret règle une (matière régionale). &lt;DCFL 2004-04-02/52, art. 4, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 1erbis
+
+&lt;Inséré par DCFL 2004-04-02/52, art. 4; En vigueur : 15-03-2006&gt; Dans le présent décret, on entend par :
+
+1° [<sup>1</sup> le Décret de gouvernance : le Décret de gouvernance du 7 décembre 2018]<sup>1</sup>;
+
+2° [<sup>2</sup> le décret relatif à l'accessibilité de base : le décret du 26 avril 2019 relatif à l'accessibilité de base]<sup>2</sup>;
+
+3°[<sup>5</sup> le Code des sociétés et des associations : le Code des sociétés et des associations du 23 mars 2019 ;]<sup>5</sup>;
+
+4° la Société : la "Vlaamse Vervoermaatschappij - De Lijn" (Société flamande des Transports "De Lijn").
+
+[<sup>3</sup> 5° les conditions de voyage : les conditions de voyage telles que mentionnées à l'article 2, 20°, du décret du 26 avril 2019 relatif à l'accessibilité de base ;
+
+6° le contrôleur : le membre du personnel habilité à constater les infractions visées à l'article 44ter, § 1, alinéa 1er ;
+
+7° le membre du personnel sanctionnateur : le membre du personnel qui inflige les amendes administratives visées à l'article 44ter, § 1, alinéa 1er ;
+
+8° jours ouvrables : chaque jour à l'exception du samedi, dimanche et des jours fériés légaux;]<sup>3</sup>
+
+[<sup>4</sup> 9° règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.6, 014; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2019-04-26/25, art. 49, 016; En vigueur : 22-06-2019&gt;
+
+(3)&lt;DCFL 2019-04-26/34, art. 6, 017; En vigueur : 04-07-2019&gt;
+
+(4)&lt;DCFL 2021-12-23/55, art. 3, 019; En vigueur : 03-03-2022&gt;
+
+(5)&lt;DCFL 2024-02-23/02, art. 2, 021; En vigueur : 15-03-2024&gt;
+
+## CHAPITRE II. - Création (...). &lt;DCFL 2004-04-02/52, art. 6, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 2
+
+Il est créé une association de droit public jouissant de la personnalité civile sous le nom de " Vlaamse Vervoermaatschappij " (Société des Transports flamande), en abrégé " VVM ", dénommée ci-après " la Société ".
+
+(La société de droit public créée en vertu du premier alinéa est transformée, sans interruption de l'individualité juridique, en une agence autonomisée externe telle que visée [<sup>1</sup> l'article III.7 du Décret de gouvernance]<sup>1</sup> et portera le nom "Vlaamse Vervoermaatschappij - De Lijn, en abrégé VVM - De Lijn".
+
+Le Gouvernement flamand détermine le domaine politique homogène dont l'agence fait partie.) &lt;DCFL 2004-04-02/52, art. 7, 1°, 009; En vigueur : 15-03-2006&gt;
+
+Les statuts de la Société sont fixés par l'Exécutif flamand.
+
+[<sup>2</sup> Les dispositions relatives à la société anonyme du Code des sociétés et des associations s'appliquent à la Société, dans la mesure où elles ne sont pas incompatibles avec le présent décret, le Décret de gouvernance et les statuts de la Société.]<sup>2</sup>
+
+[<sup>2</sup> Les dispositions du livre XX du Code de droit économique du 28 février 2013 ne s'appliquent pas à la Société, tout aussi peu que les règles de droit ayant trait à une situation de concours général de créanciers.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.7, 014; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2024-02-23/02, art. 3, 021; En vigueur : 15-03-2024&gt;
+
+##### Art. 2bis
+
+&lt;Inséré par DCFL 2004-04-02/52, art. 8; En vigueur : 15-03-2006&gt; La Société est créée pour une durée indéterminée. Elle ne peut être dissolue que par un décret réglant le mode et les conditions de sa liquidation.
+
+##### Art. 2ter
+
+&lt;Inséré par DCFL 2004-04-02/52, art. 9; En vigueur : 15-03-2006&gt; L'établissement du siège de la Société est fixé par le Gouvernement flamand.
+
+## CHAPITRE III. - Mission, tâches et compétences. &lt;Inséré par DCFL 2004-04-02/52, art. 10; En vigueur : 15-03-2006&gt;
+
+##### Art. 3
+
+[<sup>1</sup> La Société a pour objet toute activité se rapportant directement ou indirectement, en tout ou en partie, aux transports en commun urbains et suburbains dans, à partir de ou vers la Région flamande.
+
+La Société peut entreprendre toutes les activités pour lesquelles son personnel, ses installations et ses équipements peuvent être utilisés, dans la mesure où ces activités se rapportent aux transports en commun urbains et suburbains, y compris les moments de pointe au niveau de la demande.
+
+La Société peut procéder à toute forme de transport régulier de personnes, transport sur mesure, transport scolaire et transport événementiel, et peut satisfaire à toute obligation de service public résultant des dispositions du contrat de service public visé à l'article 44bis, alinéa 2, du présent décret, et selon les dispositions et conditions visées au décret Accessibilité de base et ses arrêtés d'exécution.
+
+Hors du cadre de son obligation de service public, la Société peut effectuer toutes les activités commerciales qui sont liées ou se rapportent directement ou indirectement à sa mission ou son objectif, si elles ne compromettent pas la mise en oeuvre de son obligation de service public.
+
+La Société est habilitée à effectuer des transactions et à conclure des conventions d'arbitrage. Toutefois, toute convention d'arbitrage conclue avant même la naissance du litige, est nulle.
+
+Sans préjudice de l'application de l'article III.18 du Décret de gouvernance, la Société peut créer, participer à, ou se faire représenter dans d'autres personnes morales.
+
+La Société décide librement, dans les limites de son objectif social, de l'acquisition, de l'utilisation et de l'aliénation ou du transfert de biens corporels et incorporels, de la constitution ou de l'abrogation de droits réels sur ces biens, ainsi que de l'exécution des décisions précitées et de leur financement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-23/02, art. 4, 021; En vigueur : 15-03-2024&gt;
+
+##### Art. 4
+
+(Abrogé) &lt;DCFL 2004-04-02/52, art. 12, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 5
+
+(Abrogé) &lt;DCFL 2004-04-02/52, art. 13, 009; En vigueur : 15-03-2006&gt;
+
+## CHAPITRE IV. (ancien chapitre III) - (Administration et fonctionnement). &lt;DCFL 2004-04-02/52, art. 14, 009; En vigueur : 15-03-2006&gt;
+
+### Section 1er. - Capital, prêts et dotations. &lt;Inséré par DCFL 2004-04-02/52, art. 14; En vigueur : 15-03-2006&gt;
+
+##### Art. 6
+
+§ 1. Le capital de la Société s'élève à (vingt neuf millions trois cent trente sept mille euros). &lt;DCFL 2004-04-02/52, art. 15, 009; En vigueur : 15-03-2006&gt;
+
+§ 2. Après que leurs organes statutaires respectifs auront marqué leur accord, la Société des Transports intercommunaux d'Anvers, la Société des Transports intercommunaux de Gand et la partie flamande de la Société nationale dehemins de fer vicinaux apporteront leur actif et leur passif à la Société, dont ils acquerront en contrepartie des actions.
+
+##### Art. 7
+
+Sauf dans le cas de transferts de capitaux provenant de la Société nationale des Chemins de fer vicinaux, de la Société des Transports intercommunaux d'Anvers et de la Société des Transports intercommunaux de Gand, le capital ne peut être augmenté que par l'inscription par des personnes physiques ou civiles, en vertu d'une décision de l'Exécutif flamand à des actions indivisibles, qui doivent aussitôt être libérées entièrement.
+
+(La Région flamande est toutefois exemptée de l'obligation de libération immédiate.) &lt;DCFL 1996-12-20/37, art. 93, 002; En vigueur : 01-01-1997&gt;
+
+##### Art. 8
+
+Les trois quarts du capital doivent rester à tout moment entre les mains des personnes civiles de droit public.
+
+(Toutes les actions de la Société sont nominatives.) &lt;DCFL 1992-12-18/30, art. 67, 002; En vigueur : 01-01-1992&gt;
+
+##### Art. 9
+
+En vue du financement des investissements en matériel nécessaires à la réalisation de ses buts, la Société peut, sans autorisation préalable, contracter toutes sortes de prêts et passer des conventions de crédit-bail financier et de location-vente. (La société peut en outre engager d'autres opérations visant à réaliser des produits financiers.) &lt;DCFL 2000-12-22/41, art. 76, 006; En vigueur : 01-01-2001&gt;
+
+La Société informera l'Exécutif flamand dans le détail de toutes les décisions en la matière, selon les modalités fixées par l'Exécutif flamand.
+
+Pour tous les autres prêts, dont le terme dépasse les dix jours, une autorisation préalable de l'Exécutif flamand est requise.
+
+L'Exécutif flamand peut accorder la garantie de la Région flamande pour les prêts.
+
+##### Art. 9bis
+
+[<sup>1</sup> Pour les projets de transports en commun adjugés par la Société, faisant l'objet d'un partenariat public-privé, participatif ou non, au sens du décret du 18 juillet 2003 relatif au partenariat public-privé, et dans lesquels le preneur d'ordre est tenu de mettre à disposition sur la base d'une convention DBFM conclue avec la Société l'infrastructure de transports en commun à ébaucher, à construire, à financer et à maintenir, sous la forme d'une location-financement d'immeubles conformément à l'article 44, § 3, 2°, b, du Code de la T.V.A., les dispositions suivantes sont d'application :
+
+1° sur première demande du preneur d'ordre, la Région flamande s'engage, dans une convention à conclure directement avec ce preneur d'ordre, à affecter l'infrastructure en question ultérieurement, après l'expiration de la convention DBFM en question, pour la durée restante des droits réels du preneur d'ordre sur l'infrastructure aménagée par lui, au transport en commun urbain et régional au sein du management du réseau approuvé ou fixé par le Gouvernement flamand conformément au décret du 20 avril 2001 relatif à l'organisation du transport de personnes par la route, qui fixe les exigences en matière de mobilité de base à réaliser par la Société.
+
+Dans le cas d'un tel engagement par la Région flamande, toute modification fondamentale du mode d'exploitation, telle que la conversion de traction électrique à non électrique et vice versa, est soumise à l'approbation du Ministre dont relève la Société; et
+
+2° dans le cas où, après l'expiration de la convention DBFM visée au 1°, il est établi que la Société n'a levé aucune option de reprise ou de location ultérieure vis-à-vis de l'infrastructure en question, le Gouvernement flamand désigne au nom et pour le compte de la Région flamande, sur première demande du preneur d'ordre et conformément à la règlementation et aux principes applicables en matière de compétition, d'égalité de traitement et de transparence, un exploitant qui, pour la durée restante des droits réels du preneur d'ordre sur l'infrastructure en question, exploite l'infrastructure ultérieurement, et ce sous les mêmes conditions que celles qui étaient valables en vertu de la convention DBFM avec la Société.
+
+3° dans le cas où, conformément aux dispositions du littera 2°, un exploitant est désigné par le Gouvernement flamand sur première demande du preneur d'ordre, les indemnités de disponibilité dues par cet exploitant au preneur d'ordre conformément aux dispositions du littera 2° pour l'exploitation de l'infrastructure en question pour la durée restante des droits réels de ce dernier sur cette infrastructure, sont déduites sur base annuelle des moyens de fonctionnement (dotation) de la Société.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2008-12-19/40, art. 35, 011; En vigueur : 01-01-2009&gt;
+
+##### Art. 10
+
+Afin de compléter ses revenus, une [<sup>1</sup> compensation]<sup>1</sup> est allouée chaque année à la Société par la Région flamande. &lt;DCFL 2004-04-02/52, art. 15bis, 009; En vigueur : 15-03-2006&gt;
+
+La Société est autorisée à accepter des subsides des provinces et des communes.
+
+----------
+
+(1)&lt;DCFL 2019-04-26/25, art. 51, 016; En vigueur : 22-06-2019&gt;
+
+##### Art. 11
+
+La Société est autorisée à accepter des donations et des legs. (Le Conseil d'administration évalue préalablement l'opportunité et les risques liés à l'acceptation.) &lt;DCFL 2004-04-02/52, art. 15ter, 009; En vigueur : 15-03-2006&gt;
+
+### Section 2. [<sup>1</sup> Organes de la Société]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-23/02, art. 5, 021; En vigueur : 15-03-2024&gt;
+
+##### Art. 12
+
+[<sup>1</sup>La Société est composée des organes suivants :
+
+1° l'assemblée générale ;
+
+2° le conseil d'administration ;
+
+3° l'administrateur délégué.
+
+Dans la mesure où ils ne sont pas réglés dans le présent décret, les compétences et le fonctionnement des organes visés à l'alinéa 1er sont arrêtés dans les statuts.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-23/02, art. 6, 021; En vigueur : 15-03-2024&gt;
+
+#### Sous-section 1. (ancienne section 1) - Assemblée générale. &lt;DCFL 2004-04-02/52, art. 17, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 13
+
+L'assemblée générale est composée des propriétaires des actions.
+
+Chaque action donne droit à une voix.
+
+L'([<sup>1</sup> L'article 7:55 du Code des sociétés et des associations]<sup>1</sup>) n'est pas applicable.
+
+Chacune des personnes civiles qui détiennent des actions est représentée par un mandataire spécialement désigné à cette fin. &lt;DCFL 2004-04-02/52, art. 18, 009; En vigueur : 15-03-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2024-02-23/02, art. 7, 021; En vigueur : 15-03-2024&gt;
+
+##### Art. 14
+
+L'assemblée générale approuve le compte annuel et donne décharge au conseil d'administration de l'exercice de son mandat.
+
+(La société communique le compte annuel approuvé et la décharge [<sup>1</sup> des membres]<sup>1</sup> du conseil d'administration au Gouvernement flamand. "La société communique le compte annuel approuvé et la décharge [<sup>1</sup> des membres]<sup>1</sup> du conseil d'administration au Parlement flamand.) &lt;DCFL 2004-04-02/52, art. 19, 009; En vigueur : 15-03-2006&gt;
+
+[<sup>1</sup> Les statuts peuvent uniquement être modifiés par un arrêté de l'Assemblée générale, voté à la majorité des trois quarts (3/4) des voix et après approbation du Gouvernement flamand. La modification des statuts produit ses effets au moment de la publication de l'arrêté d'approbation du Gouvernement flamand, avec la modification des statuts en annexe, au Moniteur belge, sauf disposition différente dans cet arrêté d'approbation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-26/34, art. 8, 017; En vigueur : 04-07-2019&gt;
+
+#### Sous-section 2. (ancienne section 2) - Conseil d'administration. &lt;DCFL 2004-04-02/52, art. 20, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 15
+
+§ 1. [<sup>1</sup> Le conseil d'administration est composé de onze membres, dont le président et le vice-président. Les membres sont nommés par le Gouvernement flamand. Deux administrateurs au nom des communes sont nommés en concertation avec l'organisation représentative des communes et de la Région flamande. Un administrateur est nommé sur proposition des organisations représentatives des travailleurs et employeurs, représentées au sein du Conseil socio-économique de Flandre. Quatre administrateurs indépendants sont désignés conformément aux [<sup>2</sup> articles III.41 et III.42 du Décret de gouvernance]<sup>2</sup>]<sup>1</sup>.
+
+§ 2. (En complément aux dispositions de [<sup>2</sup> l'article III.12 du Décret de gouvernance]<sup>2</sup>,) les administrateurs ne peuvent pas être en même temps : &lt;DCFL 2004-04-02/52, art. 21, 1°, 009; En vigueur : 15-03-2006&gt;
+
+(1° gouverneur d'une province;
+
+2° membre du pouvoir judiciaire;
+
+3° exploitant d'une entreprise d'autobus ou d'autocars). &lt;DCFL 2004-04-02/52, art. 21, 2°, 009; En vigueur : 15-03-2006&gt;
+
+§ 3. Conformément aux modalités des statuts, des observateurs, nommés par l'Exécutif flamand, peuvent assister aux réunions du conseil d'administration. Les incompatibilités, énumérées au § 2, sont applicables à ces observateurs.
+
+----------
+
+(1)&lt;DCFL 2017-12-22/20, art. 2, 013; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.8, 014; En vigueur : 01-01-2019&gt;
+
+##### Art. 16
+
+Le conseil d'administration est [<sup>1</sup> l'organe suprême]<sup>1</sup>de la Société. Il est investi à cet effet des compétences les plus étendues.
+
+[<sup>1</sup> Le conseil d'administration est habilité à accomplir tous les actes nécessaires ou utiles pour réaliser l'objectif et la mission de la Société, sans préjudice de l'application des restrictions fixées par le Décret de gouvernance, le présent décret et les statuts de la Société.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-23/02, art. 8, 021; En vigueur : 15-03-2024&gt;
+
+#### Sous-section 3. [<sup>1</sup>Administrateur délégué]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-23/02, art. 9, 021; En vigueur : 15-03-2024&gt;
+
+##### Art. 17
+
+&lt;DCFL 1999-05-18/84, art. 9, 004; En vigueur : 10-10-1999&gt; § 1. [<sup>2</sup> l'administrateur délégué]<sup>2</sup>[<sup>1</sup> ...]<sup>1</sup> [<sup>1</sup> est]<sup>1</sup>nommés par le Gouvernement flamand, qui peut [<sup>1</sup> le ou la]<sup>1</sup> suspendre ou révoquer.
+
+(Le directeur général [<sup>1</sup> ...]<sup>1</sup> sont évalués annuellement. Au vu d'un rapport d'évaluation établi par un bureau externe désigné par lui, le Conseil d'administration formule une proposition d'évaluation qu'il transmet au Gouvernement flamand. Le Gouvernement approuve ou non cette proposition dans les trente jours calendaires.) &lt;DCFL 2000-07-17/48, art. 2, 1°, 005; En vigueur : 21-08-2000&gt;
+
+A chaque terme de leur mandat, le directeur général [<sup>1</sup> ...]<sup>1</sup> sont évalués (par le Gouvernement flamand). Le Gouvernement flamand peut solliciter l'avis du Conseil d'administration et d'un bureau extérieur. &lt;DCFL 2000-07-17/48, art. 2, 2°, 005; En vigueur : 21-08-2000&gt;
+
+§ 2. Le Gouvernement flamand arrête les modalités du recrutement, du renouvellement des mandats, de la cessation, de la cessation prématurée et de l'évaluation du mandat.
+
+Le régime de rémunération[<sup>2</sup> de l'administrateur général]<sup>2</sup> [<sup>1</sup> ...]<sup>1</sup> est fixé par le Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2019-04-26/34, art. 10, 017; En vigueur : 04-07-2019&gt;
+
+(2)&lt;DCFL 2024-02-23/02, art. 10, 021; En vigueur : 15-03-2024&gt;
+
+##### Art. 18
+
+[<sup>1</sup>L'administrateur délégué exécute les décisions du conseil d'administration et assume la gestion journalière de la Société.
+
+L'administrateur délégué agit de plein exercice pour les compétences déléguées par le conseil d'administration conformément aux conditions fixées par le conseil d'administration.
+
+L'administrateur délégué assiste de plein droit aux réunions du conseil d'administration et de l'assemblée générale avec voix consultative.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-23/02, art. 11, 021; En vigueur : 15-03-2024&gt;
+
+### Section 3. (ancien chapitre V) - Fonctionnement. &lt;DCFL 2004-04-02/52, art. 23, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 19
+
+&lt;Abrogé par DCFL 2019-04-26/34, art. 12, 017; En vigueur : 04-07-2019&gt;
+
+##### Art. 20
+
+(Abrogé) &lt;DCFL 2004-04-02/52, art. 25, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 21
+
+(Abrogé) &lt;DCFL 2004-04-02/52, art. 26, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 22
+
+[<sup>1</sup> Le conseil d'administration peut créer des organes internes, auxquels il peut déléguer ses compétences. Le conseil d'administration peut également créer un ou plusieurs comités. Le conseil d'administration conserve le droit de contrôle des organes et comités précités.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-23/02, art. 12, 021; En vigueur : 15-03-2024&gt;
+
+##### Art. 23
+
+[<sup>1</sup>Le conseil d'administration détermine le fonctionnement, le nom, la composition et les compétences des organes et des comités visés à l'article 22. Les compétences précitées ne peuvent pas se rapporter aux éléments suivants :
+
+1° la politique générale de l'entreprise ;
+
+2° le contrôle du propre fonctionnement de l'organe ou du comité ;
+
+3° les compétences incombant spécifiquement au conseil d'administration.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-23/02, art. 13, 021; En vigueur : 15-03-2024&gt;
+
+##### Art. 24
+
+§ 1. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. (abrogé) &lt;DCFL 1999-05-18/84, art. 10, 004; En vigueur : 10-10-1999&gt;
+
+----------
+
+(1)&lt;DCFL 2019-04-26/25, art. 52, 016; En vigueur : 22-06-2019&gt;
+
+##### Art. 25
+
+(Abrogé) &lt;DCFL 2004-04-02/52, art. 29, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 26
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Les suppléments à payer par les voyageurs, qui ne sont pas en mesure de produire un billet de transport valable, sont fixés par l'Exécutif flamand.
+
+----------
+
+(1)&lt;DCFL 2019-04-26/25, art. 53, 016; En vigueur : 22-06-2019&gt;
+
+##### Art. 27
+
+&lt;DCFL 1999-05-18/84, art. 11, 004; En vigueur : 10-10-1999&gt; Sans préjudice des dispositions de l'article 17, le Conseil d'administration fixe le statut administratif et pécuniaire du personnel, ainsi que le cadre organique de la société.
+
+##### Art. 28
+
+§ 1. Le conseil d'administration, sur la proposition [<sup>2</sup> de l'administrateur délégué]<sup>2</sup>, [<sup>1</sup> procède à la nomination, à la promotion et à la révocation]<sup>1</sup> des membres du personnel aux hautes fonctions de la Société.
+
+§ 2. Les affaires du personnel sont dans les attributions [<sup>2</sup> de l'administrateur délégué]<sup>2</sup>, à condition que les règles fixées par le conseil d'administration soient respectées et à l'exclusion des compétences conférées par le § 1er (...) de cet article. &lt;DCFL 2004-04-02/52, art. 30, 009; En vigueur : 15-03-2006&gt;
+
+§ 3. (...) &lt;DCFL 2004-04-02/52, art. 30, 009; En vigueur : 15-03-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2019-04-26/34, art. 14, 017; En vigueur : 04-07-2019&gt;
+
+(2)&lt;DCFL 2024-02-23/02, art. 14, 021; En vigueur : 15-03-2024&gt;
+
+##### Art. 29
+
+En ce qui concerne l'application des lois et des décrets sur les impôts directs et indirects au profit de la Région, la Société est assimilée à la Région.
+
+Aucune redevance ne peut être imposée à la Société par les provinces et les communes en raison des concessions et des autorisations accordées.
+
+##### Art. 30
+
+La Société succède aux droits et obligations de la Société nationale des Chemins de fer vicinaux, pour ce qui concerne la partie transférée par l'Etat à la Région flamande, de la Société des Transports intercommunaux d'Anvers et de la Société des Transports intercommunaux de Gand, y inclus les droits et obligations qui résultent des procédures judiciaires en suspens et futures.
+
+##### Art. 31
+
+[<sup>1</sup>Conformément au Décret flamand sur les Expropriations du 24 février 2017, la Société peut exproprier, en son nom et pour son propre compte, des biens immobiliers nécessaires à la réalisation de son objectif social.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-23/02, art. 15, 021; En vigueur : 15-03-2024&gt;
+
+##### Art. 31bis
+
+[<sup>1</sup> Sans préjudice de la possibilité pour la Société d'ordonner des modifications en vertu d'autres législations, la Société peut, en vue de l'exécution des missions visées à l'article 3, faire modifier la localisation, le tracé ou le plan d'aménagement de toutes les canalisations de distribution de gaz et d'électricité, de conduites d'eau, d'égouts et d'autres canalisations relevant de la compétence régionale, de quelque nature qu'ils soient, ainsi que de tous les équipements associés, à la suite de travaux qu'elle souhaite effectuer sur le domaine dont elle est propriétaire, sur lequel elle détient un droit réel ou qu'elle gère.
+
+Pour l'exécution des missions visées à l'article 3, la Société, moyennant l' accord du gestionnaire domanial concerné, dispose des mêmes droits que ceux visés à l'alinéa 1er, pour les travaux sur le domaine dont la Société n'est pas propriétaire, sur lequel elle ne détient pas un droit réel ou qu'elle ne gère pas.
+
+En vue d'émettre et d'exécuter de manière coordonnée des ordres de déplacement, la Région flamande et les provinces et communes peuvent faire exercer et exécuter par la Société, en leur nom, tout ou partie de toutes les compétences et décisions qui leur reviennent conformément à la réglementation en vigueur relative aux ordres de déplacement pour tous les conduites d'utilité publique et câbles.
+
+Sauf en cas d'urgence, la Société informe notifie l'opérateur de l'infrastructure en question par lettre recommandée des modifications envisagées au plus tard trois mois avant le début des travaux. Les frais liés à la modification de la localisation, du tracé ou du plan d'aménagement de l'infrastructure précitée sont à la charge de l'opérateur si les modifications sont imposées dans l'intérêt des transports publics ou pour toute autre considération d'intérêt public liée à l'exécution de ses missions. En cas de désaccord, la Société peut elle-même procéder ou faire procéder à l'exécution des travaux et en récupérer les frais auprès de l' opérateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-03-31/06, art. 4, 020; En vigueur : 01-05-2023&gt;
+
+##### Art. 32
+
+L'Exécutif flamand peut autoriser la Société à effectuer les travaux nécessaires à l'aménagement ou l'exploitation de ses installations sur ou sous les biens immeubles du domaine public et privé de la Communauté, de la Région, des provinces, des communes ainsi que des organismes qui en relèvent.
+
+L'Exécutif flamand peut lier son autorisation à des conditions.
+
+[<sup>1</sup> La Société peut obtenir des concessions, des loyers, des droits réels et des droits d'utilisation, et peut également obtenir la gestion sur ou en relation avec des immeubles domaniaux appartenant à la Région flamande. Sauf convention contraire, la Société peut procéder à l'aménagement et l'exploitation d'installations sur les immeubles précités. Conformément à l'article 3.182 du Code civil, les constructions érigées par la Société appartiennent à sa pleine propriété pendant la durée du droit octroyé à la Société.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-23/02, art. 16, 021; En vigueur : 15-03-2024&gt;
+
+### Section 3bis. [<sup>1</sup> - Continuité de la prestation de service en cas de grève]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-05-28/05, art. 2, 018; En vigueur : 26-06-2021&gt;
+
+##### Art. 32bis
+
+[<sup>1</sup> En cas de grèves initiées dans le cadre de la procédure de préavis et de concertation à l'occasion de conflits sociaux conformément aux conventions collectives de travail conclues au sein du comité paritaire compétent, un délai minimum de huit jours ouvrables est respecté entre le dépôt du préavis de grève et le début de la grève.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-05-28/05, art. 3, 018; En vigueur : 26-06-2021&gt;
+
+##### Art. 32ter
+
+[<sup>1</sup> § 1er. Le présent article s'applique aux grèves initiées conformément à l'article 32bis.
+
+Dans le présent article, on entend par jour de grève : toute période de vingt-quatre heures à compter de l'heure du début de la grève, telle que mentionnée dans le préavis de grève.
+
+§ 2. Après avis du conseil d'entreprise, le conseil d'administration détermine les catégories professionnelles opérationnelles qu'il considère comme essentielles pour fournir une offre de transport adaptée aux usagers en cas de grève.
+
+Le conseil d'entreprise rendra l'avis visé à l'alinéa 1er dans un délai de trente jours suivant le jour où il a reçu la demande d'avis du conseil d'administration.
+
+Le conseil d'administration détermine les plans de transport en fonction desquels une offre de transport adaptée peut être fournie aux usagers en cas de grève.
+
+Les plans de transport visés à l'alinéa 3 sont régulièrement évalués par le conseil d'administration en vue d'améliorer leur fonctionnement en pratique.
+
+La Maatschappij fait appel aux membres du personnel des catégories professionnelles visées à l'alinéa 1er qui ne participent pas à la grève pour organiser l'offre de transport adaptée.
+
+§ 3. Sauf motif valable dûment établi, les membres du personnel des catégories professionnelles visées au paragraphe 2, alinéa 1er, notifient définitivement leur intention de participer au jour de grève au plus tard septante-deux heures avant son début.
+
+La déclaration d'intention visée aux alinéas 1er et 3 ne s'applique qu'aux membres du personnel des catégories professionnelles mentionnées au paragraphe 2, alinéa 1er, dont la présence est prévue le jour de grève envisagé.
+
+En cas de grève de plusieurs jours couverts par le même préavis de grève, les membres du personnel des catégories professionnelles visées au paragraphe 2, alinéa 1er, notifient leur déclaration d'intention de participer à la grève au plus tard septante-deux heures avant le premier jour de grève durant lequel leur présence est prévue et ce pour chacun des jours de grève durant lesquels leur présence est prévue. Ces membres du personnel peuvent retirer leur déclaration au plus tard quarante-huit heures avant chaque jour de grève, à l'exception du premier jour s'ils souhaitent travailler pendant ce jour de grève. Les membres du personnel qui n'ont pas participé initialement mais qui souhaitent participer à la présente grève notifient leur déclaration d'intention au plus tard septante-deux heures avant chaque jour de grève.
+
+Après avis du conseil d'entreprise, le conseil d'administration détermine les modalités concrètes de communication des déclarations d'intention visées aux alinéas 1er et 3. Les déclarations d'intention sont traitées de manière confidentielle. Son seul but est d'organiser le service en fonction des membres du personnel disponibles au jour de grève.
+
+Le conseil d'entreprise rendra l'avis visé à l'alinéa 4 dans les trente jours suivant le jour où il a reçu la demande d'avis du conseil d'administration.
+
+Sauf motif valable dûment établi, des sanctions conformément à la réglementation applicable s'appliquent aux membres du personnel de l'une des catégories professionnelles mentionnées au paragraphe 2, alinéa 1er, qui n'ont pas communiqué leur intention de participer au jour de grève, s'ils ne se présentent pas sur leur lieu de travail.
+
+Sauf motif valable dûment établi, des sanctions conformément à la réglementation applicable s'appliquent aux membres du personnel de l'une des catégories professionnelles mentionnées au paragraphe 2, alinéa 1er, qui ont communiqué leur intention de participer au jour de grève, s'ils ne respectent pas cette déclaration.
+
+Des sanctions conformément à la réglementation applicable s'appliquent aux membres du personnel de l'une des catégories professionnelles mentionnées au paragraphe 2, alinéa 1er, qui se présentent sur leur lieu de travail mais ne sont pas autorisés à effectuer leur service parce qu'ils ont communiqué leur intention de faire grève conformément au présent paragraphe. L'autorisation d'effectuer leur service peut être accordée si cela s'avère nécessaire pour la réalisation de l'offre de transport adaptée.
+
+§ 4. Une offre de transport adaptée selon l'un des plans de transport visés au paragraphe 2, alinéa 3, n'est fournie que si la Maatschappij dispose d'un nombre suffisant de membres du personnel dans chaque catégorie professionnelle visée au paragraphe 2, alinéa 1er.
+
+Sur la base des déclarations d'intention visées au paragraphe 3, [<sup>2</sup> l'administrateur délégué]<sup>2</sup> ordonne l'exécution du plan de transport adapté pendant le jour de grève.
+
+[<sup>2</sup> l'Administrateur délégué]<sup>2</sup> peut désigner un suppléant pour l'exécution de la compétence visée à l'alinéa 2 lorsqu'il est absent ou empêché.
+
+La Maatschappij communique les modalités du plan de transport adapté de manière claire aux usagers au plus tard vingt-quatre heures avant le début du jour de grève.
+
+§ 5. Les membres du personnel s'abstiennent de tout acte ayant pour conséquence que l'offre de transport ne peut être effectué conformément aux dispositions du présent article.
+
+1° ils s'abstiennent de bloquer l'accès au lieu de travail pour les membres du personnel qui souhaitent travailler ;
+
+2° ils ne recourent à une quelconque violence physique ou matérielle à l'encontre des membres du personnel qui souhaitent travailler ou à l'encontre des usagers ;
+
+3° ils n'empêchent pas l'utilisation des outils de travail et de l'infrastructure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-05-28/05, art. 4, 018; En vigueur : 26-06-2021&gt;
+
+(2)&lt;DCFL 2024-02-23/02, art. 17, 021; En vigueur : 15-03-2024&gt;
+
+### Section 4. (ancien chapitre VI) - (Contrôle financier). &lt;DCFL 2004-04-02/52, art. 31, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 33
+
+(Abrogé) &lt;DCFL 2004-04-02/52, art. 32, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 34
+
+(Abrogé) &lt;DCFL 2004-04-02/52, art. 32, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 35
+
+Un (commissaire) sera chargé du contrôle de la situation financière, du compte annuel et de la régularité des opérations, qui doivent être reprises dans le compte annuel. Il sera nommé par l'assemblée générale parmi les membres de l'Institut des Reviseurs d'Entreprises. &lt;DCFL 2004-04-02/52, art. 33, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 36
+
+(Abrogé) &lt;DCFL 2004-04-02/52, art. 34, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 37
+
+(Abrogé) &lt;DCFL 2004-04-02/52, art. 35, 009; En vigueur : 15-03-2006&gt;
+
+### Section 5. (ancien chapitre VII) - Budget. &lt;DCFL 2004-04-02/52, art. 36, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 38
+
+La Société établit chaque année un budget d'investissement et un budget d'exploitation.
+
+Ces budgets sont soumis à l'approbation de l'Exécutif flamand.
+
+Le projet de budget et [<sup>1</sup> le contrat de service public]<sup>1</sup> sont joints au projet de décret portant le budget de la Communauté flamande.
+
+----------
+
+(1)&lt;DCFL 2019-04-26/25, art. 54, 016; En vigueur : 22-06-2019&gt;
+
+##### Art. 39
+
+§ 1. L'Exécutif flamand veille à ce que la Société adapte ses recettes et ses dépenses à la politique économique, sociale et financière de la Région flamande.
+
+A cet effet les budgets de la Société sont soumis à l'Exécutif flamand, sous les conditions définies par celui-ci, afin d'en définir les grandes lignes avant leur approbation ou bien pour établir les directives en matière de leur exécution.
+
+En vue de cet examen, la Société sera invitée à présenter ses prévisions d'activités ainsi que les conséquences budgétaires de celles-ci sur une période de plusieurs années.
+
+L'Exécutif flamand prend connaissance périodiquement du rapport concernant l'exécution de ces budgets.
+
+§ 2. L'Exécutif flamand fixe la date à laquelle les projets de budgets doivent être établis.
+
+##### Art. 40
+
+Le fait que le budget n'aurait pas été approuvé à la première journée de l'année budgétaire, ne saurait empêcher toutefois que les crédits inscrits dans les projets de budgets soient utilisés, sauf s'il s'agit de dépenses fondamentalement nouvelles pour lesquelles aucune autorisation n'a été obtenue dans les budgets de l'année précédente.
+
+##### Art. 41
+
+Les reports et dépassements des crédits limitatifs inscrits aux budgets doivent être soumis à l'autorisation de l'Exécutif flamand ou de ses commissaires préalablement à toute exécution.
+
+Les Dépassements de crédits qui risquent d'entraîner une intervention financière excédant celle prévue au budget de la Communauté, doivent être approuvés préalablement par le vote d'un crédit correspondant au budget de la Communauté.
+
+##### Art. 42
+
+[<sup>1</sup> Les éléments et les modalités des rapports établis par la Société sur ses activités sont définis dans le contrat de service public visé à l'article 44bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-26/25, art. 55, 016; En vigueur : 22-06-2019&gt;
+
+##### Art. 43
+
+L'Exécutif flamand peut imposer la tenue d'une comptabilité des (frais et produits) engagées. Il en définit le système, en tenant compte, le cas échéant, des besoins spécifiques de la Société. &lt;DCFL 2004-04-02/52, art. 38, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 44
+
+L'Exécutif flamand peut fixer les règles générales et spéciales concernant :
+
+1° la forme et le contenu des budgets;
+
+2° la présentation des comptes;
+
+3° les situations et les rapports périodiques.
+
+La comptabilité est tenue selon les méthodes de la comptabilité commerciale.
+
+La Société, avec l'accord de l'Exécutif flamand, fixe :
+
+1° le mode de détermination de l'utilisation des bénéfices;
+
+2° le mode d'évaluation des composantes du patrimoine;
+
+3° le mode de calcul et de fixation du (montant) : &lt;DCFL 2004-04-02/52, art. 39, 009; En vigueur : 15-03-2006&gt;
+
+a) des amortissements;
+
+b) des réserves et autres provisions qui sont nécessaires en raison de la nature des activités.
+
+## CHAPITRE V. - [<sup>1</sup> Contrat de service public et plan d'entreprise]<sup>1</sup>. &lt;Inséré par DCFL 2004-04-02/52, art. 40; En vigueur : 15-03-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2019-04-26/25, art. 56, 016; En vigueur : 22-06-2019&gt;
+
+##### Art. 44bis
+
+[<sup>1</sup> Le conseil d'administration de la Société établit annuellement, en consultation avec le Gouvernement flamand, un plan d'entreprise conformément à l'article III.61, § 2, du Décret de gouvernance. Un rapport annuel est établi sur la mise en oeuvre du plan d'entreprise conformément à l'article III.62 du Décret de gouvernance.]<sup>1</sup>
+
+[<sup>2</sup> Après négociation, un contrat de service public est conclu entre le Gouvernement flamand et la Société.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.9, 014; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2019-04-26/25, art. 57, 016; En vigueur : 22-06-2019&gt;
+
+## CHAPITRE VI. [<sup>1</sup> - Sanctions administratives]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-26/34, art. 15, 017; En vigueur : 04-07-2019&gt;
+
+##### Art. 44ter
+
+[<sup>1</sup> § 1er. A toute personne qui :
+
+1° commet une infraction constatée dans les conditions de voyage visées à [<sup>2</sup> l'article 2, 20°]<sup>2</sup>, du décret du 26 avril 2019 en matière d'accessibilité de base et ayant atteint l'âge de 14 ans au moment où les faits sont commis, ou ;
+
+2° ne dispose pas d'un titre de transport valable et ayant atteint l'âge de 12 ans au moment des faits ;
+
+peut se voir infliger une amende administrative de maximum 300 ou 500 euros selon que le contrevenant est mineur ou majeur.
+
+Le Gouvernement flamand établit les modalités concernant les frais administratifs de la procédure de sanction administrative, les modalités de perception et de recouvrement des amendes administratives et les délais dont dispose le contrevenant.
+
+Le Gouvernement flamand peut indiquer comme infractions dans les conditions de voyage le fait de ne pas disposer de titre de transport valable [<sup>2</sup> et, le cas échéant, validé]<sup>2</sup>, ainsi que les faits et actes à l'origine de nuisances dans le véhicule et aux alentours de celui-ci, perturbant ou susceptibles de perturber la prestation de service ou créant un danger. A cet égard, le Gouvernement flamand indique les conditions de voyage dont l'infraction donne lieu à une amende administrative.
+
+Les parents ou toute autre personne exerçant l'autorité parentale sur le mineur sont présumés de manière irréfragable commettre une infraction lorsque les mineurs, dès l'âge de 6 ans jusqu'à 12 ans, ne disposent pas d'un titre de transport valable [<sup>2</sup> et, le cas échéant, validé]<sup>2</sup>.
+
+Le Gouvernement flamand est autorisé à fixer, dans les limites visées à l'alinéa 1er, le montant de l'amende.
+
+§ 2. Si l'infraction, visée dans les conditions de voyage, est commise au moyen d'un véhicule, le titulaire de la plaque d'immatriculation est présumé de manière irréfragable être le contrevenant aux conditions de voyage.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-26/34, art. 16, 017; En vigueur : 04-07-2019&gt;
+
+(2)&lt;DCFL 2021-12-23/55, art. 4, 019; En vigueur : 03-03-2022&gt;
+
+##### Art. 44quater
+
+[<sup>1</sup> Le Gouvernement flamand détermine la méthode de désignation des contrôleurs et des membres du personnel sanctionnateur.
+
+Les contrôleurs ont la qualité d'agent de police judiciaire. Préalablement à l'exercice de leur fonction, ces membres du personnel prêtent serment conformément à l'article 2 du décret du 20 juillet 1831 concernant le serment à la mise en vigueur de la monarchie constitutionnelle représentative.
+
+En vue de constater les infractions aux conditions de voyage, les contrôleurs sont autorisés à prendre les mesures suivantes à l'égard de voyageurs et de tiers :
+
+1° ils sont habilités à confisquer les titres de transport ou les cartes de réduction ;
+
+2° ils sont autorisés à collecter des informations et à procéder à un contrôle en interrogeant des personnes et en consultant des documents et autres supports d'information ;
+
+3° ils sont autorisés à réclamer la carte d'identité de la personne concernée. Ils sont autorisés à retenir la personne refusant de présenter sa carte d'identité ou qui n'en dispose pas, et ce, jusqu'à l'arrivée de la police.
+
+[<sup>2</sup> Les contrôleurs de ligne peuvent demander l'assistance de la police locale et fédérale.]<sup>2</sup>
+
+Le Gouvernement flamand peut déterminer d'autres mesures que les contrôleurs sont autorisés à prendre à l'égard du public et des voyageurs en vue de constater les infractions aux conditions de voyage.
+
+Le membre du personnel sanctionnateur accomplit sa tâche en toute indépendance et impartialité. Il ne peut avoir simultanément la qualité de contrôleur. Le Gouvernement flamand peut préciser les garanties exigées en matière d'indépendance et d'impartialité.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-26/34, art. 17, 017; En vigueur : 04-07-2019&gt;
+
+(2)&lt;DCFL 2021-12-23/55, art. 5, 019; En vigueur : 03-03-2022&gt;
+
+##### Art. 44quinquies
+
+[<sup>1</sup> § 1er. Le contrôleur constate les infractions aux conditions de voyage dans un procès-verbal avec force probante jusqu'à preuve du contraire. Dans la mesure du possible, le contrôleur informe sur place le contrevenant de l'ouverture de la procédure de sanction administrative visant à infliger une amende administrative.
+
+§ 2. A la demande du contrevenant majeur, le contrôleur peut percevoir immédiatement l'amende ou une partie de celle-ci. Le montant immédiatement perçu est le montant de base de l'amende infligée à la suite de l'infraction en question, ou une partie de celle-ci. Le paiement de l'amende ou d'une partie de celle-ci ne prive pas le contrevenant du droit d'introduire un recours administratif ou judiciaire contre le montant de base de l'amende.
+
+Le contrôleur remet son procès-verbal à un membre du personnel sanctionnateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/34, art. 18, 017; En vigueur : 04-07-2019&gt;
+
+##### Art. 44sexies
+
+[<sup>1</sup> Le procès-verbal, visé à l'article 44quinquies, § 1, ne mentionne pas l'identité du contrôleur. Ce procès-verbal doit cependant mentionner le code personnel de ce contrôleur.
+
+Si le contrevenant utilise des moyens de défense pour contester l'amende et demande dans ce cadre à connaître l'identité du contrôleur, le nom et l'adresse professionnelle du contrôleur sont transmis au contrevenant. Le contrevenant préserve la confidentialité de ces données à l'égard de tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/34, art. 19, 017; En vigueur : 04-07-2019&gt;
+
+##### Art. 44septies
+
+[<sup>1</sup> Le membre du personnel sanctionnateur transmet une copie du procès-verbal dans les quinze jours ouvrables suivant le constat de l'infraction au contrevenant. Le Gouvernement flamand arrête les modalités de notification du procès-verbal.
+
+Le procès-verbal est accompagné d'une proposition de décision du membre du personnel sanctionnateur afin d'infliger l'amende. Si le contrevenant a immédiatement payé au contrôleur l'amende conformément à l'article 44quinquies, § 2, le membre du personnel sanctionnateur remet uniquement une proposition de décision si le contrevenant a payé seulement une partie du montant de base de l'amende ou, s'il est en état de récidive, a payé le montant de base ou une partie de celui-ci de l'amende. Dans ce cas, le membre du personnel sanctionnateur inflige une amende supplémentaire égale à la différence entre le montant déjà payé et le montant total de l'amende dû.
+
+Le contrevenant dispose d'un délai de 30 jours à compter de la date de notification du procès-verbal pour soit payer l'amende ou le solde restant, soit formuler par écrit ou par e-mail ses moyens de défense à l'encontre de la proposition de décision telle que visée à l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/34, art. 20, 017; En vigueur : 04-07-2019&gt;
+
+##### Art. 44octies
+
+[<sup>1</sup> § 1er. Si dans le délai visé à l'article 44septies, alinéa 3, le contrevenant paie l'amende ou ne formule pas de moyen de défense, la proposition de décision est convertie de plein droit en décision définitive à l'expiration de ce délai.
+
+§ 2. Si le contrevenant formule dans le délai des moyens de défense à l'encontre de la proposition de décision, le membre du personnel sanctionnateur prend dans les trois mois suivant la réception des moyens de défense écrits une décision définitive concernant l'amende administrative.
+
+Sous peine d'irrecevabilité, le contrevenant peut demander dans les trente jours à compter de la date de notification du procès-verbal et de la proposition de décision à être entendu oralement pour sa défense. Le cas échéant, le membre du personnel sanctionnateur entend oralement le contrevenant avant de prendre une décision définitive à propos de l'amende administrative et prend ensuite une décision définitive à propos de l'amende administrative dans les trois mois suivant l'audition.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/34, art. 21, 017; En vigueur : 04-07-2019&gt;
+
+##### Art. 44novies
+
+[<sup>1</sup> En ce qui concerne les contrevenants mineurs, les prescriptions de procédure suivantes s'appliquent, en dérogation à l'article 44septies et 44octies :
+
+1° le membre du personnel sanctionnateur transmet une copie du procès-verbal accompagnée d'une proposition de décision au contrevenant dans les quinze jours ouvrables suivant le constat de l'infraction. Le Gouvernement flamand arrête les modalités de notification du procès-verbal ;
+
+2° le procès-verbal mentionne le droit du contrevenant mineur de se faire assister par un avocat, son père, sa mère, son tuteur ou toute personne qui exerce un droit de garde ;
+
+3° le contrevenant mineur dispose d'un délai de trente jours à compter de la date de notification du procès-verbal pour soit payer l'amende, soit formuler par écrit ou dans un e-mail ses moyens de défense à l'encontre de la proposition de décision visée au point 1° ;
+
+4° sous peine d'irrecevabilité, le contrevenant mineur peut demander dans les trente jours à compter de la date de notification du procès-verbal et de la proposition de décision à être entendu oralement pour sa défense. Le cas échéant, le membre du personnel sanctionnateur entend oralement le contrevenant mineur. Le contrevenant mineur a le droit de se faire assister durant l'audition par son avocat et par son père, sa mère et ses tuteurs ou toute personne qui exerce un droit de garde ;
+
+5° si, dans le délai visé au point 3°, l'amende est payée ou aucun moyen de défense n'est formulé, la proposition de décision est convertie de plein droit en décision définitive à l'expiration de ce délai ;
+
+6° si le contrevenant mineur formule dans le délai des moyens de défense à l'encontre de la proposition de décision, et, le cas échéant, après avoir entendu le contrevenant, le membre du personnel sanctionnateur prend dans les trois mois suivant la réception des moyens de défense écrits ou suivant l'audition une décision définitive concernant l'amende administrative.
+
+Le père, la mère et les tuteurs ou personnes qui exercent un droit de garde sont informés de la même manière que celle visée à l'alinéa premier de tout procès-verbal et de toute notification écrite de décision. Ils disposent également d'un droit de défense tel que visé à l'alinéa premier, 3°. A leur demande, telle que visée à l'alinéa premier, 4°, ils sont entendus par le membre du personnel sanctionnateur.
+
+Le père, la mère et éventuellement toute autre personne exerçant l'autorité parentale sur le mineur sont civilement responsables du paiement de l'amende administrative infligée au mineur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/34, art. 22, 017; En vigueur : 04-07-2019&gt;
+
+##### Art. 44decies
+
+[<sup>1</sup> § 1er. Le contrevenant mineur peut dans les soixante jours suivant la notification de la décision définitive introduire au moyen d'une requête gratuite un recours contre l'amende administrative auprès du tribunal de la jeunesse.
+
+Si la proposition de décision visée à l'article 44novies, alinéa premier, 5°, est convertie de plein droit en décision définitive, le délai visé à l'alinéa premier débute à la date à laquelle la proposition de décision est convertie de plein droit en décision définitive.
+
+Le tribunal de la jeunesse reste compétent si le contrevenant est devenu majeur au moment du prononcé.
+
+Le recours, visé à l'alinéa premier, peut également être introduit par le père et la mère, les tuteurs ou toute personne qui exerce un droit de garde.
+
+§ 2. Le tribunal de la jeunesse statue dans le cadre d'un débat contradictoire à propos des recours visés au paragraphe premier. De Lijn peut intervenir dans le débat contradictoire et est considérée comme une partie au procès. De Lijn peut être représentée par délégation générale.
+
+Le tribunal de la jeunesse juge de la légalité et de la proportionnalité de l'amende imposée.
+
+Le tribunal de la jeunesse peut confirmer ou réformer la décision à propos de l'amende administrative.
+
+Dans le cas où un recours contre l'amende administrative lui est soumis, le tribunal de la jeunesse peut, à la place, imposer les sanctions telles que visées à l'article 29 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile, prendre en charge les mineurs ayant commis un fait qualifié infraction et ordonner la réparation du dommage causé par ce fait. Dans ce cas, l'article 60 de la loi du 8 avril 1965 s'applique.
+
+Aucun appel ne peut être introduit contre la décision du tribunal de la jeunesse. Si, toutefois, le tribunal de la jeunesse décide de remplacer l'amende administrative par l'une des sanctions visées à l'article 29 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile, un appel peut être introduit contre cette décision. Dans ce cas, les procédures, visées au chapitre 4 de la loi du 8 avril 1965, s'appliquent.
+
+§ 3. Sans préjudice de l'application des paragraphes 1 et 2, et du chapitre 4 de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait, les dispositions du Code judiciaire s'appliquent à l'appel introduit auprès du tribunal de la jeunesse.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/34, art. 23, 017; En vigueur : 04-07-2019&gt;
+
+##### Art. 44undecies
+
+[<sup>1</sup> Les amendes administratives se prescrivent cinq ans suivant leur date de paiement. La prescription est interrompue selon le mode et aux conditions visés aux articles 2244 à 2250 inclus du Code civil.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/34, art. 24, 017; En vigueur : 04-07-2019&gt;
+
+##### Art. 44duodecies
+
+[<sup>1</sup> Le Gouvernement flamand détermine dans quels cas et à quelles conditions le contrôleur donne un titre de transport au contrevenant en cas de constat d'une infraction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/34, art. 25, 017; En vigueur : 04-07-2019&gt;
+
+##### Art. 44terdecies
+
+[<sup>1</sup> La Société est le responsable du traitement, visé à l'article 4, 7), du règlement général sur la protection des données, pour les données à caractère personnel qui sont traitées aux fins visées à l'article 44sexies decies du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-12-23/55, art. 6, 019; En vigueur : 03-03-2022&gt;
+
+##### Art. 44quaterdecies
+
+[<sup>1</sup> Le responsable du traitement, visé à l'article 44ter decies du présent décret, traite les données à caractère personnel aux conditions suivantes :
+
+1° le responsable du traitement ne traite que les données à caractère personnel qui sont suffisantes, nécessaires et pertinentes pour la réalisation des finalités, visées à l'article 44sexies decies du présent décret ;
+
+2° le responsable du traitement conserve les données à caractère personnel pendant une durée n'excédant pas celle nécessaire au regard des finalités, visées à l'article 44sexies decies du présent décret, et pendant une durée n'excédant pas un an après la clôture du dossier ou un an après l'expiration du délai de prescription visé à l'article 44undecies du présent décret ;
+
+3° le responsable du traitement traite les données à caractère personnel pour la réalisation d'une obligation légale liée à une mission d'intérêt général et l'exercice de l'autorité publique. Le responsable du traitement informe préalablement les personnes concernées du traitement de leurs données à caractère personnel conformément aux articles 13 et 14 du règlement général sur la protection des données, et les informe de leurs droits sur la base des articles 15 à 22 du règlement général sur la protection des données. Lorsqu'une violation de données à caractère personnel est susceptible d'engendrer un risque élevé pour les droits et libertés d'une personne physique, le responsable du traitement communique la violation de données à caractère personnel à la personne concernée dans les meilleurs délais, conformément à l'article 34 du règlement général sur la protection des données ;
+
+4° le responsable du traitement veille à ce que les données à caractère personnel soient toujours correctes et exactes ;
+
+5° le responsable du traitement conserve les données à caractère personnel dans un environnement sécurisé et a pris les mesures techniques et organisationnelles appropriées pour protéger l'intégrité et la confidentialité des données à caractère personnel.
+
+Le Gouvernement flamand peut arrêter les modalités relatives au traitement des données à caractère personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-12-23/55, art. 7, 019; En vigueur : 03-03-2022&gt;
+
+##### Art. 44quinquiesdecies
+
+[<sup>1</sup> Le responsable du traitement traite les catégories suivantes de données à caractère personnel :
+
+1° les données d'identité, y compris le numéro de la carte d'identité, de la personne visée à l'article 44ter, § 1er ;
+
+2° les coordonnées de la personne visée à l'article 44ter, § 1er ;
+
+3° les données bancaires de la personne visée à l'article 44ter, § 1er ;
+
+4° le numéro de registre national de la personne visée à l'article 44ter, § 1er ;
+
+5° la plaque d'immatriculation de la personne visée à l'article 44ter, § 1er, si l'infraction est commise avec un véhicule ;
+
+6° des photos pouvant servir de preuve ;
+
+7° les infractions précédentes commises par la personne visée à l'article 44ter, § 1er ;
+
+8° les données d'abonnement de la personne visée à l'article 44ter, § 1er ;
+
+9° le nom, le prénom, les coordonnées et la date de naissance des parents et des tuteurs ou des personnes qui ont la garde d'une personne telle que visée à l'article 44ter, qui est mineure ;
+
+10° les données à caractère personnel nécessaires pour établir le procès-verbal, y compris mais sans s'y limiter, la date et l'heure de la constatation, le numéro du procès-verbal et le lieu du contrôle ;
+
+11° le numéro de personnel et l'identité, y compris le prénom, le nom et l'adresse de bureau du contrôleur ou du membre du personnel sanctionnateur ;
+
+12° les données personnelles médicales, que la personne visée à l'article 44ter, § 1er, fournit elle-même à l'appui de la défense ;
+
+13° la capacité financière de personnes qui ont un abonnement d'intervention majorée.
+
+Le Gouvernement flamand peut spécifier les catégories de données à caractère personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-12-23/55, art. 8, 019; En vigueur : 03-03-2022&gt;
+
+##### Art. 44sexiesdecies
+
+[<sup>1</sup> Le responsable du traitement traite les catégories de données à caractère personnel, visées à l'article 44quinquies decies du présent décret, aux fins suivantes, en exécution d'une mission d'intérêt général et l'exercice de l'autorité publique, visée à l'article 6, paragraphe 1, e), du règlement général sur la protection des données :
+
+1° contrôler et confisquer des titres de transport ou des cartes de réduction ;
+
+2° constater des infractions aux conditions de voyage ;
+
+3° constater les faits et actes suivants :
+
+a) des faits et actes causant des nuisances sur et autour du véhicule de la Société ;
+
+b) des faits et actes perturbant ou susceptibles de perturber la prestation de service ;
+
+c) des faits et actes créant un danger ;
+
+4° interroger des personnes et consulter des documents et autres supports d'information ;
+
+5° établir et envoyer le procès-verbal ;
+
+6° imposer et percevoir des amendes administratives et des frais de contrôle et administratifs à une personne telle que visée à l'article 44ter du présent décret ;
+
+7° prendre une décision définitive après avoir traité les moyens de défense éventuels du contrevenant contre la proposition de décision ;
+
+8° défendre la Société dans le cadre de procédures.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-12-23/55, art. 9, 019; En vigueur : 03-03-2022&gt;
+
+##### Art. 44septiesdecies
+
+[<sup>1</sup> Le responsable du traitement traite les catégories de données à caractère personnel, visées à l'article 44quinquies decies du présent décret, des catégories suivantes de personnes concernées :
+
+1° des personnes qui ont commis une infraction aux conditions de voyage, visées à l'article 2, 20°, du décret relatif à l'accessibilité de base ;
+
+2° des personnes qui ne disposent pas d'un titre de transport valable ou, le cas échéant, d'un titre de transport validé ;
+
+3° les personnes effectuant les actes suivants :
+
+a) les personnes qui causent des nuisances sur et autour du véhicule de la Société ;
+
+b) les personnes qui perturbent ou peuvent perturber la prestation de service ;
+
+c) les personnes qui créent un danger ;
+
+4° des contrôleurs ;
+
+5° des membres du personnel sanctionnateur ;
+
+6° les parents et tuteurs ou les personnes qui ont la garde d'une personne telle que visée à l'article 44ter du présent décret, qui est mineure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-12-23/55, art. 10, 019; En vigueur : 03-03-2022&gt;
+
+##### Art. 44duodevicies
+
+[<sup>1</sup> La Société peut communiquer les données à caractère personnel aux tierces parties suivantes, aux fins visées à l'article 44sexies decies :
+
+1° la police, si une constatation supplémentaire est nécessaire vu les faits ;
+
+2° le Registre national ou la Direction pour l'Immatriculation des Véhicules, pour contrôler si les données à caractère personnel fournies par la personne en question sont correctes et compléter, le cas échéant, des données à caractère personnel manquantes mais nécessaires ;
+
+3° le service " Administratieve Boetes " (Amendes administratives), pour établir les amendes administratives et les frais de contrôle et administratifs ;
+
+4° un service de dépannage, si un véhicule doit être remorqué ;
+
+5° des huissiers de justice, pour poursuivre le traitement des amendes administratives et des frais de contrôle et administratifs, ou pour effectuer une enquête de solvabilité pour les personnes ayant un abonnement d'intervention majorée, avant de commencer le recouvrement forcé ;
+
+6° des avocats, cours et tribunaux, si les amendes administratives et les frais de contrôle et administratifs sont contestés ;
+
+7° le médiateur flamand, si celui-ci intervient dans un litige.
+
+Le Gouvernement flamand peut arrêter des modalités relatives à l'échange des données à caractère personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-12-23/55, art. 11, 019; En vigueur : 03-03-2022&gt;
+
+## CHAPITRE VII. (ancien chapitre VIII) - Dispositions transitoires. &lt;DCFL 2004-04-02/52, art. 41, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 45
+
+§ 1. Les membres du personnel de la Société des Transports intercommunaux d'Anvers, de la Société des Transports intercommunaux de Gand ainsi que les membres du personnel transférés de la Société nationale des Chemins de fer vicinaux passent à la Société avec maintien de leurs droits et obligations, de leur grade et de leur qualité. Ils conservent au moins le traitement et l'ancienneté, les allocations et les indemnisations qu'ils avaient obtenus ou auraient obtenus s'ils avaient continué à remplir dans la société d'où ils sont transférés les fonctions qu'ils exercaient au moment de leur transfert.
+
+(Alinéa 2 abrogé) &lt;DCFL 2004-04-02/52, art. 42, 1°, 009; En vigueur : 15-03-2006&gt;
+
+§ 2. (...) &lt;DCFL 2004-04-02/52, art. 41, 2°, 009; En vigueur : 15-03-2006&gt;
+
+§ 3. (...) &lt;DCFL 2004-04-02/52, art. 41, 3°, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 46
+
+(Abrogé) &lt;DCFL 1992-12-18/30, art. 69, 002; En vigueur : 08-01-1993&gt;
+
+## CHAPITRE VIII. (ancien chapitre IX) - (Dispositions finales). &lt;DCFL 2004-04-02/52, art. 43, 009; En vigueur : 15-03-2006&gt;
+
+##### Art. 46bis
+
+&lt;Inséré par DCFL 2004-04-02/52, art. 43; En vigueur : 15-03-2006&gt; § 1er. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. Le Gouvernement flamand peut coordonner les dispositions des décrets relatifs à la "Vlaamse Vervoermaatschappij - De Lijn", ainsi que les dispositions qui y ont expressément ou tacitement apporté des modifications jusqu'au moment de la coordination.
+
+A cet effet, il peut :
+
+1° réorganiser, notamment reclasser et renuméroter les dispositions à coordonner;
+
+2° renuméroter en conséquence les références dans les dispositions à coordonner;
+
+3° réécrire les dispositions à coordonner en vue de la concordance et l'harmonie de la terminologie, sans toucher aux principes y contenus;
+
+4° adapter la forme des références aux dispositions reprises dans la coordination, qui sont présentes dans d'autres dispositions non reprises dans la coordination.
+
+La coordination n'entre en vigueur qu'après sa ratification par décret.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.10, 014; En vigueur : 01-01-2019&gt;
+
+##### Art. 46ter
+
+&lt;Abrogé par DCFL 2019-03-29/45, art. 114, 015; En vigueur : 01-01-2020&gt;
