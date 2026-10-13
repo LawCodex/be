@@ -1,0 +1,223 @@
+---
+title: "Décret sur le contrôle des institutions universitaires"
+identifier: "1990028060"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1990/07/12/1990028060/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1990-07-12
+published: 1990-09-13
+entry_into_force: 1990-09-23
+last_amended: 2026-07-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1990/07/12/1990028060/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 23-10-2012 et mise à jour au 06-07-2026"
+retrieved: 2026-10-12
+---
+
+# 12 JUILLET 1990. - Décret sur le contrôle des institutions universitaires
+
+Le Conseil de la Communauté française a adopté et Nous, [le Gouvernement], sanctionnons ce qui suit :
+
+## Art. 1
+
+Sur proposition du Ministre qui a l'enseignement universitaire dans ses attributions, (le Gouvernement) nomme, par arrêté délibéré, un commissaire (du Gouvernement) ou un délégué (du Gouvernement) auprès de chacune des institutions universitaires visées à l'article 25 (...) de la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+Un même commissaire ou délégué (du Gouvernement) peut être nommé auprès de plusieurs institutions.
+
+## Art. 2
+
+La fonction de commissaire ou délégué (du Gouvernement) est incompatible avec toute autre fonction dans une institution universitaire. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+La charge d'un commissaire ou délégué (du Gouvernement) est réputée exercée à temps partiel lorsque le commissaire ou le délégué exerce une autre activité rétribuée absorbant une grande partie de son temps.&lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+(Le Gouvernement) fixe le pourcentage que cette charge représente par rapport à la charge à temps plein. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+Les commissaires et délégués (du Gouvernement) sont nommés parmi les détenteurs d'un diplôme universitaire justifiant d'une expérience utile de cinq ans au moins. Leur statut est fixé par (le Gouvernement). &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+## Art. 3
+
+Les commissaires (du Gouvernement) jouissent du statut pécuniaire et du régime de pension du professeur ordinaire. Leurs années de services comme commissaire (du Gouvernement) sont assimilées à des années de services académiques. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+Les délégués (du Gouvernement) auprès des Institutions libres exercent les fonctions de commissaire (du Gouvernement) Ils ont le même statut pécuniaire et le même régime de pension. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+## Art. 4
+
+Le commissaire ou le délégué (du Gouvernement) veille à ce que le conseil d'administration et les organes habilités par délégation du conseil, la loi ou le décret ne prennent aucune décision qui soit contraire aux lois, décrets, arrêtés et règlements pris en vertu de ces lois ou décrets, ou qui puisse compromettre les finances de l'institution. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+Dans les institutions de la Communauté, toutes les questions figurant à l'ordre du jour sont de la compétence du commissaire (du Gouvernement), qui assiste à toutes les réunions.&lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+Dans les autres institutions, le délégué (du Gouvernement) assiste aux réunions du conseil d'administration ainsi qu'aux réunions des autres organes qui, par délégation du conseil, ont à connaître des questions portées à l'ordre du jour et relevant de sa compétence. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+## Art. 4bis
+
+[<sup>1</sup> Les commissaires ou délégués du Gouvernement auprès des universités sont, en outre, plus particulièrement chargés de :
+
+1° contrôler le nombre d'étudiants régulièrement inscrits qui sont pris en compte pour le financement visé par la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires ;
+
+2° connaître des recours introduits par les étudiants sur la base des articles 95 et 102 du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études ;
+
+3° contrôler le respect de la procédure et la réalité de la fraude conformément aux articles 95/2 et 95/3 du décret du 7 novembre 2013 ;
+
+[<sup>3</sup> 3/1° contrôler le respect de la procédure d'exclusion définitive visée à l'article 95/4 du décret du 7 novembre 2013 précité pour des faits de harcèlements, de violences sexistes ou sexuelles ou de discriminations;]<sup>3</sup>
+
+4° remettre un avis aux universités quant au financement des étudiants conformément à l'article 96, § 2, du décret du 7 novembre 2013 ;
+
+5° veiller au respect des dispositions du décret du 16 juin 2006 régulant le nombre d'étudiants dans certains cursus de premier cycle de l'enseignement supérieur conformément à l'article 10 de ce même décret ;
+
+6° contrôler la mise en oeuvre de la participation des étudiants dans les universités et notamment :
+
+a) la conformité du règlement et de la procédure électorale aux dispositions du décret du 21 septembre 2012 relatif à la participation et la représentation étudiante dans l'enseignement supérieur ;
+
+b) la validité du déroulement du processus électoral ;
+
+c) le respect des quorums de participation aux élections ;
+
+7° contrôler l'utilisation des moyens financiers octroyés au conseil des étudiants conformément à l'article 22 du décret du 21 septembre 2012;
+
+[<sup>2</sup> 8° contrôler l'utilisation et l'affectation des subsides sociaux octroyés aux institutions universitaires conformément aux conditions et modalités arrêtées par le Gouvernement.]<sup>2</sup>
+
+Dans le cadre de l'exercice de l'ensemble de leurs missions, les commissaires ou délégués du Gouvernement sont assistés par des collaborateurs. Le Gouvernement arrête le cadre, les statuts, les rémunérations et les indemnités de ce personnel mis à disposition. Le personnel est recruté, nommé, promu ou désigné, conformément aux dispositions arrêtées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-05-25/18, art. 10, 005; En vigueur : 21-09-2023&gt;
+
+(2)&lt;DCFR 2024-10-24/09, art. 1, 004; En vigueur : 25-11-2024&gt;
+
+(3)&lt;DCFR 2026-06-11/09, art. 20, 006; En vigueur : 14-09-2026&gt;
+
+## Art. 5
+
+Sauf les cas d'urgence qu'il accepte, le commissaire ou le délégué (du Gouvernement) reçoit cinq jours avant la réunion, l'ordre du jour complet de celle-ci ainsi que tous les documents pour les points qui relèvent de sa compétence. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+Il a le droit d'être entendu en tout temps par le conseil d'administration et par les organes délégués sur les questions qui concernent sa compétence; il a également le droit d'obtenir communication des dossiers soumis pour ces questions aux délibérations de ces organes. En outre, il reçoit copie, dans le délai de cinq jours francs, de toutes les décisions prises par ceux-ci sur les questions qui concernent sa compétence.
+
+Il fait au conseil d'administration et aux organes visés à l'article 4 toutes observations qu'il juge nécessaires dans le cadre de sa mission. Il a voix consultative.
+
+Les achats de biens ou de services dépassant (16 000 euros) doivent être visés avant l'engagement par le commissaire ou le délégué (du Gouvernement). (Ce montant de 16 000 euros est revu en fonction de l'évolution de l'indice santé des prix à la consommation à l'expiration de chaque période quinquennale à dater du 1er janvier 2001 et en arrondissant à la centaine d'euros inférieure ou supérieure la plus proches.) Le visa porte sur la légalité et la régularité. En cas de refus de visa, le dossier est soumis au conseil d'administration et aux organes visés à l'article 4. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt; &lt;DCF 2000-07-20/45, art. 5 et 6; En vigueur : 01-01-2001&gt;
+
+Le visa doit être donné dans un délai de cinq jours francs; passé ce délai, il est considéré comme acquis.
+
+Le refus du visa doit être motivé.
+
+## Art. 6
+
+§ 1er. Le commissaire ou le délégué (du Gouvernement) exerce un recours auprès (du Gouvernement) contre toute décision de l'institution universitaire qu'il estime contraire aux lois, décrets, arrêtés et règlements pris en vertu de ces lois ou décrets. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+Toutefois, ce recours ne peut être exercé contre les actes d'exécution des conventions conclues avant le 1er juillet 1971 et découlant de la loi du 28 mai 1970 modifiant la loi du 12 août 1911 accordant la personnification civile aux universités de Bruxelles et de Louvain.
+
+Ce recours est motivé. Il est exercé dans les cinq jours francs qui suivent la réception, par le commissaire ou le délégué (du Gouvernement), de la copie de la décision. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+Ce recours est notifié, dans le même délai, au conseil d'administration, ainsi qu'à l'organe qui a pris la décision querellée.
+
+L'exécution de la décision est suspendue par le recours.
+
+§ 2. Dans les trente jours du recours, (le Gouvernement) notifie, s'il y a lieu, au conseil d'administration et à l'organe délégué que la décision est contraire aux lois, décrets, arrêtés et règlements pris, en vertu de ces lois ou décrets. Cette notification est motivée. (Le Gouvernement) invite, dans le même acte, l'organe compétent visé à l'article 4 à prendre dans les trente jours une nouvelle décision, non entachée d'illégalité ou d'irrégularité, ou bien à retirer sa décision. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+§ 3. Si, à l'expiration de ce délai, aucune décision nouvelle n'a été prise, où si le conseil d'administration ou l'organe délégué visé à l'article 4 n'a pas retiré la décision, (le Gouvernement) prononce dans les vingt jours l'annulation de la décision, si celle-ci a été prise par l'un des organes d'une institution de la Communauté. S'il s'agit d'une institution universitaire libre, (le Gouvernement) suspend, dans les vingt jours, l'octroi des subventions à l'institution en question. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+La mesure prise par (le Gouvernement) est motivée et notifiée dans un délai de sept jours francs et ouvrables au conseil d'administration et à l'organe compétent de l'institution concernée. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+Le recours éventuel au tribunal introduit par les institutions universitaires libres contre la mesure proposée, suspend l'exécution de cette mesure jusqu'à la décision définitive du tribunal.
+
+La décision produit ses effets si, dans les trente jours du recours, (le Gouvernement) n'a pas fait usage des prérogatives définies par le § 2. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+## Art. 6bis
+
+[<sup>1</sup> Dans le cadre strict des missions qui leur sont confiées en vertu du présent décret, les commissaires ou délégués du Gouvernement auprès des institutions universitaires sont autorisés à utiliser le numéro de Registre national visé par l'article 2, § 3, de la loi du 8 août 1983 organisant un Registre national des personnes physiques ou, à défaut, le numéro d'identification de la Banque Carrefour de la Sécurité Sociale, tel que visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, des étudiants inscrits ou ayant introduit une demande d'admission ou d'inscription dans un établissement d'enseignement supérieur de plein exercice.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-11-17/07, art. 1, 003; En vigueur : 30-01-2023&gt;
+
+## Art. 6ter.
+
+[<sup>1</sup> § 1er. Il est institué un Collège composé des commissaires et délégués du Gouvernement près de chacune des institutions, visées à l'article 1er.
+
+Ce Collège décide, par consensus, de toutes les mesures utiles en vue :
+
+1° de la mise en oeuvre cohérente et de l'harmonisation du contrôle des institutions universitaires et du règlement des questions ponctuelles qui lui sont soumises à cette fin par le Gouvernement ;
+
+2° du bon fonctionnement général de ce contrôle notamment par l'affectation des moyens tant matériels qu'humains mis à disposition commune des commissaires et délégués.
+
+Si aucun consensus ne peut être dégagé au sein du Collège et si cette absence de consensus est de nature à être préjudiciable à la cohérence et à l'harmonisation du contrôle des institutions universitaires, le Gouvernement prend les décisions nécessaires pour y remédier.
+
+Le Collège est en outre chargé d'informer le Gouvernement et de lui donner avis, d'initiative ou à sa demande, sur toute question en rapport avec le contrôle des institutions universitaires. A défaut de consensus, les avis expriment les différentes options exposées au sein du Collège.
+
+§ 2. Le Collège est présidé successivement, par période de deux ans, par chacun des commissaires et délégués, du plus ancien en fonction au plus jeune ou, à défaut d'applicabilité de ce critère, de la manière établie par le Collège lui-même.
+
+Le Collège se réunit d'initiative au moins une fois par trimestre. Il se réunit, en outre, à tout moment à la demande du Gouvernement.
+
+§ 3. Le Collège fixe les modalités d'organisation de son secrétariat compte tenu des moyens tant matériel qu'humain mis à disposition des Commissaires et des délégués et établit son règlement intérieur. Ce règlement doit en tout cas compléter les modalités de présidence du Collège, organiser les procédures de fonctionnement par consensus et déterminer la forme que doivent revêtir les décisions prises par le Collège ainsi que la publicité qui doit leur être donnée. Ce règlement est soumis au Gouvernement pour approbation.
+
+Le Collège des commissaires et des délégués fait annuellement rapport au Gouvernement. Ce rapport contient la description de ses activités, son évaluation des procédures de contrôle pour l'année écoulée et ses suggestions pour l'année à venir.
+
+§ 4. Pour assurer le secrétariat du Collège ainsi qu'une mission de coordination administrative, le Président du Collège est assisté d'au moins un collaborateur. Le Gouvernement arrête le cadre, les statuts, les rémunérations et les indemnités du personnel mis à la disposition du Collège. Le personnel est recruté, promu ou engagé conformément aux dispositions arrêtées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-10-24/09, art. 2, 004; En vigueur : 01-05-2024&gt;
+
+## Art. 6quater.
+
+[<sup>1</sup> § 1er. Le Collège visé à l'article 6ter forme avec celui des commissaires du Gouvernement auprès des hautes écoles visé à l'article 44bis du décret du 9 septembre 1996 relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française et celui des délégués auprès des écoles supérieures des arts visé à l'article 34undecies du décret du 20 décembre 2001 fixant les règles spécifiques à l'enseignement supérieur artistique organisé en Ecole supérieures des Arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants), le Collège réuni des commissaires et délégués du Gouvernement auprès des établissements d'enseignement supérieur.
+
+Ce dernier décide, par consensus, de toutes les mesures utiles en vue de la mise en oeuvre cohérente et de l'harmonisation du contrôle des établissements d'enseignement supérieur et du règlement des questions ponctuelles qui lui sont soumises à cette fin par le Gouvernement.
+
+Il est en outre chargé d'informer le Gouvernement et de lui donner avis, d'initiative ou à sa demande, sur toute question en rapport avec le contrôle des établissements d'enseignement supérieur.
+
+Il est présidé conjointement par le président du Collège des commissaires et délégués auprès des institutions universitaires et celui du Collège des commissaires du Gouvernement auprès des hautes écoles et des écoles supérieures des arts.
+
+Le Collège réuni établit son règlement d'ordre intérieur. Ce règlement est soumis au Gouvernement pour approbation.
+
+§ 2. Le Collège réuni visé au paragraphe 1er exerce la mission de responsable du traitement pour les traitements de données à caractère personnel effectués par les commissaires et délégués dans l'exercice de leurs compétences. Dans ce cadre, il accomplit tout acte prescrit par la législation belge relative aux données à caractère personnel et par le règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).
+
+Le Gouvernement met à disposition du Collège réuni les moyens nécessaires spécifiques à l'exercice de cette responsabilité.
+
+Le Gouvernement arrête le cadre, les statuts, les rémunérations et les indemnités du personnel mis à disposition du Collège réuni. Le personnel est recruté, promu ou engagé, conformément aux dispositions arrêtées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-10-24/09, art. 3, 004; En vigueur : 01-05-2024&gt;
+
+## Art. 7
+
+Sur proposition du Ministre ayant le budget dans ses attributions, (le Gouvernement) désigne un délégué parmi les inspecteurs des Finances accrédités auprès de lui. A l'exception du visa prescrit aux alinéas 4, 5 et 6 de l'article 5, ce délégué exerce, en collaboration avec le commissaire ou le délégué (du Gouvernement), les mêmes fonctions que ce dernier pour toutes les décisions ayant une incidence budgétaire ou financière, et ce dans les mêmes conditions et selon les mêmes modalités. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+## Art. 8
+
+Les commissaires ou délégués du Gouvernement en fonction à la date d'entrée en vigueur du présent décret portent respectivement le titre de commissaire (du Gouvernement) ou de délégué (du Gouvernement). Leurs années de services comme commissaire ou délégué du Gouvernement sont assimilées à des années de services académiques. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+## Art. 9
+
+L'article 45 de la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires est abrogé.
+
+## Art. 10
+
+(Le Gouvernement) de la Communauté française est chargé de l'exécution du présent décret. &lt;DCFR 1998-10-01/36, art. 30, En vigueur : 01-08-1998&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 12 juillet 1990.
+
+Le Ministre-Président de l'Exécutif de la Communauté française, chargé de la Culture et de la Communication,
+
+V. FEAUX
+
+Le Ministre de l'Enseignement, de la Formation, du Sport, du Tourisme et des Relations internationales,
+
+J.-P. GRAFE
+
+Le Ministre de l'Education et de la Recherche scientifique,
+
+Y. YLIEFF
+
+Le Ministre des Affaires sociales et de la Santé,
+
+F. GUILLAUME

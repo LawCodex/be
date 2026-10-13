@@ -1,0 +1,53 @@
+---
+title: "Décret relatif à la protection de la liberté de l'emploi des langues et de l'usage de la langue française en matière de relations sociales entre les employeurs et leur personnel ainsi que d'actes et documents des entreprises imposés par la loi et les règlements. (note 1.: à l'article 1er du décret, les mots \"ou des travailleurs d'expression française\" ont été annulés par l'arrêt de la Cour d'arbitrage du 30-01-1986, publié au M.B. du 12-02-1986) (note 2. : La Cour d'arbitrage a décidé, dans son arrêt du 18-11-1986 (M.B. du 10-12-1986), que ce décret est annulé dans la mesure où son champ d'application, tel qu'il est défini à l 'article 1er, comprend les communes ou groupes de communes de la région de langue française contigus à une autre région linguistique et où la loi prescrit ou permet l'emploi d'une autre langue que celle de la région dans laquelle ils sont situés)."
+identifier: "1982001285"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1982/06/30/1982001285/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1982-06-30
+published: 1982-08-27
+entry_into_force: 1982-09-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1982/06/30/1982001285/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 30 JUIN 1982. - Décret relatif à la protection de la liberté de l'emploi des langues et de l'usage de la langue française en matière de relations sociales entre les employeurs et leur personnel ainsi que d'actes et documents des entreprises imposés par la loi et les règlements. (note 1.: à l'article 1er du décret, les mots "ou des travailleurs d'expression française" ont été annulés par l'arrêt de la Cour d'arbitrage du 30-01-1986, publié au M.B. du 12-02-1986) (note 2. : La Cour d'arbitrage a décidé, dans son arrêt du 18-11-1986 (M.B. du 10-12-1986), que ce décret est annulé dans la mesure où son champ d'application, tel qu'il est défini à l 'article 1er, comprend les communes ou groupes de communes de la région de langue française contigus à une autre région linguistique et où la loi prescrit ou permet l'emploi d'une autre langue que celle de la région dans laquelle ils sont situés).
+
+## Art. 1
+
+Le présent décret est applicable aux personnes physiques ou morales :
+
+\_ ayant leur siège social ou un siège d'exploitation dans la région de langue française ou qui y sont domiciliées;
+
+\_ ou employant ou occupant du personnel dans la région de langue française ou des travailleurs d'expression française.
+
+&lt;note 1. : par son arrêt du 30-01-1986 (M.B. 12-02-1986), la Cour d'Arbitrage a annulé les mots "ou des travailleurs d'expression française"&gt;
+
+&lt;note 2. : par son arrêt du 18-11-1986 (M.B. 10-12-1986), la Cour d'Arbitrage a annulé les termes suivants : "leur siège social ou", "ou qui y sont domiciliés" et "ou employant ou occupant du personnel dans la région de langue française"&gt;
+
+Sont notamment considérés comme travailleurs d'expression française ceux qui :
+
+a) sont porteurs d'un diplôme délivré par un établissement d'enseignement de langue française;
+
+b) sont inscrits en langue française dans les registres de la population et sont porteurs d'une carte d'identité en langue française;
+
+c) utilisent habituellement le français dans leurs relations de travail.
+
+## Art. 2
+
+La langue à utiliser pour les relations sociales entre employeurs et travailleurs ainsi que pour les actes et documents des entreprises prescrits par la loi et les règlements est le français, sans préjudice de l'usage complémentaire de la langue choisie par les parties.
+
+En aucun cas, l'usage de la langue française ne peut entacher la validité des actes et documents.
+
+Toute clause tendant à restreindre l'usage de la langue française est nulle.
+
+## Art. 3
+
+Les actes et documents dressés en violation de l'article 2 du présent décret sont nuls. La nullité en est constatée d'office par le Juge.
+
+La levée de la nullité ne sortit ses effets qu'au moment ou une version des actes et documents conforme au prescrit de l'article 2 est mise à la disposition des parties.

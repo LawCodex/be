@@ -1,0 +1,45 @@
+---
+title: "Décret fixant les critères d'appartenance exclusive à la Communauté française des institutions traitant les matières personnalisables dans la région bilingue de Bruxelles-Capitale."
+identifier: "1982001286"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1982/07/01/1982001286/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1982-07-01
+published: 1982-08-27
+entry_into_force: 1995-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1982/07/01/1982001286/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 1 JUILLET 1982. - Décret fixant les critères d'appartenance exclusive à la Communauté française des institutions traitant les matières personnalisables dans la région bilingue de Bruxelles-Capitale.
+
+## Art. 1
+
+Le présent décret est applicable aux institutions publiques et privées, établies dans la région bilingue de Bruxelles-Capitale, et qui traitent des matières visées à l'article 5 de la loi spéciale de réformes institutionnelles du 8 août 1980.
+
+## Art. 2
+
+Appartiennent exclusivement à la Communauté française au sens de l'article 59bis, § 4bis, de la Constitution, les institutions visées à l'article 1, dont les actes de gestion courante et journalière se font en français, et qui, par l'organisation de leur service d'accueil, s'adressent de manière spécifique aux francophones.
+
+## Art. 3
+
+Pour bénéficier d'une aide quelconque de la Communauté française, une institution qui appartient exclusivement à celle-ci doit avoir été agréée par l'Exécutif.
+
+L'Exécutif doit agréer toute institution qui en fait la demande et qui remplit les conditions fixées par l'article 2.
+
+## Art. 4
+
+L'agrément peut être retiré par décision motivée de l'Exécutif lorsque l'organisation d'une institution ne répond plus aux critères fixés par l'article 2 ou lorsque celle-ci est subventionnée par l'Etat ou la Communauté flamande.
+
+## Art. 5
+
+La procédure d'octroi et de retrait de l'agrément est fixée par l'Exécutif.
+
+## Art. 6
+
+Le présent décret entre en vigueur à la date fixée par l'Exécutif.
