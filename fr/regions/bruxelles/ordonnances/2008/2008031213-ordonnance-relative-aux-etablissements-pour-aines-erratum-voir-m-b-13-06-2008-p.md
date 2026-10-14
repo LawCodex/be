@@ -1,0 +1,1095 @@
+---
+title: "Ordonnance relative aux établissements [...] pour [ aînés]. <Erratum, voir M.B. 13-06-2008, p. 29910> <Intitule modifié par ORD 2022-12-15/30 , art. 1, 005; En vigueur : 01-01-2023> <Intitule modifié par ORD 2022-12-15/30 , art. 2, 005; En vigueur : 01-01-2023>"
+identifier: "2008031213"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/04/24/2008031213/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2008-04-24
+published: 2008-05-16
+entry_into_force: 2008-05-26
+last_amended: 2025-12-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/04/24/2008031213/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "Consultation des versions antérieures à partir du 16-05-2008 et mise à jour au 30-12-2025"
+retrieved: 2026-10-12
+---
+
+# 24 AVRIL 2008. - Ordonnance relative aux établissements [...] pour [ aînés]. &lt;Erratum, voir M.B. 13-06-2008, p. 29910&gt; &lt;Intitule modifié par ORD 2022-12-15/30 , art. 1, 005; En vigueur : 01-01-2023&gt; &lt;Intitule modifié par ORD 2022-12-15/30 , art. 2, 005; En vigueur : 01-01-2023&gt;
+
+[L'assemblée réunie a adopté et Nous, Collège réuni, sanctionnons ce qui suit :
+
+]
+
+## CHAPITRE Ier. - Généralités.
+
+#### Art. 1
+
+La présente ordonnance règle une matière visée à l'article 135 de la Constitution.
+
+#### Art. 2
+
+Pour l'application de la présente ordonnance, il faut entendre par :
+
+1° [<sup>4</sup> aînés]<sup>4</sup> : les [<sup>4</sup> aînés]<sup>4</sup> de soixante ans au moins [<sup>3</sup> qui fréquentent, séjournent ou résident]<sup>3</sup> dans un établissement visé sous 4° ou les personnes plus jeunes qui [<sup>3</sup> les fréquentent, y séjournent ou y résident]<sup>3</sup>, moyennant autorisation accordée par [<sup>6</sup> le fonctionnaire dirigeant d'Iriscare ou son délégué, aux conditions et suivant les modalités arrêtées par le Collège réuni]<sup>6</sup>, de l'avis [<sup>2</sup> du Conseil de gestion]<sup>2</sup>;
+
+2° Collège réuni : le Collège réuni de la Commission communautaire commune;
+
+3° [<sup>3</sup> Iriscare : l'Office bicommunautaire de la santé, de l'aide aux personnes et des prestations familiales, visé à l'article 2, § 1er, de l'ordonnance du 23 mars 2017 portant création de l'Office bicommunautaire de la santé, de l'aide aux personnes et des prestations familiales ]<sup>3</sup>;
+
+4° établissement pour [<sup>4</sup> aînés]<sup>4</sup> :
+
+a) habitation pour [<sup>4</sup> aînés]<sup>4</sup> : maison, partie de maison ou appartement destiné ou offert, par une personne de droit public ou une personne morale visée par la loi du 27 juin 1921 accordant la personnalité civile aux associations sans but lucratif et aux établissements d'utilité publique à la location, à la vente ou à toute autre forme d'usage ou d'occupation, même à titre gratuit, comme étant spécialement construit ou aménagé en vue du logement particulier de [<sup>4</sup> aînés]<sup>4</sup>;
+
+b) résidence-service et complexe résidentiel proposant des services :
+
+alpha) soit, [<sup>3</sup> une ou plusieurs unités de vie ]<sup>3</sup>, quelle qu'en soit la dénomination, constituant fonctionnellement un ensemble et comprenant des logements particuliers destinés ou offerts à la location, à la vente ou à toute autre forme d'usage ou d'occupation, même à titre gratuit, comme permettant aux [<sup>4</sup> aînés]<sup>4</sup> une vie indépendante, avec des équipements communs de services [<sup>3</sup> auxquels ils ]<sup>3</sup> peuvent faire librement appel;
+
+bêta) soit, [<sup>3</sup> une ou plusieurs unités de vie ]<sup>3</sup> quelle qu'en soit la dénomination, constituant fonctionnellement un ensemble soumis au régime de la loi du 30 juin 1994 relative à la copropriété, et comprenant des logements particuliers, permettant aux [<sup>4</sup> aînés]<sup>4</sup> une vie indépendante, et où des services sont offerts [<sup>3</sup> auxquels ils ]<sup>3</sup> font appel;
+
+c) maison de repos : [<sup>3</sup> une ou plusieurs unités de vie ]<sup>3</sup>, quelle qu'en soit la dénomination, constituant fonctionnellement une résidence collective procurant un hébergement ainsi que des aides ou des soins aux [<sup>4</sup> aînés]<sup>4</sup> qui y demeurent avec ou sans agrément spécial pour la prise en charge des [<sup>4</sup> aînés]<sup>4</sup> fortement [<sup>5</sup> dépendants]<sup>5</sup> et nécessitant des soins;
+
+d) centre de soins de jour : [<sup>3</sup> une unité de vie]<sup>3</sup>, quelle qu'en soit la dénomination, implanté dans une maison de repos ou en liaison avec une maison de repos, offrant une structure de soins de santé qui prend en charge, pendant la journée, des [<sup>4</sup> aînés]<sup>4</sup> fortement [<sup>5</sup> dépendants]<sup>5</sup> nécessitant des soins et qui apporte le soutien nécessaire au maintien de ces personnes à domicile;
+
+e) centre d'accueil de jour : [<sup>3</sup> une unité de vie]<sup>3</sup>, quelle qu'en soit la dénomination, implanté dans une maison de repos ou en liaison avec une maison de repos, offrant une structure d'accueil, pendant la journée, à des [<sup>4</sup> aînés]<sup>4</sup> vivant à domicile et qui bénéficient au sein du centre des aides et des soins appropriés à leur perte d'autonomie;
+
+f) court séjour : l'hébergement d'une [<sup>4</sup> aîné]<sup>4</sup> dans une maison de repos pour une durée maximale de trois mois ou nonante jours cumulés par année civile, dans le même établissement ou, selon les modalités arrêtées par le Collège réuni de l'avis [<sup>2</sup> du Conseil de gestion ]<sup>2</sup>, dans des établissements différents;
+
+g) centre d'accueil de nuit : [<sup>3</sup> une unité de vie]<sup>3</sup>, quelle qu'en soit la dénomination, implanté dans une maison de repos offrant une structure d'accueil, pendant la nuit, à des [<sup>4</sup> aînés]<sup>4</sup> qui, tout en résidant à domicile, requièrent la nuit une surveillance, des aides et des soins de santé qui ne peuvent leur être assurés par leurs proches de façon continue.
+
+5° [<sup>1</sup> [<sup>2</sup> Conseil de gestion]<sup>2</sup> : le Conseil de gestion de la santé et de l'aide aux personnes d'Iriscare, au sens de l'article [<sup>3</sup> 21]<sup>3</sup> de l'ordonnance du 23 mars 2017 portant création de l'Office bicommunautaire de la santé, de l'aide aux personnes et des prestations familiales ;]<sup>1</sup>
+
+6° gestionnaire : la ou les personnes morales ou physiques [<sup>3</sup> qui exploitent ou projettent d'exploiter ]<sup>3</sup> un établissement visé sous le 4° ou, s'agissant des établissements visés sous le 4°, b, beta, le prestataire de services;
+
+7° directeur : la personne physique chargée par le gestionnaire et sous son contrôle de la direction journalière d'un établissement visé sous le 4° et de représenter cet établissement devant [<sup>3</sup> Iriscare]<sup>3</sup>;
+
+8° bourgmestre : le bourgmestre de la commune où est situé l'établissement concerné;
+
+9° [<sup>3</sup> représentant :
+
+a) le représentant légal de l'aîné ;
+
+b) à défaut de représentant visé au a), le mandataire désigné par l'aîné. Cette personne ne peut pas exercer une activité dans l'établissement concerné ou prendre part à sa gestion ou être soumise à l'autorité du gestionnaire. Cette restriction ne s'applique pas au parent ou allié de l'aîné, jusqu'au quatrième degré inclus ;
+
+c) à défaut de représentant visé au a) ou au b), un représentant du centre public d'action sociale compétent. Cette personne ne peut pas exercer une activité dans l'établissement concerné ou prendre part à sa gestion ou être soumise à l'autorité du gestionnaire]<sup>3</sup>;
+
+10° [<sup>3</sup> projet de vie d'établissement : document qui décrit la manière dont un établissement visé sous 4° entend promouvoir la qualité de vie des aînés, tant à l'intérieur qu'à l'extérieur de l'établissement, ainsi que la qualité des soins, si des soins y sont dispensés]<sup>3</sup>;
+
+11° subvention à l'investissement : la subvention accordée conformément aux dispositions de la présente ordonnance, en tant qu'intervention dans le coût ou dans le financement de l'acquisition, de la construction, de l'extension, de la transformation ou de l'équipement des bâtiments affectés à l'exercice de l'activité des établissements visés à l'article 22, § 1er.
+
+[<sup>3</sup> 12° secteur : le secteur public, le secteur privé à but non lucratif ou le secteur privé à but lucratif ;
+
+13° secteur public : le secteur composé des établissements dont le gestionnaire a la forme juridique d'une personne morale de droit public ou dont le gestionnaire est une personne morale organisée [<sup>5</sup> au moins majoritairement ]<sup>5</sup> par une ou plusieurs personnes morales de droit public ;
+
+14° secteur privé à but non lucratif : secteur composé des établissements [<sup>5</sup> non visés au 13°]<sup>5</sup> dont le gestionnaire est constitué sous la forme d'une association sans but lucratif ou sous la forme d'une fondation, qui, dans les deux cas, [<sup>5</sup> ...]<sup>5</sup> ne sont pas soumises au contrôle d'une société au sens de l'article I:14, § 1er, du Code des sociétés et des associations. Le Collège réuni peut déterminer ce qu'il faut entendre par " soumises au contrôle de ", visé dans la phrase précédente ;
+
+15° secteur privé à but lucratif : secteur composé des établissements [<sup>5</sup> non visés au 13°]<sup>5</sup> dont le gestionnaire est soit constitué sous la forme d'une personne morale à but lucratif, soit soumis au contrôle d'une société au sens de l'article I:14, § 1er, du Code des sociétés et des associations tout en étant constitué sous la forme d'une personne morale à but non lucratif. Le Collège réuni peut déterminer ce qu'il faut entendre par " soumis au contrôle de ", visé dans la phrase précédente. ]<sup>3</sup>
+
+[<sup>5</sup> 16° service d'incendie: le Service d'incendie et d'aide médicale urgente de la Région de Bruxelles-Capitale. ]<sup>5</sup>
+
+----------
+
+(1)&lt;ORD 2019-04-25/13, art. 32, 003; En vigueur : 01-01-2019&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 4, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;ORD 2022-12-15/30, art. 5, 005; En vigueur : 01-01-2023&gt;
+
+(4)&lt;ORD 2022-12-15/30, art. 2, 005; En vigueur : 01-01-2023&gt;
+
+(5)&lt;ORD 2023-12-22/19, art. 4, 006; En vigueur : 11-01-2024&gt;
+
+(6)&lt;ORD 2025-12-18/13, art. 2, 008; En vigueur : 31-12-2025&gt;
+
+#### Art. 3
+
+Nul ne peut mettre en service, exploiter, construire, étendre, reconvertir, remplacer ou modifier la destination d'un établissement spécialement destiné au logement ou à l'accueil de [<sup>2</sup> aînés]<sup>2</sup> ni proposer ou offrir des aides ou soins dans ou en lien avec un tel établissement, que ce soit à titre gratuit ou onéreux, si ce n'est conformément à la présente ordonnance et aux arrêtés et décisions pris en vertu de celle-ci.
+
+Toutefois, cette interdiction ne s'étend pas :
+
+1° à la personne qui accueille, loge, aide ou soigne une [<sup>2</sup> aîné]<sup>2</sup>, [<sup>1</sup> parent ou allié]<sup>1</sup> jusqu'au troisième degré inclus;
+
+2° aux [<sup>2</sup> aînés]<sup>2</sup> qui acquièrent ou louent ensemble un ou plusieurs logements où [<sup>1</sup> ils cohabitent]<sup>1</sup>, au moins partiellement, tout en partageant les frais de cette cohabitation;
+
+3° aux services de soins ou d'aide à domicile qui prestent leurs services à la résidence particulière de [<sup>2</sup> aînés]<sup>2</sup> et non dans un établissement d'accueil ou d'hébergement pour [<sup>2</sup> aînés]<sup>2</sup>.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 6, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 2, 005; En vigueur : 01-01-2023&gt;
+
+## CHAPITRE II. - Programmation.
+
+### Section 1re. - Des critères de programmation.
+
+#### Art. 4
+
+Le Collège réuni peut, de l'avis [<sup>1</sup> du Conseil de gestion ]<sup>1</sup>, arrêter la programmation de tout ou partie des établissements pour [<sup>3</sup> aînés]<sup>3</sup> visés à l'article 2, 4°, à l'exception de ceux visés à l'article 2, 4°, b), bêta, pour :
+
+1° maîtriser l'évolution de l'offre d'accueil, d'hébergement ou de soins aux [<sup>3</sup> aînés]<sup>3</sup>, en fonction de l'évolution des besoins de la population bruxelloise;
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+La programmation est basée sur des critères objectifs relatifs, notamment, à la spécialisation des établissements, leur capacité d'accueil ou d'hébergement et à leur équipement, à la qualité de leur encadrement en personnel d'entretien, d'aide et de soins et à leur bonne gestion administrative et financière. Ces critères peuvent favoriser notamment la coordination des infrastructures et des activités, la proximité géographique entre l'offre et la demande d'accueil ou d'hébergement, la diversification de l'offre en fonction de la diversité de la demande ainsi que la continuité de l'accueil, de l'hébergement ou des soins en fonction de l'évolution des besoins de la [<sup>3</sup> aîné]<sup>3</sup>.
+
+La programmation tient compte des prévisions concernant l'évolution des besoins, des délais nécessaires à la réalisation des projets de suppression, diminution, augmentation ou création des places d'accueil ou d'hébergement eu égard, notamment, aux contraintes résultant, pour les personnes morales de droit public, des procédures de tutelle et de marchés publics, en vue de réaliser une répartition équitable des établissements entre les divers secteurs représentant les gestionnaires.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 4, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 7, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;ORD 2022-12-15/30, art. 2, 005; En vigueur : 01-01-2023&gt;
+
+#### Art. 5
+
+Les critères prévus à l'article 4 sont des règles ou formules forfaitaires mathématiques destinées à mesurer les besoins, compte tenu notamment des chiffres de la popu lation, de la structure d'âge, d'indices socio-économiques, de la morbidité et de la répartition équitable prévue à l'article 4, alinéa 3.
+
+Ces critères sont d'application sur l'ensemble du territoire bilingue de Bruxelles-Capitale.
+
+[<sup>1</sup> Iriscare ]<sup>1</sup> communique à toute personne qui le demande les données détaillées relatives à la programmation.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 8, 005; En vigueur : 01-01-2023&gt;
+
+### Section 2. - De l'autorisation spécifique de mise en service et d'exploitation.
+
+#### Art. 6
+
+Il est interdit de mettre en service ou d'exploiter un nouvel [<sup>1</sup> établissement pour aînés]<sup>1</sup>, ou de mettre en service ou d'exploiter une extension de la capacité d'accueil ou d'hébergement d'un de ces établissements existants sans y être autorisé par le Collège réuni, si l'établissement concerné entre dans une catégorie d'établissements pour laquelle le Collège réuni a arrêté une programmation conformément au chapitre II [<sup>1</sup> ou par application de l'article 31 ]<sup>1</sup>. [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> L'autorisation prévue à l'alinéa 1er, qui signifie qu'un projet s'insère dans la programmation, est appelée " autorisation spécifique de mise en service et d'exploitation.]<sup>1</sup>
+
+Pour l'application de l'alinéa 1er, le Collège réuni peut, de l'avis de la section, arrêter les conditions de cession de lits ou de places entre établissements du même type.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 9, 005; En vigueur : 01-01-2023&gt;
+
+#### Art. 6 DROIT FUTUR
+
+Il est interdit de mettre en service ou d'exploiter un nouvel [<sup>1</sup> établissement pour aînés]<sup>1</sup>, ou de mettre en service ou d'exploiter une extension de la capacité d'accueil ou d'hébergement d'un de ces établissements existants sans y être autorisé par le Collège réuni, si l'établissement concerné entre dans une catégorie d'établissements pour laquelle le Collège réuni a arrêté une programmation conformément au chapitre II [<sup>1</sup> ou par application de l'article 31 ]<sup>1</sup>. [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> L'autorisation prévue à l'alinéa 1er, qui signifie qu'un projet s'insère dans la programmation, est appelée " autorisation spécifique de mise en service et d'exploitation.]<sup>1</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 9, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 9, 005; En vigueur : indéterminée &gt;
+
+#### Art. 7
+
+§ 1er.[<sup>3</sup> L'autorisation prévue à l'article 6 est accordée par le Collège réuni sur avis du Conseil de gestion et fixe le nombre de places pour lequel elle est accordée.
+
+L'autorisation spécifique de mise en service et d'exploitation n'est valable que pour l'établissement situé à l'adresse indiquée dans la demande d'autorisation.
+
+La demande d'autorisation est accompagnée d'un dossier descriptif dont le contenu est arrêté par le Collège réuni, sur avis du Conseil de gestion.
+
+Le Collège réuni accuse réception de la demande dans les quinze jours de sa réception et indique s'il y a lieu les documents complémentaires nécessaires à son examen.
+
+La décision du Collège réuni, prise de l'avis du Conseil de gestion, est notifiée au demandeur dans les 120 jours suivant la réception d'un dossier de demande complet.
+
+Le délai visé à l'alinéa précédent est suspendu pendant les mois de juillet et août]<sup>3</sup>.
+
+[<sup>1</sup> Le Collège réuni peut, conformément aux conditions qu'il a fixées, déterminer quelles décisions administratives, prises par d'autres entités compétentes pour des institutions qui appartiennent exclusivement à l'une ou l'autre Communauté, peuvent, pour l'application de cet article, être assimilées à une autorisation spécifique de mise en service et d'exploitation.
+
+L'alinéa précédent s'applique uniquement aux institutions qui n'appartiennent plus exclusivement à l'une ou l'autre Communauté, en vertu de l'article 48/1, § 1er, alinéas 2 et 4 de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions.]<sup>1</sup>
+
+§ 2. [<sup>3</sup> L'autorisation spécifique de mise en service et d'exploitation perd ses effets entièrement ou partiellement si une demande d'agrément recevable n'a pas été introduite dans un délai de cinq ans suivant la réception par le gestionnaire de la notification de l'autorisation spécifique de mise en service et d'exploitation.
+
+Le Collège réuni peut prévoir, sur avis du Conseil de gestion, les conditions et les modalités auxquelles il peut être dérogé à l'alinéa 1er.]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>4</sup> § 1er/2. Par dérogation aux paragraphes 1er et 1er/1, en cas de fermeture volontaire de tout ou partie des places agréées d'un établissement, l'autorisation spécifique de mise en service et d'exploitation relative aux places agréées fermées peut être réaffectée, à la demande du gestionnaire ou du représentant de la structure faîtière concernée, à un ou plusieurs établissements agréés relevant du même gestionnaire ou d'un gestionnaire de la même structure faîtière.
+
+La demande de réaffectation peut être refusée si l'établissement de destination ne présente pas les garanties suffisantes en matière de continuité et de qualité des services et des soins, notamment lorsque des difficultés structurelles ou organisationnelles sont constatées.
+
+Pour les places agréées en tant que maison de repos, la réaffectation peut porter sur maximum 10 % du nombre de places agréées dans le premier établissement à la date précédant celle de la fermeture volontaire totale ou partielle. Ce nombre de places est, le cas échéant, arrondi à l'unité supérieure.
+
+Ne peuvent être prises en compte, aux fins d'augmenter le plafond de 10 %, plusieurs fermetures partielles successives lorsqu'elles traduisent une même volonté de réorganisation.]<sup>4</sup>
+
+§ 3. [<sup>3</sup> L'autorisation accordée ne peut être cédée.
+
+Par dérogation à l'alinéa 1er, l'autorisation accordée peut être cédée, moyennant accord du Collège réuni, en cas de changement de gestionnaire de l'établissement auquel elle se rapporte et pour autant qu'elle soit concrétisée sur le même site et dans les mêmes conditions et délais que ceux déterminés lors de l'octroi de cette autorisation. Le Collège réuni peut refuser la cession, notamment si elle revêt un caractère onéreux ou si elle ne s'inscrit pas dans le cadre de la programmation.
+
+Le Collège réuni fixe la procédure applicable aux cessions visées à l'alinéa précédent. Il peut également fixer les modalités d'application de l'alinéa précédent.]<sup>3</sup>.
+
+[<sup>3</sup> § 3/1. Le Collège réuni peut, dans les limites des crédits budgétaires, sur demande du gestionnaire, reconvertir en tout ou en partie l'autorisation spécifique de mise en service et d'exploitation d'un établissement pour aînés, en agrément ou en autorisation spécifique de mise en service et d'exploitation d'un autre type d'établissement pour aînés.
+
+Le Collège réuni fixe, sur avis du Conseil de gestion, la procédure, les conditions et d'autres modalités, dont le financement, de cette reconversion. ]<sup>3</sup>
+
+§ 4. De l'avis [<sup>2</sup> du Conseil de gestion ]<sup>2</sup> et le gestionnaire préalablement entendu, le Collège réuni peut supprimer ou diminuer le nombre de lits ou places autorisés conformément au paragraphe 1er dans la mesure où ils sont structurellement inoccupés au moins pendant trois années consécutives après leur mise en service ou exploitation.
+
+Le Collège réuni arrête les conditions et modalités d'application du présent paragraphe et, notamment, fixe, pour chaque catégorie d'établissements, le pourcentage d'inoccupation à prendre en considération lequel ne peut être inférieur à dix.
+
+----------
+
+(1)&lt;ORD 2018-12-06/26, art. 2, 002; En vigueur : 06-01-2019&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 4, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;ORD 2022-12-15/30, art. 10, 005; En vigueur : 01-01-2023&gt;
+
+(4)&lt;ORD 2025-12-18/13, art. 3, 008; En vigueur : 31-12-2025&gt;
+
+#### Art. 7 DROIT FUTUR
+
+§ 1er.[<sup>3</sup> L'autorisation prévue à l'article 6 est accordée par le Collège réuni sur avis du Conseil de gestion et fixe le nombre de places pour lequel elle est accordée.
+
+L'autorisation spécifique de mise en service et d'exploitation n'est valable que pour l'établissement situé à l'adresse indiquée dans la demande d'autorisation.
+
+La demande d'autorisation est accompagnée d'un dossier descriptif dont le contenu est arrêté par le Collège réuni, sur avis du Conseil de gestion.
+
+Le Collège réuni accuse réception de la demande dans les quinze jours de sa réception et indique s'il y a lieu les documents complémentaires nécessaires à son examen.
+
+La décision du Collège réuni, prise de l'avis du Conseil de gestion, est notifiée au demandeur dans les 120 jours suivant la réception d'un dossier de demande complet.
+
+Le délai visé à l'alinéa précédent est suspendu pendant les mois de juillet et août]<sup>3</sup>.
+
+[<sup>1</sup> Le Collège réuni peut, conformément aux conditions qu'il a fixées, déterminer quelles décisions administratives, prises par d'autres entités compétentes pour des institutions qui appartiennent exclusivement à l'une ou l'autre Communauté, peuvent, pour l'application de cet article, être assimilées à une autorisation spécifique de mise en service et d'exploitation.
+
+L'alinéa précédent s'applique uniquement aux institutions qui n'appartiennent plus exclusivement à l'une ou l'autre Communauté, en vertu de l'article 48/1, § 1er, alinéas 2 et 4 de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions.]<sup>1</sup>
+
+[<sup>4</sup> § 1er/1. Le Collège réuni arrête, sur avis du Conseil de gestion, des modalités supplémentaires de la procédure d'octroi de l'autorisation spécifique de mise en service et d'exploitation. Il arrête notamment, sur avis du Conseil de gestion, les critères applicables pour l'octroi de l'autorisation spécifique de mise en service et d'exploitation.
+
+Les critères visés à l'alinéa 1er portent notamment sur :
+
+1° l'accessibilité financière de l'établissement ;
+
+2° la volonté de l'établissement de s'inscrire dans une offre diversifiée de services et de collaborer avec les services existants dans un secteur géographique donné afin d'assurer une continuité de l'aide et des soins aux aînés ;
+
+3° l'adéquation du projet de vie d'établissement avec le public bénéficiaire concerné ;
+
+4° la participation des aînés, des aidants proches et du personnel à l'organisation de la vie et des soins au sein de l'établissement ;
+
+5° le taux d'encadrement de l'établissement en personnel d'entretien, d'aide et de soins ;
+
+6° la bonne gestion administrative et financière de l'établissement ;
+
+7° la qualité architecturale du projet en ce compris sa structuration en petites unités de vie, son implantation et les moyens mis en oeuvre pour contribuer au développement durable ;
+
+8° la capacité d'hébergement maximale de l'établissement ;
+
+9° la répartition équilibrée de la capacité des établissements sur le territoire de Bruxelles-Capitale ;
+
+10° le secteur d'appartenance du gestionnaire, en vue d'assurer une répartition équilibrée de la capacité des établissements entre le secteur public, le secteur privé à but non lucratif et le secteur privé à but lucratif. En vue de garantir la liberté de choix des aînés entre établissements appartenant aux différents secteurs, et l'accès à des établissements abordables et accessibles, aucune autorisation pour l'exploitation de places de maisons de repos ne sera octroyée aux établissements appartenant au secteur privé à but lucratif, tant que ce secteur représente une part de plus de 50 % du total des places qui sont agréées en tant que places de maison de repos en vertu de la présente ordonnance ou de ses arrêtés d'exécution, en ce compris les places de maisons de repos qui bénéficient d'une autorisation de fonctionnement provisoire. Sans préjudice du principe précédent, le Collège réuni détermine ce qu'il convient d'entendre par " répartition équilibrée ".
+
+Le Collège réuni peut fixer les modalités des critères visés à l'alinéa précédent, dont la pondération.]<sup>4</sup>
+
+[<sup>5</sup> § 1er/2. Par dérogation aux paragraphes 1er et 1er/1, en cas de fermeture volontaire de tout ou partie des places agréées d'un établissement, l'autorisation spécifique de mise en service et d'exploitation relative aux places agréées fermées peut être réaffectée, à la demande du gestionnaire ou du représentant de la structure faîtière concernée, à un ou plusieurs établissements agréés relevant du même gestionnaire ou d'un gestionnaire de la même structure faîtière.
+
+La demande de réaffectation peut être refusée si l'établissement de destination ne présente pas les garanties suffisantes en matière de continuité et de qualité des services et des soins, notamment lorsque des difficultés structurelles ou organisationnelles sont constatées.
+
+Pour les places agréées en tant que maison de repos, la réaffectation peut porter sur maximum 10 % du nombre de places agréées dans le premier établissement à la date précédant celle de la fermeture volontaire totale ou partielle. Ce nombre de places est, le cas échéant, arrondi à l'unité supérieure.
+
+Ne peuvent être prises en compte, aux fins d'augmenter le plafond de 10 %, plusieurs fermetures partielles successives lorsqu'elles traduisent une même volonté de réorganisation.]<sup>5</sup>
+
+§ 2. [<sup>3</sup> L'autorisation spécifique de mise en service et d'exploitation perd ses effets entièrement ou partiellement si une demande d'agrément recevable n'a pas été introduite dans un délai de cinq ans suivant la réception par le gestionnaire de la notification de l'autorisation spécifique de mise en service et d'exploitation.
+
+Le Collège réuni peut prévoir, sur avis du Conseil de gestion, les conditions et les modalités auxquelles il peut être dérogé à l'alinéa 1er.]<sup>3</sup>.]<sup>1</sup>
+
+§ 3. [<sup>3</sup> L'autorisation accordée ne peut être cédée.
+
+Par dérogation à l'alinéa 1er, l'autorisation accordée peut être cédée, moyennant accord du Collège réuni, en cas de changement de gestionnaire de l'établissement auquel elle se rapporte et pour autant qu'elle soit concrétisée sur le même site et dans les mêmes conditions et délais que ceux déterminés lors de l'octroi de cette autorisation. Le Collège réuni peut refuser la cession, notamment si elle revêt un caractère onéreux ou si elle ne s'inscrit pas dans le cadre de la programmation.
+
+Le Collège réuni fixe la procédure applicable aux cessions visées à l'alinéa précédent. Il peut également fixer les modalités d'application de l'alinéa précédent.]<sup>3</sup>.
+
+[<sup>3</sup> § 3/1. Le Collège réuni peut, dans les limites des crédits budgétaires, sur demande du gestionnaire, reconvertir en tout ou en partie l'autorisation spécifique de mise en service et d'exploitation d'un établissement pour aînés, en agrément ou en autorisation spécifique de mise en service et d'exploitation d'un autre type d'établissement pour aînés.
+
+Le Collège réuni fixe, sur avis du Conseil de gestion, la procédure, les conditions et d'autres modalités, dont le financement, de cette reconversion. ]<sup>3</sup>
+
+§ 4. De l'avis [<sup>2</sup> du Conseil de gestion ]<sup>2</sup> et le gestionnaire préalablement entendu, le Collège réuni peut supprimer ou diminuer le nombre de lits ou places autorisés conformément au paragraphe 1er dans la mesure où ils sont structurellement inoccupés au moins pendant trois années consécutives après leur mise en service ou exploitation.
+
+Le Collège réuni arrête les conditions et modalités d'application du présent paragraphe et, notamment, fixe, pour chaque catégorie d'établissements, le pourcentage d'inoccupation à prendre en considération lequel ne peut être inférieur à dix.
+
+----------
+
+(1)&lt;ORD 2018-12-06/26, art. 2, 002; En vigueur : 06-01-2019&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 4, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;ORD 2022-12-15/30, art. 10, 005; En vigueur : indéterminée &gt;
+
+(4)&lt;ORD 2022-12-15/30, art. 10, 005; En vigueur : indéterminée &gt;
+
+(5)&lt;ORD 2025-12-18/13, art. 3, 008; En vigueur : 31-12-2025&gt;
+
+#### Art. 8
+
+Le Collège réuni ordonne, après avis [<sup>1</sup> du Conseil de gestion ]<sup>1</sup>, la fermeture d'un établissement mis en service ou exploité sans avoir obtenu l'autorisation spécifique de mise en service et d'exploitation ou dont la demande a été refusée.
+
+[<sup>2</sup> article 17, § 1er/2]<sup>2</sup> est d'application.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 4, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 11, 005; En vigueur : 01-01-2023&gt;
+
+### Section 3. - De l'autorisation de travaux.
+
+#### Art. 9
+
+Il est interdit de construire un nouvel établissement visé à l'article 2, 4°, ou d'étendre, reconvertir, remplacer ou modifier la destination d'un de ces établissements existants sans y être autorisé par le Collège réuni [<sup>2</sup> ...]<sup>2</sup> .
+
+[<sup>1</sup> L'autorisation prévue à l'alinéa 1er est appelée " autorisation de travaux ". Elle a pour but de vérifier que :
+
+1° le projet est conforme, le cas échéant, à l'autorisation spécifique de mise en service et d'exploitation ;
+
+2° l'établissement sera, au terme des travaux, conforme aux normes architecturales et de sécurité fixées par le Collège réuni en exécution de l'article 11]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 12, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2023-12-22/19, art. 5, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 10
+
+§ 1er. [<sup>1</sup> L'autorisation prévue à l'article 9 est accordée par le Collège réuni sur avis du Conseil de gestion.
+
+La demande d'autorisation est accompagnée d'un dossier descriptif dont le contenu est arrêté par le Collège réuni sur avis du Conseil de gestion.
+
+Le Collège réuni accuse réception de la demande dans les quinze jours de sa réception et indique, s'il y a lieu, les documents complémentaires nécessaires à son examen.
+
+La décision du Collège réuni, prise de l'avis du Conseil de gestion, est notifiée au demandeur dans les 120 jours suivant la réception d'un dossier de demande complet. Passé ce délai, l'autorisation est réputée accordée.
+
+Le délai visé à l'alinéa précédent est suspendu pendant les mois de juillet et août ]<sup>1</sup>.
+
+§ 2. L'autorisation accordée conformément au paragraphe 1er expire si elle n'a pas fait l'objet d'un commencement d'exécution dans les deux ans de sa délivrance ou si son bénéficiaire est resté plus de douze mois sans prendre les mesures nécessaires à la bonne fin du projet.
+
+§ 3. L'autorisation accordée ne peut être cédée sauf en cas de changement de gestionnaire de l'établissement auquel elle se rapporte et pour autant qu'elle soit concrétisée sur le même site et dans les mêmes conditions et délais.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 13, 005; En vigueur : 01-01-2023&gt;
+
+## CHAPITRE III. - Agrément.
+
+#### Art. 11
+
+§ 1er. [<sup>3</sup> Aucun établissement visé à l'article 2, 4°, a), b), alpha), c), d), e), f) ou g), ne peut être mis en service et aucun gestionnaire ne peut offrir des services dans un établissement visé à l'article 2, 4°, b), bêta), sans avoir été préalablement agréé en tant qu'établissement pour aînés par le Collège réuni, ou sans y avoir été autorisé par le Collège réuni au moyen d'une autorisation de fonctionnement provisoire]<sup>3</sup>.
+
+[<sup>3</sup> L'agrément est accordé par le Collège réuni, après avis [<sup>3</sup> du Conseil de gestion]<sup>3</sup>, pour une durée indéterminé]<sup>3</sup>.
+
+La décision d'agrément, visée à l'alinéa 2, fixe le nombre maximum de [<sup>4</sup> aînés]<sup>4</sup> pouvant être [<sup>5</sup> hébergés ou accueillis ]<sup>5</sup> dans l'établissement.
+
+Pour être agréé par le Collège réuni, l'établissement doit être conforme, s'il échet, aux normes arrêtées par les autorités fédérales compétentes, ainsi qu'aux normes que le Collège réuni peut, de l'avis de la section, arrêter pour chaque catégorie d'établissements visée à l'article 2, 4°.
+
+Ces normes concernent :
+
+1° l'admission et l'accueil des [<sup>4</sup> aînés]<sup>4</sup> [<sup>3</sup> , ainsi que les modalités de la tenue, pour chaque aîné, [<sup>5</sup> d'une fiche individuelle et ]<sup>5</sup> d'un dossier confidentiel dont le Collège réuni détermine le contenu ]<sup>3</sup>;
+
+2° le respect de la [<sup>4</sup> aîné]<sup>4</sup>, de ses droits et libertés constitutionnels et légaux, en tenant compte de son état de santé [<sup>1</sup> , de son droit de mener une vie conforme à la dignité humaine et de l'interdiction de toute discrimination à son égard, au sens de l'ordonnance du 30 juin 2022 visant à promouvoir la diversité et à lutter contre la discrimination dans les institutions, centres et services relevant de la compétence de la Commission communautaire commune ainsi que dans les Services du Collège réuni de la Commission communautaire commune,]<sup>1</sup> notamment, l'interdiction pour l'établissement et les membres de son personnel d'exiger ou d'accepter de la [<sup>4</sup> aîné]<sup>4</sup> ou de son représentant que ceux-ci leur confient la gestion de son argent ou de ses biens ou leur dépôt, de sa liberté d'aller et venir librement, de ne recevoir que les visiteurs de son choix et de disposer librement de ses biens, [<sup>3</sup> du droit de bénéficier d'un accueil, d'un accompagnement et, le cas échéant, de soins, en français ou en néerlandais, selon son choix linguistique, ]<sup>3</sup> sans préjudice des limites portées à ces droits et libertés par ou en vertu de la loi, du décret ou de l'ordonnance;
+
+[<sup>5</sup> 2/1° les conditions dans lesquelles des mesures de contention, de surveillance ou d'isolement peuvent être prises au sein d'un établissement, étant entendu que ces mesures ne peuvent intervenir qu'à titre exceptionnel, face à un risque de danger pour l'aîné ou pour un tiers, après épuisement de toutes les mesures alternatives, et moyennant des garanties d'information; ]<sup>5</sup>
+
+3° le [<sup>3</sup> projet de vie d'établissement ]<sup>3</sup> ainsi que les modalités de participation et d'information des [<sup>4</sup> aînés]<sup>4</sup> ou de leur représentant;
+
+4° l'examen et le traitement des plaintes des [<sup>4</sup> aînés]<sup>4</sup> ou de leur représentant;
+
+5° l'alimentation, l'hygiène [<sup>3</sup> , l'accompagnement, l'aide et les soins à dispenser, ainsi que les activités proposées par l'établissement ]<sup>3</sup>;
+
+[<sup>3</sup> [<sup>5</sup> 5/1° les modalités de la tenue, pour chaque aîné, d'un dossier individuel de santé dont le Collège réuni détermine le contenu. Ce dossier individuel de santé comporte en tout cas les informations reprises dans le dossier du patient au sens de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé]<sup>5</sup> ;
+
+5/2° les mesures destinées à assurer la prévention des maladies contagieuses .]<sup>3</sup>
+
+6° [<sup>5</sup> le nombre, les missions, la qualification, la politique d'accueil, la formation continuée, en ce compris le plan de formation continuée, la moralité et les exigences minimales de présence du personnel et de la direction ainsi qu'en ce qui concerne cette dernière, les incompatibilités et les conditions d'expérience requise]<sup>5</sup>;
+
+[<sup>5</sup> 6/1° la moralité du gestionnaire;
+
+6/2° la collaboration avec des prestataires de santé et des personnes ou services externes qui effectuent des prestations au sein ou au profit de l'établissement, ainsi que l'exigence d'un lien fonctionnel avec un autre établissement, service ou une institution de soins;
+
+6/3° la politique de qualité des établissements, dont le Collège réuni détermine les modalités;
+
+6/4° pour les établissements dans lesquels des soins médicaux sont dispensés, la politique d'organisation des soins et de l'activité médicale au sein de l'établissement, en ce compris la fixation des droits et obligations des médecins traitants qui exercent au sein de l'établissement; ]<sup>5</sup>
+
+7° sauf dans les établissements visés à l'article 2, 4°, b), beta, les normes architecturales et de sécurité spécifiques aux établissements [<sup>5</sup> , ainsi que l'attestation de sécurité incendie visée à l'article 12, § 1er, alinéa 2]<sup>5</sup>;
+
+[<sup>3</sup> 7/1° l'équipement obligatoirement mis à disposition des aînés ;
+
+7/2° la capacité maximale de l'établissement ;
+
+7/3° la liste des biens et services qui doivent être inclus dans le prix de journée ou qui peuvent faire l'objet de supplément ou d'avance en faveur de tiers .]<sup>3</sup>
+
+8° sauf dans les établissements visés à l'article 2, 4°, b), beta, la convention d'accueil ou d'hébergement; le Collège réuni en détermine le contenu.
+
+La convention doit notamment mentionner clairement et limitativement les éléments couverts par le prix de journée ainsi que les frais qui peuvent être facturés soit comme suppléments soit comme avances en faveur de tiers en plus du prix de journée.
+
+Elle ne peut prévoir le paiement d'un acompte ou d'une garantie, autres que ceux autorisés par le Collège réuni.
+
+Le Collège réuni peut établir, le cas échéant, des règles complémentaires pour la fixation des prix facturés;
+
+9° le règlement d'ordre intérieur;
+
+10° la comptabilité, [<sup>3</sup> en ce compris]<sup>3</sup> le compte individualisé établi pour chaque [<sup>4</sup> aîné]<sup>4</sup> [<sup>5</sup> hébergé ou accueilli]<sup>5</sup>, la facturation mensuelle et le droit pour la [<sup>4</sup> aîné]<sup>4</sup> ou son représentant de consulter le compte établi, dans le respect des dispositions légales et réglementaires qui s'appliquent en matière comptable aux gestionnaires;
+
+11° dans les établissements visés à l'article 2, 4°, b), (bêta), la convention conclue entre l'association des copropriétaires ou son mandataire et le candidat prestataire de services, à laquelle tout résident a l'obligation d'adhérer; &lt;Erratum, M.B. 24-07-2008, p. 38602&gt;
+
+si la [<sup>4</sup> aîné]<sup>4</sup> n'est pas propriétaire, toutes les obligations entre propriétaire et prestataire de services figurent dans le contrat de bail;
+
+12° les contrats d'assurance qui doivent être conclus par le gestionnaire.
+
+[<sup>5</sup> 13° les normes relatives à l'agrément spécial de places pour la prise en charge des aînés fortement dépendants et nécessitant des soins.]<sup>5</sup>
+
+[<sup>6</sup> § 1/1 Le Collège réuni arrête les normes spécifiques concernant l'hébergement en unité adaptée des aînés désorientés ou présentant des troubles cognitifs majeurs ou diagnostiqués déments. ]<sup>6</sup>
+
+§ 2. Le Collège réuni peut, après avis [<sup>2</sup> du Conseil de gestion ]<sup>2</sup>, fixer des normes spéciales pour des groupements et des fusions d'établissements.
+
+----------
+
+(1)&lt;ORD 2022-06-30/06, art. 30, 004; En vigueur : 14-08-2022&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 4, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;ORD 2022-12-15/30, art. 14, 005; En vigueur : 01-01-2023&gt;
+
+(4)&lt;ORD 2022-12-15/30, art. 2, 005; En vigueur : 01-01-2023&gt;
+
+(5)&lt;ORD 2023-12-22/19, art. 6, 006; En vigueur : 11-01-2024&gt;
+
+(6)&lt;Inséré par ORD 2023-12-22/19, art. 7, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 12
+
+[<sup>1</sup> § 1er. La demande d'agrément est accompagnée d'un dossier descriptif dont le contenu est arrêté par le Collège réuni, sur avis du Conseil de gestion.
+
+Sauf pour les établissements visés à l'article 2, 4°, b), bêta, le dossier descriptif visé à l'alinéa 1er comporte en tout cas une attestation de sécurité incendie, délivrée par le bourgmestre, sur la base d'un rapport de visite du service d'incendie. Cette attestation détermine dans quelle mesure l'établissement respecte les normes de sécurité incendie qui lui sont applicables.
+
+Le Collège réuni fixe les modalités de l'attestation de sécurité incendie visée à l'alinéa 2, notamment la procédure d'octroi et la durée de validité.
+
+La procédure d'octroi visée à l'alinéa 3 prévoit en tout cas que, à la demande du gestionnaire, et sur avis de la Commission pour la sécurité incendie dans les établissements pour aînés visée à l'article 19/5, une dérogation aux normes de sécurité visées à l'article 11, § 1er, alinéa 5, 7°, peut être octroyée à un établissement dans le cadre de la délivrance de l'attestation visée à l'alinéa 2.
+
+§ 2. Le Collège réuni accuse réception de la demande d'agrément visée au § 1er, alinéa 1er, dans les quinze jours de sa réception et indique, s'il y a lieu, les documents complémentaires nécessaires à son examen.
+
+La décision du Collège réuni, prise de l'avis du Conseil de gestion, est notifiée au demandeur dans les 120 jours suivant la réception d'un dossier de demande complet. Passé ce délai, l'agrément est réputé accordé.
+
+Le délai visé à l'alinéa 2 est suspendu pendant les mois de juillet et août, ainsi qu'à partir de l'octroi d'une autorisation de fonctionnement provisoire, et pendant la période de validité de celle-ci.
+
+§ 3. Le Collège réuni peut arrêter les modalités complémentaires de la procédure d'agrément. ]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-12-22/19, art. 8, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 13
+
+Une autorisation de fonctionnement provisoire [<sup>2</sup> peut être accordée]<sup>2</sup> par le Collège réuni aux établissements disposant de l'autorisation visée à l'article 7, ainsi qu'au gestionnaire des établissements visés à l'article 2, 4°, b), beta, qui introduisent une première demande d'agrément, pour autant que soient remplies les conditions de recevabilité fixées par ledit Collège, après avis [<sup>1</sup> du Conseil de gestion ]<sup>1</sup>.
+
+[<sup>2</sup> Sans préjudice de l'article 14, cette autorisation]<sup>2</sup> est accordée pour une période d'un an, renouvelable une fois, et fixe le nombre maximum de [<sup>3</sup> aînés]<sup>3</sup> pouvant être [<sup>4</sup> hébergés ou accueillis]<sup>4</sup> dans l'établissement. Elle est notifiée au gestionnaire dans les soixante jours après la réception de la demande.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 4, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 16, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;ORD 2022-12-15/30, art. 2, 005; En vigueur : 01-01-2023&gt;
+
+(4)&lt;ORD 2023-12-22/19, art. 9, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 14
+
+[<sup>1</sup> D'initiative ou à la demande du gestionnaire, le Collège réuni peut, de l'avis du Conseil de gestion, accorder une prolongation d'autorisation de fonctionnement provisoire aux établissements dont la procédure de demande d'agrément est en cours alors que l'autorisation de fonctionnement provisoire est expirée. Le Collège réuni arrête, sur l'avis du Conseil de gestion, les conditions et modalités accélérées d'octroi de cette autorisation ]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 17, 005; En vigueur : 01-01-2023&gt;
+
+#### Art. 15
+
+§ 1er.[<sup>1</sup> § 1er. [<sup>2</sup> . Dans le présent paragraphe, on entend par:
+
+1° " établissement ": un établissement qui relève d'une catégorie d'établissements pour laquelle le Collège réuni a arrêté une programmation conformément au chapitre II ou par application de l'article 31, à l'exception des centres de soins de jour et des places de court séjour;
+
+2° " taux d'inoccupation moyen ": le taux d'inoccupation d'un établissement, tel qu'il est disponible dans l'application de calcul des interventions, qui est calculé sur la base du nombre moyen pondéré de places de l'établissement pendant une période donnée;
+
+3° " taux d'inoccupation moyen annuel ": le taux d'inoccupation moyen pendant la période de référence;
+
+4° " période de référence ": période de référence commençant le 1er juillet de l'année T-2 et se terminant le 30 juin de l'année T-1, où la première année T se rapporte à l'année 2024;
+
+5° " place ": une place pour laquelle un établissement bénéficie d'un agrément ou d'une autorisation de fonctionnement provisoire.
+
+Chaque année, les agréments de la moitié du nombre moyen des places d'un établissement qui étaient inoccupées pendant la période de référence, expirent de plein droit. L'expiration des agréments est constatée par Iriscare le 15 avril de chaque année T sur la base du taux d'inoccupation moyen annuel de chaque établissement.
+
+Par dérogation à l'alinéa 2, lorsque le nombre de places dont l'expiration de l'agrément devrait être constatée est supérieur au nombre moyen de places inoccupées pendant le dernier trimestre de l'année T-1, l'expiration porte uniquement sur le nombre moyen de places inoccupées pendant le dernier trimestre de l'année T-1.
+
+Par dérogation aux alinéas 2 et 3, tout établissement peut disposer de places inoccupées à hauteur de 5 % de ses places, avec un minimum de trois places inoccupées. Le minimum de trois places inoccupées est porté à 25 lorsque l'application de l'alinéa 2 ou de l'alinéa 3 réduirait à moins de 25 le nombre total de places bénéficiant d'un agrément spécial pour la prise en charge des aînés fortement dépendants et nécessitant des soins au sein d'un établissement.
+
+Toute augmentation ultérieure de la capacité d'accueil ou d'hébergement doit faire l'objet d'une nouvelle demande d'autorisation spécifique de mise en service et d'exploitation.
+
+Le nombre de places inoccupées pour lequel l'agrément doit être considéré comme expiré par application des alinéas 2 ou 3 est, le cas échéant, arrondi à l'unité inférieure.
+
+Le nombre de places inoccupées dont un établissement peut disposer en application de l'alinéa 4 est, le cas échéant, arrondi à l'unité supérieure.
+
+L'alinéa 2 n'est pas d'application pendant les cinq premières années suivant l'octroi de la première autorisation de fonctionnement provisoire de l'établissement, ni pendant les cinq premières années suivant l'octroi d'une autorisation de fonctionnement provisoire portant sur une extension de plus de 20 % de la capacité agréée de l'établissement.
+
+Le Collège réuni peut préciser et compléter les modalités de calcul du taux d'inoccupation moyen des places visé par le présent paragraphe. Il peut modifier le pourcentage et le nombre de places visés à l'alinéa 4. Il peut également modifier les nombres d'années et le pourcentage visés à l'alinéa 8]<sup>2</sup>.
+
+[<sup>3</sup> L'application du mécanisme prévu aux alinéas 2 à 8 est suspendu pour l'année 2026. ]<sup>3</sup>
+
+§ 2. L'agrément et l'autorisation de fonctionnement provisoire ne sont valables que pour l'établissement situé à l'adresse indiquée dans la demande d'agrément. Ils prennent fin de plein droit, en cas de changement du gestionnaire.
+
+La mention de l'agrément ou de l'autorisation de fonctionnement provisoire doit figurer sur tous les actes, factures, lettres, notes de commande et autres documents émanant de l'établissement.
+
+Le nom et le numéro d'agrément ou d'autorisation de fonctionnement provisoire de l'établissement font l'objet d'un affichage bien apparent à l'extérieur de l'établissement.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 18, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2023-12-22/19, art. 10, 006; En vigueur : 11-01-2024&gt;
+
+(3)&lt;ORD 2025-12-18/13, art. 4, 008; En vigueur : 31-12-2025&gt;
+
+#### Art. 15/1
+
+[<sup>1</sup> § 1er. Le gestionnaire qui souhaite renoncer à l'agrément d'une partie de ses places en avertit sans délai le Collège réuni, lequel modifie l'agrément en conséquence.
+
+Toute augmentation ultérieure de la capacité d'accueil ou d'hébergement doit faire l'objet d'une nouvelle demande d'autorisation spécifique de mise en service et d'exploitation.
+
+§ 2. Le Collège réuni peut prévoir, sur avis du Conseil de gestion, les conditions et les modalités auxquelles il peut être dérogé au § 1er, alinéa 2, notamment en cas de fermeture temporaire de places pour cause de travaux. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2022-12-15/30, art. 19, 005; En vigueur : 01-01-2023&gt;
+
+#### Art. 16
+
+Si des modifications concernant les données pertinentes quant à l'application de l'article 11, § 1er, alinéa 4, inter viennent au cours de la période d'agrément, le gestionnaire en avertit le Collège réuni.
+
+#### Art. 17
+
+§ 1er. [<sup>1</sup> . S'il est constaté qu'une norme arrêtée en vertu de l'article 11, § 1er, alinéa 4, n'est pas ou plus respectée dans un établissement où elle s'applique, le Collège réuni peut:
+
+1° de l'avis du Conseil de gestion et le gestionnaire préalablement entendu, refuser, suspendre ou retirer selon le cas l'autorisation de fonctionnement provisoire ou l'agrément;
+
+2° enjoindre au gestionnaire de cet établissement de se conformer endéans un délai déterminé à une ou plusieurs normes arrêtées en vertu de l'article 11, § 1er, alinéa 4.
+
+Les décisions de refus, de suspension et de retrait de l'agrément ou de l'autorisation de fonctionnement provisoire visées à l'alinéa 1er, 1°, peuvent porter sur tout ou partie des places de l'établissement.]<sup>1</sup>.
+
+§ 2. Sans préjudice du § 3 du présent article, le Collège réuni peut ordonner, à titre transitoire, la fermeture immédiate d'un établissement, lorsque des raisons d'extrême urgence de santé publique ou de sécurité le justifient.
+
+Sans préjudice du § 3 du présent article, le gestionnaire est tenu de veiller à l'évacuation immédiate des personnes âgées. Le Collège réuni informe immédiatement la section de sa mesure. Il prend une décision définitive après avis de celle-ci, rendu dans les trente jours de sa saisine.
+
+§ 3. Pour les établissements visés à l'article 2, 4°, b), beta, lorsque le Collège réuni ordonne le retrait de l'autorisation de fonctionnement provisoire ou le retrait ou le refus de l'agrément de l'établissement ou son retrait immédiat d'autorisation de fonctionnement provisoire ou d'agrément, il notifie immédiatement cette décision également à l'association des copropriétaires ou à son mandataire qui prend, sur le champ, toutes mesures conservatoires que la décision comporte.
+
+----------
+
+(1)&lt;ORD 2023-12-22/19, art. 11, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 18
+
+Le Collège réuni peut, de l'avis [<sup>1</sup> du Conseil de gestion ]<sup>1</sup>, arrêter des dispositions complémentaires de procédure, de notification ou d'exécution des décisions d'octroi, de refus [<sup>2</sup> , de suspension]<sup>2</sup> ou de retrait de l'autorisation de fonctionnement provisoire ou de l'agrément, [<sup>3</sup> d'injonction visée à l'article 17, § 1er, alinéa 1er, 2°, ]<sup>3</sup> de fermeture immédiate ou de retrait immédiat d'agrément [<sup>2</sup> , en ce compris la durée de la suspension]<sup>2</sup>.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 4, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 21, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;ORD 2023-12-22/19, art. 12, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 19
+
+Toute décision d'agrément, d'autorisation de fonctionnement provisoire, de retrait [<sup>1</sup> ou de suspension]<sup>1</sup> d'autorisation de fonctionnement provisoire, de refus [<sup>1</sup> , de suspension]<sup>1</sup> ou de retrait d'agrément et de fermeture d'un établissement est communiquée au bourgmestre dans les soixante jours. Celui-ci tient un registre de ces établissements, établis sur le territoire de sa commune. Ce registre est accessible à la population.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 22, 005; En vigueur : 01-01-2023&gt;
+
+#### Art. 19/1
+
+[<sup>1</sup> § 1er. Le Collège réuni ordonne la fermeture de tout établissement pour aînés mis en service ou exploité sans être titulaire d'une autorisation de fonctionnement provisoire ou d'un agrément.
+
+Le Collège réuni détermine, sur avis du Conseil de gestion, la procédure applicable à la fermeture visée à l'alinéa 1er.
+
+Cette procédure comporte en tout cas la mise en place par le Collège réuni d'une cellule destinée à accompagner le processus de déménagement des résidents dans un autre établissement, en respectant au maximum la liberté de choix du résident, et l'obligation pour le gestionnaire de collaborer à ce processus. Ce déménagement doit intervenir dans un délai de trois mois suivant la réception par le gestionnaire de la notification de la décision de fermeture visée à l'alinéa 1er. Au terme de ce délai, l'établissement est fermé.
+
+§ 2. Le Collège réuni ordonne la cessation d'activités du gestionnaire d'une résidence-services visée à l'article 2, 4°, b), bêta), qui exerce ses activités sans être titulaire d'une autorisation de fonctionnement provisoire ou d'un agrément.
+
+Le Collège réuni détermine, sur avis du Conseil de gestion, la procédure applicable à la décision de cessation d'activités visée à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2022-12-15/30, art. 23, 005; En vigueur : 19-08-2023&gt;
+
+#### Art. 19/2
+
+[<sup>1</sup> S'il s'avère que l'exploitation d'un établissement n'a pas été cessée malgré la prise d'effet d'une décision de fermeture visée aux articles 8, 17, §§ 1er/2 et 2, et 19/1, § 1er, le bourgmestre procède à la fermeture effective à la demande écrite du Collège réuni, sans préjudice de l'autorité dévolue au bourgmestre par la Nouvelle loi communale. Il ordonne la cessation des activités et, le cas échéant, l'évacuation des bâtiments et il fait mettre les bâtiments sous scellés.
+
+Ces mesures sont mises en oeuvre aux frais et risques du gestionnaire. Le Collège réuni arrête la procédure à cet effet. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2022-12-15/30, art. 24, 005; En vigueur : 01-01-2023&gt;
+
+#### Art. 19/3
+
+[<sup>1</sup> Si, dans le cadre de l'exercice du contrôle, des manquements graves sont constatés et que le gestionnaire n'y remédie pas dans le délai imparti par les services d'Iriscare, le Collège réuni peut désigner, aux frais du gestionnaire, un commissaire chargé d'accompagner la direction de l'établissement le temps nécessaire pour régulariser les manquements graves constatés.
+
+Toutes les décisions relatives à l'établissement et aux résidents sont validées préalablement par le commissaire.
+
+Le Collège réuni fixe les modalités et conditions en la matière, ainsi que les droits et devoirs du commissaire et des établissements. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2022-12-15/30, art. 25, 005; En vigueur : 01-01-2023&gt;
+
+## CHAPITRE III/1. [<sup>1</sup> Fermeture volontaire ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2023-12-22/19, art. 13, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 19/4
+
+[<sup>1</sup> Le Collège réuni détermine la procédure applicable lorsqu'un gestionnaire manifeste l'intention de procéder à la fermeture volontaire d'un établissement.
+
+La procédure visée à l'alinéa 1er veille à protéger les aînés qui résident dans l'établissement concerné, notamment en respectant au maximum leur liberté dans le choix d'un nouvel établissement.
+
+Le Collège réuni peut déterminer les conséquences d'une fermeture volontaire d'établissement par le gestionnaire, et prévoir les obligations qui peuvent être mises à charge de celui-ci, notamment la réalisation d'un audit financier de l'établissement concerné. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2023-12-22/19, art. 1, 006; En vigueur : 11-01-2024&gt;
+
+## CHAPITRE III/2. [<sup>1</sup> Commission pour la sécurité incendie dans les établissements pour aînés ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2023-12-22/19, art. 14, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 19/5
+
+[<sup>1</sup> Art. 19/5.Il est créé, auprès d'Iriscare, une Commission pour la sécurité incendie dans les établissements pour aînés, compétente pour rendre des avis sur la sécurité incendie dans les établissements pour aînés, à l'exception des établissements visés à l'article 2, 4°, b), bêta. Cette compétence consultative porte sur:
+
+1° de nouvelles initiatives réglementaires en matière de prévention d'incendie dans les établissements pour aînés;
+
+2° l'octroi de dérogations aux normes de sécurité visées à l'article 11, § 1er, alinéa 5, 7°.
+
+Le Collège réuni détermine la composition et le fonctionnement de la commission visée à l'alinéa 1er. Le Collège réuni établit en outre les règles de la prise en charge des frais de fonctionnement de la commission et des indemnités des membres. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2023-12-22/19, art. 14, 006; En vigueur : 11-01-2024&gt;
+
+## CHAPITRE III/3 [<sup>1</sup> Déménagement d'un établissement agréé]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2025-12-18/13, art. 5, 008; En vigueur : 31-12-2025&gt;
+
+#### Art. 19/6.
+
+[<sup>1</sup> § 1er. Le gestionnaire d'un établissement agréé peut, moyennant autorisation préalable du Collège réuni, transférer l'activité vers un autre bâtiment.
+
+Pour statuer sur la demande d'autorisation préalable, le Collège réuni tient compte de la répartition territoriale de l'offre et de la qualité architecturale du bâtiment de destination.
+
+§ 2. En cas de transfert d'activité autorisé en application du paragraphe 1er, l'autorisation spécifique de mise en service et d'exploitation est transférée à la nouvelle adresse. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2025-12-18/13, art. 6, 008; En vigueur : 31-12-2025&gt;
+
+## CHAPITRE IV. - Subvention relative au fonctionnement des centres de soins de jour, des centres d'accueil de jour et des centres d'accueil de nuit.
+
+#### Art. 20
+
+Dans les limites des crédits budgétaires, le Collège réuni peut octroyer une subvention de fonctionnement aux centres de soins de jour, aux centres d'accueil de jour et aux centres d'accueil de nuit agréés.
+
+Le Collège réuni arrête, de l'avis [<sup>1</sup> du Conseil de gestion ]<sup>1</sup>, les modalités d'octroi de la subvention ainsi que le montant de la participation financière des [<sup>2</sup> aînés]<sup>2</sup> accueillies.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 4, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 2, 005; En vigueur : 01-01-2023&gt;
+
+#### Art. 21
+
+La décision portant refus ou retrait de l'agrément d'un établissement visé à l'article 20 entraîne la suppression de la subvention, au terme d'une période de trois mois suivant la notification de cette décision.
+
+La décision de fermeture immédiate pour des raisons d'extrême urgence de santé publique ou de sécurité entraîne la suppression de la même subvention, à dater de la fermeture à titre provisoire.
+
+## CHAPITRE V.
+
+&lt;Abrogé par ORD 2024-02-22/35, art. 26, 007; En vigueur : 09-09-2024&gt;
+
+#### Art. 22
+
+&lt;Abrogé par ORD 2024-02-22/35, art. 26, 007; En vigueur : 09-09-2024&gt;
+
+#### Art. 23
+
+&lt;Abrogé par ORD 2024-02-22/35, art. 26, 007; En vigueur : 09-09-2024&gt;
+
+#### Art. 24
+
+&lt;Abrogé par ORD 2024-02-22/35, art. 26, 007; En vigueur : 09-09-2024&gt;
+
+#### Art. 25
+
+&lt;Abrogé par ORD 2024-02-22/35, art. 26, 007; En vigueur : 09-09-2024&gt;
+
+#### Art. 26
+
+&lt;Abrogé par ORD 2024-02-22/35, art. 26, 007; En vigueur : 09-09-2024&gt;
+
+## CHAPITRE VI. - [<sup>1</sup> Plaintes, Inspection ]<sup>1</sup> et sanctions.
+
+----------
+
+(1)&lt;ORD 2023-12-22/19, art. 16, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 26/1
+
+[<sup>1</sup> Les aînés, leurs représentants ou toute personne justifiant d'un intérêt peuvent introduire une plainte auprès d'Iriscare concernant le fonctionnement d'un établissement.
+
+Le Collège réuni détermine, après avis du Conseil de gestion, la procédure d'introduction des plaintes visées à l'alinéa 1er, ainsi que la procédure de traitement de ces plaintes par Iriscare. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2023-12-22/19, art. 16, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 27
+
+[<sup>1</sup> Les agents d'Iriscare désignés par le Collège réuni pour le contrôle des établissements sont chargés de contrôler le respect des règles fixées par ou en vertu de la présente ordonnance]<sup>1</sup>.
+
+[<sup>1</sup> Ce contrôle]<sup>1</sup> comporte notamment le droit de visiter, à tout moment, dans le respect de l'inviolabilité du domicile, tout lieu ou établissement, quelle qu'en soit la dénomination, présenté comme spécialement destiné au logement ou à l'accueil des [<sup>2</sup> aînés]<sup>2</sup>, fût-ce à titre provisoire, précaire ou gratuit, et de prendre connaissance, sans déplacement, de l'ensemble des pièces et documents.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>3</sup> Par dérogation à l'alinéa 2, les agents visés à l'alinéa 1er peuvent exercer leur contrôle sur place sans que l'inviolabilité du domicile ne puisse leur être opposée par le gestionnaire ou un résident dans les cas suivants:
+
+1° lorsque la visite a lieu entre 5 heures et 21 heures et que le juge compétent a préalablement accordé une autorisation de visite;
+
+2° lorsque la visite a lieu entre 21 heures et 5 heures, et que le juge compétent a préalablement accordé une autorisation de visite particulièrement motivée;
+
+3° lorsque cela s'avère nécessaire pour des motifs urgents de protection de la santé publique.]<sup>3</sup>
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 27, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 2, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;ORD 2025-12-18/13, art. 7, 008; En vigueur : 31-12-2025&gt;
+
+#### Art. 28
+
+[<sup>1</sup> § 1er. Les agents visés à l'article 27 peuvent, dans l'exercice de leur mission :
+
+1° procéder à tout examen, contrôle, enquête et recueillir toute information nécessaire à la réalisation des missions qui leur incombent, notamment :
+
+a) interroger toute personne sur tout fait dont la connaissance est utile à l'exercice du contrôle ;
+
+b) se faire produire ou rechercher tout document nécessaire à l'accomplissement de leur mission, en prendre copie ou l'emporter contre récépissé ;
+
+2° recourir à l'assistance de la force publique.
+
+§ 2. Les agents visés à l'article 27 rédigent un rapport de leurs constats [<sup>2</sup> , lequel est, sauf circonstances urgentes ou exceptionnelles, établi dans le cadre d'une procédure contradictoire visée aux paragraphes 3 à 5. ]<sup>2</sup>.
+
+§ 3. [<sup>2</sup> Sans préjudice du paragraphe 2, les agents visés à l'article 27 rédigent un rapport provisoire de leurs constats.]<sup>2</sup> Une copie du rapport provisoire est notifiée par Iriscare dans un délai de quarante-cinq jours au gestionnaire [<sup>2</sup> de l'établissement, avec copie de cette notification au directeur]<sup>2</sup>. Le délai prend cours le lendemain du dernier constat effectué dans le cadre du contrôle. Le délai est renouvelable une fois de trente jours, à condition [<sup>2</sup> qu'Iriscare en informe par écrit dans un délai de quarante jours le gestionnaire de l'établissement, avec copie de cette information par écrit au directeur]<sup>2</sup>. Lorsque le jour de l'échéance est un samedi, un dimanche ou un jour férié légal, le délai se termine le jour ouvrable suivant.
+
+§ 4. Le gestionnaire et le directeur de l'établissement ont le droit de faire connaître leur réaction écrite au rapport provisoire dans un délai de trente jours. Le délai prend cours le jour suivant la réception [<sup>2</sup> par le gestionnaire ]<sup>2</sup> du rapport provisoire visé au paragraphe 3. Lorsque la date d'échéance est un samedi, un dimanche ou un jour férié légal, le délai se termine le jour ouvrable suivant. La réaction est jointe en annexe au rapport et fait donc partie du dossier administratif.
+
+Les agents visés à l'article 27 peuvent adapter le rapport sur la base des réactions au rapport provisoire visées à l'alinéa premier. Le gestionnaire et le directeur de l'établissement sont informés par écrit des adaptations éventuelles.
+
+§ 5. Une copie du rapport est notifiée dans un délai de quarante-cinq jours au gestionnaire [<sup>2</sup> de l'établissement, avec copie de cette notification au directeur]<sup>2</sup>. Le délai prend cours le jour [<sup>2</sup> ...]<sup>2</sup>, ou suivant l'expiration du délai de réaction. Le délai est renouvelable une fois de trente jours, à condition [<sup>2</sup> qu'Iriscare en informe par écrit dans un délai de quarante jours le gestionnaire de l'établissement, avec copie de cette information par écrit au directeur]<sup>2</sup>. Lorsque le jour de l'échéance est un samedi, un dimanche ou un jour férié légal, le délai se termine le jour ouvrable suivant.
+
+§ 6. Le rapport qui est rédigé et notifié conformément aux [<sup>2</sup> paragraphes 3 à 5]<sup>2</sup>, fait foi jusqu'à preuve du contraire ]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 28, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2023-12-22/19, art. 16, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 28/1
+
+[<sup>1</sup> § 1er. Est passible d'une amende administrative :
+
+1° de 2.500 à 25.000 euros, le gestionnaire qui exploite un établissement sans bénéficier d'aucun agrément ou autorisation de fonctionnement provisoire ;
+
+2° de 2.500 à 25.000 euros, le gestionnaire qui accueille un nombre de résidents supérieur au nombre autorisé par l'agrément ou l'autorisation de fonctionnement provisoire dont il dispose ;
+
+[<sup>2</sup> 2/1° de 2.500 à 25.000 euros, le gestionnaire auquel le Collège réuni a enjoint de se conformer endéans un délai déterminé à une ou plusieurs normes arrêtées en vertu de l'article 11, § 1er, alinéa 4, et qui ne se conforme pas aux normes visées dans l'injonction endéans ce délai;
+
+2/2° de 2.500 à 25.000 euros, le gestionnaire qui enfreint les règles de la procédure établie en vertu de l'article 19/4, alinéas 1er et 2, qui visent à protéger les aînés, ou qui ne respecte pas les conséquences attachées à la fermeture volontaire en vertu de l'article 19/4, alinéa 3. ]<sup>2</sup>
+
+3° de 2.500 à 25.000 euros, le gestionnaire qui accueille de nouveaux résidents malgré une décision de suspension de l'agrément ou de l'autorisation de fonctionnement provisoire ;
+
+4° de 250 euros à 5.000 euros, le gestionnaire qui, intentionnellement, fait une déclaration inexacte ou non sincère pour obtenir ou maintenir une autorisation spécifique de mise en service et d'exploitation, une autorisation de travaux, une autorisation de fonctionnement provisoire ou un agrément ;
+
+5° de 5.000 euros à 50.000 euros, le gestionnaire qui ne respecte pas les termes de l'autorisation de travaux ;
+
+6° de 250 euros à 5.000 euros, celui qui refuse délibérément de fournir à Iriscare ou aux agents visés à l'article 27 les données qu'il doit fournir en vertu de la présente ordonnance et de ses arrêtés d'exécution, ou qui fournit délibérément des informations incorrectes ou incomplètes.
+
+§ 2. En cas de récidive dans les cinq ans de la constatation[<sup>2</sup> d'une infraction ayant donné lieu à une amende administrative visée au paragraphe 1er]<sup>2</sup>, les montants visés ci-avant sont doublés.
+
+§ 3. [<sup>2</sup> . L'amende administrative peut être imposée endéans un délai de six mois, à compter du jour du constat de l'infraction et après audition de la personne concernée.
+
+Si le constat de l'infraction est établi dans un rapport de contrôle au sens de l'article 28, § 2, le délai de six mois visé à l'alinéa 1er court à partir de la notification du rapport de contrôle visé à l'article 28, § 5.
+
+Si une amende administrative est imposée, la décision mentionne le montant, le mode de paiement et le délai de paiement de celle-ci. La notification de la décision à la personne concernée mentionne les modalités selon lesquelles et le délai dans lequel un recours peut être introduit contre la décision. ]<sup>2</sup>.
+
+Le Collège réuni arrête les modalités de l'imposition et du paiement de l'amende administrative. Le Collège réuni désigne les fonctionnaires habilités à imposer l'amende.
+
+Le produit des amendes administratives visées dans le présent article est versé au budget d'Iriscare.
+
+S'il y a des circonstances atténuantes, les fonctionnaires visés à l[<sup>2</sup> alinéa 4 ]<sup>2</sup> peuvent diminuer le montant de l'amende administrative imposée, même à un niveau en-dessous du montant minimal applicable.
+
+Si la personne concernée refuse de payer l'amende administrative, elle est recouvrée par voie de contrainte. Le Collège réuni désigne les fonctionnaires habilités à délivrer une contrainte et à la déclarer exécutoire. Une contrainte est signifiée par exploit d'huissier avec injonction de payer.
+
+L'injonction à l'acquittement de l'amende administrative échoit après un délai de cinq ans, à compter de la date de la décision visée à l'alinéa 1er. La prescription est interrompue selon le mode et aux conditions fixées aux articles 2244 à 2250 inclus du Code civil. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2022-12-15/30, art. 29, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2023-12-22/19, art. 18, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 29
+
+§ 1er. Est puni d'un emprisonnement de huit jours à six mois et d'une amende de 13 à 125 EUR par [<sup>2</sup> aîné]<sup>2</sup> [<sup>3</sup> admis]<sup>3</sup> dans son établissement ou de l'une de ces peines seulement :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° le gestionnaire qui mentionne indûment l'agrément ou l'autorisation de fonctionnement provisoire;
+
+3° le gestionnaire qui gère de façon non individualisée les comptes [<sup>3</sup> des aînés]<sup>3</sup>;
+
+4° le gestionnaire qui, par ruse, contrainte, menace, dol ou en profitant de l'état de faiblesse ou de maladie [<sup>3</sup> des aînés]<sup>3</sup>, se fait remettre des biens appartenant à celle-ci;
+
+5° le gestionnaire qui, sans préjudice des termes de la convention, administre des fonds ou biens appartenant [<sup>3</sup> à l'aîné ]<sup>3</sup>;
+
+6° le gestionnaire qui impose[<sup>3</sup> à l'aîné ]<sup>3</sup> ou à son représentant, comme condition préalable à l'accueil ou au séjour, le paiement d'un acompte ou d'une garantie, autres que ceux autorisés par le Collège réuni.
+
+§ 2. Le gestionnaire qui exploite un établissement en infraction aux dispositions de la présente ordonnance et des arrêtés pris en exécution de celle-ci, est civilement responsable du paiement des amendes et des frais de justice auxquels le directeur est condamné.
+
+§ 3. A titre de mesure de sûreté, les cours et tribunaux peuvent prononcer, en outre, contre les auteurs d'infractions à la loi pénale ou aux dispositions de la présente ordonnance et de ses arrêtés d'exécution, l'interdiction d'exploiter ou de diriger, personnellement ou par personne interposée, pendant une durée qu'ils déterminent, un établissement visé à l'article 2, 4°; cette durée ne peut être supérieure à dix ans.
+
+L'interdiction produit ses effets dès que la condamnation n'est plus susceptible de voies de recours ordinaires ou extraordinaires. L'infraction à cette interdiction est punie d'un emprisonnement d'un mois à six mois et d'une amende de 25 à 125 EUR par [<sup>2</sup> aîné]<sup>2</sup> [<sup>3</sup> admis]<sup>3</sup> dans l'établissement, ou de l'une de ces peines seulement.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 30, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2022-12-15/30, art. 2, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;ORD 2023-12-22/19, art. 19, 006; En vigueur : 11-01-2024&gt;
+
+## CHAPITRE VI/1. [<sup>1</sup> Collecte et traitement de données à caractère personnel ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2022-12-15/30, art. 31, 005; En vigueur : 01-01-2023&gt;
+
+#### Art. 29/1
+
+[<sup>1</sup> . § 1er. Dans le présent article, on entend par règlement général sur la protection des données: le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE.
+
+§ 2. Afin de répondre aux obligations légales qui leur incombent en vertu de la présente ordonnance, et notamment de mettre à disposition des agents visés à l'article 27 les informations nécessaires pour contrôler le respect des normes adoptées par le Collège réuni en vertu de l'article 11, les établissements pour aînés traitent les données à caractère personnel suivantes:
+
+1° concernant les aînés: les nom, prénom, lieu et date de naissance;
+
+2° concernant le représentant de l'aîné: les nom et coordonnées;
+
+3° concernant les membres du personnel: les nom, prénom, lieu et date de naissance, document attestant des qualifications et photo récente.
+
+Sans préjudice de l'alinéa 1er, et afin d'assurer la facturation des soins auprès des organismes assureurs concernés, les maisons de repos, les maisons de repos et de soins, les centres de soins de jour et les centres de court séjour traitent les renseignements relatifs à la mutualité de l'aîné.
+
+Sans préjudice des alinéas 1er et 2, et afin d'assurer la continuité et la qualité de l'accompagnement et des soins prodigués aux aînés, les établissements pour aînés traitent les données à caractère personnel suivantes:
+
+1° concernant les professionnels des soins de santé choisis par l'aîné, notamment son médecin traitant, et l'institution hospitalière choisie par l'aîné: les coordonnées;
+
+2° concernant les personnes de contact de l'aîné, dont la personne de confiance, qu'il convient d'avertir en cas de nécessité: les nom et coordonnées;
+
+3° concernant les prestataires qui accompagnent l'aîné au sein ou en dehors de l'établissement: les nom et coordonnées;
+
+4° concernant les aînés:
+
+a) la ou les langues parlée(s);
+
+b) une photo récente;
+
+c) l'assistance morale, religieuse ou philosophique éventuellement souhaitée.
+
+Les établissements pour aînés sont autorisés à traiter des catégories particulières de données visées aux articles 9 et 10 du règlement général sur la protection des données dans la mesure nécessaire à l'accomplissement des obligations qui leur incombent en exécution de la présente ordonnance.
+
+Sans préjudice des alinéas 1er à 3, et afin d'assurer la continuité et la qualité de l'accompagnement et des soins prodigués aux aînés, de façon adaptée à l'évolution de leurs demandes ou besoins, les établissements pour aînés, à l'exception des habitations pour aînés et des complexes résidentiels proposant des services, traitent les données à caractère personnel suivantes concernant les aînés:
+
+1° sauf dans les centres de soins de jour, les centres d'accueil de jour et les centres d'accueil de nuit, les dispositions concernant les modalités de fin de vie à respecter conformément aux souhaits de l'aîné ou de son représentant, en ce compris l'assistance morale, religieuse ou philosophique éventuellement souhaitée;
+
+2° sauf dans les centres d'accueil de jour, les données relatives au suivi médical des aînés, telles que visées dans le dossier de patient au sens de l'article 33 de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé, consignées individuellement pour chaque aîné, la catégorie de dépendance de chaque aîné ainsi que les données relatives à l'administration des soins;
+
+3° les caractéristiques personnelles, les habitudes et le parcours de vie des aînés;
+
+4° les souhaits et attentes des aînés en ce qui concerne la vie au sein de l'établissement;
+
+5° les souhaits et attentes des aînés concernant les loisirs et les activités sociales à proposer par l'établissement;
+
+6° les souhaits, les habitudes et les préférences alimentaires des aînés.
+
+Sans préjudice des alinéas 1er à 3 et 5, les établissements pour aînés peuvent également traiter les convictions religieuses et opinions philosophiques des aînés afin de leur assurer un accompagnement personnalisé, notamment pour définir les préférences alimentaires de l'aîné ou répondre à certaines demandes spécifiques de l'aîné.
+
+Sans préjudice du paragraphe 3, alinéas 1er à 3, l'accès aux données visées aux alinéas 1er à 3, 5 et 6 est limité aux membres du personnel de l'établissement qui sont impliqués dans l'accompagnement ou les soins de l'aîné.
+
+Les données visées à l'alinéa 5 relatives à la santé sont traitées conformément à l'article 9, alinéa 3, du règlement général sur la protection des données, par ou sous la responsabilité d'un professionnel qui est lié par le secret professionnel ou par une autre personne qui est légalement tenue au secret.
+
+Le Collège réuni fixe les autres garanties appropriées qui doivent être mises en oeuvre pour sauvegarder les droits et libertés des aînés et limiter les risques qu'ils encourent.
+
+L'établissement pour aînés peut conserver les données visées dans le présent paragraphe pendant une période maximale de trois ans, suivant le départ ou le décès de l'aîné. Le Collège réuni peut fixer un délai effectif de conservation plus court par catégorie d'établissement pour aînés et par type de données.
+
+§ 3. Pour exercer la mission de contrôle qui leur est confiée par ou en vertu de la présente ordonnance, les agents visés à l'article 27 traitent les données visées au paragraphe 2, alinéas 1er à 3, 5 et 6, nécessaires à la réalisation de cette mission. L'accès à ces données est limité aux agents visés à l'article 27.
+
+Pour exercer la mission de contrôle qui leur est confiée par ou en vertu de la présente ordonnance, les agents visés à l'article 27 peuvent traiter les catégories particulières de données visées au paragraphe 2 dans la mesure nécessaire à la réalisation de cette mission.
+
+Lorsqu'ils traitent des données visées au paragraphe 2 relatives à la santé, les agents visés à l'article 27 sont tenus au secret. Le Collège réuni fixe les autres garanties appropriées qui doivent être mises en oeuvre pour sauvegarder les droits et libertés des aînés et limiter les risques qu'ils encourent.
+
+Les données visées à l'alinéa 1er sont conservées pendant une durée maximale de trois ans à partir de la date à laquelle elles ont été récoltées par les agents visés à l'article 27. Le Collège réuni peut fixer un délai effectif de conservation plus court par catégorie d'établissement pour aînés et par type de données.
+
+§ 4. Pour s'assurer que la gestion et la direction de l'établissement sont effectuées par des personnes qui justifient d'une moralité et d'une intégrité en adéquation avec leur fonction et pour pouvoir garantir une offre de soins et de services de qualité, dans le cadre des procédures relatives à l'agrément et au contrôle, le service d'Iriscare chargé du suivi administratif de l'agrément est habilité à traiter les extraits de casier judiciaire, visés à l'article 595 du Code d'instruction criminelle, du gestionnaire et du directeur de l'établissement. Les extraits de casier judiciaire doivent être exempts de condamnations à des peines correctionnelles incompatibles avec la fonction ou criminelles.
+
+L'accès aux données visées à l'alinéa 1er est limité aux membres du personnel du service d'Iriscare chargés du suivi administratif de l'agrément.
+
+Les extraits de casier judiciaire sont conservés pendant une durée n'excédant pas celle nécessaire aux fins de l'octroi de l'agrément visé à l'article 11. Ils sont détruits après que la décision d'agrément a été prise.
+
+§ 5. Pour contrôler l'admission de personnes âgées de moins de soixante ans dans les établissements pour aînés qui introduisent, via la direction de l'établissement, une demande d'admission, le service d'Iriscare chargé du suivi administratif de l'agrément traite les données à caractère personnel suivantes de ces personnes:
+
+1° les nom, prénom et date de naissance;
+
+2° le certificat médical attestant que la personne peut être admise dans l'établissement par dérogation à la condition d'âge, selon les modalités fixées par le Collège réuni.
+
+L'accès aux données visées à l'alinéa 1er est limité aux membres du personnel du service d'Iriscare chargés du suivi administratif de l'agrément.
+
+Les données visées à l'alinéa 1er sont conservées pendant une durée maximale d'un an à partir de la date de leur réception par Iriscare.
+
+§ 6. Les responsables du traitement au sens de l'article 4, 7), du règlement général sur la protection des données sont:
+
+1° les gestionnaires d'établissement pour aînés pour les données à caractère personnel visées au paragraphe 2;
+
+2° Iriscare pour:
+
+a) les données visées au paragraphe 2, lorsque ces données sont contenues dans des documents dont les agents visés à l'article 27 se sont fait remettre copie ou qu'ils ont emportés contre récépissé, en application de l'article 28, § 1er, 1° ;
+
+b) les données visées aux paragraphes 3 à 5.
+
+Le Collège réuni détermine les mesures techniques et organisationnelles que les responsables de traitement visés à l'alinéa 1er doivent prendre pour protéger les données à caractère personnel conformément à l'article 32 du règlement général sur la protection des données. Le Collège réuni détermine également la forme de la conservation des données visées aux paragraphes 2 à 5, ainsi que, le cas échéant, leur force probante. ]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-12-22/19, art. 20, 006; En vigueur : 11-01-2024&gt;
+
+## CHAPITRE VI/2. [<sup>1</sup> - Contrôle administratif et statistiques ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2022-12-15/30, art. 32, 005; En vigueur : 01-01-2023&gt;
+
+#### Art. 29/2
+
+[<sup>1</sup> Le Collège réuni détermine les données que les établissements en cours d'exploitation doivent transmettre à Iriscare, à des fins statistiques ou de contrôle des normes d'agrément. Il fixe également les modalités de cette obligation, notamment les délais endéans lesquels ces données doivent être transmises à Iriscare ]<sup>1</sup>
+
+[<sup>2</sup> Chaque année, les services d'Iriscare transmettent au Collège réuni un rapport anonymisé relatif au traitement des demandes d'admission de personnes âgées de moins de soixante ans dans les établissements pour aînés.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2022-12-15/30, art. 32, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;ORD 2025-12-18/13, art. 8, 008; En vigueur : 31-12-2025&gt;
+
+## CHAPITRE VI/3. [<sup>1</sup> Contrôle financier ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2023-12-22/19, art. 21, 006; En vigueur : 11-01-2024&gt;
+
+#### Art. 29/3
+
+[<sup>1</sup> Le Collège réuni détermine les modalités et la procédure du contrôle financier qu'Iriscare exerce sur les établissements.
+
+Dans le cadre de l'organisation du contrôle financier visé à l'alinéa 1er, le Collège réuni détermine notamment:
+
+1° les cas dans lesquels un audit externe peut être imposé par Iriscare à un établissement qui fait l'objet d'un rapport de contrôle financier défavorable, ainsi que les modalités de cet audit externe;
+
+2° les cas dans lesquels un commissaire au sens de l'article 19/3 peut être désigné dans un établissement qui fait l'objet d'un rapport de contrôle financier défavorable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2023-12-22/19, art. 21, 006; En vigueur : 11-01-2024&gt;
+
+## CHAPITRE VII. - Dispositions finales et transitoires.
+
+#### Art. 30
+
+[<sup>1</sup> . Pour l'application de l'article 2, 9°, de l'ordonnance du 21 décembre 2018 relative aux organismes assureurs bruxellois dans le domaine des soins de santé et de l'aide aux personnes, l'autorisation de fonctionnement provisoire visée à l'article 13 vaut agrément ]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 33, 005; En vigueur : 01-01-2023&gt;
+
+#### Art. 31
+
+[<sup>1</sup> . Dans l'attente d'une programmation arrêtée conformément au chapitre II, le Collège réuni peut fixer, par catégorie d'établissements pour aînés, le nombre maximal de places pouvant bénéficier d'une autorisation spécifique de mise en service et d'exploitation à l'échelle du territoire de Bruxelles-Capitale. Le Collège réuni fixe en tout cas le nombre maximal de places de maisons de repos, en ce compris celles qui bénéficient d'un agrément spécial pour la prise en charge des aînés fortement dépendants et nécessitant des soins, et de centre de soins de jour qui peuvent bénéficier d'une autorisation spécifique de mise en service et d'exploitation à l'échelle du territoire de Bruxelles-Capitale ]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2022-12-15/30, art. 34, 005; En vigueur : 01-01-2023&gt;
+
+#### Art. 32
+
+§ 1er. Par mesure transitoire, les établissements agréés définitivement avant l'entrée en vigueur de la présente ordonnance conservent leur agrément pour une période de deux ans, prenant cours à la date d'entrée en vigueur des arrêtés d'exécution de la présente ordonnance les concernant.
+
+Les établissements bénéficiant d'une autorisation de fonctionnement provisoire avant l'entrée en vigueur de la présente ordonnance la conservent jusqu'à l'expiration du terme prévu. A l'expiration du terme prévu, l'autorisation de fonctionnement est prorogée d'un an.
+
+§ 2. En attendant la programmation arrêtée conformément au chapitre II, il est interdit de mettre en service ou d'exploiter un nouvel établissement visé à l'article 2, 4°, ou de mettre en service ou d'exploiter une extension de la capacité d'accueil ou d'hébergement d'un de ces établissements existants, sans y être autorisé par le Collège réuni, si l'établissement concerné entre dans une catégorie d'établissements pour laquelle le Collège réuni a conclu un protocole d'accord visé à l'article 4, 2°.
+
+Cette autorisation est donnée ou refusée conformément à la procédure prévue à l'article 7.
+
+Elle est refusée si la mise en service et l'exploitation de l'établissement concerné amènent un dépassement du nombre de lits ou de places d'accueil autorisé par le protocole en vigueur, sauf s'il est établi que les places mises en service remplacent des places existantes du même établissement ou s'accompagnent d'une diminution d'un nombre de places au moins égal dans un autre établissement du même type ou encore, consistent en la reconversion de lits de maison de repos en lits de maison de repos et de soins ou en lits affectés au court séjour.
+
+De l'avis de la section, le Collège réuni arrête les conditions de cession de lits ou de places entre établissements du même type.
+
+#### Art. 32 DROIT FUTUR
+
+&lt;Abrogé par ORD 2022-12-15/30, art. 35, 005; En vigueur : indéterminée &gt;
+
+#### Art. 33
+
+Pour les établissements qui ont introduit une première demande d'agrément avant l'entrée en vigueur de la présente ordonnance et pour laquelle il n'y a pas de décision définitive avant cette date, une autorisation de fonctionnement provisoire est octroyée sur la base des dispositions de l'ordonnance du 20 février 1992 pour un délai de 6 mois.
+
+#### Art. 33 DROIT FUTUR
+
+&lt;Abrogé par ORD 2022-12-15/30, art. 35, 005; En vigueur : indéterminée &gt;
+
+---
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 24 avril 2008.
+
+(Le Membre du Collège réuni compétent pour la Politique de la Santé, les Finances, le Budget et les Relations extérieures,
+
+G. VANHENGEL
+
+Le Membre du Collège réuni compétent pour la Politique de la Santé et la Fonction publique,
+
+B. CEREXHE
+
+Le Membre du Collège réuni compétent pour la Politique d'Aide aux Personnes et la Fonction publique,
+
+P. SMET
+
+Le membre du Collège réuni compétent pour la Politique d'Aide aux Personnes, les Finances, le Budget et les Relations extérieures,
+
+Mme E. HUYTEBROECK) (Erratum, voir M.B. 13-06-2008, p. 29910)

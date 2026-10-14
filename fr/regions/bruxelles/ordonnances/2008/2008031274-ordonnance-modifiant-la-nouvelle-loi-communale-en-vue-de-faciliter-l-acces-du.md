@@ -1,0 +1,65 @@
+---
+title: "Ordonnance modifiant la nouvelle loi communale en vue de faciliter l'accès du public aux règlements communaux instaurant des taxes."
+identifier: "2008031274"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/05/29/2008031274/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2008-05-29
+published: 2008-06-17
+entry_into_force: 2009-06-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/05/29/2008031274/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-12
+---
+
+# 29 MAI 2008. - Ordonnance modifiant la nouvelle loi communale en vue de faciliter l'accès du public aux règlements communaux instaurant des taxes.
+
+Le Parlement de la Région de Bruxelles-Capitale a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+L'article 112, dernier alinéa de la nouvelle loi communale est remplacé par l'alinéa suivant :
+
+" En plus de l'affiche, le bourgmestre publie les actes visés à l'alinéa 1er par voie d'un support électronique accessible au public. "
+
+## Art. 3
+
+L'article 119, dernier alinéa, de la nouvelle loi communale est remplacé par l'alinéa suivant :
+
+" Ces règlements et ordonnances sont publiés sur le site internet de la Région. ".
+
+## Art. 4
+
+La présente ordonnance entre en vigueur un an après sa publication au Moniteur belge.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 29 mai 2008.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, de la Rénovation urbaine, du Logement, de la Propreté publique et de la Coopération au Développement,
+
+Ch. PICQUE
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, de la Fonction publique et des Relations extérieures,
+
+G. VAN HENGEL
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie, de la Recherche scientifique et de la Lutte contre l'incendie et l'Aide médicale urgente,
+
+B. CEREXHE
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de la Mobilité et des Travaux publics,
+
+P. SMET
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée de l'Environnement, de l'Energie et de la Politique de l'Eau,
+
+Mme E. HUYTEBROECK.

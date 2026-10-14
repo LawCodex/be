@@ -1,0 +1,59 @@
+---
+title: "Ordonnance modifiant la loi du 20 juillet 1971 sur les funérailles et les sépultures en vue d'un traitement digne des restes des foetus nés sans vie."
+identifier: "2007031564"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/12/13/2007031564/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2007-12-13
+published: 2008-01-10
+entry_into_force: 2008-01-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/12/13/2007031564/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-12
+---
+
+# 13 DECEMBRE 2007. - Ordonnance modifiant la loi du 20 juillet 1971 sur les funérailles et les sépultures en vue d'un traitement digne des restes des foetus nés sans vie.
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+La présente ordonnance s'applique aux cimetières de la Région de Bruxelles-Capitale qui sont situés sur son territoire et ne dépassent pas les limites de ce territoire.
+
+## Art. 3
+
+Au Chapitre II, Section Ire de la loi du 20 juillet 1971 sur les funérailles et sépultures, il y a lieu d'insérer un article 15ter nouveau, rédigé comme suit :
+
+" Art. 15ter. Les foetus nés sans vie dont la naissance a eu lieu entre le 106e et le 180e jour de grossesse, peuvent, à la demande des parents, soit être inhumés dans une parcelle des étoiles créée à cet effet dans les cimetières communaux, soit être inhumés dans le cimetière intercommunal d'inhumation, soit être incinérés. L'urne contenant les cendres peut alors être placée dans la parcelle des étoiles ou dans le columbarium, ou les cendres peuvent être dispersées sur une pelouse de dispersion aménagée dans la parcelle des étoiles. Les parents peuvent aussi, comme c'est le cas pour les cendres des enfants mineurs et aux mêmes conditions légales, choisir de les disperser, de les inhumer ou de les conserver dans une urne placée à un endroit autre que le cimetière.
+
+Le gouvernement de la Région de Bruxelles-Capitale détermine, pour les communes concernées, les modalités d'exécution des possibilités de se séparer dignement d'un foetus né sans vie. "
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Donné à Bruxelles, le 13 décembre 2007.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, de la Rénovation urbaine, du Logement, de la Propreté publique et de la Coopération au Développement,
+
+Ch. PICQUE
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, de la Fonction publique et des Relations extérieures,
+
+G. VAN HENGEL
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie, de la Recherche scientifique et de la Lutte contre l'Incendie et l'Aide médicale urgente,
+
+B. CEREXHE
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de la Mobilité et des Travaux publics,
+
+P. SMET
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée de l'Environnement, de l'Energie et de la Politique de l'Eau,
+
+Mme E. HUYTEBROECK.
