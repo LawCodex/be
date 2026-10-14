@@ -1,0 +1,71 @@
+---
+title: "Ordonnance modifiant le Code bruxellois du Logement afin de reconnaître l'habitat des gens du voyage"
+identifier: "2012031110"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/03/01/2012031110/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2012-03-01
+published: 2012-03-14
+entry_into_force: 2012-03-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/03/01/2012031110/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-12
+---
+
+# 1 MARS 2012. - Ordonnance modifiant le Code bruxellois du Logement afin de reconnaître l'habitat des gens du voyage
+
+Le Parlement de la Région de Bruxelles-Capitale a adopté et Nous, Exécutif, sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+L'article 2 de l'ordonnance du 17 juillet 2003 portant le Code bruxellois du logement est complété par un point 28° rédigé comme suit :
+
+" 28° Habitat itinérant : habitation sur roues, caractérisée par sa mobilité, abritant de manière permanente et non récréative un ménage itinérant ou semi-itinérant. ".
+
+## Art. 3
+
+Il est inséré dans l'ordonnance du 17 juillet 2003 portant le Code bruxellois du logement, un titre VIIIbis comprenant l'article 175bis et rédigé comme suit :
+
+" Titre VIIIbis - L'habitat itinérant
+
+Art. 175bis. § 1er. Le droit à un logement décent rappelé à l'article 3 n'exclut pas l'habitat itinérant.
+
+Afin de rendre effectif pour ce type d'habitat le droit à un logement décent, le Gouvernement détermine par arrêté les exigences minimales de sécurité, de salubrité et d'équipement visées à l'article 4 que doivent rencontrer spécifiquement l'habitat itinérant et les terrains mis à disposition de ce dernier par l'autorité publique. Il détermine également les critères du rattachement territorial des unités d'habitat itinérant à la Région.
+
+§ 2. Les dispositions du Titre III ne s'appliquent pas à l'habitat itinérant, à l'exception de celles du chapitre Ier de ce titre.
+
+§ 3. La mise à disposition du public d'unités d'habitat itinérant n'est du ressort ni des opérateurs immobiliers publics, ni de la SDRB, ni des agences immobilières sociales.
+
+§ 4. Les aides à l'acquisition, la location ou la rénovation à charge du budget de la Région ne concernent pas l'habitat itinérant. "
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 1er mars 2012.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, et de la Propreté publique et de la Coopération au Développement,
+
+Ch. PICQUE
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée des Finances, du Budget, la Fonction publique et des Relations extérieures,
+
+G. VANHENGEL
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée de l'Environnement, de l'Energie et de la Politique de l'Eau, de la Rénovation urbaine, de la Lutte contre l'Incendie et l'Aide médicale urgente et du Logement,
+
+Mme E. HUYTEBROECK
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée des Travaux publics et des Transports,
+
+Mme B. GROUWELS
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie, de la Recherche scientifique,
+
+B. CEREXHE

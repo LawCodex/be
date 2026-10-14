@@ -1,0 +1,57 @@
+---
+title: "Ordonnance portant assentiment : 1° à l'Accord sur le transport aérien entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis d'Amérique, d'autre part, signé à Washington le 30 avril 2007, et 2° au Protocole modifiant l'Accord sur le transport aérien entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis d'Amérique, d'autre part, signé à Bruxelles le 24 juin 2010"
+identifier: "2013031048"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/12/21/2013031048/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2012-12-21
+published: 2013-02-08
+entry_into_force: 2013-02-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/12/21/2013031048/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-12
+---
+
+# 21 DECEMBRE 2012. - Ordonnance portant assentiment : 1° à l'Accord sur le transport aérien entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis d'Amérique, d'autre part, signé à Washington le 30 avril 2007, et 2° au Protocole modifiant l'Accord sur le transport aérien entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis d'Amérique, d'autre part, signé à Bruxelles le 24 juin 2010
+
+Le Parlement de la Région de Bruxelles-Capitale a adopté et Nous, Exécutif, sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+Sortiront leur plein et entier effet :
+
+\- l'Accord sur le transport aérien entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis d'Amérique, d'autre part, signé à Washington le 30 avril 2007, et
+
+\- le Protocole modifiant l'accord sur le transport aérien entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis d'Amérique, d'autre part, signé à Bruxelles le 24 juin 2010.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 21 décembre 2012.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, et de la Propreté publique et de la Coopération au Développement,
+
+Ch. PICQUE
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée des Finances, du Budget, la Fonction publique et des Relations extérieures,
+
+G. VANHENGEL
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée de l'Environnement, de l'Energie et de la Politique de l'Eau, de la Rénovation urbaine, de la Lutte contre l'Incendie et l'Aide médicale urgente et du Logement,
+
+Mme E. HUYTEBROECK
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée des Travaux publics et des Transports,
+
+Mme B. GROUWELS
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie, de la Recherche scientifique,
+
+B. CEREXHE
