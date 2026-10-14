@@ -1,0 +1,203 @@
+---
+title: "Ordonnance visant à instaurer une commission paritaire locative et à lutter contre les loyers abusifs"
+identifier: "2021043030"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/10/28/2021043030/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2021-10-28
+published: 2021-11-22
+entry_into_force: 2021-12-02
+last_amended: 2025-04-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/10/28/2021043030/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "Consultation des versions antérieures à partir du 22-11-2021 et mise à jour au 30-04-2025"
+retrieved: 2026-10-12
+---
+
+# 28 OCTOBRE 2021. - Ordonnance visant à instaurer une commission paritaire locative et à lutter contre les loyers abusifs
+
+## CHAPITRE Ier. - Dispositions générales
+
+### Art. 1er
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+### Art. 2
+
+Pour l'application de la présente ordonnance, l'on entend par " Code ", l'ordonnance du 17 juillet 2003 portant le Code bruxellois du Logement. ".
+
+### Art. 3
+
+A l'article 2, § 1er, du Code, il est ajouté un 36° et un 37°, rédigés comme suit :
+
+36° Grille indicative des loyers : la grille indicative de référence des loyers instituée par l'article 225 du présent Code.
+
+37° Loyer de référence : le loyer médian repris dans la grille indicative des loyers pour le bien visé, instituée par l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 19 octobre 2017 " instaurant une grille indicative de référence des loyers ".
+
+## CHAPITRE II. - Dispositions modificatives instituant une commission paritaire locative
+
+### Art. 4
+
+Après le Chapitre III du Code, il est inséré un nouveau chapitre III/1 rédigé comme suit :
+
+" Chapitre III/1 - La commission paritaire locative
+
+Art. 107/1. - Il est institué auprès du Conseil consultatif du Logement une commission paritaire locative compétente pour rendre des avis sur la justesse du loyer pour tout bail d'habitation en Région bruxelloise qui répond aux deux conditions cumulatives suivantes :
+
+1° ne pas être conclu par un opérateur immobilier public tel que défini à l'article 2 § 1er 4° du Code ou une agence immobilière sociale
+
+2° le loyer ne fait pas l'objet d'un encadrement par une ordonnance ou un arrêté du Gouvernement.
+
+La commission paritaire locative rend son avis dans les deux mois à compter de l'introduction de la demande. Cet avis comprend, le cas échéant, une proposition de loyer révisé.
+
+Lorsque la commission paritaire locative est saisie par une des parties prenantes au bail ou par une personnes mandatée par elle et qu'elle rend un avis concluant à une révision du montant du loyer, elle propose aux parties une conciliation limitée au montant du loyer.
+
+Sauf accord contraire des parties, le loyer révisé à la suite d'une conciliation proposée par la commission paritaire locative produit ses effets à compter du premier jour du mois qui suit la date de saisine de ladite commission.
+
+Les avis motivés de la commission paritaire locative sont non contraignants.
+
+Art. 107/2. - La commission paritaire locative peut être saisie par toute personne intéressée et par le juge saisi d'une demande en vue d'obtenir un avis sur la justesse du loyer en vertu des articles 224/1, 240 et 241 du Code.
+
+Le bailleur ou une personne mandatée par lui peut également saisir la commission paritaire locative afin d'obtenir un avis sur la justesse du loyer pratiqué, après le premier triennat du contrat de bail, lorsqu'il appert que le loyer exigible au moment de l'introduction de la demande est inférieur de 30 % au loyer de référence, sans que cette différence ne soit justifiée par des défauts de qualité substantiels intrinsèques, non imputables au preneur, du bien, ni par son environnement.
+
+Le Gouvernement arrête une liste de défauts de qualité substantiels intrinsèques.
+
+Le recours à la commission paritaire locative est gratuit.
+
+Art. 107/3. - A l'unanimité de ses membres, la commission paritaire locative pourra statuer, après un examen sommaire, sur toute demande, introduite par une des parties au contrat de bail ou par une personne mandatée par elle, manifestement infondée ou déraisonnable eu égard aux éléments de confort substantiels, aux défauts de qualité substantiels du bien ou à son environnement.
+
+Art. 107/4. - La commission paritaire locative est composée paritairement d'un nombre pair de membres dont la moitié sont des représentants des bailleurs et l'autre moitié des locataires.
+
+La commission paritaire locative délibère de manière collégiale et se dote d'un règlement d'ordre intérieur.
+
+Le Gouvernement arrête les modalités de composition, d'organisation, de fonctionnement de la commission paritaire locative ainsi que la rémunération de ses membres.
+
+Art. 107/5. - Les avis rendus par la commission paritaire locative font l'objet d'une publicité, à minima au travers d'une diffusion sur son site internet. Le Gouvernement arrête les modalités de cette publicité.
+
+Art. 107/6. - Le fonctionnement et le dispositif de saisine de la commission paritaire locative font l'objet d'une évaluation annuelle présentée dans un rapport. Celui-ci est transmis au Parlement de la Région de Bruxelles-Capitale.
+
+Le Gouvernement fixe les modalités de cette évaluation. ".
+
+## CHAPITRE III. - Dispositions modificatives en matière de loyer raisonnable et d'action en révision des loyers
+
+### Art. 5
+
+A l'article 218, § 1er, du Code, un nouveau point 4bis° est inséré entre les points 4° et 5°, libellé comme suit :
+
+" 4bis° le loyer de référence du bien visé ou l'intervalle de loyers autour du loyer de référence du bien visé tel que repris dans la grille indicative des loyers ; ".
+
+### Art. 6
+
+Au paragraphe 5 du même article, il est inséré un nouveau point 4bis° libellé comme suit :
+
+" 4bis° la grille indicative de référence des loyers ; ".
+
+### Art. 7
+
+L'article 224 du Code devient l'article 224/2 et un article 224 est inséré comme suit :
+
+" Article 224 - Le loyer est présumé abusif lorsqu'il :
+
+1\. dépasse de vingt pour cent son loyer de référence. Cette présomption peut être renversée lorsqu'il est établi que la différence entre le loyer pratiqué et le loyer de référence est justifiée par des éléments de confort substantiels intrinsèques au logement ou à son environnement ;
+
+2\. n'excède pas de vingt pour cent son loyer de référence mais qu'il accuse des défauts de qualité substantiels intrinsèques au logement ou à son environnement. ".
+
+### Art. 8
+
+Un article 224/1 est inséré à la suite du nouvel article 224, libellé comme suit :
+
+" Art. 224/1 - Obligation faite au bailleur de ne pas proposer un loyer abusif et révision du loyer abusif.
+
+§ 1er. - Le bailleur est tenu de ne pas proposer un loyer abusif tel que défini à l'article 224. A défaut, le preneur peut solliciter une révision du loyer.
+
+§ 2. - Pour les baux de courte durée tels que définis à l'article 238 du Code d'une durée supérieure à une année, une demande de révision pour loyer abusif ne peut toutefois pas être introduite durant les deux premiers mois du contrat de bail. Ce délai est fixé à trois mois pour les baux de durée plus longue tels que définis à l'article 237 du Code.
+
+§ 3. - Dans le cadre de la demande de révision visée au § 1er, chacune des parties prenantes au bail ou une personne mandatée par elles peut saisir la commission paritaire locative visée à l'article 107/1, pour obtenir un avis sur la demande de révision de loyer.
+
+Les modalités de saisine et de procédure auprès de la commission paritaire locative sont décrites au chapitre III/1 du Code.
+
+§ 4. - Directement ou à défaut d'accord entre les parties suite à la conciliation organisée par la commission paritaire locative, le juge peut également être saisi de la demande de révision du loyer abusif.
+
+Le juge ainsi saisi peut solliciter, conformément à l'article 107/2 du présent Code, la Commission paritaire locative visée à l'article 107/1 du Code pour, le cas échéant, recevoir l'avis rendu par la commission paritaire locative ou pour demander un avis sur la justesse du loyer.
+
+§ 5. - Le jugement qui fait droit à une révision du loyer peut produire ses effets au plus tôt 4 mois avant la date de dépôt de l'acte introductif d'instance par l'une des parties prenantes au bail ou par une personne mandatée par elle dans le cadre d'une demande de révision de loyer.
+
+§ 6. - Par dérogation au paragraphe 2, le preneur d'un bien dont le bailleur a déjà été contraint de réviser un loyer abusif pour le même bien, peut introduire une demande de révision auprès de la commission ou du juge lorsqu'il estime que le loyer est abusif au sens de l'article, 224.1 du présent Code à tout moment du contrat de bail.
+
+Dans ce cas et par dérogation au paragraphe 5, s'il est établi que le loyer est abusif, le loyer révisé produit ses effets à compter du premier mois du contrat de bail. ".
+
+### Art. 9
+
+A l'article 240 du Code, l'alinéa 1er est complété comme suit :
+
+" Dans ce cadre, chaque partie peut saisir la commission paritaire locative visée à l'article 107/1 du Code, pour obtenir un avis sur la justesse du loyer. Si la commission paritaire locative rend un avis concluant à la révision de loyer, elle propose aux parties une conciliation limitée au montant du loyer. ".
+
+### Art. 10
+
+A l'article 240 du Code, les alinéas 2 et 3 sont supprimés et remplacés par les deux alinéas suivants :
+
+" A défaut d'accord des parties, le juge peut accorder la révision du loyer s'il est établi que par le fait de circonstances nouvelles, le loyer de référence du bien loué est supérieur de vingt pour cent au moins au loyer exigible au moment de l'introduction de la demande et que le bien n'accuse pas des défauts de qualité substantiels qui justifient cette différence.
+
+Si le bien n'accuse pas des défauts de qualité substantiels qui justifient cette différence, le juge peut également accorder une augmentation de loyer au bailleur qui établit que le loyer de référence du bien loué est supérieur de dix pour cent au moins au loyer exigible au moment de l'introduction de la demande, en raison de travaux effectués à ses frais dans le bien loué, à l'exception des travaux nécessaires en vue de mettre le bien loué en conformité avec les conditions de l'article 220. ".
+
+### Art. 11
+
+A l'article 240 du Code, l'alinéa 5 est remplacé comme suit :
+
+" Le juge peut solliciter l'avis de la commission paritaire locative visée à l'article 107/1 du Code. Il statue en équité. ".
+
+### Art. 12
+
+A l'article 241, alinéa 1er, du Code, les mots " valeur locative normale " sont remplacés par les mots " loyer de référence ".
+
+Les mots " et que ce bien n'accuse pas des défauts de qualité substantiels qui justifient un loyer inférieur au loyer de référence. " sont ajoutés à la fin du même alinéa.
+
+### Art. 13
+
+A l'article 241 du Code, un nouvel alinéa 2 est inséré entre les alinéas 1er et 2, libellé comme suit :
+
+" Chacune des parties prenantes au bail ou une personne mandatée ou le juge peut saisir la commission paritaire locative visée à l'article 107/1 du Code, pour obtenir un avis sur la justesse du loyer prévue à l'alinéa 1er. Lorsque la Commission paritaire locative est saisie par une des parties prenantes au bail ou par une personne mandatée par elle et qu'elle rend un avis concluant à la révision de loyer, elle propose aux parties une conciliation limitée au montant du loyer. ".
+
+## CHAPITRE IV. - Dispositions finales et transitoires
+
+### Art. 14
+
+La présente ordonnance s'applique à tous les contrats, y compris ceux signés au jour de l'entrée en vigueur de la présente ordonnance.
+
+La présente ordonnance entre en vigueur le dixième jour après sa publication au Moniteur belge.
+
+[<sup>1</sup> Par dérogation à l'alinéa 2, les articles 8 à 13 de la présente ordonnance entrent en vigueur le 1er mai 2025]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2025-04-10/11, art. 2, 002; En vigueur : 30-04-2025&gt;
+
+---
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 28 octobre 2021.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé du Développement territorial et de la Rénovation urbaine, du Tourisme, de la Promotion de l'Image de Bruxelles et du Biculturel d'intérêt régional,
+
+R. VERVOORT
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée de la Mobilité, des Travaux publics et de la Sécurité routière,
+
+E. VAN DEN BRANDT
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale chargé de la Transition climatique, de l'Environnement, de l'Energie et de la Démocratie participative,
+
+A. MARON
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, de la Fonction publique, de la Promotion du Multilinguisme et de l'Image de Bruxelles,
+
+S. GATZ
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi et de la Formation professionnelle, de la Transition numérique et des Pouvoirs locaux,
+
+B. CLERFAYT
