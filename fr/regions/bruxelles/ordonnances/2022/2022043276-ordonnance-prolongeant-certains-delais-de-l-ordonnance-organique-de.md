@@ -1,0 +1,135 @@
+---
+title: "Ordonnance prolongeant certains délais de l'ordonnance organique de revitalisation urbaine du 6 octobre 2016 (OORU) et octroyant la faculté d'une ultime modification de programme et prolongeant un délai fixé dans l'ordonnance du 31 mai 2018 relative à l'octroi de subsides aux investissements en infrastructures sportives communales"
+identifier: "2022043276"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/12/23/2022043276/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2022-12-23
+published: 2023-01-25
+entry_into_force: 2023-01-25
+last_amended: 2025-09-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/12/23/2022043276/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "Consultation des versions antérieures à partir du 25-01-2023 et mise à jour au 24-09-2025"
+retrieved: 2026-10-12
+---
+
+# 23 DECEMBRE 2022. - Ordonnance prolongeant certains délais de l'ordonnance organique de revitalisation urbaine du 6 octobre 2016 (OORU) et octroyant la faculté d'une ultime modification de programme et prolongeant un délai fixé dans l'ordonnance du 31 mai 2018 relative à l'octroi de subsides aux investissements en infrastructures sportives communales
+
+## Art. 1er
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+Pour l'application de la présente ordonnance, il faut entendre par :
+
+1° ordonnance organique de la revitalisation urbaine, en abrégé, OORU : l'ordonnance organique de la revitalisation urbaine du 6 octobre 2016 ;
+
+2° ordonnance Infra Sport : l'ordonnance du 31 mai 2018 relative à l'octroi de subsides aux investissements en infrastructures sportives communales.
+
+## Art. 3
+
+§ 1er. Sont prolongés d'une durée de 6 mois :
+
+1° les délais visés à l'article 27, § 1er, alinéa 1er, de l'OORU, s'agissant de la phase d'exécution des 8e, 9e, 10e, 11e et 12e séries des contrats de quartiers durables ;
+
+2° les délais visés à l'article 27, § 2, de l'OORU, s'agissant de la phase de mise en oeuvre des 6e et 7e séries des contrats de quartiers durables ;
+
+3° le délai visé à l'article 45, § 1er, alinéa 1er, de l'OORU, s'agissant de la phase d'exécution des contrats de rénovation urbaine nos 1, 2, 3, 4 et 5 (1re série) et des contrats de rénovation nos 6 et 7 (2e série) ;
+
+4° le délai visé à l'article 58, § 1er, alinéa 1er, de l'OORU, s'agissant de la phase d'exécution des opérations de la politique de la ville par l'aménagement du territoire dont les subventions ont été octroyées par le Gouvernement de la Région de Bruxelles-Capitale en application de l'OORU ;
+
+5° le délai visé à l'article 58, § 2, alinéa 2, de l'OORU, s'agissant de la phase de mise en oeuvre des opérations de la politique de la ville par l'aménagement du territoire dont les subventions ont été octroyées par le Gouvernement de la Région de Bruxelles-Capitale en application de l'OORU ;
+
+6° le délai visé à l'article 65, § 1er, alinéa 1er, de l'OORU, s'agissant de la phase d'exécution de la programmation 2021-2025 des opérations de la politique de la ville par le développement des quartiers.
+
+§ 2. Sont octroyées les facultés de modifications de programmes suivantes :
+
+1° complémentairement à l'article 28 de l'OORU, une dernière faculté de modifier les programmes s'agissant des contrats de quartiers durables des 8e et 9e séries en phase d'exécution ;
+
+2° complémentairement à l'article 46 de l'OORU, une dernière faculté de modifier les programmes s'agissant des contrats de rénovation urbaine nos 1, 2, 3, 4 et 5 (1re série) en phase d'exécution ;
+
+3° les facultés complémentaires de modifications de programmes octroyées aux 1° et 2° sont soumises aux conditions suivantes :
+
+\- les modifications de programme ne peuvent comporter de compléments au programme ni d'inscription de nouvelles opérations ;
+
+\- les modifications de programme peuvent modifier le statut d'une opération, sans suppression totale ce celle-ci ;
+
+\- les modifications de programme ne peuvent pas augmenter le montant total de la subvention régionale accordée en application de l'OORU et de ses arrêtés d'exécution ;
+
+\- les modifications de programme sont soumises aux modalités de modification de programme inscrites à l'article 28, §§ 3 et 4, de l'OORU pour les contrats de quartiers durables des 8e et 9e séries en phase d'exécution et à l'article 46, §§ 2 et 3, pour les contrats de rénovation urbaine nos 1, 2, 3, 4 et 5 (1re série) en phase d'exécution ;
+
+\- les types de modifications de programme seront limités à :
+
+\- des transferts de budget entre opérations d'un même programme ;
+
+\- des redéfinitions des caractéristiques des interventions et des résultats attendus des opérations modifiées.
+
+§ 3. La date d'échéance des différentes phases visées aux §§ 1er et 2 est calculée en tenant compte :
+
+\- d'une éventuelle prolongation d'un délai d'exécution complémentaire de six mois déjà octroyée par le Gouvernement ou son délégué conformément aux articles 27, § 1er, alinéa 2 ; 45, § 1er, alinéa 2 ; 58, § 1er, alinéa 2, et 65, § 1er, alinéa 2, de l'OORU ;
+
+\- de la suspension des délais octroyée par l'arrêté n° 2020/001 du Gouvernement de la Région de Bruxelles-Capitale de pouvoirs spéciaux du 2 avril 2020 relatif à la suspension temporaire des délais de rigueur et de recours fixés dans l'ensemble de la législation et la réglementation bruxelloise ou adoptés en vertu celle-ci et des arrêtés du 16 avril 2020 et du 14 mai 2020 ayant prolongé la suspension des délais prévue par l'arrêté n° 2020/001 ;
+
+\- de la prolongation des délais octroyée par l'arrêté n° 2020/044 du Gouvernement de la Région de Bruxelles-Capitale de pouvoirs spéciaux du 18 juin 2020 prolongeant certains délais de l'ordonnance organique de revitalisation urbaine du 6 octobre 2016 ;
+
+\- de la prolongation des délais octroyée par l'ordonnance du 22 juillet 2021 prolongeant certains délais de l'ordonnance organique de revitalisation urbaine du 6 octobre 2016.
+
+## Art. 4
+
+Les prolongations visées à l'article 3 sont octroyées pour les différents programmes et opérations de revitalisation urbaine en phase d'exécution ou de mise en oeuvre au sens de l'OORU et actives au 1er janvier 2023.
+
+Par dérogation à l'alinéa précédent, la prolongation visée à l'article 3, § 1er, 3°, pour le contrat de rénovation urbaine n° 7 concerne la phase d'exécution dudit contrat de rénovation urbaine.
+
+## Art. 5
+
+En dérogation exceptionnelle de l'article 11, § 2, de l'arrêté relatif aux contrats de quartiers durables du 24 novembre 2016, les 6e, 7e, 8e, 9e, 10e, 11e et 12e séries des contrats de quartiers durables ont la possibilité de dépasser le pourcentage maximum d'affectation budgétaire destinée aux frais de coordination et communication d'un montant maximum de 150.000 euros.
+
+Cette faculté ne peut toutefois pas avoir pour effet d'augmenter le montant total de la subvention régionale accordée à ces programmes, en application de l'OORU et de ses arrêtés d'exécution.
+
+## Art. 6
+
+Le Gouvernement est habilité à prolonger, par arrêté motivé :
+
+\- pour une durée de maximum 6 mois supplémentaires, tout ou partie des délais des programmes ou opérations visées à l'article 3 ;
+
+\- pour une durée de maximum 6 mois supplémentaires, une opération pour circonstances exceptionnelles, d'ordre strictement opérationnel, lesquelles doivent être démontrées par le bénéficiaire.
+
+## Art. 7
+
+&lt;Abrogé par ORD 2025-07-17/23, art. 6, 002; En vigueur : 01-01-2025&gt;
+
+## Art. 8
+
+La présente ordonnance entre en vigueur le jour de sa publication au Moniteur belge.
+
+---
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 23 décembre 2022.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé du Développement territorial et de la Rénovation urbaine, du Tourisme, de la Promotion de l'Image de Bruxelles et du Biculturel d'intérêt régional,
+
+R. VERVOORT
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée de la Mobilité, des Travaux publics et de la Sécurité routière,
+
+E. VAN den BRANDT
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale chargé de la Transition climatique, de l'Environnement, de l'Energie et de la Démocratie participative,
+
+A. MARON
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, de la Fonction publique, de la Promotion du Multilinguisme et de l'Image de Bruxelles,
+
+S. GATZ
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi et de la Formation professionnelle, de la Transition numérique et des Pouvoirs locaux,
+
+B. CLERFAYT

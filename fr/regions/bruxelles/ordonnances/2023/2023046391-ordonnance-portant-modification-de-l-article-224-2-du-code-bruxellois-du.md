@@ -1,0 +1,91 @@
+---
+title: "Ordonnance portant modification de l'article 224/2 du Code bruxellois du Logement"
+identifier: "2023046391"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/10/13/2023046391/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2023-10-13
+published: 2023-10-27
+entry_into_force: 2023-10-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/10/13/2023046391/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-12
+---
+
+# 13 OCTOBRE 2023. - Ordonnance portant modification de l'article 224/2 du Code bruxellois du Logement
+
+## Art. 1er
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+Pour l'application de la présente ordonnance, l'on entend par :
+
+1° Code : l'ordonnance du 17 juillet 2003 portant le Code bruxellois du Logement ;
+
+2° Certificat PEB : certificat de performance énergétique.
+
+## Art. 3
+
+A l'article 224/2 du Code, il est inséré un paragraphe 1er/2 rédigé comme suit :
+
+" § 1er/2. 1° Par dérogation au § 1er, si le bien loué a un certificat PEB portant la classe énergétique E, le loyer obtenu en application de l'article 1728bis de l'ancien Code civil, est multiplié par un facteur de correction à partir du 14 octobre 2023.
+
+Si le contrat de bail a sa date d'anniversaire entre le 1er janvier 2023 et le 13 octobre 2023, le facteur de correction est obtenu en appliquant la formule suivante : 50 % x ((indice 2022 + indice 2023)/indice 2023)
+
+L'indice 2022 est égal à l'indice santé du mois précédant celui de la date anniversaire en 2022 de l'entrée en vigueur du contrat de bail.
+
+L'indice 2023 est égal à l'indice santé du mois précédant celui de la date anniversaire en 2023 de l'entrée en vigueur du contrat de bail.
+
+Si le contrat de bail a sa date anniversaire entre le 14 octobre 2022 et le 31 décembre 2022, le facteur de correction est obtenu en appliquant la formule suivante : 50 % x ((indice 2021 + indice 2022)/indice 2022).
+
+L'indice 2021 est égal à l'indice santé du mois précédant celui de la date anniversaire en 2021 de l'entrée en vigueur du contrat de bail.
+
+L'indice 2022 est égal à l'indice santé du mois précédant celui de la date anniversaire en 2022 de l'entrée en vigueur du contrat de bail.
+
+2° Par dérogation au § 1er, si le bien loué a un certificat PEB portant la classe énergétique F ou G, le loyer obtenu en application de l'article 1728bis de l'ancien Code civil, est multiplié par un facteur de correction à partir du 14 octobre 2023.
+
+Si le contrat de bail a sa date anniversaire entre le 1er janvier 2023 et le 13 octobre 2023, le facteur de correction est égal à l'indice santé du mois précédant la date anniversaire de l'entrée en vigueur en 2022, divisé par l'indice santé du mois précédant la date anniversaire de l'entrée en vigueur en 2023.
+
+Si le contrat de bail a sa date anniversaire entre le 14 octobre 2022 et le 31 décembre 2022, le facteur de correction est égal à l'indice santé du mois précédant la date anniversaire de l'entrée en vigueur en 2021, divisé par l'indice santé du mois précédant la date anniversaire de l'entrée en vigueur en 2022.
+
+Les dispositions contractuelles qui vont au-delà de l'ajustement visé au présent article peuvent être raccourcies jusqu'à cet ajustement. ".
+
+## Art. 4
+
+Au paragraphe 1er du même article du Code, les mots " du Code civil " sont remplacés par les mots " de l'ancien Code civil ".
+
+## Art. 5
+
+La présente ordonnance entre en vigueur le 14 octobre 2023.
+
+---
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 13 octobre 2023.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé du Développement territorial et de la Rénovation urbaine, du Tourisme, de la Promotion de l'Image de Bruxelles et du Biculturel d'intérêt régional,
+
+R. VERVOORT
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée de la Mobilité, des Travaux publics et de la Sécurité routière,
+
+E. VAN DEN BRANDT
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale chargé de la Transition climatique, de l'Environnement, de l'Energie et de la Démocratie participative,
+
+A. MARON
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, de la Fonction publique, de la Promotion du Multilinguisme et de l'Image de Bruxelles,
+
+S. GATZ
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi et de la Formation professionnelle, de la Transition numérique et des Pouvoirs locaux,
+
+B. CLERFAYT

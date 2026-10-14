@@ -1,0 +1,127 @@
+---
+title: "Ordonnance relative à l'octroi de subventions pluriannuelles s'inscrivant dans le cadre de la mise en oeuvre du Plan social santé intégré"
+identifier: "2024001673"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/02/22/2024001673/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2024-02-22
+published: 2024-02-29
+entry_into_force: 2024-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/02/22/2024001673/justel"
+department: "Commission communautaire commune"
+retrieved: 2026-10-12
+---
+
+# 22 FEVRIER 2024. - Ordonnance relative à l'octroi de subventions pluriannuelles s'inscrivant dans le cadre de la mise en oeuvre du Plan social santé intégré
+
+L'Assemblée réunie a adopté et Nous, Collège réuni, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+### Art. 1er
+
+La présente ordonnance règle une matière visée à l'article 135 de la Constitution.
+
+### Art. 2
+
+Pour l'application de la présente ordonnance, il faut entendre par:
+
+1° PSSI: le Plan social santé intégré bruxellois tel que visé à l'article 2, 4°, du décret et ordonnance conjoints du 22 décembre 2023 de la Commission communautaire commune et de la Commission communautaire française relatif à l'adoption et à la mise en oeuvre du Plan social santé intégré bruxellois;
+
+2° bénéficiaire: une association sans but lucratif telle que visée dans le Code des sociétés et des associations et qui a son siège d'activité sur le territoire de la région bilingue de Bruxelles-Capitale;
+
+3° petits investissements: l'équipement, les petits travaux de rénovation de locaux de bureaux, l'achat de meubles et de matériel pour le développement de l'activité, la peinture des locaux, etc. Sont exclus les investissements liés à l'achat d'un immeuble.
+
+## CHAPITRE 2. - Objet de la subvention
+
+### Art. 3
+
+Dans les limites des crédits disponibles, le Collège réuni peut octroyer des subventions pluriannuelles aux organisations dont les activités subsidiées s'inscrivent dans la mise en oeuvre du PSSI.
+
+Le Collège réuni fixe les priorités relatives à l'octroi de subventions pluriannuelles sur la base des orientations fixées dans le PSSI et de la durée antérieure du subventionnement de l'activité du bénéficiaire et détermine le montant de la subvention et ses modalités de calcul.
+
+### Art. 4
+
+Les subventions octroyées sur la base de la présente ordonnance ne peuvent l'être que si le projet répond aux critères minimaux suivants:
+
+1° s'inscrire dans les priorités visées à l'article 3, alinéa 2;
+
+2° proposer une activité ne faisant pas l'objet d'une réglementation qui soumet l'exercice de celle-ci à un agrément et qui prévoit un subventionnement à cet effet;
+
+3° avoir déjà bénéficié d'un subventionnement préalable de la Commission communautaire commune pour cette même activité depuis au moins trois ans.
+
+### Art. 5
+
+Les subventions sont octroyées pour couvrir des frais de personnel et de fonctionnement et les petits investissements.
+
+### Art. 6
+
+Le montant des subventions pluriannuelles visées par la présente ordonnance sont indexés annuellement au 1er janvier selon la formule suivante:
+
+Montant de la subvention de la première année octroyée dans le cadre de la présente ordonnance
+
+X
+
+Indice santé du mois de décembre de l'année précédente
+
+Indice santé du mois de décembre précédant la première année de subside dans le cadre de la présente ordonnance
+
+L'indice santé visé au présent article est l'index calculé et appliqué conformément à l'article 2, § 1er, de l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays.
+
+## CHAPITRE 3. - Durée, prolongation et retrait des subventions
+
+### Art. 7
+
+La première période de subventionnement a une durée de trois ans et peut être prolongée pour des durées ultérieures de cinq ans.
+
+Pour être prolongé, le projet doit bénéficier d'une évaluation positive ou positive sous condition.
+
+Dans le cas où le projet fait l'objet d'une évaluation négative, le subventionnement ne peut être prolongé.
+
+### Art. 8
+
+Le Collège réuni fixe la procédure d'introduction et de prolongation des projets ainsi que les modalités de liquidation des subventions, les conditions dans lesquelles les subventions peuvent être récupérées et les modalités de justification des subventions octroyées.
+
+## CHAPITRE 4. - Evaluation
+
+### Art. 9
+
+Les projets subventionnés sont évalués par les services du Collège réuni au terme de chaque période de trois ou cinq ans sur la base notamment des rapports d'activités.
+
+Le Collège réuni fixe les modalités d'évaluation et les éléments devant être repris dans le rapport d'activités.
+
+### Art. 10
+
+Les évaluations réalisées par les services du Collège réuni sont positives, positives sous condition ou négatives.
+
+## CHAPITRE 5. - Disposition finale
+
+### Art. 11
+
+La présente ordonnance produit ses effets au 1er janvier 2024.
+
+---
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 22 février 2024.
+
+La Membre du Collège réuni, en charge de l'Action sociale et de la Santé,
+
+E. VAN DEN BRANDT
+
+Le Membre du Collège réuni, en charge de l'Action sociale et de la Santé,
+
+A. MARON
+
+Le Membre du Collège réuni, en charge des Prestations familiales, du Budget, de la Fonction publique et des Relations extérieures,
+
+S. GATZ
+
+Le Membre du Collège réuni, en charge des Prestations familiales, du Budget, de la Fonction publique et des Relations extérieures,
+
+B. CLERFAYT
