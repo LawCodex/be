@@ -1,0 +1,91 @@
+---
+title: "Ordonnance relative au Fonds de réserve de la Région de Bruxelles-Capitale."
+identifier: "2002031300"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2002/01/10/2002031300/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2002-01-10
+published: 2002-06-14
+entry_into_force: 2001-12-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2002/01/10/2002031300/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 10 JANVIER 2002. - Ordonnance relative au Fonds de réserve de la Région de Bruxelles-Capitale.
+
+Le Conseil de la Région de Bruxelles-Capitale a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+Il est créé un organisme d'intérêt public, " Le Fonds de réserve de la Région de Bruxelles-Capitale ", dénommé ci-après " le Fonds de réserve ".
+
+Le Fonds de réserve est doté de la personnalité juridique.
+
+Le Fonds de réserve est un organisme d'intérêt public de la catégorie A au sens de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public.
+
+## Art. 3
+
+Le Fonds de réserve a pour but d'attribuer des dotations à la Région de Bruxelles-Capitale, dans les limites de ses moyens, afin de contribuer à la réalisation de l'équilibre budgétaire de cette dernière.
+
+## Art. 4
+
+Le Fonds de réserve est habilité à accomplir tout acte en rapport avec sa mission, en ce compris le placement de ses avoirs en valeurs publiques ou privées, et à l'exclusion des emprunts.
+
+## Art. 5
+
+Les moyens du Fonds de réserve sont constitués par les dotations inscrites en sa faveur au budget de la Région de Bruxelles-Capitale et par le produit du placement de ses avoirs.
+
+## Art. 6
+
+Le solde des moyens disponibles du Fonds de réserve en fin de l'exercice budgétaire, est automatiquement mis en réserve et ce sans limitation.
+
+## Art. 7
+
+Le Fonds de réserve est géré par le Gouvernement de la Région de Bruxelles-Capitale.
+
+Le Gouvernement de la Région de Bruxelles-Capitale met à la disposition du Fonds de réserve son personnel, son équipement et ses installations et ceci sans compensation.
+
+## Art. 8
+
+Chaque année, le Gouvernement dépose au Conseil de la Région de Bruxelles-Capitale le rapport sur l'activité du fonds de réserve. Il est accompagné des comptes annuels de l'exercice.
+
+## Art. 9
+
+L'article 1er, A , de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public est complété par les termes suivants : " Le Fonds de réserve de la Région de Bruxelles-Capitale ".
+
+## Art. 10
+
+Cette ordonnance entre en vigueur à la date déterminée par le Gouvernement de Bruxelles-Capitale et au plus tard le 21 décembre 2001.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 10 janvier 2002.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, de la Rénovation urbaine et de la Recherche scientifique,
+
+F.-X. de DONNEA
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Travaux publics, du Transport et de la Lutte contre l'Incendie et l'Aide médicale urgente,
+
+J. CHABERT
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie, de l'Energie et du Logement,
+
+E. TOMAS
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, de la Fonction publique et des Relations extérieures,
+
+G. VANHENGEL
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Environnement et de la Politique de l'Eau, de la Conservation de la Nature, de la Propreté publique et du Commerce extérieur,
+
+D. GOSUIN.

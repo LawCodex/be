@@ -1,0 +1,67 @@
+---
+title: "Ordonnance rendant applicable aux impôts régionaux les dispositions de la loi du 31 décembre 2003 instaurant une déclaration libératoire unique."
+identifier: "2004031278"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2004/05/13/2004031278/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2004-05-13
+published: 2004-06-23
+entry_into_force: 2004-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2004/05/13/2004031278/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 13 MAI 2004. - Ordonnance rendant applicable aux impôts régionaux les dispositions de la loi du 31 décembre 2003 instaurant une déclaration libératoire unique.
+
+Le Conseil de la Région de Bruxelles-Capitale a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+Les effets d'une déclaration régulièrement faite en application de l'article 2 de la loi du 31 décembre 2003 instaurant une déclaration libératoire unique s'étendent, aux conditions prescrites par ladite loi, aux impôts régionaux, y compris les accroissements, intérêts de retard et amendes, qui sont dus ou auraient pu être dus sur ces sommes, capitaux ou valeurs mobilières avant la date de l'introduction de la déclaration et toutes les dispositions de ladite loi sont applicables aux impôts régionaux, à l'exception de l'article 9.
+
+## Art. 3
+
+§ 1er. Par dérogation à l'article 2, la déclaration prévue à cet article est sans effet en ce qui concerne les droits de succession dus sur les sommes, capitaux ou valeurs mobilières qui font partie de la succession d'un habitant du Royaume ou qui sont censés en faire partie, dans les cas suivants :
+
+1° la succession est ouverte après le 31 décembre 2002;
+
+2° la succession, ouverte avant le 1er janvier 2003, n'a pas fait l'objet d'une déclaration de succession introduite avant le 1er juin 2003 ou dans le délai sur lequel l'Administration a marqué son accord par écrit avant cette date.
+
+§ 2. Par dérogation à l'article 2, la déclaration prévue à cet article est sans effet en ce qui concerne les droits d'enregistrement, pour lesquels les régions sont compétentes en vertu de l'article 3, 6° à 8°, de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions, dus sur les sommes, capitaux ou valeurs mobilières qui proviennent d'opérations qui ont été enregistrées après le 1er juin 2003 ou qui auraient dû l'être.
+
+## Art. 4
+
+La présente ordonnance produit ses effets le 1er janvier 2004.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 13 mai 2004.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, de la Rénovation urbaine et de la Recherche scientifique,
+
+J. SIMONET
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Travaux publics, du Transport et de la Lutte contre l'Incendie et l'Aide médicale urgente,
+
+J. CHABERT
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie, de l'Energie et du Logement,
+
+E. TOMAS
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, de la Fonction publique et des Relations extérieures,
+
+G. VANHENGEL
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Environnement et de la Politique de l'Eau, de la Conservation de la Nature, de la Propreté publique et du Commerce extérieur,
+
+D. GOSUIN.
