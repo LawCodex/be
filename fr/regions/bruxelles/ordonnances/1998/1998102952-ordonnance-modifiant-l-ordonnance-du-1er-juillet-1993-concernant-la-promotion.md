@@ -1,0 +1,63 @@
+---
+title: "Ordonnance modifiant l'ordonnance du 1er juillet 1993 concernant la promotion de l'expansion économique dans la Région de Bruxelles-Capitale."
+identifier: "1998102952"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1998/10/29/1998102952/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1998-10-29
+published: 1998-12-10
+entry_into_force: 1998-12-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1998/10/29/1998102952/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 29 OCTOBRE 1998. - Ordonnance modifiant l'ordonnance du 1er juillet 1993 concernant la promotion de l'expansion économique dans la Région de Bruxelles-Capitale.
+
+Le Conseil de la Région de Bruxelles-Capitale a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+L'article 2, 2°, de l'ordonnance du 1er juillet 1993 concernant la promotion de l'expansion économique dans la Région de Bruxelles-Capitale est remplacé comme suit :
+
+" 2° par entreprise moyenne :
+
+toute entreprise, autre que celles visées par la loi du 4 août 1978, exerçant des activités dans la Région de Bruxelles-Capitale et qui répond aux conditions à fixer le Gouvernement sur base de l'encadrement communautaire des aides d'Etat aux petites et moyennes entreprises établi par la Commission européenne; ".
+
+## Art. 3
+
+Aux articles 6, § 1er et 8, § 4 de la même ordonnance, les mots " aux trois critères de la définition de l'entreprise moyenne tels que stipulés " sont remplacés par les mots " à la définition de l'entreprise moyenne telle que stipulée ".
+
+## Art. 4
+
+La présente ordonnance entre en vigueur le jour de sa publication au Moniteur belge. Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 29 octobre 1998.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Emploi, du Logement et des Monuments et Sites,
+
+Ch. PICQUE
+
+Le Ministre de l'Economie, des Finances, du Budget, de l'Energie et des Relations extérieures,
+
+J. CHABERT
+
+Le Ministre de l'Aménagement du territoire, des Travaux publics et du Transport,
+
+H. HASQUIN
+
+Le Ministre de la Fonction publique, du Commerce extérieur, de la Recherche scientifique, de la Lutte contre l'incendie et de l'Aide médicale urgente,
+
+R. GRIJP
+
+Le Ministre de l'Environnement et de la Politique de l'eau, de la Rénovation, de la Conservation de la nature et de la Propreté publique,
+
+D. GOSUIN

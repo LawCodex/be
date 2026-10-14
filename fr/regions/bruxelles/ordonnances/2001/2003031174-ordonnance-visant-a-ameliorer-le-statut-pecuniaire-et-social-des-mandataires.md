@@ -1,0 +1,75 @@
+---
+title: "Ordonnance visant à améliorer le statut pécuniaire et social des mandataires des centres publics d'aide sociale et limitant le cumul du mandat de président d'un conseil de l'aide sociale avec d'autres fonctions."
+identifier: "2003031174"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2001/03/29/2003031174/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2001-03-29
+published: 2003-04-24
+entry_into_force: 2001-01-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2001/03/29/2003031174/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 29 MARS 2001. - Ordonnance visant à améliorer le statut pécuniaire et social des mandataires des centres publics d'aide sociale et limitant le cumul du mandat de président d'un conseil de l'aide sociale avec d'autres fonctions.
+
+L'Assemblée réunie a adopté et Nous, Collège réuni, sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 135 de la Constitution.
+
+## Art. 2
+
+§ 1er. Les dispositions contenues à l'article 38 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, forment l'article 38, § 1er.
+
+§ 2. L'article 38, alinéa 1er, de la même loi, qui devient l'article 38, § 1er, alinéa 1er, est remplacé par l'alinéa suivant :
+
+" Article 38, § 1er. Le traitement, le pécule de vacances, la prime de fin d'année et le régime de sécurité sociale du président sont identiques à ceux des échevins de la commune siège du centre public. Le Collège réuni de la Commission communautaire commune peut arrêter les modalités d'application de la présente disposition, tenant compte, notamment, de l'application du § 2 ".
+
+§ 3. L'article 38, alinéa 2, de la même loi, qui devient l'article 38, § 1er, alinéa 2, est remplacé par l'alinéa suivant :
+
+" Dans les limites et selon les conditions et modalités d'octroi déterminées par le Collège réuni de la Commission communautaire commune, le conseil de l'aide sociale accorde des jetons de présence à ses membres ".
+
+## Art. 3
+
+Un paragraphe 2 nouveau, libellé comme suit, est ajouté à l'article 38 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale :
+
+" § 2. La somme du traitement du président d'un conseil de l'aide sociale et des indemnités, traitements et jetons de présence perçus par le président en rétribution d'activités exercées en dehors de son mandat est égale ou inférieure à une fois et demie le montant de l'indemnité parlementaires perçue par les membres de la Chambre des Représentants et du Sénat.
+
+Sont pris en considération pour le calcul de ce montant, les indemnités, traitements ou jetons de présence découlant de l'exercice d'un mandat, d'une fonction ou d'une charge publiques d'ordre politique.
+
+En cas de dépassement de la limite fixée à l'alinéa 1er, le traitement du président est réduit à due concurrence.
+
+Lorsque les activités exercées en dehors du mandat de président d'un conseil de l'aide sociale débutent ou prennent fin en cours de mandat, le président concerné en informe le conseil de l'aide sociale. ".
+
+## Art. 4
+
+L'article 2 de la présente ordonnance entre en vigueur lors du renouvellement intégral du conseil communal de la commune siège du centre public suivant les élections du 8 octobre 2000.
+
+L'article 3 entre en vigueur le 31 janvier 2001.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 29 mars 2001.
+
+Le Membre du Collège réunie compétent pour la Politique de Santé,
+
+J.CHABERT
+
+Le Membre du Collège réuni compétent pour la Politique de Santé,
+
+D. GOSUIN
+
+Le Membre du Collège réuni compétent pour la Politique d'Aide aux Personnes,
+
+E. TOMAS
+
+Le Membre du Collège réuni compétent pour la Politique d'Aide aux Personnes,
+
+G. VANHENGEL.

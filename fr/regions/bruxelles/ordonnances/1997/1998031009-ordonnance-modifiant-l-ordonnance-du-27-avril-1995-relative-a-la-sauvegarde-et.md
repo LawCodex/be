@@ -1,0 +1,83 @@
+---
+title: "Ordonnance modifiant l'ordonnance du 27 avril 1995 relative à la sauvegarde et à la protection de la nature."
+identifier: "1998031009"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1997/12/18/1998031009/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1997-12-18
+published: 1998-03-10
+entry_into_force: 1998-03-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1997/12/18/1998031009/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 18 DECEMBRE 1997. - Ordonnance modifiant l'ordonnance du 27 avril 1995 relative à la sauvegarde et à la protection de la nature.
+
+Le Conseil de la Région de Bruxelles-Capitale a adopté et Nous, Gouvernement sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+Dans l'ordonnance du 27 avril 1995 relative à la sauvegarde et à la protection de la nature, il est inséré au chapitre IV du titre III un article 34bis, rédigé comme suit :
+
+"Article 34bis. Le Gouvernement peut arrêter un règlement régional de parc applicable aux parcs, jardins, squares, espaces verts et terrains non bâtis gérés par la Région de Bruxelles-Capitale accessibles au public et dénommés "parcs" et contenant des dispositions relatives :
+
+1° aux conditions et aux heures d'ouvertures et de fermeture;
+
+2° aux conditions d'accès du public;
+
+3° aux comportements obligatoires ou prohibés;
+
+4° à la tenue de manifestations ou réunions;
+
+5° à la surveillance."
+
+## Art. 3
+
+A l'article 40 de la même ordonnance, il est inséré entre le deuxième et le troisième tiret les dispositions suivantes :
+
+"- procéder à des contrôles d'identité;
+
+\- expulser toute personne qui ne respecte pas le règlement de parc et refuse d'obtempérer à leurs injonctions."
+
+## Art. 4
+
+L'article 41, alinéa 1er, de la même ordonnance est complété comme suit : "- toute personne qui contrevient aux dispositions d'un règlement établi conformément à l'article 34bis."
+
+## Art. 5
+
+L'article 45 de la même ordonnance est remplacé par la disposition suivante : "Le Gouvernement peut, en application de l'article 104 de l'ordonnance du 5 juin 1997 relative aux permis d'environnement, intégrer les dispositions de la présente ordonnance au Code bruxellois de l'environnement."
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 18 décembre 1997.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Emploi, du Logement et des Monuments et Sites,
+
+Ch. PICQUE
+
+Le Ministre de l'Economie, des Finances, du Budget de l'Energie et des Relations extérieures,
+
+J. CHABERT
+
+Le Ministre de l'Aménagement du Territoire,
+
+des Travaux publics et du Transport,
+
+H. HASQUIN
+
+Le Ministre de la Fonction publique, du Commerce extérieur, de la Recherche scientifique, de la Lutte contre l'Incendie et de l'Aide médicale urgente,
+
+R. GRIJP
+
+Le Ministre de l'Environnement et de la Politique de l'Eau, de la Rénovation, de la Conservation de la Nature et de la Propreté publique,
+
+D. GOSUIN

@@ -1,0 +1,301 @@
+---
+title: "Ordonnance modifiant la loi du 4 août 1978 de réorientation économique et portant création du Fonds bruxellois de Garantie"
+identifier: "1999031225"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1999/04/22/1999031225/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1999-04-22
+published: 1999-10-14
+entry_into_force: 1999-10-24
+last_amended: 2025-07-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1999/04/22/1999031225/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "Consultation des versions antérieures à partir du 14-10-1999 et mise à jour au 09-07-2025"
+retrieved: 2026-10-15
+---
+
+# 22 AVRIL 1999. - Ordonnance modifiant la loi du 4 août 1978 de réorientation économique et portant création du Fonds bruxellois de Garantie
+
+Le Conseil de la Région de Bruxelles-Capitale a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+Il est constitué un établissement public sous la dénomination " Fonds bruxellois de garantie ", en néerlandais " Brussels Waarborgfonds ".
+
+## Art. 3
+
+Le Fonds est doté de la personnalité juridique.
+
+Les actions en justice, tant en qualité de demandeur qu'en qualité de défendeur, sont intentées au nom du Fonds par son président.
+
+## Art. 4
+
+Le Fonds a une durée indéterminée.
+
+Il ne peut être dissous qu'en vertu d'une ordonnance qui règle les modalités de sa liquidation.
+
+## Art. 5
+
+Le Fonds a son siège dans la Région de Bruxelles-Capitale.
+
+## Art. 6
+
+Le Fonds est placé sous la tutelle du Gouvernement de la Région de Bruxelles-Capitale.
+
+## Art. 7
+
+[<sup>1</sup> § 1.]<sup>1</sup> Le Fonds a pour mission de facilité l'octroi de crédits professionnels dans la Région de Bruxelles-Capitale.
+
+Est considérée comme relevant du crédit professionnel : toute opération de crédit destinée à faciliter l'exercice, par une personne physique, d'une profession ou l'exploitation, par une personne morale, d'un commerce, d'une industrie ou d'une activité professionnelle relevant des Classes moyennes sans qu'il soit requis que le demandeur de crédit ait qualité de commerçant telle que définie par le titre 1er du Livre I du Code de commerce.
+
+Sont seuls éligibles à la garantie du Fonds, les entreprises, associations, personnes et établissements définis à l'article 2, a) à e), de la loi du 4 août 1978 de réorientation économique.
+
+La garantie du Fonds ne peut être sollicitée que pour les opérations définies à l'article 1er a) et à l'article 4 de la loi du 4 août 1978 de réorientation économique.
+
+Le Fonds ne peut intervenir que pour le financement d'activités menées en Région de Bruxelles-Capitale ou que pour y favoriser des investissements durables.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;ARR 2020/045 2020-06-19/23, art. 9, 002; En vigueur : 15-10-2020&gt;
+
+(2)&lt;ORD 2023-03-17/20, art. 26, 003; En vigueur : 01-07-2024&gt;
+
+## Art. 8
+
+Le Fonds sert à garantir, dans les limites de son intervention, le remboursement, en capital et intérêts, de crédits professionnels consentis par un des organismes visés à l'alinéa 2 du présent article.
+
+La garantie du Fonds ne peut être donnée qu'au profit d'une établissement de crédit soumis au contrôle de la Commission bancaire et financière instituée par l'arrêté royal n° 185 du 9 juillet 1935 ou d'établissements financiers de droit belge dont l'activité principale consiste à exercer une ou plusieurs des activités visées au points 2, 3 et 6 de la liste reprise au paragraphe 2 de l'article 3 de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit.
+
+## Art. 9
+
+Lorsque le demandeur de crédit offre des garanties d'ordre personnel, le Fonds peut intervenir pour suppléer à l'insuffisance des sûreté réelles ou personnelles fournies, que le demandeur ne soit pas à même de la constituer ou qu'il ne soit pas indiquée de les exiger.
+
+Par garantie d'ordre personnel, il y a lieu d'entendre notamment :
+
+a) l'honorabilité commerciale et les capacités professionnelles du demandeur;
+
+b) la valeur technique et économique du projet présenté;
+
+c) la viabilité de l'entreprise qui le présente.
+
+## Art. 10
+
+L'intervention du Fonds reposant sur le principe du partage du risque, il ne peut supporter la totalité de celui-ci.
+
+Une part de ce risque doit être supportée par l'établissement qui a octroyé le crédit et le demandeur de crédit doit constituer des garanties pour une partie de la somme empruntée.
+
+## Art. 11
+
+Le Fonds est administré par un conseil d'administration composé de treize membres domiciliés en Région de Bruxelles-Capitale et nommés par arrêté du Gouvernement de la Région de Bruxelles-Capitale.
+
+Il comprend :
+
+1° un président;
+
+2° douze membres possédant une compétence économique, financière ou juridique en matière de crédit ou de gestion d'entreprise, nommés selon les modalités suivantes :
+
+a) six membres sont nommés sur trois listes doubles de candidats présentés par la Chambre des Classes moyennes du Conseil économique et social de la Région de Bruxelles-Capitale;
+
+b) trois membres sont nommés sur trois listes doubles de candidats présentés par l'Association belge des Banques;
+
+c) trois membres sont nommés sur présentation du Conseil de la Région de Bruxelles-Capitale.
+
+Il se prononce sur les demandes d'octroi de garanties qui lui sont soumises.
+
+Le Gouvernement de la Région de Bruxelles-Capitale nomme d'après les mêmes règles un suppléant pour chacun des membres visés au 2° du second alinéa du présent article.
+
+## Art. 12
+
+Le mandat des administrateurs est de six ans. Il est renouvelable selon les règles prévues pour leur nomination. L'administrateur qui perd l'une ou l'autre des conditions de nomination cesse de faire partie du conseil d'administration.
+
+A l'échéance de leur mandat, les membres continuent à exercer leurs fonctions jusqu'à l'entrée en vigueur du renouvellement de leur mandat ou de la nomination de leur successeur.
+
+## Art. 13
+
+Le conseil d'administration nomme en son sein un vice-président.
+
+Le président et le vice-président sont d'expression linguistique différente.
+
+## Art. 14
+
+Chaque membre du conseil d'administration à voix délibérative. En cas de partage des voix, le président a voix prépondérante.
+
+Le conseil ne délibère valablement que si la moitié au moins de ses membres est présente.
+
+Au cas ou un membre du conseil a un intérêt personnel, direct ou indirect, dans une des questions débattues, il doit en avertir le conseil et ne peut prendre part à la délibération ni au vote, sauf décision unanime des autres membres présents.
+
+Si l'un au moins des membres du conseil le requiert, il doit être fait usage de la traduction simultanée.
+
+Les délibérations du conseil d'administration sont constatées par des procès-verbaux mentionnés dans des registres spéciaux tenues au siège social. Après leur approbation, ces procès-verbaux sont signé par le président et le vice-président ou, en cas d'empêchement, par deux administrateurs. Les expéditions ou extraits à délivrer à des tiers sont signés par le président ou, en cas d'empêchement, par le vice-président.
+
+## Art. 15
+
+Le président, le vice-président et les membres du conseil d'administration peuvent percevoir des jetons de présence dont le montant est fixé par le Gouvernement de la Région de Bruxelles-Capitale.
+
+## Art. 16
+
+Le contrôle du Fonds est exercé à l'intervention de deux commissaires du Gouvernement, nommés par le Gouvernement de la Région de Bruxelles-Capitale.
+
+Les commissaires du Gouvernement sont d'expression linguistique différente.
+
+Les commissaires du Gouvernement assistent aux réunions du conseil d'administration avec voix consultative. Ils ont, chacun, le droit en tout temps de procéder, dans le cadre de leurs attributions, à toutes les vérifications nécessaires et de se faire produire tous les renseignements et documents utiles à cet effet. Les ordres du jour et les procès-verbaux des réunions du conseil d'administration leur sont adressés en même temps qu'aux membres de celui-ci.
+
+Chaque commissaire du Gouvernement dispose d'un délai de quatre jours ouvrables pour prendre son recours contre l'exécution de toute décision qu'il estime contraire aux lois, aux ordonnances, arrêtés et à l'intérêt général.
+
+Le recours est suspensif. Ce délai court à partir du jour de la réunion à laquelle la décision a été prise pour autant que le commissaire du Gouvernement y ait été régulièrement convoqué et, dans le cas contraire, à partir du jour où il en a reçu connaissance.
+
+Les commissaires du Gouvernement exercent leur recours auprès du Gouvernement de la Région de Bruxelles-Capitale. Si dans le délai de dix jours ouvrables commençant le même jour que le délai visé à l'alinéa précédent, le Gouvernement saisi du recours n'a pas procédé à l'annulation, la décision devient définitive. L'annulation est notifiée au conseil d'administration du Fonds par le Gouvernement.
+
+La rémunération des commissaires du Gouvernement est fixée par le Gouvernement de la Région de Bruxelles-Capitale. Elle est supportée par le Fonds.
+
+## Art. 17
+
+Le conseil d'administration fixe les règles et directives qui régissent l'intervention du Fonds. Il les soumet à l'approbation du Gouvernement de la Région de Bruxelles-Capitale.
+
+Ces règles et directives prévoient notamment dans quelles conditions les décisions d'octroi de la garantie peuvent ne pas être soumises à l'autorisation préalable du Gouvernement de la Région de Bruxelles-Capitale et dans quelles conditions certains organismes de crédit peuvent décider directement de l'octroi de la garantie du Fonds.
+
+## Art. 18
+
+Dans le cas qu'il juge particulièrement intéressant, notamment au point de vue social, le Gouvernement de la Région de Bruxelles-Capitale peut, à la demande du conseil d'administration du Fonds autoriser ce dernier à donner la garantie du Fonds au-delà des limites fixées par les règles et directives visées à l'article 17 de la présente ordonnance.
+
+## Art. 19
+
+[<sup>1</sup> L'encours des engagements du Fonds est fixé à 90 millions d'euros. Cette limite peut être augmentée de quatre tranches de 12,5 millions d'euros chacune, par arrêté du Gouvernement de la Région de Bruxelles-Capitale ]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2025-07-03/03, art. 2, 004; En vigueur : 19-07-2025&gt;
+
+## Art. 19/1.
+
+[<sup>1</sup> Le Gouvernement de la Région de Bruxelles-Capitale remet chaque année au Parlement un rapport d'évaluation sur l'exécution des missions du Fonds bruxellois de garantie.
+
+Ce rapport contient notamment :
+
+1° l'évolution de l'encours des engagements;
+
+2° le pourcentage de défaut de paiement observé;
+
+3° le montant des primes perçues;
+
+4° une analyse de la pertinence du plafond d'intervention en vigueur à la lumière des besoins du tissu économique.
+
+Toute décision d'activation d'une tranche supplémentaire telle que visée à l'article 19 est soumise à un avis préalable du Parlement.
+
+Si le pourcentage moyen de défaut de paiement sur tous les engagements actifs dépasse 20 % au cours d'une année budgétaire, le gouvernement suspend toute nouvelle activation d'une tranche et soumet au Parlement une évaluation approfondie en vue d'une révision du plafond. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2025-07-03/03, art. 3, 004; En vigueur : 19-07-2025&gt;
+
+## Art. 20
+
+Le Fonds peut également servir à amortir les pertes subies par les sociétés de cautionnement mutuel que son conseil d'administration aura agréés aux termes d'une règlement préalablement soumis à l'approbation du Gouvernement de la Région de Bruxelles-Capitale.
+
+## Art. 21
+
+Un règlement général relatif à la gestion et au fonctionnement du Fonds est établi par le Gouvernement de la Région de Bruxelles-Capitale, après avis du conseil d'administration du Fonds.
+
+Ce règlement prévoit notamment :
+
+\- les modalités de l'examen des demandes de garantie;
+
+\- les modalités de contrôle financier, économique, technique dans les organismes de crédit et chez les bénéficiaires de la garantie du Fonds;
+
+\- les modalités de l'annulation des décisions non conformes aux règles et directives visées à l'article 17 de la présente ordonnance;
+
+\- les dispositions à prendre au cas ou le demandeur utilise les crédits à d'autres fins que celles qui ont justifié l'octroi de la garantie du Fonds ou les a obtenues à l'aide de déclarations inexactes;
+
+\- les dispositions à appliquer lorsque les organismes de crédit auront à résilier un crédit bénéficiant de la garantie du Fonds;
+
+\- les limites et les modalités de l'intervention du Fonds dans les pertes subies par les sociétés de cautionnement mutuel qu'il a agréées;
+
+\- le montant des jetons de présence alloués aux membres du conseil d'administration.
+
+## Art. 22
+
+Le Fonds est alimenté par :
+
+1° une contribution des organismes qui consentent des crédits garantis par le Fonds, calculée sur l'encours de leurs crédits garantis par le Fonds;
+
+2° une contribution des emprunteurs dont les engagements sont garantis par le Fonds, calculée sur l'encours de leurs crédits garantis par le Fonds;
+
+3° une contribution des sociétés de cautionnement mutuel agréées par le conseil d'administration du Fonds qui désirent bénéficier des dispositions de l'article 20 de la présente ordonnance, calculée sur l'encours de leur cautionnement.
+
+Sur proposition du conseil d'administration du Fonds, le Gouvernement de la Région de Bruxelles-Capitale détermine le montant et les modalités de perception des contributions à verser au Fonds en exécution de l'alinéa précédent du présent article.
+
+## Art. 23
+
+Au 31 décembre de chaque année, et pour la première fois le 31 décembre 1999, le conseil d'administration arrête le bilan et le compte de résultat. Ceux-ci sont transmis, avec le rapport du conseil d'administration et le rapport du réviseur nommé par le Gouvernement de la Région de Bruxelles-Capitale, avant le 30 avril suivant. Un exemplaire en est déposé sur le bureau du Conseil de la Région de Bruxelles-Capitale.
+
+L'excédent favorable du bilan, déduction faite des frais généraux, charges, amortissements et provisions, constitue le bénéfice du Fonds. Il est comptabilisé à un fonds de réserve dont l'utilisation est déterminée par le conseil d'administration.
+
+## Art. 24
+
+Les engagements du Fonds bénéficient de la garantie de bonne fin de la Région de Bruxelles-Capitale. Si, à la fin de l'exercice annuel du Fonds, son actif est insuffisant pour faire face aux débours, la Région paie définitivement au Fonds, à première demande, son solde déficitaire.
+
+## Art. 25
+
+La Région de Bruxelles-Capitale rembourse au Fonds ses frais de fonctionnement.
+
+## Art. 26
+
+Les administrateurs du Fonds ne contractent aucune obligation personnelle relativement aux engagements du Fonds.
+
+## Art. 27
+
+Le Fonds bruxellois de Garantie reprend les droits et obligations du Fonds de Garantie établie au sein de la S.A. " Crédit Professionnel " pour ce qui concerne les crédits garantis portant sur des investissements réalisés sur le territoire de la Région de Bruxelles-Capitale.
+
+Le Gouvernement de la Région de Bruxelles-Capitale dressera, dans les douze mois suivant l'entrée en vigueur de la présente ordonnance, un inventaire des droits et obligations ainsi repris.
+
+## Art. 28
+
+Dans le respect de la législation relative aux marchés publics, le conseil d'administration peut confier la gestion opérationnelle du Fonds à tout établissement de crédit ou établissement financier moyennant approbation par arrêté délibéré en Conseil des Ministres.
+
+Le gestionnaire opérationnel pourra être invité à participer aux séances du conseil d'administration avec voix consultative.
+
+## Art. 29
+
+Les articles 12 à 28 de la loi du 4 août 1978 de réorientation économique sont abrogés en ce qui concerne la Région de Bruxelles-Capitale et remplacés par la présente ordonnance.
+
+## Art. 30
+
+Jusqu'à la constitution du conseil d'administration du Fonds bruxellois de Garantie et pour un terme qui ne peut excéder douze mois, le garantie du Fonds pourra continuer à être accordée par le Comité de Gestion du Fonds de Garantie établi au sein de la S.A. " Crédit Professionnel " et ce, dans le respect du prescrit de son règlement interne fixé par l'arrêté du Gouvernement de la Région de Bruxelles-Capitale du 12 juin 1997.
+
+Au cours des dix-huit mois qui suivent la mise en vigueur de la présente ordonnance, la gestion opérationnelle du Fonds pourra continuer à être assurée par la S.A. " Crédit Professionnel ".
+
+---
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 22 avril 1999.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Emploi, du Logement et des Monuments et Sites,
+
+Ch. PICQUE
+
+Le Ministre de l'Economie, des Finances, du Budget de l'Energie et des Relations extérieures,
+
+J. CHABERT
+
+Le Ministre de l'Aménagement du Territoire, des Travaux publics et du Transport,
+
+H. HASQUIN
+
+Le Ministre de la Fonction publique, du Commerce extérieur, de la Recherche scientifique de la lutte contre l'Incendie et de l'Aide médicale urgente
+
+R. GRIJP
+
+Le Ministre de l'Environnement et de la Politique de l'Eau, de la Rénovation, de la Conservation de la Nature et de la Propreté publique,
+
+D. GOSUIN

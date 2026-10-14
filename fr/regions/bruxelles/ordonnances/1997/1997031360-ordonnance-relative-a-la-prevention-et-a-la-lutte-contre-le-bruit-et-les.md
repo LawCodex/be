@@ -1,0 +1,791 @@
+---
+title: "[ Ordonnance relative à la prévention et à la lutte contre le bruit et les vibrations en milieu urbain]. <ORD 2024-05-16/17 , art. 3, 011; En vigueur : 13-06-2024>"
+identifier: "1997031360"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1997/07/17/1997031360/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1997-07-17
+published: 1997-10-23
+entry_into_force: 1998-07-21
+last_amended: 2024-06-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1997/07/17/1997031360/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "Consultation des versions antérieures à partir du 23-10-1997 et mise à jour au 03-06-2024"
+retrieved: 2026-10-15
+---
+
+# 17 JUILLET 1997. - [ Ordonnance relative à la prévention et à la lutte contre le bruit et les vibrations en milieu urbain]. &lt;ORD 2024-05-16/17 , art. 3, 011; En vigueur : 13-06-2024&gt;
+
+Le Conseil de la Région de Bruxelles-Capitale a adopté et Nous, Gouvernement sanctionnons ce qui suit :
+
+## CHAPITRE I. - Objectifs.
+
+#### Art. 1
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+#### Art. 2
+
+Au sens de la présente ordonnance, on entend par :
+
+1° source : toute production de bruit ou de vibrations, intérieure ou extérieure [<sup>1</sup> , permanente ou temporaire, récurrente ou occasionnelle]<sup>1</sup>;
+
+2° immeubles occupés : tous les immeubles à usage d'habitation et de logement ou abritant une activité humaine;
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+(5° " bruit dans l'environnement " : le son extérieur non désiré ou nuisible résultant d'activités humaines, y compris le bruit émis par les moyens de transports, le trafic routier, ferroviaire ou aérien, et provenant de sites d'activité industrielle [<sup>1</sup> ...]<sup>1</sup>;
+
+6° " effets nuisibles " : les effets néfastes pour la santé humaine;
+
+7° " gêne " : le degré de nuisance généré par le [<sup>1</sup> bruit et/ou les vibrations]<sup>1</sup> dans l'environnement, déterminé par des enquêtes sur le terrain;
+
+8° " indicateur de bruit " : une grandeur physique décrivant le bruit dans l'environnement, qui est corrélé à un effet nuisible;
+
+9° " évaluation " : toute méthode servant à calculer, prévoir, estimer ou mesurer la valeur d'un indicateur de bruit ou les effets nuisibles correspondants;
+
+10° " Lden " : (indicateur de bruit jour-soir-nuit) : l'indicateur de bruit associé globalement à la gêne, défini plus précisément à l'annexe I;
+
+11° " Lday " : (indicateur de bruit période diurne) : l'indicateur de bruit associé à la gêne pendant la période diurne, définis plus précisément à l'annexe I;
+
+12° " Levening " : (indicateur de bruit pour le soir) : l'indicateur de bruit associé à la gêne le soir, défini plus précisément à l'annexe 1re;
+
+13° " Lnight " (indicateur de bruit période nocturne) : l'indicateur de bruit associé aux perturbations du sommeil, défini plus précisément à l'annexe 1;
+
+14° " relation dose-effet " : la relation existant entre la valeur d'un indicateur de bruit et un effet nuisible;
+
+15° " zone calme de la Région de Bruxelles-Capitale " : une zone délimitée par le Gouvernement qui, par exemple, n'est pas exposée à une valeur de Lden, ou d'un autre indicateur de bruit approprié, supérieure à une certaine valeur déterminée par le Gouvernement, quelle que soit la source de bruit considérée;
+
+16° [<sup>1</sup> ...]<sup>1</sup>
+
+17° " grand axe routier " : une route communale, régionale, nationale ou internationale, désignée par le Gouvernement, sur laquelle sont enregistrés plus de trois millions de passages de véhicules par an;
+
+18° " grand axe ferroviaire " : une voie de chemin de fer, désignée par le Gouvernement, sur laquelle sont enregistrés plus de 30 000 passages de trains par an;
+
+19° " cartographie du bruit " : la représentation de données décrivant une situation sonore existante ou prévue en fonction d'un indicateur de bruit, indiquant les dépassements de valeurs limites pertinentes en vigueur, le nombre de personnes touchées dans une zone donnée ou le nombre d'habitations exposées à certaines valeurs d'un indicateur de bruit dans une zone donnée;
+
+20° " carte de bruit stratégique " : une carte conçue pour permettre l'évaluation globale de l'exposition au bruit dans une zone donnée soumise à différentes sources de bruit ou pour établir des prévisions générales pour cette zone;
+
+21° " valeur limite " : une valeur de Lden ou Lnight, et, le cas échéant, de Lday et de Levening, déterminée- par le Gouvernement, dont le dépassement amène les autorités compétentes à envisager ou à faire appliquer des mesures de réduction du bruit; les valeurs limites peuvent varier en fonction du type de bruit (bruit du trafic routier, ferroviaire ou aérien, bruit industriel, etc.), de l'environnement, et de la sensibilité au bruit des populations; elles peuvent aussi différer pour les situations existantes et pour les situations nouvelles (changement de situation dû à un élément nouveau concernant la source de bruit ou l'utilisation de l'environnement);
+
+22° " plan d'action " : un plan visant à gérer les problèmes de bruit et les effets du bruit, y compris, si nécessaire, la réduction du bruit;
+
+23° " planification acoustique " : la lutte contre le bruit futur au moyen de mesures planifiées, telles que l'aménagement du territoire, l'ingénierie des systèmes de gestion du trafic, la planification de la circulation, la réduction du bruit par des mesures d'isolation acoustiques et la lutte contre le bruit à la source;
+
+24° " public " : une ou plusieurs personnes physiques ou morales, ainsi que les associations, organisations ou groupes rassemblant ces personnes[<sup>1</sup> ;]<sup>1</sup>) &lt;ORD 2004-04-01/52, art. 3, 006; En vigueur : 06-05-2004&gt;
+
+[<sup>1</sup> 25° " grand aéroport ": un aéroport civil, désigné par le Gouvernement, qui enregistre plus de 50.000 mouvements par an (le terme " mouvement " désignant un décollage ou un atterrissage), à l'exception des mouvements effectués exclusivement à des fins d'entraînement sur des avions légers;
+
+26° " agglomération ": une partie du territoire au sein de laquelle la population est supérieure à 100.000 habitants et dont la densité de population est telle qu'elle est considérée comme une zone urbaine;
+
+27° " bâtiment et zone sensible au bruit ": bâtiment ou zone affecté aux logements, écoles et autres lieux d'enseignement, crèches et hôpitaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 4, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 3
+
+La présente ordonnance a pour objet :
+
+(1° d'éviter, prévenir ou réduire en priorité les effets nuisibles, y compris la [<sup>1</sup> gêne]<sup>1</sup>, de l'exposition au [<sup>1</sup> bruit et aux vibrations ]<sup>1</sup> dans l'environnement.
+
+La présente ordonnance s'applique plus particulièrement au [<sup>1</sup> bruit et aux vibrations ]<sup>1</sup> l'environnement auquel sont exposés les êtres humains dans les espaces bâtis, les parcs publics ou d'autres lieux calmes d'une agglomération, [<sup>1</sup> ...]<sup>1</sup>, à proximité des écoles, aux abords des hôpitaux ainsi que d'autres bâtiments et zones sensibles au bruit.) &lt;ORD 2004-04-01/52, art. 4, 006; En vigueur : 06-05-2004&gt;
+
+2° (...) &lt;ORD 2004-04-01/52, art. 4, 006; En vigueur : 06-05-2004&gt;
+
+3° la protection des occupants des immeubles occupés contre [<sup>1</sup> le bruit et les vibrations ]<sup>1</sup>.
+
+(La présente ordonnance ne s'applique pas au bruit produit par la personne exposée elle-même, [<sup>1</sup> au bruit et aux vibrations perçus]<sup>1</sup> sur les lieux de travail ou à l'intérieur des moyens de transport, ni [<sup>1</sup> au bruit et aux vibrations résultant ]<sup>1</sup> d'activités militaires dans les zones militaires.) &lt;ORD 2004-04-01/52, art. 4, 006; En vigueur : 06-05-2004&gt;
+
+En tenant compte des possibilités techniques [<sup>1</sup> , y compris des meilleures techniques disponibles au sens de l'ordonnance du 5 juin 1997 relative aux permis d'environnement, ]<sup>1</sup> et de l'évolution technologique et de l'impact économique de la mesure, le Gouvernement [<sup>1</sup> veille]<sup>1</sup> par priorité :
+
+1° à la réduction à la source des bruits et vibrations;
+
+2° à la mise en place de protections acoustiques adéquates limitant l'[<sup>1</sup> l'émission et la propagation]<sup>1</sup> des bruits et vibrations;
+
+3° à l'isolation contre les bruits et vibrations des immeubles occupés [<sup>1</sup> ...]<sup>1</sup>, et à l'indemnisation des personnes lésées.
+
+[<sup>1</sup> Le Gouvernement veille à la protection des bâtiments et zones sensibles au bruit au moyen de mesures préventives et de mesures correctrices. ]<sup>1</sup>
+
+[<sup>1</sup> Le Gouvernement veille à ce que les mesures liées à la prévention et à la lutte contre le bruit et les vibrations tiennent compte de la nécessité d'assurer des services d'utilité publique, dont les services réguliers de transport en commun. ]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 5, 011; En vigueur : 13-06-2024&gt;
+
+## CHAPITRE II. - (Cartographie stratégique du bruit et planification de la lutte contre le bruit.) &lt;ORD 2004-04-01/52, art. 5, 006; En vigueur : 06-05-2004&gt;
+
+### Section 1. - Cartographie stratégique du bruit. &lt;Insérée par ORD 2004-04-01/52, art. 6; En vigueur : 06-05-2004&gt;
+
+#### Art. 4
+
+&lt;Inséré par ORD 2004-04-01/52, art. 6; En vigueur : 06-05-2004&gt; § 1er. L'Institut établit, au plus tard le 30 juin 2007, des cartes de bruit stratégiques [<sup>2</sup> du bruit des transports routier, ferroviaire et aérien, ainsi que, le cas échéant, des sites d'activités industrielles ]<sup>2</sup> montrant la situation au cours de l'année civile précédente pour la Région de Bruxelles-Capitale [<sup>2</sup> dont l'ensemble du territoire constitue une agglomération]<sup>2</sup>.
+
+[<sup>2</sup> ...]<sup>2</sup>. Au plus tard au le 30 juin 2005, puis tous les cinq ans, l'Institut informe la [<sup>2</sup> Commission européenne ]<sup>2</sup>, des grands axes routiers dont le trafic dépasse six millions de passages de véhicule par an, des grands axes ferroviaires dont le trafic dépasse 60 000 passages de train par an [<sup>2</sup> situés sur le territoire de la Région de Bruxelles-Capitale et des grands aéroports situés à proximité]<sup>2</sup> de la Région de Bruxelles-Capitale. Le Gouvernement adopte les mesures nécessaires pour que, au plus tard le 30 juin 2012, puis tous les cinq ans, des cartes de bruit stratégiques montrant la situation au cours de l'année civile précédente soient établies pour la Région de Bruxelles-Capitale, [<sup>2</sup> pour les axes routiers, pour les axes ferroviaires ]<sup>2</sup> situés sur son territoire et pour le survol de son territoire.
+
+Ces cartes sont établies par l'Institut [<sup>2</sup> ...]<sup>2</sup>.
+
+Au plus tard le 31 décembre 2008, l'Institut informe la [<sup>2</sup> Commission européenne ]<sup>2</sup> de tous les - rands axes routiers et ferroviaires situés sur le territoire de la Région de Bruxelles-Capitale.
+
+Les cartes de bruit stratégiques répondent aux prescriptions minimales énoncées à l'annexe IV.
+
+[<sup>2</sup> La Région coopère avec les régions limitrophes pour la cartographie stratégique du bruit dans les régions frontalières.
+
+Bruxelles Environnement et toute autorité publique ou gestionnaire de trafic routier, ferroviaire et aérien et d'infrastructures de transport liées coopèrent en vue d'obtenir les données nécessaires à l'établissement des cartes de bruit stratégiques. ]<sup>2</sup>
+
+Les cartes de bruit stratégiques sont réexaminées et, le cas échéant, révisées tous les cinq ans au moins à compter de leur date d'élaboration.
+
+§ 2. Pour l'établissement et la révision des cartes de bruit stratégiques, l'Institut utilise, [<sup>2</sup> ...]<sup>2</sup> les indicateurs de bruit Lden et Lnight définies à l'[<sup>2</sup> annexe I ]<sup>2</sup>.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+L'Institut peut également utiliser des indicateurs de bruit supplémentaires pour des cas particuliers, tels que ceux énumérés à l'[<sup>2</sup> annexe I ]<sup>2</sup>, point 3.
+
+Au plus tard le 18 juillet 2005, l'Institut communique à la [<sup>2</sup> Commission européenne ]<sup>2</sup> les informations relatives à toute valeur limite pertinente en vigueur ou envisagée sur son territoire, exprimée en Lden et en Lnight et, le cas échéant, en Lday et en [<sup>2</sup> Levening ]<sup>2</sup> pour le bruit de la circulation routière, pour le bruit de la circulation ferroviaire, pour le bruit des avions [<sup>2</sup> sur le territoire bruxellois]<sup>2</sup> et pour le bruit sur les sites d'activité industrielle. Ces informations sont assorties d'explications quant à la mise en oeuvre des valeurs limites.
+
+§ 3. Les valeurs de Lden et Lnight sont déterminées à l'aide des méthodes d'évaluation définies à l'annexe Il [<sup>1</sup> intitulée "Méthodes d'évaluation pour les indicateurs de bruit (visées à l'article 6 de la directive 2002/49/CE)"]<sup>1</sup>. Les effets nuisibles peuvent être évalués à l'aide des relations dose-effet définies à l'annexe III.
+
+§ 4. [<sup>2</sup> Bruxelles Environnement transmet les cartes de bruit stratégiques au Gouvernement qui les présente au Parlement. Bruxelles Environnement met les cartes de bruit stratégiques à la disposition du public sur son site internet. ]<sup>2</sup> Ces informations devront être claires, compréhensibles et accessibles, et accompagnées d'un résumé exposant les principaux points des cartes.
+
+[<sup>2</sup> Bruxelles Environnement veille à ce que les informations fournies par les cartes de bruit stratégiques visées à l'annexe VI soient transmises à la Commission européenne dans un délai de six mois à dater de leur transmission au Gouvernement. ]<sup>2</sup>
+
+----------
+
+(1)&lt;ORD 2018-04-19/20, art. 3, 009; En vigueur : 24-05-2018&gt;
+
+(2)&lt;ORD 2024-05-16/17, art. 6, 011; En vigueur : 13-06-2024&gt;
+
+### Section II. [<sup>1</sup> Planification de la prévention et de la lutte contre le bruit et les vibrations ]<sup>1</sup>. &lt;Insérée par ORD 2004-04-01/52, art. 8; En vigueur : 06-05-2004&gt;
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 7, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 4bis
+
+[<sup>1</sup> §1.]<sup>1</sup> (ancien art. 4) L'Institut est chargé [<sup>1</sup> de rédiger]<sup>1</sup> un [<sup>1</sup> plan régional de prévention et de lutte contre le bruit et les vibrations]<sup>1</sup> dénommé ci-après " le plan " et comprenant : &lt;ORD 2004-04-01/52, art. 7, 006; En vigueur : 06-05-2004&gt;
+
+1° un cadastre du bruit permettant d'une part d'identifier et de décrire l'origine, les causes et les caractéristiques acoustiques des bruits du système urbain relatifs à la circulation routière, au trafic aérien et au trafic ferroviaire et d'autre part de localiser les zones, espaces bâtis et non bâtis et rues où le niveau sonore est particulièrement (élevé); &lt;ORD 2004-04-01/52, art. 9, 006; En vigueur : 06-05-2004&gt;
+
+2° [<sup>1</sup> stratégie générale de prévention et de lutte contre le bruit et les vibrations]<sup>1</sup>incluant (notamment) des mesures préventives y compris des mesures de sensibilisation de la population, des recommandations relatives à l'art de bâtir et à l'urbanisme et des mesures correctrices à l'égard des [<sup>1</sup> nuisances sonores et vibratoires]<sup>1</sup> existantes. (La stratégie inclut aussi des mesures de protection des zones calmes contre l'augmentation du bruit;) &lt;ORD 2004-04-01/52, art. 9, 006; En vigueur : 06-05-2004&gt;
+
+3° une évaluation des normes techniques ou réglementaires, des moyens financiers, des actions de sensibilisation et d'information de la population et des entreprises, nécessaires à la réalisation des objectifs du plan.
+
+[<sup>1</sup> § 2. Le plan doit satisfaire aux prescriptions minimales énoncées à l'annexe V.
+
+Le Gouvernement choisit les mesures figurant dans le plan mais celles-ci doivent notamment répondre aux priorités pouvant résulter du dépassement de toute valeur limite pertinente ou de l'application d'autres critères choisis par le Gouvernement et s'appliquer en particulier aux zones les plus importantes déterminées par la cartographie stratégique du bruit.
+
+Bruxelles Environnement informe la Commission européenne des autres critères pertinents visés à l'alinéa précédent.
+
+Pour la planification ou le zonage acoustique, le Gouvernement peut utiliser des indicateurs de bruit autres que Lden et Lnight.
+
+§ 3. Bruxelles Environnement rédige le projet de plan régional de prévention et de lutte contre le bruit et les vibrations, en association avec Bruxelles Mobilité, perspective.brussels et urban.brussels.
+
+Le Gouvernement arrête le projet de plan régional de prévention et de lutte contre le bruit et les vibrations.
+
+Ce projet de plan régional de prévention et de lutte contre le bruit et les vibrations est soumis à une évaluation environnementale conformément aux dispositions de l'ordonnance du 18 mars 2004 relative à l'évaluation des incidences de certains plans et programmes sur l'environnement.
+
+Le Gouvernement adopte le plan régional de prévention et de lutte contre le bruit et les vibrations. Le plan régional de prévention et de lutte contre le bruit et les vibrations est publié par extrait au Moniteur belge et notifié à la Commission européenne.
+
+Le Gouvernement présente le plan régional de prévention et de lutte contre le bruit et les vibrations au Parlement. Bruxelles Environnement met le plan régional de prévention et de lutte contre le bruit et les vibrations à la disposition du public sur son site internet.
+
+Bruxelles Environnement veille à ce que le résumé du plan d'action visé à l'annexe VI soit transmis à la Commission européenne dans un délai de six mois à compter de son adoption.
+
+§ 4. Au moins tous les cinq ans, Bruxelles Environnement procède à une évaluation de l'exécution du plan régional de prévention et de lutte contre le bruit et les vibrations. Bruxelles Environnement peut procéder à cette évaluation dans une période plus rapprochée. Bruxelles Environnement transmet son rapport au Gouvernement.
+
+Le plan régional de prévention et de lutte contre le bruit et les vibrations est réexaminé et, le cas échéant, révisé lorsque survient un fait nouveau majeur affectant la situation en matière de bruit et de vibrations, et au moins tous les cinq ans.
+
+§ 5. Les dispositions du plan régional de prévention et de lutte contre le bruit et les vibrations sont impératives à l'égard des pouvoirs publics soumis au contrôle de la Région et indicatives pour les autres sujets de droit.
+
+La mise en oeuvre des mesures du plan régional de prévention et de lutte contre le bruit et les vibrations fait l'objet d'une répartition entre les administrations régionales en fonction de leurs attributions]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 8, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 5
+
+&lt;Abrogé par ORD 2024-05-16/17, art. 9, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 6
+
+&lt;Abrogé par ORD 2024-05-16/17, art. 10, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 7
+
+&lt;Abrogé par ORD 2024-05-16/17, art. 11, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 7bis
+
+&lt;Inséré par ORD 2004-04-01/52, art. 12; En vigueur : 06-05-2004&gt; Le plan d'action visé à l'article 4bis de la présente ordonnance est complété au plus tard le 18 juillet 2013 par des plans d'action spécifiques destinés à répondre aux priorités pouvant résulter du dépassement de toute valeur limite pertinente ou de l'application d'autres critères pour la Région de Bruxelles-Capitale, ainsi que pour les grands axes routiers et les grands axes ferroviaires situés sur son territoire.
+
+#### Art. 7ter
+
+&lt;Abrogé par ORD 2024-05-16/17, art. 12, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 8
+
+§ 1er. Le Conseil communal peut édicter des [<sup>1</sup> stratégies de prévention et de lutte contre le bruit et les vibrations au niveau local]<sup>1</sup> pour tout ou partie du territoire communal. [<sup>1</sup> Ces stratégies de prévention et de lutte contre le bruit et les vibrations au niveau local ]<sup>1</sup> respectent les dispositions et objectifs du plan. [<sup>1</sup> Ces stratégies de prévention et de lutte contre le bruit et les vibrations au niveau local tiennent compte de la nécessité d'assurer des services d'utilité publique, dont les services réguliers de transport en commun. ]<sup>1</sup>
+
+§ 2. Après avoir recueilli l'avis de l'Institut quant à sa conformité par rapport au plan et aux [<sup>1</sup> réglementations existantes relatives au bruit et aux vibrations ]<sup>1</sup>, le Conseil communal adopte provisoirement le projet de [<sup>1</sup> stratégie de prévention et de lutte contre le bruit et les vibrations au niveau local ]<sup>1</sup> et le soumet à une enquête publique de trente jours.
+
+L'Institut dispose d'un délai de trente jours pour remettre son avis. A défaut d'avis dans ce délai, celui-ci est réputé favorable.
+
+La commune affiche un avis d'enquête à la maison communale au moins huit jours avant le début de l'enquête publique et pendant toute sa durée.
+
+L'avis d'enquête indique les dates du début et de la fin de l'enquête publique ainsi que les modalités pratiques de l'enquête.
+
+§ 3. Pendant la durée de l'enquête publique, le projet de [<sup>1</sup> stratégie de prévention et de lutte contre le bruit et les vibrations au niveau local ]<sup>1</sup> peut être consulté à l'administration communale durant les jours ouvrables au moins pendant trois heures par jour. Un jour par semaine, le projet de [<sup>1</sup> stratégie de prévention et de lutte contre le bruit et les vibrations au niveau local ]<sup>1</sup> peut être consulté jusqu'à vingt heures.
+
+Pendant la durée de l'enquête publique, toute personne physique ou morale peut exprimer ses observations par écrit [<sup>1</sup> , y compris par voie électronique,]<sup>1</sup> au Collège des bourgmestre et échevins. Tout envoi doit porter le nom, l'adresse et la signature de son auteur.
+
+Un procès-verbal de clôture de l'enquête publique, auquel sont jointes les observations écrites, est dressé par le bourgmestre dans les quinze jours de la fin de l'enquête publique et transmis au Conseil communal.
+
+§ 4. Dans les trente jours qui suivent la transmission du procès-verbal de clôture de l'enquête publique, le Conseil communal adopte définitivement [<sup>1</sup> la stratégie de prévention et de lutte contre le bruit et les vibrations au niveau local]<sup>1</sup> (en tenant compte notamment des résultats de l'enquête publique). Lorsque le Conseil communal s'écarte des observations formulées pendant l'enquête publique, sa décision est motivée. &lt;ORD 2004-04-01/52, art. 14, 006; En vigueur : 06-05-2004&gt;
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 13, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 8bis
+
+&lt;Abrogé par ORD 2024-05-16/17, art. 14, 011; En vigueur : 13-06-2024&gt;
+
+## CHAPITRE III. [<sup>1</sup> Mesures de prévention et de lutte contre le bruit et les vibrations ]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 15, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 9
+
+Le Gouvernement [<sup>1</sup> peut prendre ]<sup>1</sup> toutes mesures destinées à :
+
+1° limiter [<sup>1</sup> le bruit et les vibrations occasionnés par des sources, notamment par la définition de seuils d'émission ou d'immission ou l'édiction de conditions spécifiques permettant de limiter ce bruit et ces vibrations ]<sup>1</sup>;
+
+2° établir, pour les sources [<sup>1</sup> de bruit et de vibrations, des seuils et des conditions ]<sup>1</sup> en fonction de leur provenance, de leur localisation urbanistique, de leurs caractéristiques acoustiques et de la nécessité de protéger plus particulièrement les occupants d'immeubles situés dans des zones déterminées;
+
+3° réglementer l'utilisation d'appareils, dispositifs ou objets en fonction des circonstances où des bruits ou vibrations produits ou susceptibles d'être produits seraient particulièrement gênants;
+
+4° favoriser, le cas échéant par l'octroi [<sup>1</sup> de primes ou ]<sup>1</sup> de subsides, le placement et l'utilisation d'appareils, de matériaux de construction ou de dispositifs destinés à réduire le bruit ou les vibrations, à les absorber ou à remédier à leurs inconvénients;
+
+5° favoriser, le cas échéant par l'octroi de primes ou de subsides, l'acquisition et la formation à l'utilisation [<sup>1</sup> de matériel de mesures de bruit ou de vibrations et de sensibilisation]<sup>1</sup>.
+
+[<sup>1</sup> 6° fixer des seuils ou des conditions pour améliorer les performances acoustiques des constructions ou des bâtiments;
+
+7° fixer des seuils d'émission ou d'immission spécifiques applicables aux établissements ouverts au public, ainsi que toute condition ou mesure utile pour limiter le bruit et les vibrations liés à l'exploitation de ces établissements;
+
+8° informer, sensibiliser et accompagner toute personne concernée par les mesures de prévention et de lutte contre le bruit et les vibrations. ]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 16, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 10
+
+§ 1er. Un tiers des personnes, propriétaires ou non, âgées de dix-huit ans au moins, domiciliées dans le périmètre qu'elles déterminent et dans les îlots contigus, peuvent [<sup>1</sup> interpeller toute autorité ou acteur public, par l'intermédiaire de Bruxelles Environnement, afin d'étudier les nuisances sonores et/ou vibratoires dans leur quartier]<sup>1</sup>.
+
+[<sup>1</sup> La demande est introduite auprès de Bruxelles Environnement par un mandataire, au moyen d'un formulaire disponible sur son site internet, par voie électronique ou par courrier recommandé. La demande contient au minimum les informations suivantes:
+
+1° une description de la gêne subie et des nuisances sonores et/ou vibratoires perçues;
+
+2° le périmètre concerné;
+
+3° la liste des personnes concernées par ces nuisances, leur domicile et le mandat donné pour l'introduction de la demande;
+
+4° si possible, les mesures ou aménagements proposés pour remédier à ces nuisances;
+
+5° si possible, l'(les) autorité(s) et/ou l'(les) acteur(s) public(s) interpellé(s)]<sup>1</sup>.
+
+§ 2. [<sup>1</sup> . Dans les trois mois de la date d'envoi de la demande, Bruxelles Environnement prend connaissance de la demande et, si nécessaire, demande des compléments d'informations en précisant le délai de leur transmission.
+
+Dans le délai de trois mois visé à l'alinéa précédent ou dans un délai de trois mois à dater de la transmission des compléments d'information, Bruxelles Environnement identifie, dans un avis, les pistes de travail qui pourraient être mises en oeuvre.
+
+Dans le même délai que celui visé à l'alinéa précédent, Bruxelles Environnement transmet l'ensemble de la demande et son avis à l'autorité (aux autorités) et/ou acteur(s) public(s) interpellé(s), aux communes concernées et en informe le mandataire]<sup>1</sup>
+
+§ 3.[<sup>1</sup> Sur la base de l'ensemble de la demande et de l'avis de Bruxelles Environnement, toute autorité ou acteur public interpellé prend une décision motivée quant à la suite de la procédure. Si l'autorité ou l'acteur public interpellé réalise ou planifie les mesures ou aménagements nécessaires à la réduction de la gêne subie et des nuisances sonores et/ou vibratoires perçues, il en fait rapport au minimum douze mois après l'introduction de la demande et, le cas échéant, tous les douze mois successifs.
+
+Bruxelles Environnement tient à jour la liste des demandes formulées et leur état d'avancement conformément au présent article, la transmet annuellement au Gouvernement et la met à disposition du public sur son site internet]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 17, 011; En vigueur : 13-06-2024&gt;
+
+## CHAPITRE IV.
+
+&lt;Abrogé par ORD 2024-05-16/17, art. 18, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 11
+
+&lt;Abrogé par ORD 2024-05-16/17, art. 18, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 12
+
+&lt;Abrogé par ORD 2024-05-16/17, art. 18, 011; En vigueur : 13-06-2024&gt;
+
+## CHAPITRE V.
+
+&lt;Abrogé par ORD 2024-05-16/17, art. 19, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 13
+
+Les propriétaires, [<sup>1</sup> et exploitants ]<sup>1</sup> d'établissements [<sup>1</sup> ...]<sup>1</sup> doivent prendre toutes mesures utiles pour que [<sup>1</sup> le bruit et les vibrations ]<sup>1</sup> liés à l'exploitation de ces établissements ne troublent pas la tranquillité ou la santé des habitants.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 20, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 14
+
+Les personnes se trouvant dans des immeubles occupés, leurs dépendances et leurs abords veillent à ce que [<sup>1</sup> le bruit et les vibrations ]<sup>1</sup> générés par leur comportement et celui des personnes ou des animaux dont ils ont la garde, les activités ou les travaux qu'ils entreprennent ne troublent pas la tranquillité ou la santé des habitants.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 21, 011; En vigueur : 13-06-2024&gt;
+
+## [CHAPITRE IV] Contrôle des nuisances sonores.
+
+<sup></sup> <sup></sup>
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 22, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 15
+
+(Abrogé) &lt;ORD 1999-03-25/53, art. 43, 002; En vigueur : 1999-07-04 et confirmé par DIVERS 2014-04-25/A3, art. 59,12°, 007; En vigueur : 01-01-2015&gt;
+
+#### Art. 16
+
+(Abrogé) &lt;ORD 1999-03-25/53, art. 43, 002; En vigueur : 1999-07-04 et confirmé par DIVERS 2014-04-25/A3, art. 59,12°, 007; En vigueur : 01-01-2015&gt;
+
+#### Art. 17
+
+(Abrogé) &lt;ORD 1999-03-25/53, art. 43, 002; En vigueur : 1999-07-04 et confirmé par DIVERS 2014-04-25/A3, art. 59,12°, 007; En vigueur : 01-01-2015&gt;
+
+#### Art. 18
+
+(Abrogé) &lt;ORD 1999-03-25/53, art. 43, 002; En vigueur : 1999-07-04 et confirmé par DIVERS 2014-04-25/A3, art. 59,12°, 007; En vigueur : 01-01-2015&gt;
+
+#### Art. 19
+
+(Abrogé) &lt;ORD 1999-03-25/53, art. 43, 002; En vigueur : 1999-07-04 et confirmé par DIVERS 2014-04-25/A3, art. 59,12°, 007; En vigueur : 01-01-2015&gt;
+
+#### Art. 20
+
+[<sup>1</sup> Est puni de la peine prévue à l'article 31, § 1er, du Code de l'inspection, la prévention, la constatation et la répression des infractions en matière d'environnement et de la responsabilité environnementale celui qui:
+
+1° ne respecte pas les seuils, le cas échéant d'émission ou d'immission, ou les conditions arrêtées par le Gouvernement en vertu de l'article 9, 1°, 2° et 6° ;
+
+2° ne respecte pas les réglementations relatives à l'utilisation d'appareils, dispositifs ou objets arrêtées par le Gouvernement en vertu de l'article 9, 3° ;
+
+3° ne respecte pas les seuils d'émission ou d'immission spécifiques applicables aux établissements ouverts au public, ainsi que toutes conditions ou mesures utiles, arrêtés par le Gouvernement en vertu de l'article 9, 7° ;
+
+4° ne respecte pas les mesures d'information, de sensibilisation ou d'accompagnement arrêtées par le Gouvernement en vertu de l'article 9, 8° ]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 23, 011; En vigueur : 13-06-2024&gt;
+
+## [CHAPITRE V] Dispositions finales.
+
+<sup></sup> <sup></sup>
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 24, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 20bis
+
+[<sup>1</sup> § 1er. La commune est responsable du traitement au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) pour ce qui concerne les données à caractère personnel traitées dans les observations exprimées par écrit et communiquées au Collège des bourgmestre et échevins, en vertu de l'article 8, par toute personne physique ou morale dans le cadre de l'enquête publique préalable à l'adoption d'une stratégie de prévention et de lutte contre le bruit et les vibrations au niveau local.
+
+Le traitement de ces données est nécessaire pour permettre aux personnes concernées d'exprimer leur avis sur les projets de stratégies de prévention et de lutte contre le bruit et les vibrations au niveau local (finalité). Le traitement est nécessaire à l'exercice d'une mission d'intérêt public.
+
+Les personnes ayant accès aux données sont, outre les services communaux concernés, les éventuels sous-traitants auxquels la commune pourrait faire appel dans le cadre de l'adoption d'une stratégie de prévention et de lutte contre le bruit au niveau local.
+
+La commune veille à ce que les données à caractère personnel ne soient traitées que pour les finalités pour lesquelles elles sont traitées et qu'elles ne puissent pas être conservées sous une forme permettant l'identification des personnes concernées pendant une durée excédant celle nécessaire à la réalisation de ces finalités, à savoir, une durée courant jusqu'à six (6) mois après la clôture de la procédure de l'enquête publique avec un maximum de cinq (5) ans pour les données contenues dans les observations exprimées par écrit et communiquées au Collège des bourgmestre et échevins, en vertu de l'article 8, par toute personne physique ou morale dans le cadre de l'enquête publique préalable à l'adoption d'une stratégie de prévention et de lutte contre le bruit et les vibrations au niveau local.
+
+§ 2. Bruxelles Environnement est responsable du traitement au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) pour ce qui concerne les données à caractère personnel traitées dans les interpellations qui lui sont adressées en vertu de l'article 10 et, le cas échéant, les demandes d'information ultérieures.
+
+Le traitement de ces données est nécessaire pour permettre aux riverains d'interpeller l'autorité ou acteur public compétent et pour permettre à Bruxelles Environnement d'identifier les pistes de travail pouvant être mises en oeuvre (finalité). Le traitement est nécessaire au respect d'une obligation légale à laquelle le responsable du traitement est soumis (base légale).
+
+Les personnes ayant accès aux données sont, outre les services concernés de Bruxelles Environnement, les éventuels sous-traitants auxquels Bruxelles Environnement pourrait faire appel dans l'identification des pistes de travail pouvant être mises en oeuvre.
+
+Bruxelles Environnement veille à ce que les données à caractère personnel ne soient traitées que pour les finalités pour lesquelles elles sont traitées et qu'elles ne puissent pas être conservées sous une forme permettant l'identification des personnes concernées pendant une durée excédant celle nécessaire à la réalisation de ces finalités, à savoir une durée de quinze (15) ans.
+
+§ 3. L'autorité ou acteur public interpellé est responsable du traitement au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) pour ce qui concerne les données à caractère personnel qui lui sont transmises par Bruxelles Environnement en vertu de l'article 10 et traitées pour assurer la suite de la procédure.
+
+Ce traitement est nécessaire pour assurer la suite de la procédure et soit prendre une décision motivée, soit réaliser ou planifier les mesures ou aménagements nécessaires à la réduction de la gêne subie et des nuisances sonores et/ou vibratoires perçues (finalité). Le traitement est nécessaire au respect d'une obligation légale à laquelle le responsable du traitement est soumis (base légale).
+
+Les personnes ayant accès aux données sont, outre les services concernés de l'autorité ou acteur public, les éventuels sous-traitants auxquels l'autorité ou acteur public pourrait faire appel pour assurer la suite de la procédure.
+
+L'autorité ou acteur public interpellé veille à ce que les données à caractère personnel ne soient traitées que pour les finalités pour lesquelles elles sont traitées et qu'elles ne puissent pas être conservées sous une forme permettant l'identification des personnes concernées pendant une durée excédant celle nécessaire à la réalisation de ces finalités, à savoir une durée de quinze (15) ans après le dernier rapport rendu par l'autorité politique interpellée.
+
+§ 4. Sans préjudice des compétences en matière d'inspection, de prévention, de constatation et de répression des infractions prévues à l'article 2, § 1er, du Code de l'inspection, la prévention, la constatation et la répression des infractions en matière d'environnement et de la responsabilité environnementale du 25 mars 1999, le Gouvernement arrête, lorsqu'il est habilité à le faire en vertu des articles 2, 3, 4, 5, 9 et 22bis de la présente ordonnance, les modalités des traitements de données à caractère personnel dont la finalité consiste à assurer la mise en oeuvre des mesures d'exécution de l'ordonnance pour autant que notamment ces traitements n'engendrent aucune ingérence importante dans les droits et libertés des personnes concernées, que ces traitements soient toujours conformes à l'exigence de nécessité et de proportionnalité par rapport à l'objectif poursuivi, que le délai maximal de conservation soit indiqué et que le responsable de traitement désigné soit le Gouvernement, Bruxelles Environnement ou la commune concernée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-05-16/17, art. 25, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. 21
+
+Sont abrogés à dater de l'entrée en vigueur de la présente ordonnance :
+
+1° le règlement de l'Agglomération de Bruxelles du 4 septembre 1974 relatif à la lutte contre le bruit;
+
+2° la loi du 18 juillet 1973 relative à la lutte contre le bruit;
+
+3° l'arrêté royal du 18 mai 1977 fixant les conditions d'octroi et les pourcentages des subventions pour l'achat d'un sonomètre par les provinces, les agglomérations de communes et les communes;
+
+4° l'arrêté ministériel du 31 octobre 1977 fixant le maximum du montant de la subvention pour l'achat de sonomètres par les provinces, les agglomérations de communes et les communes et fixant les conditions auxquelles doivent répondre ces sonomètres;
+
+5° l'ordonnance du 16 mai 1991 relative à la lutte contre le bruit dans les locaux de repos et de séjour à Bruxelles.
+
+#### Art. 22
+
+Le Gouvernement peut codifier les dispositions de la présente ordonnance avec les dispositions qui les auraient expressément ou implicitement modifiées et avec d'autres ordonnances applicables en matière d'environnement, de politique de l'eau et de conservation de la nature.
+
+A cette fin, il peut :
+
+1° modifier l'ordre, le numérotage et, en général, la présentation des dispositions à codifier;
+
+2° modifier les références qui seraient contenues dans les dispositions à codifier en vue de les mettre en concordance avec le numérotage nouveau;
+
+3° modifier la rédaction des dispositions à codifier en vue d'assurer leur concordance et d'en unifier la terminologie sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions.
+
+La codification portera l'intitulé : " Code bruxellois de l'environnement ".
+
+L'arrêté gouvernemental de codification fera l'objet d'un projet d'ordonnance de ratification qui sera soumis au Conseil de la Région de Bruxelles-Capitale.
+
+#### Art. 22bis
+
+[<sup>1</sup> Le Gouvernement peut abroger, compléter, modifier ou remplacer les dispositions de la présente ordonnance, afin de prendre les mesures requises pour l'exécution d'obligations découlant des directives de l'Union européenne relatives à la lutte contre le bruit en milieu urbain.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2018-04-19/20, art. 4, 009; En vigueur : 24-05-2018&gt;
+
+#### Art. 23
+
+La présente ordonnance entre en vigueur à la date fixée par le Gouvernement.
+
+(NOTE : Entrée en vigueur fixée le 21-07-1998, sauf pour les articles 12 et 20, 1° à 3°, par ARR 1998-07-02/32, art. 13)
+
+## ANNEXES.
+
+#### Art. N1
+
+&lt;Insérée par ORD 2004-04-01/52, art. 16; En vigueur : 06-05-2004&gt; ANNEXE I. - Indicateurs de bruit visés à l'article 4, § 2
+
+1\. Définition du niveau jour-soir-nuit (Day-evening-night level) Lden
+
+Le niveau jour-soir-nuit Lden en décibels (dB) est défini par la formule suivante :
+
+(Formule non reprise pour motifs techniques. Voir M.B. 26-04-2004, p. 34302).
+
+où :
+
+\- Lday est le niveau sonore moyen à long terme pondéré A tel que défini dans ISO 1996-2 : 1987, déterminé sur l'ensemble des périodes de jour d'une année,
+
+\- Levening est le niveau sonore moyen à long terme pondéré A tel que défini dans ISO 1996-2 : 1987, déterminé sur l'ensemble des périodes de soirée d'une année,
+
+\- Lnight est le niveau sonore moyen à long terme pondéré A tel que défini dans ISO 1996-2 : 1987, déterminé sur l'ensemble des périodes de nuit d'une année;
+
+sachant que :
+
+\- le jour dure douze heures, la soirée quatre heures et la nuit huit heures; le Gouvernement peut diminuer la période " soirée " d'une ou deux heures et allonger en conséquence la période " jour " et/ou la période " nuit ", pour autant que ce choix soit le même pour toutes les sources et qu'il fournisse à la Commission des informations concernant la différence systématique par rapport à l'option par défaut,
+
+\- le début du jour (et par conséquent, le début de la soirée et de la nuit) est déterminé par le Gouvernement (ce choix est le même pour toutes les sources de bruit). Les périodes par défaut sont établies comme suit :
+
+jour : de 7 à 19 heures, soirée : de 19 à 23 heures et nuit : de 23 heures à 7 heures, en heure locale;
+
+\- une année correspond à l'année prise en considération en ce qui concerne l'émission du son et à une année moyenne en ce qui concerne les conditions météorologiques,
+
+et que :
+
+\- c'est le son incident qui est pris en considération, ce qui signifie qu'il n'est pas tenu compte du son réfléchi sur la façade du bâtiment concerné (en règle générale, cela implique une correction de 3 dB lorsqu'on procède à une mesure).
+
+La hauteur du point d'évaluation de Lden est fonction de l'application :
+
+\- dans le cadre d'un calcul effectué aux fins d'une cartographie stratégique du bruit concernant l'exposition au bruit à l'intérieur et à proximité des bâtiments, les points d'évaluation se situent à 4,0 + 0,2 m (3,8 à 4,2 m) au-dessus du sol, du côté de la façade la plus exposée; à cet effet, la façade la plus exposée est la façade externe faisant face à la source sonore spécifique et la plus proche de celle-ci; dans les autres cas, d'autres configurations sont possibles;
+
+\- dans le cadre d'un calcul effectué aux fins d'une cartographie stratégique du bruit concernant l'exposition au bruit à l'intérieur et à proximité des bâtiments, on peut retenir d'autres hauteurs, mais elles ne doivent jamais être inférieures à 1,5 [<sup>1</sup> m]<sup>1</sup> au-dessus du sol et les résultats doivent être corrigés en conséquence avec une hauteur équivalente de 4 m;
+
+\- pour d'autres applications, telles que la planification et le zonage acoustiques, on peut retenir d'autres hauteurs, mais elles ne doivent jamais être inférieures à 1,5 m au-dessus du sol, par exemple pour :
+
+\- les zones rurales comportant des maisons à un [<sup>1</sup> étage]<sup>1</sup>;
+
+\- des mesures locales, en vue de la réduction de l'impact sonore sur des habitations spécifiques;
+
+\- l'établissement d'une carte de bruit détaillée d'une zone de dimensions limitées, montrant l'exposition au bruit de chaque habitation.
+
+2\. Définition de l'indicateur de bruit pour la période nocturne (Night-time noise indicator).
+
+L'indicateur de bruit pour la période nocturne Lnight est le niveau sonore moyen à long terme pondéré A tel que défini dans ISO 1996-2 : 1987, déterminé sur la base de toutes les périodes nocturnes sur une année,
+
+sachant que :
+
+\- la durée de la nuit est de huit heures, conformément à la définition figurant au point 1;
+
+\- une année est l'année prise en considération en ce qui concerne l'émission du son, et une année moyenne en ce qui concerne les conditions météorologiques, conformément à la définition figurant au point 1;
+
+\- le son incident est pris en considération, comme indiqué au point 1er;
+
+\- le point d'évaluation est le même que pour Lden.
+
+3\. Indicateurs de bruit supplémentaires.
+
+Dans certains cas, en plus de Lden et Lnight et Levening s'il y a lieu, de Lday et Levening, il peut se révéler utile d'utiliser des indicateurs de bruit spéciaux et des valeurs limites correspondantes.
+
+Les cas suivants en sont des exemples :
+
+\- la source de bruit considérée n'est présente qu'une petite fraction du temps (par exemple, moins de 20 % du temps sur le total des périodes de jour d'une année, sur le total des périodes de soirée d'une année ou sur le total des périodes de nuit d'une année);
+
+\- le nombre d'événements sonores, au cours d'une ou de plusieurs des périodes considérées, est en moyenne très faible (par exemple, moins d'un événement sonore par heure; un événement sonore pourrait être défini comme un bruit durant moins de cinq minutes; on peut citer, comme exemple, le bruit provoqué par le passage d'un train ou d'un avion);
+
+\- la composante basse fréquence du bruit est importante;
+
+\- LAmax ou SEL (sound exposure level - niveau d'exposition au bruit) pour la protection en période nocturne dans le cas de crêtes de bruit élevées;
+
+\- protection supplémentaire durant le week-end ou une période particulière de l'année;
+
+\- protection supplémentaire de la période diurne;
+
+\- protection supplémentaire de la période de soirée;
+
+\- combinaison de bruits de diverses sources;
+
+\- zones calmes en rase campagne;
+
+\- bruit comportant des composantes à tonalité marquée;
+
+\- bruit à caractère pulsionnel.
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 26, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. N2
+
+&lt;Abrogé par ORD 2018-04-19/20, art. 5, 009; En vigueur : 24-05-2018&gt;
+
+#### Art. N3
+
+[<sup>1</sup> ANNEXE III. - Méthodes d'évaluation des effets nuisibles]<sup>1</sup>
+
+(Image non reprise pour raisons techniques, voir M.B. du 16-02-2021, p. 15068)
+
+----------
+
+(1)&lt;ARR 2021-01-21/19, art. 2, 010; En vigueur : 26-02-2021&gt;
+
+#### Art. N4
+
+&lt;Insérée par ORD 2004-04-01/52, art. 16; En vigueur : 06-05-2004&gt; ANNEXE IV. - Prescriptions minimales pour la cartographie de bruit stratégique visées à l'article 4, § 1er
+
+1\. Une carte de bruit stratégique est une représentation des données relatives à l'un des aspects suivants :
+
+\- ambiance sonore existante, antérieure ou prévue, en fonction d'un indicateur de bruit;
+
+\- dépassement d'une valeur limite;
+
+\- estimation du nombre d'habitations, d'écoles et d'hôpitaux d'une zone donnée, qui sont exposés à des valeurs spécifiques d'un indicateur de bruit;
+
+\- estimation du nombre de personnes se trouvant dans une zone exposée au bruit.
+
+2\. Les cartes de bruit stratégiques peuvent être présentées au public sous forme de :
+
+\- graphiques;
+
+\- données numériques organisées en tableaux;
+
+\- données numériques sous forme électronique.
+
+3\. Les cartes de bruit stratégiques relatives à la Région de Bruxelles-Capitale mettront particulièrement l'accent sur les émissions sonores provenant :
+
+\- de la circulation routière;
+
+\- du trafic ferroviaire;
+
+\- du survol de la [<sup>1</sup> Région de Bruxelles-Capitale]<sup>1</sup>;
+
+\- des sites d'activités industrielles, y compris le port.
+
+4\. Les cartes de bruit stratégiques sont utilisées aux [<sup>1</sup> fins]<sup>1</sup> suivantes :
+
+\- pour obtenir les données devant être transmises à la Commission en application de l'article 10, § 2 et de l'annexe VI;
+
+\- en tant que source d'information des citoyens, en application de l'article 4, § 4;
+
+\- pour compléter le plan d'action visé à l'article 4bis de la présente ordonnance.
+
+A chacune de ces applications correspond un type distinct de carte de bruit.
+
+5\. Les exigences minimales pour les cartes de bruit stratégiques concernant les données à transmettre à la Commission sont précisées aux points 1.5, 1.6, 2.5, 2.6 et 2.7 de l'annexe VI.
+
+6\. Pour l'information des citoyens en application de l'article 4, § 4, des informations supplémentaires sont requises, ainsi que des informations plus précises, telles que :
+
+\- une représentation graphique;
+
+\- des cartes montrant les dépassements d'une valeur limite;
+
+\- des cartes différentielles établissant une comparaison entre la situation existante et les diverses situations futures possibles;
+
+\- des cartes montrant la valeur d'un indicateur de bruit, le cas échéant à une hauteur autre que 4 m.
+
+Ces informations devront servir à compléter le plan d'action établi en vertu des articles 4bis et suivants de la présente ordonnance.
+
+Le Gouvernement peut établir des règles en ce qui concerne le type et la présentation de ces cartes de bruit.
+
+7\. Des cartes de bruit stratégiques, à finalité locale ou régionale, seront établies pour une hauteur d'évaluation de 4 m et pour les valeurs de Lden et Lnight de l'ordre de 5 dB, comme spécifié à l'annexe VI.
+
+8\. Pour la Région de Bruxelles-Capitale, des cartes de bruit stratégiques distinctes seront établies pour le bruit du trafic routier et ferroviaire, pour le bruit des avions et pour le bruit industriel. Des cartes supplémentaires pourront être établies pour d'autres sources de bruit.
+
+9\. Des lignes directrices donnant de plus amples indications sur les cartes de bruit, sur la cartographie du bruit et sur les logiciels de cartographie, pourront être fixées par le Gouvernement, en fonction de celles qu'aura élaborées le comité visé à l'article 13 de la directive 2002/ 49/CE du Parlement européen et du Conseil, du 25 juin 2002, relative à l'évaluation et à la gestion du bruit ambiant dans l'environnement.
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 26, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. N5
+
+&lt;Insérée par ORD 2004-04-01/52, art. 16; En vigueur : 06-05-2004&gt; ANNEXE V. - Prescriptions minimales pour le plan visé à l'article 4bis
+
+1\. Le plan doit comporter au minimum les éléments suivants :
+
+\- description de la Région de Bruxelles-Capitale, des grands axes routiers et ferroviaires ou du survol de la Région de Bruxelles-Capitale et d'autres sources de bruit à prendre en compte;
+
+\- autorité compétente;
+
+\- contexte juridique;
+
+\- toute valeur limite utilisée en application de l'article 4, § 2;
+
+\- synthèse des résultats de la cartographie du bruit;
+
+\- évaluation du nombre estimé de personnes exposées au bruit, identification des problèmes et des situations à améliorer;
+
+\- compte rendu des consultations publiques organisées en application des articles 5 et 8;
+
+\- mesures de lutte contre le bruit déjà en vigueur et projets en gestation;
+
+\- actions envisagées par les autorités compétentes pour les cinq années à venir, y compris les mesures prévues pour préserver les zones calmes;
+
+\- stratégie à long terme;
+
+\- informations financières (si disponibles) : budgets, évaluation du rapport coût-efficacité ou coût-avantage;
+
+\- dispositions envisagées pour évaluer la mise en [<sup>1</sup> oeuvre ]<sup>1</sup> et les résultats du plan d'action.
+
+2\. Parmi les actions que le Gouvernement peut envisager dans son domaine de compétence figurent, par exemple :
+
+\- la planification du trafic;
+
+\- l'aménagement du territoire;
+
+\- les mesures techniques au niveau des sources de bruit;
+
+\- la sélection de sources plus silencieuses;
+
+\- la réduction de la transmission des sons;
+
+\- les mesures ou incitations réglementaires ou économiques.
+
+3\. Chaque plan d'action devrait comporter des estimations en termes de diminution du nombre de personnes touchées (gêné, perturbation du sommeil ou autre).
+
+4\. Des lignes directrices donnant de plus amples indications sur le plan pourront être fixées par le Gouvernement, en fonction de celles qu'aura élaborées le comité visé à l'article 13 de la directive 2002/49/CE du Parlement européen et du Conseil, du 25 juin 2002, relative à l'évaluation et à la gestion du bruit ambiant dans l'environnement.
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 26, 011; En vigueur : 13-06-2024&gt;
+
+#### Art. N6
+
+&lt;Insérée par ORD 2004-04-01/52, art. 16; En vigueur : 06-05-2004&gt; ANNEXE VI. - Données à transmettre à la Commission visées à l'article 8bis
+
+Les données à transmettre à la Commission pour la Région de Bruxelles-Capitale sont les suivantes :
+
+1\. Brève description de la Région : localisation, taille, nombre d'habitants.
+
+2\. Description générale des routes, des lignes de chemin de fer et du survol de la Région de Bruxelles-Capitale localisation, taille, données relatives au trafic, la superficie totale (en km2) exposée à des valeurs de Lden supérieures à 55, 65 et 75 dB, respectivement.
+
+On indiquera en outre le total estimé d'habitations (en centaines) et le nombre total estimé de personnes (en centaines) vivant dans chacune de ces zones.
+
+Les courbes de niveau correspondant à 55 et à 65 dB seront également indiquées sur une ou plusieurs cartes qui comporteront des informations sur la localisation des communes de la Région comprises dans les zones délimitées par les courbes.
+
+3\. Autorité compétente.
+
+4\. Programmes de lutte contre le bruit menés dans le passé et mesures prises concernant le bruit.
+
+5\. Méthodes de calcul ou de mesure utilisées.
+
+6\. Nombre estimé de personnes (en centaines) vivant dans des habitations exposées à chacune des plages suivantes de valeurs de Lden en dB à 4 m de hauteur sur la façade la plus exposée : 55-59, 60-64, 65-69, 70-74, &gt; 75, indiqué séparément pour chaque source : trafic routier, trafic ferroviaire, trafic aérien et bruit industriel. Les chiffres seront arrondis à la centaine la plus proche (exemple : 5.200 = entre 5.150 et 5.249 personnes; 100 = entre 50 et 149 personnes; 0 = moins de 50 personnes). Il conviendrait en outre de préciser, le cas échéant et si les données sont disponibles, combien de personnes, au sein des catégories susmentionnées, vivent dans des habitations
+
+\- spécialement isolées contre le bruit en question, c'est-à-dire équipées d'un système d'isolation spécial contre un ou plusieurs types de bruit dans l'environnement, combiné avec des installations de ventilation ou de conditionnement d'air telles qu'un niveau élevé d'isolation contre le bruit dans l'environnement peut être maintenu,
+
+\- avant une façade calme, c'est-à-dire dont la valeur Lden à 4 m au-dessus du sol et 2 m à l'avant de la façade est, pour le bruit émis par une source spécifique, inférieur de plus de 20 dB à la valeur Lden la plus élevée mesurée en façade.
+
+[<sup>1</sup> On précisera comment les grands axes routiers, ferroviaires et les grands aéroports tels que définis à l'article 2 de la présente ordonnance, contribuent aux résultats visés ci-dessus]<sup>1</sup>.
+
+7\. Le nombre total estimé de personnes (en centaines) vivant dans des habitations exposées à chacune des plages suivantes de valeurs de Lnight en dB à 4 m de hauteur sur la façade la plus exposée : 50-54, 55-59, 60-64, 65-69, &gt; 70, indiqué séparément pour chaque source trafic routier, trafic ferroviaire, trafic aérien et bruit industriel. Pour la plage 45-49, ces données peuvent également être évaluées avant le 18 juillet 2009.
+
+Il conviendrait en outre de préciser, le cas échéant et si les données sont disponibles, combien de personnes, au sein des catégories susmentionnées, vivent dans des habitations :
+
+\- spécialement isolées contre le bruit en question, comme défini au point 6;
+
+\- ayant une façade calme, comme défini au point 6.
+
+[<sup>1</sup> On précisera comment les grands axes routiers, ferroviaires et les grands aéroports tels que définis à l'article 2 de la présente ordonnance, contribuent aux résultats visés ci-dessus. ]<sup>1</sup>.
+
+8\. Lorsqu'il s'agit de représentations graphiques, les cartes stratégiques doivent au moins comporter les courbes de niveau correspondant à 60, 65, 70 et 75 dB.
+
+9\. Résumé du plan d'action, de dix pages au maximum, reprenant tous les aspects importants visés à l'annexe V.
+
+10\. Lignes directrices
+
+Des lignes directrices donnant de plus amples indications sur la fourniture des informations susmentionnées pourront être fixées par le Gouvernement, en fonction de celles qu'aura élaborées le comité visé à l'article 13 de la directive 2002/49/CE du Parlement européen et du Conseil, du 25 juin 2002, relative à l'évaluation et à la gestion du bruit ambiant dans l'environnement.
+
+----------
+
+(1)&lt;ORD 2024-05-16/17, art. 26, 011; En vigueur : 13-06-2024&gt;
+
+---
+
+Adopté par le Conseil de la Région de Bruxelles-Capitale.
+
+Bruxelles, le 14 juillet 1997.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Donné à Bruxelles, le 17 juillet 1997.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Emploi, du Logement et des Monuments et Sites,
+
+Ch. PICQUE
+
+Le Ministre de l'Economie, des Finances, du Budget de l'Energie et des Relations extérieures,
+
+J. CHABERT
+
+Le Ministre de l'Aménagement du territoire, des Travaux publics et du Transport,
+
+H. HASQUIN
+
+Le Ministre de la Fonction publique, du Commerce extérieur, de la Recherche scientifique et de la Lutte contre l'incendie et de l'Aide médicale urgente,
+
+R. GRIJP
+
+Le Ministre de l'Environnement et de la Politique de l'eau, de la Rénovation, de la Conservation de la nature et de la Propreté publique,
+
+D. GOSUIN

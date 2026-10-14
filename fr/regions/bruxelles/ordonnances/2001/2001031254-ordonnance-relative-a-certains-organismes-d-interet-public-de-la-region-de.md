@@ -1,0 +1,90 @@
+---
+title: "Ordonnance relative à certains organismes d'intérêt public de la Région de Bruxelles-Capitale."
+identifier: "2001031254"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2001/03/29/2001031254/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2001-03-29
+published: 2001-07-06
+entry_into_force: 2001-03-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2001/03/29/2001031254/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "la présente forme de cette ordonnance provient d'un erratum, M.B. 17-08-2002, p. 35371-2."
+retrieved: 2026-10-15
+---
+
+# 29 MARS 2001. - Ordonnance relative à certains organismes d'intérêt public de la Région de Bruxelles-Capitale.
+
+Le Conseil de la Région de Bruxelles-Capitale a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE 1. - Disposition générale.
+
+#### Art. 1
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## CHAPITRE 2. - Dispositions modificatives.
+
+### Section 1. - Centre d'Informatique de la Région bruxelloise.
+
+#### Art. 2
+
+Dans l'article 27, § 4, alinéa 2, de la loi du 21 août 1987 modifiant la loi organisant les agglomérations et les fédérations de communes et portant des dispositions relatives à la Région bruxelloise, modifiée par l'ordonnance du 20 mai 1999, le mot " nomme " est remplacé par le mot " désigne ".
+
+### Section 2. - Institut bruxellois pour la Gestion de l'Environnement.
+
+#### Art. 3
+
+Dans l'article 2, § 2, alinéa 1er, de l'arrêté royal du 8 mars 1989 créant l'Institut bruxellois pour la Gestion de l'Environnement confirmé par la loi du 16 juin 1989 portant diverses réformes institutionnelles, le mot " nommés " est remplacé par le mot " désignés ".
+
+### Section 3. - Société du Logement de la Région bruxelloise.
+
+#### Art. 4
+
+Dans l'article 9, § 7 de la loi relative à la suppression ou à la restructuration d'organismes d'intérêt public et d'autres services de l'Etat coordonnée par l'arrêté royal du 13 mars 1991 portant coordination des lois du 28 décembre 1984 et du 26 juin 1990 relatives à la suppression et à la restructuration d'organismes d'intérêt public et des services de l'Etat, les mots " , les désignations " sont insérés entre les mots " nominations " et les mots " et les promotions ".
+
+### Section 4. - Société régionale du Port de Bruxelles.
+
+#### Art. 5
+
+Dans l'article 9, alinéa 1er, de l'ordonnance du 3 décembre 1992 relative à l'exploitation et au développement du canal, du port, de l'avant-port et de leurs dépendances dans la Région de Bruxelles-Capitale, les mots " nomme et révoque " sont remplacés par le mot " désigne ".
+
+#### Art. 6
+
+Dans l'article 17, alinéa 4, de la même ordonnance, les mots " A l'exception du fonctionnaire dirigeant et du fonctionnaire dirigeant adjoint " sont remplacés par les mots " A l'exception du fonctionnaire dirigeant, du fonctionnaire dirigeant adjoint et des autres agents désignés par mandat, ".
+
+## CHAPITRE 3. - Disposition finale.
+
+#### Art. 7
+
+Le Gouvernement fixe la date d'entrée en vigueur de la présente ordonnance.
+
+(NOTE : Entrée en vigueur fixée au 01-03-2001 par ARR 2002-09-26/49, art. 1)
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 29 mars 2001.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, de la Rénovation urbaine et de la Recherche scientifique,
+
+Fr.-X. de DONNEA
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale chargé des Travaux publics, du Transport et de la Lutte contre l'Incendie et l'Aide médicale urgente,
+
+J. CHABERT
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale chargé de l'Emploi, de l'Economie, de l'Energie et du Logement,
+
+E. TOMAS
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale chargé des Finances, du Budget, de la Fonction publique et des Relations extérieures,
+
+G. VANHENGEL
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale chargé de l'Environnement et de la Politique de l'Eau, de la Conservation de la Nature, de la Propreté publique et du Commerce extérieur,
+
+D. GOSUIN.

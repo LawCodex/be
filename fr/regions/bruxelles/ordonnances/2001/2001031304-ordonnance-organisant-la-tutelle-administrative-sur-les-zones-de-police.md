@@ -1,0 +1,195 @@
+---
+title: "Ordonnance organisant la tutelle administrative sur les zones de police [pluricommunales] de la Région de Bruxelles-Capitale. (Erratum, voir M.B. 18.09.2003, p. 46437)"
+identifier: "2001031304"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2001/07/19/2001031304/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2001-07-19
+published: 2001-09-29
+entry_into_force: 2001-10-09
+last_amended: 2014-05-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2001/07/19/2001031304/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "Consultation des versions antérieures à partir du 29-09-2001 et mise à jour au 14-05-2014"
+retrieved: 2026-10-15
+---
+
+# 19 JUILLET 2001. - Ordonnance organisant la tutelle administrative sur les zones de police [pluricommunales] de la Région de Bruxelles-Capitale. (Erratum, voir M.B. 18.09.2003, p. 46437)
+
+Le Conseil de la Région de Bruxelles-Capitale a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales.
+
+### Art. 1
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+### Art. 2
+
+La présente ordonnance organise la tutelle administrative ordinaire sur les zones de police pluricommunales de la Région de Bruxelles-Capitale.
+
+### Art. 3
+
+Pour l'application de la présente ordonnance, la transmission des actes des autorités des zones pluricommunales et des arrêtés du Gouvernement se fait soit par courrier électronique, soit par lettre recommandée à la poste avec accusé de réception, soit par porteur, soit moyennant la délivrance d'un récépissé.
+
+Cependant, pour ce qui concerne les documents relatifs au budget et aux comptes, en ce compris leurs annexes, le Gouvernement peut déterminer un autre support de transmission et la forme d'enregistrement de ces données.
+
+### Art. 4
+
+En ce qui concerne les délais qui lui sont impartis, le Gouvernement est tenu par les règles suivantes :
+
+1° le point de départ du délai est le lendemain du jour de la réception de l'acte de l'autorité de la zone pluricommunale; &lt;Erratum, voir M.B. 18.09.2003, p. 46437&gt;
+
+2° le jour de l'échéance est compté dans le délai;
+
+3° tout arrêté du Gouvernement doit être notifié par écrit à l'autorité communale de la zone pluricommunale et à peine de nullité de cet arrêté, son envoi doit se faire au plus tard le jour de l'échéance du délai.
+
+Lorsque le jour de l'échéance est un samedi, un dimanche ou un jour férié, l'échéance est reportée au jour ouvrable suivant. On entend par jours fériés, les jours suivants : le 1er janvier, le lundi de Pâques, le 1er mai, l'Ascension, le lundi de Pentecôte, le 21 juillet, le 15 août, les 1er, 2, 11 et 15 novembre, les 25 et 26 décembre, ainsi que les jours déterminés par ordonnance ou par arrêté du Gouvernement.
+
+### Art. 5
+
+Tout acte du Gouvernement qui porte annulation, suspension ou improbation doit indiquer ses motifs dans son texte même.
+
+Il en va de même pour tout acte du Gouvernement qui proroge un délai.
+
+## CHAPITRE II. - De l'information de l'autorité de tutelle.
+
+### Art. 6
+
+Les autorités des zones pluricommunales transmettent au Gouvernement les actes visés à l'article 13.
+
+Le Gouvernement détermine les actes des autorités des zones pluricommunales autres que les actes visés à l'article 13, qui doivent lui être transmis, ainsi que les modalités relatives à cette transmission.
+
+[<sup>1</sup> Le Gouvernement transmet ou invite les autorités des zones pluricommunales à transmettre à l'Observatoire des prix de référence dans les marchés publics, les actes des autorités des zones pluricommunales soumis à ses avis.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2014-04-03/34, art. 15, 006; En vigueur : 24-05-2014&gt;
+
+### Art. 7
+
+Les autorités des zones pluricommunales transmettent au Gouvernement la liste de tous les actes du conseil de police, autres que ceux visés par ou en vertu de l'article 6, dans les vingt jours où ils ont été pris.
+
+La liste comprend un bref exposé de ces actes.
+
+### Art. 8
+
+Le Gouvernement peut recueillir, même sur les lieux, tous renseignements et éléments utiles.
+
+## CHAPITRE III. - Tutelle générale.
+
+### Art. 9
+
+Le Gouvernement peut suspendre par arrêté l'exécution de l'acte par lequel une autorité d'une zone pluricommunale viole la loi ou blesse l'intérêt général.
+
+Le délai de suspension est de (quarante) jours à partir de la réception de l'acte. &lt;ORD 2002-12-20/66, art. 2, 004; En vigueur : 01-03-2003&gt;
+
+L'autorité concernée peut retirer l'acte suspendu ou le justifier.
+
+Sous peine de nullité de l'acte suspendu, elle transmet au Gouvernement l'acte par lequel elle justifie l'acte suspendu, dans un délai de (quarante) jours à dater de la réception de l'arrêté de suspension. &lt;ORD 2002-12-20/66, art. 2, 004; En vigueur : 01-03-2003&gt;
+
+La suspension est levée après l'expiration d'un délai de (quarante) jours à partir de la réception de l'acte par lequel l'autorité concernée justifie l'acte suspendu. &lt;ORD 2002-12-20/66, art. 2, 004; En vigueur : 01-03-2003&gt;
+
+### Art. 10
+
+Le Gouvernement peut annuler par arrêté l'acte par lequel une autorité d'une zone pluricommunale viole la loi ou blesse l'intérêt général.
+
+Le délai d'annulation est de (quarante) jours à partir de la réception de l'acte ou, le cas échéant, de la réception de l'acte par lequel l'autorité concernée justifie un acte suspendu. &lt;ORD 2002-12-20/66, art. 3, 004; En vigueur : 01-03-2003&gt;
+
+### Art. 11
+
+Les actes du conseil de police repris sur la liste visée à l'article 7 ne sont plus susceptibles d'être suspendus ou annulés si le Gouvernement n'a pas réclamé ces actes, par lettre recommandée avec accusé de réception, dans les vingt jours de la réception de la liste.
+
+Le délai de suspension ou d'annulation de l'acte réclamé par le Gouvernement dans le délai prescrit au premier alinéa est de (vingt) jours à partir de la réception de l'acte. &lt;ORD 2002-12-20/66, art. 4, 004; En vigueur : 01-03-2003&gt;
+
+### Art. 12
+
+(Les actes par lesquels le collège de police attribue les marchés de travaux, de fournitures et de services, ne sont exécutoires qu'à partir du jour où ils ne sont plus susceptibles d'être suspendus ou annulés, ou le cas échéant, à partir du jour où le Gouvernement notifie à l'autorité d'une zone pluricommunale que l'acte peut être exécuté immédiatement) &lt;Erratum, voir M.B. 18.09.2003, p. 46437&gt;
+
+L'alinéa 1er n'est pas applicable :
+
+1° aux actes attribuant les marchés visés à l'[<sup>1</sup> article 26, § 1er, 1°, c), de la loi du 15 juin 2006 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services ]<sup>1</sup>;
+
+2° aux actes des marchés qui ne doivent pas être transmis au Gouvernement en application de l'article 6.
+
+----------
+
+(1)&lt;ORD 2013-07-11/05, art. 5, 005; En vigueur : 01-07-2013&gt;
+
+## CHAPITRE IV. - Tutelle d'approbation.
+
+### Art. 13
+
+(Sont soumis à l'approbation du Gouvernement, les actes des autorités des zones pluricommunales portant sur les objets suivants :) &lt;Erratum, voir M.B. 18.09.2003, p. 46437&gt;
+
+1° le cadre du personnel opérationnel et le cadre du personnel administratif et logistique de la police locale;
+
+2° le budget de la police locale et les modifications y apportées;
+
+3° le compte de la police et le compte de fin de gestion du comptable spécial;
+
+4° la consolidation et le rééchelonnement des charges financières des emprunts souscrits pour le financement de la police locale;
+
+5° le choix du mode de passation et la fixation des conditions des marchés de travaux, de fournitures et de services. L'approbation n'est pas requise :
+
+a) lorsque la valeur globale du marché est égale ou inférieure à (249.600 EUR), la taxe sur la valeur ajoutée non comprise pour les marchés de fournitures et de services et à (500.000 EUR), la taxe sur la valeur ajoutée non comprise pour les marchés de travaux. &lt;ARR 2001-12-20/82, art. 1, 002; En vigueur : 01-01-2002&gt; &lt;ARR 2002-01-31/32, art. 1, 003; En vigueur : 06-03-2002&gt;
+
+[<sup>1</sup> Le Gouvernement peut modifier le montant pour les marchés de travaux, de fournitures et de services pour l'adapter à la suite des révisions biennales prévues par l'article 78 de la Directive 2004/18/CE du Parlement européen et du Conseil du 31 mars 2004 relative à la coordination des procédures de passation des marchés publics de travaux, de fournitures et de services]<sup>1</sup>. Le montant pour les marchés de fournitures et de services ne peut être supérieur à (427.000 EUR) ou inférieur à (107.000 EUR) la taxe sur la valeur ajoutée non comprise; &lt;ARR 2001-12-20/82, art. 1, 002; En vigueur : 01-01-2002&gt;
+
+b) pour les marchés visés à l'[<sup>2</sup> article 26, § 1er, 1°, c), de la loi du 15 juin 2006 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services]<sup>2</sup>.
+
+----------
+
+(1)&lt;ORD 2013-07-11/05, art. 6, 005; En vigueur : 01-07-2013&gt;
+
+(2)&lt;ORD 2013-07-11/05, art. 7, 005; En vigueur : 01-07-2013&gt;
+
+### Art. 14
+
+Les arrêtés pris en vertu de l'article 13 doivent être notifiés dans les (quarante) jours de la réception de l'acte. Ce délai peut être prorogé une seule fois par le Gouvernement pour une durée n'excédant pas celle du délai initial. &lt;ORD 2002-12-20/66, art. 5, 004; En vigueur : 01-03-2003&gt;
+
+L'arrêté de prorogation du délai doit également être notifié aux organes des zones de police pluricommunales avant l'expiration du délai initial.
+
+Si ces délais ne sont pas respectés, l'acte est réputé approuvé. &lt;Erratum, voir M.B. 18.09.2003, p. 46437&gt;
+
+## CHAPITRE V. - Commissaire spécial.
+
+### Art. 15
+
+Après deux avertissements consécutifs et transmis par lettre recommandée avec accusé de réception ou remis par porteur contre récépissé, le Gouvernement peut charger un ou plusieurs commissaires de se rendre sur place aux fins de recueillir les informations ou les observations demandées ou d'exécuter une obligation qui s'impose à une autorité d'une zone pluricommunale. &lt;Erratum, voir M.B. 18.09.2003, p. 46437&gt;
+
+## CHAPITRE VI. - Dispositions transitoires.
+
+### Art. 16
+
+La présente ordonnance ne s'applique pas aux actes des autorités des zones pluricommunales pris avant son entrée en vigueur. Elle ne s'applique pas non plus au contrôle de tutelle relatif à ces actes.
+
+---
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Donné à Bruxelles, le 19 juillet 2001.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, de la Rénovation urbaine et de la Recherche scientifique,
+
+F.-X. de DONNEA
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Travaux publics, du Transport et de la Lutte contre l'Incendie et l'Aide médicale urgente,
+
+J. CHABERT
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie, de l'Energie et du Logement,
+
+E. TOMAS
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, de la Fonction publique et des Relations extérieures,
+
+G. VANHENGEL
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Environnement et de la Politique de l'Eau, de la Conservation de la Nature, de la Propreté publique et du Commerce extérieur,
+
+D. GOSUIN.
