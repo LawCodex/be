@@ -1,0 +1,703 @@
+---
+title: "Ordonnance créant des fonds budgétaires"
+identifier: "1992031015"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1991/12/12/1992031015/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1991-12-12
+published: 1992-02-26
+entry_into_force: 1992-01-01
+last_amended: 2026-04-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1991/12/12/1992031015/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "Consultation des versions antérieures à partir du 13-06-1995 et mise à jour au 03-04-2026"
+retrieved: 2026-10-15
+---
+
+# 12 DECEMBRE 1991. - Ordonnance créant des fonds budgétaires
+
+## CHAPITRE I. - DISPOSITION GENERALE.
+
+### Art. 1
+
+La présente ordonnance règle une matière visée à l'article 107quater de la Constitution.
+
+## CHAPITRE II. - CREATION DE FONDS BUDGETAIRES.
+
+### Art. 2
+
+Sont créés comme fonds budgétaires [<sup>31</sup> en application de l'article 7 de l'ordonnance portant le Code des finances publiques de la Région de Bruxelles-Capitale]<sup>31</sup> : &lt;ORD 2006-02-23/46, art. 111, 011; En vigueur : 01-01-2006&gt;
+
+1° Le " Fonds d'aide aux entreprises ".
+
+Sont affectées au fonds les recettes résultant de la récupération des avances en matière de financement de la recherche scientifique et technologique ainsi que celles résultant des remboursements des subventions-intérêts, des primes en capital et des primes d'emploi octroyées dans le cadre des lois relatives à l'expansion économique.
+
+Les moyens du fonds sont affectés à l'octroi d'avances récupérables pour la réalisation de prototypes, la recherche technologique avancée ainsi que le développement de travaux dans le domaine de la recherche appliquée régionale.
+
+2° Le " Fonds pour la promotion du commerce extérieur ".
+
+Sont affectées au fonds les recettes résultant des remboursements effectués par l'Office belge du Commerce extérieur à la Région de Bruxelles-Capitale et de la récupération directe de prêts aux entreprises.
+
+Les moyens du fonds sont affectés pour couvrir les dépenses afférentes à l'octroi de prêts sans intérêts pour la prospection à l'étranger.
+
+3° Le " Fonds pour l'équipement et les déplacements ".
+
+Sont affectées au fonds les recettes résultant :
+
+\- de la vente et de la location de biens immeubles affectés à l'exercice des compétences en matière de communications et travaux publics;
+
+\- de la vente de pavés;
+
+\- de la publicité placée sur les biens du domaine public affectés à l'exercice des mêmes compétences, ainsi que sur des propriétés privées grevées de servitudes en la matière;
+
+\- des indemnités payées par les compagnies d'assurances pour les dégâts occasionnés aux biens meubles et immeubles liés aux mêmes compétences;
+
+\- du remboursement des cautions, des soldes d'entreprises;
+
+\- des indemnités versées par des organismes assureurs dans le cadre d'un contrat entre ces derniers et la Région;
+
+\- de la vente des cahiers des charges;
+
+[<sup>6</sup> aux frais de fonctionnement de la Commission de Coordination des Chantiers et aux frais d'exploitation des outils informatiques de programmation, de coordination, d'autorisation et d'exécution des chantiers en voirie]<sup>6</sup>
+
+[<sup>16</sup> - des redevances et des recettes dans le cadre de l'organisation des transports exceptionnels et l'ADR.]<sup>16</sup>
+
+Les moyens du fonds sont affectés :
+
+\- à des dépenses de capital relatives à la politique des travaux publics et des déplacements;
+
+\- à des dépenses concernant la Société des Transports intercommunaux de Bruxelles en matière d'investissements et de politique d'assainissement;
+
+\- aux travaux à exécuter en vue d'assurer la promotion et la modernisation des transports urbains;
+
+\- aux dépenses relatives aux travaux, décomptes, concessionnaires, expropriations, révisions et toutes sujétions affectées aux mêmes compétences;
+
+\- aux dépenses relatives aux équipements électriques et électromécaniques;
+
+\- à l'entretien normal des équipements;
+
+\- à l'entretien normal des bâtiments régionaux liés aux compétences des communications et des travaux publics et aux investissements les concernant.
+
+(- aux frais générés par la coordination des chantiers et la surveillance de la bonne tenue de ceux-ci.) &lt;ORD 1998-03-05/40, art. 29, 005, En vigueur : 01-09-1998&gt;
+
+[<sup>16</sup> - aux dépenses relatives au développement de la politique de transports de marchandises dangereuses et de transports exceptionnels.]<sup>16</sup>
+
+[<sup>21</sup> - des montants perçus par la Région au titre des redevances visées à l'article 10, des amendes administratives visées à l'article 81 et des droits de dossier visés à l'article 87 de l'ordonnance du [...] relative aux chantiers en voirie publique.]<sup>21</sup>
+
+4° [<sup>33</sup> ...]<sup>33</sup>
+
+5° Le " Fonds d'aménagement urbain et foncier ".
+
+Sont affectées au fonds les recettes résultant :
+
+\- de la vente et de la location de terrains affectés à l'exercice des compétences en matière d'aménagement urbain et foncier;
+
+\- du remboursement des avances récupérables par les communes et CPAS en matière de rénovation urbaine;
+
+\- de la compensation programmatique en matière d'aménagement urbain;
+
+\- du remboursement de subsides de rénovation urbaine dans le cas de revente de patrimoine par les communes et CPAS;
+
+\- du remboursement des primes accordées en vue de la rénovation de biens privés et l'assainissement de l'habitat, des façades et des trottoirs.
+
+(- du versement des sommes d'argent imposées au titre de charges d'urbanisme par la Région et destinées à contribuer au financement d'actes et travaux ayant pour objet la réalisation, la transformation ou la rénovation de voiries, d'espaces verts, de bâtiments publics, d'équipements publics ou d'immeubles de logements;
+
+\- [<sup>13</sup> ...]<sup>13</sup>;
+
+(- du versement des taxes sur les sites d'activité inexploités;) &lt;ORD 2003-12-18/48, art. 30, 009; En vigueur : 12-01-2004&gt;
+
+Les moyens du fonds sont affectés :
+
+\- à l'acquisition de biens immeubles;
+
+\- à la viabilisation d'immeubles acquis dans le cadre de la politique d'aménagement urbain et foncière;
+
+\- aux subventions en capital aux communes en matière de rénovation urbaine.
+
+(- aux dépenses afférentes à la mise en oeuvre des actes et travaux ayant pour objet la réalisation, la transformation ou la rénovation de voiries, d'espaces verts, de bâtiments publics, d'équipements publics ou d'immeubles de logements mentionnés dans les permis à l'occasion de la délivrance desquels des charges d'urbanisme ont été imposées;
+
+\- aux dépenses afférentes à la recherche, à la constatation et à la poursuite des infractions à l'ordonnance du 29 août 1991 organique de la planification et de l'urbanisme et aux dépenses afférentes aux mesures d'arrêt des actes et travaux commis en infraction à l'ordonnance précitée et aux mesures d'exécution d'office et de remise en état;) &lt;ORD 2002-07-18/37, art. 65, 008; En vigueur : 07-08-2002&gt;
+
+(- aux aides financières accordées pour l'assainissement des sites dans le cas visés à l'article 20, § 3 de l'ordonnance du... relative à la réhabilitation et à la réaffectation des sites d'activité inexploités;
+
+\- aux dépenses afférentes à l'établissement de projets de réhabilitation;
+
+\- rétrocession aux communes de la part de la taxe leur revenant en application de l'article 8, § 2 de l'ordonnance du... relative à la réhabilitation et à la réaffectation des sites d'activité inexploités.) &lt;ORD 2003-12-18/48, art. 30, 009; En vigueur : 12-01-2004&gt;
+
+6° Le " Fonds pour l'investissement et pour le remboursement des charges de la dette dans le secteur du logement social ".
+
+Sont attribuées au fonds les recettes résultant :
+
+\- des remboursements par la Société du Logement de la Région bruxelloise et ses sociétés agréées sur les programmes d'investissements;
+
+\- du remboursement de primes d'acquisition, de déménagement, d'installation ou loyer, de construction;
+
+\- de l'intervention des Communautés européennes dans les dépenses consenties par la Région de Bruxelles-Capitale dans le domaine de la politique du logement;
+
+\- [<sup>42</sup> [<sup>46</sup> Toutes autres ressources en matière de logement social, y compris des remboursements et des recettes fortuites]<sup>46</sup>
+
+Par dérogation au point 6° de l'article 2 de l'ordonnance du 12 décembre 1991 créant des fonds budgétaires, les moyens du fonds budgétaire BFB 06 sont également affectés aux allocations loyer ainsi qu'aux frais d'installation dans un nouveau logement.]<sup>42</sup>.
+
+Les moyens du fonds sont affectés :
+
+\- à l'investissement dans la construction, la rénovation et l'acquisition de logements sociaux, ainsi qu'à l'aménagement des infrastructures des sites de logement et à l'achat de terrains;
+
+\- au remboursement des charges financières de la dette du logement social.
+
+7° Le " Fonds bruxellois pour le développement économique régional ".
+
+Sont attribuées au fonds les recettes résultant des contributions du Fonds européen de développement économique régional dans le cadre des programmes et projets développés en commun avec les Communautés européennes.
+
+Les moyens du fonds sont affectés aux programmes et projets développés en commun avec le Fonds européen de développement économique régional.
+
+8° Le " Fonds social bruxellois ".
+
+Sont attribuées au fonds les recettes résultant de contributions du Fonds social européen dans le cadre des programmes et projets développés en commun avec les Communautés européennes.
+
+Les moyens du fonds sont affectés aux programmes et projets développés en commun avec le Fonds social européen.
+
+9° Le " Fonds pour la protection de l'environnement ".
+
+Sont affectées au fonds les recettes résultant :
+
+\- (abrogé) &lt;ORD 1998-05-20/40, art. 2, 006; En vigueur : 17-07-1998&gt;
+
+\- [<sup>28</sup> des transactions administratives,]<sup>28</sup> des amendes administratives ainsi que toutes autres sommes perçues à la suite d'actions introduites par la Région ou de décisions des cours et des tribunaux à charge des contrevenants à la législation et à la réglementation en matière d'environnement et de lutte contre les nuisances, à l'exception des frais exposés par l'Agence de propreté dans le cadre de missions définies à [<sup>28</sup> l'article 18 de l'ordonnance du 14 juin 2012 relative aux déchets]<sup>28</sup> [<sup>28</sup> et des transactions administratives proposées par les agents communaux chargés de la surveillance]<sup>28</sup>;
+
+\- de l'intervention des Communautés européennes dans les dépenses consenties par la Région de Bruxelles-Capitale dans le domaine de l'environnement;
+
+\- de toutes autres ressources en matière de politique d'environnement, y compris les produits de placements, remboursements et de recettes fortuites.
+
+Les moyens du fonds sont affectés aux dépenses exposées dans le cadre de la politique en matière de prévention, de protection, de gestion et d'assainissement de l'environnement, y compris des subsides aux organismes pararégionaux ou à d'autres personnes juridiques.
+
+10° Le " Fonds destiné à l'entretien, l'acquisition et l'aménagement d'espaces verts, de forêts et de sites naturels, ainsi qu'au rempoissonnement et aux interventions urgentes en faveur de la faune ".
+
+Sont attribuées au fonds les recettes résultant :
+
+\- des coupes de bois;
+
+\- de crédits alloués par les autorités nationales pour l'entretien d'espaces verts non transférés à la Région;
+
+\- de la vente de permis de pêche, des productions piscicoles et de l'organisation de l'examen de chasse;
+
+\- de la vente de publications diverses en la matière;
+
+\- de la vente de compost.
+
+Les recettes du fonds sont affectées aux dépenses relatives :
+
+\- à l'entretien des forêts et des sites naturels;
+
+\- à l'aménagement forestier et des sites naturels;
+
+\- à l'aménagement d'espaces verts;
+
+\- à l'aménagement et à l'entretien d'espaces verts nationaux, notamment ceux faisant partie de la donation royale;
+
+\- aux acquisitions de biens immeubles destinés à la réalisation de la politique en la matière;
+
+\- au rempoissonnement;
+
+\- aux interventions urgentes en faveur de la faune.
+
+(- à des subventions à [<sup>22</sup> Bruxelles Environnement]<sup>22</sup>.) &lt;ORD 1995-04-13/46, art. 2, 002; En vigueur : 13-06-1995&gt;
+
+11° (Le " Fonds pour la gestion des eaux usées et pluviales "). &lt;ORD 1996-03-29/31, art. 48, A, 003; En vigueur : 01-04-1996&gt;
+
+Sont attribuées au fonds les recettes provenant :
+
+(- du produit de la taxe sur le déversement des eaux usées, visée par l'ordonnance du 29 mars 1996 instituant une taxe sur le déversement des eaux usées;
+
+\- du remboursement de travaux effectués pour le compte de tiers;
+
+\- des indemnités versées par les organismes assureurs;
+
+\- du remboursement de cautions;
+
+\- de créances relatives à des travaux et études effectués ou à effectuer suite à la scission de la province du Brabant.) &lt;ORD 1998-05-20/40, art. 2, 006; En vigueur : 17-07-1998&gt;
+
+\- de la participation de la Région flamande à la réalisation des stations d'épuration et à leur fonctionnement.
+
+(Les moyens du Fonds sont affectés aux frais de perception de la taxe sur le déversement des eaux usées instaurée par l'ordonnance du 29 mars 1996 instituant une taxe sur le déversement des eaux usées [<sup>23</sup> ...]<sup>23</sup>.) &lt;ORD 2001-06-28/59, art. 9, 007; En vigueur : 07-12-2001&gt;
+
+(12° le " Fonds de gestion de la dette régionale ".
+
+Sont attribuées au fonds les recettes provenant de prélèvements sur les produits d'emprunts.
+
+Les moyens du fonds sont affectés à la couverture :
+
+\- des dépenses effectuées dans le cadre d'opérations de gestion de la dette régionale;
+
+\- des remboursements effectués par anticipation;
+
+\- des décaissements en capital résultant des fluctuations des cours de change dans le cas d'emprunts émis en devises.) &lt;ORD 1997-06-26/38, art. 2, 004; En vigueur : 20-09-1997&gt;
+
+(13° Le " Fonds du patrimoine immobilier ".
+
+Sont affectés au fonds les recettes résultant :
+
+\- des dons et legs au profit de la Région en faveur du patrimoine immobilier;
+
+\- du remboursement des avances faites en matière de travaux d'office en application de la législation relative à la protection des monuments et des sites;
+
+\- de la revente de biens classés acquis par la Région en application de la législation relative à la conservation du patrimoine immobilier;
+
+\- des subsides accordés par des institutions internationales en faveur du patrimoine immobilier;
+
+\- du montant des transactions administratives ainsi que de toute autre somme perçue par la Région à la suite de décisions de cours et tribunaux à charge des contrevenants à la législation relative à la conservation du patrimoine immobilier;
+
+\- de toutes autres ressources en matière de politique de conservation du patrimoine immobilier, y compris les produits de placements, remboursements et de recettes fortuites.
+
+Les moyens du fonds sont affectés à la conservation et à la promotion du patrimoine immobilier de la Région.) &lt;ORD 2004-02-19/44, art. 124, 010; En vigueur : 08-04-2004&gt;
+
+(14° Le " Fonds droit de gestion publique ".
+
+Sont affectées au fonds les recettes suivantes :
+
+Un montant d'un million d'euros versé par la Société du Logement de la Région de Bruxelles-Capitale et réservé à la mise en oeuvre du droit de gestion publique;
+
+Des remboursements effectués par [<sup>25</sup> les opérateurs du droit de gestion publique au sens de l'article 2, § 1er, 40° de l'ordonnance du 17 juillet 2003]<sup>25</sup> portant le Code bruxellois du logement;
+
+[<sup>47</sup> Toutes autres ressources en matière de droit de gestion publique, y compris des remboursements et des recettes fortuites;]<sup>47</sup>
+
+[<sup>1</sup> Le produit des amendes perçues [<sup>25</sup> en vertu du chapitre II du titre III du Code du Logement]<sup>25</sup>.]<sup>1</sup>
+
+Les moyens de ce fonds sont affectés à des aides, sous forme de prêts remboursables par tranches mensuelles, sur une durée [<sup>5</sup> ...]<sup>5</sup> de 9 ans et sans intérêt, accordés aux [<sup>25</sup> opérateurs du droit de gestion publique au sens de l'article 2, § 1er, 40° de l'ordonnance du 17 juillet 2003]<sup>25</sup> portant le Code bruxellois du logement, ayant comme objectif la remise sur le marché locatif de biens visés à [<sup>11</sup> l'article 15]<sup>11</sup> de l'ordonnance du 17 juillet 2003 portant le Code bruxellois du logement.
+
+[<sup>5</sup> La période de 9 ans visée au précédent alinéa peut être prolongée conformément [<sup>25</sup> à l'article 18, § 1er, alinéa 3 de l'ordonnance du 17 juillet 2003]<sup>25</sup> portant le Code bruxellois du logement.]<sup>5</sup>
+
+Ces prêts sont accordés afin de couvrir [<sup>25</sup> les frais de prise en gestion publique]<sup>25</sup> faisant l'objet d'un droit de gestion publique.
+
+Le Gouvernement détermine le montant maximum autorisé pour les travaux de rénovation [<sup>25</sup> ...]<sup>25</sup> ainsi que les modalités pratiques d'octroi de ces prêts.) &lt;ORD 2006-07-20/63, art. 2, 012; En vigueur : 01-01-2006&gt;
+
+[<sup>2</sup> 15° le " Fonds social de guidance énergétique ".
+
+Sont affectées au fonds les recettes résultant :
+
+\- de la contribution telle que définie à l'article 26 de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale;
+
+\- des moyens, fonds ou subventions qui lui seraient alloués en vertu de dispositions légales, à l'exclusion de tous fonds ou subventions en provenance du Budget général des dépenses de la Région de Bruxelles-Capitale et ce, conformément à l'article 8, § 1er, alinéa 3 de l'ordonnance organique du 23 février 2006 portant les dispositions applicables au budget, à la comptabilité et au contrôle.
+
+Les moyens du fonds sont affectés pour le financement des obligations de service public prévues au Chapitre IVbis de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale et au Chapitre Vbis de l'ordonnance du 1er avril 2004 relative à l'organisation du marché du gaz en Région de Bruxelles-Capitale; le fonds est réparti entre les C.P.A.S. au prorata de leur part dans le Fonds spécial de l'Action sociale prévu par l'article 105 de la loi du 8 juillet 1976 organique des centres publics d'action sociale. La part de chaque C.P.A.S. est versée annuellement, une première moitié à titre d'avance liquidée au plus tard le 30 juin de l'année considérée et le solde, au plus tard le 31 mars de l'année suivante, sur présentation d'un rapport décrivant les activités du centre qui se rapportent, pour l'année considérée, aux missions visées au chapitre IVbis de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale et au chapitre Vbis de l'ordonnance du 1er avril 2004 relative à l'organisation du marché du gaz en Région de Bruxelles-Capitale.
+
+16° le " Fonds relatif à la politique de l'énergie ".
+
+Sont affectées au fonds les recettes résultant :
+
+\- de la contribution telle que définie à l'article 26 de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale;
+
+\- des amendes administratives perçues en vertu de l'article 32 de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale;
+
+\- des moyens, fonds ou subventions qui lui seraient alloués en vertu de dispositions légales, à l'exclusion de tous fonds ou subventions en provenance du Budget général des dépenses de la Région de Bruxelles-Capitale et ce, conformément à l'article 8, § 1er, alinéa 3 de l'ordonnance organique du 23 février 2006 portant les dispositions applicables au budget, à la comptabilité et au contrôle;
+
+[<sup>20</sup> - des moyens alloués au gestionnaire du réseau de distribution désigné conformément aux dispositions du chapitre III de l'ordonnance du 1er avril 2004 relative à l'organisation du marché du gaz en Région de Bruxelles-Capitale, concernant des redevances de voiries en matière de gaz et d'électricité et portant modification de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale, pour exécuter les missions de service public visées aux points 5° et 6° de l'article 18bis, § 1er, de l'ordonnance précitée.]<sup>20</sup>
+
+Les moyens du fonds sont affectés pour :
+
+\- les actions en matière d'utilisation rationnelle de l'énergie et notamment le programme d'exécution visé à l'article 24, § 2 de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale;
+
+\- les frais de gestion des actions en matière d'utilisation rationnelle de l'énergie, notamment les frais de personnel, les frais informatiques et les frais d'expertise;
+
+\- assurer le fonctionnement de Brugel créé par l'article 30bis de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale. Le montant affecté au fonctionnement de Brugel ne peut pas dépasser 15 % du montant annuel total des recettes versées au fonds.]<sup>2</sup>
+
+[<sup>3</sup> 17°[<sup>45</sup> Le " Fonds pour la prévention, le tri, le réemploi, le recyclage et la valorisation des déchets ".
+
+Sont affectées au Fonds:
+
+1° les recettes de la taxe à l'incinération des déchets établie par les articles 40 et 41 de l'ordonnance du 14 juin 2012 relative aux déchets;
+
+2° les recettes visées aux articles 8, 9, § 10, 13, 14, 22 et 27 de l'accord de coopération du 9 février 2026 concernant le cadre de la responsabilité élargie des producteurs pour certains flux de déchets et pour les déchets sauvages;
+
+3° les recettes visées aux articles 7, § 4, 13, § 1er, 12° et 14° et 14bis de l'accord de coopération du 4 novembre 2008 concernant la prévention et la gestion des déchets d'emballages.
+
+Les recettes de la taxe visée à l'article 40 de l'ordonnance du 14 juin 2012 relative aux déchets sont réparties entre l'Agence Régionale pour la Propreté à concurrence de 96 % et à Bruxelles Environnement à concurrence de 4 % des montants disponibles.
+
+Le Gouvernement peut déroger à la répartition visée à l'alinéa précédent moyennant justification.
+
+Les produits de la taxe visée à l'article 40 de l'ordonnance du 14 juin 2012 relative aux déchets sont affectés par l'Agence Régionale pour la Propreté exclusivement aux dépenses se rapportant aux investissements supplémentaires favorisant la prévention, le tri, le réemploi ou le recyclage, à savoir:
+
+1° la construction et la rénovation de déchetteries ou de parcs à conteneurs;
+
+2° la mise en place d'unité(s) de démantèlement multi-matières en vue du réemploi et du recyclage, tel que l'Ecopôle;
+
+3° la construction de l'unité de biométhanisation;
+
+4° l'acquisition de véhicules, matériel et équipements destinés à des collectes sélectives;
+
+5° l'acquisition et la mise en place de matériel de collecte sélective en voirie et dans les bâtiments publics;
+
+6° le développement d'actions de communication relatives à la prévention, au tri, au réemploi ou au recyclage;
+
+7° l'Ecole de propreté.
+
+Le cas échéant, si un solde de budget reste disponible, ce solde peut être affecté aux frais de fonctionnement et de personnel qui sont liés à ces investissements.
+
+Lorsque les objectifs de recyclage définis à l'article 22, § 2, de l'ordonnance du 14 juin 2012 relative aux déchets sont atteints, l'Agence Régionale pour la Propreté peut également allouer les moyens du Fonds à des investissements destinés à améliorer la valorisation des déchets.
+
+Les moyens du Fonds ne peuvent être alloués à des dépenses se rapportant à l'incinération.
+
+Les moyens du Fonds sont affectés par Bruxelles Environnement exclusivement aux dépenses supplémentaires se rapportant:
+
+1° au développement d'actions visant à promouvoir la réduction et le tri des déchets ainsi que la consommation durable;
+
+2° aux actions en vue de lutter contre les gaspillages;
+
+3° aux actions pour la promotion d'achats durables par les pouvoirs publics et par les citoyens;
+
+4° à la promotion du compostage décentralisé;
+
+5° au développement et au soutien de services encourageant la réutilisation et le réemploi;
+
+6° au développement de ressourceries;
+
+7° aux actions en vue de lutter contre le suremballage et les emballages superflus;
+
+8° au développement de programmes d'éducation à la réduction et au tri des déchets;
+
+9° à la participation à la Semaine européenne de Réduction des Déchets;
+
+10° à la rémunération du personnel en charge du contrôle des obligations de tri et de contrat visées aux articles 19 et 23 de l'ordonnance du 14 juin 2012 relative aux déchets et de la mise en oeuvre et du suivi des actions susmentionnées.
+
+L'Agence Régionale pour la Propreté et Bruxelles Environnement communiquent chaque année, en octobre, au Gouvernement, un rapport reprenant l'affectation précise des moyens du Fonds au cours de l'année écoulée ainsi que les affectations projetées pour les deux années suivantes et leur contribution à l'atteinte des objectifs européens et régionaux tels que visés à l'article 22.
+
+Le Fonds est géré par le Gouvernement de la Région de Bruxelles-Capitale.
+
+La totalité des recettes de la taxe visée à l'article 41 de l'ordonnance du 14 juin 2012 relative aux déchets est allouée à l'Agence Régionale pour la Propreté. Les produits de cette taxe sont affectés exclusivement aux dépenses se rapportant:
+
+\- à des investissements supplémentaires en matière de collecte sélective en ce compris les déchetteries;
+
+\- aux frais de fonctionnement et de personnel se rapportant à ces investissements.
+
+La totalité des recettes visées aux articles 8, 9, § 10, 13 et 14 de l'accord de coopération du 9 février 2026 concernant le cadre de la responsabilité élargie des producteurs pour certains flux de déchets et pour les déchets sauvages, et aux articles 7, § 4, et 14bis de l'accord de coopération du 4 novembre 2008 concernant la prévention et la gestion des déchets d'emballages, est allouée à Bruxelles Environnement.
+
+Les produits des recettes visées aux articles 8, 9, § 10, 13 et 14 de l'accord de coopération du 9 février 2026 concernant le cadre de la responsabilité élargie des producteurs pour certains flux de déchets et pour les déchets sauvages, et aux articles 7, § 4, et 14bis de l'accord de coopération du 4 novembre 2008 concernant la prévention et la gestion des déchets d'emballages, sont affectés aux dépenses se rapportant:
+
+1° à la prévention et le réemploi des déchets concernés;
+
+2° à la lutte contre la présence des déchets concernés dans les déchets sauvages, les dépôts clandestins et les déchets résiduels;
+
+3° à la recherche et le développement aux fins d'améliorer la qualité des produits concernés et principalement leur recyclabilité;
+
+4° à l'amélioration des résultats et/ou de la qualité des collectes sélectives des déchets concernés;
+
+5° à la collecte non sélective et le traitement des déchets concernés;
+
+6° à la rémunération et aux moyens de fonctionnement du personnel chargé du contrôle, la mise en oeuvre et le suivi des actions susmentionnées;
+
+7° au rapportage et à l'évaluation concernant ces déchets;
+
+8° à la promotion d'un traitement local et de qualité, dans le cadre de l'économie circulaire.
+
+Les recettes visées aux articles 22 et 27 de l'accord de coopération du 9 février 2026 concernant le cadre de la responsabilité élargie des producteurs pour certains flux de déchets et pour les déchets sauvages et à l'article 13, § 1er, 14°, de l'accord de coopération du 4 novembre 2008 concernant la prévention et la gestion des déchets d'emballages 'sont réparties entre les communes et la Région à concurrence de 54 % pour les communes et 46 % pour la Région en vue de l'accomplissement des tâches définies ci-dessous.
+
+Le Gouvernement peut déroger à la répartition visée à l'alinéa précédent moyennant justification.
+
+Les recettes doivent être prioritairement affectées aux dépenses se rapportant:
+
+1° à la rémunération du personnel et aux moyens de fonctionnement de Bruxelles Environnement et de la Commission Interrégionale de la REP en charge d'organiser la mise en oeuvre, le suivi et le contrôle des nouvelles obligations prévues par l'accord de coopération du 9 février 2026 concernant le cadre de la responsabilité elargie des producteurs pour certains flux de déchets et pour les déchets sauvages;
+
+2° à la rémunération du personnel et aux moyens de fonctionnement de l'Agence Régionale pour la Propreté en charge de la redistribution des recettes et l'octroi de subventions aux bénéficiaires communaux ainsi que de leur contrôle.
+
+Le solde des recettes doit être affecté par les communes et la Région aux dépenses se rapportant:
+
+1° au développement d'actions de communication et de sensibilisation relatives à la prévention et à la lutte contre les déchets sauvages conformément à l'Article 33 de l'accord de coopération du 9 février 2026 concernant le cadre de la responsabilité élargie des producteurs pour certains flux de déchets et pour les déchets sauvages, en ce compris dans les espaces verts;
+
+2° à l'élimination des déchets sauvages ainsi que du transport et du traitement ultérieurs de ces déchets sauvages, conformément aux dispositions régionales, en ce compris dans les espaces verts;
+
+3° à la collecte de déchets de produits, abandonnés dans des systèmes publics de collecte, y compris les coûts d'infrastructure et d'exploitation desdits systèmes, ainsi que du transport et du traitement ultérieurs de ces déchets. Ces coûts peuvent également porter sur la mise en place d'une infrastructure spécifique pour la collecte, sélective ou non, de déchets de ces produits, telle que des récipients appropriés dans les endroits où l'on retrouve fréquemment des déchets sauvages, en ce compris dans les espaces verts;
+
+4° à la rémunération et aux moyens de fonctionnement du personnel communal et régional chargé de la mise en oeuvre et du suivi des actions visées aux points 1° à 3°.
+
+Le Gouvernement arrête les modalités de répartition des recettes entre les entités régionales et interrégionale concernées]<sup>45</sup>.
+
+[<sup>4</sup> 18° le Fonds Climat. ".
+
+Sont affectés à ce fonds :
+
+1° les amendes administratives perçues en vertu [<sup>19</sup> de l'article 3.2.16, § 5, de l'article 3.4.1/1 et]<sup>19</sup> de l'article 3.4.2 du Code bruxellois de l'air, du climat et de la maîtrise de l'énergie;
+
+2° le produit de l'attribution onéreuse des quotas qui ne sont pas alloués à titre gratuit;
+
+3° le produit de la vente d'unités carbone;
+
+4° le produit de la charge environnementale visée aux articles 2.3.55 à 2.3.62 du Code bruxellois de l'Air, du Climat et de la maîtrise de l'énergie;
+
+5° les moyens, fonds ou subventions qui lui sont alloués, en vertu de dispositions légales;
+
+[<sup>20</sup> 6° le produit de la vente des certificats verts couvrant la production des panneaux photovoltaïques appartenant à Bruxelles Environnement en vertu du point 9° de l'article 24bis de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale ;
+
+7° [<sup>24</sup> ...]<sup>24</sup> [<sup>34</sup> les recettes de la mise aux enchères des quotas d'émission de gaz à effet de serre pour le secteur du bâtiment, le secteur du transport routier et les autres secteurs visés à l'article 3.3.16/1, § 2, du Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie;]<sup>34</sup>]<sup>20</sup>
+
+[<sup>34</sup> 8° les ressources allouées à la Région de Bruxelles-Capitale, issues du Fonds social pour le climat institué par le règlement (UE) 2023/955 du Parlement européen et du Conseil du 10 mai 2023 instituant un Fonds social pour le climat et modifiant le règlement (UE) 2021/1060;]<sup>34</sup>
+
+Les moyens du fonds sont affectés :
+
+1° aux mesures relatives aux bâtiments, aux installations et aux produits et visant à la réduction des émissions de gaz à effet de serre, notamment les frais de personnel, les frais informatiques et les frais d'expertise;
+
+2° aux mesures relatives au transport et à la mobilité et visant à la réduction des émissions de gaz à effet de serre [<sup>19</sup> et de polluants atmosphériques]<sup>19</sup>, notamment les frais de personnel, les frais informatiques et les frais d'expertise. Le montant affecté à ces mesures correspond à 50 % du montant annuel total des recettes issues du produit de la charge environnementale visée aux articles 2.3.55 et suivants du Code bruxellois de l'Air, du Climat et de la maîtrise de l'énergie [<sup>19</sup> ainsi que la totalité du produit des paiements de l'accès temporaire payant prévu à l'article 3.2.16, § 5 et des amendes imposées en vertu de l'article 3.4.1/1 du Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie. Ce dernier montant couvre en premier lieu les frais qui relèvent du fonctionnement de la ou des zones de basses émissions]<sup>19</sup>;
+
+3° au financement des politiques climatiques élaborées par les pays en voie de développement;
+
+4° au financement de projets qui génèrent des unités carbone dans le cadre de l'utilisation des mécanismes de projet;]<sup>4</sup>
+
+[<sup>24</sup> 5° l'accompagnement des pouvoirs publics régionaux, communautaires et locaux dans le cadre du projet régional de rénovation des bâtiments de ces pouvoirs publics et de déploiement des installations de production d'électricité verte sur les sites de ces pouvoirs publics, tel que visé à l'article 24bis, 9°, de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale. 100 % du montant annuel total du produit de la vente des certificats verts couvrant la production des installations de production d'électricité verte mis à disposition par Bruxelles Environnement en vertu de l'article 24bis, 9°, de l'ordonnance précitée sont affectés à cet accompagnement.]<sup>24</sup>
+
+[<sup>15</sup> 18° [<sup>33</sup> ...]<sup>33</sup>]<sup>15</sup>
+
+[<sup>8</sup> 19° [<sup>33</sup> ...]<sup>33</sup>]<sup>8</sup>
+
+[<sup>14</sup> 20° Le " Fonds de recherche, de constatation et de poursuite des infractions urbanistiques. ".
+
+Sont affectés à ce Fonds le montant des transactions administratives ainsi que toute autre somme perçue par la Région à la suite des décisions des cours et tribunaux à charge des contrevenants au Code bruxellois de l'aménagement du territoire, ainsi que le montant des amendes administratives infligées à charge des contrevenants du fait des infractions énumérées à l'article 300 de ce Code.
+
+Les moyens du Fonds sont affectés aux dépenses afférentes à la recherche, à la constatation et à la poursuite des infractions à ce Code, aux dépenses afférentes aux mesures d'arrêt des actes et travaux commis en infraction à ce même Code et aux mesures d'exécution d'office et de remise en état.
+
+Quatre-vingt-cinq pour cent des sommes versées dans ce Fonds sont ristournés à la commune sur le territoire de laquelle l'infraction a été constatée.
+
+Quinze pour cent des sommes versées dans ce Fonds sont affectés aux frais de fonctionnement du service régional chargé de la procédure en matière d'amendes administratives du fait des infractions énumérées à l'article 300 du Code bruxellois de l'aménagement du territoire.]<sup>14</sup>
+
+[<sup>17</sup> 21° Le " Fonds de Sécurité routière de la Région de Bruxelles-Capitale ".
+
+Sont affectées au Fonds, les recettes résultant des amendes perçues pour les infractions régionalisées dans le cadre de la sixième réforme de l'Etat et les recettes résultant des rétributions et des redevances diverses, en particulier :
+
+1° des amendes perçues pour les infractions aux dispositions prévues à l'article 6, XII, de la loi spéciale du 8 août 1980 de réformes institutionnelles;
+
+2° des redevances pour l'homologation des véhicules, en ce compris les cyclomoteurs et motos, leurs composants, accessoires, systèmes ou entités techniques et remorques, tout comme les redevances pour la certification des processus techniques réalisés par le fabricant et les processus d'homologation;
+
+3° des redevances pour la certification, l'exploitation, les coûts administratifs et les coûts d'inspection des services techniques agréés, les centres de diagnostic, les installateurs agréés et les organismes agréés qui sont actifs dans le cadre du contrôle des véhicules en circulation et leurs composants, accessoires, systèmes ou entités techniques et remorques, en ce compris les cyclomoteurs et motos;
+
+4° des redevances pour la certification, l'exploitation, les coûts administratifs et les coûts d'inspection des auto-écoles agréées, les centres d'examen agréés et les centres de formation agréés pour la formation à la conduite, l'examen, l'aptitude professionnelle et la formation continue;
+
+5° des recettes provenant des amendes administratives suite à une infraction commise par les services techniques agréés, les installateurs agréés et les organismes agréés qui sont actifs dans le cadre du contrôle des véhicules mis en circulation, les auto-écoles agréées, les centres d'examen agréés et les centres de formation agréés pour la formation à la conduite, les examens, l'aptitude professionnelle et la formation continue;
+
+6° des redevances pour l'introduction d'un recours en cas d'échec à l'examen en vue de l'obtention d'un permis de conduire;
+
+7° des redevances pour l'obtention du brevet d'aptitude professionnelle des auto-écoles agréées, ainsi que des redevances pour la délivrance de certificats de qualification pour les conducteurs de véhicules dans le cadre de l'aptitude professionnelle et de la formation continue;
+
+8° des redevances des tiers en matière de métrologie légale des instruments de mesure.
+
+Les moyens du Fonds de Sécurité routière sont affectés à la politique de sécurité routière de la Région de Bruxelles- Capitale, telle que définie à l'article 6, XII, de la loi spéciale du 8 août 1980 de réformes institutionnelles, en particulier :
+
+1° des dépenses de toute nature pour les services, les études, les commissions, les marchés publics, l'achat de matériel durable et non durable dans le cadre de la sécurité routière;
+
+2° des dépenses de toute nature pour des actions en matière de promotion, d'information, de formation et de sensibilisation;
+
+3° les subventions pour les zones de police, la police fédérale de la route et les communes;
+
+4° les subventions aux associations, institutions, entreprises ou organismes qui sont actifs en matière de sécurité routière;
+
+5° les dépenses juridiques et diverses indemnisations;
+
+6° les dépenses d'investissement pour des interventions rapides et limitées au niveau de l'infrastructure existante des voiries régionales dans le cadre de l'amélioration de la sécurité routière;
+
+7° des dépenses d'investissement pour l'achat et l'installation des instruments et du matériel dans le cadre de la politique de sécurité routière, comme les instruments de mesure, l'équipement électrique et électromécanique, les équipements et dispositifs du contrôle-sanction, en ce compris la maintenance de ces équipements et dispositifs;
+
+8° des dépenses de toute nature relatives à l'homologation des instruments de mesure, l'homologation des équipements et des dispositifs de contrôle-sanction et l'homologation des véhicules, ainsi que les dépenses pour les services techniques agréés;
+
+9° des dépenses relatives aux frais de fonctionnement et de personnel nécessaires au développement de la poli- tique de sécurité routière;
+
+10° des indemnités versées aux commissaires dans le cadre d'un appel contre les résultats d'un examen pratique ainsi que les remboursements lorsque le requérant du recours obtient gain de cause;
+
+11° des indemnités versées aux présidents, membres, secrétaires et aidants de la commission d'examen dans le cadre des brevets d'aptitude professionnelle des instructeurs d'auto-école.
+
+La part des moyens du fonds pouvant être consacrée aux frais de personnel ne pourra toutefois jamais dépasser le total des recettes des redevances qui sont accordées au fonds.]<sup>17</sup>
+
+[<sup>18</sup> 22° Le " Fonds régional de traitement des pollutions orphelines du sol ".
+
+Sont affectées au fonds les recettes résultant :
+
+\- de l'intervention de la Région de Bruxelles-Capitale dans le budget de [<sup>22</sup> Bruxelles Environnement]<sup>22</sup> ;
+
+\- des rétributions des attestations du sol délivrées par [<sup>22</sup> Bruxelles Environnement]<sup>22</sup>, en vertu de l'ordonnance du 5 mars 2009 relative à la gestion et à l'assainissement des sols ;
+
+\- des contributions du Fonds européen de développement économique régional dans le cadre des programmes et projets développés en commun avec l'Union européenne.
+
+Les moyens du fonds sont affectés aux frais exposés pour le traitement des pollutions orphelines en Région de Bruxelles-Capitale, telles qu'elles sont définies par l'article 3, 18°, de l'ordonnance du 5 mars 2009 relative à la gestion et à l'assainissement des sols, par les titulaires d'obligations découlant de l'application de cette ordonnance ou par [<sup>22</sup> Bruxelles Environnement]<sup>22</sup> en exécution de cette ordonnance. ]<sup>18</sup>
+
+[<sup>34</sup> Les recettes visées à l'alinéa 1er, 7°, sont affectées:
+
+1° aux mesures visées à l'alinéa 2, 1° et 2°, en donnant la priorité aux activités permettant de contribuer à traiter les aspects sociaux du système d'échange de quotas d'émission de gaz à effet de serre pour le secteur du bâtiment, le secteur du transport routier et les autres secteurs visés à l'article 3.3.16/1, § 2, du Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie;
+
+2° aux mesures destinées à financer le plan social pour le climat conformément à l'article 15 du règlement (UE) 2023/955 du Parlement européen et du Conseil du 10 mai 2023 instituant un Fonds social pour le climat et modifiant le règlement (UE) 2021/1060;
+
+3° aux mesures destinées à accorder une compensation financière aux consommateurs finaux de carburants lorsqu'il n'a pas été possible d'éviter la double comptabilisation des émissions ou dans les cas où des quotas ont été restitués pour des émissions non couvertes par le chapitre 1er bis du titre 3 du livre 3 du Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie;
+
+4° aux mesures destinées à accélérer l'adoption de véhicules à émissions nulles ou à soutenir financièrement le déploiement d'infrastructures de recharge et de ravitaillement pleinement interopérables pour les véhicules à émissions nulles, ou les mesures visant à encourager le recours aux transports publics et à améliorer la multimodalité, ou à fournir une aide financière destinée à traiter les aspects sociaux en ce qui concerne les usagers des transports à revenus faibles et moyens;
+
+5° aux mesures destinées à contribuer à la décarbonation des systèmes de chauffage et de refroidissement des bâtiments ou à la réduction des besoins énergétiques de ceux-ci ainsi que les mesures visant à fournir une aide financière aux ménages à faible et moyen revenu dans les bâtiments les moins performants, y compris l'intégration des énergies renouvelables et des autres mesures connexes suivantes:
+
+a) mesures d'efficacité énergétique ou mesures alternatives de politique publique en faveur des ménages vulnérables, y compris ceux qui se trouvent en situation de précarité énergétique, et, le cas échéant, dans les logements sociaux;
+
+b) mesures pour promouvoir et favoriser une utilisation efficace de l'énergie par les petits clients, y compris les ménages.
+
+Les recettes visées à l'alinéa 1er, 8°, sont affectées aux mesures du plan social pour le climat visé à l'article 4 du règlement (UE) 2023/955 du Parlement européen et du Conseil du 10 mai 2023 instituant un Fonds social pour le climat et modifiant le règlement (UE) 2021/1060.]<sup>34</sup>
+
+----------
+
+(1)&lt;ORD 2009-04-30/04, art. 3, 015; En vigueur : 01-01-2010&gt;
+
+(2)&lt;ORD 2011-07-20/28, art. 65, 016; En vigueur : 20-08-2011&gt;
+
+(3)&lt;ORD 2012-06-14/02, art. 71, 017; En vigueur : 07-07-2012&gt;
+
+(4)&lt;ORD 2013-05-02/09, art. 4.1.4, 018; En vigueur : 31-05-2013&gt;
+
+(5)&lt;ORD 2013-05-30/13, art. 2, 019; En vigueur : 19-06-2013&gt;
+
+(6)&lt;ORD 2008-07-03/43, art. 91,§3, 019; En vigueur : 01-11-2013&gt;
+
+(7)&lt;ORD 2013-07-11/08, art. 4, 020; En vigueur : 28-07-2013&gt;
+
+(8)&lt;ORD 2014-04-03/31, art. 18, 021; En vigueur : 24-05-2014&gt;
+
+(9)&lt;ARR 2014-05-08/61, art. 6, 022; En vigueur : 03-07-2014&gt;
+
+(10)&lt;ARR 2014-05-08/61, art. 7, 022; En vigueur : 03-07-2014&gt;
+
+(11)&lt;ARR 2014-05-08/61, art. 8, 022; En vigueur : 03-07-2014&gt;
+
+(12)&lt;ORD 2014-04-03/22, art. 20, 023; En vigueur : 01-08-2014&gt;
+
+(13)&lt;ORD 2015-07-09/08, art. 2, 024; En vigueur : 20-07-2015&gt;
+
+(14)&lt;ORD 2015-07-09/08, art. 3, 024; En vigueur : 20-07-2015&gt;
+
+(15)&lt;ORD 2014-02-27/08, art. 6, 025; En vigueur : 27-03-2014&gt;
+
+(16)&lt;ORD 2016-07-20/44, art. 2, 026; En vigueur : 27-10-2016&gt;
+
+(17)&lt;ORD 2016-07-20/44, art. 3, 026; En vigueur : 27-10-2016&gt;
+
+(18)&lt;ORD 2017-06-23/23, art. 82, 027; En vigueur : 23-07-2017&gt;
+
+(19)&lt;ORD 2017-12-07/03, art. 16, 028; En vigueur : 01-01-2018&gt;
+
+(20)&lt;ORD 2018-07-23/07, art. 88, 029; En vigueur : 30-09-2018&gt;
+
+(21)&lt;ORD 2018-05-03/08, art. 92,§2, 030; En vigueur : 01-10-2019&gt;
+
+(22)&lt;ORD 2018-05-03/03, art. 3, 031; En vigueur : 24-05-2018&gt;
+
+(23)&lt;ORD 2022-03-17/20, art. 3, 032; En vigueur : 29-04-2022&gt;
+
+(24)&lt;ORD 2022-03-17/21, art. 153, 033; En vigueur : 30-04-2022&gt;
+
+(25)&lt;ORD 2022-03-31/12, art. 33, 034; En vigueur : 23-12-2022&gt;
+
+(26)&lt;ORD 2022-12-23/22, art. 10, 035; En vigueur : 01-01-2023&gt;
+
+(27)&lt;ORD 2022-12-23/22, art. 17, 035; En vigueur : 01-01-2023&gt;
+
+(28)&lt;ORD 2022-12-15/26, art. 8, 036; En vigueur : 01-06-2023&gt;
+
+(29)&lt;ORD 2023-12-22/64, art. 10, 037; En vigueur : 01-01-2024&gt;
+
+(30)&lt;ORD 2023-12-22/64, art. 17, 037; En vigueur : 01-01-2024&gt;
+
+(31)&lt;ORD 2024-04-04/24, art. 203, 038; En vigueur : 01-01-2025&gt;
+
+(32)&lt;ORD 2024-04-04/24, art. 205, 038; En vigueur : 01-01-2024&gt;
+
+(33)&lt;ORD 2024-04-04/24, art. 210, 038; En vigueur : 01-01-2025&gt;
+
+(34)&lt;ORD 2025-02-13/04, art. 40, 039; En vigueur : 18-02-2025&gt;
+
+(35)&lt;ORD 2024-12-20/92, art. 30, 040; En vigueur : 01-01-2025&gt;
+
+(36)&lt;ORD 2024-12-20/92, art. 38, 040; En vigueur : 01-01-2025&gt;
+
+(37)&lt;ORD 2025-03-21/11, art. 28, 041; En vigueur : 01-04-2025&gt;
+
+(38)&lt;ORD 2025-03-21/11, art. 36, 041; En vigueur : 01-04-2025&gt;
+
+(39)&lt;ORD 2025-06-20/18, art. 36, 042; En vigueur : 01-07-2025&gt;
+
+(40)&lt;ORD 2025-09-29/05, art. 32, 043; En vigueur : 01-10-2025&gt;
+
+(41)&lt;ORD 2025-09-29/05, art. 40, 043; En vigueur : 01-10-2025&gt;
+
+(42)&lt;ORD 2025-12-18/17, art. 31, 044; En vigueur : 01-01-2026&gt;
+
+(43)&lt;ORD 2025-12-18/17, art. 39, 044; En vigueur : 01-01-2026&gt;
+
+(44)&lt;ORD 2025-09-29/05, art. 40, 043; En vigueur : 01-10-2025&gt;
+
+(45)&lt;ORD 2026-03-19/10, art. 3, 045; En vigueur : 12-04-2026&gt;
+
+(46)&lt;ORD 2026-03-28/02, art. 8, 046; En vigueur : 01-01-2026&gt;
+
+(47)&lt;ORD 2026-03-28/02, art. 15, 046; En vigueur : 01-01-2026&gt;
+
+### Art. 3
+
+Le " Fonds budgétaire interdépartemental de promotion de l'emploi " créé par l'ordonnance du 20 décembre 1990, est un fonds budgétaire au sens de l'article 45 des lois sur la comptabilité de l'Etat, coordonnées le 17 juillet 1991.
+
+### Art. 3bis
+
+&lt;Abrogé par ORD 2011-07-20/28, art. 65, 016; En vigueur : 20-08-2011&gt;
+
+## CHAPITRE III. - MODALITES D'AFFECTATION ET DE PAIEMENT.
+
+### Art. 4
+
+Les dépenses imputables aux fonds organiques sont soumises au visa préalable de la Cour des Comptes.
+
+### Art. 5
+
+(abrogé) &lt;ORD 1998-05-20/40, art. 3, 006; En vigueur : 17-07-1998&gt;
+
+### Art. 6
+
+Chaque année l'ordonnance contenant le budget général des dépenses de la Région de Bruxelles-Capitale définit le programme ou les programmes auxquels seront affectés les moyens de chaque fonds budgétaire.
+
+## CHAPITRE IV. - TRANSFERT DE SOLDES.
+
+### Art. 7
+
+Les soldes d'engagement et d'ordonnancement disponibles au 31 décembre 1991 des fonds existants peuvent être versés au budget des Voies et Moyens de l'année 1992.
+
+Le montant de ces soldes est fixé dans le Titre II, section III du tableau annexé à l'ordonnance contenant le budget des Voies et Moyens de la Région de Bruxelles-Capitale pour l'année budgétaire 1992.
+
+### Art. 8
+
+Les engagements existant au 31 décembre 1991 sur les fonds supprimés ou transformés en fonds organiques seront rattachés aux allocations de base correspondantes du budget administratif.
+
+### Art. 9
+
+Les engagements visés à l'article 8 peuvent être apurés à charge de crédits dissociés ou non-dissociés inscrits au budget général des dépenses.
+
+L'encours des engagements des fonds transformés en fonds organiques peut également être apuré à charge de crédits variables disponibles sur l'allocation de base du fonds organique concerné.
+
+### Art. 10
+
+Les engagements existant sur les fonds budgétaires, antérieurs au 1er janvier 1982, sont annulés.
+
+## CHAPITRE V. - DISPOSITIONS MODIFICATIVES ET ABROGATOIRES.
+
+### Art. 11
+
+&lt;Insertion d'un article 39bis dans L 1954-07-01/30&gt;
+
+### Art. 12
+
+&lt;Insertion d'un article 2bis dans l'ORD 1990-12-20/35&gt;
+
+### Art. 13
+
+Sont abrogés :
+
+1\. &lt;disposition abrogatoire des articles 36 et 37 de L 1954-07-01/30&gt;
+
+2\. l'arrêté royal n° 1 du 18 avril 1967 créant un Fonds d'expansion économique et de reconversion régionale;
+
+3\. les articles 38 à 40 du Code du logement;
+
+4\. la dernière phrase du deuxième alinéa de l'article 9 de l'ordonnance de la Région de Bruxelles-Capitale du 10 janvier 1991 contenant le budget général des dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 1991 ".
+
+### Art. 14
+
+La présente ordonnance entre en vigueur le 1er janvier 1992.

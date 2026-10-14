@@ -1,0 +1,91 @@
+---
+title: "Ordonnance portant création d'un système de prime à l'embauche de certaines catégories de demandeurs d'emploi de la Région de Bruxelles-Capitale."
+identifier: "1991031262"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1991/08/29/1991031262/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1991-08-29
+published: 1991-10-08
+entry_into_force: 1991-11-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1991/08/29/1991031262/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 29 AOUT 1991. - Ordonnance portant création d'un système de prime à l'embauche de certaines catégories de demandeurs d'emploi de la Région de Bruxelles-Capitale.
+
+## Art. 1
+
+La présente ordonnance règle une manière visée à l'article 107quater de la Constitution.
+
+## Art. 2
+
+Pour l'application de la présente ordonnance, on entend par:
+
+1° le demandeur d'emploi: le demandeur d'emploi inscrit à l'Office régional bruxellois de l'emploi;
+
+2° l'entreprise: l'entreprise dont le siège social ou le siège d'exploitation est situé sur le territoire de la Région de Bruxelles-Capitale;
+
+3° l'Office: l'Office régional bruxellois de l'emploi;
+
+4° le Comité de gestion: le Comité de gestion de l'Office régional bruxellois de l'emploi.
+
+## Art. 3
+
+Lorsque les conditions visées aux articles 4 et 5 sont réunies, l'Exécutif peut, dans les limites des moyens budgétaires, octroyer une prime aux entreprises qui en font la demande et qui engagent des demandeurs d'emploi relevant des catégories qui sont définies par l'Exécutif sur avis du Comité de gestion et sur la base de un ou de plusieurs critères dont prioritairement:
+
+1° l'âge;
+
+2° le niveau de scolaire;
+
+3° la durée d'inoccupation du demandeur d'emploi;
+
+4° l'expérience professionnelle acquise par le demandeur d'emploi;
+
+5° le fait d'avoir été bénéficiaire de mesures agréées par l'Exécutif en matière d'insertion socio-professionnelle.
+
+L'Exécutif arrête, sur avis du Comité de gestion, les modalités d'introduction de la demande de prime. Il peut arrêter, sur avis du Comité de gestion, une disposition selon laquelle le nombre maximum de primes octroyées est fonction du nombre de travailleurs occupés ou du secteur d'activité de l'entreprise.
+
+La prime est de (375 EUR) par mois pendant une période de douze mois maximum, pour un emploi à temps plein. &lt;ARR 2001-12-11/55, art. 3, 002; En vigueur : 01-01-2002&gt;
+
+Elle est réduite à (186 EUR) pour le recrutement d'une personne travaillant à mi-temps, ou plus, sans qu'il puisse être question d'une occupation à temps plein. &lt;ARR 2001-12-11/55, art. 3, 002; En vigueur : 01-01-2002&gt;
+
+L'Exécutif peut modifier le montant de la prime.
+
+Il ne peut réserver temporairement le bénéfice de la prime à certaines catégories d'entreprises qu'après avis du Comité de gestion et sur base de la pénurie de main-d'oeuvre dans un secteur d'activité.
+
+## Art. 4
+
+§ 1er. Pour bénéficier de la prime, l'entreprise doit:
+
+1° avoir fait connaître l'offre d'emploi à l'Office;
+
+2° recruter le demandeur d'emploi dans les liens d'un contrat de travail à duriée indéterminée;
+
+3° avoir satisfait aux obligations fixées par l'arrêté royal n° 230 du 21 décembre 1983 relatif au stage et l'insertion professionnelle des jeunes, confirmé par la loi du 6 décembre 1984;
+
+4° occuper le travailleur dans la Région de Bruxelles-Capitale.
+
+§ 2. Le recrutement doit correspondre à une augmentation nette de l'emploi, par rapport aux quatre trimestres qui précèdent l'engagement. Cette augmentation doit être maintenue pendant toute la période de paiement de la prime.
+
+L'Exécutif arrête, sur avis du Comité de gestion, les modalités d'application et de contrôle des dispositions du présent paragraphe.
+
+## Art. 5
+
+La prime ne peut pas être octroyée pour des travailleurs recrutés en exécution des programmes de remise au travail des chômeurs complets indémnisés ou des personnes assimilées.
+
+## Art. 6
+
+L'Office est chargé de payer trimestriellement la prime aux entreprises. La prime n'est due que pour les périodes effectivement rémunérées.
+
+Les périodes non rémunérées suspendent la période de douze mois.
+
+La période de douze mois visée à l'article 3, alinéa 3, est prolongée de la durée des périodes non rémunérées. L'entreprise devra fournir à l'Office la preuve de ce que la rémunération a effectivement été payée aux travailleurs pour lesquels la prime est octroyée.
+
+## Art. 7
+
+L'Exécutif fixe la date de l'entrée en vigueur de la présente ordonnance.

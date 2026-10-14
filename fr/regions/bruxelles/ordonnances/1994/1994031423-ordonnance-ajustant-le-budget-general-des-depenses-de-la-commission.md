@@ -1,0 +1,109 @@
+---
+title: "Ordonnance ajustant le budget général des dépenses de la Commission Communautaire Commune pour l'année budgétaire 1994."
+identifier: "1994031423"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1994/09/08/1994031423/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1994-09-08
+published: 1994-10-19
+entry_into_force: 1994-10-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1994/09/08/1994031423/justel"
+department: "Commission communautaire commune - Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 8 SEPTEMBRE 1994. - Ordonnance ajustant le budget général des dépenses de la Commission Communautaire Commune pour l'année budgétaire 1994.
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 135 de la Constitution coordonnée le 17 février 1994.
+
+## Art. 2
+
+Suite au contrôle budgétaire effectué en application de l'article 19 des lois sur la comptabilité de l'Etat, coordonnées le 17 juillet 1991, les crédits inscrits au budget général des dépenses pour l'année budgétaire 1994 sont établis comme suit :
+
+En millions de francs Credits d'engagement Credits d'ordonnancem
+
+Credits non dissocies
+
+Initial 1.117,2 1.117,2
+
+Credits supplementaires 76,6 76,6
+
+Ajuste 1.193,8 1.193,8
+
+Credits dissocies
+
+Initial 610,0 452,0
+
+Credits supplementaires - 190,0
+
+Ajuste 610,0 642,0
+
+Total
+
+Initial 1.727,2 1.569,2
+
+Ajuste 1.803,8 1.835,8
+
+## Art. 3
+
+§ 1. Le Collège réuni est autorisé à créer une nouvelle division 00 " Cabinets et Conseil ".
+
+§ 2. Le crédit inscrit à l'allocation de base 01.01 est versé au Budget des Voies et Moyens du Ministère de la Région de Bruxelles-Capitale.
+
+## Art. 4
+
+Le Collège réuni est autorisé à octroyer des subventions de fonctionnement à charge des allocations de base figurant dans le budget administratif et reprises ci-après :
+
+\- Habitations protegees
+
+(AB 02.4.1.33.05)
+
+\- Projets d'accompagnement de victimes en milieu hospitalier - secteur priv
+
+(AB 02.4.1.33.06)
+
+\- Projets d'accompagnement de victimes en milieu hospitalier - secteur publ
+
+(AB 02.4.1.43.41)
+
+\- Achat de materiel informatique mis a disposition des CPAS de la Region de
+
+Bruxelles-Capitale par la Commission Communautaire Commune
+
+(AB 03.1.8.74.02).
+
+## Art. 5
+
+La présente ordonnance entre en vigueur le jour de la publication au Moniteur belge.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 8 septembre 1994.
+
+Membre du Collège réuni compétent pour la Politique de Santé,
+
+J. CHABERT
+
+Membre du Collège réuni compétent pour la Politique de Santé,
+
+D. HARMEL
+
+Membre du Collège réuni compétent pour la Politique d'Aide aux Personnes,
+
+D. GOSUIN
+
+Membre du Collège réuni compétent pour la Politique d'Aide aux Personnes,
+
+R. GRIJP
+
+## ANNEXE.
+
+## Art. N
+
+I. Annexe au projet d'ordonnance ajustant le budget général des dépenses de la Commission Communautaire Commune pour l'année 1994. &lt;Tableau non repris pour des raisons techniques. Voir MB 19/10/1994, p. 26442-26443&gt;

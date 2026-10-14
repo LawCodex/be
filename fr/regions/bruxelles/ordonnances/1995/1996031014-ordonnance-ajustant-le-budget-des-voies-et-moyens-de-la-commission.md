@@ -1,0 +1,69 @@
+---
+title: "Ordonnance ajustant le Budget des voies et moyens de la Commission communautaire commune pour l'année budgétaire 1995."
+identifier: "1996031014"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1995/12/22/1996031014/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1995-12-22
+published: 1996-02-14
+entry_into_force: 1995-12-22
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1995/12/22/1996031014/justel"
+department: "Commission communautaire commune"
+retrieved: 2026-10-15
+---
+
+# 22 DECEMBRE 1995. - Ordonnance ajustant le Budget des voies et moyens de la Commission communautaire commune pour l'année budgétaire 1995.
+
+L'Assemblée réunie a adopté et Nous, Collège réuni, sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 135 de la Constitution, coordonnée le 17 février 1994.
+
+## Art. 2
+
+Pour l'année budgétaire 1995, les recettes de la Commission communautaire commune sont réévaluées à 1 901 000 000 francs conformément au tableau ci-annexé.
+
+## Art. 3
+
+Le Collège réuni est autorisé à couvrir l'excédent des dépenses sur les recettes par prélèvement sur les soldes positifs des années antérieures à concurrence de 191 000 000 francs.
+
+## Art. 4
+
+Le Collège réuni est autorisé à décider des placements.
+
+## Art. 5
+
+La présente ordonnance entre en vigueur le jour de sa sanction par le Collège réuni.
+
+## ANNEXE.
+
+## Art. N1
+
+Tableau 1. Recettes générales.
+
+(tableau non repris pour des raisons techniques, voir M.B. 14-02-1996, p. 3188 à 3189).
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 22 décembre 1995.
+
+Le Membre du Collège réuni compétent pour la politique de Santé,
+
+J. CHABERT
+
+Le Membre du Collège réuni compétent pour la politique de Santé,
+
+H. HASQUIN
+
+Le Membre du Collège réuni compétent pour la politique d'Aide aux personnes,
+
+D. GOSUIN
+
+Le Membre du Collège réuni compétent pour la politique d'Aide aux personnes,
+
+R. GRIJP

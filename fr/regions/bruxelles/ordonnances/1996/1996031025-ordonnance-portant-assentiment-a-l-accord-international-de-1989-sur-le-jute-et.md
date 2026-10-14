@@ -1,0 +1,57 @@
+---
+title: "Ordonnance portant assentiment à : l'Accord international de 1989 sur le jute et les articles en jute, et aux Annexes A et B, faits à Genève le 3 novembre 1989."
+identifier: "1996031025"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1996/01/11/1996031025/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1996-01-11
+published: 1996-02-13
+entry_into_force: 1991-04-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1996/01/11/1996031025/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 11 JANVIER 1996. - Ordonnance portant assentiment à : l'Accord international de 1989 sur le jute et les articles en jute, et aux Annexes A et B, faits à Genève le 3 novembre 1989.
+
+Le Conseil de la Région de Bruxelles-Capitale a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'Accord international de 1989 sur le jute et les articles en jute, et les Annexes A et B, faits à Genève le 3 novembre 1989 sortiront, en ce qui concerne la Région de Bruxelles-Capitale, leur plein et entier effet.
+
+## Art. 2
+
+Les futurs protocoles portant prorogation de l'Accord international de 1989 sur le jute et les articles en jute sortiront leur plein et entier effet pour autant que leur approbation ne soit pas requise par d'autres dispositions de ces protocoles et que leur durée soit limitée.
+
+## Art. 3
+
+La présente ordonnance produit ses effets le 12 avril 1991.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles 11 janvier 1996.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Emploi, du Logement et des Monuments et Sites,
+
+Ch. PICQUE
+
+Le Ministre de l'Economie, des Finances, du Budget, de l'Energie et des Relations extérieures,
+
+J. CHABERT
+
+Le Ministre de l'Aménagement du Territoire, des Travaux publics et du Transport,
+
+H. HASQUIN
+
+Le Ministre de la Fonction publique, du Commerce extérieur, de la Recherche scientifique, de la Lutte contre l'Incendie et de l'Aide médicale urgente,
+
+R. GRIJP
+
+Le Ministre de l'Environnement et de la Politique de l'Eau, de la Rénovation, de la Conservation de la Nature et de la Propreté publique,
+
+D. GOSUIN

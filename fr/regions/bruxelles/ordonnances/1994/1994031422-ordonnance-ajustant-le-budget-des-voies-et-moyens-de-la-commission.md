@@ -1,0 +1,105 @@
+---
+title: "Ordonnance ajustant le budget des Voies et Moyens de la Commission Communautaire Commune pour l'année budgétaire."
+identifier: "1994031422"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1994/09/08/1994031422/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1994-09-08
+published: 1994-10-19
+entry_into_force: 1994-10-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1994/09/08/1994031422/justel"
+department: "Commission communautaire commune - Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 8 SEPTEMBRE 1994. - Ordonnance ajustant le budget des Voies et Moyens de la Commission Communautaire Commune pour l'année budgétaire.
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 135 de la Constitution coordonnée le 17 février 1994.
+
+## Art. 2
+
+Pour l'année budgétaire 1994, les recettes de la Commission Communautaire Commune sont réévaluées à 1.193.200.000 francs conformément au tableau ci-annexé.
+
+## Art. 3
+
+Le Collège réuni est autorisé à couvrir l'excédent des dépenses sur les recettes par prélèvement sur les soldes positifs des années antérieures à concurrence de 642.600.000 francs.
+
+## Art. 4
+
+La présente ordonnance entre en vigueur le jour de la publication au Moniteur belge.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 8 septembre 1994.
+
+Membre du Collège réuni compétent pour la Politique de Santé,
+
+J. CHABERT
+
+Membre du Collège réuni compétent pour la Politique de Santé,
+
+D. HARMEL
+
+Membre du Collège réuni compétent pour la Poliique d'Aide aux personnes,
+
+D. GOSUIN
+
+Membre du Collège réuni compétent pour la Politique d'Aide aux Personnes,
+
+R. GRIJP
+
+## ANNEXE.
+
+## Art. N
+
+TABLEAU. - Premier ajustement 1994 des recettes générales.
+
+Art. Designation des recettes Evaluation Premier Ajuste
+
+initial ajustement
+
+1994 par
+
+article
+
+29.01 Interets crediteurs percus durant 80,0 - 40,0 40,0
+
+l'annee 1994, qui resultent des
+
+soldes de caisse et des placements
+
+46.01 Dotation en provenance du pouvoir 1.063,8 - 1.063,8
+
+central visée par l'article 65 de
+
+la loi speciale du 16 janvier 1989
+
+46.02 Dotation en provenance de la Region 336,0 - 336,0 0
+
+de Bruxelles-Capitale (Fonds
+
+special de l'aide sociale)
+
+38.01 Remboursements des paiements indus 69,4 - 69,4
+
+par les organismes et institutions
+
+prives
+
+48.01 Remboursements des paiements indus 20,0 - 20,0
+
+par les organismes et institutions
+
+prives
+
+06.01 Dons et legs - - -
+
+06.02 Produits divers - - -
+
+Totaux pour les recettes generales 1.569,2 - 376,0 1.193,2

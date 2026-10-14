@@ -1,0 +1,57 @@
+---
+title: "Ordonnance portant approbation de l'Accord de coopération entre l'Etat fédéral, les Communautés et les Régions, relatif aux modalités de conclusion des traités mixtes, signé à Bruxelles le 8 mars 1994."
+identifier: "1996031027"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1996/01/11/1996031027/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1996-01-11
+published: 1996-03-06
+entry_into_force: 1994-03-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1996/01/11/1996031027/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 11 JANVIER 1996. - Ordonnance portant approbation de l'Accord de coopération entre l'Etat fédéral, les Communautés et les Régions, relatif aux modalités de conclusion des traités mixtes, signé à Bruxelles le 8 mars 1994.
+
+Le Conseil de la Région de Bruxelles-Capitale a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. L'Accord de coopération entre l'Etat fédéral, les Communautés et les Régions relatif aux modalités de conclusion des traités mixtes, et les développements, signés à Bruxelles le 8 mars 1994, sortiront, en ce qui concerne la Région de Bruxelles-Capitale, à partir de cette date leur plein et entier effet.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur Belge.
+
+Bruxelles, le 11 janvier 1996.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Emploi, du Logement et des Monuments et Sites,
+
+Ch. PICQUE
+
+Le Ministre de l'Economie, des Finances, du Budget, de l'Energie et des Relations extérieures,
+
+J. CHABERT
+
+Le Ministre de l'Aménagement du Territoire, des Travaux publics et du Transport,
+
+H. HASQUIN
+
+Le Ministre de la Fonction publique, du Commerce extérieur, de la Recherche scientifique, de la Lutte contre l'Incendie et de l'Aide médicale urgente,
+
+R. GRIJP
+
+Le Ministre de l'Environnement et de la Politique de l'Eau de la Rénovation, de la Conservation de la Nature et de la Propreté publique,
+
+D. GOSUIN
+
+## ANNEXE.
+
+## Art. N
+
+Accord de coopération entre l'Etat fédéral les Communautés et les Régions relatif aux modalités de conclusion des traités mixtes.
+
+(Pour l'accord, voir %%1994-03-08/38%)

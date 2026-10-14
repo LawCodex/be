@@ -1,0 +1,113 @@
+---
+title: "Ordonnance contenant le budget des voies et moyens de la Commission communautaire commune pour l'année budgétaire 1996."
+identifier: "1996031021"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/1996/01/11/1996031021/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1996-01-11
+published: 1996-03-09
+entry_into_force: 1996-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/1996/01/11/1996031021/justel"
+department: "Commission communautaire commune"
+retrieved: 2026-10-15
+---
+
+# 11 JANVIER 1996. - Ordonnance contenant le budget des voies et moyens de la Commission communautaire commune pour l'année budgétaire 1996.
+
+L'Assemblée réunie a adopté et Nous, Collège réuni, sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente ordonnace règle une matière visée à l'article 135 de la constitution coordonnée le 17 février 1994.
+
+## Art. 2
+
+Pour l'année budgétaire 1996, les recettes de la Commission communautaire commune sont évaluées à 1 526 800 000 francs conformément au tableau ci-annexé.
+
+## Art. 3
+
+Le Collège réuni est autorisé à couvrir l'excédent des dépenses sur les recettes par prélèvement sur les soldes positifs des années antérieures à concurrence de 222 500 000 francs.
+
+## Art. 4
+
+Le Collège réuni est autorisé à décider des placements.
+
+## Art. 5
+
+La présente ordonnance entre en vigueur le 1er janvier 1996. Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 11 janvier 1996.
+
+Le Membre du Collège réuni compétent pour la politique de Santé,
+
+J. CHABERT
+
+Le Membre du Collège réuni compétent pour la politique de Santé,
+
+H. HASQUIN
+
+Le Membre du Collège réuni compétent pour la politique d'Aide aux personnes,
+
+D. GOSUIN
+
+Le Membre du Collège réuni compétent pour la politique d'Aide aux personnes,
+
+R. GRIJP
+
+## ANNEXE.
+
+## Art. N
+
+Tableau des recettes générales.
+
+Article Designation des recettes Evaluation initiale
+
+1996 par article
+
+--------------------------------------------------------------------------
+
+29.01 Interets crediteurs percus durant l'année 1996, 20,0
+
+qui resultent des soldes de caisse et des
+
+placements
+
+38.01 Remboursement des paiements indus par les -
+
+organismes et institutions prives
+
+46.01 Dotation en provenance du pouvoir central visee 1 088,7
+
+par l'article 65 de la loi speciale du
+
+16 janvier 1989
+
+46.02 Dotation en provenance de la Region de Bruxelles- 140,0
+
+Capitale (Fonds spécial de l'aide sociale)
+
+46.03 Dotation en provenance de la Region de Bruxelles- 258,1
+
+Capitale pour les charges resultant de la
+
+scission de la province du Brabant
+
+48.01 Remboursements des paiements indus par les 20,0
+
+organismes et institutions publics
+
+48.02 Repartition des moyens disponibles suite a la -
+
+liquidation de la province du Brabant
+
+06.01 Dons et legs -
+
+06.02 Produits divers -
+
+------------------
+
+Totaux pour les recettes generales 1 526,8
