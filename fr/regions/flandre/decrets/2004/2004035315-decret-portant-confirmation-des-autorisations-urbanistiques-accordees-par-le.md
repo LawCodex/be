@@ -1,0 +1,57 @@
+---
+title: "Décret portant confirmation des autorisations urbanistiques accordées par le Gouvernement flamand le 9 janvier 2004 en application du décret du 14 décembre 2001 pour quelques permis de bâtir auxquels s'appliquent des raisons obligatoires de grand intérêt public (TRADUCTION)."
+identifier: "2004035315"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/13/2004035315/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2004-02-13
+published: 2004-02-23
+entry_into_force: 2004-03-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/13/2004035315/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-15
+---
+
+# 13 FEVRIER 2004. - Décret portant confirmation des autorisations urbanistiques accordées par le Gouvernement flamand le 9 janvier 2004 en application du décret du 14 décembre 2001 pour quelques permis de bâtir auxquels s'appliquent des raisons obligatoires de grand intérêt public (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit : décret portant confirmation des autorisations urbanistiques accordées par le Gouvernement flamand le 9 janvier 2004 en application du décret du 14 décembre 2001 pour quelques permis de bâtir auxquels s'appliquent des raisons obligatoires de grand intérêt publique.
+
+## Art. 1
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Les suivantes autorisations urbanistiques accordées par le Gouvernement flamand le 9 janvier 2004 sont confirmées.
+
+1° l'autorisation urbanistique en vue de l'aménagement du désenclavement routier dans la "Waaslandhaven" à l'ouest du "Deurganckdok";
+
+2° l'autorisation urbanistique en vue de l'aménagement des assises de chemin de fer pour le désenclavement ferroviaire dans la "Waaslandhaven" à l'ouest du "Deurganckdok" ainsi que de l'aménagement d'un dispositif antibruit;
+
+3° l'autorisation urbanistique pour les lignes 190 et 211, désenclavement à l'ouest, comprenant l'aménagement de voies de ligne et du faisceau Arenberg en vue du désenclavement de la "Waaslandhaven" à l'ouest du "Deurganckdok";
+
+4° l'autorisation urbanistique en vue de l'aménagement des voies de faisceau et de dégagement du faisceau "Liefkenshoek" dans le port du Waasland à Kallo, y compris le dédoublement de la ligne 211 et 211/1 des écluses de Kallo jusqu'à la ligne 10, en tant que partie du projet du désenclavement ferroviaire à l'est du "Deurganckdok" dans le port du Waasland.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 13 février 2004.
+
+Le Ministre-Président du Gouvernement flamand,
+
+B. SOMERS
+
+Le Ministre flamand des Finances et du Budget, de l'Aménagement du Territoire, des Sciences et de l'Innovation technologique,
+
+D. VAN MECHELEN
+
+Le Ministre flamand de la Mobilité, des Travaux publics et de l'Energie,
+
+G. BOSSUYT
+
+Le Ministre flamand de l'Environnement, de l'Agriculture et de la Coopération au Développement,
+
+L. SANNEN.

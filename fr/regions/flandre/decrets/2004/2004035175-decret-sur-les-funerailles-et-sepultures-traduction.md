@@ -1,0 +1,473 @@
+---
+title: "Décret sur les funérailles et sépultures (TRADUCTION)."
+identifier: "2004035175"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/01/16/2004035175/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2004-01-16
+published: 2004-02-10
+entry_into_force: 2004-07-01
+last_amended: 2026-08-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/01/16/2004035175/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 10-02-2004 et mise à jour au 20-08-2026"
+retrieved: 2026-10-15
+---
+
+# 16 JANVIER 2004. - Décret sur les funérailles et sépultures (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Des lieux de sépulture.
+
+### Section Ire. - Des cimetières et établissements crématoires communaux ou intercommunaux.
+
+#### Art. 1
+
+Le présent décret règle une matière régionale.
+
+#### Art. 2
+
+[<sup>1</sup> Chaque commune doit disposer d'un cimetière au moins. Toutefois, plusieurs communes peuvent s'associer pour disposer d'un cimetière commun. L'ensemble de cimetières sur le territoire d'une commune doit pouvoir offrir tous les modes de sépulture stipulés au présent décret, à l'exception du mode de sépulture visé à [<sup>4</sup> article 24, § 1er, alinéa 1er, 3°]<sup>4</sup>.]<sup>1</sup>
+
+Seule une commune ou une structure de coopération intercommunale peut créer et exploiter un établissement crématoire.
+
+[<sup>2</sup>[<sup>3</sup> L' ]<sup>3</sup> établissement crématoire communal ou intercommunal [<sup>3</sup> peut]<sup>3</sup> disposer d'une parcelle d'inhumation des urnes, d'une pelouse de dispersion [<sup>3</sup> ou ]<sup>3</sup> d'un columbarium.]<sup>2</sup>
+
+Sans préjudice de l'alinéa 1er :
+
+1° l'établissement crématoire communal ou intercommunal peut disposer d'une parcelle d'inhumation des urnes, d'une pelouse de dispersion et d'un columbarium ;
+
+2° la structure de coopération intercommunale qui gère un établissement crématoire intercommunal peut conclure avec la commune qui gère le cimetière une convention concernant la mise à disposition de la parcelle d'inhumation des urnes, de la pelouse de dispersion ou du columbarium de ce cimetière à une structure de coopération intercommunale limitrophe.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Sauf l'octroi d'une concession, l'inhumation de restes mortels ou l'inhumation d'une urne cinéraire ou son placement dans un columbarium au cimetière communal ou intercommunal est gratuit pour les personnes inscrites dans le registre de la population, le registre des étrangers ou le registre d'attente de la commune, respectivement des communes faisant partie de la structure de coopération intercommunale. Ceci vaut également pour la dispersion des cendres.
+
+----------
+
+(1)&lt;DCFL 2016-10-28/12, art. 2, 008; En vigueur : 05-12-2016&gt;
+
+(2)&lt;DCFL 2016-10-28/12, art. 3, 008; En vigueur : 05-12-2016&gt;
+
+(3)&lt;DCFL 2024-02-09/18, art. 2, 012; En vigueur : 15-03-2024&gt;
+
+(4)&lt;DCFL 2025-07-14/24, art. 43, 013; En vigueur : 01-11-2025&gt;
+
+#### Art. 3
+
+Le Gouvernement flamand fixe les critères de création et d'exploitation des cimetières et des établissements crématoires. Il organise le contrôle du respect de ces critères.
+
+#### Art. 4
+
+Les cimetières et établissements crématoires communaux sont soumis à l'autorité, à la police et à la surveillance des autorités communales, qui veillent à ce qu'aucun désordre ni acte contraire au respect dû à la mémoire des morts ne s'y commettent et à ce qu'aucune exhumation n'ait lieu sans autorisation.
+
+Le Gouvernement flamand arrête les modalités en matière d'exhumations.
+
+Dans les cimetières et établissements crématoires intercommunaux, les compétences visées à l'alinéa 1er sont exercées par les autorités de la commune sur le territoire de laquelle le cimetière ou l'établissement crématoire est établi.
+
+#### Art. 5
+
+§ 1er. Lorsque de nouveaux emplacements destinés aux inhumations ont été aménagés, le conseil communal ou l'organe compétent de la structure de coopération intercommunale fixe la date de cessation des inhumations dans les anciens cimetières. Une copie de cette décision est affichée à l'entrée du cimetière jusqu'à son évacuation définitive.
+
+[<sup>1</sup> Les anciens cimetières restent dans l'état où ils se trouvent, sans qu'il puisse en être fait un usage quelconque pendant au moins dix ans, sauf pour les formes de sépulture pour lesquelles l'espace nécessaire est encore disponible.]<sup>1</sup>
+
+A l'expiration du délai fixé à l'alinéa précédent, ou dix ans au moins après la dernière inhumation, l'inscription au registre des inhumations faisant foi, le conseil communal ou l'organe compétent de la structure de coopération intercommunale peut décider de changer l'affectation des terrains des anciens cimetières.
+
+§ 2. En application du § 1er, une parcelle de même superficie que celle qui était concédée est réservée dans le nouveau cimetière, sur demande introduite par toute personne intéressée.
+
+Le conseil communal ou l'organe compétent de la structure de coopération intercommunale arrête les conditions en matière de transfert, sans que celles-ci puissent imposer aux intéressés le remboursement du transfert des restes mortels.
+
+----------
+
+(1)&lt;DCFL 2016-10-28/12, art. 4, 008; En vigueur : 05-12-2016&gt;
+
+### Section II. - Des concessions.
+
+#### Art. 6
+
+Le conseil communal ou l'organe compétent de la structure de coopération intercommunale peut accorder des concessions de sépulture [<sup>1</sup> , des concessions de parcelles d'inhumation des urnes]<sup>1</sup> ou de columbarium dans les cimetières respectivement communaux ou intercommunaux.
+
+Dans le cas d'un cimetière communal, le Conseil communal peut déléguer ce pouvoir au Collège des bourgmestre et échevins.
+
+Une même concession peut servir au demandeur, à son conjoint, à ses parents ou alliés et aux personnes désignés par le titulaire de la concession qui en ont exprimé leur volonté auprès de l'autorité communale. Pour les personnes qui au moment du décès de l'une d'elles constituaient un ménage de fait, une concession peut être demandée par le survivant.
+
+Une demande de concession peut être introduite au bénéfice d'un tiers et de sa famille.
+
+----------
+
+(1)&lt;DCFL 2024-02-09/18, art. 3, 012; En vigueur : 15-03-2024&gt;
+
+#### Art. 7
+
+§ 1er. Les concessions sont accordées pour une durée maximale de cinquante ans.
+
+§ 2. Sur demande, des renouvellements successifs peuvent être accordés avant l'expiration de la période fixée.
+
+Les renouvellements ne peuvent être refusés que s'il paraît que la concession est négligée au moment de la demande.
+
+Au moins un an avant l'expiration de la concession ou de ses renouvellements, le bourgmestre ou son délégué ou l'organe compétent de la structure de coopération intercommunale dresse un acte rappelant qu'une demande de renouvellement lui doit être adressée.
+
+Une copie de cet acte est affichée pendant un an sur le lieu de sépulture et une autre à l'entrée du cimetière.
+
+A défaut de demande de renouvellement, la concession prend fin.
+
+§ 3. Si la demande est faite avant l'expiration de la période fixée, une nouvelle période de même durée prend cours à partir de chaque nouvelle inhumation dans la concession. Au cas où aucun renouvellement n'est demandé entre la date de la dernière inhumation dans la concession et l'expiration de la période pour laquelle celle-ci a été consentie, la sépulture est maintenue pendant un délai de dix ans prenant cours à la date du décès si celui-ci est intervenu moins de dix ans avant la date d'expiration de la concession.
+
+#### Art. 8
+
+Le conseil communal ou l'organe compétent de la structure de coopération intercommunale fixe le montant dû et les conditions d'octroi de la concession.
+
+Dans les cas visés à l'article 7, § 2, premier alinéa, et § 3, le montant dû, qui peut être exigé par la commune ou la structure de coopération intercommunale, est calculé au prorata du nombre d'années qui excède la date d'expiration de la concession précédente.
+
+#### Art. 9
+
+Tous les cinquante ans, et sans redevance, la concession à perpétuité accordée en vertu du décret impérial du 23 prairial an XII avant l'entrée en vigueur de la loi du 20 juillet 1971 sur les funérailles et sépultures, peut être renouvelée sur demande.
+
+La procédure visée à l'article 7, § 2, alinéas trois à cinq inclus, du présent décret s'applique à ce renouvellement.
+
+#### Art. 10
+
+[<sup>1</sup> Les sépultures concédées, les parcelles d'inhumation des urnes concédées et les columbariums concédés sont entretenus par le concessionnaire.]<sup>1</sup>
+
+Le défaut d'entretien, qui constitue l'état d'abandon, est établi lorsque d'une façon permanente la tombe[<sup>1</sup> , la cave à urnes sur la parcelle d'inhumation des urnes ou la cellule du columbarium ]<sup>1</sup> est malpropre, envahie par la végétation, délabrée, effondrée ou en ruine.
+
+L'état d'abandon est constaté par un acte du bourgmestre ou de son délégué ou de l'organe compétent du cimetière intercommunal. [<sup>1</sup> L'acte précité est affiché pendant un an tant au lieu de sépulture, à la cave à urnes sur la parcelle d'inhumation des urnes ou à la cellule du columbarium, qu'à l'entrée du cimetière.]<sup>1</sup>[<sup>1</sup> Après constatation de la remise en état par le bourgmestre ou son mandataire, l'acte affiché est enlevé.]<sup>1</sup>
+
+Après l'expiration de ce délai et à défaut de remise en état, le conseil communal ou l'organe compétent de la structure de coopération intercommunale peut mettre fin à la concession. Le conseil communal peut [<sup>1</sup> confier]<sup>1</sup> ce pouvoir au collège des bourgmestre et échevins.
+
+----------
+
+(1)&lt;DCFL 2024-02-09/18, art. 4, 012; En vigueur : 15-03-2024&gt;
+
+## CHAPITRE II. - Des funérailles et des modes de sépulture.
+
+### Section Ire. - De la mise en bière et du transport des dépouilles mortelles.
+
+#### Art. 11
+
+Les dépouilles mortelles doivent être placées dans un cercueil ou une autre gaine d'ensevelissement.
+
+L'emploi de cercueils, de gaines, de linceuls, de produits et de procédés empêchant soit la décomposition naturelle et normale des corps, soit la crémation, est interdit.
+
+Un embaumement ou tout autre traitement conservateur préalable à la mise en bière peut être autorisé dans les cas déterminés par le Gouvernement flamand.
+
+Le Gouvernement flamand définit les objets et procédés visés au deuxième alinéa, ainsi que les conditions auxquelles les cercueils ou les autres gaines d'ensevelissement doivent répondre.
+
+#### Art. 12
+
+Le bourgmestre ou son délégué peut assister à la mise en bière.
+
+#### Art. 13
+
+La surveillance des convois funèbres appartient à l'autorité communale, qui veille à ce qu'ils se déroulent dans l'ordre, la décence et le respect dû à la mémoire des morts.
+
+(Le transport au sein de la Région flamande d'une dépouille non incinérée peut avoir lieu à partir du moment où le médecin traitant ou le médecin qui a constaté le décès, a établi une attestation déclarant qu'il s'agit d'une cause de décès naturelle et qu'il n'y a aucun danger pour la santé publique.) &lt;DCFL 2008-04-18/32, art. 2, 003; En vigueur : 05-06-2008&gt;
+
+[<sup>1</sup> Les dépouilles mortelles non incinérées doivent être transportées au moyen d'un corbillard ou par d'autres moyens appropriés, sûrs, hygiéniques et respectueux du défunt ou des défunts.]<sup>1</sup>
+
+Le Gouvernement flamand fixe les conditions auxquelles il peut y être dérogé.
+
+----------
+
+(1)&lt;DCFL 2024-02-09/18, art. 5, 012; En vigueur : 15-03-2024&gt;
+
+#### Art. 14
+
+Le mode de sépulture des indigents se fait d'une manière décente, sans préjudice de l'application de l'article 15, § 1er. Les frais qui en découlent sont à charge de la commune de la Région flamande où ils sont inscrits dans le registre de la population, le registre des étrangers ou le registre d'attente[<sup>1</sup> , ou, à défaut d'inscription dans un registre, à charge de la commune où le décès est intervenu]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-02-09/18, art. 6, 012; En vigueur : 15-03-2024&gt;
+
+#### Art. 15
+
+§ 1er. Les modes de sépulture sont les suivants : l'inhumation, la dispersion ou la conservation des cendres après crémation, ou de la façon et selon les modalités arrêtées par le Gouvernement flamand.
+
+Toute personne [<sup>3</sup> qui a atteint l'âge de seize ans]<sup>3</sup> peut, de son vivant, informer de son plein gré et par écrit l'officier de l'état civil de sa commune de ses dernières volontés. Cet acte de dernières volontés peut concerner le mode de sépulture, la destination des cendres [<sup>4</sup> l'inhumation d'un autre défunt dans une même sépulture, le placement de l'urne du conjoint ou de la personne précédemment décédé avec qui un ménage de fait était constitué, ou la dispersion commune des cendres des deux défunts,]<sup>4</sup>[<sup>1</sup> le rite de la philosophie pour les obsèques,[<sup>4</sup> le don de la dépouille mortelle à la science]<sup>4</sup> ainsi que sur la commune dans laquelle on souhaite être inhumé ou la commune où les cendres doivent être inhumés, placés ou dispersés [<sup>2</sup>, de même que la mention de l'existence d'un contrat d'obsèques]<sup>2</sup>]<sup>1</sup>.
+
+[<sup>5</sup> La personne compétente pour pourvoir aux funérailles ou son mandataire peut demander auprès de l'état civil de la commune de la résidence principale du défunt ou de la commune où le décès a lieu, la déclaration de dernières volontés avant l'introduction de la demande d'autorisation d'inhumation ou de crémation.]<sup>5</sup>
+
+Cet acte de dernières volontés est assimilé à [<sup>4</sup> la demande d'autorisation de crémation visée à l'article 15bis, § 2, alinéa 1er, ou à l'acte visé à l'article 15bis, § 2, alinéa 2 ]<sup>4</sup>.
+
+[<sup>4</sup> Les données visées à l'alinéa 2 sont conservées conformément à la réglementation en vigueur en application de l'article III.87 du décret de gouvernance du 7 décembre 2018.]<sup>4</sup>
+
+[<sup>5</sup> Lorsque le décès a lieu dans une commune de la Région flamande autre que celle de la résidence principale du défunt ou si le défunt a souhaité être enterré, avoir ces cendres placées dans un columbarium ou dispersées dans une commune autre que celle de sa résidence principale ou que celle ou le décès a lieu, cette dernière commune ou la commune dans laquelle le défunt a souhaité être enterré, avoir ces cendres placées dans un columbarium ou dispersées, peut consulter les informations contenues dans la déclaration de dernières volontés, visée à l'alinéa 2.]<sup>5</sup>
+
+§ 2. Les enfants mort-nés qui n'ont pas encore atteint le seuil de viabilité, sont inhumés ou incinérés sur la demande des parents [<sup>3</sup> ...]<sup>3</sup>. [<sup>5</sup> La personne compétente pour pourvoir aux funérailles ou son mandataire communique à l'officier de l'état civil les numéros d'identification du Registre national des personnes qui peuvent introduire une demande d'établissement d'un acte d'enfant sans vie conformément à l'article 58, § 2, de l'ancien Code civil, ou des parents d'un enfant décédé avant l'âge d'un an.]<sup>5</sup> Le Gouvernement flamand peut arrêter les modalités relatives à l'inhumation et la crémation des enfants mort-nés.
+
+----------
+
+(1)&lt;DCFL 2011-12-09/06, art. 2, 005; En vigueur : 20-01-2012&gt;
+
+(2)&lt;DCFL 2013-02-22/13, art. 1, 006; En vigueur : 25-03-2013&gt;
+
+(3)&lt;DCFL 2014-03-28/40, art. 2, 007; En vigueur : 29-06-2014&gt;
+
+(4)&lt;DCFL 2024-02-09/18, art. 7, 012; En vigueur : 15-03-2024&gt;
+
+(5)&lt;DCFL 2025-07-14/24, art. 44, 013; En vigueur : 01-11-2025&gt;
+
+### Section II. - Des inhumations.
+
+#### Art. 15bis
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Lorsque le décès a lieu en Région flamande, l'officier de l'état civil ou ses fonctionnaires habilités de la commune où le décès est constaté dans une attestation de décès autorise la personne compétente pour pourvoir aux funérailles ou son mandataire à inhumer la dépouille. La délivrance de l'autorisation précitée est gratuite, à l'exception de la rétribution visée à l'article 21 du décret du 14 juillet 2025 relatif à la plateforme administrative décès]<sup>2</sup>.
+
+Si l'inhumation de la dépouille d'une personne décédée dans une commune de la Région bilingue de Bruxelles-Capitale, de la région francophone ou de la région germanophone requiert une autorisation, l'autorisation délivrée à cet effet par l'autorité compétente dans la région pour l'octroi d'une autorisation d'inhumation est assimilée à l'autorisation d'inhumation.
+
+Si le décès survient à l'étranger, l'autorisation visée à l'alinéa 1er est accordée par le procureur du Roi de l'arrondissement du lieu où se trouve soit la sépulture, soit la résidence principale du défunt.
+
+§ 2. [<sup>2</sup> Toute demande d'autorisation d'inhumer est introduite par la personne compétente pour pourvoir aux funérailles ou son mandataire. La personne compétente pour pourvoir aux funérailles ou son mandataire utilise le numéro d'identification du Registre national pour demander l'autorisation d'inhumer. La personne compétente pour pourvoir aux funérailles ou son mandataire transmet la demande d'autorisation à l'officier de l'état civil ou à ses fonctionnaires habilités de la commune où le décès est constaté]<sup>2</sup>.
+
+L'autorisation doit être refusée par l'officier de l'état civil si le défunt a marqué sa préférence pour un autre mode de sépulture par un acte satisfaisant aux conditions de capacité et de forme des actes testamentaires ou si l'officier de l'état civil a reçu notification de la requête, visée au § 3.
+
+Cette autorisation ne peut être accordée avant l'expiration d'un délai de 24 heures à compter de la réception de la demande d'autorisation, sauf dans les cas prévus par les règlements de police.
+
+S'il y a des signes ou des indications qu'il y a eu mort violente ou s'il y a d'autres circonstances permettant de le soupçonner, l'autorisation d'inhumation ne peut être accordée qu'après que le procureur du Roi a indiqué qu'il ne s'y oppose pas. [<sup>2</sup> Le procureur du Roi peut communiquer le numéro du procès-verbal ou le numéro de système tel que connu du procureur du Roi à l'officier de l'état civil. L'officier de l'état civil communique, le cas échéant, le numéro du procès-verbal ou le numéro de système au Département Soins, visé à l'arrêté du Gouvernement flamand du 12 mai 2023 relatif au Département Soins.]<sup>2</sup>
+
+§ 3. Toute personne intéressée par l'octroi ou le refus de l'autorisation peut présenter à cet effet une requête au président du tribunal de première instance.
+
+Le président compétent est celui du lieu où la demande d'autorisation a été introduite. La requête est notifiée aux parties intéressées par l'octroi ou le refus de l'autorisation ainsi qu'à l'officier de l'état civil à qui la demande d'autorisation a été présentée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-29/22, art. 2, 010; En vigueur : 18-04-2019&gt;
+
+(2)&lt;DCFL 2025-07-14/24, art. 45, 013; En vigueur : 01-11-2025&gt;
+
+#### Art. 16
+
+§ 1er. Les inhumations ne peuvent avoir lieu que dans les cimetières communaux ou intercommunaux.
+
+§ 2. Toutefois, les inhumations peuvent continuer dans les cimetières privés existant au moment de l'entrée en vigueur du présent décret.
+
+Sont applicables aux cimetières privés, les articles 4 et 17 du présent décret.
+
+§ 3. Des dérogations à la disposition du § 1er peuvent être accordées par le Ministre flamand qui a la politique de la santé dans ses attributions, sur la proposition du bourgmestre de la commune où doit avoir lieu l'inhumation.
+
+Le Ministre ne peut accorder la dérogation que sur une demande fondée sur des considérations religieuses ou philosophiques, sauf si des raisons d'hygiène et de santé publique s'y opposent.
+
+#### Art. 17
+
+§ 1er. L'inhumation peut avoir lieu en pleine terre, dans un caveau ou au-dessus du sol. Par dérogation à l'article 2, cinquième alinéa, la commune ou la structure de coopération intercommunale peut demander une indemnité au prix coûtant pour le caveau.
+
+§ 2. Le Gouvernement flamand arrête les modalités selon lesquelles les inhumations doivent avoir lieu en pleine terre, dans un caveau ou au-dessus du sol.
+
+Les personnes en deuil sont autorisées à être présentes pendant le déroulement entier des funérailles.
+
+#### Art. 18
+
+Une sépulture non concédée est conservée pendant au moins dix ans.
+
+Une sépulture pareille ne peut être enlevée qu'après qu'une copie de la décision d'enlèvement a été affichée pendant un an sur le lieu de sépulture et à l'entrée du cimetière.
+
+Sans préjudice du respect des dernières volontés exprimées en matière de sépulture conformément à l'article 15, le conseil communal ou l'organe compétent de la structure de coopération intercommunale décide de la destination à donner aux restes mortels découverts dans l'enceinte du cimetière.
+
+### Section III. - Crémation.
+
+#### Art. 19
+
+§ 1er. [<sup>2</sup> L'article 15bis, à l'exception du § 2, alinéa 4, s'applique mutatis mutandis à l'autorisation de crémation, étant entendu que :
+
+1° le mot " inhumation " se lit comme " crémation " ;
+
+2° le membre de phrase " soit la sépulture, soit la résidence principale du défunt " se lit comme " soit la sépulture, soit le crématorium, soit la résidence principale du défunt " ;
+
+3° [<sup>3</sup> l'octroi de l'autorisation requiert la présence]<sup>3</sup> d'une attestation dans laquelle le médecin traitant ou le médecin qui a constaté le décès indique si la mort est due à une cause naturelle, violente, suspecte ou impossible à déterminer.
+
+Si la demande d'autorisation de crémation concerne la dépouille d'une personne décédée dans une commune de la Région flamande et que le médecin susmentionné a confirmé qu'il s'agit d'une mort naturelle, doit être joint, en outre, le rapport d'un médecin assermenté de la propre commune ou d'une autre commune de la Région flamande ayant été commissionné par l'officier de l'état civil ou ses agents délégués pour vérifier les causes du décès. Ce rapport indique si le décès est dû à une cause naturelle, violente, suspecte ou impossible à déterminer.
+
+[<sup>3</sup> Le médecin assermenté communique, par le biais du rapport, le numéro d'identification du Registre national, le prénom, le nom, le sexe, la date de naissance, le lieu de naissance, la résidence principale et les date et lieu du décès à l'officier de l'état civil ou à ses fonctionnaires habilités de la commune où le décès est constaté.]<sup>3</sup>
+
+Les honoraires et tous les frais y afférents du médecin commissionné par l'officier de l'état civil ou ses agents délégués de l'administration communale, sont à charge de l'administration communale de la commune de la Région flamande où le défunt est inscrit dans le registre de la population, le registre des étrangers ou le registre d'attente.
+
+4° le dossier est transmis par l'officier de l'état civil au procureur du Roi de l'arrondissement lorsqu'il existe des circonstances permettant de soupçonner qu'il y a eu mort violente ou suspecte ou une cause de décès impossible à déceler ou lorsque, dans l'un des documents prescrits, visé au point 3°, le médecin n'a pu affirmer qu'il n'y avait aucun signe ou indice de mort violente, suspecte ou impossible à déceler. Dans ce cas, la crémation ne peut être autorisée qu'après que le procureur du Roi a indiqué à l'officier de l'état civil qu'il ne s'y oppose pas.]<sup>2</sup> [<sup>3</sup> Le procureur du Roi peut communiquer à l'officier de l'état civil le numéro du procès-verbal ou le numéro de système tel qu'il est connu du procureur du Roi et, le cas échéant, le rapport dans lequel le procureur du Roi ne s'y oppose pas. L'officier de l'état civil communique, le cas échéant, le numéro du procès-verbal ou le numéro de système au Département Soins, visé à l'arrêté du Gouvernement flamand du 12 mai 2023 relatif au Département Soins.]<sup>3</sup>
+
+§ 2. Pour la crémation après exhumation, l'autorisation d'exhumation visée à l'article 4 est requise.
+
+Après l'octroi de l'autorisation d'exhumation, la demande d'autorisation de crémation est transmise au procureur du Roi de l'arrondissement du lieu où l'établissement crématoire ou la résidence principale du demandeur est située, du lieu du décès ou du lieu où les restes mortels ont été inhumés.
+
+A cette demande d'autorisation, doit être joint, s'il échet, un certificat d'enregistrement dans les registres de la population des dernières volontés du défunt en matière de mode de sépulture.
+
+Le procureur du Roi auquel la demande a été adressée peut demander à l'officier de l'état civil du lieu où le décès a été constaté de lui transmettre un dossier comprenant le certificat visé à l'article 77 ou à l'article 81 du Code civil. Si ce certificat fait défaut, l'officier de l'état civil en indique le motif.
+
+L'autorisation de crémation est refusée ou accordée par le procureur du Roi qui a reçu la demande de crémation.
+
+----------
+
+(1)&lt;DCFL 2017-02-10/07, art. 2, 009; En vigueur : 01-04-2017&gt;
+
+(2)&lt;DCFL 2019-03-29/22, art. 3, 010; En vigueur : 18-04-2019&gt;
+
+()&lt;DCFL 2024-02-09/18, art. 8, 012; En vigueur voir version Néerlandaise : 15-03-2024&gt;
+
+(3)&lt;DCFL 2025-07-14/24, art. 46, 013; En vigueur : 01-11-2025&gt;
+
+#### Art. 20
+
+&lt;Abrogé par DCFL 2019-03-29/22, art. 4, 010; En vigueur : 18-04-2019&gt;
+
+#### Art. 21
+
+&lt;Abrogé par DCFL 2019-03-29/22, art. 5, 010; En vigueur : 18-04-2019&gt;
+
+#### Art. 22
+
+&lt;Abrogé par DCFL 2019-03-29/22, art. 6, 010; En vigueur : 18-04-2019&gt;
+
+#### Art. 23
+
+Le Gouvernement flamand arrête les modalités selon lesquelles la crémation se déroule.
+
+#### Art. 24
+
+[<sup>1</sup> § 1er. Les cendres des corps incinérés :
+
+1° peuvent être inhumées dans des urnes au cimetière ou placées dans un columbarium ;
+
+2° peuvent être dispersées sur une parcelle réservée à cet effet ;
+
+3° peuvent être dispersées sur la mer territoriale contiguë au territoire de la Belgique, aux conditions que le Gouvernement flamand détermine ;
+
+4° peuvent être dispersées ou inhumées dans une urne, à un endroit autre que le cimetière, à l'exception du domaine public. Lorsqu'il s'agit d'un terrain qui n'est pas la propriété du défunt ou de ses proches, une autorisation écrite préalable du propriétaire dudit terrain est requise ;
+
+5° peuvent être dispersées, inhumées ou conservées dans une urne fabriquée en matériaux biodégradables, à un endroit autre que le cimetière, y compris le domaine public, dans une zone délimitée par la commune. Si la commune n'est pas le propriétaire du terrain concerné, elle conclut à cet effet une convention avec le titulaire des droits réels sur le terrain ;
+
+6° peuvent être mises à la disposition des proches dans une urne pour être conservées à un endroit autre que le cimetière. S'il est mis fin à la conservation des cendres à un endroit autre que le cimetière, les cendres peuvent être ramenées par le proche qui en a la charge, ou par ses héritiers en cas de décès du proche précité, au cimetière pour y être inhumées, placées dans un columbarium ou dispersées.
+
+[<sup>2</sup> Le numéro d'identification du Registre national, le nom, le prénom et la résidence principale du proche qui a la charge des cendres sont communiqués par la personne qui pourvoit aux funérailles ou son mandataire à l'officier de l'état civil afin de procéder au transfert des cendres visé à l'alinéa 1er, 6°.]<sup>2</sup>
+
+§ 2. Sans préjudice de l'article 4, alinéa 2, le conseil communal ou l'organe compétent de la structure de coopération intercommunale peut autoriser par règlement que l'urne contenant les cendres du conjoint ou de la personne précédemment décédé avec qui le défunt constituait un ménage de fait, si le défunt l'a spécifié dans son acte de dernières volontés ou, à défaut, à la demande écrite conjointe de tous les parents et alliés au premier degré :
+
+1° peut être placée et inhumée avec le défunt dans le cercueil ou être inhumée avec le cercueil ;
+
+2° peut être inhumée avec le défunt enveloppé dans un linceul ;
+
+3° peut être inhumée avec l'urne du défunt dans une parcelle d'inhumation des urnes ;
+
+4° peut être placée avec l'urne du défunt dans le columbarium.
+
+Le règlement visé à l'alinéa 1er peut également prévoir que les cendres du conjoint ou de la personne précédemment décédé avec qui le défunt constituait un ménage de fait, sont dispersées en même temps que les cendres du défunt sur la pelouse de dispersion.
+
+[<sup>2</sup> Le numéro d'identification du Registre national, le nom, le prénom, la date de naissance et les date et lieu du décès du conjoint ou de la personne avec laquelle un ménage de fait a été constitué, qui sont décédés antérieurement, sont communiqués à l'officier de l'état civil via la déclaration de dernières volontés ou, à défaut, par la personne qui pourvoit aux funérailles ou son mandataire.]<sup>2</sup>
+
+Lorsque le conjoint ou la personne précédemment décédé avec qui le défunt constituait un ménage de fait, s'y est opposé dans son acte de dernières volontés, le placement ou l'inhumation tels que visés à l'alinéa 1er, ou la dispersion conjointe telle que visée à l'alinéa 2, sont interdits.
+
+L'urne placée ou inhumée avec le défunt suit la destination du cercueil ou de l'urne du dernier défunt lors de l'exhumation de celui-ci.
+
+§ 3. Si le défunt majeur n'a pas remis par écrit ses dernières volontés comme prévu à l'article 15, § 1er, alinéa 2, le conjoint ou la personne avec qui le défunt constituait un ménage de fait, et tous les parents ou alliés au premier degré peuvent, sur demande écrite conjointe adressée à l'officier de l'état civil de la commune où le décès a été constaté sur base d'une attestation de décès ou à son mandataire, décider de disperser, d'inhumer et de conserver les cendres du corps incinéré à un endroit autre que le cimetière tel que visé au [<sup>2</sup> paragraphe 1er, alinéa 1er, 4° à 6°]<sup>2</sup>.
+
+Si le défunt mineur à partir de l'âge de seize ans n'a pas remis par écrit ses dernières volontés comme prévu à l'article 15, § 1er, alinéa 2, il peut être décidé, à la demande des parents ou du tuteur, adressée à l'officier de l'état civil de la commune où le décès a été constaté sur la base d'une attestation de décès ou à son mandataire, de disperser, d'inhumer et de conserver les cendres du corps incinéré à un endroit autre que le cimetière tel que visé au paragraphe 1er, 4° à 6°.
+
+§ 4. Si le défunt n'a pas remis par écrit ses dernières volontés comme prévu à l'article 15, § 1er, alinéa 2, et s'il n'y a pas de conjoint ou de personne avec qui le défunt constituait un ménage de fait, ni de parents ou alliés au premier degré, la personne qui pourvoit aux funérailles peut décider de la destination des cendres, visée au [<sup>2</sup> paragraphe 1er, alinéa 1er, 1° à 3° et 5°]<sup>2</sup>.
+
+§ 5. Sans préjudice de l'application des paragraphes 3 et 4, à la demande du conjoint et des parents ou alliés jusqu'au deuxième degré et, le cas échéant, à la demande de la personne qui pourvoit aux funérailles, visée au paragraphe 4, une partie des cendres du corps incinéré peut leur être confiée.
+
+§ 6. Les cendres du défunt sont traitées avec respect et dignité et ne peuvent faire l'objet d'aucune activité commerciale, à l'exception des activités afférentes à la dispersion ou à l'inhumation des cendres, ou à leur translation à l'endroit où elles seront conservées.
+
+§ 7. La personne qui prend réception des cendres est responsable du respect des dispositions visées aux paragraphes 1er à 6.
+
+§ 8. Le Gouvernement flamand peut arrêter les modalités auxquelles doivent répondre la conservation, l'inhumation ou la dispersion visées au [<sup>2</sup> paragraphe 1er, alinéa 1er, 4° à 6°]<sup>2</sup>.
+
+§ 9. Les données visées au paragraphe 3 sont conservées conformément à la réglementation en vigueur en application de l'article III.87 du décret de gouvernance du 7 décembre 2018.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-09/18, art. 10, 012; En vigueur : 15-03-2024&gt;
+
+(2)&lt;DCFL 2025-07-14/24, art. 47, 013; En vigueur : 01-11-2025&gt;
+
+#### Art. 24bis
+
+[<sup>1</sup> Le conseil communal établit les frais liés à l'enlèvement de l'urne cinéraire d'une sépulture ou d'un columbarium. Deux ans après cet enlèvement, la concession prend fin sans que celle-ci puisse donner lieu à un remboursement du prix de la concession.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2011-12-09/04, art. 3, 004; En vigueur : 08-01-2012&gt;
+
+#### Art. 24ter
+
+[<sup>1</sup>Le conseil communal ou l'organe compétent de la structure de coopération intercommunale peut autoriser par règlement que l'urne contenant les cendres d'un ou plusieurs animaux de compagnie déjà décédés :
+
+1° peut être placée et inhumée avec le défunt dans le cercueil ;
+
+2° peut être inhumée avec le défunt enveloppé dans un linceul ;
+
+3° peut être inhumée avec l'urne du défunt dans la parcelle d'inhumation des urnes ; 4° peut être placée avec l'urne du défunt dans le columbarium.
+
+Par animal de compagnie, visé à l'alinéa 1er, on entend tout animal domestique et traditionnellement gardé à la maison pour la compagnie ou le soutien émotionnel.
+
+Pour l'application des possibilités visées à l'alinéa 1er, l'urne contenant les cendres de l'animal ou des animaux de compagnie incinérés doit être non biodégradable. L'urne contenant les cendres de l'animal ou des animaux de compagnie incinérés ne peut en aucun cas se substituer à l'urne d'une personne décédée.
+
+Les cendres du ou des animaux de compagnie incinérés suivent la destination du cercueil ou de l'urne du propriétaire décédé lors de l'exhumation de celui-ci. En cas d'exhumation, les cendres des animaux de compagnie doivent être séparées des restes humains. Les cendres de l'animal de compagnie décédé ne peuvent pas être dispersées dans la pelouse de dispersion du cimetière (inter)communal.
+
+Le conseil communal arrête les modalités dans le règlement visé à l'alinéa 1er.La possibilité pour le conseil communal ou l'organe compétent de la structure de coopération intercommunale d'autoriser par règlement l'inhumation ou le placement dans un columbarium de l'urne contenant les cendres d'un ou de plusieurs animaux de compagnie déjà décédés, tels que décrits à l'alinéa 1er, n'intervient qu'à condition que le conseil communal ou l'organe compétent de la structure de coopération intercommunale ait également autorisé par règlement que l'urne contenant les cendres du conjoint ou de la personne précédemment décédé avec qui le défunt constituait un ménage de fait, puisse également être inhumée ou placée dans un columbarium, comme prévu à l'article 24, § 1bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-02-09/18, art. 11, 012; En vigueur : 15-03-2024&gt;
+
+### Section IV. - Signes indicatifs de sépulture.
+
+#### Art. 25
+
+Sauf volonté contraire du défunt ou opposition de ses proches, toute personne a le droit de faire placer sur la tombe de son parent ou de son ami un signe indicatif de sépulture sans préjudice du droit du titulaire de la concession.
+
+Le conseil communal ou l'organe de la structure de coopération intercommunale règle l'exercice de ce droit et, notamment, tout ce qui concerne la dimension des signes de sépulture et la nature des matériaux à utiliser.
+
+#### Art. 26
+
+§ 1er. Lorsqu'il est mis fin à une concession de sépulture ou lorsque la demande de transfert prévue à l'article 5, § 2, n'a pas été introduite, les signes indicatifs de sépulture non enlevés ainsi que les constructions souterraines qui subsisteraient deviennent propriété de la commune ou de la structure de coopération intercommunale.
+
+Lorsque des terrains non concédés doivent être utilisés pour de nouvelles inhumations, la décision visée à l'article 18, deuxième alinéa, mentionne également le délai dans lequel les signes de sépulture peuvent être enlevés. A l'expiration de ce délai, ou de la prorogation accordée, la commune ou la structure de coopération intercommunale devient propriétaire des matériaux.
+
+Le délai visé à l'alinéa précédent est fixé ou prorogé par le collège des bourgmestre et échevins ou l'organe compétent de la structure de coopération intercommunale qui gère le cimetière.
+
+§ 2. Le collège des bourgmestre et échevins règle seul la destination des matériaux attribués à la commune. Le collège des bourgmestre et échevins établit une liste de sépultures d'importance historique locale qui peuvent être considérées comme des petits éléments du patrimoine immobilier. Les sépultures de cette liste doivent être conservées et entretenues par l'autorité communale pendant cinquante ans. Ce délai peut être prorogé. A défaut de cette liste, l'initiative d'établir cette liste peut être prise par le Gouvernement flamand ou son délégué. Cette liste est ratifiée par le collège des bourgmestre et échevins. Le Gouvernement flamand détermine les conditions pour les listes de sépultures d'importance historique locale.
+
+## CHAPITRE III. - Dispositions finales.
+
+#### Art. 27
+
+Les dispositions du présent décret ne portent pas préjudice aux usages relatifs à l'inhumation des membres de la famille royale, ni aux usages relatifs à l'inhumation des chefs de diocèse dans leur cathédrale, non plus qu'aux dispositions relatives aux sépultures militaires.
+
+#### Art. 28
+
+Le présent décret ne porte pas préjudice à l'application de traités internationaux.
+
+Le Gouvernement flamand peut déroger aux dispositions du présent décret en vue d'assurer la protection des populations contre les dangers de propagation des maladies infectieuses ou de contamination par radiations ionisantes.
+
+#### Art. 29
+
+Les infractions aux dispositions du présent décret sont passibles des peines prévues par les [<sup>1</sup> articles 368 à 370, 517 et 658]<sup>1</sup> du Code pénal.
+
+----------
+
+(1)&lt;DCFL 2026-07-17/28, art. 2, 014; En vigueur : 01-09-2026&gt;
+
+#### Art. 30
+
+La loi du 20 juillet 1971 sur les funérailles et sépultures est abrogée, à l'exception des articles 15bis, § 2, deuxième alinéa, 23bis et 32.
+
+#### Art. 31
+
+Le présent décret entre en vigueur le premier jour du cinquième mois qui suit celui au cours duquel il aura été publié au Moniteur belge.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 16 janvier 2004.
+
+Le Ministre-Président du Gouvernement flamand,
+
+B. SOMERS
+
+Le Ministre flamand des Affaires intérieures, de la Culture, de la Jeunesse et de la Fonction publique,
+
+P. VAN GREMBERGEN

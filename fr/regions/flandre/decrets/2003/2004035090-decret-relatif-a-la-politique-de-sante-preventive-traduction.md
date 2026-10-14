@@ -1,0 +1,2991 @@
+---
+title: "Décret relatif à la politique de santé préventive (TRADUCTION)."
+identifier: "2004035090"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/21/2004035090/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2003-11-21
+published: 2004-02-03
+entry_into_force: 2004-02-13
+last_amended: 2025-12-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/21/2004035090/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 03-02-2004 et mise à jour au 30-12-2025"
+retrieved: 2026-10-15
+---
+
+# 21 NOVEMBRE 2003. - Décret relatif à la politique de santé préventive (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret relatif à la politique de santé préventive.
+
+## TITRE Ier. - Disposition générale et définitions.
+
+###### Art. 1
+
+Le présent décret règle une matière communautaire et régionale.
+
+###### Art. 2
+
+Pour l'application du présent arrêté, on entend par :
+
+[<sup>6</sup> 1° administration : le Département Soins, créé par l'arrêté du Gouvernement flamand du 12 mai 2023 relatif au Département Soins ;]<sup>6</sup>
+
+[<sup>5</sup> 1° /1 règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ; ]<sup>5</sup>
+
+2° [<sup>4</sup> dépistage de population : un ensemble d'actions relatif à un dépistage d'une maladie ou d'une affection ou des facteurs à risque, de ses stades préliminaires ou ses complications, offert à un groupe de personnes. Ce dépistage n'a pas lieu à l'occasion de plaintes de santé de personnes individuelles formulées de leur propre initiative et qui sont liées à la maladie ou l'affection ou à ses facteurs à risque, stades préliminaires ou complications;]<sup>4</sup>
+
+3° facteurs biotiques :
+
+a) micro-organismes, y compris les entités microbiologiques génétiquement modifiées, cellulaires ou non cellulaires, ayant la capacité de se répliquer ou de transmettre du matériel génétique;
+
+b) cultures cellulaires, à savoir les résultats de la culture in vitro de cellules provenant d'organismes pluricellulaires;
+
+c) endoparasites humains;
+
+d) allergènes d'origine biologique;
+
+e) autres organismes biologiques pouvant potentiellement nuire à la santé humaine;
+
+4° surveillance biologique : la détermination systématique dans des organismes vivants, dont l'homme, de concentrations de substances étrangères à l'organisme, de leurs métabolites, ou d'autres indicateurs d'exposition et/ou d'effet, afin de pouvoir évaluer l'effet nocif pour l'homme de facteurs physiques ou chimiques;
+
+5° facteurs chimiques : substances chimiques qui pourraient nuire à la santé de l'homme à cause de leur caractéristiques toxiques, mutagènes, carcinogènes, traumatogènes, tératogènes, caustiques, allergènes, et/ou d'une combinaison de ces caractéristiques;
+
+6° convention de santé collective : une convention entre le Gouvernement flamand et une organisation qui peut contribuer à la politique de santé préventive, dans laquelle l'organisation souscrit un engagement d'effort afin d'aider à poursuivre un ou plusieurs objectifs de santé flamands ou d'autres aspects de la politique de santé préventive, en informant et sensibilisant ses membres ou le groupe cible auquel elle s'adresse, et en les incitant à un comportement sain;
+
+[<sup>6</sup> 6° /1 collectivité : une structure, une établissement ou une organisation où des personnes entrent en contact les unes avec les autres ;6
+
+7° déterminant de santé : un facteur co-déterminant le degré de santé d'individus ou de populations, ci-après dénommé déterminant;
+
+8° développement durable : développement social qui ne tient non seulement compte des besoins de la génération actuelle, mais également de ceux des générations futures;
+
+[<sup>5</sup> 8° /1 exposome : la totalité des expositions d'une personne à des facteurs chimiques, physiques, sociaux et biotiques et le lien avec des réactions biologiques internes tout au long de la vie. L'exposome fournit un aperçu général et intégré de l'accumulation et de la combinaison d'expositions sur l'individu ; ]<sup>5</sup>
+
+9° politique à facettes : politique qui ne relève pas du domaine des soins de santé et qui contribue à promouvoir, protéger ou maintenir la santé;
+
+10° facteurs physiques : phénomènes physiques qui pourraient nuire à la santé de l'homme à cause de leurs caractéristiques acoustiques, mécaniques, thermiques ou électromagnétiques, à l'exception des rayonnements ionisants;
+
+[<sup>6</sup> 10° /1 personne infectée : une personne qui est infectée ou fortement présumée être infectée par une infection causée par des facteurs biotiques visés à l'article 44, § 3, 1° ;]<sup>6</sup>
+
+11° santé : l'état de bien-être physique, psychique et social de l'homme;
+
+12° promotion de la santé : méthode de prévention, utilisée dans le cadre de la politique de santé préventive, qui vise à promouvoir, protéger ou maintenir la santé en supportant ces processus qui permettent aux individus et aux groupes d'influencer positivement les déterminants de leur santé;
+
+13° conférence de santé : réunion de personnes sur l'initiative du Gouvernement flamand, qui vise à échanger des idées, données et expériences afin de parvenir à une proposition d'un objectif de santé flamand nouveau ou à revoir, ou d'accomplir d'autres missions relatives à la politique de santé préventive;
+
+14° indicateur de santé : une indication quantitative de la santé de la population ou d'une partie démontrable de la population;
+
+[<sup>5</sup> 14° /1 valeur recommandée pour la santé pour des facteurs physiques et chimiques : une valeur d'exposition censée ne pas avoir d'effets négatifs, ou n'avoir que des effets négatifs négligeables sur la santé des individus en cas d'exposition prolongée et qui, du point de vue de la santé, est une valeur indicative pour un niveau de qualité de l'environnement en adéquation avec un développement durable de l'homme et de l'environnement ;
+
+14° /2 impact sur la santé du changement climatique : effets sur la santé directs et indirects, actuels ou futurs, qui sont causés par des facteurs biotiques, physiques, chimiques, spatiaux ou matériels qui sont la conséquence du changement climatique ; ]<sup>5</sup>
+
+15° gain de santé : le résultat positif d'un processus de mesure systématique et généralement accepté, à l'aide de paramètres reliés à la durée et la qualité de vie d'une certaine population;
+
+16° valeur limite dans l'homme pour des facteurs physiques ou chimiques : le seuil dans l'homme d'un facteur étranger au corps ou le seuil dans l'homme de métabolites de ce facteur ou d'autres indicateurs d'exposition et/ou d'effet qui, en cas de dépassement, entraîne un degré de menace pour la santé, qui est inacceptable au niveau social, pour l'ensemble de la population ou pour certains groupes à risques, ci-après dénommée valeur limite dans l'homme;
+
+[<sup>5</sup> 16° /1 substance humaine extrêmement préoccupante : une substance dans laquelle une toxicité humaine est supposée ou constatée, qui est pertinente pour un cadre flamand et qui répond à un ou plusieurs critères, visés à l'article 57 du règlement n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission ; ]<sup>5</sup>
+
+[<sup>6</sup> 16° /2 immunisation : l'administration d'un médicament préventif à une personne contre un facteur biotique spécifique ;]<sup>6</sup>
+
+17° [<sup>4</sup> prestataire de soins individuel : une personne coopérant à une ou plusieurs initiatives de la politique flamande de santé préventive, dans le cadre ou non d'un groupement monodisciplinaire ou multidisciplinaire, et qui peut être reconnue ou subventionnée à cette fin par le Gouvernement flamand;]<sup>4</sup>
+
+18° initiative : une décision prise en exécution de la politique de santé préventive, qui a un caractère réglementaire ou non;
+
+19° Logo : un groupement, reconnu par le Gouvernement flamand, de concertation et organisation de santé loco-régionales dans une aire géographique d'un seul tenant;
+
+[<sup>5</sup> 19° /1 expert écologique médical : un collaborateur d'un Logo possédant une expertise en écologie médicale, qui est chargé de tâches relatives à la santé environnementale et qui remplit ainsi la fonction de première ligne d'expert écologique médical dans le cadre de la politique de santé préventive en matière de santé environnementale ;]<sup>5</sup>
+
+20° usage de substances : l'usage légal ou non de substances psychotropes pouvant compromettre la santé;
+
+[<sup>5</sup> 20° /1 zone d'attention de santé environnementale : une zone délimitée dans le temps et l'espace dans laquelle les facteurs biotiques, chimiques, physiques, spatiaux ou matériels présents forment un risque plus élevé pour la santé de l'homme que dans d'autres zones au sein de l'Union européenne présentant des caractéristiques similaires ;
+
+20° /2 santé environnementale : la partie de la politique de santé préventive qui, par une approche multidisciplinaire, avec au moins les disciplines scientifiques de médecine, toxicologie, épidémiologie, soins de santé, technologie environnementale et science de l'environnement, mise sur la prévention, la détection précoce et l'intervention de dommages pour la santé environnementale ; ]<sup>5</sup>
+
+21° trouble du développement : une perturbation de l'acquisition de capacités motrices, sociales ou cognitives;
+
+[<sup>6</sup> 21° /1 Grandir Régie : l'agence créée par le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir Régie (" Opgroeien Regie ") ;]<sup>6</sup>
+
+22° organisation oeuvrant sur le terrain : [<sup>4</sup> une organisation reconnue de plein droit, une organisation reconnue ou reconnue et subventionnée par le Gouvernement flamand ou une organisation qui est subventionnée par le biais d'un contrat de gestion]<sup>4</sup> , qui exécute les missions, applique les méthodologies [<sup>1</sup> ou fournit des services]<sup>1</sup> sur le terrain, en ce qui concerne les soins de santé préventifs;
+
+23° organisation partenaire : une organisation dotée de la personnalité juridique qui fait fonction de noyau au sein d'un réseau d'expertise, et [<sup>4</sup> qui est reconnue de plein droit et subventionnée, reconnue par le Gouvernement flamand ou reconnue et subventionnée, ou qui est subventionnée par le biais d'un contrat de gestion;]<sup>4</sup> en raison d'au moins une des compétences suivantes :
+
+a) l'expertise portant sur le contenu de la prévention des maladies;
+
+b) l'expertise portant sur le contenu de la promotion de la santé;
+
+c) la fourniture de données en matière de soins de santé;
+
+[<sup>6</sup> 23° /1 médicament préventif : un médicament qui vise à prévenir une maladie ou une affection causée par un facteur biotique spécifique et qui est repris dans la liste visée à l'article 43, § 5 ;]<sup>6</sup>
+
+24° soins de santé préventifs : la partie des soins de santé qui comprend des mesures et actions visant à promouvoir, protéger ou maintenir la santé;
+
+25° santé sexuelle : bien-être physique, mental et social lié à des relations physiques intimes;
+
+26° milieu social : la réalité interrelationnelle et psychosociale dans laquelle se situe l'homme;
+
+27° [<sup>5</sup> ...]<sup>5</sup>
+
+28° gestion du stress : méthode visant à enlever ou limiter le stress et/ou à apprendre à gérer le stress;
+
+29° [<sup>5</sup> [<sup>6</sup> personne qui administre le médicament : un professionnel des soins de santé visé à l'article 2, 2°, de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé, habilité par l'autorité compétente à administrer un médicament préventif ;]<sup>6</sup> ]<sup>5</sup>;
+
+30° facteurs acquis : caractéristiques biologiques développées au cours de la vie, qui peuvent faire fonction d'indicateur pour l'état de santé;
+
+31° Conseil consultatif flamand pour l'agrément des établissements de soins : l'organe consultatif créé par le décret du 20 décembre 1996 portant création d'un Conseil flamand de la Santé et d'un Conseil consultatif flamand pour l'agrément des établissements de soins, modifié par le décret du 18 mai 1999;
+
+32° Objectif de santé flamand : un objectif à poursuivre dans le domaine de la santé, qui est temporel, mesurable, réalisable et socialement acceptable et qui est approuvé par le Parlement flamand à l'initiative du Gouvernement flamand;
+
+33° [<sup>3</sup> Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille : le conseil consultatif stratégique, visé à l'article 3 du décret du 7 décembre 2007 portant création du Conseil consultatif stratégique pour la Politique flamande de l'Aide sociale, de la Santé et de la Famille et d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille;]<sup>3</sup>
+
+34° prévention des maladies : méthode de prévention utilisée dans le cadre de la politique de santé préventive, qui vise à promouvoir, protéger ou maintenir la santé par :
+
+a) la prévention de l'apparition de certaines maladies ou affections, en éliminant ou limitant les sources de danger ou les facteurs de risque pour la santé, ou en renforçant les facteurs protecteurs;
+
+b) [<sup>4</sup> la limitation des dommages à la santé causés par des maladies ou affections, ou l'accroissement des chances de guérison par le dépistage en temps utile ou l'intervention précoce des maladies ou affections ou la prédisposition à celles-ci;]<sup>4</sup>
+
+35° Centre d'Encadrement des Elèves : un centre tel que visé dans le décret du 1er décembre 1998 relatif aux centres d'encadrement des élèves;
+
+36° situation défavorisée : une situation durable qui réduit les chances de l'homme, aux niveaux matériel et immatériel, à participer suffisamment aux biens à haute valeur sociale tels que l'enseignement, le travail et le logement.
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 14, 1°-2°, 004; En vigueur : 16-04-2009&gt;
+
+(3)&lt;DCFL 2009-03-20/36, art. 14,4°, 004; En vigueur : indéterminée , entrent en vigueur le premier jour du mois qui suit celui dans lequel la nomination des membres du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille est publiée au Moniteur belge&gt;
+
+(4)&lt;DCFL 2016-07-15/17, art. 6, 006; En vigueur : 01-01-2017&gt;
+
+(5)&lt;DCFL 2024-04-26/49, art. 1, 018; En vigueur : 17-06-2024&gt;
+
+(6)&lt;DCFL 2025-07-18/50, art. 2, 021; En vigueur : 15-01-2026&gt;
+
+###### Art. 2 DROIT FUTUR
+
+Pour l'application du présent arrêté, on entend par :
+
+1° administration : l'administration des services du Gouvernement flamand, compétente pour les soins de santé;
+
+2° [<sup>4</sup> dépistage de population : un ensemble d'actions relatif à un dépistage d'une maladie ou d'une affection ou des facteurs à risque, de ses stades préliminaires ou ses complications, offert à un groupe de personnes. Ce dépistage n'a pas lieu à l'occasion de plaintes de santé de personnes individuelles formulées de leur propre initiative et qui sont liées à la maladie ou l'affection ou à ses facteurs à risque, stades préliminaires ou complications;]<sup>4</sup>
+
+3° facteurs biotiques :
+
+a) micro-organismes, y compris les entités microbiologiques génétiquement modifiées, cellulaires ou non cellulaires, ayant la capacité de se répliquer ou de transmettre du matériel génétique;
+
+b) cultures cellulaires, à savoir les résultats de la culture in vitro de cellules provenant d'organismes pluricellulaires;
+
+c) endoparasites humains;
+
+d) allergènes d'origine biologique;
+
+e) autres organismes biologiques pouvant potentiellement nuire à la santé humaine;
+
+4° surveillance biologique : la détermination systématique dans des organismes vivants, dont l'homme, de concentrations de substances étrangères à l'organisme, de leurs métabolites, ou d'autres indicateurs d'exposition et/ou d'effet, afin de pouvoir évaluer l'effet nocif pour l'homme de facteurs physiques ou chimiques;
+
+5° facteurs chimiques : substances chimiques qui pourraient nuire à la santé de l'homme à cause de leur caractéristiques toxiques, mutagènes, carcinogènes, traumatogènes, tératogènes, caustiques, allergènes, et/ou d'une combinaison de ces caractéristiques;
+
+6° convention de santé collective : une convention entre le Gouvernement flamand et une organisation qui peut contribuer à la politique de santé préventive, dans laquelle l'organisation souscrit un engagement d'effort afin d'aider à poursuivre un ou plusieurs objectifs de santé flamands ou d'autres aspects de la politique de santé préventive, en informant et sensibilisant ses membres ou le groupe cible auquel elle s'adresse, et en les incitant à un comportement sain;
+
+7° déterminant de santé : un facteur co-déterminant le degré de santé d'individus ou de populations, ci-après dénommé déterminant;
+
+8° développement durable : développement social qui ne tient non seulement compte des besoins de la génération actuelle, mais également de ceux des générations futures;
+
+9° politique à facettes : politique qui ne relève pas du domaine des soins de santé et qui contribue à promouvoir, protéger ou maintenir la santé;
+
+10° facteurs physiques : phénomènes physiques qui pourraient nuire à la santé de l'homme à cause de leurs caractéristiques acoustiques, mécaniques, thermiques ou électromagnétiques, à l'exception des rayonnements ionisants;
+
+11° santé : l'état de bien-être physique, psychique et social de l'homme;
+
+12° promotion de la santé : méthode de prévention, utilisée dans le cadre de la politique de santé préventive, qui vise à promouvoir, protéger ou maintenir la santé en supportant ces processus qui permettent aux individus et aux groupes d'influencer positivement les déterminants de leur santé;
+
+13° conférence de santé : réunion de personnes sur l'initiative du Gouvernement flamand, qui vise à échanger des idées, données et expériences afin de parvenir à une proposition d'un objectif de santé flamand nouveau ou à revoir, ou d'accomplir d'autres missions relatives à la politique de santé préventive;
+
+14° indicateur de santé : une indication quantitative de la santé de la population ou d'une partie démontrable de la population;
+
+15° gain de santé : le résultat positif d'un processus de mesure systématique et généralement accepté, à l'aide de paramètres reliés à la durée et la qualité de vie d'une certaine population;
+
+16° valeur limite dans l'homme pour des facteurs physiques ou chimiques : le seuil dans l'homme d'un facteur étranger au corps ou le seuil dans l'homme de métabolites de ce facteur ou d'autres indicateurs d'exposition et/ou d'effet qui, en cas de dépassement, entraîne un degré de menace pour la santé, qui est inacceptable au niveau social, pour l'ensemble de la population ou pour certains groupes à risques, ci-après dénommée valeur limite dans l'homme;
+
+17° [<sup>4</sup> prestataire de soins individuel : une personne coopérant à une ou plusieurs initiatives de la politique flamande de santé préventive, dans le cadre ou non d'un groupement monodisciplinaire ou multidisciplinaire, et qui peut être reconnue ou subventionnée à cette fin par le Gouvernement flamand ;]<sup>4</sup>
+
+18° initiative : une décision prise en exécution de la politique de santé préventive, qui a un caractère réglementaire ou non;
+
+19° Logo : un groupement, reconnu par le Gouvernement flamand, de concertation et organisation de santé loco-régionales dans une aire géographique d'un seul tenant;
+
+20° usage de substances : l'usage légal ou non de substances psychotropes pouvant compromettre la santé;
+
+21° trouble du développement : une perturbation de l'acquisition de capacités motrices, sociales ou cognitives;
+
+22° organisation oeuvrant sur le terrain : [<sup>4</sup> une organisation reconnue de plein droit, une organisation reconnue ou reconnue et subventionnée par le Gouvernement flamand ou une organisation qui est subventionnée par le biais d'un contrat de gestion]<sup>4</sup> , qui exécute les missions, applique les méthodologies [<sup>1</sup> ou fournit des services]<sup>1</sup> sur le terrain, en ce qui concerne les soins de santé préventifs;
+
+23° organisation partenaire : une organisation dotée de la personnalité juridique qui fait fonction de noyau au sein d'un réseau d'expertise, et [<sup>4</sup> qui est reconnue de plein droit et subventionnée, reconnue par le Gouvernement flamand ou reconnue et subventionnée, ou qui est subventionnée par le biais d'un contrat de gestion;]<sup>4</sup> en raison d'au moins une des compétences suivantes :
+
+a) l'expertise portant sur le contenu de la prévention des maladies;
+
+b) l'expertise portant sur le contenu de la promotion de la santé;
+
+c) la fourniture de données en matière de soins de santé;
+
+24° soins de santé préventifs : la partie des soins de santé qui comprend des mesures et actions visant à promouvoir, protéger ou maintenir la santé;
+
+25° santé sexuelle : bien-être physique, mental et social lié à des relations physiques intimes;
+
+26° milieu social : la réalité interrelationnelle et psychosociale dans laquelle se situe l'homme;
+
+27° valeur cible pour des facteurs physiques et chimiques : valeur indiquant un niveau de qualité environnementale adapté à un développement durable, ci-après dénommée valeur cible;
+
+28° gestion du stress : méthode visant à enlever ou limiter le stress et/ou à apprendre à gérer le stress;
+
+29° vaccinateur : un médecin ou un infirmier sous le contrôle d'un médecin, qui administre les vaccins mis à disposition par l'intermédiaire de la Communauté flamande;
+
+30° facteurs acquis : caractéristiques biologiques développées au cours de la vie, qui peuvent faire fonction d'indicateur pour l'état de santé;
+
+31° [<sup>2</sup> Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille : la commission visée à l'article 12 du décret du 7 décembre 2007 portant création du Conseil consultatif stratégique pour la Politique flamande de l'Aide sociale, de la Santé et de la Famille et d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille;]<sup>2</sup>
+
+32° Objectif de santé flamand : un objectif à poursuivre dans le domaine de la santé, qui est temporel, mesurable, réalisable et socialement acceptable et qui est approuvé par le Parlement flamand à l'initiative du Gouvernement flamand;
+
+33° [<sup>3</sup> Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille : le conseil consultatif stratégique, visé à l'article 3 du décret du 7 décembre 2007 portant création du Conseil consultatif stratégique pour la Politique flamande de l'Aide sociale, de la Santé et de la Famille et d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille;]<sup>3</sup>
+
+34° prévention des maladies : méthode de prévention utilisée dans le cadre de la politique de santé préventive, qui vise à promouvoir, protéger ou maintenir la santé par :
+
+a) la prévention de l'apparition de certaines maladies ou affections, en éliminant ou limitant les sources de danger ou les facteurs de risque pour la santé, ou en renforçant les facteurs protecteurs;
+
+b) [<sup>4</sup> la limitation des dommages à la santé causés par des maladies ou affections, ou l'accroissement des chances de guérison par le dépistage en temps utile ou l'intervention précoce des maladies ou affections ou la prédisposition à celles-ci;]<sup>4</sup>
+
+35° Centre d'Encadrement des Elèves : un centre tel que visé dans le décret du 1er décembre 1998 relatif aux centres d'encadrement des élèves;
+
+36° situation défavorisée : une situation durable qui réduit les chances de l'homme, aux niveaux matériel et immatériel, à participer suffisamment aux biens à haute valeur sociale tels que l'enseignement, le travail et le logement.
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 14, 1°-2°, 004; En vigueur : 16-04-2009&gt;
+
+(2)&lt;DCFL 2009-03-20/36, art. 14,3°, 004; En vigueur : indéterminée &gt;
+
+(3)&lt;DCFL 2009-03-20/36, art. 14,4°, 004; En vigueur : indéterminée , entrent en vigueur le premier jour du mois qui suit celui dans lequel la nomination des membres du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille est publiée au Moniteur belge&gt;
+
+(4)&lt;DCFL 2016-07-15/17, art. 6, 006; En vigueur : 01-01-2017&gt;
+
+## TITRE II. - Missions et responsabilités.
+
+### CHAPITRE Ier. - Missions.
+
+###### Art. 3
+
+Le présent décret vise une amélioration de la santé publique, notamment la réalisation d'un gain de santé [<sup>1</sup> ou l'augmentation de l'efficacité de la politique de santé]<sup>1</sup> au niveau de la population flamande, afin de pouvoir contribuer à une augmentation de la qualité de vie.
+
+A cette fin, le Gouvernement flamand mène une politique en matière de soins de santé préventifs et jette les bases d'une politique à facettes. Les deux aspects ensemble constituent la politique de santé préventive flamande.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 7, 006; En vigueur : 01-01-2017&gt;
+
+###### Art. 4
+
+§ 1er. La politique en matière de soins de santé préventifs comporte la prise d'initiatives qui visent :
+
+a) les déterminants exogènes de santé et les sources de danger ou facteurs de risque exogènes pour la santé;
+
+b) les déterminants endogènes de santé et les sources de danger ou facteurs de risque endogènes pour la santé;
+
+c) les maladies et affections qui se trouvent dans un stade préliminaire ou initial.
+
+§ 2. La politique à facettes comprend la prise d'initiatives qui ne relèvent pas du domaine des soins de santé et qui visent les déterminants exogènes de santé et des sources de danger ou facteurs de risque exogènes pour la santé.
+
+La matière régionale visée à l'article 1er concerne uniquement certains aspects de la politique à facettes dans la Région flamande, notamment les initiatives relatives aux facteurs physiques ou chimiques, tels que visés aux articles 51 à 55 inclus, et aux facteurs spatiaux et matériels, tels que visés à l'article 56.
+
+La politique à facettes ne comprend pas d'initiatives qui relèvent des compétences de l'autorité fédérale.
+
+###### Art. 5
+
+Les initiatives visant à promouvoir, protéger ou maintenir la santé, visées à l'article 4, sont réalisées par la promotion de la santé et/ou la prévention des maladies.
+
+###### Art. 6
+
+Le Gouvernement flamand peut s'adresser à des groupes de population spécifiques, dont des personnes ou groupes de personnes qui appartiennent à une catégorie d'âge déterminée [<sup>1</sup> , qui ]<sup>1</sup> se trouvent dans une phase de développement déterminée, [<sup>1</sup> ou qui résident dans une zone d'attention de santé environnementale,]<sup>1</sup> dans le but :
+
+a) de mieux atteindre les groupes caractérisés par une vulnérabilité particulière;
+
+b) de mieux pouvoir tenir compte des aspects évolutifs et dynamiques de la condition humaine;
+
+c) d'améliorer la faisabilité des initiatives visées à l'article 5.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/49, art. 3, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 7
+
+§ 1er. Le Gouvernement flamand accorde une attention particulière :
+
+a) aux groupes de population défavorisés;
+
+b) aux groupes de population dont l'exposition aux menaces de leur santé est plus grande;
+
+c) à l'accessibilité de l'offre en matière de soins de santé préventifs.
+
+§ 2. Toutes les organisations subventionnées par le Gouvernement flamand pour des tâches en matière de soins de santé préventifs, sont tenues de tenir compte des points d'attention visés au § 1er, lors de l'accomplissement de leur mission.
+
+### CHAPITRE II. - Responsabilités.
+
+#### Section Ire. - Responsabilité individuelle.
+
+###### Art. 8
+
+Dans le cadre du champ d'application du présent décret, toute personne a une responsabilité individuelle par rapport à sa propre santé et, par les actes qu'elle pose ou manque de poser volontairement et consciemment, également par rapport à la santé de son prochain. Cette responsabilité comprend la prise en considération des prescriptions de sécurité, l'adoption d'un style de vie sain et la prise d'autres mesures de précaution réalisables et efficaces dans le but de prévenir des maladies et affections chez l'homme.
+
+#### Section II. - Responsabilités du Gouvernement flamand.
+
+###### Art. 9
+
+§ 1er. Sans préjudice de la responsabilité individuelle, chaque personne a droit à une offre de soins de santé préventifs socialement acceptée, lorsqu'elle :
+
+1° réside en Région flamande ou en Région bilingue de Bruxelles-Capitale, et fait appel, en Région flamande, à des organisations partenaires, des organisations oeuvrant sur le terrain ou des prestataires de soins individuels qui offrent des soins de santé préventifs;
+
+2° a) réside en Région flamande ou en Région bilingue de Bruxelles-Capitale et fait appel, en Région bilingue de Bruxelles-Capitale, aux organisations partenaires ou organisations oeuvrant sur le terrain qui offrent des soins de santé préventifs et qui, de par leur organisation, doivent être considérées comme relevant exclusivement de la compétence de la Communauté flamande;
+
+b) réside en Région flamande ou en Région bilingue de Bruxelles-Capitale et fait appel, en Région bilingue de Bruxelles-Capitale, à des prestataires de soins individuels qui, pour leur offre en matière de soins de santé préventifs, se sont affiliés à un groupement qui est organisé lui-même de telle façon qu'il témoigne d'un lien avec la Communauté flamande;
+
+§ 2. Les personnes qui n'assument pas ou insuffisamment ou n'ont pas ou insuffisamment assumé leur responsabilité individuelle déterminée à l'article 8, ne sont toutefois pas privées du droit à une offre de soins de santé préventifs socialement acceptée, visée au § 1er.
+
+###### Art. 10
+
+§ 1er. Certaines catégories de personnes qui se trouvent sur le territoire de la Région flamande mais n'y résident pas officiellement, peuvent faire valoir un droit à une offre limitée de soins de santé préventifs, qui sera fournie par une organisation partenaire, une organisation oeuvrant sur le terrain ou un prestataire de soins individuel.
+
+Le Gouvernement flamand fixe l'offre de soins de santé préventifs et les catégories de personnes qui entrent en ligne de compte.
+
+§ 2. Certaines catégories de personnes qui se trouvent, mais ne résident pas officiellement sur le territoire de la Région bilingue de Bruxelles-Capitale, peuvent faire valoir un droit en Région bilingue de Bruxelles-Capitale :
+
+a) à une offre limitée de soins de santé préventifs, qui est fournie par une structure qui, de par son organisation, doit être considérée comme relevant exclusivement de la compétence de la Communauté flamande;
+
+b) à une offre limitée de soins de santé préventifs, qui est fournie par un prestataire de soins individuel qui s'est affilié volontairement à un groupement qui est organisé lui-même de telle façon qu'il témoigne d'un lien avec la Communauté flamande.
+
+Le Gouvernement flamand fixe l'offre de soins de santé préventifs et les catégories de personnes qui entrent en ligne de compte.
+
+###### Art. 11
+
+Toute personne a l'obligation de se soumettre à une intervention de soins de santé préventifs qui est nécessaire pour ne pas mettre en danger la santé d'autres personnes, lorsqu'elle :
+
+1° se trouve sur le territoire de la Région flamande et cette intervention en Région flamande est fournie par une organisation partenaire, une organisation oeuvrant sur le terrain ou un prestataire de soins individuel;
+
+2° a) se trouve sur le territoire de la Région bilingue de Bruxelles-Capitale et cette intervention en Région bilingue de Bruxelles-Capitale est fournie par une structure qui, de par son organisation, doit être considérée comme relevant exclusivement de la compétence de la Communauté flamande et pour autant qu'elle a volontairement fait appel à cette structure;
+
+b) se trouve sur le territoire de la Région bilingue de Bruxelles-Capitale et cette intervention en Région bilingue de Bruxelles-Capitale est fournie par un prestataire de soins individuel qui s'est affilié volontairement à un groupement qui est organisé lui-même de telle façon qu'il témoigne d'un lien avec la Communauté flamande et pour autant que la personne a volontairement fait appel à ce prestataire de soins individuel.
+
+###### Art. 12
+
+§ 1er. Chaque année, le Gouvernement flamand fait le point des indicateurs de santé. Le Gouvernement flamand prend les initiatives nécessaires pour rendre ces données publiques.
+
+§ 2. Au moins tous les cinq ans, le Gouvernement flamand communique, sur une base scientifique fondée, les indicateurs de santé les plus importants et leur évolution, ainsi que l'état de la situation des objectifs de santé flamands, au Parlement flamand.
+
+## TITRE III. - Organisation.
+
+### CHAPITRE Ier. - Conférence de santé.
+
+###### Art. 13
+
+§ 1er. En vue de l'élaboration d'une proposition d'un objectif de santé flamand nouveau ou à revoir, le Gouvernement flamand convoque une conférence de santé.
+
+§ 2. Le Gouvernement flamand peut également convoquer une conférence de santé et la charger d'autres missions que celles visées au § 1er. Ces missions concernent la politique de santé préventive.
+
+###### Art. 14
+
+§ 1er. Chaque conférence de santé est composée par le Gouvernement flamand.
+
+§ 2. Une conférence de santé se compose entre autres de représentants du Gouvernement flamand, d'experts au niveau du contenu, de représentants des groupes cibles et de représentants des Logos. Des représentants d'organisations partenaires, d'organisations oeuvrant sur le terrain, de prestataires de soins individuels, et d'instances pouvant donner corps à la politique à facettes, peuvent faire partie d'une conférence de santé en fonction de leur association au sujet et sur la base de leurs compétences.
+
+###### Art. 15
+
+En vue de la préparation d'une conférence de santé et de l'élaboration des propositions ou conclusions d'une conférence de santé, le Gouvernement flamand peut créer des groupes de travail.
+
+###### Art. 16
+
+Le Gouvernement flamand détermine les modalités de fonctionnement et le financement éventuel pour le support des conférences de santé et des groupes de travail, visés à l'article 15.
+
+###### Art. 17
+
+§ 1er. La conférence de santé, visée à l'article 13, § 1er, formule une proposition d'un objectif de santé flamand nouveau ou à revoir. Cette proposition comprend :
+
+a) la formulation de l'objectif de santé flamand même;
+
+b) les stratégies de prévention estimées nécessaires afin de pouvoir réaliser l'objectif de santé flamand proposé dans le délai imposé et de façon aussi efficace que possible;
+
+c) une simulation étayée des moyens estimés nécessaires pour b), en tenant compte des moyens déjà mis à disposition.
+
+§ 2. Les propositions d'objectifs de santé flamands nouveaux ou à revoir, visés à l'article 13, § 1er, et les conclusions de la conférence de santé, visée à l'article 13, § 2, sont soumises pour avis [<sup>1</sup> au Conseil consultatif stratégique pour la Politique flamande de l'Aide sociale, de la Santé et de la Famille]<sup>1</sup> .
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 15, 004; En vigueur : indéterminée , entrent en vigueur le premier jour du mois qui suit celui dans lequel la nomination des membres du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille est publiée au Moniteur belge&gt;
+
+### CHAPITRE II. - Objectifs de santé flamands.
+
+###### Art. 18
+
+§ 1er. Les propositions d'objectifs de santé flamands nouveaux ou à revoir sont soumises au Gouvernement flamand après avis [<sup>1</sup> du Conseil consultatif stratégique pour la Politique flamande de l'Aide sociale, de la Santé et de la Famille]<sup>1</sup> .
+
+§ 2. Les propositions d'objectifs de santé flamands nouveaux ou à revoir qui sont acceptées par le Gouvernement flamand, sont soumises à l'approbation du Parlement flamand.
+
+[<sup>2</sup> Un objectif de santé flamand approuvé reste en vigueur jusqu'à ce qu'il soit revu ou abrogé par le Parlement flamand.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 16, 004; En vigueur : indéterminée , entrent en vigueur le premier jour du mois qui suit celui dans lequel la nomination des membres du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille est publiée au Moniteur belge&gt;
+
+(2)&lt;DCFL 2016-07-15/17, art. 8, 006; En vigueur : 01-01-2017&gt;
+
+###### Art. 19
+
+§ 1er. Toutes les organisations subventionnées par le Gouvernement flamand pour des missions en matière de soins de santé préventifs, sont tenues à apporter leur collaboration à la réalisation des objectifs de santé flamands.
+
+§ 2. Le Gouvernement flamand peut associer des instances pouvant donner corps à la politique à facettes, à la réalisation des objectifs de santé flamands.
+
+### CHAPITRE III. - Groupes de travail d'appui.
+
+###### Art. 20
+
+§ 1er. Le Gouvernement flamand peut créer des groupes de travail d'appui en dehors du cadre d'une conférence de santé. La tâche d'un groupe de travail d'appui concerne un aspect particulier de la politique de santé préventive.
+
+§ 2. [<sup>1</sup> Le cas échéant, le Gouvernement flamand détermine la mission, la composition, les modalités de fonctionnement et le financement de ces groupes de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 17, 004; En vigueur : 16-04-2009&gt;
+
+### CHAPITRE IV. - Organisations partenaires.
+
+###### Art. 21
+
+[<sup>1</sup> § 1er. Dans le cadre de sa politique en matière de soins de santé préventifs, le Gouvernement flamand peut conclure des contrats de gestion avec des structures, sur la base d'appels aux organisations partenaires.
+
+Le contrat de gestion vaut pour au minimum trois et au maximum cinq ans, et comprend au moins le plan de gestion pour la durée du contrat de gestion. Le plan de gestion comprend au moins les données suivantes : les domaines de performance pour l'exécution du contrat de gestion et les critères d'évaluation relatifs aux domaines de performance afin de pouvoir évaluer entre autres l'exécution du contrat de gestion.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Le cas échéant, le Gouvernement flamand arrête les modalités relatives à [<sup>4</sup> l'appel,]<sup>4</sup> à la conclusion [<sup>4</sup> et la prolongation]<sup>4</sup> d'un contrat de gestion.
+
+§ 2. Le Gouvernement flamand peut agréer comme organisation partenaire, des structures avec lesquelles aucun contrat de gestion comme organisation partenaire n'est conclu.
+
+Le Gouvernement flamand arrête, le cas échéant, les conditions d'agrément, la durée de l'agrément et les règles pour l'octroi, la suspension et le retrait de l'agrément.
+
+§ 3. Le Gouvernement flamand fixe la subvention et les conditions de subventionnement des organisations partenaires.
+
+§ 4. Les paragraphes 1 à 3 ne s'appliquent pas à l'agence autonomisée interne dotée de la personnalité juridique [<sup>3</sup> " Opgroeien regie "]<sup>3</sup>, agréée de plein droit comme organisation partenaire.]<sup>1</sup>
+
+§ 5. Les organisations agréées comme organisation partenaire, ne sont pas exclues d'un agrément et/ou subventionnement comme organisation oeuvrant sur le terrain.
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 18, 004; En vigueur : 15-09-2009&gt;
+
+(2)&lt;DCFL 2016-07-15/17, art. 9, 006; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCFL 2021-05-21/21, art. 2, 011; En vigueur : 18-04-2019&gt;
+
+(4)&lt;DCFL 2025-12-19/57, art. 7, 022; En vigueur : 09-01-2026&gt;
+
+###### Art. 22
+
+Les organisations partenaires soutiennent au moins les organisations oeuvrant sur le terrain et les Logos, si elles peuvent y contribuer en raison de leur expertise au niveau du contenu ou leur capacité de fournir des données.
+
+### CHAPITRE V. - Organisations oeuvrant sur le terrain.
+
+###### Art. 23
+
+[<sup>1</sup> § 1er. Dans le cadre de sa politique en matière de soins de santé préventifs, le Gouvernement flamand peut conclure des contrats de gestion avec des structures, sur la base d'appels aux organisations oeuvrant sur le terrain.
+
+Le contrat de gestion vaut pour au minimum trois et au maximum cinq ans, et comprend au moins le plan de gestion pour la durée du contrat de gestion. Le plan de gestion comprend au moins les données suivantes : les domaines de performance pour l'exécution du contrat de gestion et les critères d'évaluation relatifs aux domaines de performance afin de pouvoir évaluer entre autres l'exécution du contrat de gestion.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Le cas échéant, le Gouvernement flamand arrête les modalités relatives à [<sup>3</sup> l'appel,]<sup>3</sup> à la conclusion [<sup>3</sup> et la prolongation]<sup>3</sup> d'un contrat de gestion.
+
+§ 2. Le Gouvernement flamand peut agréer comme organisation oeuvrant sur le terrain, des structures avec lesquelles aucun contrat de gestion comme organisation oeuvrant sur le terrain n'est conclu.
+
+Le Gouvernement flamand arrête, le cas échéant, les conditions d'agrément, la durée de l'agrément et les règles pour l'octroi, la suspension et le retrait de l'agrément.
+
+§ 3. Le Gouvernement flamand fixe la subvention et les conditions de subventionnement des organisations oeuvrant sur le terrain.]<sup>1</sup>
+
+§ 4. Les §§ 1er à 3 inclus ne s'appliquent pas aux Centres d'encadrement des élèves, aux Bureaux de consultation pour le jeune enfant et aux Centres de soins préventifs qui sont agréés de plein droit comme organisations oeuvrant sur le terrain.
+
+§ 5. Les organisations agréées et/ou subventionnées comme organisation oeuvrant sur le terrain, ne sont pas exclues d'un agrément comme organisation partenaire.
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 19, 004; En vigueur : 15-09-2009&gt;
+
+(2)&lt;DCFL 2016-07-15/17, art. 10, 006; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCFL 2025-12-19/57, art. 8, 022; En vigueur : 09-01-2026&gt;
+
+###### Art. 24
+
+Lorsqu'elles ont besoin d'appui pour certaines missions ou parties de missions, les organisations oeuvrant sur le terrain font appel à l'offre des organisations partenaires qui, en raison de leur expertise au niveau du contenu ou leur capacité de fournir des données, peuvent fournir l'appui demandé.
+
+### CHAPITRE VI. - Prestataires de soins individuels.
+
+###### Art. 25
+
+Le Gouvernement flamand peut charger des prestataires de soins individuels de missions en matière de soins de santé préventifs ou les y associer.
+
+Le Gouvernement flamand peut arrêter les modalités en la matière.
+
+###### Art. 26
+
+§ 1er. Dans le cadre de missions en matière de soins de santé préventifs, le Gouvernement flamand peut agréer et/ou subventionner des prestataires de soins individuels.
+
+§ 2. Le cas échéant, le Gouvernement flamand détermine les conditions d'agrément, les règles relatives à la durée de l'agrément, les règles relatives à la suspension et au retrait de l'agrément et les conditions de subventionnement.
+
+### CHAPITRE VII. - Autres autorités.
+
+###### Art. 27
+
+§ 1er. Le Gouvernement flamand conclut des accords avec d'autres autorités associées, à savoir :
+
+1° les autorités communales ou leurs représentants;
+
+2° les autorités provinciales ou leurs représentants;
+
+3° la Commission communautaire flamande pour la région bilingue de Bruxelles-Capitale.
+
+§ 2. Les accords avec d'autres autorités associées concernent :
+
+1° la coopération éventuelle au sujet de et/ou la délégation éventuelle de certaines missions et responsabilités en vue de la réalisation des initiatives visées à l'article 5;
+
+2° la coordination éventuelle de la politique à facettes au niveau des autorités visées au § 1er;
+
+3° l'appui éventuel des Logos.
+
+[<sup>1</sup> § 3. Le Gouvernement flamand peut subventionner les administrations, visées au paragraphe 1er, pour les accords, visés au paragraphe 2. Le Gouvernement flamand détermine la subvention et les conditions de subvention, et règle le paiement de la subvention, la justification de la subvention et la surveillance de l'affectation de la subvention]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/49, art. 4, 018; En vigueur : 17-06-2024&gt;
+
+### CHAPITRE VIII. - Logos.
+
+###### Art. 28
+
+§ 1er. Le Gouvernement flamand charge les Logos des missions en matière de politique de santé préventive.
+
+A cet effet, les Logos sont agréés et subventionnés par le Gouvernement flamand.
+
+§ 2. Le Gouvernement flamand détermine les conditions d'agrément, les règles relatives à la durée de l'agrément et les règles relatives à la suspension et au retrait de l'agrément.
+
+§ 3. Le Gouvernement flamand détermine la subvention et élabore les modalités relatives au mode de subventionnement.
+
+###### Art. 29
+
+Chaque Logo a son propre champ d'activité qui constitue une aire géographique d'un seul tenant. Ces champs d'activité sont déterminés par le Gouvernement flamand.
+
+L'ensemble de tous les Logos couvre le territoire de la Région flamande et de la région bilingue de Bruxelles-Capitale, sans aucun chevauchement.
+
+###### Art. 30
+
+§ 1er. Relève au moins des missions des Logos, la poursuite de la réalisation des objectifs de santé flamands au sein de leur champ d'activité.
+
+§ 2. Relève également des missions des Logos, l'accomplissement d'autres tâches à spécifier en matière de politique de santé préventive pour le compte du Gouvernement flamand.
+
+§ 3. Au sein de son champ d'activité, un Logo peut également prendre d'autres initiatives en matière de politique de santé préventive.
+
+Le Logo veille à ce que ces initiatives n'entravent pas la réalisation des missions visées aux §§ 1er et 2, et ne sont pas contraires aux initiatives et directives du Gouvernement flamand.
+
+§ 4. [<sup>1</sup> Lorsqu'il a besoin d'appui pour certaines missions ou parties de missions, un Logo fait appel à l'offre des organisations partenaires qui, en raison de leur expertise au niveau du contenu ou leur capacité de fournir des données, peuvent fournir l'appui demandé.
+
+Pour la réalisation de ses missions, un Logo collabore avec [<sup>2</sup> ...]<sup>2</sup> des organisations oeuvrant sur le terrain, à des prestataires de soins individuels et à d'autres organisations ou leur division ou divisions locales ou régionales actives dans la zone d'action du Logo, dans la mesure où cela contribue à la réalisation de ses missions.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 20, 004; En vigueur : 16-04-2009&gt;
+
+(2)&lt;DCFL 2016-07-15/17, art. 11, 006; En vigueur : 01-01-2017&gt;
+
+### CHAPITRE IX. - Dépistage de population.
+
+###### Art. 31
+
+§ 1er. Le Gouvernement flamand peut prendre des initiatives pour mettre sur pied des dépistages de population programmatiques. Ces dépistages concernent des actions organisées de dépistage dans le cadre de la prévention des maladies.
+
+§ 2. Les dépistages de population dans le cadre de la prévention des maladies, qui ne sont pas effectués pour le compte du Gouvernement flamand, requièrent l'autorisation du Gouvernement flamand.
+
+Pareille autorisation peut être accordée par le Gouvernement flamand après que les initiateurs fournissent au moins des informations concernant :
+
+1° l'objectif et le groupe cible du dépistage de population;
+
+2° la base scientifique pour l'organisation du dépistage de population;
+
+3° les effets nuisibles possibles du [<sup>1</sup> dépistage de population]<sup>1</sup>;
+
+4° la période dans laquelle le dépistage de population est prévu;
+
+5° la description du [<sup>1</sup> dépistage de population]<sup>1</sup> et des espaces où le dépistage sera effectué;
+
+6° la communication avec les personnes à examiner et examinées concernant [<sup>1</sup> ...]<sup>1</sup> et le dépistage de population;
+
+7° une estimation des effets au niveau d'économie de la santé qu'aura le dépistage de population;
+
+8° les mesures prises en vue de la sécurite des données de dépistage collectées et en vue de la protection de la vie privée des personnes examinées.
+
+§ 3. Le Gouvernement flamand peut déterminer des règles complémentaires relatives au dépistage de population.
+
+§ 4. La condition d'autorisation, visée au § 2, et les règles complémentaires, visées au § 3, ne peuvent pas porter atteinte à la liberté diagnostique et thérapeutique des praticiens des professions des soins de santé dans leur relation individuelle avec le patient qui a des plaintes ou des symptômes. Cette liberté diagnostique et thérapeutique vaut dans la mesure où elle est garantie par la législation fédérale.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 12, 006; En vigueur : 01-01-2017&gt;
+
+### CHAPITRE X. - Echange d'informations.
+
+###### Art. 32
+
+§ 1er. La continuité de la dispensation individuelle de soins et de services préventifs doit être assurée, entre autres par l'échange d'informations relatives à l'offre de soins, entre les organisations partenaires, les organisations oeuvrant sur le terrain et les prestataires de soins individuels entre eux. Cet échange d'informations est nécessaire pour le développement et le fonctionnement d'un système d'informations opérationnel.
+
+§ 2. Les Logos, organisations partenaires, organisations oeuvrant sur le terrain et prestataires de soins individuels doivent échanger, entre eux d'une part et avec les autorités flamandes d'autre part, les informations nécessaires au développement et au fonctionnement d'un système d'informations épidémiologiques permettant un étayage scientifique maximal de la politique.
+
+§ 3. En ce qui concerne les §§ 1er et 2, le Gouvernement flamand arrête les modalités, après avis [<sup>1</sup> d'une chambre de la commission de contrôle telle que visée à l'article 10 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, qui veille spécifiquement à la protection de la vie privée à l'égard du traitement de données à caractère personnel relatives à la santé]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2008-07-18/23, art. 20, 003; En vigueur : 01-01-2010&gt;
+
+###### Art. 33
+
+§ 1er. Dans le cadre de l'échange d'informations visé à l'article 32, le Gouvernement flamand peut obliger les Logos, les organisations partenaires, les organisations oeuvrant sur le terrain et les prestataires de soins individuels à utiliser un code d'identification qui représente de façon uniforme et unique le Logo, l'organisation partenaire, l'organisation oeuvrant sur le terrain et le prestataire de soins individuel.
+
+§ 2. Dans le cadre de l'échange d'informations visé à l'article 32, et après avis [<sup>1</sup> d'une chambre de la commission de contrôle telle que visée à l'article 10 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, qui veille spécifiquement à la protection de la vie privée à l'égard du traitement de données à caractère personnel relatives à la santé]<sup>1</sup>., un système similaire peut être imposé aux organisations partenaires, aux organisations oeuvrant sur le terrain et aux prestataires de soins individuels, pour l'identification des personnes visées aux articles 9 à 11 inclus.
+
+----------
+
+(1)&lt;DCFL 2008-07-18/23, art. 20, 003; En vigueur : 01-01-2010&gt;
+
+###### Art. 34
+
+L'échange d'informations visé aux articles 32 et 33 doit se faire en conformité avec [<sup>1</sup> la réglementation relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 95, 007; En vigueur : 25-05-2018&gt;
+
+###### Art. 34/1
+
+&lt;Abrogé par DCFL 2023-04-28/02, art. 2, 016; En vigueur : 26-04-2023&gt;
+
+###### Art. 34/2.
+
+[<sup>1</sup> § 1. Dans le présent article, on entend par :
+
+1° règlement général sur la protection des données : le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la Directive 95/46/CE (règlement général sur la protection des données) ;
+
+2° participant : une personne physique qui participe à une initiative telle que visée aux articles 57, 58, 59, 60 et 63 du présent décret.
+
+§ 2. Les organisations qui reçoivent une subvention du Gouvernement flamand pour réaliser les initiatives visées aux articles 57, 58, 59, 60 et 63, peuvent traiter des données à caractère personnel des participants à ces initiatives et des prestataires de soins individuels afin de réaliser ces initiatives.
+
+Pour réaliser les initiatives visées aux articles 57, 58, 59, 60 et 63 sur le terrain, les prestataires de soins individuels peuvent traiter des données à caractère personnel des participants à ces initiatives.
+
+§ 3. Dans le cadre des objectifs visés au paragraphe 2, les organisations qui reçoivent une subvention du Gouvernement flamand pour réaliser les initiatives visées aux articles 57, 58, 59, 60 et 63, et les prestataires de soins individuels traitent les données suivantes des participants à ces initiatives :
+
+1° les données à caractère personnel pour identifier le participant, y compris le numéro de registre national ;
+
+2° les données relatives à la santé du participant, nécessaires à la réalisation de l'initiative ;
+
+3° les données relatives à l'accompagnement préventif proposé au participant dans le cadre de l'initiative concernée ;
+
+4° la donnée indiquant si le participant a droit ou non au statut d'intervention majorée.
+
+Dans le cadre de l'objectif visé au paragraphe 2, alinéa premier, les organisations qui reçoivent une subvention du Gouvernement flamand pour réaliser les initiatives visées aux articles 57, 58, 59, 60 et 63, traitent les données suivantes des prestataires de soins individuels :
+
+1° les données à caractère personnel pour identifier le prestataire de soins individuel, y compris le numéro de registre national ;
+
+2° les données relatives à la compétence du prestataire de soins individuel ;
+
+3° l'adresse professionnelle du prestataire de soins individuel qui effectue l'initiative visée aux articles 57, 58, 59, 60 et 63 ;
+
+4° les données nécessaires au paiement de l'indemnité pour la réalisation d'une initiative telle que visée aux articles 57, 58, 59, 60 et 63, au prestataire de soins individuel.
+
+Le Gouvernement flamand peut, après avis de la Commission de contrôle flamande, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, préciser la liste des données visées aux alinéas premier et deux, y compris les données relatives à la santé visées à l'article 4, 15) du règlement précité.
+
+Le Gouvernement flamand détermine, après avis de la Commission de contrôle flamande, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives :
+
+1° les règles et la manière de traitement des données ;
+
+2° la durée maximale de conservation des données à caractère personnel traitées ;
+
+3° la forme et les modalités d'échange des données.
+
+§ 4. L'organisation qui reçoit une subvention du Gouvernement flamand pour réaliser une initiative telle que visée aux articles 57, 58, 59, 60 ou 63, est le responsable du traitement des données à caractère personnel, visées au paragraphe 3, alinéas premier et deux, qui sont traitées pour réaliser l'initiative concernée.
+
+Le Gouvernement flamand peut déterminer les mesures techniques et organisationnelles que le responsable du traitement doit prendre pour protéger les données à caractère personnel conformément à l'article 32 du règlement général sur la protection des données.
+
+§ 5. A condition que les personnes concernées ne soient pas ou plus identifiables, l'administration peut également traiter les données des participants, visées au paragraphe 3, alinéa premier, et les données des prestataires de soins individuels, visées au paragraphe 3, alinéa deux, à des fins scientifiques, politiques et statistiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-06-24/09, art. 2, 019; En vigueur : 01-01-2025&gt;
+
+###### Art. 34/2/1.
+
+[<sup>1</sup> § 1er. Aux fins du présent article, on entend par l'initiative " bouger sur ordonnance " : une offre en exécution de l'article 57 qui vise à motiver, accompagner et suivre des personnes sur ordonnance d'un prestataire de soins en vue d'augmenter leur activité physique et de limiter leur comportement sédentaire.
+
+Le Gouvernement flamand arrête les prestataires de soins visés à l'alinéa 1er qui peuvent délivrer une telle ordonnance.
+
+§ 2. L'organisation qui perçoit une subvention du Gouvernement flamand pour soutenir et évaluer le subventionnement des prestataires de soins individuels dans le cadre de l'initiative " bouger sur ordonnance " peut traiter les données à caractère personnel des participants à cette initiative et des prestataires de soins individuels afin de réaliser cette initiative.
+
+Afin de mettre en oeuvre l'initiative " bouger sur ordonnance " sur le terrain, les prestataires de soins individuels peuvent traiter les données à caractère personnel des participants à cette initiative.
+
+§ 3. Dans le cadre des finalités visées au paragraphe 2, l'organisation visée au paragraphe 2 et les prestataires de soins individuels traitent les données suivantes, y compris les données relatives à la santé visées à l'article 4, 15), du règlement général sur la protection des données, des participants à l'initiative " bouger sur ordonnance " :
+
+1° les données à caractère personnel permettant d'identifier le participant, y compris le numéro de registre national ;
+
+2° les coordonnées, l'adresse et le lieu de résidence effectif du participant ;
+
+3° le sexe du participant ;
+
+4° l'année de naissance du participant ;
+
+5° la mention indiquant si le participant a droit au statut de bénéficiaire d'une intervention majorée ;
+
+6° un aperçu des prestations dont le participant a bénéficié dans le cadre de l'accompagnement " bouger sur ordonnance ".
+
+Dans le cadre de la finalité visée au paragraphe 2, alinéa 1er, l'organisation traite les données suivantes des prestataires de soins individuels :
+
+1° les données à caractère personnel permettant d'identifier le prestataire de soins individuel, y compris le numéro de registre national ;
+
+2° les coordonnées du prestataire de soins individuel ;
+
+3° les données relatives à la relation de travail dans le cadre de laquelle le prestataire de soins individuel travaille ;
+
+4° les données relatives à l'offre du prestataire de soins individuel dans le cadre de l'accompagnement " bouger sur ordonnance " et la mention indiquant si le prestataire de soins individuel est actif en tant que presta-taire de " bouger sur ordonnance " ;
+
+5° les données relatives à la compétence du prestataire de soins individuel ;
+
+6° l'adresse professionnelle à laquelle le prestataire de soins individuel propose et dispense l'accompagnement aux participants à l'initiative " bouger sur ordonnance " ;
+
+7° les données nécessaires au paiement de la rémunération pour la mise en oeuvre d'une initiative " bouger sur ordonnance " au prestataire de soins individuel ;
+
+8° les données à caractère personnel nécessaires pour identifier le manda-taire, y compris le numéro de registre national, afin que le mandataire puisse, au nom d'un prestataire de soins individuel, saisir les prestations fournies par ce prestataire dans le logiciel de paiement.
+
+Dans le cadre des finalités visées au paragraphe 2, l'organisation et les prestataires de soins individuels traitent les données à caractère personnel suivantes des personnes qui renvoient le participant vers une initiative " bouger sur ordonnance " :
+
+1° les nom et prénom de la personne ayant renvoyé le participant ;
+
+2° la profession de la personne ayant renvoyé le participant ;
+
+3° le cas échéant, le numéro INAMI de la personne ayant renvoyé le participant.
+
+Le Gouvernement flamand peut préciser la liste des données visées aux alinéas 1er et 2, y compris les données relatives à la santé visées à l'article 4, 15), du règlement général sur la protection des données.
+
+Le Gouvernement flamand peut arrêter les règles et les modalités du traitement des données visées aux alinéas 1er à 3.
+
+§ 4. Les données du participant visées au paragraphe 3, alinéa 1er, sont conservées pendant dix ans au maximum après la dernière participation du participant à l'initiative " bouger sur ordonnance ".
+
+Les données du prestataire de soins individuel visées au paragraphe 3, alinéa 2, sont conservées pendant dix ans au maximum après la dernière mise en oeuvre sur le terrain de l'initiative " bouger sur ordonnance " par le prestataire de soins individuel.
+
+Les données de la personne ayant renvoyé le participant, visées au paragraphe 3, alinéa 3, sont conservées pendant dix ans au maximum après la dernière participation du participant à l'initiative " bouger sur ordonnance " à laquelle elle l'a renvoyé.
+
+§ 5. L'organisation visée au paragraphe 2, alinéa 1er, est le responsable du traitement visé à l'article 4, 7), du règlement général sur la protection des données, pour les données à caractère personnel visées au paragraphe 3, alinéas 1er à 3, qui sont traitées afin de réaliser l'initiative " bouger sur ordonnance ".
+
+Le Gouvernement flamand peut déterminer les mesures techniques et organisationnelles que le responsable du traitement visé à l'alinéa 1er doit prendre pour protéger les données à caractère personnel conformément à l'article 32 du règlement général sur la protection des données.
+
+L'organisation visée au paragraphe 2, alinéa 1er, traite les données visées au paragraphe 3, dans les conditions et avec les garanties visées à l'article 9, paragraphe 3, du règlement général sur la protection des données.
+
+§ 6. Après anonymisation, l'administration peut également traiter les données visées au paragraphe 3, alinéas 1er à 3, pour des finalités scientifiques, statistiques et de politique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/50, art. 3, 021; En vigueur : 01-01-2026&gt;
+
+###### Art. 34/2/2.
+
+[<sup>1</sup> er. Aux fins du présent article, on entend par l'initiative " accompagnement au sevrage tabagique " : une offre en exécution de l'article 63 visant à accompagner les personnes qui souhaitent arrêter de fumer et de vapoter.
+
+§ 2. L'organisation partenaire qui perçoit une subvention du Gouvernement flamand pour soutenir et évaluer le subventionnement des prestataires de soins individuels dans le cadre de l'initiative " accompagnement au sevrage tabagique " peut traiter les données à caractère personnel des participants à cette initiative et des prestataires de soins individuels afin de réaliser cette initiative.
+
+Afin de mettre en oeuvre l'initiative " accompagnement au sevrage tabagique " sur le terrain, les prestataires de soins individuels peuvent traiter les données à caractère personnel des participants à cette initiative.
+
+§ 3. Dans le cadre des finalités visées au paragraphe 2, l'organisation partenaire visée au paragraphe 2, alinéa 1er, et les prestataires de soins individuels traitent les données suivantes, y compris les données relatives à la santé visées à l'article 4, 15), du règlement général sur la protection des données, des participants à l'initiative " accompagnement au sevrage tabagique " :
+
+1° les données à caractère personnel permettant d'identifier le participant, y compris le numéro de registre national ;
+
+2° les coordonnées, l'adresse et le lieu de résidence effectif du participant ;
+
+3° le sexe du participant ;
+
+4° l'année de naissance du participant ;
+
+5° la mention indiquant si la participante est enceinte ;
+
+6° la mention indiquant si le participant a droit au statut de bénéficiaire d'une intervention majorée ;
+
+7° un aperçu des prestations reçues par le participant dans le cadre de l'accompagnement au sevrage tabagique.
+
+Dans le cadre de la finalité visée au paragraphe 2, alinéa 1er, l'organisation partenaire visée au paragraphe 2, alinéa 1er, traite les données suivantes des prestataires de soins individuels :
+
+1° les données à caractère personnel permettant d'identifier le prestataire de soins individuel, y compris le numéro de registre national ;
+
+2° les coordonnées du prestataire de soins individuel ;
+
+3° les données relatives à la relation de travail dans le cadre de laquelle le prestataire de soins individuel travaille ;
+
+4° les données relatives à l'offre du prestataire de soins individuel dans le cadre de l'accompagnement au sevrage tabagique et la mention indiquant si le prestataire de soins individuel est actif en tant que prestataire d'accompagnement au sevrage tabagique ou non ;
+
+5° les données relatives à la compétence du prestataire de soins individuel ;
+
+6° l'adresse professionnelle à laquelle le prestataire de soins individuel propose l'accompagnement au sevrage tabagique aux participants à cette initiative ;
+
+7° les données nécessaires au paiement de la rémunération au prestataire de soins individuel pour la mise en oeuvre d'une initiative " accompagnement au sevrage tabagique " ;
+
+8° les données à caractère personnel nécessaires pour identifier le mandataire, y compris le numéro de registre national, afin que le mandataire puisse, au nom d'un prestataire de soins individuel, saisir les prestations fournies par ce prestataire dans le logiciel de paiement.
+
+Le Gouvernement flamand peut préciser la liste des données visées aux alinéas 1er et 2, y compris les données relatives à la santé visées à l'article 4, 15), du règlement général sur la protection des données.
+
+Le Gouvernement flamand peut arrêter les règles et les modalités du traitement des données visées aux alinéas 1er et 2.
+
+§ 4. Les données du participant visées au paragraphe 3, alinéa 1er, sont conservées pendant dix ans au maximum après la dernière participation du participant à l'initiative " accompagnement au sevrage tabagique ".
+
+Les données du prestataire de soins individuel visées au paragraphe 3, alinéa 2, sont conservées pendant dix ans au maximum après la dernière mise en oeuvre sur le terrain de l'initiative " accompagnement au sevrage tabagique " par le prestataire de soins individuel.
+
+§ 5. L'organisation partenaire visée au paragraphe 2, alinéa 1er, est le responsable du traitement visé à l'article 4, 7), du règlement général sur la protection des données, pour les données à caractère personnel visées au paragraphe 3, alinéas 1er et 2, qui sont traitées afin de réaliser l'initiative " accompagnement au sevrage tabagique ".
+
+Le Gouvernement flamand peut déterminer les mesures techniques et organisationnelles que le responsable du traitement visé à l'alinéa 1er doit prendre pour protéger les données à caractère personnel conformément à l'article 32 du règlement général sur la protection des données.
+
+L'organisation partenaire visée au paragraphe 2, alinéa 1er, traite les données visées au paragraphe 3, dans les conditions et avec les garanties visées à l'article 9, paragraphe 3, du règlement général sur la protection des données.
+
+§ 6. Après anonymisation, l'administration peut également traiter les données visées au paragraphe 3, alinéas 1er et 2, pour des finalités scientifiques, statistiques et de politique. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/50, art. 4, 021; En vigueur : 01-01-2026&gt;
+
+###### Art. 34/3
+
+[<sup>1</sup> § 1er. Dans le présent article, on entend par :
+
+1° demandeur : la personne qui, en vertu d'un intérêt personnel, demande un avis ou fait des notifications dans le cadre d'initiatives ou de mesures telles que visées aux articles 39, 44, 51, 53, 53/1 ou 55. Le demandeur peut être une autre personne que l'intéressé, visé au point 2° ;
+
+2° intéressé : la personne physique qui :
+
+a) à la suite de problèmes de santé, de mesures environnementales ou d'une exposition possible à des facteurs chimiques, physiques ou biotiques nocifs, fait l'objet d'une demande d'avis sur des limitations d'exposition ou des mesures à la source, dans le cadre d'initiatives ou de mesures telles que visées aux articles 39, 44, 51, 53, 53/1 ou 55 ;
+
+b) ou réside à un endroit ou à proximité d'un endroit où des données environnementales ont été mesurées, à propos desquelles un avis est demandé dans le cadre d'initiatives ou de mesures telles que visées aux articles 39, 44, 51, 53, 53/1 ou 55 ;
+
+3° données de mesures environnementales : des concentrations ou des conditions aléatoires qui sont mesurées dans les environs, dans le milieu intérieur et dans les compartiments environnementaux air, sol et eau qui sont importants pour déterminer l'impact de l'exposition humaine et de la charge.
+
+§ 2. L'administration, l'organisation qui exécute dans le cadre d'un marché public une initiative telle que visée aux articles 39, 44, 51, 53, 53/1 ou 55, les experts écologiques médicaux qui sont employés chez les Logos et les organisations partenaires qui travaillent autour du thème de la santé environnementale peuvent traiter des données à caractère personnel aux fins suivantes :
+
+1° l'examen et le traitement de notifications de problèmes de santé ou de questions sur la santé ou sur l'interprétation de données de mesures environnementales ;
+
+2° la fourniture d'un avis sur des limitations d'exposition ;
+
+3° la recommandation de mesures à la source.
+
+Lorsqu'une organisation partenaire qui travaille autour du thème de la santé environnementale se compose d'un partenariat, les organisations qui font partie de ce partenariat peuvent aussi traiter elles-mêmes les données, visées au paragraphe 3.
+
+§ 3. Dans le cadre des objectifs, visés au paragraphe 2, les données à caractère personnel suivantes de l'intéressé peuvent être traitées :
+
+1° les données à caractère personnel permettant d'identifier l'intéressé, dont le numéro de registre national ou le numéro d'identification de la sécurité sociale, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° l'adresse de l'intéressé ;
+
+3° les coordonnées suivantes de l'intéressé :
+
+a) les numéros de GSM et de téléphone ;
+
+b) l'adresse e-mail ;
+
+4° dans le cas d'une notification ou d'une question sur un problème de santé, des informations sur le problème de santé en question ;
+
+5° les informations sur le mode de vie de l'intéressé qui sont nécessaires pour pouvoir donner un avis en matière de limitations d'exposition ;
+
+6° les données socio-économiques de l'intéressé qui sont nécessaires pour pouvoir fournir un avis différencié en matière de limitations d'exposition ;
+
+7° les données relatives aux conditions de logement ;
+
+8° dans le cas d'une notification ou d'une question sur un problème de santé, les données sur l'accompagnement préventif proposé à l'intéressé dans le cadre de l'initiative ou de la mesure en question ;
+
+9° des données de mesures environnementales pertinentes, à condition que l'intéressé ait un intérêt personnel à cet égard ;
+
+10° les données pertinentes d'échantillons qui sont prélevés du corps de l'intéressé dans le cadre de l'initiative, visée aux articles 39, 44, 51, 53, 53/1 ou 55 ;
+
+11° les données d'échantillons qui sont prélevés dans l'environnement dans le cadre de l'initiative, visée aux articles 39, 44, 51, 53, 53/1 ou 55.
+
+L'administration, l'organisation qui exécute dans le cadre d'un marché public une initiative telle que visée aux articles 39, 44, 51, 53, 53/1 ou 55, les experts écologiques médicaux qui sont employés chez les Logos et les organisations partenaires qui travaillent autour du thème de la santé environnementale, visés au paragraphe 2, alinéa 1er, peuvent échanger entre eux les données à caractère personnel, visées à l'alinéa 1er.
+
+Les données, visées à l'alinéa 1er, sont conservées pendant une période de dix ans maximum après le règlement de la question ou de la notification, visée au paragraphe 2.
+
+Le Gouvernement flamand peut, après avis de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, préciser la liste des données visées à l'alinéa 1er, y compris les données relatives à la santé visées à l'article 4, 15) du règlement général sur la protection des données.
+
+Sur avis de la Commission de contrôle flamande du traitement des données à caractère personnel visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, le Gouvernement flamand peut fixer les modalités suivantes :
+
+1° les règles et la manière de traitement des données ;
+
+2° la forme et les modalités d'échange des données.
+
+§ 4. Les données, visées au paragraphe 3, alinéa 1er, peuvent, aux conditions visées aux alinéas 2 à 6, être échangées entre les acteurs, visés au paragraphe 3, alinéa 2, ou avec les acteurs suivants :
+
+1° l'intéressé ;
+
+2° le médecin ou le spécialiste qui traite l'intéressé ;
+
+3° le demandeur, dans la mesure où il ne s'agit pas de l'intéressé ;
+
+4° des laboratoires qui examinent des données environnementales ;
+
+5° une organisation avec laquelle le Gouvernement flamand a conclu une convention pour la prise ou l'examen d'échantillons ou l'interprétation de résultats ;
+
+6° des instances publiques qui sont créées au sein du domaine politique de l'Environnement et de l'Aménagement du Territoire.
+
+L'intéressé, visé à l'alinéa 1er, 1°, et le médecin ou spécialiste, visé à l'alinéa 1er, 2°, peut recevoir toutes les données, visées au paragraphe 3, alinéa 1er, ainsi que des résultats d'examens et des avis, visés au paragraphe 2.
+
+Le demandeur peut uniquement recevoir les données de la liste, visée au paragraphe 3, alinéa 1er, pour lesquelles il a un intérêt personnel, ainsi que les avis, visés au paragraphe 2.
+
+Les laboratoires, visés à l'alinéa 1er, 4°, peuvent uniquement recevoir les données, visées au paragraphe 3, 2°, 9° et 11°.
+
+L'organisation, visée à l'alinéa 1er, 5°, peut recevoir toutes les données, visées au paragraphe 3, alinéa 1er.
+
+Seules les données à caractère personnel, visées au paragraphe 3, alinéa 1er, 1°, 2°, 3°, 7°, 9° et 11°, peuvent être échangées avec les instances publiques, visées à l'alinéa 1er, 6°.
+
+§ 5. Lorsque, dans le cadre d'initiatives ou de mesures telles que visées aux articles 39, 44, 51, 53, 53/1 ou 55, un avis est demandé par une autre personne physique que l'intéressé, les données à caractère personnel suivantes du demandeur d'avis sont traitées :
+
+1° les données à caractère personnel permettant d'identifier le demandeur d'avis ;
+
+2° les coordonnées suivantes du demandeur d'avis :
+
+a) les numéros de GSM et de téléphone ;
+
+b) l'adresse e-mail.
+
+Les données à caractère personnel, visées à l'alinéa 1er, sont traitées aux fins visées au paragraphe 2.
+
+L'administration, l'organisation qui exécute dans le cadre d'un marché public une initiative telle que visée aux articles 39, 44, 51, 53, 53/1 ou 55, les experts écologiques médicaux qui sont employés chez les Logos et les organisations partenaires qui travaillent autour du thème de la santé environnementale, visés au paragraphe 2, alinéa 1er, peuvent échanger entre eux les données à caractère personnel, visées à l'alinéa 1er.
+
+Les données, visées à l'alinéa 1er, ont la même durée de conservation que celle visée au paragraphe 3, alinéa 3.
+
+Sur avis de la Commission de contrôle flamande du traitement des données à caractère personnel visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, le Gouvernement flamand peut préciser la liste de données, visée à l'alinéa 1er.
+
+Sur avis de la Commission de contrôle flamande du traitement des données à caractère personnel visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, le Gouvernement flamand peut fixer les modalités suivantes :
+
+1° les règles et la manière de traitement des données ;
+
+2° la forme et les modalités d'échange des données.
+
+Les données, visées à l'alinéa 1er, peuvent être échangées entre les ac-teurs, visés au paragraphe 3, alinéa 2, ou avec les acteurs suivants :
+
+1° l'intéressé ;
+
+2° le médecin ou le spécialiste qui traite l'intéressé ;
+
+3° le demandeur d'avis, dans la mesure où la demande d'avis n'émane pas de l'intéressé ;
+
+4° une organisation avec laquelle le Gouvernement flamand a conclu une convention pour la prise ou l'examen d'échantillons ou l'interprétation de résultats ;
+
+5° des instances publiques qui sont créées au sein du domaine politique de l'Environnement et de l'Aménagement du Territoire.
+
+§ 6. L'administration, les experts écologiques médicaux qui sont employés chez les Logos et les organisations partenaires qui travaillent autour du thème de la santé environnementale sont ensemble le responsable du traitement des données à caractère personnel, visées au paragraphe 3, alinéa 1er.
+
+Le Gouvernement flamand peut déterminer les mesures techniques et organisationnelles que le responsable du traitement doit prendre pour protéger les données à caractère personnel conformément à l'article 32 du règlement général sur la protection des données. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/49, art. 6, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 34/4
+
+[<sup>1</sup> § 1er. Dans le présent article, on entend par :
+
+1° intéressé : la personne physique qui participe au programme de biosurveillance humaine, visé à l'article 54, § 2 ;
+
+2° travailleur de prévention en santé environnementale : une personne qui est engagée ou détachée pour soutenir les experts écologiques médicaux chez les Logos, aux fins d'exécution de la politique de santé préventive en matière de santé environnementale par les Logos.
+
+§ 2. L'administration, ou l'organisation qui reçoit une subvention du Gouvernement flamand pour réaliser le programme de biosurveillance humaine, visé à l'article 54, § 2, peut traiter des données à caractère personnel d'intéressés aux fins d'exécution du programme de biosurveillance humaine, visé à l'article 54, § 2.
+
+§ 3. Dans le cadre des fins, visées au paragraphe 4, les données à caractère personnel suivantes de l'intéressé peuvent être traitées :
+
+1° les données à caractère personnel permettant d'identifier l'intéressé, dont le numéro de registre national ou le numéro d'identification de la sécurité sociale, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° les coordonnées suivantes de l'intéressé :
+
+a) les numéros de GSM et de téléphone ;
+
+b) l'adresse e-mail ;
+
+c) l'adresse ;
+
+3° les données suivantes concernant la santé de l'intéressé :
+
+a) les données sur les effets sur la santé relatifs à la santé environnementale de l'intéressé qui sont nécessaires pour réaliser l'initiative ou la mesure, dont les données du questionnaire, de l'examen physique ou de l'imagerie médicale ;
+
+b) les données pertinentes d'échantillons prélevés du corps de l'intéressé dans le cadre de la biosurveillance humaine ;
+
+4° les données sur le mode de vie de l'intéressé qui sont nécessaires pour réaliser l'initiative ou la mesure ;
+
+5° les données socio-économiques de l'intéressé qui sont nécessaires pour réaliser l'initiative ou la mesure ;
+
+6° les données relatives à l'accompagnement préventif proposé à l'intéressé dans le cadre de l'initiative ou de la mesure concernée ;
+
+7° les données relatives à l'exposition personnelle de l'intéressé à des facteurs environnementaux comme le sol, l'air, l'eau, l'alimentation locale et le milieu intérieur.
+
+Le Gouvernement flamand peut, après avis de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, préciser la liste des données visées à l'alinéa 1er, y compris les données relatives à la santé visées à l'article 4, 15) du règlement général sur la protection des données.
+
+Les données, visées à l'alinéa 1er, sont conservées pendant une période de trente ans maximum après l'achèvement du premier examen auquel l'intéressé a participé dans le cadre de la biosurveillance humaine. Sur avis de la Commission de contrôle flamande du traitement des données à caractère personnel visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, le Gouvernement flamand peut déterminer une période plus courte pendant laquelle les données à caractère personnel traitées sont conservées.
+
+Sur avis de la Commission de contrôle flamande du traitement des données à caractère personnel visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, le Gouvernement flamand peut fixer les modalités suivantes :
+
+1° les règles et la manière de traitement des données ;
+
+2° la forme et les modalités d'échange des données.
+
+§ 4. Les données, visées au paragraphe 3, alinéa 1er, sont traitées aux fins suivantes :
+
+1° l'exécution du programme de biosurveillance humaine, visé à l'article 54, § 2 ;
+
+2° la nouvelle prise de contact avec l'intéressé dans le cadre du suivi de la santé ou dans le cadre d'un nouvel examen y afférent ;
+
+3° des fins scientifiques ou politiques, après anonymisation ou au moins après pseudonymisation, si l'anonymisation ne permet pas d'atteindre l'objectif.
+
+Aux fins visées à l'alinéa 1er, 3°, les données, visées au paragraphe 3, alinéa 1er, peuvent :
+
+1° être associées avec des données qui sont extraites de banques de données contenant des données environnementales, qui sont créées par des instances publiques au sein du domaine politique de l'Environnement et de l'Aménagement du Territoire ;
+
+2° être associées avec des données qui sont extraites des banques de données suivantes :
+
+a) des banques de données contenant des données relatives à la santé de l'Agence Intermutualiste ;
+
+b) des banques de données contenant des données relatives à la santé de réseaux regroupant les médecins généralistes flamands ;
+
+c) des banques de données contenant des données relatives aux naissances et à la mortalité ;
+
+d) des banques de données dans lesquelles sont enregistrées des données en lien avec le cancer ;
+
+e) des banques de données contenant des données relatives aux admissions dans des hôpitaux ;
+
+f) des banques de données des centres d'encadrement des élèves, visés à l'article 2, 3°, du décret du 27 avril 2018 relatif à l'encadrement des élèves dans l'enseignement fondamental, l'enseignement secondaire et dans les centres d'encadrement des élèves ;
+
+3° être à nouveau analysées sur la base de nouvelles techniques statistiques et connaissances scientifiques.
+
+Les données, visées au paragraphe 3, alinéa 1er, et les résultats individuels interprétables de la biosurveillance humaine sont communiqués à l'intéressé.
+
+Les données, visées au paragraphe 3, alinéa 1er, 1°, 3°, 4° et 5°, et les résultats individuels interprétables de la biosurveillance humaine sont communiqués au médecin traitant de l'intéressé.
+
+Le cas échéant, les données, visées au paragraphe 3, alinéa 1er, et les résultats individuels interprétables de la biosurveillance humaine peuvent être communiqués à un travailleur de prévention en santé environnementale.
+
+Les données, visées au paragraphe 3, alinéa 1er, 1°, 3° en 4°, sont rendues accessibles dans le dossier médical électronique de l'intéressé, sauf dans les cas où l'intéressé s'oppose à leur divulgation.
+
+§ 5. L'organisation qui reçoit une subvention du Gouvernement flamand pour réaliser le programme de biosurveillance humaine, visé à l'article 54, § 2, est le responsable du traitement des données à caractère personnel, visées au paragraphe 3, alinéa 1er, qui sont traitées dans le cadre du programme de biosurveillance humaine.
+
+Le Gouvernement flamand peut déterminer les mesures techniques et organisationnelles que le responsable du traitement doit prendre pour protéger les données à caractère personnel conformément à l'article 32 du règlement général sur la protection des données.
+
+§ 6. Lorsque l'administration réalise elle-même le programme de biosurveillance humaine ou si celui-ci a lieu dans le cadre d'un marché public, l'administration elle-même est le responsable du traitement.
+
+Le Gouvernement flamand peut déterminer les mesures techniques et organisationnelles que le responsable du traitement doit prendre pour protéger les données à caractère personnel conformément à l'article 32 du règlement général sur la protection des données. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/49, art. 7, 018; En vigueur : 17-06-2024&gt;
+
+### CHAPITRE XI. - Convention collective de santé.
+
+###### Art. 35
+
+Le Gouvernement flamand peut conclure une convention collective de santé avec des organisations partenaires, des organisations oeuvrant sur le terrain ou avec d'autres organisations ou instances pouvant contribuer à la politique de santé préventive.
+
+## TITRE IV. - Obligation de rendre compte et controle.
+
+###### Art. 36
+
+Tous les Logos, organisations partenaires, organisations oeuvrant sur le terrain et prestataires de soins individuels qui sont agréés et/ou subventionnés par le Gouvernement flamand pour des missions en matière de soins de santé préventifs, doivent rendre des comptes et sont soumis à un contrôle.
+
+Le Gouvernement flamand peut déterminer les modalités à cet effet.
+
+###### Art. 37
+
+Les subventions octroyées par le Gouvernement flamand aux Logos, organisations partenaires, organisations oeuvrant sur le terrain ou prestataires de soins individuels, pour des missions dans le cadre du présent décret, ne peuvent être utilisées que pour l'exécution de ces missions.
+
+###### Art. 38
+
+§ 1er. Afin d'éviter un double financement d'une même activité, et sous réserve de l'application de l'article 36, tous les Logos, organisations partenaires, organisations oeuvrant sur le terrain, qui sont subventionnés par le Gouvernement flamand pour des missions en matière de soins de santé préventifs, sont tenus, sur simple demande du Gouvernement flamand, de faire connaître tous les moyens financiers autres que ceux obtenus dans le cadre du présent décret. Toutes les pièces justificatives sont consultables sur simple demande.
+
+§ 2. Sauf si un double financement d'une même activité est démontré, les moyens financiers acquis en dehors du cadre du présent décret ne sont pas déduits des subventions obtenues en vertu du présent décret.
+
+§ 3. La constitution de réserves peut être autorisée. Le Gouvernement flamand détermine les modalités à cet effet.
+
+## TITRE V. - Initiatives relatives aux facteurs exogènes.
+
+### CHAPITRE Ier. - Initiatives relatives aux facteurs ambiants physiques, spatiaux et matériels.
+
+#### Section Ire. - Initiatives relatives aux facteurs biotiques.
+
+##### Sous-section Ire. - Initiatives visant à prévenir les effets nocifs causés par des facteurs biotiques.
+
+###### Art. 39
+
+§ 1er. Le Gouvernement flamand vise à prévenir les effets nocifs pour l'homme, causes par des facteurs biotiques.
+
+§ 2. En ce qui concerne les facteurs biotiques qui constituent un danger potentiel pour la santé des personnes, il peut prendre des initiatives visant à prévenir des infections, allergies ou intoxications. Ces mesures doivent être motivées.
+
+###### Art. 40
+
+Sans préjudice des attributions des officiers de police judiciaire et du bourgmestre, les fonctionnaires désignés par le Gouvernement flamand contrôlent, chacun dans le cadre de sa mission, l'observation de l'article 39.
+
+###### Art. 41
+
+§ 1er. Dans les limites des compétences qui leur sont attribuées conformément à l'article 40, les fonctionnaires visés à l'article 40 peuvent donner des conseils, sommations et ordres oraux ou écrits.
+
+§ 2. Les fonctionnaires visés à l'article 40 constatent les infractions par des procès-verbaux faisant foi jusqu'à preuve du contraire. Une copie du procès-verbal est adressée par lettre recommandée, au contrevenant dans les cinq jours ouvrables de la constatation de l'infraction. Le cachet de la poste fait foi. Une copie du procès-verbal est également notifiée par écrit à l'administration.
+
+§ 3. Dans les limites de leur mission, et dans la mesure où il est jugé nécessaire, les fonctionnaires visés a l'article 40 ont libre accès à tous les endroits pouvant provoquer le risque aux effets visés à l'article 39, § 2, à tout moment le jour ou la nuit, sans avis préalable.
+
+§ 4. Dans les limites de leur mission, et dans la mesure où il est jugé nécessaire, les fonctionnaires visés à l'article 40 sont autorisés à :
+
+a) mener toute investigation, tout contrôle ou toute enquête et recueillir toutes les informations qu'ils jugent utiles;
+
+b) requérir l'assistance de la police locale ou fédérale dans l'exercice de leur fonction.
+
+§ 5. Les bourgmestres, à l'exception des bourgmestres des communes de la région bilingue de Bruxelles-Capitale, et les fonctionnaires désignés en vertu de l'article 40, peuvent ordonner l'arrêt total ou partiel ou la fermeture totale ou partielle du lieu, de l'espace, de l'établissement ou de l'installation qui peut être la cause de la contamination, lorsqu'ils constatent que les mesures imposées ne sont pas respectées, lorsque les ordres ou sommations visés au § 1er ne sont pas suivis ou lorsqu'un danger imminent ou grave menace la santé publique.
+
+[<sup>1</sup> § 5/1. Lorsqu'un danger imminent ou grave menace la santé publique, les fonctionnaires désignés en vertu de l'article 40 peuvent également ordonner des mesures visant à :
+
+a) désinfecter le lieu, l'espace, l'établissement ou l'installation qui peut être la cause de la contamination ;
+
+b) apporter des modifications dans le processus qui peut être la cause de la contamination ;
+
+c) exécuter des travaux dans le lieu, l'espace, l'établissement ou l'installation qui peut être la cause de la contamination].-1
+
+§ 6. S'il n'est pas obtempéré immédiatement aux mesures visées à l'article 39, § 2, et [<sup>1</sup> aux sommations et ordres visés au § 5 et au § 5/1, ]<sup>1</sup>, les fonctionnaires désignés conformément à l'article 40 ou les bourgmestres, visés au § 5, peuvent exécuter ou faire exécuter d'office les mesures nécessaires.
+
+§ 7. Les mesures, ordres, arrêts ou fermetures visés aux § 1er § 5 [<sup>1</sup> § 5/1]<sup>1</sup> et § 6, doivent être motivés.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/49, art. 8, 018; En vigueur : 17-06-2024&gt; 8
+
+###### Art. 42
+
+Les autorités communales et provinciales, à l'exception des communes de la région bilingue de Bruxelles-Capitale, doivent apporter leur collaboration à l'exécution des articles 39 et 40.
+
+###### Art. 43
+
+§ 1er. En vue de prévenir certaines infections, le Gouvernement flamand établit un [<sup>2</sup> schéma d'immunisation]<sup>2</sup> qui reprend les [<sup>2</sup> immunisations]<sup>2</sup> recommandées pour la population, et il informe les [<sup>2</sup> personnes qui administrent les médicaments]<sup>2</sup> et la population à ce sujet.
+
+§ 2. Le Gouvernement flamand prend des initiatives visant à atteindre un [<sup>2</sup> taux d'immunisation]<sup>2</sup> aussi élevé que possible de la population.
+
+§ 3.[<sup>1</sup> ...]<sup>1</sup>
+
+§ 4. Le Gouvernement flamand peut fixer les circonstances dans lesquelles des [<sup>2</sup> médicaments préventifs]<sup>2</sup> ou des moments [<sup>2</sup> d'immunisation]<sup>2</sup> sont recommandés autres que ceux repris dans le schéma de vaccination visé au § 1er.
+
+[<sup>2</sup> § 5. Le Gouvernement flamand établit la liste des médicaments préven-tifs auxquels s'appliquent les dispositions du présent décret.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/49, art. 9, 018; En vigueur : 17-06-2024&gt;
+
+(2)&lt;DCFL 2025-07-18/50, art. 5, 021; En vigueur : 15-01-2026&gt;
+
+###### Art. 43/1
+
+[<sup>1</sup> § 1er. Aux fins du présent article, on entend par système de commande de la Communauté flamande : le système par lequel la Communauté flamande, dans le cadre de sa politique d'immunisation programmée, met des médicaments préventifs gratuits à la disposition des personnes qui administrent les médicaments ou des entités par l'intermédiaire desquels les médicaments préventifs gratuits sont administrés et qui veillent à ce que les médicaments préventifs gratuits soient utilisés pour les groupes cibles auxquels ils sont destinés.
+
+§ 2. Les personnes qui administrent un médicament préventif dans la région de langue néerlandaise ou dans un établissement de la région bilingue de Bruxelles-Capitale qui doit être considéré, en raison de son organisation, comme relevant exclusivement de la compétence de la Communauté flamande, enregistrent dans le système d'enregistrement mis à disposition par la Communauté flamande les immunisations qui font partie du schéma d'immunisation visé à l'article 43, § 1er.
+
+Sans préjudice de l'application de l'alinéa 1er, les personnes qui administrent un médicament préventif dans la région bilingue de Bruxelles-Capitale enregistrent dans le système d'enregistrement visé à l'alinéa 1er les immunisations par des médicaments préventifs qu'ils ont commandés via le système de commande de la Communauté flamande et qui sont offerts gratuitement aux citoyens.
+
+Le Gouvernement flamand peut disposer que les immunisations qui ne font pas partie du schéma d'immunisation visé à l'article 43, § 1er, et qui sont administrées dans la région de langue néerlandaise ou dans un établissement de la région bilingue de Bruxelles-Capitale qui doit être considéré, en raison de son organisation, comme relevant exclusivement de la compétence de la Communauté flamande et qui s'inscrivent dans le cadre des soins de santé préventifs, sont enregistrées dans le système d'enregistrement visé à l'alinéa 1er par les personnes qui administrent les médicaments, sauf si la personne à qui le médicament préventif a été administré s'oppose à l'enregistrement de cette immunisation. Dans ce cas, le Gouvernement flamand détermine de quelles immunisations il s'agit.
+
+Par dérogation aux alinéas 1er, 2 et 3, peuvent également être enregistrées dans le système d'enregistrement visé à l'alinéa 1er les immunisations qui ont été administrées à l'étranger, dans la région de langue néerlandaise ou dans un établissement de la région bilingue de Bruxelles-Capitale qui doit être considéré, en raison de son organisation, comme relevant exclusivement de la compétence de la Communauté flamande, mais qui n'ont pas pu être enregistrées conformément à l'alinéa 1er ou 3, lorsque les conditions suivantes sont réunies :
+
+1° l'immunisation s'inscrit dans le cadre des soins de santé préventifs ;
+
+2° l'enregistrement est effectué à la demande de la personne à qui le médicament préventif a été administré ;
+
+3° la personne à qui le médicament préventif a été administré présente une preuve de l'administration du médicament préventif.
+
+La personne qui administre le médicament peut désigner un mandataire qui effectue l'enregistrement sous sa responsabilité. Dans ce cas, le mandataire est soumis à une obligation de discrétion.
+
+§ 3. Les données suivantes sont consignées dans le système d'enregistrement visé au paragraphe 2, alinéa 1er :
+
+1° les données d'identité et de contact suivantes de la personne à qui le médicament préventif est administré :
+
+a) le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+b) nom et prénom ;
+
+c) date de naissance ;
+
+d) résidence principale ;
+
+e) sexe ;
+
+f) le cas échéant, la date du décès ;
+
+2° les données d'identité et, le cas échéant, les coordonnées de la personne responsable de l'enregistrement de l'immunisation conformément au paragraphe 2 :
+
+a) le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+b) le cas échéant, le numéro INAMI ;
+
+c) adresse ;
+
+d) nom et prénom ;
+
+e) le cas échéant, l'entité par l'intermédiaire de laquelle le médicament préventif a été administré ;
+
+3° les données suivantes du médicament préventif administré :
+
+a) la spécialité ;
+
+b) la marque, si elle est connue ;
+
+c) la dose administrée lors de l'immunisation ;
+
+d) le numéro de lot, si il est connu ;
+
+4° la date d'administration du médicament préventif ;
+
+5° la date d'enregistrement de l'immunisation ;
+
+6° le pays où le médicament préventif a été administré ;
+
+7° en cas d'enregistrement d'une immunisation avec un médicament préventif commandé via le système de commande de la Communauté flamande et offert gratuitement, le lieu de stockage ;
+
+8° le numéro d'identification logique.
+
+Les données visées à l'alinéa 1er, 1°, a), 2°, a), b) et e), 3°, 4°, 6° et 7°, sont enregistrées par la personne qui administre le médicament, visée au paragraphe 2.
+
+Par dérogation à l'alinéa 2, la personne qui administre le médicament enregistre les données visées à l'alinéa 1er, 1°, b), c) et d), lorsque celles visées à l'alinéa 1er, 1°, a), ne lui sont pas connues.
+
+Les données suivantes peuvent être enregistrées dans le système d'enregistrement visé au paragraphe 2, alinéa 1er :
+
+1° la voie d'administration du médicament préventif ;
+
+2° la partie du corps où le médicament préventif a été administré ;
+
+3° la mention indiquant si le médicament préventif a été administré après exposition au facteur biotique pathogène ;
+
+4° toute autre information pertinente pour l'immunisation de la personne à qui le médicament préventif a été administré ;
+
+5° les données suivantes de la personne responsable de l'enregistrement de l'immunisation conformément au paragraphe 2 :
+
+a) numéro de téléphone ;
+
+b) adresse e-mail.
+
+Lorsqu'un médicament préventif est administré à une personne enceinte afin de protéger l'enfant à naître, les données visées aux alinéas 1er et 4 concernant cette immunisation qui ont été enregistrées, peuvent également être enregistrées ultérieurement au nom de l'enfant protégé par l'immunisation. Outre les données visées aux alinéas 1er et 4, les données à caractère personnel suivantes peuvent être traitées :
+
+1° les données relatives à la durée de la grossesse au moment de l'immunisation ;
+
+2° les données relatives à la filiation ;
+
+3° les données relatives à l'issue de la grossesse ;
+
+4° les données suivantes relatives à l'enfant :
+
+a) le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+b) nom et prénom ;
+
+c) date de naissance ;
+
+d) la date de décès, le cas échéant.
+
+§ 4. Les données visées au paragraphe 3, enregistrées conformément au paragraphe 2, peuvent être traitées pour les finalités suivantes :
+
+1° la gestion des schémas d'immunisation pour chaque personne à immuniser ou à qui un médicament préventif a été administré, et la planification des moments d'immunisation ;
+
+2° les rapports logistiques stratégiques relatifs à l'immunisation, après anonymisation ou au moins après pseudonymisation des données lorsque l'anonymisation ne permet pas l'établissement de rapports logistiques stratégiques ;
+
+3° le contrôle et la gestion des commandes de médicaments préventifs afin de pouvoir intervenir, de manière intégrale ou partielle, dans le flux automatique des commandes. Pour cette finalité, seules peuvent être traitées les données à caractère personnel des personnes auxquelles a été administré un médicament préventif commandé via le système de commande de la Communauté flamande ;
+
+4° la prise de contact avec la personne qui administre le médicament pour :
+
+a) signaler l'importance des immunisations spécifiques dans le cadre du suivi des maladies infectieuses pouvant être prévenues par des immunisations ;
+
+b) vérifier les données reprises dans le système de commande de la Communauté flamande et dans le système d'enregistrement visé au paragraphe 2, alinéa 1er ;
+
+5° la réalisation d'études scientifiques ou statistiques, après anonymisation ou au moins après pseudonymisation des données lorsque l'anonymisation ne permet pas d'atteindre la finalité scientifique ou statistique ;
+
+6° la détermination du degré d'immunisation anonyme, visé à l'article 43/2 ;
+
+7° l'utilisation du système d'enregistrement, visé au paragraphe 2, alinéa 1er, par les personnes qui administrent les médicaments afin de prendre connaissance des médicaments préventifs précédemment administrés pour :
+
+a) obtenir un aperçu de toutes les immunisations qu'ils ont eux-mêmes administrées ;
+
+b) éviter que des médicaments préventifs déjà administrés à une personne ne soient administrés inutilement une nouvelle fois ;
+
+c) détecter les médicaments préventifs qui n'ont pas encore été administrés à une personne ;
+
+d) corriger ou supprimer des données enregistrées dans le système d'enregistrement visé au paragraphe 2, alinéa 1er ;
+
+8° la mise à disposition des données à d'autres prestataires de soins de santé dans le cadre d'une relation thérapeutique telle que visée à l'article 37 de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé, en vue de la prestation de soins, y compris les soins préventifs ;
+
+9° la prise de mesures par les médecins-fonctionnaires et les fonctionnaires, visés à l'article 44, § 3, 2° et 3°, l'examen d'une déclaration, la recherche des sources d'infection et le suivi des contacts dans le cadre de l'application des articles 45, 45/1 et 45/2 ;
+
+10° l'organisation et l'évaluation des dépistages de population, visés à l'article 31, § 1er ;
+
+11° l'organisation et l'évaluation de la politique d'immunisation ;
+
+12° la réalisation des missions des centres d'encadrement des élèves, figurant à l'article 4, § 2, alinéas 4 et 5, du décret du 27 avril 2018 relatif à l'encadrement des élèves dans l'enseignement fondamental, l'enseignement secondaire et dans les centres d'encadrement des élèves ;
+
+13° la réalisation des missions de Grandir Régie, figurant à l'article 7 du décret du 30 avril portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir régie.
+
+En vue des finalités visées à l'alinéa 1er, seules les données visées au paragraphe 3 qui sont nécessaires à la réalisation de la tâche en question peuvent être traitées.
+
+Les données visées au paragraphe 3 peuvent être transmises aux tiers suivants ou consultées par ceux-ci :
+
+1° les personnes qui administrent les médicaments, pour les finalités visées à l'alinéa 1er, 1° et 7° ;
+
+2° les prestataires de soins de santé, pour la finalité visée à l'alinéa 1er, 8° ;
+
+3° les organismes de recherche, pour la finalité visée à l'alinéa 1er, 5° ;
+
+4° les médecins des centres d'encadrement des élèves visés à l'alinéa 1er, 12° ;
+
+5° Grandir Régie, pour la finalité visée à l'alinéa 1er, 13°.
+
+§ 5. Les données visées au paragraphe 3 sont conservées dans le système d'enregistrement visé au paragraphe 2, alinéa 1er, au plus tard jusqu'au décès de la personne à qui le médicament préventif a été administré.
+
+Par dérogation à l'alinéa 1er, lorsque la personne à qui le médicament préventif a été administré décède dans les trente ans suivant l'administration du dernier médicament préventif, les données visées au paragraphe 3 sont conservées dans le système d'enregistrement visé au paragraphe 2, alinéa 1er, jusqu'à trente ans après le moment où le dernier médicament préventif a été administré.
+
+§ 6. L'administration est le responsable du traitement visé à l'article 4, 7), du règlement général sur la protection des données, pour le traitement des données à caractère personnel visées au paragraphe 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-07-18/50, art. 6, 021; En vigueur : 15-01-2026&gt;
+
+###### Art. 43/2.
+
+[<sup>1</sup> § 1er. L'administration ou une organisation mandatée à cet effet par la Communauté flamande peut déterminer, par maladie infectieuse, le taux d'immunisation anonyme de la population ou de certains segments de la population, dans le but de contribuer stratégiquement ou opérationnellement à la prévention primaire ou secondaire de la maladie infectieuse en question ou dans le but d'évaluer la politique d'immunisation.
+
+La segmentation visée à l'alinéa 1er peut être effectuée sur la base des caractéristiques ou combinaisons de caractéristiques suivantes :
+
+1° unité géographique ;
+
+2° forme d'enseignement, type d'enseignement, école ou année d'études ;
+
+3° collectivité ;
+
+4° catégorie d'âge ;
+
+5° sexe ;
+
+6° activité professionnelle, catégorie professionnelle, secteur professionnel et organisation. Pour les enfants de moins de seize ans, la segmentation peut être effectuée sur la base de l'activité professionnelle, de la catégorie professionnelle ou du secteur professionnel de la mère et de l'organisation pour laquelle elle travaille ;
+
+7° les femmes enceintes ou qui étaient enceintes au moment de l'immunisation ;
+
+8° composition du ménage ;
+
+9° par facteur de risque que le Conseil supérieur de la santé, visé à l'arrêté royal du 5 mars 2007 portant création du Conseil supérieur de la Santé, a identifié dans un avis pour la maladie infectieuse pour laquelle le taux d'immunisation est calculé ;
+
+10° langue parlée à la maison et migration.
+
+§ 2. Afin de déterminer le taux d'immunisation anonyme visé au paragraphe 1er, les données à caractère personnel de toutes les personnes suivantes peuvent être traitées :
+
+1° les personnes résidant dans la région de langue néerlandaise ;
+
+2° les personnes qui fréquentent une école dans la région de langue néerlandaise ou dans un établissement situé dans la région bilingue de Bruxelles-Capitale qui doit être considéré, en raison de ses activités, comme relevant exclusivement de la compétence de la Communauté flamande ;
+
+3° les personnes qui travaillent dans la région de langue néerlandaise ou dans un établissement situé dans la région bilingue de Bruxelles-Capitale qui doit être considéré, en raison de son organisation ou de ses activités, comme relevant exclusivement de la compétence de la Communauté flamande ;
+
+4° les personnes auxquelles un médicament préventif visé à l'article 43/1, § 2, alinéa 1er ou 3, a été administré dans la région de langue néerlandaise ou dans un établissement de la région bilingue de Bruxelles-Capitale qui, en raison de son organisation ou de ses activités, doit être considéré comme relevant exclusivement de la compétence de la Communauté flamande.
+
+§ 3. Les données à caractère personnel suivantes des personnes visées au paragraphe 2 peuvent être traitées afin de déterminer le taux d'immunisation anonyme :
+
+1° le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° date de naissance ;
+
+3° résidence principale ;
+
+4° sexe ;
+
+5° date de décès ;
+
+6° le facteur biotique pour lequel le taux d'immunisation est calculé ;
+
+7° le cas échéant, les données suivantes concernant l'administration du médicament préventif :
+
+a) date d'administration ;
+
+b) la marque, si elle est connue ;
+
+c) type de médicament préventif ;
+
+d) les données suivantes de la personne qui administre le médicament :
+
+1\) le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2\) le cas échéant, le numéro INAMI ;
+
+3\) le cas échéant, l'entité par l'intermédiaire de laquelle le médicament préventif a été administré ;
+
+8° le cas échéant, la mention indiquant si la personne est ou était enceinte. Dans ce cas, les données suivantes peuvent également être traitées :
+
+a) la date présumée de conception et la date prévue de l'accouchement ;
+
+b) les données relatives à l'issue de la grossesse ;
+
+c) les données relatives à la filiation ;
+
+d) les données suivantes relatives à l'enfant :
+
+1\) le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2\) date de naissance ;
+
+3\) la date de décès, le cas échéant.
+
+9° les données relatives à la santé qui concernent des affections sous-jacentes qui, selon le Conseil supérieur de la santé visé à l'arrêté royal du 5 mars 2007 portant création du Conseil supérieur de la Santé, constituent un facteur de risque pour la maladie infectieuse pour laquelle le taux d'immunisation anonyme est déterminé ;
+
+10° les données relatives à l'activité professionnelle, à la profession de la personne concernée et à l'organisation pour laquelle elle travaille. Pour les enfants de moins de seize ans, l'activité professionnelle et la profession de la mère ainsi que l'organisation pour laquelle elle travaille peuvent être traitées ;
+
+11° les données relatives à l'école, à l'année d'études, à la forme et au type d'enseignement et la mention indiquant si la personne suit ou non un enseignement à domicile ;
+
+12° les données relatives à la collectivité dans laquelle la personne réside ou dont elle fait partie ;
+
+13° les données relatives à la composition du ménage ;
+
+14° les données relatives à la langue parlée au domicile de la personne ;
+
+15° les données suivantes relatives au contexte migratoire de la personne :
+
+a) la mention indiquant si la personne est née en Belgique ;
+
+b) le pays de naissance de la personne ;
+
+c) l'année d'arrivée en Belgique.
+
+§ 4. Afin de déterminer le taux d'immunisation anonyme dans le cadre du présent article, les données visées au paragraphe 3 sont conservées pendant deux ans au maximum après la détermination du taux d'immunisation anonyme.
+
+§ 5. L'administration est le responsable du traitement visé à l'article 4, 7), du règlement général sur la protection des données, pour le traitement des données à caractère personnel visées au présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/50, art. 7, 021; En vigueur : 15-01-2026&gt;
+
+##### Sous-section II. - Initiatives visant à éviter l'extension des effets nocifs causés par des facteurs biotiques.
+
+###### Art. 44
+
+§ 1er. Le Gouvernement flamand vise à prévenir l'extension des effets nocifs pour l'homme, causés par des facteurs biotiques.
+
+§ 2. En ce qui concerne les facteurs biotiques qui constituent un danger potentiel pour la santé des personnes, il peut prendre des initiatives visant à prévenir le développement d'infections.
+
+§ 3. En tout cas, le Gouvernement flamand prend l'initiative :
+
+1° de déterminer les infections causées par des facteurs biotiques, qui doivent être signalées afin de pouvoir prendre des mesures visant à prévenir le développement d'infections;
+
+2° de désigner les fonctionnaires-médecins qui sont habilités à prendre des mesures visant à prévenir le développement d'infections, sous réserve des responsabilités des organisations partenaires, des organisations oeuvrant sur le terrain et des prestataires de soins individuels;
+
+3° de désigner les fonctionnaires chargés du contrôle de l'observation de l'article 44, § 2 et § 3, 2°, de l'article 45, § 3, [<sup>1</sup> des articles 47 [<sup>2</sup> ...]<sup>2</sup> et 48]<sup>1</sup> sans préjudice des attributions des officiers de police judiciaire.
+
+[<sup>3</sup> 4° de déterminer les infections causées par des facteurs biotiques et qui doivent être signalées de manière anonymisée afin de pouvoir en suivre l'épidémiologie au sein de la population flamande et d'informer la politique générale. Le Gouvernement flamand peut déterminer quelles données anonymisées doivent être signalées et de quelle manière les données anonymisées doivent être signalées ;
+
+5° de désigner des fonctionnaires qui sont habilités à prendre les mesures, visées à l'article 47/1.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2020-12-18/04, art. 3, 010; En vigueur : 12-01-2021&gt;
+
+(2)&lt;DCFL 2023-04-28/02, art. 3, 016; En vigueur : 26-04-2023&gt;
+
+(3)&lt;DCFL 2024-04-26/49, art. 11, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 45
+
+[<sup>1</sup>§ 1er. [<sup>3</sup> Toutes les personnes suivantes déclarent les infections causées par des facteurs biotiques, figurant à l'article 44, § 3, 1° :
+
+1° le médecin traitant ;
+
+2° le chef d'un laboratoire de biologie clinique ;
+
+3° le médecin hygiéniste hospitalier ;
+
+4° le médecin chargé de la surveillance médicale dans une collectivité.
+
+L'obligation de déclaration par les personnes visées à l'alinéa 1er peut être exécutée par un mandataire agissant sous la responsabilité de la personne soumise à l'obligation de déclaration.]<sup>3</sup>
+
+§ 2. La déclaration visée au paragraphe 1er peut contenir toutes les données suivantes :
+
+1° [<sup>3</sup> le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;]<sup>3</sup>
+
+2° les nom et prénoms de la personne infectée ;
+
+3° la date de naissance de la personne infectée ;
+
+4° le sexe de la personne infectée ;
+
+5° le diagnostic présumé ou confirmé de l'infection soumise à déclaration ;
+
+6° l'identité et les coordonnées du déclarant ;
+
+7° la date de la déclaration ;
+
+8° le pays de naissance de la personne infectée ;
+
+9° la nationalité de la personne infectée ;
+
+10° l'adresse du domicile de la personne infectée ;
+
+11° la composition du ménage de la personne infectée ;
+
+12° [<sup>3</sup> Si la personne infectée réside dans une structure : l'indication du type de structure ; " est remplacée par la phrase " Si la personne infectée réside dans une collectivité, outre l'adresse, le type de collectivité dans laquelle elle réside est également indiqué ;]<sup>3</sup>
+
+13° les données nécessaires pour pouvoir contacter la personne infectée, y compris le numéro de téléphone et l'adresse e-mail de l'intéressé et de la personne ou du représentant légal à contacter en cas d'urgence, et l'indication de la relation de cette personne avec l'intéressé ;
+
+14° la profession de la personne infectée ;
+
+15° le lieu de travail de la personne infectée ;
+
+16° les activités, les contacts et les présences dans des endroits durant la période maximale d'incubation et durant la période de maladie ;
+
+17° les informations suivantes au sujet de la maladie :
+
+a) la date de début des symptômes ;
+
+b) la date et les résultats des examens clinique, technique et technique de laboratoire et de l'imagerie médicale ;
+
+c) la thérapie mise en place ;
+
+d) [<sup>3</sup> les données suivantes concernant les conséquences présumées ou réelles de la maladie infectieuse après la phase aiguë :
+
+1\) les séquelles ;
+
+2\) la date et le lieu du décès ;
+
+3\) la mention indiquant si la personne infectée est guérie ;]<sup>3</sup>
+
+18° des informations au sujet d'une affection sous-jacente, de la thérapie et des antécédents ;
+
+19° le statut [<sup>3</sup> immunitaire]<sup>3</sup> de la personne infectée ;
+
+20° le cas échéant, la grossesse de la personne infectée ;
+
+21° les coordonnées du médecin traitant et, le cas échéant, du médecin-spécialiste et de l'hôpital ;
+
+22° la source présumée de la contamination ;
+
+23° la référence de dossier du déclarant.
+
+[<sup>3</sup> 24° en cas d'examen clinique de laboratoire, l'ensemble des données suivantes :
+
+a) le nom et les coordonnées de la personne ou de l'instance qui a demandé l'examen des échantillons ;
+
+b) le laboratoire qui a examiné les échantillons ;
+
+c) le numéro de l'échantillon ;
+
+d) le numéro du dossier.]<sup>3</sup>
+
+[<sup>3</sup> Si le déclarant a connaissance des données visées à l'alinéa 1er, 1° à 7°, 10° et 12°, il les reprend dans sa déclaration. Le déclarant peut reprendre les données visées à l'alinéa 1er, 8°, 9°, 11° et 13° à 24° dans sa déclaration. A la demande des fonctionnaires-médecins et des fonctionnaires visés à l'article 44, § 3, 2° et 3°, le déclarant communique les données demandées visées à l'alinéa 1er, 8°, 9°, 11° et 13° à 24°, s'il en a connaissance.]<sup>3</sup>
+
+La déclaration visée à l'alinéa 1er est faite à un fonctionnaire-médecin tel que visé à l'article 44, § 3, 2° [<sup>3</sup> ou à un fonctionnaire tel que visé à l'article 44, § 3, 3°]<sup>3</sup>.
+
+Par dérogation à l'alinéa 3, le Gouvernement flamand peut déterminer dans quels cas spécifiques la déclaration visée au paragraphe 1er peut être faite à d'autres personnes [<sup>3</sup> qu'un fonctionnaire-médecin]<sup>3</sup> visé à l'article 44, § 3, 2° [<sup>3</sup> ou un fonctionnaire tel que visé à l'article 44, § 3, 3° ]<sup>3</sup>.
+
+[<sup>3</sup> Le]<sup>3</sup> Gouvernement flamand fixe le délai dans lequel la déclaration est faite ainsi que la forme et le mode de la déclaration.
+
+[<sup>3</sup> § 2/1. Les personnes suivantes qui constatent une infection causée par des facteurs biotiques, figurant à l'article 44, § 3, 1°, ou un cluster de l'une de ces infections, peuvent déclarer cette maladie infectieuse ou ce cluster si elles estiment qu'il est nécessaire que les fonctionnaires-médecins et les fonctionnaires visés à l'article 44, § 3, 2° et 3°, en aient connaissance :
+
+1° les personnes au sein d'autres autorités sanitaires nationales et étrangères qui en sont responsables ;
+
+2° les personnes au sein de Sciensano qui en sont responsables ;
+
+3° le chef d'un laboratoire de biologie clinique établi en Région wallonne ou dans la région bilingue de Bruxelles-Capitale et qui n'est pas un établissement qui, en raison de son organisation, doit être considéré comme relevant exclusivement de la compétence de la Communauté flamande.
+
+A l'alinéa 1er, on entend par Sciensano : l'établissement créé par la loi du 25 février 2018 portant création de Sciensano.
+
+La déclaration visée à l'alinéa 1er peut contenir toutes les données visées au paragraphe 2, alinéa 1er.]<sup>3</sup>
+
+§ 3. Les données visées au paragraphe 2, alinéa 1er, sont traitées en vue de prendre des initiatives telles que visées à l'article 44, § 2, et, en particulier, en vue de prendre les mesures visées à l'article 44, § 3, 2°.
+
+Les données visées au paragraphe 2, alinéa 1er, peuvent également être traitées à des fins statistiques ou d'appui à la politique [<sup>3</sup> après anonymisation ou au moins après pseudonymisation des données lorsque l'anonymisation ne permet pas d'atteindre la finalité scientifique, statistique ou d'aide à la décision]<sup>3</sup>.
+
+§ 4. Le fonctionnaire-médecin visé à l'article 44, § 3, 2° [<sup>3</sup> ou le fonctionnaire visé à l'article 44, § 3, 3°]<sup>3</sup>, constitue un dossier concernant chaque maladie infectieuse déclarée. Ce dossier est complété de toutes les informations recueillies [<sup>3</sup> en application des articles 45/1, 45/2, 46, 3°, a),]<sup>3</sup> et de l'article 48 et peut être complété de toutes autres informations nécessaires à cette fin.
+
+Le dossier visé à l'alinéa 1er est conservé dans son intégralité pendant trente ans maximum en cas de tuberculose et pendant dix ans maximum s'il s'agit d'une autre maladie infectieuse.
+
+Par dérogation à l'alinéa 2, le dossier peut être conservé plus de trente ou dix ans respectivement s'il fait partie d'une instruction ou s'il existe une présomption qu'il puisse donner lieu à une instruction. Le cas échéant, le dossier est conservé jusqu'à la clôture de l'instruction ou jusqu'à ce qu'il n'y ait plus de motifs raisonnables de penser qu'il puisse donner lieu à une instruction.
+
+[<sup>3</sup> Lorsque des données visées à l'article 10 du règlement général sur la protection des données peuvent être déduites de la collectivité visée au paragraphe 2, alinéa 1er, 12°, la collectivité est anonymisée et supprimée du dossier visé à l'alinéa 1er deux ans après l'enregistrement.
+
+Par dérogation à l'alinéa 4, en cas de tuberculose, les données relatives à la collectivité visée au paragraphe 2, alinéa 1er, 12°, sont anonymisées et supprimées du dossier visé à l'alinéa 1er six ans après leur enregistrement, lorsque des données visées à l'article 10 du règlement général sur la protection des données peuvent être déduites de la collectivité.]<sup>3</sup>
+
+Le Gouvernement flamand peut préciser les aspects suivants :
+
+1° la façon dont le dossier visé à l'alinéa 1er est conservé ;
+
+2° la façon dont les données du dossier visé à l'alinéa 1er sont anonymisées au terme de la durée de conservation visée à l'alinéa 2 ou 3 ;
+
+3° la façon dont les données anonymisées du dossier sont conservées.
+
+§ 5. [<sup>2</sup>[<sup>3</sup> L'administration]<sup>3</sup>]<sup>2</sup>est le responsable du traitement, au sens de l'article 4, 7), du règlement général sur la protection des données, pour le dossier visé au paragraphe 4, alinéa 1er.
+
+§ 6. Le Gouvernement flamand peut imposer des mesures techniques et organisationnelles pour le traitement des données à caractère personnel visées dans le présent article. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-12-23/14, art. 3, 017; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCFL 2023-04-21/07, art. 3, 017; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DCFL 2025-07-18/50, art. 8, 021; En vigueur : 15-01-2026&gt;
+
+###### Art. 45/1.
+
+[<sup>1</sup> Les fonctionnaires-médecins et les fonctionnaires visés à l'article 44, § 3, 2° et 3°, peuvent traiter toutes les données à caractère personnel reprises dans la liste visée à l'article 45, § 2, relatives aux personnes infectées.
+
+L'article 45, §§ 3 à 6, s'applique au traitement des données à caractère personnel visé à l'alinéa 1er.
+
+Les données à caractère personnel visées à l'alinéa 1er peuvent également être traitées par d'autres personnes travaillant sous la responsabilité des fonctionnaires-médecins visés à l'article 44, § 3, 2°, conformément à l'article 9, paragraphe 3, du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/50, art. 9, 021; En vigueur : 15-01-2026&gt;
+
+###### Art. 45/2.
+
+[<sup>1</sup> § 1er. Les fonctionnaires-médecins et les fonctionnaires visés à l'article 44, § 3, 2° et 3°, peuvent examiner plus avant toute déclaration ou tout cas constaté d'infection causée par des facteurs biotiques figurant à l'article 44, § 3, 1er. Afin d'examiner plus avant la déclaration ou l'infection constatée, les fonctionnaires-médecins et les fonctionnaires peuvent eux-mêmes procéder à tout examen utile ou faire effectuer un examen complémentaire par une organisation avec laquelle la Communauté flamande a conclu une convention à cette fin.
+
+Par l'examen visé à l'alinéa 1er, on entend :
+
+1° le prélèvement et l'analyse d'échantillons et de tests ;
+
+2° l'imagerie médicale ;
+
+3° l'anamnèse ;
+
+4° la recherche de la source ;
+
+5° l'enquête environnementale ;
+
+6° tout autre examen médical.
+
+Dans le cadre de l'examen visé à l'alinéa 1er peuvent être traitées les catégories suivantes de données à caractère personnel de la personne infectée ou des personnes susceptibles d'avoir été en contact avec la personne infectée ou avec une autre source de contamination, qui sont liées à la maladie infectieuse et qui résultent de l'anamnèse, de la recherche de la source, des échantillons, des tests, de l'imagerie, de l'enquête environnementale ou de tout autre examen médical, figurant à l'alinéa 3 :
+
+1° les données relatives aux habitudes de vie ;
+
+2° les données relatives à la santé, visées à l'article 4, 15) du règlement général sur la protection des données ;
+
+3° les données relatives aux contacts à risque, y compris les données relatives au comportement sexuel ;
+
+4° les données visées à l'article 45, § 2, alinéa 1er, qui ne sont pas encore connues du fonctionnaire ou du fonctionnaire-médecin ;
+
+5° les données relatives à la source de la maladie infectieuse ou aux circonstances dans lesquelles la maladie infectieuse s'est propagée.
+
+La personne infectée ou la personne susceptible d'avoir été en contact avec la personne infectée ou avec une autre source de contamination est tenue de coopérer à l'examen visé à l'alinéa 1er. L'article 47, §§ 2 et 3, s'applique si l'examen visé à l'alinéa 1er est un examen médical tel que visé à l'article 47, § 1er, 2°.
+
+Les données de l'examen visé à l'alinéa 1er ne sont traitées que par des personnes qui remplissent les conditions visées à l'article 9, paragraphe 3, du règlement général sur la protection des données.
+
+Les résultats de l'examen visé à l'alinéa 1er sont repris dans le dossier visé au paragraphe 2, alinéa 3, ou dans le dossier visé à l'article 45, § 4, alinéa 1er.
+
+Lorsque le médecin traitant, le chef d'un laboratoire de biologie clinique, le médecin-hygiéniste hospitalier ou le médecin chargé de la surveillance médicale dans une collectivité, a lui-même effectué un examen complémentaire sur l'infection causée par des facteurs biotiques, figurant à l'alinéa 1er, il transmet les résultats de cet examen complémentaire au fonctionnaire ou au fonctionnaire-médecin concernés. Les résultats sont repris dans le dossier visé au paragraphe 2, alinéa 3, ou dans le dossier visé à l'article 45, § 4, alinéa 1er.
+
+Lorsque des données relatives au comportement sexuel, figurant à l'alinéa 3, 3°, sont traitées dans le cadre de l'examen visé à l'alinéa 1er, ces données sont anonymisées et supprimées du dossier visé à l'article 45, § 4, alinéa 1er, deux ans après leur enregistrement.
+
+Par dérogation à l'alinéa 8, en cas de tuberculose, les données relatives au comportement sexuel visées à l'alinéa 3, 3°, sont anonymisées et supprimées du dossier visé à l'article 45, § 4, alinéa 1er, six ans après leur enregistrement.
+
+§ 2. Les fonctionnaires-médecins et les fonctionnaires visés à l'article 44, § 3, 2° et 3°, peuvent, en vue de prendre les initiatives visées à l'article 44, § 2, et en particulier en vue de prendre les mesures visées à l'article 44, § 3, 2°, rechercher les contacts des personnes infectées ou des personnes qui ont été en contact avec une autre source de contamination de l'infection, et examiner si ces personnes sont également infectées ou prendre les mesures préventives nécessaires.
+
+En vue des finalités visées à l'alinéa 1er, les fonctionnaires-médecins et les fonctionnaires visés à l'article 44, § 3, 2° et 3°, ou les personnes travaillant sous la responsabilité de ces fonctionnaires-médecins, peuvent, conformément à l'article 9, paragraphe 3, du règlement général sur la protection des données, traiter les données suivantes des personnes susceptibles d'avoir été en contact avec une personne infectée ou avec une autre source de contamination :
+
+1° le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° nom et prénom ;
+
+3° date de naissance ;
+
+4° sexe ;
+
+5° l'infection causée par des facteurs biotiques, figurant à l'article 44, § 3, 1°, avec laquelle la personne est susceptible d'avoir été en contact ;
+
+6° pays de naissance ;
+
+7° nationalité ;
+
+8° adresse du domicile ;
+
+9° composition du ménage ;
+
+10° l'adresse où la personne réside effectivement. Si le contact réside dans une collectivité, outre l'adresse, le type de collectivité dans laquelle la personne réside est également indiqué ;
+
+11° les données nécessaires pour contacter la personne qui a été en contact avec la personne infectée ou avec la source de l'infection, y compris le numéro de téléphone et l'adresse e-mail de la personne concernée et de la personne ou du représentant légal à contacter en cas d'urgence, ainsi que la relation de cette personne avec la personne concernée ;
+
+12° profession ;
+
+13° lieu de travail ;
+
+14° les informations sur les affections sous-jacentes ou les facteurs de risque de contamination par la maladie infectieuse, la thérapie et les antécédents ;
+
+15° statut immunitaire ;
+
+16° le cas échéant, la grossesse ;
+
+17° les coordonnées du médecin traitant et, le cas échéant, du médecin spécialiste et de l'hôpital ;
+
+18° les résultats, y compris les données relatives à la santé, figurant à l'article 4, 15), du règlement général sur la protection des données, de l'examen complémentaire visé au paragraphe 1er, afin de vérifier si cette personne est également infectée.
+
+Les données visées à l'alinéa 2 relatives à la personne susceptible d'avoir été en contact avec la personne infectée ou avec la source de l'infection sont conservées dans un dossier relatif à une maladie infectieuse conformément à l'article 45, § 4, alinéa 1er.
+
+Lorsque des données visées à l'article 10 du règlement général sur la protection des données peuvent être déduites de la collectivité visée à l'alinéa 2, 10°, la collectivité est anonymisée et supprimée du dossier visé à l'article 45, § 4, alinéa 1er, deux ans après l'enregistrement.
+
+Par dérogation à l'alinéa 4, en cas de tuberculose, les données relatives à la collectivité visée à l'alinéa 2, 10°, sont anonymisées et supprimées du dossier visé à l'article 45, § 4, alinéa 1er du présent décret, six ans après leur enregistrement, lorsque des données visées à l'article 10 du règlement général sur la protection des données peuvent être déduites de la collectivité.
+
+§ 3. Lorsqu'il est constaté que la personne susceptible d'avoir été en contact avec la personne infectée ou avec une autre source de l'infection est également contaminée par une infection causée par des facteurs biotiques, figurant à l'article 44, § 3, 1°, cette personne devient elle-même une personne infectée.
+
+Lorsque, dans les deux ans suivant l'enregistrement, il n'est pas constaté que la personne susceptible d'avoir été en contact avec la personne infectée ou avec la source de l'infection est contaminée par l'infection causée par des facteurs biotiques, figurant à l'article 44, § 3, 1°, les données visées au paragraphe 2, alinéa 2, sont anonymisées et supprimées du dossier visé à l'article 45, § 4, alinéa 1er.
+
+Par dérogation à l'alinéa 2, en cas de tuberculose, les données d'une personne susceptible d'avoir été en contact avec la personne infectée ou avec la source de l'infection sont anonymisées et supprimées du dossier visé à l'article 45, § 4, alinéa 1er, après six ans, si aucune infection tuberculeuse n'a entre-temps été constatée chez cette personne.
+
+§ 4. En vue de prendre les initiatives visées à l'article 44, § 2, ou les mesures visées à l'article 44, § 3, 2°, et en particulier en vue de la recherche des contacts et en vue de prendre des mesures visant à prévenir la propagation de la maladie infectieuse, les fonctionnaires-médecins et les fonctionnaires visés à l'article 44, § 3, 2° et 3°, peuvent interroger les personnes responsables des lieux ou des activités où la personne infectée est entrée en contact avec d'autres personnes dès lors susceptibles d'avoir été contaminées par la maladie infectieuse, ou où des personnes sont entrées en contact avec une autre source de contamination, ces personnes étant dès lors susceptibles d'avoir été contaminées par la maladie infectieuse.
+
+Les personnes responsables visées à l'alinéa 1er qui sont interrogées prêtent leur concours à l'interrogatoire visé à l'alinéa 1er. Les fonctionnaires-médecins ou fonctionnaires visés à l'article 44, § 3, 2° et 3°, peuvent demander les données à caractère personnel suivantes des personnes susceptibles d'avoir été en contact avec la personne infectée ou avec l'autre source de contamination de l'infection pendant la période d'incubation maximale ou pendant la période de maladie :
+
+1° le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° nom et prénom ;
+
+3° date de naissance ;
+
+4° adresse ;
+
+5° sexe ;
+
+6° coordonnées ;
+
+7° les informations relatives au lieu, à la date et à la nature du contact avec la personne infectée ou avec la source de l'infection.
+
+Les données visées à l'alinéa 2 concernant les personnes susceptibles d'avoir été en contact avec la personne infectée ou avec la source de l'infection sont conservées dans un dossier conformément à l'article 45, § 4.
+
+§ 5. L'administration est le responsable du traitement visé à l'article 4, 7), du règlement général sur la protection des données, pour le traitement des données à caractère personnel figurant au présent article.
+
+§ 6. Le Gouvernement flamand peut imposer des mesures techniques et organisationnelles relatives au traitement des données à caractère personnel figurant au présent article.
+
+§ 7. Les données visées au présent article peuvent également être traitées pour des finalités statistiques, scientifiques et d'aide à la décision, après anonymisation ou au moins après pseudonymisation des données lorsque l'anonymisation ne permet pas d'atteindre la finalité scientifique, statistique ou d'aide à la décision. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/50, art. 10, 021; En vigueur : 15-01-2026&gt;
+
+###### Art. 45/3.
+
+[<sup>1</sup> § 1er. Les données visées aux articles 45, 45/1 et 45/2 peuvent être échangées avec les personnes ou instances suivantes :
+
+1° les organisations qui, dans le cadre de l'application des articles 45, 45/1 ou 45/2, exécutent un marché public pour le compte de la Communauté flamande ;
+
+2° les organisations subventionnées par la Communauté flamande pour participer à l'examen ou au suivi des déclarations ou pour prendre des mesures à la suite des déclarations ;
+
+3° le médecin traitant la personne infectée, le chef d'un laboratoire de biologie clinique, le médecin hygiéniste hospitalier et le médecin chargé de la surveillance médicale dans une collectivité, ou les personnes placées sous la responsabilité de ces médecins ;
+
+4° les prestataires de soins de santé qui ont une relation thérapeutique telle que visée à l'article 37 de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé, avec la personne infectée ou avec le contact, ou les personnes placées sous la responsabilité de ces prestataires de soins de santé, dans la mesure où ces prestataires sont impliqués dans la mise en oeuvre de mesures dans le cadre de la lutte contre la maladie infectieuse déclarée ;
+
+5° d'autres autorités sanitaires nationales ou étrangères.
+
+Les données visées à l'alinéa 1er ne peuvent être échangées qu'avec des personnes qui remplissent les conditions visées à l'article 9, paragraphe 3, du règlement général sur la protection des données.
+
+§ 2. Les personnes suivantes peuvent ajouter au dossier visé aux articles 45, § 4, alinéa 1er, 45/1, alinéa 2, ou 45/2, § 2, alinéa 3, des données supplémentaires telles que visées aux articles 45, § 2, 45/1, ou 45/2, §§ 1er ou 2 :
+
+1° les personnes d'organisations qui, dans le cadre de l'obligation de déclaration, exécutent un marché public pour le compte de l'administration ;
+
+2° les personnes d'organisations subventionnées par la Communauté flamande pour participer à l'examen ou au suivi des déclarations ou pour prendre des mesures à la suite des déclarations ;
+
+3° les prestataires de soins de santé qui ont une relation thérapeutique telle que visée à l'article 37 de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé, avec la personne infectée ou avec le contact, ou les personnes placées sous la responsabilité de ces prestataires de soins de santé, dans la mesure où ces prestataires sont impliqués dans la mise en oeuvre de mesures dans le cadre de la lutte contre la maladie infectieuse déclarée ;
+
+4° le médecin traitant la personne infectée, le chef d'un laboratoire de biologie clinique, le médecin hygiéniste hospitalier et le médecin chargé de la surveillance médicale dans les écoles, les entreprises, les structures accueillant des enfants et des jeunes et les établissements de soins résidentiels, ou les personnes travaillant sous la responsabilité de ces médecins ;
+
+5° d'autres autorités sanitaires nationales ou étrangères.
+
+Le Gouvernement flamand peut arrêter la manière dont les données supplémentaires sont ajoutées conformément à l'alinéa 1er.
+
+Seules les personnes qui remplissent les conditions visées à l'article 9, paragraphe 3, du règlement général sur la protection des données peuvent compléter le dossier visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/50, art. 11, 021; En vigueur : 15-01-2026&gt;
+
+###### Art. 45/4.
+
+[<sup>1</sup> Lorsque cela est nécessaire pour prévenir la propagation de la maladie infectieuse, les fonctionnaires-médecins et les fonctionnaires visés à l'article 44, § 3, 2° et 3°, peuvent lancer des appels publics afin d'informer et de rechercher les personnes susceptibles d'avoir été en contact, dans un lieu déterminé ou dans le cadre d'une activité déterminée, avec une personne infectée ou avec une autre source de contamination. Dans ces appels publics, ils peuvent mentionner l'activité et la période de temps pendant lesquelles la maladie infectieuse est susceptible de s'être propagée, ainsi que le lieu en question.
+
+Dans les appels visés à l'alinéa 1er, les fonctionnaires-médecins et les fonctionnaires visés à l'article 44, § 3, 2° et 3°, peuvent adresser des recommandations aux personnes susceptibles d'avoir été en contact, dans le lieu ou lors de l'activité mentionnés dans cet appel, avec une personne infectée ou avec une autre source de contamination. Les fonctionnaires-médecins et les fonctionnaires visés à l'article 44, § 3, 2° et 3°, peuvent demander à ces personnes de se présenter.
+
+Les fonctionnaires-médecins et fonctionnaires visés à l'article 44, § 3, 2° et 3°, spécifient dans l'appel visé à l'alinéa 1er la manière dont ces personnes peuvent se présenter.
+
+L'article 45/2, §§ 1er et 2, s'applique aux personnes qui se présentent à la suite d'un appel visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/50, art. 12, 021; En vigueur : 15-01-2026&gt;
+
+###### Art. 46
+
+Les fonctionnaires-médecins et les fonctionnaires visés à l'article 44, [<sup>1</sup> § 3, 2°, 3° et 5°]<sup>1</sup> :
+
+1° prennent, au besoin, contact avec d'autres autorités de santé intérieures, étrangères ou internationales qui sont compétentes en la matière, afin de prévenir la diffusion d'infections;
+
+2° ont accès libre, dans les limites de leur mission et dans la mesure où il est jugé nécessaire, de cinq heures du matin a neuf heures du soir à tous les endroits et espaces où l'on présume ou a constaté l'existence d'une source de contamination possible d'une maladie contagieuse qui représente un danger particulier pour la population. Entre neuf heures du matin et cinq heures du soir, cet accès est limité aux établissements collectifs où des personnes passent la nuit;
+
+3° peuvent, dans les limites de leur mission et dans la mesure où il est jugé nécessaire :
+
+a) mener toute investigation, tout contrôle ou toute enquête, et recueillir toutes les informations qu'ils jugent nécessaires pour s'assurer que les dispositions décrétales et réglementaires sont respectées;
+
+b) requérir l'assistance de la police locale ou fédérale dans l'exercice de leur fonction.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/49, art. 12, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 47
+
+§ 1er. Les fonctionnaires-médecins visés à l'article 44, § 3, 2°, peuvent :
+
+1°[<sup>4</sup> obliger les personnes atteintes par une infection dangereuse en raison de sa gravité ou de sa contagiosité et qui constituent de ce fait un risque de contagion pour d'autres personnes, à suivre un traitement médical approprié afin de lutter contre cette contagion ]<sup>4</sup>;
+
+[<sup>4</sup> 1° /1 ordonner l'isolement temporaire dans un service hospitalier déterminé par les fonctionnaires-médecins ou un autre lieu approprié à des personnes qui :
+
+a) sont atteintes par une infection telle que visée au point 1° et qui constituent de ce fait un risque de contagion pour d'autres personnes ;
+
+b) présentent un risque accru de contracter une infection telle que visée au point 1° ;
+
+c) arrêtent précocement, contre l'avis du médecin traitant, le traitement contre une infection telle que visée au point 1° et qui peuvent ainsi à nouveau devenir contagieuses.
+
+L'isolement obligatoire prend fin dès que la personne à qui l'ordre a été donné n'est plus contagieuse et dès que le risque de contagiosité a disparu ; ]<sup>4</sup>
+
+2° faire subir aux personnes qui, après un contact avec une personne infectée ou après un contact avec une autre source de contamination [<sup>2</sup> ou après avoir résidé dans une zone à haut risque]<sup>2</sup>, peuvent être contaminées et qui, par des contacts avec d'autres personnes, peuvent transmettre cette infection à cause de leurs activités professionnelles ou non, un examen médical visant à dépister les sources de contamination;
+
+3° interdire aux personnes contaminées qui peuvent transmettre l'infection [<sup>3</sup> ainsi qu'aux personnes à risque accru d'avoir contracté cette infection]<sup>3</sup>, d'avoir contact avec d'autres personnes à cause de leurs activités professionnelles ou non, tant qu'ils constituent un danger particulier pour la santé publique;
+
+4° [<sup>4</sup> réquisitionner les espaces hospitaliers et dans d'autres établissements de soins ou dans des hébergements touristiques nécessaires à l'admission, aux soins et à l'isolement des personnes contaminées ou fortement suspectées d'être atteintes d'une contamination. Le Gouvernement flamand peut déterminer par qui, de quelle manière et à quelles conditions l'utilisation des espaces hospitaliers et dans d'autres établissements de soins ou dans des hébergements touristiques est indemnisée, et peut fixer l'ampleur de cette indemnité ]<sup>4</sup>;
+
+5° ordonner la désinfection des objets et locaux contaminés;
+
+6° ordonner le traitement, l'isolement ou la mise à mort d'animaux qui représentent un danger de contamination pour l'homme, à l'exception du danger de contamination par consommation de ces animaux.
+
+[<sup>4</sup> 7° donner des sommations et des ordres motivés à des propriétaires et exploitants d'installations qui sont au moins probablement la cause ou l'une des causes de plusieurs cas d'une infection qui, en vertu de l'article 44, § 3, 1°, est soumise à l'obligation de déclaration et, pour l'évaluer, mener toute investigation, tout contrôle ou toute enquête et recueillir toutes les informations qu'ils jugent utiles
+
+8° s'il n'est pas donné immédiatement suite aux mesures, visées au point 7°, exécuter ou faire exécuter d'office les mesures nécessaires. ]<sup>4</sup>
+
+§ 2. Les mesures visées au [<sup>4</sup> § 1er, 1°, 1° /1 et 3°, ]<sup>4</sup> ne peuvent être exécutées qu'après que le fonctionnaire-médecin concerné s'est concerté avec les médecins traitants.
+
+§ 3. Le fonctionnaire-médecin qui a pris les mesures visées au [<sup>4</sup> § 1er, 1°, 1° /1, 3°, 7° et 8°, ]<sup>4</sup>, communique au moins les données suivantes a la personne concernée :
+
+1° le contenu de la mesure;
+
+2° la motivation de la mesure;
+
+3° le nom, la fonction et la résidence administrative du fonctionnaire-médecin concerné;
+
+4° la mention de la faculté de recours;
+
+5° la procédure de recours;
+
+6° le mode d'évaluation de la mesure prise, sa durée, ainsi que le mode d'une adaptation éventuelle de la mesure.
+
+Les éléments visés aux 1°, 2° et 5°, sont expliqués oralement à la personne concernée.
+
+----------
+
+(1)&lt;DCFL 2020-07-10/02, art. 2, 009; En vigueur : 13-07-2020&gt;
+
+(2)&lt;DCFL 2020-07-10/02, art. 3, 009; En vigueur : 13-07-2020&gt;
+
+(3)&lt;DCFL 2020-07-10/02, art. 4, 009; En vigueur : 13-07-2020&gt;
+
+(4)&lt;DCFL 2024-04-26/49, art. 13, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 47/1
+
+&lt;Abrogé par DCFL 2023-04-28/02, art. 4, 016; En vigueur : 26-04-2023&gt;
+
+###### Art. 47/1 DROIT FUTUR
+
+&lt;Abrogé par ACC 2023-02-16/16, art. M, 020; En vigueur : 21-11-2003&gt;
+
+###### Art. 48
+
+Toute personne concernée est tenue à communiquer aux fonctionnaires-médecins désignés, visés à l'article 44, § 3, 2°, et aux fonctionnaires désignés, visés à l'article 44, [<sup>1</sup> § 3, 3° et 5°]<sup>1</sup>, les informations supplémentaires qu'ils estiment nécessaires pour prendre les mesures adaptées à la situation.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/49, art. 15, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 49
+
+§ 1er. Au cas où les obligations prescrites à l'article [<sup>3</sup> 45, § 1er ]<sup>3</sup> [<sup>4</sup> 45/2, §§ 1er et 4, ]<sup>4</sup>, l'article 47, § 1er, [<sup>2</sup> ...]<sup>2</sup> et l'article 48 ne seraient pas respectées, [<sup>1</sup> les fonctionnaires désignés, chargés du contrôle, sont habilités à rédiger des procès-verbaux sans préjudice des compétences des communes conformément à l'article 135, § 2, de la nouvelle loi communale du 24 juin 1988]<sup>1</sup>. Les procès-verbaux font foi jusqu'a preuve du contraire. Une copie de ce procès-verbal est adressée à l'intéresse dans les cinq jours ouvrables.
+
+§ 2. Par rapport aux personnes physiques qui se trouvent sur le territoire de la région bilingue de Bruxelles-Capitale, les articles 46 à 49, § 1er, inclus s'appliquent uniquement à ces personnes qui ont fait volontairement appel à une structure qui, de par son organisation, doit être considérée comme relevant exclusivement de la compétence de la Communauté flamande.
+
+----------
+
+(1)&lt;DCFL 2020-12-18/04, art. 5, 010; En vigueur : 12-01-2021&gt;
+
+(2)&lt;DCFL 2023-04-28/02, art. 5, 016; En vigueur : 26-04-2023&gt;
+
+(3)&lt;DCFL 2022-12-23/14 , art. 4, 017; En vigueur : 01-01-2024&gt;
+
+(4)&lt;DCFL 2025-07-18/50, art. 13, 021; En vigueur : 15-01-2026&gt;
+
+###### Art. 50
+
+Le prestataire de soins individuel est obligé d'informer la personne contaminée qu'il traite au sujet de la maladie ou de l'infection, des dangers potentiel et du degré de contagion pour l'environnement. Ceci permet à la personne contaminée d'assumer sa responsabilité visée à l'article 8.
+
+Par rapport au prestataire de soins individuel dans la région bilingue de Bruxelles-Capitale, cette obligation vaut uniquement pour le prestataire de soins qui s'est affilié volontairement à un groupement qui est organisé lui-même de telle façon qu'il témoigne d'un lien avec la Communauté flamande.
+
+#### Section II. - Initiatives relatives aux facteurs physiques ou chimiques.
+
+###### Art. 51
+
+Le Gouvernement flamand peut prendre des initiatives visant à prévenir des affections causées par des facteurs physiques ou chimiques. Ces facteurs se situent tant à l'intérieur qu'en dehors des bâtiments.
+
+[<sup>1</sup> Le Gouvernement flamand sensibilise à la problématique de l'exposition aux [<sup>2</sup> substances humaines extrêmement préoccupantes ]<sup>2</sup> et prend des initiatives en matière de la prévention d'affections que peuvent causer ces substances [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/12, art. 1, 008; En vigueur : 03-05-2019&gt;
+
+(2)&lt;DCFL 2024-04-26/49, art. 16, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 52
+
+§ 1er. Dans sa politique, le Gouvernement flamand vise un développement durable et peut fixer à cet effet, après discussion au Parlement flamand, des [<sup>1</sup> valeurs recommandées pour la santé ]<sup>1</sup> dans l'eau, l'air, le sol ou l'homme.
+
+§ 2. Le Gouvernement flamand détermine les valeurs limites dans l'homme, après discussion au Parlement flamand de l'acceptabilité sociale de dommages à la sante causés par des facteurs physiques et chimiques.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/49, art. 17, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 53
+
+§ 1er. Indépendamment des mesures fixées dans la législation environnementale existante, le Gouvernement flamand peut [<sup>1</sup> , sur la base du principe de précaution, ]<sup>1</sup> informer la population et particulièrement les groupes à risques, et prendre des mesures visant à limiter l'exposition et protéger la santé publique en cas de dépassement des valeurs limites dans l'homme, fixées par le Gouvernement flamand, de facteurs dont l'action nocive sur la santé est prouvée ou est probable sur la base d'informations scientifiques fondées.
+
+§ 2. Pour les effets probables qui ne sont toutefois pas démontrés, visés au § 1er, les mesures sont évaluées entre autres en fonction de la probabilité de l'apparition des effets présumés, de la gravité des effets prévus, de l'ampleur de la population exposée et de l'impact social prévu des effets et/ou mesures.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/49, art. 18, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 53/1
+
+[<sup>1</sup> Pour soutenir les initiatives, visées à l'article 52, § 1er, et les mesures, visées à l'article 53, § 1er, le Gouvernement flamand prend au moins l'initiative de développer et d'exécuter un programme d'évaluation de l'impact sur la santé environnementale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/49, art. 19, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 53/2
+
+[<sup>1</sup> . § 1er. Le Gouvernement flamand désigne des fonctionnaires qui sont habilités à prendre des mesures pour lutter contre l'exposition à des facteurs chimiques dans l'environnement, impliquant un danger potentiel d'effets nocifs sur la santé de l'homme.
+
+§ 2. Les fonctionnaires, visés au paragraphe 1er :
+
+1° prennent au besoin contact avec d'autres autorités de santé intérieures, étrangères ou internationales qui sont compétentes en la matière, afin de lutter contre les risques pour la santé d'une exposition à des facteurs chimiques ;
+
+2° ont librement accès, dans les limites de leur mission et dans la mesure où il est jugé nécessaire, de cinq heures du matin à neuf heures du soir, à tous les endroits et espaces où l'on présume ou l'on a constaté l'existence d'une source possible d'un facteur chimique qui représente un danger particulier pour la population. Entre neuf heures du soir et cinq heures du matin, l'accès est limité aux établissements collectifs où des personnes passent la nuit ;
+
+3° peuvent, dans les limites de leur mission et dans la mesure où il est jugé nécessaire :
+
+a) mener toute investigation, tout contrôle ou toute enquête, et recueillir toutes les informations qu'ils jugent nécessaires pour s'assurer que les dispositions décrétales et réglementaires sont respectées ;
+
+b) requérir l'assistance de la police locale ou fédérale dans l'exercice de leur fonction.
+
+§ 3. Les fonctionnaires, visés au paragraphe 1er, peuvent, sans préjudice de l'application des responsabilités des fonctionnaires de surveillance qui sont désignés dans le cadre du titre XVI du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, et après concertation préalable avec ces fonctionnaires de surveillance :
+
+1° ordonner le monitoring afin de détecter et caractériser la cause de la propagation de facteurs chimiques dans l'environnement, visés au paragraphe 1er ;
+
+2° ordonner des mesures telles que visées au paragraphe 1er, pouvant viser entre autres :
+
+a) la fermeture du lieu, de l'espace ou de l'établissement pouvant être la cause du danger, visé au paragraphe 1er ;
+
+b) l'arrêt, partiel ou non dans le temps et l'espace, de l'activité ou de l'installation pouvant être la cause du danger, visé au paragraphe 1er ;
+
+c) la détoxication du lieu, de l'espace, de l'établissement ou de l'installation pouvant être la cause du danger, visé au paragraphe 1er ;
+
+d) des modifications dans le processus pouvant être la cause du danger, visé au paragraphe 1er ;
+
+e) l'exécution de travaux dans le lieu, l'espace, l'établissement ou l'installation pouvant être la cause du danger, visé au paragraphe 1er.
+
+Les fonctionnaires, visés à l'article 44, § 3, 5°, adaptent la mesure, visée à l'alinéa 1er, ou mettent fin à la mesure en fonction de la diminution du risque de propagation de la contamination depuis le lieu, l'espace, l'établissement ou l'installation.
+
+§ 4. Le fonctionnaire qui a pris les mesures, visées au paragraphe 3, alinéa 1er, 1° et 2°, communique par écrit au moins les données suivantes à l'intéressé :
+
+1° le contenu de la mesure ;
+
+2° la motivation de la mesure ;
+
+3° la période dans laquelle il doit être donné suite à la mesure ;
+
+4° le nom, la fonction et la résidence administrative du fonctionnaire concerné ;
+
+5° la mention de la faculté de recours ;
+
+6° la procédure de recours ;
+
+7° le mode d'évaluation de la mesure prise, sa durée, ainsi que le mode d'une adaptation éventuelle de la mesure.
+
+Les éléments, visés à l'alinéa 1er, 1°, 2°, 3° et 6°, sont également expliqués oralement à l'intéressé, pour autant que cela soit raisonnablement possible.
+
+Par dérogation aux alinéas 1er et 2, en cas d'extrême urgence, les éléments, visés à l'alinéa 1er, peuvent également être expliqués oralement à l'intéressé, à condition que les mesures soient sanctionnées par écrit dans un délai de cinq jours ouvrables.
+
+§ 5. Chaque intéressé a l'obligation de communiquer aux fonctionnaires, visés au paragraphe 1er, les informations complémentaires que les fonctionnaires jugent nécessaires pour ordonner les mesures adaptées à la situation.
+
+§ 6. S'il n'est pas donné suite dans le délai, visé au paragraphe 4, alinéa 1er, 3°, aux ordres, visés au paragraphe 3, alinéa 1er, les fonctionnaires, visés au paragraphe 1er, peuvent exécuter ou faire exécuter d'office les mesures nécessaires.
+
+§ 7. Si les mesures ordonnées, visées au paragraphe 3, ne sont pas respectées, les fonctionnaires, visés au paragraphe 1er, sans préjudice des compétences des fonctionnaires de surveillance qui sont désignés dans le cadre du titre XVI du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, sont habilités à dresser un procès-verbal. Les procès-verbaux font foi jusqu'à preuve du contraire. Une copie de ce procès-verbal est adressée à l'intéressé dans les cinq jours ouvrables. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/49, art. 20, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 53/3
+
+[<sup>1</sup> . § 1er. Le Gouvernement flamand désigne des fonctionnaires qui sont habilités à prendre des mesures pour lutter contre l'exposition à des facteurs physiques dans l'environnement, impliquant un danger potentiel d'effets nocifs sur la santé de l'homme.
+
+§ 2. Les fonctionnaires, visés au paragraphe 1er :
+
+1° prennent au besoin contact avec d'autres autorités de santé intérieures, étrangères ou internationales qui sont compétentes en la matière, afin de lutter contre les risques pour la santé d'une exposition à des facteurs physiques ;
+
+2° ont librement accès, dans les limites de leur mission et dans la mesure où il est jugé nécessaire, de cinq heures du matin à neuf heures du soir, à tous les endroits et espaces où l'on présume ou l'on a constaté l'existence d'une source possible d'un facteur physique qui représente un danger particulier pour la population. Entre neuf heures du soir et cinq heures du matin, l'accès est limité aux établissements collectifs où des personnes passent la nuit ;
+
+3° peuvent, dans les limites de leur mission et dans la mesure où il est jugé nécessaire :
+
+a) mener toute investigation, tout contrôle ou toute enquête, et recueillir toutes les informations qu'ils jugent nécessaires pour s'assurer que les dispositions décrétales et réglementaires sont respectées ;
+
+b) requérir l'assistance de la police locale ou fédérale dans l'exercice de leur fonction.
+
+§ 3. Les fonctionnaires, visés au paragraphe 1er, peuvent, sans préjudice de l'application des responsabilités des fonctionnaires de surveillance qui sont désignés dans le cadre du titre XVI du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, et au cas où ces responsabilités s'appliquent après concertation préalable avec ces fonctionnaires de surveillance :
+
+1° ordonner le monitoring afin de détecter et caractériser la cause de la propagation de facteurs physiques dans l'environnement, visés au paragraphe 1er ;
+
+2° ordonner des mesures telles que visées au paragraphe 1er, pouvant viser entre autres :
+
+a) la fermeture du lieu, de l'espace ou de l'établissement pouvant être la cause du danger, visé au paragraphe 1er ;
+
+b) l'arrêt, partiel ou non dans le temps et l'espace, de l'activité ou de l'installation pouvant être la cause du danger, visé au paragraphe 1er ;
+
+c) la détoxication du lieu, de l'espace, de l'établissement ou de l'installation pouvant être la cause du danger, visé au paragraphe 1er ;
+
+d) des modifications dans le processus pouvant être la cause du danger, visé au paragraphe 1er ;
+
+e) l'exécution de travaux dans le lieu, l'espace, l'établissement ou l'installation pouvant être la cause du danger, visé au paragraphe 1er.
+
+Les fonctionnaires, visés à l'article 44, § 3, 5°, adaptent la mesure, visée à l'alinéa 1er, ou mettent fin à la mesure en fonction de la diminution du risque de propagation de la contamination depuis le lieu, l'espace, l'établissement ou l'installation.
+
+§ 4. Le fonctionnaire qui a pris les mesures, visées au paragraphe 3, alinéa 1er, 1° et 2°, communique par écrit au moins les données suivantes à l'intéressé :
+
+1° le contenu de la mesure ;
+
+2° la motivation de la mesure ;
+
+3° la période dans laquelle il doit être donné suite à la mesure ;
+
+4° le nom, la fonction et la résidence administrative du fonctionnaire concerné ;
+
+5° la mention de la faculté de recours ;
+
+6° la procédure de recours ;
+
+7° le mode d'évaluation de la mesure prise, sa durée, ainsi que le mode d'une adaptation éventuelle de la mesure.
+
+Les éléments, visés à l'alinéa 1er, 1°, 2°, 3° et 6°, sont également expliqués oralement à l'intéressé, pour autant que cela soit raisonnablement possible.
+
+Par dérogation aux alinéas 1er et 2, en cas d'extrême urgence, les éléments, visés à l'alinéa 1er, peuvent également être expliqués oralement à l'intéressé, à condition que les mesures soient sanctionnées par écrit dans un délai de cinq jours ouvrables.
+
+§ 5. Chaque intéressé a l'obligation de communiquer aux fonctionnaires, visés au paragraphe 1er, les informations complémentaires que les fonctionnaires jugent nécessaires pour ordonner les mesures adaptées à la situation.
+
+§ 6. S'il n'est pas donné suite dans le délai, visé au paragraphe 4, alinéa 1er, 3°, aux ordres, visés au paragraphe 3, alinéa 1er, les fonctionnaires, visés au paragraphe 1er, peuvent exécuter ou faire exécuter d'office les mesures nécessaires.
+
+§ 7. Si les mesures ordonnées, visées au paragraphe 3, ne sont pas respectées, les fonctionnaires, visés au paragraphe 1er, sans préjudice des compétences des fonctionnaires de surveillance qui sont désignés dans le cadre du titre XVI du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, sont habilités à dresser un procès-verbal. Les procès-verbaux font foi jusqu'à preuve du contraire. Une copie de ce procès-verbal est adressée à l'intéressé dans les cinq jours ouvrables. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/49, art. 21, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 54
+
+§ 1er. Le Gouvernement flamand peut créer un réseau de surveillance de l'exposition mesurée dans l'homme et/ou de surveillance des effets des facteurs physiques et chimiques sur la population, dans le but de pouvoir prendre des mesures visant à protéger la santé publique.
+
+§ 2. Le Gouvernement flamand prend au moins les mesures visant à développer et exécuter un programme de surveillance biologique.
+
+[<sup>1</sup> § 2/1. Le Gouvernement flamand peut prendre une initiative afin de développer et d'exécuter un programme visant à déterminer l'exposome.
+
+§ 2/2. Le Gouvernement flamand prend l'initiative de créer un réseau de données de santé environnementale. ]<sup>1</sup>
+
+§ 3. En exécution du § 1er, le Gouvernement flamand peut créer un fonds et déterminer le fonctionnement, l'ampleur et le mode de financement de ce fonds. Une contribution financière obligatoire peut être imposée à cet effet à charge d'entreprises et/ou citoyens qui sont coresponsables de la présence de facteurs physiques ou chimiques qui sont nuisibles à la santé.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/49, art. 22,1°, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 55
+
+Le Gouvernement flamand prend des initiatives qui, en ce qui concerne les facteurs physiques ou chimiques, facilitent ou permettent une politique à facettes, au moins en ce qui concerne les établissements de soins, les loisirs aquatiques, la mobilité et le logement.
+
+#### Section III. - Initiatives relatives aux facteurs spatiaux et matériels.
+
+###### Art. 56
+
+Dans le cadre de sa politique à facettes, le Gouvernement flamand peut prendre des initiatives relatives aux facteurs spatiaux et matériels. Ces initiatives concernent entre autres :
+
+1° la planification ou l'aménagement de l'environnement matériel et spatial afin de promouvoir la qualité de la vie et/ou prévenir des atteintes à la santé;
+
+2° le dépistage de facteurs matériels et spatiaux qui constituent une menace pour la santé.
+
+#### Section IV. [<sup>1</sup> Initiatives relatives à l'impact sur la santé du changement climatique ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/49, art. 24, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 56/1
+
+[<sup>1</sup> Le Gouvernement flamand peut prendre des initiatives afin de détecter, prévenir et lutter contre l'impact sur la santé du changement climatique.
+
+Les initiatives, visées à l'alinéa 1er, ont trait, entre autres :
+
+1° à l'analyse de l'impact sur la santé ;
+
+2° à la surveillance de l'impact sur la santé du changement climatique ;
+
+3° aux aspects liés à la santé de l'atténuation du changement climatique et l'adaptation à celui-ci ;
+
+4° à la sensibilisation.
+
+Le Gouvernement flamand prend au moins des initiatives afin de développer et exécuter un plan santé climat. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/49, art. 24, 018; En vigueur : 17-06-2024&gt;
+
+### CHAPITRE II. - Initiatives relatives aux facteurs du style de vie.
+
+###### Art. 57
+
+Le Gouvernement flamand prend des initiatives visant à promouvoir l'exercice physique qui contribue à la santé. Ces initiatives concernent entre autres :
+
+1° l'incitation à des formes saines d'exercice physique afin de lutter contre le manque d'exercice physique et/ou de prévenir des blessures ou d'autres formes d'atteintes à la santé;
+
+2° le dépistage de menaces pour la santé à cause d'un manque d'exercice physique ou à cause de formes malsaines d'exercice physique.
+
+###### Art. 58
+
+Le Gouvernement flamand prend des initiatives visant à promouvoir des habitudes alimentaires saines. Ces initiatives concernent entre autres :
+
+1° l'incitation à des habitudes alimentaires saines visant à permettre le fonctionnement normal de la personne et/ou à prévenir des atteintes à la santé;
+
+2° le dépistage de menaces pour la santé, à cause d'habitudes alimentaires malsaines.
+
+###### Art. 59
+
+Le Gouvernement flamand prend des initiatives visant à prévenir des accidents. Ces initiatives concernent entre autres l'incitation au comportement sûr, aussi bien dans la sphère publique que dans la sphère privée.
+
+###### Art. 60
+
+Le Gouvernement flamand prend des initiatives visant à promouvoir une denture saine. Ces initiatives concernent entre autres :
+
+1° l'incitation à de bons soins dentaires;
+
+2° le dépistage de menaces pour une denture saine.
+
+###### Art. 61
+
+Le Gouvernement flamand prend des initiatives visant à promouvoir la santé sexuelle. Ces initiatives concernent entre autres :
+
+1° l'incitation au bon comportement sexuel actuel ou futur;
+
+2° le dépistage de menaces pour la santé à cause du comportement sexuel.
+
+###### Art. 62
+
+Le Gouvernement flamand prend des initiatives visant à promouvoir une gestion adéquate du stress. Ces initiatives concernent entre autres la prévention ou la limitation du stress et/ou le fait d'apprendre à mieux gérer le stress.
+
+###### Art. 63
+
+Le Gouvernement flamand prend des initiatives visant à prévenir ou limiter les atteintes à la santé à cause de l'usage de substances et le jeu de hasard. Ces initiatives concernent entre autres :
+
+1° la prévention de l'usage de substances problématique ou de la dépendance du jeu de hasard;
+
+2° le dépistage de l'usage de substances problématique ou de la dépendance du jeu de hasard.
+
+### CHAPITRE III. - Initiatives relatives aux facteurs ambiants sociaux.
+
+###### Art. 64
+
+Le Gouvernement flamand peut prendre des initiatives visant à supporter un environnement social qui promeut la santé et à prévenir des facteurs menaçant dans l'environnement social. Ces initiatives peuvent [<sup>1</sup> entre autres]<sup>1</sup> concerner :
+
+1° l'environnement scolaire;
+
+2° l'environnement du travail;
+
+3° l'entourage.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 13, 006; En vigueur : 01-01-2017&gt;
+
+## TITRE VI. - Initiatives relatives aux facteurs endogènes.
+
+### CHAPITRE Ier. - Initiatives relatives aux facteurs génétiques.
+
+###### Art. 65
+
+Le Gouvernement flamand prend des initiatives visant à prévenir ou limiter les atteintes à la santé causées par des facteurs génétiques. Ces initiatives visent entre autres à :
+
+1° offrir la possibilité de dépister la présence d'affections génétiques en vue de la prévention d'affections chez les descendants :
+
+a) auprès des personnes visées à l'article 8, si elles en font la demande et en cas de risque augmenté;
+
+b) auprès de groupes de population définis au préalable;
+
+2° offrir la possibilité de dépister la prédisposition aux maladies et affections génétiques en vue de la prévention ou la limitation d'atteintes a la santé auprès des personnes examinées.
+
+### CHAPITRE II. - Initiatives relatives aux facteurs acquis.
+
+###### Art. 66
+
+Le Gouvernement flamand prend des initiatives visant à prévenir ou limiter les atteintes à la santé causées par des facteurs acquis. Ces initiatives concernent entre autres le dépistage de risques relatifs aux facteurs acquis en vue de la prévention de certaines maladies et affections, visées aux articles 67 à 72 inclus.
+
+## TITRE VII. - Initiatives qui visent des maladies et affections spécifiques.
+
+###### Art. 67
+
+Le Gouvernement flamand prend des initiatives visant à prévenir des maladies cardio-vasculaires. Ces initiatives peuvent [<sup>1</sup> entre autres]<sup>1</sup> concerner :
+
+1° la prévention des maladies cardio-vasculaires en intervenant sur les déterminants et sources de danger ou facteurs menaçants;
+
+2° le dépistage de maladies cardio-vasculaires dans un stade aussi précoce que possible.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 13, 006; En vigueur : 01-01-2017&gt;
+
+###### Art. 68
+
+Le Gouvernement flamand prend des initiatives visant à prévenir le cancer. Ces initiatives peuvent [<sup>1</sup> entre autres]<sup>1</sup> concerner :
+
+1° la prévention du cancer en intervenant sur les déterminants et sources de danger ou facteurs menaçants;
+
+2° le dépistage du cancer dans un stade aussi précoce que possible.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 13, 006; En vigueur : 01-01-2017&gt;
+
+###### Art. 68/1.
+
+[<sup>1</sup> § 1er. Dans le présent article, on entend par :
+
+1° médecin désigné : le médecin désigné par le participant comme médecin pouvant être contacté dans le cadre du dépistage du cancer et avec lequel les résultats du participant issus du dépistage du cancer peuvent être partagés ;
+
+2° parent : le père, la mère, le frère, la soeur ou l'enfant d'un participant ;
+
+3° dépistage du cancer : un dépistage du cancer dans la population organisé à l'initiative du Gouvernement flamand, au sens de l'article 31, § 1er ;
+
+4° participant : une personne qui participe à un dépistage du cancer ;
+
+5° médecin référent : le médecin qui a renvoyé le participant vers le dépistage du cancer ;
+
+6° médecin gestionnaire du DMG : le médecin qui gère le dossier médical global du participant ;
+
+7° cancer in situ : une tumeur qui ne s'est pas propagée ou n'a pas envahi les tissus environnants ;
+
+8° cancer d'intervalle : un cancer détecté entre deux examens de dépistage consécutifs. Il peut s'agir d'un cancer in situ ou d'un cancer invasif ;
+
+9° cancer invasif : une tumeur qui a envahi les tissus environnants ;
+
+10° organisation qui assure un dépistage du cancer sur la base d'une convention : une organisation qui, sur la base d'une convention, accomplit des tâches organisationnelles pour le compte de l'Autorité flamande dans le cadre d'un dépistage flamand du cancer ;
+
+11° personne qui effectue l'examen de dépistage : toute personne, à l'exception du participant, qui prélève ou analyse des échantillons ou des images dans le cadre du dépistage du cancer ;
+
+12° examen de dépistage : tout examen visant à détecter une maladie ou une affection, ou des facteurs de risque, des stades précurseurs ou des complications de celles-ci, chez une ou plusieurs personnes, qui n'est pas effectué à la suite de plaintes formulées de manière spontanée et liées à la maladie ou à l'affection détectée ou aux facteurs de risque, aux stades précurseurs ou aux complications de celles-ci ;
+
+13° groupe cible intégral : les personnes qui, sur la base de critères, peuvent être éligibles pour participer au dépistage du cancer.
+
+Le Gouvernement flamand peut fixer les critères visés à l'alinéa 1er, 13°.
+
+Le Gouvernement flamand peut fixer des critères d'exclusion sur la base desquels des personnes faisant partie du groupe cible intégral peuvent être exclues du dépistage du cancer.
+
+Les personnes qui font partie du groupe cible intégral, qui ne sont pas activement invitées à participer au dépistage du cancer, mais qui ne sont pas exclues sur la base des critères d'exclusion visés à l'alinéa 3, peuvent participer au dépistage du cancer.
+
+§ 2. En vue de la réalisation et de l'évaluation des dépistages de cancer, l'administration, l'organisation qui assure un dépistage de cancer sur la base d'une convention ou les personnes qui effectuent l'examen de dépistage peuvent traiter les données à caractère personnel des personnes suivantes :
+
+1° les personnes qui font partie du groupe cible intégral et les personnes qui feront partie du groupe cible intégral dans un délai d'un an ;
+
+2° les participants.
+
+La Communauté flamande ou l'organisation qui assure les dépistages de cancer sur la base d'une convention met à disposition un système d'enregistrement afin de réaliser et d'évaluer le dépistage de la population visé à l'alinéa 1er.
+
+§ 3. En vue de la sélection et de l'invitation de personnes à participer à un dépistage du cancer, les données suivantes peuvent être traitées concernant les personnes qui font partie du groupe cible intégral et les personnes qui feront partie du groupe cible intégral dans un délai d'un an :
+
+1° les données à caractère personnel permettant d'identifier la personne, y compris le numéro de registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° nom et prénom ;
+
+3° date de naissance ;
+
+4° sexe ;
+
+5° le cas échéant, la date de décès ;
+
+6° les données suivantes relatives aux invitations précédentes au dépistage du cancer et aux participations précédentes au dépistage du cancer :
+
+a) les dates précédentes des invitations au dépistage du cancer ;
+
+b) les dates précédentes des participations au dépistage du cancer ;
+
+c) le cas échéant, les refus antérieurs de participer au dépistage de cancer ;
+
+d) la date et le type des examens de dépistage et les résultats des examens de dépistage effectués chez la personne faisant partie du groupe cible intégral, et qui ont une incidence sur l'intervalle de dépistage ;
+
+e) le cas échéant, le suivi proposé après un résultat de dépistage anormal antérieur ;
+
+7° la date et le type des immunisations administrées à la personne faisant partie du groupe cible intégral, qui ont une incidence sur l'intervalle de dépistage ;
+
+8° la date et le type d'examens et de traitements pertinents que la personne faisant partie du groupe cible intégral a subis en dehors du dépistage du cancer, et qui ont une incidence sur l'intervalle de dépistage, ainsi que les diagnostics médicaux pertinents relatifs à la maladie dépistée dans le cadre du dépistage du cancer en question ;
+
+9° les coordonnées suivantes :
+
+a) résidence principale ;
+
+b) adresse e-mail ;
+
+c) numéro de GSM ou de téléphone ;
+
+d) les données nécessaires pour contacter la personne via l'eBox, figurant à l'article 2, 3°, de la loi du 27 février 2019 relative à l'échange électronique de messages par le biais de l'eBox ;
+
+10° les données suivantes du médecin gestionnaire du DMG, du médecin référent ou du médecin désigné :
+
+a) nom et prénom ;
+
+b) adresse ;
+
+c) numéro INAMI ;
+
+11° le cas échéant, la date et le lieu de l'invitation.
+
+L'administration ou l'organisation qui assure le dépistage de cancer prend les mesures organisationnelles et techniques nécessaires pour limiter l'accès aux données visées à l'alinéa 1er, 8°, par l'administration et l'organisation qui assure le dépistage de cancer, de manière à ce qu'elles ne puissent voir que le résultat de la sélection effectuée sur la base de ces données.
+
+Les données visées à l'alinéa 1er, 8°, ne sont pas enregistrées dans le système d'enregistrement visé au paragraphe 2, alinéa 2, pour la finalité visée à l'alinéa 1er.
+
+Toute personne peut demander à ne pas être invitée à participer à un ou plusieurs dépistages de cancer. Dans ce cas, outre les données visées à l'alinéa 1er, la demande de ne pas être invité et le dépistage en question sont enregistrés.
+
+§ 4. En vue de l'examen de dépistage des participants et de l'interprétation du résultat de cet examen, les données à caractère personnel suivantes des participants peuvent être traitées :
+
+1° les données à caractère personnel permettant d'identifier la personne, y compris le numéro de registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° nom et prénom ;
+
+3° date de naissance ;
+
+4° sexe ;
+
+5° résidence principale ;
+
+6° le cas échéant, la date du décès ;
+
+7° les données relatives à la date prévue du dépistage ;
+
+8° les résultats des questions posées au participant concernant :
+
+a) les antécédents pertinents du participant ;
+
+b) si un parent du participant a ou avait connaissance d'un diagnostic de cancer pour le cancer faisant l'objet du dépistage. Aucune donnée d'identité, coordonnée ou autre donnée à caractère personnel de ce parent n'est enregistrée, à l'exception du fait que le parent a ou avait connaissance du cancer en question ;
+
+9° la prise de médicaments pertinents pour l'interprétation du résultat de l'examen dans le cadre du dépistage du cancer ;
+
+10° les données suivantes relatives à l'immunisation :
+
+a) les dates d'immunisation ;
+
+b) le statut immunitaire contre le cancer faisant l'objet du dépistage ;
+
+c) le type de médicament préventif administré ;
+
+11° les données pertinentes suivantes concernant tous les examens de dépistage qui ont été et sont effectués sur le participant :
+
+a) la date de l'examen de dépistage ;
+
+b) le lieu de l'examen de dépistage ;
+
+c) le résultat de l'examen de dépistage ;
+
+d) le cas échéant, le nom de la personne qui a effectué l'examen de dépistage. Les données à caractère personnel suivantes peuvent être traitées concernant la personne qui a effectué l'examen de dépistage :
+
+1\) nom et prénom ;
+
+2\) numéro INAMI ;
+
+3\) les coordonnées suivantes :
+
+i) adresse ;
+
+ii) numéro de téléphone ;
+
+iii) adresse e-mail ;
+
+12° les autorisations du participant concernant le traitement des données à caractère personnel pour des finalités autres que celles figurant au présent article.
+
+Lorsque les prestations dans le cadre du dépistage du cancer relèvent d'un régime de tiers payant, les données relatives au régime de tiers payant et à la mutualité à laquelle le participant est affilié peuvent également être traitées.
+
+§ 5. Les résultats de l'examen de dépistage peuvent être communiqués au participant et au médecin gestionnaire du DMG, au médecin désigné ou au médecin référent.
+
+Aux fins de la communication des résultats de l'examen de dépistage, les données à caractère personnel suivantes peuvent être traitées :
+
+1° les données à caractère personnel permettant d'identifier le participant, y compris le numéro de registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° les nom et prénom du participant ;
+
+3° le cas échéant, la date de décès ;
+
+4° les coordonnées suivantes du participant :
+
+a) résidence principale ;
+
+b) l'adresse e-mail et l'autorisation de la personne à utiliser son adresse e-mail dans le cadre du dépistage du cancer ;
+
+c) numéro de GSM ou de téléphone ;
+
+d) les données nécessaires pour contacter la personne via l'eBox, figurant à l'article 2, 3°, de la loi du 27 février 2019 relative à l'échange électronique de messages par le biais de l'eBox ;
+
+5° les coordonnées suivantes du médecin référent, du médecin désigné ou du médecin gestionnaire du DMG :
+
+a) nom et prénom ;
+
+b) adresse ;
+
+c) numéro INAMI.
+
+Aux fins de la communication des résultats de l'examen de dépistage, les données à caractère personnel suivantes peuvent être transmises :
+
+1° les données à caractère personnel permettant d'identifier le participant, y compris le numéro de registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° les nom et prénom du participant ;
+
+3° les résultats de l'examen de dépistage, figurant au paragraphe 4, alinéa 1er, 11° ;
+
+4° la date de participation au dépistage du cancer ;
+
+5° l'avis concernant la réalisation d'un examen complémentaire, le cas échéant ;
+
+6° dans le cadre du dépistage du cancer du sein, les données à caractère personnel suivantes peuvent également être transmises au médecin référent, au médecin désigné ou au médecin gestionnaire du DMG :
+
+a) la densité du tissu mammaire ;
+
+b) la localisation de l'anomalie, le cas échéant.
+
+§ 6. Afin de garantir le suivi correct d'un résultat de dépistage anormal, le médecin gestionnaire du DMG, la personne qui a effectué l'examen de dépistage ou le participant peuvent être contactés.
+
+En vue du contact visé à l'alinéa 1er, les données suivantes peuvent être traitées et transmises :
+
+1° les données à caractère personnel permettant d'identifier le participant, y compris le numéro de registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° les nom et prénom du participant ;
+
+3° les coordonnées suivantes du participant chez lequel un résultat de dépistage anormal a été constaté :
+
+a) résidence principale et adresse ;
+
+b) l'adresse e-mail et l'autorisation de la personne à utiliser son adresse e-mail dans le cadre du dépistage du cancer ;
+
+c) numéro de GSM ou de téléphone ;
+
+d) les données nécessaires pour contacter la personne via l'eBox, figurant à l'article 2, 3°, de la loi du 27 février 2019 relative à l'échange électronique de messages par le biais de l'eBox ;
+
+4° les résultats de l'examen de dépistage, figurant au paragraphe 4, alinéa 1er, 11° ;
+
+5° l'avis concernant la réalisation d'un examen complémentaire ;
+
+6° les données suivantes relatives à la réalisation de l'examen complémentaire, figurant au point 5° :
+
+a) le type d'examen complémentaire ;
+
+b) le délai dans lequel l'examen complémentaire a été réalisé ;
+
+7° les données suivantes de la personne qui réalise le dépistage :
+
+a) nom et prénom ;
+
+b) adresse ;
+
+c) numéro INAMI ;
+
+8° les données suivantes relatives au médecin gestionnaire du DMG :
+
+a) nom et prénom ;
+
+b) adresse ;
+
+c) numéro INAMI.
+
+§ 7. Afin d'évaluer et de surveiller les dépistages de cancer, les données à caractère personnel suivantes des personnes appartenant au groupe cible intégral peuvent être traitées :
+
+1° le numéro de registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° âge ;
+
+3° sexe ;
+
+4° résidence principale ;
+
+5° les dates d'invitation au dépistage de cancer ;
+
+6° les données suivantes relatives à la participation au dépistage de cancer :
+
+a) la date de l'examen de dépistage ;
+
+b) le lieu de l'examen de dépistage ;
+
+c) les résultats de l'examen de dépistage, figurant au paragraphe 4, alinéa 1er, 11° ;
+
+7° les diagnostics pertinents pour le type de cancer faisant l'objet du dépistage de cancer ;
+
+8° en cas de résultat de dépistage anormal, les données suivantes relatives à la réalisation de l'examen complémentaire, figurant au paragraphe 6, alinéa 2, 5° et 6° :
+
+a) le type d'examen complémentaire ;
+
+b) le délai dans lequel l'examen complémentaire a été réalisé ;
+
+9° les données suivantes relatives à l'immunisation :
+
+a) les dates d'immunisation ;
+
+b) le statut immunitaire pertinent pour le cancer faisant l'objet du dépistage ;
+
+c) le type de médicament préventif administré ;
+
+10° la mention indiquant si le participant est éligible à une intervention majorée.
+
+Les données visées à l'alinéa 1er, 7°, ne sont pas enregistrées dans le système d'enregistrement visé au paragraphe 2, alinéa 2, pour la finalité visée à l'alinéa 1er, à l'exception des données suivantes :
+
+1° les données relatives aux cancers in situ diagnostiqués chez les participants, avec la mention indiquant s'il s'agit ou non d'un cancer d'intervalle ;
+
+2° les données relatives aux cancers invasifs diagnostiqués chez les participants, avec la mention indiquant s'il s'agit ou non d'un cancer d'intervalle.
+
+L'administration et l'organisation qui assure le dépistage de cancer prennent les mesures organisationnelles et techniques nécessaires pour limiter l'accès aux données visées à l'alinéa 1er, 7°, par l'administration et l'organisation qui assure le dépistage de cancer, de manière à ce qu'elles ne puissent voir ou calculer que des indicateurs anonymisés sur la base du traitement visé à l'alinéa 1er, à l'exception des données visées à l'alinéa 2.
+
+§ 8. Les données visées au présent article peuvent être traitées pour des finalités scientifiques, après anonymisation ou au moins après pseudonymisation des données lorsque l'anonymisation ne permet pas d'atteindre la finalité scientifique.
+
+Par dérogation à l'alinéa 1er, la recherche menée par le responsable du traitement visé au paragraphe 11, ou avec son autorisation préalable, en vue de l'évaluation ou de la surveillance des dépistages de cancer est traitée conformément aux dispositions du paragraphe 7.
+
+§ 9. Les données visées au présent article peuvent être transmises aux destinataires suivants :
+
+1° la fondation Belgian Cancer Registry, créée par l'article 138 de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé ;
+
+2° le participant ;
+
+3° le médecin gestionnaire du DMG, le médecin désigné et le médecin référent.
+
+§ 10. Les données des personnes qui font partie du groupe cible intégral et des personnes qui feront partie du groupe cible intégral dans un délai d'un an, mais qui n'ont pas participé aux dépistages de cancer, sont conservées pendant dix ans au maximum après qu'elles ne font plus partie du groupe cible intégral.
+
+Les données des participants et du médecin gestionnaire du DMG, du médecin référent et du médecin désigné du participant sont conservées au maximum jusqu'à trente ans après la dernière participation au dépistage du cancer et au moins jusqu'à dix ans après qu'ils ne font plus partie du groupe cible intégral.
+
+Par dérogation aux alinéas 1er et 2, les données visées au paragraphe 7, alinéa 2, sont conservées au maximum dix ans après leur enregistrement.
+
+§ 11. L'administration est le responsable du traitement visé à l'article 4, 7), du règlement général sur la protection des données, pour le traitement des données à caractère personnel en vertu présent article. Lorsqu'une organisation assure le dépistage du cancer sur la base d'une convention de gestion, cette organisation et l'administration sont les responsables conjoints du traitement, au sens de l'article 26 du règlement précité, pour le traitement des données à caractère personnel visées au présent article.
+
+Le Gouvernement flamand peut déterminer les mesures techniques et organisationnelles que le responsable du traitement visé à l'alinéa 1er doit prendre pour protéger les données à caractère personnel conformément à l'article 32 du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/50, art. 14, 021; En vigueur : 15-01-2026&gt;
+
+###### Art. 69
+
+Le Gouvernement flamand prend des initiatives visant à prévenir les affections psychiques. Ces initiatives peuvent [<sup>1</sup> entre autres]<sup>1</sup> concerner :
+
+1° la prévention des affections psychiques en intervenant sur les déterminants et sources de danger ou facteurs menaçants;
+
+2° le dépistage des affections psychiques dans un stade aussi précoce que possible.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 13, 006; En vigueur : 01-01-2017&gt;
+
+###### Art. 70
+
+Le Gouvernement flamand prend des initiatives visant à prévenir les affections congénitales. Ces initiatives peuvent [<sup>1</sup> entre autres]<sup>1</sup> concerner :
+
+1° la prévention des affections congénitales en intervenant sur les déterminants et sources de danger ou facteurs menaçants;
+
+2° le fait d'offrir la possibilité de dépister des affections congénitales, génétiques ou non, dans un stade aussi précoce que possible.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 13, 006; En vigueur : 01-01-2017&gt;
+
+###### Art. 71
+
+Le Gouvernement flamand prend des initiatives visant à prévenir des troubles sensoriels et des troubles du développement. Ces initiatives peuvent [<sup>1</sup> entre autres]<sup>1</sup> concerner :
+
+1° la prévention des troubles sensoriels et des troubles du développement en intervenant sur les déterminants et sources de danger ou facteurs menaçants;
+
+2° le dépistage des troubles sensoriels et des troubles du développement dans un stade aussi précoce que possible.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 13, 006; En vigueur : 01-01-2017&gt;
+
+###### Art. 72
+
+Le Gouvernement flamand peut prendre des initiatives visant à prévenir d'autres maladies ou affections que celles visées aux articles 67 a 71 inclus.
+
+## TITRE VIII. [<sup>1</sup> - Fondement de la politique de santé préventive]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 14, 006; En vigueur : 01-01-2017&gt;
+
+###### Art. 73
+
+[<sup>1</sup> Les initiatives et mesures visées aux articles 39 à 72 inclus et à l'article 74, sont prises sur la base d'informations scientifiques fondées et visent à réaliser un gain de santé au niveau de la population flamande à des coûts socialement acceptables ou à augmenter l'efficacité de la politique de santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 15, 006; En vigueur : 01-01-2017&gt;
+
+###### Art. 73/1
+
+[<sup>1</sup> Les initiatives et mesures, visées aux articles 51, 52, 53, 53/1, 53/2, 53/3 et 55, sont promulguées après une analyse de causalité préalable de la relation entre le facteur physique ou chimique concerné et les effets possibles sur la santé du facteur concerné.
+
+Dans l'analyse de causalité, visée à l'alinéa 1er, il est tenu compte des critères suivants :
+
+1° le niveau de dépendance entre le facteur et l'effet sur la santé ;
+
+2° la régularité avec laquelle la dépendance a déjà été constatée ;
+
+3° la spécificité du lien entre le facteur et l'effet sur la santé ;
+
+4° la temporalité, dans le cadre de laquelle le facteur précède l'effet sur la santé ;
+
+5° le déroulement biologique de la dépendance ;
+
+6° la plausibilité de la dépendance ;
+
+7° la cohérence de la dépendance ;
+
+8° la preuve expérimentale présente pour la dépendance.
+
+Les initiatives et mesures, visées aux articles 53, 53/2 et 53/3, sont étayées au moyen d'une évaluation de l'impact sur la santé environnementale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/49, art. 25, 018; En vigueur : 17-06-2024&gt;
+
+## TITRE IX. - Initiatives relatives à des catégories d'âge ou des phases de développement specifiques.
+
+###### Art. 74
+
+En application de l'article 6, le Gouvernement flamand peut prendre des initiatives qui s'adressent entre autres aux femmes enceintes, aux jeunes enfants, aux enfants scolarisés, à la population active et/ou aux personnes âgées.
+
+###### Art. 75
+
+Les mesures prises en exécution [<sup>1</sup> du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique [<sup>2</sup> " Opgroeien regie "]<sup>2</sup>]<sup>1</sup> et du décret du 1er décembre 1998 relatif aux centres d'encadrement des éleves, qui concernent les soins de santé préventifs, doivent correspondre aux dispositions du présent décret et de ses arrêtés d'exécution.
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 21, 004; En vigueur : 16-04-2009&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 3, 011; En vigueur : 18-04-2019&gt;
+
+## TITRE IXbis. [<sup>1</sup> - Agrément de divisions de contrôle médical de services externes pour la prévention et la protection au travail, de départements de contrôle médical de services internes pour la prévention et la protection au travail et de services internes communs pour la prévention et la protection au travail]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2009-03-20/36, art. 22, 004; En vigueur : 12-09-2009&gt;
+
+###### Art. 75bis
+
+[<sup>1</sup> § 1er. Le Gouvernement flamand agrée des divisions de contrôle médical de services externes pour la prévention et la protection au travail, des départements de contrôle médical de services internes pour la prévention et la protection au travail et de services internes communs pour la prévention et la protection au travail. Cela se fait conformément aux dispositions de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail.
+
+Le Gouvernement flamand arrête la durée de l'agrément et les règles pour l'octroi, la suspension et le retrait de l'agrément.
+
+§ 2. Les divisions et département agréés, visés au § 1er, doivent rendre des comptes et sont soumis à un contrôle. Le Gouvernement flamand peut arrêter les modalités à cet effet.
+
+§ 3. Le Gouvernement flamand établit un groupe de travail flamand en matière de soins de santé au travail, dans lequel sont représentés au moins les organisations patronales, les organisations syndicales et d'autres experts en matière de soins de santé au travail.
+
+La mission du groupe de travail, visé à l'alinéa premier, consiste en tout cas à :
+
+1° conseiller le Gouvernement flamand, sur sa demande ou à l'initiative propre du groupe de travail, sur les soins de santé au travail en général;
+
+2° conseiller le Gouvernement flamand, sur sa demande ou à l'initiative propre du groupe de travail, sur les projets de réglementation en exécution du présent article et en exécution de l'article 80, § 1er, alinéa deux;
+
+3° conseiller le Gouvernement flamand sur tous les dossiers concrets relatifs au § 1er, en vue d'une décision d'agrément ou en vue d'une intention de refus, de suspension ou de retrait de l'agrément.
+
+Le Gouvernement flamand peut confier des missions supplémentaires au groupe de travail.
+
+Le Gouvernement flamand détermine la composition, les modalités de fonctionnement et le financement du groupe de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2009-03-20/36, art. 22, 004; En vigueur : 12-09-2009&gt;
+
+## TITRE X. - Sanctions.
+
+### CHAPITRE Ier. - Sanctions administratives.
+
+#### Section Ire. - Amende administrative.
+
+###### Art. 76
+
+§ 1er. Une amende administrative de 100 à 100.000 euros peut être imposée à toute personne qui n'observe pas une des obligations suivantes :
+
+1° [<sup>2</sup> organiser, exécuter ou encourager un dépistage de population tel que visé à l'article 31, § 2, ou coopérer à l'organisation, exécuter ou encourager un dépistage de population, sans qu'une autorisation ait été autorisée pour le dépistage de population concerné;]<sup>2</sup>
+
+2° échanger des informations dans le cadre du système d'informations épidémiologiques, tel que visé à l'article 32, § 2;
+
+3° utiliser un code d'identification pour l'échange d'informations, tel que visé à l'article 33;
+
+4° se justifier ou se soumettre à un contrôle, tel que visé à l'article 36 [<sup>1</sup> et à l'article 75bis, § 2]<sup>1</sup> ;
+
+5° collaborer au système d'enregistrement, [<sup>4</sup> visé à l'article 43/1]<sup>4</sup>;
+
+[<sup>4</sup> 5° /1 établir des rapports anonymisés sur les maladies infectieuses, visées à l'article 44, § 3, 4° ;]<sup>4</sup>
+
+6° [<sup>3</sup> déclarer des maladies infectieuses, tel que visé à l'article 45, § 1er ; § 1.]<sup>3</sup>;
+
+7° communiquer des informations supplémentaires au fonctionnaire-médecin et au fonctionnaire, tel que visé à l'article 48.
+
+[<sup>5</sup> § 1er/1. Une amende administrative de 100 euros minimum et de 1 000 euros maximum peut être infligée aux personnes suivantes qui ne respectent pas l'obligation de coopérer à la recherche, figurant à l'article 45/2, § 1er, et entravent ainsi la recherche des sources et le suivi des contacts :
+
+1° les personnes infectées ;
+
+2° les personnes qui ont été en contact avec la personne infectée ou une autre source de contamination ;
+
+3° les personnes responsables des lieux ou des activités où la personne infectée est entrée en contact avec d'autres personnes dès lors susceptibles d'avoir été contaminées par la maladie infectieuse, ou où des personnes sont entrées en contact avec une autre source de contamination, ces personnes étant dès lors susceptibles d'avoir été contaminées par la maladie infectieuse.
+
+L'amende administrative visée à l'alinéa 1er n'est infligée aux personnes concernées qu'après que le fonctionnaire-médecin leur a expliqué l'intérêt de coopérer à la recherche.]<sup>5</sup>
+
+§ 2. Le montant de l'amende administrative est fixé souverainement par l'administration en tenant compte de la gravité des infractions aux dispositions.
+
+§ 3. Cette amende ne peut être imposée qu'après que :
+
+1° la personne concernée a reçu une sommation écrite de l'administration à se mettre en ordre;
+
+2° la personne en question ne s'est pas mis en ordre dans le délai fixé par l'administration;
+
+3° la personne concernée a été invitée à être entendue par l'administration.
+
+§ 4. Le Gouvernement flamand arrête les modalités de l'imposition et du paiement de l'amende administrative. Il désigne les fonctionnaires habilités à imposer l'amende.
+
+§ 5. Si une amende n'est pas payée, elle sera réclamée sous contrainte. Le Gouvernement flamand désigne les fonctionnaires habilités à délivrer une contrainte et la déclarer exécutoire. Une contrainte est signifiée par exploit d'huissier avec injonction de payer.
+
+§ 6. La requête en paiement de l'amende administrative se prescrit après cinq ans, à compter du jour où elle s'est formée. La prescription est interrompue selon le mode et aux conditions fixés à l'article 2244 et suivants du Code civil.
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 23, 004; En vigueur : 12-09-2009&gt;
+
+(2)&lt;DCFL 2016-07-15/17, art. 16, 006; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCFL 2022-12-23/14 , art. 5, 017; En vigueur : 01-01-2024&gt;
+
+(4)&lt;DCFL 2024-04-26/49, art. 26, 018; En vigueur : 17-06-2024&gt;
+
+(5)&lt;DCFL 2025-07-18/50, art. 15, 021; En vigueur : 15-01-2026&gt;
+
+#### Section II. - Retenue ou recouvrement de subventions.
+
+###### Art. 77
+
+§ 1er. Le subvention peut être retenue ou recouvrée entièrement ou partiellement si :
+
+1° aucune attention particulière n'est accordée aux groupes de population et à l'accessibilité, tel que visé à l'article 7;
+
+2° aucune collaboration n'est apportée à la réalisation des objectifs de santé, tel que visé a l'article 19, § 1er;
+
+3° le Logo n'agit pas conformément à l'article 30, § 3, deuxième alinéa;
+
+4° les subventions sont utilisées pour d'autres missions que celles visées à l'article 37;
+
+5° l'obligation de faire connaître les autres moyens financiers, tel que visé à l'article 38, § 1er, n'est pas respectée.
+
+§ 2. Le montant de la retenue ou du recouvrement de la subvention est fixé souverainement par l'administration en tenant compte de la gravité des infractions à ces dispositions.
+
+§ 3. La retenue ou le recouvrement de la subvention ne peut être effectuée qu'après que :
+
+1° la personne concernée a reçu une sommation écrite de l'administration à se mettre en ordre;
+
+2° la personne en question ne s'est pas mise en ordre dans le délai fixé par l'administration;
+
+3° la personne concernée a été invitée à être entendue par l'administration.
+
+#### Section III. - Suspension ou retrait de l'agrément.
+
+###### Art. 78
+
+§ 1er. L'agrément d'un Logo, d'une organisation partenaire, d'une organisation oeuvrant sur le terrain ou d'un prestataire de soins individuel peut être suspendu ou retiré s'ils ne remplissent pas ou ne remplissent plus les obligations résultant du présent décret.
+
+§ 2. Un agrément ne peut être suspendu ou retiré qu'après que :
+
+1° la personne concernée a reçu une sommation écrite de l'administration à se mettre en ordre;
+
+2° la personne en question ne s'est pas mise en ordre dans le délai fixé par l'administration;
+
+3° la personne concernée a été invitée à être entendue par l'administration.
+
+### CHAPITRE II. - Sanctions.
+
+###### Art. 79
+
+Sans préjudice de l'application des sanctions fixées dans le Code pénal, sont punis d'une amende [<sup>1</sup> de 26 à 500 euros]<sup>1</sup> et d'un emprisonnement de huit jours à six mois, ou de l'une de ces peines seulement :
+
+1° ceux qui ne donnent pas suite aux mesures de contrainte [<sup>2</sup> visées à l'article 41, §§ 1er, 5 et 6 [<sup>3</sup> et à l'article 47]<sup>3</sup>]<sup>2</sup> ou qui empêchent ou entravent leur exécution ou respect;
+
+2° ceux qui empêchent ou entravent l'accès visé à l'article 41, § 3, et à l'article 46, 2°;
+
+3° ceux qui empêchent ou entravent l'exercice des compétences du fonctionnaire ou qui empêchent ou entravent le fonctionnaire dans l'exécution de l'article 41, § 4, et 46, 3°;
+
+4° ceux qui n'exécutent ou ne respectent pas la décision après le recours, visée à l'article 81, § 3, ou qui empêchent ou entravent son exécution ou respect.
+
+[<sup>4</sup> 5° ceux qui ne respectent pas l'obligation de déclaration de maladies infectieuses, visée à l'article 45, § 1er ;
+
+6° ceux qui ne donnent pas suite aux ordres ou mesures de contrainte, visés à l'article 41, § 5/1, ou à l'article 47/1.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2013-06-21/17, art. 74, 005; En vigueur : 24-08-2013&gt;
+
+(2)&lt;DCFL 2020-12-18/04, art. 6, 010; En vigueur : 12-01-2021&gt;
+
+(3)&lt;DCFL 2023-04-28/02, art. 6, 016; En vigueur : 26-04-2023&gt;
+
+(4)&lt;DCFL 2024-04-26/49, art. 27, 018; En vigueur : 17-06-2024&gt;
+
+###### Art. 79/1
+
+[<sup>1</sup> Sans préjudice de l'application des sanctions fixées dans le Code pénal, sont punis d'une amende de 26 à 500 euros et d'un emprisonnement de huit jours à six mois, ou de l'une de ces peines seulement, ceux qui ne donnent pas suite aux ordres ou aux mesures de contraintes, visés à l'article 53/2 ou à l'article 53/3. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/49, art. 28, 018; En vigueur : 17-06-2024&gt;
+
+## TITRE XI. - Procédures de recours.
+
+### CHAPITRE Ier. - Procédure de recours devant le Conseil consultatif flamand pour l'agrément des établissements de soins.
+
+CHAPITRE Ier. DROIT FUTUR
+
+\- Procédure de recours devant [<sup>1</sup> la Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille]<sup>1</sup> .
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 24, 004; En vigueur : indéterminée &gt;
+
+###### Art. 80
+
+§ 1er. En ce qui concerne les Logos, les organisations partenaires, et le cas échéant, les organisations oeuvrant sur le terrain et les prestataires de soins individuels, le Gouvernement flamand règle la procédure en matière d'agrément et en matière de suspension et de retrait de l'agrément.
+
+[<sup>1</sup> En ce qui concerne les divisions de contrôle médical de services externes pour la prévention et la protection au travail, les départements de contrôle médical de services internes pour la prévention et la protection au travail et les services internes communs pour la prévention et la protection au travail, le Gouvernement flamand règle la procédure d'agrément, de suspension et de retrait de l'agrément.]<sup>1</sup>
+
+§ 2. Le Conseil consultatif flamand pour l'agrément des établissements de soins, créé par le décret du 20 décembre 1996 portant création d'un Conseil flamand de la Santé et d'un Conseil consultatif flamand pour l'agrément des établissements de soins, rend des avis quant aux réclamations ou moyens de défense, présentés dans le cadre de ces procédures, contre l'intention de refuser, suspendre ou retirer un agrément.
+
+Art. 80. DROIT FUTUR
+
+§ 1er. En ce qui concerne les Logos, les organisations partenaires, et le cas échéant, les organisations oeuvrant sur le terrain et les prestataires de soins individuels, le Gouvernement flamand règle la procédure en matière d'agrément et en matière de suspension et de retrait de l'agrément.
+
+[<sup>1</sup> En ce qui concerne les divisions de contrôle médical de services externes pour la prévention et la protection au travail, les départements de contrôle médical de services internes pour la prévention et la protection au travail et les services internes communs pour la prévention et la protection au travail, le Gouvernement flamand règle la procédure d'agrément, de suspension et de retrait de l'agrément.]<sup>1</sup>
+
+§ 2. [<sup>2</sup> La Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille]<sup>2</sup> , rend des avis quant aux réclamations ou moyens de défense, présentés dans le cadre de ces procédures, contre l'intention de refuser, suspendre ou retirer un agrément.
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 25, 1°, 004; En vigueur : 12-09-2009&gt;
+
+(2)&lt;DCFL 2009-03-20/36, art. 25, 2°, 004; En vigueur : indéterminée &gt;
+
+### CHAPITRE II. - Procédure de recours devant un collège de recours.
+
+###### Art. 81
+
+§ 1er. Contre les mesures visées à l'article 47, [<sup>2</sup> § 1er, 1°, 1° /1 et 3°]<sup>2</sup>, l'intéressé peut introduire un recours devant un collège de recours installé par le Gouvernement flamand, par lettre motivée et recommandée qu'il adresse à l'administration. Ce recours n'est pas suspensif.
+
+§ 2. Le collège de recours se compose de trois membres indépendants qui sont experts dans le domaine des maladies contagieuses. Les membres de ce collège de recours ne peuvent pas être employés à l'administration, et ne peuvent pas être associés au traitement [<sup>1</sup> de celui ou de celle ayant reçu l'ordre]<sup>1</sup>.
+
+§ 3. Le collège de recours rend une décision imperative dans les dix jours ouvrables de la réception du recours. A défaut d'une décision dans ce délai, la mesure cesse.
+
+Le collège de recours notifie sa décision sur le recours à l'intéressé par lettre recommandée, et transmet une copie de la décision au fonctionnaire-médecin concerné.
+
+§ 4. Le Gouvernement flamand élabore les modalités de la procédure de recours, entre autres en ce qui concerne la composition du collège de recours et le mode de rémunération du collège de recours.
+
+----------
+
+(1)&lt;DCFL 2020-07-10/02, art. 5, 009; En vigueur : 13-07-2020&gt;
+
+(2)&lt;DCFL 2024-04-26/49, art. 29, 018; En vigueur : 17-06-2024&gt;
+
+## TITRE XII. - Dispositions abrogatoires et transitoires.
+
+###### Art. 82
+
+§ 1er. Les règlements suivants sont abrogés :
+
+1° le décret du 5 avril 1995 relatif à la prophylaxie des maladies contagieuses;
+
+2° le décret du 6 juillet 2001 relatif à la prévention primaire contre les effets nocifs pour l'homme des agents biologiques;
+
+§ 2. En attendant l'entrée en vigueur des arrêtés d'exécution du présent décret, la réglementation en vigueur en cette matière, qui est en vigueur au moment de l'entrée en vigueur du présent décret, reste d'application.
+
+Il s'agit de la réglementation relative :
+
+1° à la promotion de la santé;
+
+2° aux affections du métabolisme;
+
+3° au dépistage du cancer du sein;
+
+4° à la prévention primaire contre les effets nocifs pour l'homme des agents biologiques;
+
+5° à la prophylaxie des maladies contagieuses;
+
+6° aux centres de génétique humaine.
+
+###### Art. 83
+
+&lt;Abrogé par DCFL 2008-07-18/23, art. 29, 003; En vigueur : 01-01-2010&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 21 novembre 2003.
+
+Le Ministre-Président du Gouvernement flamand,
+
+B. SOMERS
+
+Le Ministre flamand de l'Emploi et du Tourisme,
+
+R. LANDUYT
+
+La Ministre flamande de l'Enseignement et de la Formation,
+
+M. VANDERPOORTEN
+
+Le Ministre flamand des Finances et du Budget, de l'Aménagement du Territoire, des Sciences et de l'Innovation technologique,
+
+D. VAN MECHELEN
+
+Le Ministre flamand des Affaires intérieures, de la Culture, de la Jeunesse et de la Fonction publique,
+
+P. VAN GREMBERGEN
+
+Le Ministre flamand de la Mobilité, des Travaux publics et de l'Energie,
+
+G. BOSSUYT
+
+Le Ministre flamand de l'Environnement, de l'Agriculture et de la Coopération au Développement,
+
+L. SANNEN
+
+La Ministre flamande de l'Aide sociale, de la Santé et de l'Egalité des Chances,
+
+A. BYTTEBIER
+
+La Ministre flamande de l'Economie, de la Politique extérieure, et de l'E-gouvernement,
+
+P. CEYSENS
+
+Le Ministre flamand de l'Habitat, des Médias et des Sports,
+
+M. KEULEN.

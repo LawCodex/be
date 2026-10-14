@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003027273/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 29-04-2003 et mise à jour au 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret relatif aux incitants financiers à la formation des travailleurs occupés par les entreprises.

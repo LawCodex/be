@@ -13,7 +13,7 @@ last_amended: 2026-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/06/28/1971062850/justel"
 justel_note: "Consultation des versions antérieures à partir du 28-01-1981 et mise à jour au 26-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 1971. - Lois relatives aux vacances annuelles des travailleurs salariés coordonnées le 28 juin 1971.

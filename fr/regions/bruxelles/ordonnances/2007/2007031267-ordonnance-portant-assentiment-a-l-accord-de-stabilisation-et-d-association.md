@@ -13,7 +13,7 @@ entry_into_force: 2007-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/06/07/2007031267/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2007. - Ordonnance portant assentiment à l'Accord de Stabilisation et d'Association entre les Communautés européennes et leurs Etats membres, d'une part, et la République d'Albanie, d'autre part, et à l'acte final, faits à Luxembourg le 12 juin 2006.

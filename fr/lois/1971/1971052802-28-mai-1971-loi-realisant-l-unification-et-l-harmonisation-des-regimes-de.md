@@ -1,0 +1,375 @@
+---
+title: "28 MAI 1971. _ Loi réalisant l'unification et l'harmonisation des régimes de capitalisation institués dans le cadre des lois relatives à l'assurance en vue de la vieillesse et du décès prématuré."
+identifier: "1971052802"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1971/05/28/1971052802/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1971-05-28
+published: 1971-06-16
+entry_into_force: 1957-07-01
+last_amended: 2005-07-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1971/05/28/1971052802/justel"
+justel_note: "Consultation des versions antérieures à partir du 30-07-1986 et mise à jour au 28-07-2005"
+retrieved: 2026-10-15
+---
+
+# 28 MAI 1971. \_ Loi réalisant l'unification et l'harmonisation des régimes de capitalisation institués dans le cadre des lois relatives à l'assurance en vue de la vieillesse et du décès prématuré.
+
+## CHAPITRE Ier. \_ Des versements obligatoires.
+
+### Art. 1
+
+Le présent chapitre s'applique à l'assurance en vue de la vieillesse et du décès prématuré afférente aux versements obligatoires qui ont été effectués au compte de chaque travailleur salarié et qui a été régie notamment par:
+
+1° l'article 11 de la loi du 21 juillet 1844 sur les droits différentiels;
+
+2° la loi du 5 juin 1911 sur les pensions de vieillesse en faveur des ouvriers mineurs;
+
+3° la loi du 10 décembre 1924 relative à l'assurance en vue de la vieillesse et du décès prématuré;
+
+4° la loi du 30 décembre 1924 relative à l'assurance en vue de la vieillesse du décès prématuré des ouvriers mineurs;
+
+5° la loi du 10 mars 1925 relative à l'assurance en vue de la vieillesse et du décès prématuré des employés;
+
+6° la loi du 18 juin 1930 portant revision de la loi du 10 mars 1925 relative à l'assurance en vue de la vieillesse et du décès prématuré des employés;
+
+7° la loi du 14 juillet 1930 portant revision de la loi du 10 décembre 1924 modifiée par celle du 20 juillet 1927 relative à l'assurance en vue de la vieillesse et du décès prématuré;
+
+8° la loi du 1er août 1930 concernant le régime de retraite des ouvriers mineurs;
+
+9° la loi du 6 juillet 1931 relative aux gens de mer;
+
+10° l'arrêté royal du 24 octobre 1936 modifiant et coordonnant les statuts de la Caisse de secours et de prévoyance en faveur des marins naviguant sous pavillon belge;
+
+11° l'arrêté royal du 25 août 1937 portant coordination des lois concernent le régime de retraite des ouvriers mineurs;
+
+12° la loi du 15 décembre 1937 relative à l'assurance en vue de la vieillesse et du décès prématuré;
+
+13° l'arrêté du Régent du 12 septembre 1946 coordonnant les lois relatives à l'assurance en vue de la vieillesse et du décès prématuré;
+
+14° l'arrêté-loi du 25 février 1947 coordonnant et modifiant les lois sur le régime de retraite des ouvriers mineurs et assimilés;
+
+15° la loi du 12 juillet 1957 relative à la pension de retraite et de survie des employés;
+
+16° la loi du 22 février 1960 modifiant la loi du 12 juillet 1957 relative à la pension de retraite et de survie des employés.
+
+### Art. 2
+
+(L'Office national des pensions) , la Caisse générale d'Epargne et de Retraite, le Fonds national de retraite des ouvriers mineurs, la (Caisse de secours et de prévoyance en faveur des marins) et les organismes visés à l'article 22 de la loi du 12 juillet 1957 sont chargés de l'application du présent chapitre. &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt; &lt;AR 1995-05-19/56, art. 9, 007; En vigueur : 13-08-1995&gt;
+
+(En vue de faire face aux obligations qui leur incombent, les organismes d'assurances visés à l'alinéa 1er, doivent constituer des réserves mathématiques. Ces réserves mathématiques sont calculées conformément à un barème déterminé par le Roi. (...) ) &lt;ARN415 1986-07-16/30, art. 17, 002&gt; &lt;L 1988-12-30/31, art. 148, 003; En vigueur : 01-01-1988&gt;
+
+L'excédent éventuel provenant de la différence entre le montant des réserves existantes et celui des réserves calculées en application de l'alinéa 2 est versé à l'((Office national des pensions)) (et affecté à la gestion de la répartition) &lt;L 10-2-1981, art. 26, 2°&gt; &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt;
+
+(L'Office national des pensions reprend les droits et obligations, le passif et l'actif, des organismes autres que lui-même visés au présent article, en ce qui concerne l'application du Chapitre I de la présente loi, aux dates suivantes :
+
+\- au plus tard le 1er janvier 1999, en ce qui concerne les organismes susvisés dont les réserves mathématiques sont inférieures à 100 000 000 de francs au 1er janvier 1998;
+
+\- au plus tard le 1er janvier 2000, en ce qui concerne les organismes susvisés dont les réserves mathématiques sont inférieures à 2 000 000 000 de francs au 1er janvier 1999;
+
+\- au plus tard le 1er janvier 2001, en ce qui concerne les organismes susvisés dont la gestion n'a pas encore été reprise à cette date par l'Office national des pensions.
+
+Le Ministre qui a les pensions dans ses attributions peut déterminer les modalités d'application de la reprise des droits et obligations, du passif et de l'actif, visés à l'alinéa 4, par l'Office national des pensions.) &lt;AR 1997-04-23/34, art. 2, 008; En vigueur : 01-06-1997&gt;
+
+### Art. 3
+
+Le montant de la rente de vieillesse est déterminé conformément aux lois et arrêtés visés à l'article 1er.
+
+Toutefois, lorsque le droit à la rente de vieillesse ne s'est pas ouvert avant le 1er janvier 1970 et que le montant de la rente a été fixé compte tenu d'une couverture du droit à un âge autre que 65 ans pour les hommes et 60 ans pour les femmes, ce montant est modifié conformément à des barèmes déterminés par le Roi en fonction d'une ouverture du droit à 65 ans ou 60 ans selon qu'il s'agit d'un homme ou d'une femme.
+
+### Art. 4
+
+Si en vertu des lois et arrêtés visés à l'article 1er, le droit à une rente de vieillesse ne s'est pas ouvert le 1er janvier 1970, la rente de vieillesse prend cours le premier jour du mois qui suit celui au cours duquel le travailleur salarié atteint l'âge de 65 ans ou de 60 ans selon qu'il s'agit d'un homme ou d'une femme.
+
+A la demande de l'assuré, la rente de vieillesse peut prendre cours au plus tôt le premier jour du mois qui suit celui d'un anniversaire de naissance à partir du cinquante-cinquième anniversaire. Dans ce cas la rente est diminuée conformément aux barèmes déterminés par le Roi.
+
+Le bénéficiaires d'une rente de vieillesse d'un montant supérieur à 4. 800 francs et prenant cours à 65 ans ou à 60 ans selon qu'il s'agit d'un ou d'une femme, peut, à sa demande, obtenir le paiement en espèces des trois septièmes au plus de la valeur actuelle de sa rente et s'il s'agit d'un bénéficiaire masculin, de la même quotité de la réserve afférente à l'assurance de la rente de veuve.
+
+Le bénéficiaire d'une rente de vieillesse prenant cours à 65 ans, s'il est célibataire, veuf ou divorcé, peut, à sa demande, obtenir la conversion en rente viagère à son profit des trois septièmes au plus de la réserve afférente à l'assurance de la rente de veuve. Cette faculté ne peut être exercée conjointement avec celle prévue à l'alinéa 3.
+
+### Art. 5
+
+Le montant de la rente de veuve ou de la rente de survie constitué au profit d'un bénéficiaire désigné est déterminé, si le droit à cette rente est ouvert avant le 1er janvier 1970 conformément aux lois et arrêtés visés à l'article 1er.
+
+### Art. 6
+
+Pour les hommes en vie au 1er janvier 1970, il est assuré en cas de décès une rente de veuve égale à 40 p.c. de la rente de vieillesse et prenant cours le premier jour du mois du décès.
+
+Pour les femmes en vie au 1er janvier 1979 qui ont conclu une assurance décès au profit d'un bénéficiaire désigné, il est assuré, en cas de décès, une rente, égale à 40 p.c. de la rente de vieillesse et prenant cours le premier jour du mois du décès pour autant que celui-ci survienne avant l'entrée en jouissance de la rente de vieillesse.
+
+En cas d'exercice de la faculté de rachat ou de conversion prévue à l'article 4, alinéa 3 ou 4, la rente de vieillesse servant de base au calcul de la rente de veuve s'obtient en multipliant la rente de vieillesse qui était constituée avant le rachat ou la conversion, par une fraction égale à la différence entre l'unité et la fraction dont il a été tenu compte pour le rachat ou la conversion. aux déterminés
+
+En cas de différence d' âge entre les époux, le taux de la rente de veuve est modifié conformément aux barèmes déterminés par le Roi; il en est de même du taux de la rente de survie en cas de différence d'âge entre l'assuré et le bénéficiaire désigné.
+
+### Art. 7
+
+§ 1er. Pour les rentes de vieillesse et de veuve qui ont pris cours avant le 1er janvier 1970, le montant de la contribution de l'Etat demeure fixé conformément aux lois et arrêté cités à l'article 1er.
+
+§ 2. ( Toute rente visée à l'article 4 ou à l'article 6 est augmentée dès sa prise de cours et pour autant que celle-ci survienne avant le 1er janvier 1994, d'une contribution annuelle de l'Etat égale à 50 % de son montant annuel. &lt;L 1993-08-06/30, art. 39, 005; En vigueur : 19-08-1993&gt;
+
+En ce qui concerne la rente de vieillesse, le montant annuel maximum de la contribution de l'Etat est fixé à 1.200 francs, lorsque cette rente prend cours à 65 ans; en cas de prise de cours à un âge antérieur, ce montant est réduit conformément aux barèmes déterminés par le Roi.
+
+En ce qui concerne les rentes visées à l'article 6, le montant maximum annuel de la contribution de l'Etat est fixé à 480 francs . En cas de différence d'âge entre les époux ou entre l'assuré et le bénéficiaire désigné, le montant annuel maximum de cette contribution est modifié conformément aux barèmes déterminés par le Roi.
+
+(§ 3. Les charges résultant de l'application des paragraphes précédents sont supportées à partir du 1er janvier 1980 par (l'Office national des pensions). (Toutefois, pour l'année 2005, elles sont supportées par le régime légal de la capitalisation.) &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt; &lt;L 2005-07-20/31, art. 11, 009; En vigueur : 07-08-2005&gt;
+
+Pour l'application de cette disposition, l'((Office national des pensions)) reprend les obligations du Ministère de la Prévoyance sociale dans l'article 10 de l'arrêté royal du 13 septembre 1971 portant exécution du chapitre Ier de la loi du 28 mai 1971 réalisant l'unification et l'harmonisation des régimes de capitalisation institués dans le cadre des lois relatives à l'assurance en vue de la vieillesse et du décès prématuré.) &lt;L 1980-08-08, art. 147; M.B. 15-08-1980&gt; &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt;
+
+### Art. 8
+
+&lt;L 10-2-1981, art. 27&gt;
+
+§ 1er. Les arrérages des avantages visés au présent chapitre sont payés :
+
+1° lorsque le dernier versement obligatoire effectué conformément aux lois et arrêtés visés à l'article 1er a été fait en qualité d'ouvrier, d'ouvrier mineur ou de marin : par la Caisse générale d'épargne et de retraite, laquelle liquide également lesdits avantages dus au bénéficiaire par un autre organisme d'assurance; le Roi peut toutefois charger l'(Office national des pensions) du paiement des avantages précités; &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt;
+
+2° lorsque ce dernier versement obligatoire a été effectué en qualité d'employé : par l'(Office national des pensions), lequel liquide également lesdits avantages dus au bénéficiaire par un autre organisme d'assurance; &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt;
+
+3° (abrogé.) &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt;
+
+§ 2. Lorsque lesdits avantages sont payés par la Caisse générale d'épargne et de retraite, les organismes d'assurance peuvent lui transférér (dans les délais et selon les modalités fixées par le Roi), les réserves mathématiques afférentes aux rentes constituées auprès d'eux, (...). &lt;ARN415 1986-07-16/30, art. 18, 1°, 002&gt; &lt;L 1988-12-30/31, art. 149, 003; En vigueur : 01-01-1988&gt;
+
+Dans les autres cas, les organismes d'assurance sont tenus de transférér à l'((Office national des pensions)), dans les délais et selon les modalités que le Roi détermine, les réserves mathématiques afférentes aux rentes constituées auprès d'eux, (...). &lt;L 1988-12-30/31, art. 149, 003; En vigueur : 01-01-1988&gt; &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt;
+
+(alinéas 3 et 4 abrogés) &lt;ARN415 1986-07-16/30, art. 18, 2°, 002&gt;
+
+(§ 3. Les réserves mathématiques, afférentes aux rentes visées au présent chapitre, ( (...) ), qui n'ont pas été réclamées par leur bénéficiaire à l'âge de 66 ans, sont transférées par les organismes d'assurances à l'(((Office national des pensions))) dans les délais et selon les modalités que le Roi détermine.) &lt;ARN 415 1986-07-16/30, art. 18, 3°, 002&gt; &lt;L 1988-12-30/31, art. 149, 003; En vigueur : 01-01-1988&gt; &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt;
+
+(§ 4. Les transferts visés aux § 2 et 3 libèrent les organismes d'assurances de toute obligation envers le bénéficiaire, la veuve ou le bénéficiaire désigné.
+
+La Caisse générale d'épargne et de retraite ou l'(Office national des pensions), selon le cas, succède à dater de ce transfert, à toutes les obligations auxquelles ces organismes d'assurance sont tenus envers les bénéficiaires d'une rente ou leurs ayants droit. &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt;
+
+L'( (Office national des pensions) ) est autorisé, avec l'accord des Ministres qui ont respectivement les pensions des travailleurs salariés et le Budget dans leurs attributions, à accorder des prêts à un organisme d'assurance visé au § 2, alinéa 2, et au § 3.) &lt;ARN415 1986-07-16/30, art. 18, 3°, 002&gt; &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt;
+
+(§ 5. Les dispositions du présent article sont applicables à l'Office national des pensions ainsi qu'aux autres organismes d'assurances visés à l'article 2 pour autant que les droits et obligations, actif et passif, de ces derniers n'ont pas été repris par l'Office national des pensions conformément à l'article 2 alinéa 4.) &lt;AR 1997-04-23/34, art. 3, 008; En vigueur : 01-06-1997&gt;
+
+### Art. 9
+
+&lt;L 10-2-1982, art. 28&gt; Les avantages visés au présent chapitre sont acquis par douzièmes mensuels égaux.
+
+Le Roi détermine :
+
+1° les conditions, les modalités et la périodicité selon lesquelles sont payées les prestations résultant des versements effectués dans le cadre de l'assurance libre organisée par les lois coordonnées relatives à l'assurance en vue de la vieillesse et du décès prématuré et les avantages visés à l'alinéa 1er, y compris la contribution de l'Etat;
+
+2° les conditions et les modalités selon lesquelles les avantages visés au 1° sont payés par un versement unique égal à leur valeur actuelle, augmenté le cas échéant de la réserve afférente à l'assurance de la rente de veuve.
+
+### Art. 9bis
+
+&lt;inséré par AR 1997-02-07/31, art. 1, En vigueur : 1997-02-28&gt; Après fixation du montant des rentes selon les dispositions en vigueur, le montant des rentes payées pour la première fois et au plus tôt à partir du 1er juillet 1997 est déterminé conformément aux barèmes annexés à la présente loi.
+
+La différence entre les deux montants est attribuée aux réserves mathématiques de l'office national des pensions.
+
+### Art. 9ter
+
+&lt;Inséré par L 2000-08-12/62, art. 16; En vigueur : 01-01-2001&gt; En ce qui concerne la rente qui prend cours effectivement et pour la première fois au plus tôt le 1er janvier 2001 et nonobstant toute disposition contraire, son montant est payé intégralement par un versement unique correspondant à la valeur actuelle de la rente.
+
+### Art. 10
+
+(L'Office national des pensions ainsi que les autres organismes d'assurances visés à l'article 2, pour autant que les droits et obligations, actif et passif de ces derniers n'ont pas été repris par l'Office national des pensions conformément à l'article 2, alinéa 4, tiennent une gestion distincte pour l'ensemble des opérations relatives à l'exécution du présent chapitre.) &lt;AR 1997-04-23/34, art. 4, 008; En vigueur : 01-06-1997&gt;
+
+Ces organismes établissent au 31 décembre de chaque année un bilan et un compte de profits et pertes relatif à cette gestion.
+
+Le solde bénéficiaire du compte de profits et pertes de l'année est versé à l'(Office national des pensions). &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt;
+
+### Art. 11
+
+Le Roi détermine:
+
+1° les modalités d'introduction des demandes (.....) &lt;L 10-2-1981, art. 29, 1°&gt;;
+
+2° à 5° (abrogé) &lt;L 10-2-1981, art. 29, 2°.&gt;
+
+6° (annuellement, le pourcentage du taux de rendement minimum moyen qui doit être réalisé par les compagnies d'assurance sur les réserves visées à l'article 2. Pour la fixation de ce pourcentage, Il peut tenir compte des diverses composantes des placements;) &lt;L 1992-06-26/30, art. 55, 004; En vigueur : 10-07-1992&gt;
+
+7° (le montant maximum qui, en fonction des réserves visées à l'article 2, du nombre d'assurances en cours, le nombre de brevets et d'un montant fixe, peut être inscrit à titre de frais de gestion dans le compte des pertes et profits de la gestion des réserves;) &lt;L 1994-12-21/31, art. 54, 006; En vigueur : 1992-07-10&gt;
+
+(8° le montant d'un acompte éventuel sur le solde bénéficiaire du compte de profits et pertes de l'année, visé à l'article 10, qui doit être versé à l'Office national des pensions.) &lt;L 1994-12-21/31, art. 54, 007; En vigueur : 1992-07-10&gt;
+
+### Art. 12
+
+(Le Ministre qui a les Affaires sociales dans ses attributions et les fonctionnaires qu'il désigne à cet effet sont chargés de contrôler l'exécution par l'Office national des pensions ainsi que par les autres organismes d'assurances visés à l'article 2 des obligations qui leurs incombent pour autant que les droits et obligations, actif et passif de ces derniers n'ont pas été repris par l'Office national des pensions conformément à l'article 2 alinéa 4.) &lt;AR 1997-04-23/34, art. 5, 008; En vigueur : 01-06-1997&gt;
+
+(Ces organismes) sont tenus notamment de fournir toutes les pièces justificatives que le Ministre qui a la Prévoyance sociale dans ses attributions ou les personnes chargées du contrôle jugent nécessaires. &lt;AR 1997-04-23/34, art. 5, 008; En vigueur : 01-06-1997&gt;
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, décider que (l'Office national des pensions) succédera aux droits et obligations et recueillera l'actif et le passif de la gestion confiée par le présent chapitre à un de s organismes d'assurance agréés visés à l'article 22 de la loi du 12 juillet 1957 précitée lorsqu'un des organismes d'assurance agréés ne se conforme pas aux dispositions légales et réglementaires, lorsque son compte de profits et pertes présente une situation déficitaire de nature à compromettre les opération s de l'assurance ou lorsque sa gestion est trop onéreuse. &lt;L 1992-06-26/30, art. 56, 004; En vigueur : 10-07-1992&gt;
+
+## CHAPITRE II. - Des versements complémentaires et supplémentaires.
+
+### Art. 13
+
+Le présent chapitre s'applique:
+
+1° à la gestion des versements complémentaires effectués avant le 1er juillet 1957 conformément aux dispositions de la loi du 18 juin 1930 relative à l'assurance en vue de la vieillesse et du décès prématuré des employés et du 1er juillet 1957 au 31 décembre 1959 conformément à l'article 22, § 6, tel qu'il a été inséré par la loi du 18 février 1959 dans la loi du 12 juillet 1957 relative à la pension de retraite et de survie des employés;
+
+2° à la gestion des versements supplémentaires effectués à partir du 1er janvier 1960 conformément à l'article 22, § 6, de la loi du 12 juillet 1957 susvisée, tel qu'il était modifié par la loi du 22 février 1960 avant les modifications apportées par l'arrêté royal n° 50 du 24 octobre 1967.
+
+### Art. 14
+
+La Caisse nationale des pensions pour employés, la Caisse générale d'Epargne et de Retraite et les autres organismes d'assurance agréés prélèvent, sur le fonds de répartition existant au 31 décembre 1967 dans le cadre de la gestion visée à l'article 13, 1°; les sommes nécessaires pour porter le fonds de réserve de cette gestion à 5 p.c. du montant des réserves mathématiques existant à la même date.
+
+### Art. 15
+
+Le reliquat du fonds de répartition visé à l'article 14 est réparti entre les assurés et les rentiers en vie au 31 décembre 1967 à raison de cent cent cinquième de son montant.
+
+La quote-part accordée à chacun d'eux est proportionnelle au montant des réserves mathématiques au 31 décembre 1967 correspondant aux rentes constituées à leur compte par rapport au montant total des réserves mathématiques au 31 décembre 1967 correspondant aux rentes constituées au compte des personnes visées à l'alinéa 1er.
+
+En ce qui concerne les assurés, la quote-part est ajoutée aux réserves mathématiques constituées pour chacun d'eux.
+
+En ce qui concerne les rentiers, la quote-part est considérée comme une prime unique versée par le bénéficiaire à l'âge, en années révolues, atteint au 1er janvier 1968. La rente ainsi constituée est ajoutée à celle qui est déjà liquidée.
+
+Le solde du fonds de répartition est transféré au fonds de réserve.
+
+### Art. 16
+
+La Caisse nationale des pensions pour employés, la Caisse générale d'Epargne et de Retraite et les autres organismes d'assurance agréés procèdent, dans le cadre de la gestion visée à l'article 13, 2°, à la réévaluation des réserves mathématiques existant au 31 décembre 1967 et calculées conformément aux barèmes figurant à l'annexe II de l'arrêté royal du 31 décembre 1962 modifiant l'arrêté royal du 29 juillet 1957 fixant les mesures à prendre par les organismes d'assurance en vue de l'exécution de la loi du 12 juillet 1957 relative à la pension de retraite et de survie des employés et les modalités d'exécution et de contrôle de ces mesures.
+
+### Art. 17
+
+La réévaluation visé à l'article 16 est faite conformément aux barèmes déterminés par le ROi et établis sur les bases suivantes:
+
+1° mortalité exprimée par les tables H, F et V 1948-1954 de la Caisse nationale des pensions pour employés;
+
+2° taux d'intérêt annuel: 4 p.c.;
+
+3° frais pour le service des rentes: 1 p.c. des rentes;
+
+4° paiement des rentes, par douzième mensuels égaux, à terme échu, sans arrérages au décès.
+
+### Art. 18
+
+La différence entre le montant des réserves mathématiques visées à l'article 16 et celui des réserves mathématiques réévaluées est versées au fonds de réserve existant au 31 décembre 1967 dans le cadre de la gestion prévus à l'article 13, 2°.
+
+Si après ce versement, ce fonds de réserve dépasse 5 p.c. des réserves mathématiques réévaluées, l'excédent est versé au fonds de répartition de la même gestion.
+
+### Art. 19
+
+La Caisse nationale des pensions pour employés, la Caisse générale d'Epargne et de Retraite et les autres organismes d'assurance agréés procèdent entre les assurés à une répartition du fonds de répartition existant après application de l'article 18, alinéa 2, à raison de cent cent cinquièmes de son montant.
+
+La quote-part de ce fonds attribuée à chacun des assurés est proportionnelle au montant des réserves mathématiques réévaluées correspondant aux rentes constituées à leur compte par rapport au montant total des réserves mathématiques réévaluées des assurances en cours.
+
+Cette quotité est ajoutée aux réserves mathématiques réévaluées constituées pour chacun des assurés.
+
+Le solde du fonds de répartition est transféré au fonds de réserve.
+
+### Art. 20
+
+Après application des articles 15, alinéa 3, et 19, alinéa 3, les réserves mathématiques des assurances en cours au 1er janvier 1968 dans le cadre des gestions visées à l'article 13 sont affectées à la constitution des avantages extra-légaux prévus par l'article 22 de la loi du 12 juillet 1957 relative à la pension de retraite et de survie des employés modifié par l'arrêté royal n° 50 du 24 octobre 1967.
+
+### Art. 21
+
+Les rentes de vieillesse qui ont pris cours avant le 1er janvier 1968 dans le cadre des gestions visées à l'article 13 sont liquidées par la gestion des avantages extra-légaux précités et les réserves mathématiques de ces rentes sont calculées conformément aux barèmes déterminés par le Roi.
+
+Les rentes de veuve qui ont pris cours avant le 1er janvier 1968 dans le cadre des gestions prévues à l'article 13 sont liquidées par la gestion des avantages extra-légaux précités et les réserves mathématiques représentatives de ces rentes sont calculées conformément aux barèmes déterminés par le Roi.
+
+### Art. 22
+
+Les rentes correspondant aux assurances en cours converties conformément aux dispositions de l'article 20 ainsi que les rentes de vieillesse et de veuve visées à l'article 21 sont considérées comme constituées en exécution de l'article 22 de la loi du 12 juillet 1957, modifié par l'arrêté royal n° 50 du 24 octobre 1967.
+
+### Art. 23
+
+Le Roi détermine les modalités d'exécution du présent chapitre.
+
+## CHAPITRE III. \_ Dispositions diverses.
+
+### Art. 24
+
+&lt;Disposition modificative&gt;
+
+### Art. 25
+
+&lt;Disposition modificative&gt;
+
+### Art. 26
+
+&lt;Disposition modificative&gt;
+
+### Art. 27
+
+&lt;Disposition modificative&gt;
+
+### Art. 28
+
+&lt;Disposition modificative&gt;
+
+### Art. 29
+
+&lt;Disposition modificative&gt;
+
+### Art. 30
+
+&lt;Disposition modificative&gt;
+
+### Art. 31
+
+&lt;Disposition modificative&gt;
+
+### Art. 32
+
+&lt;Disposition modificative&gt;
+
+## CHAPITRE IV. \_ De l'entrée en vigueur.
+
+### Art. 33
+
+Les articles 1er à 12 de la présente loi produisent leurs effets le 1er janvier 1970, les articles 13 à 23 produisent leurs effets le 1er janvier 1968, l'article 24 produit ses effets le 1er juillet 1957, les articles 25 à 28, 30 et 31 produisent leurs effets le 1er janvier 1962 et les articles 29 et 32 produisent leurs effets le 1er janvier 1966.
+
+## ANNEXE
+
+### Art. N1
+
+&lt;inséré par AR 1997-02-07/31, Art. N1, En vigueur : 1997-02-28&gt; Annexe 1. - Barèmes pour l'adaptation de la rente à payer à la durée de vie plus élevée.
+
+I. Hommes
+
+Age ancienne valeur nouvelle valeur proportion
+
+55 14,4189 22,10147 65,25 %
+
+56 14,0966 21,71739 64,91 %
+
+57 13,7716 21,32222 64,59 %
+
+58 13,4443 20,91584 64,28 %
+
+59 13,1142 20,49817 63,98 %
+
+60 12,7814 20,06922 63,69 %
+
+61 12,4223 19,62894 63,29 %
+
+62 12,0622 19,17740 62,90 %
+
+63 11,7016 18,71469 62,63 %
+
+64 11,3409 18,24098 62,17 %
+
+65 et plus 10,9809 17,75649 61,84 %
+
+II. Femmes et veuves
+
+Age ancienne valeur nouvelle valeur proportion
+
+55 et moins 15,0577 17,71855 84,97 %
+
+56 14,7022 17,42557 84,37 %
+
+57 14,3426 17,12495 83,75 %
+
+58 13,9772 16,81676 83,11 %
+
+59 13,6066 16,50107 82,46 %
+
+60 13,2313 16,17800 81,79 %
+
+61 12,8525 15,84771 81,10 %
+
+62 12,4696 15,51038 80,40 %
+
+63 12,0838 15,18623 79,68 %
+
+64 11,6958 14,81559 78,94 %
+
+65 et plus 11,5063 14,45857 78,20 %

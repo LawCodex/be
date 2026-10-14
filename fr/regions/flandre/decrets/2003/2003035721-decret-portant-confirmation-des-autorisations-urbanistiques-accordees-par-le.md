@@ -1,0 +1,57 @@
+---
+title: "Décret portant confirmation des autorisations urbanistiques accordées par le Gouvernement flamand le 9 mai 2003 en application du décret du 14 décembre 2001 pour quelques permis de bâtir soumis à des raisons impératives d'intérêt public (TRADUCTION)."
+identifier: "2003035721"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/27/2003035721/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2003-06-27
+published: 2003-07-02
+entry_into_force: 2003-07-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/27/2003035721/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-15
+---
+
+# 27 JUIN 2003. - Décret portant confirmation des autorisations urbanistiques accordées par le Gouvernement flamand le 9 mai 2003 en application du décret du 14 décembre 2001 pour quelques permis de bâtir soumis à des raisons impératives d'intérêt public (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit : décret portant confirmation des autorisations urbanistiques accordées par le Gouvernement flamand le 9 mai 2003 en application du décret du 14 décembre 2001 pour quelques permis de bâtir soumis à des raisons impératives d'intérêt public.
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Les autorisations urbanistiques suivantes accordées par le Gouvernement flamand le 9 mai 2003, sont confirmées :
+
+A . autorisation urbanistique pour les travaux sur le territoire de la ville d'Anvers : exécution de travaux de dragage en vue d'approfondir le chenal du Bas-Escaut à la hauteur des seuils de Frederik et Zandvliet (réalisation Deurganckdok - Waaslandhaven);
+
+B . autorisation urbanistique pour les travaux sur le territoire de la commune de Beveren :
+
+1° la pose d'une conduite de refoulement double et temporaire en vue du déblaiement du Paardenschor, de la délimitation d'une bande de travail et du renforcement d'une rive dans le Doeldok;
+
+2° l'aménagement du Steenlandpolder comme zone naturelle de compensation.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 27 juin 2003.
+
+Le Ministre-Président du Gouvernement flamand,
+
+B. SOMERS
+
+Le Ministre flamand des Finances et du Budget, de l'Aménagement du Territoire, des Sciences et de l'Innovation technologique,
+
+D. VAN MECHELEN
+
+Le Ministre flamand de la Mobilité, des Travaux publics et de l'Energie,
+
+G. BOSSUYT
+
+Le Ministre flamand de l'Environnement, de l'Agriculture et de la Coopération au Développement,
+
+L. SANNEN Note.

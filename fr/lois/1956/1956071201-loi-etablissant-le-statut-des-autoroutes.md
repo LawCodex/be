@@ -13,7 +13,7 @@ last_amended: 2024-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1956/07/12/1956071201/justel"
 justel_note: "Consultation des versions antérieures à partir du 08-05-2009 et mise à jour au 26-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1956. - Loi établissant le statut des autoroutes

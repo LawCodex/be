@@ -1,0 +1,85 @@
+---
+title: "Ordonnance modifiant l'ordonnance du 23 juillet 1992 relative à la taxe régionale à charge des occupants d'immeubles bâtis et de titulaires de droits réels sur certains immeubles."
+identifier: "2007031103"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/03/01/2007031103/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2007-03-01
+published: 2007-03-14
+entry_into_force: 2007-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/03/01/2007031103/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 1er MARS 2007. - Ordonnance modifiant l'ordonnance du 23 juillet 1992 relative à la taxe régionale à charge des occupants d'immeubles bâtis et de titulaires de droits réels sur certains immeubles.
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+Dans l'article 3, § 1er, c), de l'ordonnance du 23 juillet 1992 relative à la taxe régionale à charge des occupants d'immeubles bâtis et de titulaires des droits réels sur certains immeubles, les mots " du superficiaire " sont insérés entre les mots " de l'usufruitier " et les mots " ou du titulaire du droit d'usage ".
+
+## Art. 3
+
+A l'article 5 de la même ordonnance, modifié par l'article 4 de l'ordonnance du 21 février 2002, les mots " 165,00 euros " sont remplacés par les mots " 89,00 euros ".
+
+## Art. 4
+
+A l'article 7 de la même ordonnance, modifié par l'article 6 de l'ordonnance du 21 février 2002, les modifications suivantes sont apportées :
+
+\- dans la première phrase, les mots " Les montants exprimés en euros aux articles 5 et 8, § 1er, sont adaptés " sont remplacés par les mots " Le montant exprimé en euros à l'article 8, § 1er, est adapté ";
+
+\- dans la deuxième phrase, les mots " les montants sont arrondis " sont remplacés par les mots " le montant est arrondi ".
+
+## Art. 5
+
+L'article 12, § 2, de la même ordonnance est remplacé par ce qui suit :
+
+" § 2. Aussitôt que les rôles sont rendus exécutoires, il en est adressé des extraits aux redevables concernés. L'avertissement-extrait de rôle est daté et porte les mentions visées au § 1er. ".
+
+## Art. 6
+
+Dans l'article 19, § 1er, premier alinéa de la même ordonnance, les mots " endéans les trente jours de l'envoi du deuxième rappel visé à l'article 12, § 5 " sont insérés entre les mots " des accessoires " et les mots ", une contrainte ".
+
+## Art. 7
+
+L'article 22 de la même ordonnance est remplacé par la disposition suivante :
+
+" Article 22.. L'exécution de la contrainte ne peut être interrompue que par une opposition motivée, formulée par le redevable, qui introduit une action en justice conformément aux dispositions du Code judiciaire relatives aux contestations concernant l'application d'une loi d'impôt.
+
+La notification est faite à la Région, au cabinet du Ministre-Président du Gouvernement. ".
+
+## Art. 8
+
+La présente ordonnance entre en vigueur le 1er janvier 2007.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 1er mars 2007.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, de la Rénovation urbaine, du Logement, de la Propreté publique et de la Coopération au développement,
+
+C. PICQUE
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, de la Fonction publique et des Relations extérieures,
+
+G. VANHENGEL
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie, de la Recherche scientifique et de la Lutte contre l'incendie et l'Aide médicale urgente,
+
+B. CEREXHE
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de la Mobilité et des Travaux publics,
+
+P. SMET
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée de l'Environnement, de l'Energie et de la Politique de l'Eau,
+
+Mme E. HUYTEBROECK.
