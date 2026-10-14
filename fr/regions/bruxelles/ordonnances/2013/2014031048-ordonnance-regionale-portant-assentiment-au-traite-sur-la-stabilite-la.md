@@ -1,0 +1,53 @@
+---
+title: "Ordonnance (régionale) portant assentiment au : Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire entre le Royaume de Belgique, la République de Bulgarie, le Royaume du Danemark, la République fédérale d'Allemagne, la République d'Estonie, l'Irlande, la République hellénique, le Royaume d'Espagne, la République française, la République italienne, la République de Chypre, la République de Lettonie, la République de Lituanie, le grand-duché de Luxembourg, la Hongrie, Malte, le Royaume des Pays-Bas, la République d'Autriche, la République de Pologne, la République portugaise, la Roumanie, la République de Slovénie, la République slovaque, la République de Finlande et le Royaume de Suède, et au procès-verbal de signature du Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire, signés à Bruxelles le 2 mars 2012"
+identifier: "2014031048"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/12/20/2014031048/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2013-12-20
+published: 2014-01-16
+entry_into_force: 2014-01-26
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/12/20/2014031048/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-12
+---
+
+# 20 DECEMBRE 2013. - Ordonnance (régionale) portant assentiment au : Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire entre le Royaume de Belgique, la République de Bulgarie, le Royaume du Danemark, la République fédérale d'Allemagne, la République d'Estonie, l'Irlande, la République hellénique, le Royaume d'Espagne, la République française, la République italienne, la République de Chypre, la République de Lettonie, la République de Lituanie, le grand-duché de Luxembourg, la Hongrie, Malte, le Royaume des Pays-Bas, la République d'Autriche, la République de Pologne, la République portugaise, la Roumanie, la République de Slovénie, la République slovaque, la République de Finlande et le Royaume de Suède, et au procès-verbal de signature du Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire, signés à Bruxelles le 2 mars 2012
+
+Le Parlement de la Région de Bruxelles-Capitale a adopté et Nous, Exécutif, sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+Le Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire entre le Royaume de Belgique, la République de Bulgarie, le Royaume du Danemark, la République fédérale d'Allemagne, la République d'Estonie, l'Irlande, la République hellénique, le Royaume d'Espagne, la République française, la République italienne, la République de Chypre, la République de Lettonie, la République de Lituanie, le grand-duché de Luxembourg, la Hongrie, Malte, le Royaume des Pays-Bas, la République d'Autriche, la République de Pologne, la République portugaise, la Roumanie, la République de Slovénie, la République slovaque, la République de Finlande et le Royaume de Suède, et le Procès-verbal de signature du Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire, signés à Bruxelles le 2 mars 2012, sortiront leur plein et entier effet.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 20 décembre 2013.
+
+Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, et de la Propreté publique et de la Coopération au Développement,
+
+R. VERVOORT
+
+Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée des Finances, du Budget, la Fonction publique et des Relations extérieures,
+
+G. VANHENGEL
+
+Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée de l'Environnement, de l'Energie et de la Politique de l'Eau, de la Rénovation urbaine, de la Lutte contre l'Incendie et l'Aide médicale urgente et du Logement,
+
+Mme E. HUYTEBROECK
+
+Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée des Travaux publics et des Transports,
+
+Mme Br. GROUWELS
+
+Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie, de la Recherche scientifique,
+
+Mme C. FREMAULT

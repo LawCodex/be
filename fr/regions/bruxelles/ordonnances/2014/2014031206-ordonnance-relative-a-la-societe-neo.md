@@ -1,0 +1,193 @@
+---
+title: "Ordonnance relative à la société NEO"
+identifier: "2014031206"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/02/27/2014031206/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2014-02-27
+published: 2014-04-02
+entry_into_force: 2014-04-12
+last_amended: 2024-04-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/02/27/2014031206/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "Consultation des versions antérieures à partir du 02-04-2014 et mise à jour au 25-04-2024"
+retrieved: 2026-10-12
+---
+
+# 27 FEVRIER 2014. - Ordonnance relative à la société NEO
+
+Le Parlement de la Région de Bruxelles-Capitale a adopté et Nous, Exécutif, sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+Le Gouvernement est autorisé à constituer, au nom de la Région de Bruxelles-Capitale, ci-après " la Région ", une société de droit public sous la forme d'une société [<sup>1</sup> ...]<sup>1</sup> à responsabilité limitée, et qui portera la dénomination de NEO. NEO dispose de la personnalité juridique.
+
+La Ville de Bruxelles, ci-après " la Ville ", est autorisée à participer à la constitution de NEO, et à détenir directement ou indirectement des participations [<sup>1</sup> ...]<sup>1</sup> dans cette société.
+
+Les statuts de NEO sont adoptés par les fondateurs et approuvés par le Gouvernement et par le conseil communal de la Ville. Les modifications sont décidées par l'assemblée générale des [<sup>1</sup> actionnaires]<sup>1</sup>, mais elles ne prennent effet qu'après l'approbation tant du Gouvernement que du conseil communal de la Ville.
+
+----------
+
+(1)&lt;ORD 2023-12-14/03, art. 2, 002; En vigueur : 19-12-2023&gt;
+
+## Art. 3
+
+NEO a pour mission, dans une perspective d'intérêt général, de favoriser, réaliser ou faire réaliser l'aménagement et le développement du plateau du Heysel et sa gestion opérationnelle subséquente, en ce compris, au besoin, l'exploitation d'un ou de plusieurs des bâtiments qui y seront érigés. Les statuts de NEO définissent son objet social de manière à lui permettre de réaliser toutes les opérations, en ce compris immobilières, nécessaires ou utiles à cet effet. NEO peut confier le financement, la réalisation, l'entretien ou la gestion de tout ou partie des infrastructures réalisées sur le plateau du Heysel à des tiers, sur la base d'un ou plusieurs contrats à long terme conclus conformément à la législation sur les marchés publics.
+
+NEO développe, dans les limites de la présente ordonnance, toutes les activités qui sont compatibles avec son objet social. NEO décide de l'acquisition, de l'utilisation et de l'aliénation de ses biens corporels et incorporels, de la constitution ou de la suppression de droits réels sur ces biens, ainsi que de l'exécution de telles décisions.
+
+NEO peut participer en qualité de fondateur et prendre des participations directes ou indirectes dans des sociétés, associations ou institutions de droit public ou de droit privé, belges ou étrangères, dont l'objet social est en rapport avec l'aménagement et le développement du plateau du Heysel.
+
+NEO peut recevoir des subventions de toutes personnes morales de droit public et acquérir des recettes en fournissant des prestations à des tiers ou en valorisant les biens meubles et immeubles dont elle est le propriétaire ou le gestionnaire.
+
+NEO peut transiger et compromettre, et peut recevoir des dons et des legs.
+
+Le siège social de NEO est situé sur le territoire de la Ville de Bruxelles.
+
+## Art. 4
+
+Pour ce qui n'est pas régi par la présente ordonnance, NEO est régie par les dispositions légales et règlementaires applicables aux sociétés [<sup>1</sup> ...]<sup>1</sup> à responsabilité limitée ([<sup>1</sup> SRL ]<sup>1</sup>), par ses statuts et par la convention d'[<sup>1</sup> d'actionnaires ]<sup>1</sup> visée à l'article 6. [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2023-12-14/03, art. 3, 002; En vigueur : 19-12-2023&gt;
+
+## Art. 5
+
+[<sup>1</sup> Les dispositions du Livre XX " Insolvabilité des entreprises " du Code de droit économique ne sont pas applicables à NEO. ]<sup>1</sup>.
+
+La dissolution de NEO ne peut être décidée que par décision de l'assemblée générale des [<sup>1</sup> actionnaire]<sup>1</sup>, laquelle ne prend effet qu'après avoir été approuvée par le Gouvernement et par le conseil communal de la Ville. La décision du Gouvernement règle le mode et les conditions de la dissolution. [<sup>1</sup> Toutes les autres causes de dissolution, en ce compris celle prévue à l'article 5: 153 du Code des sociétés et des associations, ne sont pas applicables]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2023-12-14/03, art. 4, 002; En vigueur : 19-12-2023&gt;
+
+## Art. 6
+
+La Région détient cinquante pourcents des [<sup>1</sup> actions ]<sup>1</sup> de NEO, dénommées [<sup>1</sup> actions ]<sup>1</sup> de [<sup>1</sup> classe]<sup>1</sup> A. Les cinquante pourcents restant, dénommées [<sup>1</sup> actions ]<sup>1</sup> de [<sup>1</sup> classe ]<sup>1</sup> B, sont détenus à concurrence de 90 % au minimum par la Ville et à concurrence de 10 % au maximum par l'association sans but lucratif Parc des Expositions de Bruxelles ou par une ou plusieurs sociétés, entités ou personnes morales de droit public dont la Ville détient, directement ou indirectement la totalité des droits de vote attachés aux actions, [<sup>1</sup> actions ]<sup>1</sup>, titres ou droits d'[<sup>1</sup> actionnaires]<sup>1</sup>. La Ville et les [<sup>1</sup> actionnaires]<sup>1</sup> ainsi contrôlés par la Ville forment les [<sup>1</sup> actionnaires]<sup>1</sup> de [<sup>1</sup> classe]<sup>1</sup> B.
+
+Les [<sup>1</sup> actions ]<sup>1</sup> de [<sup>1</sup> classe]<sup>1</sup> A sont strictement incessibles. Les [<sup>1</sup> actions ]<sup>1</sup> de [<sup>1</sup> classe]<sup>1</sup> B ne sont cessibles qu'entre [<sup>1</sup> actionnaires ]<sup>1</sup> de [<sup>1</sup> classe]<sup>1</sup> B et pour autant que la Ville conserve à tout moment 90 % de ces [<sup>1</sup> actions ]<sup>1</sup> au minimum.
+
+Chaque [<sup>1</sup> action ]<sup>1</sup> donne droit à une voix, étant entendu que, à tout moment et quelle que soit la hauteur des apports, les droits de vote à l'assemblée générale de la société sont détenus pour moitié par la Région et pour moitié par les [<sup>1</sup> actionnaires]<sup>1</sup> de [<sup>1</sup> classe]<sup>1</sup> B.
+
+Les [<sup>1</sup> actionnaires]<sup>1</sup> concluent une convention qui fixe le montant et les modalités de libération de la [<sup>1</sup> action ]<sup>1</sup> fixe et [<sup>1</sup> des capitaux propres ]<sup>1</sup>. Le conseil d'administration de NEO est compétent pour réaliser, dans le respect des dispositions de la convention d'[<sup>1</sup> actionnaires]<sup>1</sup>, les appels de fonds pour les [<sup>1</sup> capitaux propres]<sup>1</sup>. La convention conclue entre les [<sup>1</sup> actionnaires]<sup>1</sup> a une durée de 20 ans, et est réputée de manière irréfragable pour toute cette durée conforme à l'intérêt social de NEO. Elle n'est pas susceptible d'être annulée, notamment au motif qu'une des conditions prévues à [<sup>1</sup> l'article 5:46 du Code des sociétés et des associations]<sup>1</sup> ne serait pas ou plus respectée.
+
+Les [<sup>1</sup> actionnaires]<sup>1</sup> fondateurs ne peuvent pas démissionner. Ils ne peuvent pas être exclus, même pour de justes motifs, au sens de [<sup>1</sup> l'article 5:155 du Code des sociétés et des associations]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-12-14/03, art. 5, 002; En vigueur : 19-12-2023&gt;
+
+## Art. 7
+
+Le conseil d'administration est composé de quatorze administrateurs, dont sept sont nommés par la Région, et sept sont nommés par les [<sup>1</sup> actionnaires]<sup>1</sup> de [<sup>1</sup> classe ]<sup>1</sup> B. Les mandats d'administrateurs sont exercés à titre gratuit.
+
+----------
+
+(1)&lt;ORD 2023-12-14/03, art. 6, 002; En vigueur : 19-12-2023&gt;
+
+## Art. 8
+
+§ 1er. La Région, la Ville, et toutes autres personnes morales de droit public créées ou détenues majoritairement, de manière directe ou indirecte, par la Région ou par la Ville, ou sur lesquelles la Région exerce un pouvoir de tutelle, sont autorisées à transférer à NEO tous les biens meubles et immeubles, en ce compris ceux qui relèvent de leur domaine public, qui sont utiles ou nécessaires à la réalisation de l'objet social de NEO. Elles peuvent aussi accorder à NEO des droits réels sur ces biens et les lui donner en location ou en gestion, quelle que soit la nature juridique de l'opération, et ce à titre gratuit ou onéreux.
+
+§ 2. Sous réserve du § 3, NEO administre les biens dont elle est le propriétaire, sur lesquels elle détient un droit réel, ou dont la gestion lui a été confiée. A cette fin, elle peut accomplir tous les actes de gestion tels que l'entretien, l'amélioration, la mise à disposition et l'utilisation de ces biens. Dans la limite des droits dont elle dispose, elle peut accorder des droits réels ou personnels sur ces biens.
+
+§ 3. Sans préjudice du droit pour NEO de recevoir tout droit réel ou personnel sur le domaine privé de ses actionnaires ou de tout tiers, il est créé en faveur de NEO une servitude légale d'utilité publique lui permettant d'établir, à titre gratuit, sous, sur ou au-dessus du domaine public de toute personne morale de droit public, les ouvrages et équipements y compris leurs accessoires nécessaires à la réalisation des aménagements d'utilité publique relevant de la mission visée à l'article 3.
+
+NEO n'est cependant pas autorisée à établir des ouvrages et équipements sur les voies ferrées gérées par la Société des Transports Intercommunaux de Bruxelles.
+
+NEO, propriétaire des ouvrages et équipements, peut sur ces biens :
+
+1° constituer des droits réels compatibles avec leur affectation publique, qui subsiste;
+
+2° céder à toute personne de droit public ou privé, pour la durée qu'elle détermine, un droit de superficie. Toute mise en oeuvre de la servitude visée à l'alinéa premier est subordonnée à l'autorisation préalable de l'autorité publique gestionnaire du domaine public concerné, qui conserve la responsabilité liée à l'usage de ce domaine.
+
+Cette autorité statue sur la demande d'autorisation dans les 75 jours de la réception de la demande. Ce délai est suspendu entre le 15 juillet et le 15 août.
+
+L'autorisation est réputée acquise s'il n'a pas été statué sur la demande d'autorisation dans le délai visé à l'alinéa 4.
+
+§ 4. Après y avoir été autorisée par le Gouvernement, NEO peut procéder à l'expropriation en son nom propre et pour son propre compte des biens immeubles nécessaires à l'exécution de l'aménagement et du développement du plateau du Heysel. Les expropriations se font conformément à la procédure d'extrême urgence fixée par l'article 5 de la loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique, ou toute autre procédure en la matière applicable en Région de Bruxelles-Capitale.
+
+## Art. 9
+
+NEO est assimilée à la Région de Bruxelles-Capitale pour l'application des lois et ordonnances relatives aux impôts directs et indirects qui relèvent de la compétence de la Région de Bruxelles-Capitale.
+
+## Art. 10
+
+Le Gouvernement est autorisé à accorder la garantie régionale aux engagements contractés par NEO à l'égard de tiers et portant sur le paiement des redevances de disponibilité afférentes à la conception, la construction, le financement et l'entretien des infrastructures érigées sur le plateau du Heysel en exécution des missions de NEO. Cette garantie peut présenter un caractère abstrait et irrévocable et prendre la forme d'un cautionnement qui reste en vigueur jusqu'à ce que tous les engagements de NEO envers le tiers aient été honorés.
+
+## Art. 11
+
+§ 1er. Pour l'application de l'ordonnance du 23 février 2006 portant les dispositions applicables au budget, à la comptabilité et au contrôle, NEO n'est pas considérée comme un service du Gouvernement, ni comme un organisme administratif autonome au sens de l'article 2, 1° et 2° de cette ordonnance.
+
+NEO conclura, toutefois, une convention avec le Centre de Coordination financière pour la Région de Bruxelles-Capitale et le caissier prévu à l'article 63, alinéa 2, de l'ordonnance du 23 février 2006 susmentionnée en vue de disposer d'un compte de transit limité à la centralisation de l'apport régional dans NEO.
+
+§ 2. NEO est soumis au contrôle de la Cour des comptes. Les comptes de NEO sont transmis à la Cour des comptes au plus tard le 31 mai de l'année suivant l'exercice concerné.
+
+La Cour des comptes a accès en permanence aux données sociales, fiscales, financières et comptables.
+
+Elle informe sans délai le Gouvernement et le Collège des bourgmestre et échevins de la Ville de toute anomalie. Elle en informe également le Parlement, d'initiative ou à la demande de ce dernier.
+
+La Cour des comptes examine la légalité et la régularité des dépenses et des recettes et contrôle le bon emploi des deniers publics; elle s'assure du respect des principes d'économie, d'efficacité et d'efficience.
+
+La Cour des comptes est habilitée à se faire communiquer tous documents et renseignements, de quelque nature que ce soit, relatifs à la l'exercice par NEO de sa mission d'aménagement et de développement du plateau du Heysel. Elle peut organiser un contrôle sur place.
+
+§ 3. NEO est soumise au contrôle du Gouvernement à l'intervention de deux commissaires, nommés et révoqués par le Gouvernement. Ils veillent au respect de la loi et des statuts de NEO.
+
+Les commissaires du Gouvernement sont invités à toutes les réunions du conseil d'administration et y ont voix consultative. Ils peuvent, à tout moment, prendre connaissance, sans déplacement, des livres, de la correspondance, des procès-verbaux et généralement de tous les documents et de toutes les écritures de NEO. Ils peuvent requérir des administrateurs, des agents et des préposés de NEO toutes les explications ou informations et procéder à toutes les vérifications qui leurs paraissent nécessaires à l'exécution de leur mandat.
+
+Chaque commissaire du Gouvernement peut, dans un délai de quatre jours, introduire un recours en annulation auprès du Gouvernement contre toute décision qu'il estime contraire à la loi ou aux statuts de la société. Ce délai court à partir du jour de la réunion au cours de laquelle la décision a été prise, pour autant que le commissaire du Gouvernement y ait été régulièrement convoqué et, dans le cas contraire, à partir du jour où il en a reçu connaissance. Le recours est suspensif. Simultanément à l'introduction du recours, il en transmet copie au président du conseil d'administration de NEO et au Collège de la Ville de Bruxelles, qui dispose de huit jours pour communiquer son avis au Gouvernement. La Ville et la Région mettent à profit ce délai de huit jours pour dégager si possible une position commune.
+
+Si, dans un délai de cinq jours à compter de la réception de l'avis de la Ville ou, à défaut, dans un délai de treize jours à compter du lendemain du jour de l'introduction du recours, le Gouvernement n'a pas prononcé l'annulation, la décision devient définitive. Le Gouvernement notifie l'annulation au conseil d'administration.
+
+Les samedis, dimanches et jours fériés légaux sont exclus des délais.
+
+Les mandats de Commissaire du Gouvernement ne sont pas rémunérés.
+
+## Art. 11bis.
+
+[<sup>1</sup> L'article 154 l'ordonnance portant le Code des finances publiques de la Région de Bruxelles-Capitale est également d'application à NEO.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-04-04/24, art. 199, 003; En vigueur : 01-01-2025&gt;
+
+## Art. 12
+
+Il est satisfait aux besoins en personnel de NEO par du personnel engagé par contrats de travail.
+
+---
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 27 février 2014.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, de l'Aménagement du Territoire, des Monuments et Sites, et de la Propreté publique et de la Coopération au Développement,
+
+R. VERVOORT
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée des Finances, du Budget, la Fonction publique et des Relations extérieures,
+
+G. VANHENGEL
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée de l'Environnement, de l'Energie et de la Politique de l'Eau, de la Rénovation urbaine, de la Lutte contre l'Incendie et l'Aide médicale urgente et du Logement,
+
+Mme E. HUYTEBROECK
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée des Travaux publics et des Transports,
+
+Mme B. GROUWELS
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie, de la Recherche scientifique,
+
+Mme C. FREMAULT
