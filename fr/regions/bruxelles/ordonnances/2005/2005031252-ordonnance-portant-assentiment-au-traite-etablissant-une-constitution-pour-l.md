@@ -1,0 +1,53 @@
+---
+title: "Ordonnance portant assentiment au traité établissant une Constitution pour l'Europe, et à l'Acte final fait à Rome le 29 octobre 2004."
+identifier: "2005031252"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2005/06/23/2005031252/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2005-06-23
+published: 2005-09-02
+entry_into_force: 2005-09-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2005/06/23/2005031252/justel"
+department: "Commission communautaire commune - Région de Bruxelles-Capitale"
+retrieved: 2026-10-15
+---
+
+# 23 JUIN 2005. - Ordonnance portant assentiment au traité établissant une Constitution pour l'Europe, et à l'Acte final fait à Rome le 29 octobre 2004.
+
+L'assemblée réunie a adopté, Collège réuni, sanctionnons comme suit :
+
+## Art. 1
+
+La présente ordonnance règle une matière visée à l'article 135 de la constitution.
+
+## Art. 2
+
+Le traité établissant une Constitution pour l'Europe, et l'Acte final, faits à Rome le 29 octobre, sortiront leur plein et entier effets.
+
+## Art. 3
+
+Les amendements au traité établissant une Constitution pour l'Europe et aux protocoles y annexés qui seront adopté sur base des articles I-32 § 5, I-40 § 7, I-55 § 4, III-167 § 2 (c), III-184 § 13, III-187 § 3, III-210 § 3, III-234 § 2, III-243, III-269 § 3, III-271 § 1, III-274 § 4, III-300 § 3, III-381, III-393, III-422 en IV-444 du Traité établissant une Constitution pour l'Europe ainsi que l'article 5 du Protocole n°8 et de l'article 10 du Protocole n°9, sortiront leur plein et entier effet.
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 23 juin 2005.
+
+Le membre du Collège réuni compétent pour la Politique de la Santé, les Finances, le Budget et les Relations extérieures,
+
+G. VANHENGEL
+
+Le membre du Collège réuni compétent pour la Politique de la Santé et la Fonction Publique,
+
+B. CEREXHE
+
+Le membre du Collège réuni compétent pour la Politique d'aide aux personnes et la Fonction Publique,
+
+P. SMET
+
+Le membre du Collège réuni compétent pour la Politique d'aide aux personnes, les Finances, le Budget et les Relations extérieures,
+
+Mme E. HUYTEBROECK.
