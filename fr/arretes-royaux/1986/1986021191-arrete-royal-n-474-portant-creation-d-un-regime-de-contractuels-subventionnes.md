@@ -1,0 +1,258 @@
+---
+title: "Arrêté royal n° 474 portant création d'un régime de contractuels subventionnés par l'Etat auprès de certains pouvoirs locaux."
+identifier: "1986021191"
+eli: "https://www.ejustice.just.fgov.be/eli/arrete/1986/10/28/1986021191/justel"
+type: royal-decree
+justel_type: "ARRETE ROYAL"
+jurisdiction: be
+language: fr
+date: 1986-10-28
+published: 1986-11-20
+entry_into_force: 1987-01-01
+last_amended: 2024-02-07
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/arrete/1986/10/28/1986021191/justel"
+department: "Intérieur - Fonction publique - Emploi et Travail - Prévoyance Sociale"
+justel_notes:
+  - "Par son arrêt du 08-06-1988 (M.B. 06-07-1988, p. 9819), la Cour d'arbitrage à annulé l'article 3, alinéa 4, dans la mesure où ces dispositions s'appliquent à la Région flamande et à la Région wallonne"
+  - "Consultation des versions antérieures à partir du 07-04-1987 et mise à jour au 07-02-2024"
+retrieved: 2026-10-15
+---
+
+# 28 OCTOBRE 1986. - Arrêté royal n° 474 portant création d'un régime de contractuels subventionnés par l'Etat auprès de certains pouvoirs locaux.
+
+Vu la loi du 27 mars 1986 attribuant certains pouvoirs spéciaux au Roi, notamment l'article 1er, 6°, et l'article 3, § 2;
+
+Vu l'urgence;
+
+Vu la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980, notamment l'article 212, modifié par l'arrêté royal n° 28 du 24 mars 1982, par l'arrêté royal n° 87 du 31 juillet 1982 et par la loi du 31 juillet 1984;
+
+Vu la loi du 29 juin 1981 contenant les principes généraux de la sécurité sociale pour travailleurs salariés, notamment l'article 38 modifié par les arrêtés royaux n° 96 du 28 septembre 1982, n° 134 du 30 décembre 1982, n° 214 du 30 septembre 1983, n° 287 du 31 mars 1984 et n° 401 du 18 avril 1986;
+
+Vu la loi du 1er août 1985 portant des dispositions sociales, notamment l'article 1;
+
+Vu l'avis des Exécutifs visés par l'article 6, § 4, 3°, et § 7, de la loi spéciale du 8 août 1980 de réformes institutionnelles;
+
+Vu l'avis du Conseil d'Etat;
+
+Sur la proposition de Notre Ministre de l'Intérieur et de la Fonction publique, de Notre Ministre de l'Emploi et du Travail et de Notre Ministre des Affaires sociales et de l'avis de Nos Ministres qui en ont délibéré en Conseil,
+
+.....
+
+(Rapport au Roi et Avis du Conseil d'Etat, M.B. 20-11-1986, p. 15711-15716)
+
+## Art. 1
+
+Pour l'application du présent arrêté, il faut entendre par pouvoirs locaux : les communes, les associations de communes sauf celles à finalité économique, les centres publics d'aide sociale, les associations de centres publics d'aide sociale et les centres intercommunaux d'aide sociale.
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, restreindre le champ d'application susvisé ou l'étendre à d'autres pouvoirs locaux.
+
+(NOTE : l'arrêté du Gouvernement wallon ARW 2002-01-24/36, art. 1, étend le champ d'application du présent arrêté aux zones de police de la région wallonne. L'arrêté du Gouvernement de la Région de Bruxelles-Capitale ARR 2002-03-21/49, art. 1, étend le champ d'application du présent arrêté aux zones de police de la région de Bruxelles-Capitale.)
+
+Article 1. (COMMUNAUTE GERMANOPHONE)
+
+[<sup>2</sup> Pour l'application du présent arrêté est considérée comme autorité locale une commune ou association de communes occupant un travailleur contractuel subventionné pour l'exploitation d'un parc à conteneurs, à savoir un site clôturé dûment autorisé et surveillé où est opéré l'accueil sélectif des déchets et où ceux-ci sont triés et répartis dans des conteneurs selon leur nature, puis écoulés vers des centres qui procèdent soit à leur valorisation s'ils sont récupérables, soit à leur élimination s'ils ne le sont pas.]<sup>2</sup>
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, restreindre le champ d'application susvisé ou l'étendre à d'autres pouvoirs locaux.
+
+----------
+
+(1)&lt;DCG 2009-04-27/19, art. 19, 007; En vigueur : 25-06-2009&gt;
+
+(2)&lt;DCG 2018-05-28/07, art. 44, 010; En vigueur : 01-01-2019&gt;
+
+## Art. 2
+
+Les pouvoirs locaux définis à l'article 1er du présent arrêté, peuvent, pour l'engagement des contractuels visés par le présent arrêté, bénéficier d'une prime dans les limites des crédits budgétaires prévus à cette fin.
+
+Les agents en faveur desquels les pouvoirs locaux obtiennent la prime sont appelés "contractuels subventionnés".
+
+Ils sont engagés dans les liens d'un contrat de travail à durée déterminée ou indéterminée.
+
+## Art. 3
+
+&lt;NOTE : Par son arrêt du 08-06-1988 (M.B. 06-07-1988, p. 9828), la Cour d'arbitrage a annulé l'article 3, alinéa 4, dans la mesure où ces dispositions s'appliquent à la Région flamande et à la Région wallonne&gt; (NOTE : voir plus loin une forme différente donnée à l'article 3 par l'Excutif flamand.) L'Office national de l'emploi est chargé de verser la prime visée à l'article 2, en faveur des pouvoirs locaux qui ont conclu une convention avec le Ministre de l'Emploi et du Travail, à l'Office national de sécurité sociale des administrations provinciales et locales.
+
+Cette convention fixe la base de référence permettant l'attribution de la prime.
+
+Cette convention est conclue dans le respect de la procédure de négociation prévue par la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités.
+
+Le Roi établit le modèle de convention et les modalités de payement de la prime visée à l'article 2.
+
+(NOTE: L'Exécutif flamand a donné à l'article 3 la forme suivante : " Art. 3. &lt;NOTE : Par son arrêt du 08-06-1988 (M.B. 06-07-1988, p. 9828), la Cour d'arbitrage a annulé l'article 3, alinéa 4, dans la mesure où ces dispositions s'appliquent à la Région flamande et à la Région wallonne&gt; (Les services compétents de la Communauté flamande sont chargés du versement de la prime visée à l'article 2 à l'Office national de la Sécurité sociale des Services publics provinciaux et locaux, au bénéfice des services locaux ayant conclu une convention avec le Ministre communautaire compétent pour l'emploi.) &lt;DCFL 1992-06-25/31, art. 101, 004; En vigueur : 21-07-1992&gt;)
+
+Cette convention fixe la base de référence permettant l'attribution de la prime.
+
+Cette convention est conclue dans le respect de la procédure de négociation prévue par la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités.
+
+Le Roi établit le modèle de convention et les modalités de payement de la prime visée à l'article 2. " &lt;DCFL 1992-06-25/31, art. 101, 004; En vigueur : 21-07-1992&gt;)
+
+## Art. 4
+
+§ 1er. La prime visée à l'article 2 n'est accordée qu'à la condition que :
+
+1° le pouvoir local concerné applique aux membres de son personnel les avantages de l'interruption de carrière, instaurée par la loi de redressement du 22 janvier 1985 contenant des dispositions sociales;
+
+2° les contractuels subventionnés exercent leurs activités dans le secteur non-marchand tel qu'il est défini à l'article 1er de l'arrêté royal n° 25 du 24 mars 1982 créant un programme de promotion de l'emploi dans le secteur non-marchand.
+
+§ 2. Le Roi, par arrêté délibéré en Conseil des Ministres, détermine les critères et les modalités d'octroi de la prime. Il en fixe le montant en fonction de la contribution du pouvoir local à la réalisation de la politique de l'emploi.
+
+§ 3. Le montant de la prime par contractuel subventionné est fixé sur une base annuelle. La liquidation en est opérée proportionnellement à la durée du contrat de travail, (au régime de travail et la charge salariale). &lt;ARN511 1987-03-11/35, art. 1, 002; En vigueur : 01-01-1987&gt;
+
+Art. 4. (REGION WALLONNE)
+
+§ 1er. (...) &lt;DRW 2002-04-25/43, art. 36, 005; En vigueur : indéterminée &gt;
+
+§ 2. Le Roi, par arrêté délibéré en Conseil des Ministres, détermine les critères et les modalités d'octroi de la prime. Il en fixe le montant en fonction de la contribution du pouvoir local à la réalisation de la politique de l'emploi.
+
+§ 3. (...) &lt;DRW 2002-04-25/43, art. 36, 005; En vigueur : indéterminée &gt;)
+
+Art. 4. (COMMUNAUTE GERMANOPHONE)
+
+§ 1er. La prime visée à l'article 2 n'est accordée qu'à la condition que :
+
+1° le pouvoir local concerné applique aux membres de son personnel les avantages de l'interruption de carrière, instaurée par la loi de redressement du 22 janvier 1985 contenant des dispositions sociales;
+
+2° [<sup>1</sup> les contractuels subventionnés exercent leurs activités dans le secteur non-marchand tel qu'il est défini à l'article 1er de l'arrêté royal n° 25 du 24 mars 1982 créant un programme de promotion de l'emploi dans le secteur non-marchand, ou dans une régie communale autonome active dans les secteurs de la culture, des sports, du tourisme, des loisirs, de l'enseignement, de l'aide sociale, des sciences et des soins.]<sup>1</sup>
+
+§ 2. Le Roi, par arrêté délibéré en Conseil des Ministres, détermine les critères et les modalités d'octroi de la prime. Il en fixe le montant en fonction de la contribution du pouvoir local à la réalisation de la politique de l'emploi.
+
+§ 3. Le montant de la prime par contractuel subventionné est fixé sur une base annuelle. La liquidation en est opérée proportionnellement à la durée du contrat de travail, (au régime de travail et la charge salariale). &lt;ARN511 1987-03-11/35, art. 1, 002; En vigueur : 01-01-1987&gt;
+
+----------
+
+(1)&lt;DCG 2009-04-27/19, art. 20, 007; En vigueur : 25-06-2009&gt;
+
+## Art. 5
+
+§ 1er. Peuvent occuper un emploi de contractuel subventionné :
+
+1° les chômeurs complets qui sont indemnisés depuis au moins six mois ou les chômeurs qui ont connu au moins six mois de chômage complet indemnisé au cours de l'année qui précède leur engagement;
+
+2° les chômeurs complets visés par l'article 123, § 5, de l'arrêté royal du 20 décembre 1963 relatif à l'emploi et au chômage, qui sont chômeurs depuis au moins six mois ou qui ont connu au moins six mois de chômage au cours de l'année qui précède leur engagement;
+
+3° les chômeurs mis au travail, les travailleurs du "Cadre spécial temporaire" et du "Troisième circuit de travail";
+
+4° les personnes visées à l'article 2, § 2, 5°, et 6°, et § 3, de l'arrêté royal n° 25 du 24 mars 1982 créant un programme de promotion de l'emploi dans le secteur non-marchand.
+
+§ 2. Pour l'application du présent article, la durée d'occupation en tant que chômeur occupé par les pouvoirs publics ou en tant que travailleur occupé dans le Cadre spécial temporaire ou dans le Troisième circuit de travail est considérée comme durée de chômage complet indemnisé.
+
+Le contractuel subventionné ne peut occuper un emploi pouvant bénéficier d'une subvention en exécution d'une loi, d'un décret ou d'un arrêté.
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, restreindre le champ d'application susvisé ou l'étendre à d'autres catégories de travailleurs.
+
+----------
+
+## Art. 5_COMMUNAUTE_GERMANOPHONE
+
+[<sup>1</sup> § 1er - Les demandeurs d'emploi inoccupés suivants, inscrits en tant que demandeurs d'emploi, peuvent occuper un emploi en tant que travailleur contractuel subventionné :
+
+1° les chômeurs complets indemnisés et inoccupés, conformément à l'arrêté royal du 25 novembre 1991 portant réglementation du chômage;
+
+2° les bénéficiaires, inoccupés, d'une allocation de remplacement de revenus ou d'une allocation d'intégration en vertu de la loi du 27 février 1987 relative aux allocations aux handicapés;
+
+3° les chômeurs énumérés à l'article 89 de l'arrêté royal susmentionné;
+
+4° [<sup>1</sup> les chômeurs complets indemnisés qui suivent une formation professionnelle organisée ou agréée par le service désigné par le Gouvernement, compétent en matière de promotion de l'emploi et de placement, par le service désigné par le Gouvernement, compétent en matière de vie autodéterminée, ou par l'Institut pour la formation et la formation continue dans les Classes moyennes et les PME]<sup>1</sup>.
+
+5° les bénéficiaires, inoccupés, du revenu d'intégration prévu dans la loi du 26 mai 2002 concernant le droit à l'intégration sociale;
+
+6° les bénéficiaires, inoccupés, de l'aide sociale qui, en raison de leur nationalité, n'ont pas droit au revenu d'intégration sociale prévu dans la loi du 26 mai 2002 concernant le droit à l'intégration sociale et qui sont inscrits au registre des étrangers, dans la mesure où ils sont dispensés de la demande d'un permis de travail conformément à l'article 2 de l'arrêté royal du 9 juin 1999 portant exécution de la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers ou sont en possession d'un permis de travail;
+
+7° les demandeurs d'asile en possession d'un permis de travail C valable, conformément à l'article 17, 1°, de l'arrêté royal du 9 juin 1999 susmentionné;
+
+8° les demandeurs d'emploi inoccupés domiciliés en région de langue allemande.
+
+§ 2 - Les personnes engagées en tant que travailleurs contractuels subventionnés ne peuvent, la veille de l'exécution du contrat, être porteuses d'un diplôme supérieur au certificat de l'enseignement secondaire supérieur.
+
+§ 3 - La situation des personnes visées au premier alinéa est appréciée le jour qui précède l'exécution du contrat.
+
+§ 4 - Le Gouvernement peut limiter ou étendre le champ d'application du présent article. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2018-05-28/07, art. 45, 010; En vigueur : 01-01-2019&gt;
+
+(1)&lt;DCG 2023-11-13/18, art. 48, 011; En vigueur : 01-01-2024&gt;
+
+## Art. 6
+
+Les contractuels subventionnés travaillent sous la responsabilité et l'autorité du pouvoir local qui les occupe et les rémunère.
+
+Ils reçoivent au minimum une rémunération égale au traitement octroyé à un membre du personnel de l'Etat pour la même fonction ou pour une fonction analogue, ainsi que les augmentations barémiques qui y sont liées.
+
+(Ils reçoivent une allocation de fin d'année, au moins aux mêmes conditions que le personnel définitif des administrations de l'Etat). &lt;ARN511 1987-03-11/35, art. 2, 002; En vigueur : 01-01-1987&gt;
+
+(NOTE : Article 6 abrogé pour la Région wallonne par &lt;DRW 2002-04-25/43, art. 36, 005; En vigueur : indéterminée &gt;)
+
+## Art. 7
+
+&lt;Abrogé par L 2014-04-24/44, art. 22, 009; En vigueur : 01-01-2014&gt;
+
+## Art. 8
+
+&lt;ARN511 1987-03-11/35, art. 3, 002; Inwerkingtreding : 01-01-1987&gt; Le pouvoir local paie au contractuel subventionné qui prend ses vacances :
+
+1° la rémunération normale afférente aux jours de vacances;
+
+2° un supplément au moins égal au pécule de vacances accordé au personnel définitif des administrations de l'Etat.
+
+Le Roi détermine les modalités de calcul du pécule de vacances visé à l'alinéa 1er, ainsi que la manière dont les administrations locales déduiront le montant du pécule de vacances simple, que l'intéressé a déjà perçu d'un autre employeur pour ses prestations durant l'exercice de références, de la rémunération du mois au cours duquel le contractuel prendra ses grandes vacances.
+
+La durée des vacances est déterminée par exercice de référence, sur la base des prestations accomplies au cours de cet exercice. La durée des vacances pour 12 mois de travail et pour les journées d'activité assimilées à des journées de travail doit être au moins de 20 jours dans le régime de la semaine de 5 jours de travail.
+
+Pour le surplus, les dispositions des lois relatives aux vacances annuelles des travailleurs salariés, coordonnées le 28 juin 1971, et qui visent les travailleurs intellectuels, sont d'application.
+
+COMMUNAUTES ET REGIONS
+
+Art. 8. (REGION WALLONNE)
+
+&lt;Abrogé par DRW 2002-04-25/43, art. 36, 005; Inwerkingtreding : onbepaald&gt;
+
+Art. 8. (COMMUNAUTE FLAMANDE)
+
+&lt;ARN511 1987-03-11/35, art. 3, 002; Inwerkingtreding : 01-01-1987&gt; Le pouvoir local paie au contractuel subventionné qui prend ses vacances :
+
+1° la rémunération normale afférente aux jours de vacances;
+
+2° (un supplément au moins égal au pécule de vacances, accordé au personnel définitif des administrations locales en question.) &lt;DCFL 2002-05-08/41, art. 5, 006; Inwerkingtreding : 01-01-2002&gt;
+
+Le Roi détermine les modalités de calcul du pécule de vacances visé à l'alinéa 1er, ainsi que la manière dont les administrations locales déduiront le montant du pécule de vacances simple, que l'intéressé a déjà perçu d'un autre employeur pour ses prestations durant l'exercice de références, de la rémunération du mois au cours duquel le contractuel prendra ses grandes vacances.
+
+La durée des vacances est déterminée par exercice de référence, sur la base des prestations accomplies au cours de cet exercice. La durée des vacances pour 12 mois de travail et pour les journées d'activité assimilées à des journées de travail doit être au moins de 20 jours dans le régime de la semaine de 5 jours de travail.
+
+Pour le surplus, les dispositions des lois relatives aux vacances annuelles des travailleurs salariés, coordonnées le 28 juin 1971, et qui visent les travailleurs intellectuels, sont d'application.)
+
+Art. 8. (COMMUNAUTE GERMANOPHONE)
+
+&lt;Abrogé par DCG 2013-06-24/47, art. 164, 008; En vigueur : 01-04-2012&gt;
+
+## Art. 9
+
+A l'article 212 de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980, modifié par l'arrêté royal n° 28 du 24 mars 1982, par l'arrêté royal n° 87 du 31 juillet 1982 et par la loi du 31 juillet 1984, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots "de la section 3 \_ Cadre spécial temporaire \_ du chapitre III de la loi du 22 décembre 1977 relative aux propositions budgétaires 1977-1978, de l'arrêté royal n° 25 du 24 mars 1982 créant un programme de promotion de l'emploi dans le secteur non-marchand, et celle de l'article 7, § 1er, alinéa 3, k), de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs" sont remplacés par les mots "de l'ensemble des mesures faisant l'objet des programmes de mise au travail et d'emploi";
+
+2° dans l'alinéa 2, les mots "31 décembre 1987" sont remplacés par les mots "30 juin 1990";
+
+3° dans l'alinéa 3, les mots "au Cadre spécial temporaire, au Fonds budgétaire interdépartemental de promotion de l'emploi, au Troisième circuit de travail ou aux primes de réadaptation et aux primes d'adaptation" sont remplacés par les mots "aux programmes de mise au travail et d'emploi";
+
+4° dans l'alinéa 4, les mots "le paiement des primes de réadaptation et des primes d'adaptation" sont remplacés par les mots "l'application des programmes de mise au travail et d'emploi".
+
+## Art. 10
+
+L'article 38, § 3bis, de la loi du 29 juin 1981 contenant les principes généraux de la sécurité sociale pour travailleurs salariés, y inséré par l'arrêté royal n° 401 du 18 avril 1986, est complété par les alinéas suivants : "....."
+
+## Art. 11
+
+§ 1er. L'article 1 de la loi du 1er août 1985 portant des dispositions sociales, est complété par un paragraphe 2bis rédigé comme suit : "....."
+
+§ 2. L'article 2, alinéa 1er, de la même loi est complété comme suit : "....."
+
+## Art. 12
+
+Le présent arrêté entre en vigueur le 1er janvier 1987.
+
+## Art. 13
+
+Notre Ministre de l'Intérieur et de la Fonction publique, Notre Ministre de l'Emploi et du Travail et Notre Ministre des Affaires sociales sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
