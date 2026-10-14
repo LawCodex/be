@@ -1,0 +1,352 @@
+---
+title: "Ordonnance relative aux aides à l'emploi accessibles en Région de Bruxelles-Capitale"
+identifier: "2017020463"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017020463/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2017-06-23
+published: 2017-07-14
+last_amended: 2026-07-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017020463/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "Consultation des versions antérieures à partir du 14-07-2017 et mise à jour au 14-07-2026"
+retrieved: 2026-10-12
+---
+
+# 23 JUIN 2017. - Ordonnance relative aux aides à l'emploi accessibles en Région de Bruxelles-Capitale
+
+Le Parlement de la Région de Bruxelles-Capitale a adopté et Nous, Exécutif, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales
+
+#### Art. 1er
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+#### Art. 2
+
+Pour l'application de la présente ordonnance et de ses mesures d'exécution, l'on entend par :
+
+1° " l'allocation de travail " : l'allocation visée à l'article 6, § 1er, IX, 7°, b), de la loi spéciale de réformes institutionnelles du 8 août 1980 ;
+
+2° " les réductions de cotisations patronales de sécurité sociale " : les réductions visées à l'article 6, § 1er, IX, 7°, a), de la loi spéciale de réformes institutionnelles du 8 août 1980 ;
+
+3° " le demandeur d'emploi inoccupé " : la personne domiciliée en Région de Bruxelles-Capitale qui est inscrite en tant que demandeur d'emploi auprès d'Actiris et qui n'exerce aucune activité professionnelle ou équivalente ;
+
+4° " le travailleur " : le demandeur d'emploi inoccupé qui est engagé auprès d'un employeur et qui bénéficie de l'une des mesures d'aide prévues par la présente ordonnance ;
+
+5° " l'entrée en service " : la date à laquelle le demandeur d'emploi inoccupé débute l'exécution de son contrat de travail auprès d'un employeur ;
+
+6° " l'arrêté royal du 25 novembre 1991 " : l'arrêté royal du 25 novembre 1991 portant réglementation du chômage ;
+
+7° " le Gouvernement " : le Gouvernement de la Région de Bruxelles-Capitale.
+
+## CHAPITRE II. - Dispositifs d'insertion à l'emploi
+
+### Section 1re. - Contrat d'insertion
+
+#### Art. 3
+
+En vue d'accroître les compétences du demandeur d'emploi inoccupé depuis une longue durée après la fin de ses études, de favoriser la transition vers un emploi durable et de qualité, ainsi que de faciliter l'acquisition d'une expérience professionnelle, le Gouvernement peut octroyer une aide aux employeurs qui concluent avec un demandeur d'emploi inoccupé de longue durée un contrat de travail à temps plein d'une durée déterminée d'un an.
+
+L'aide prend la forme d'une prime destinée à réduire le coût salarial du travailleur.
+
+#### Art. 4
+
+Le Gouvernement détermine la catégorie des employeurs pouvant bénéficier de la prime, les critères d'octroi, la procédure de demande, le montant et les modalités de paiement de la prime ainsi que les modalités du contrat de travail.
+
+Pour l'application de l'article 3, le Gouvernement détermine ce qu'il convient d'entendre par demandeur d'emploi inoccupé depuis une longue durée après la fin de ses études. La durée d'inoccupation est au moins égale à 18 mois pour l'application de cette section.
+
+### Section 2. - Dispositif d'emploi d'insertion en économie sociale
+
+#### Art. 5
+
+En vue de faciliter l'insertion de certaines catégories de demandeurs d'emploi inoccupés qui, compte tenu de leur situation psychosociale ou de leur niveau d'infraqualification, restent particulièrement éloignés du marché de l'emploi, le Gouvernement peut octroyer une aide aux employeurs, [<sup>1</sup> visés à l'article 2, 2°, de l'ordonnance du 23-07-2018 relative à l'agrément et au soutien des entreprises sociales]<sup>1</sup>, qui concluent un contrat de travail avec un demandeur d'emploi particulièrement éloigné du marché de l'emploi.
+
+L'aide prend la forme d'une prime destinée à réduire le coût salarial du travailleur.
+
+----------
+
+(1)&lt;ORD 2018-07-23/06, art. 31, 003; En vigueur : 01-02-2019&gt;
+
+#### Art. 6
+
+Le Gouvernement détermine les critères d'octroi, la procédure de demande, le montant et les modalités de paiement de la prime.
+
+Pour l'application de l'article 5, le Gouvernement détermine la notion de demandeur d'emploi particulièrement éloigné du marché de l'emploi. Il détermine les modalités du contrat de travail.
+
+### Section 3. - Dispositif visé aux articles 60, § 7, et 61 de la loi du 8 juillet 1976 organique des centres publics d'action sociale
+
+#### Art. 7
+
+à l'article 5 de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale, les modifications suivantes sont apportées :
+
+1° dans le § 4bis, alinéa 3, introduit par la loi du 2 août 2002, les mots " Le Roi " sont remplacés par les mots " Le Gouvernement de la Région de Bruxelles-Capitale " ;
+
+2° dans la version néerlandaise du § 4bis, alinéa 4, le mot " hij " est remplacé par le mot " zij " ;
+
+3° dans le § 4ter, alinéa 3, inséré par la loi du 2 août 2002, les mots " Le Roi fixe, par arrêté délibéré en Conseil des Ministres, " sont remplacés par les mots " Le Gouvernement de la Région de Bruxelles-Capitale détermine ".
+
+#### Art. 8
+
+à l'article 60, § 7, de la loi du 8 juillet 1976 organique des centres publics d'action sociale, modifié par la loi du 2 août 2002, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 3, les mots " par le Ministre compétent pour l'économie sociale " sont remplacés par les mots " par le Ministre compétent pour l'Emploi " ;
+
+2° dans l'alinéa 4, inséré par la loi du 2 août 2002, les mots " le Roi " sont remplacés par les mots " le Gouvernement de la Région de Bruxelles-Capitale ".
+
+#### Art. 9
+
+Dans l'article 36, § 2, de la loi du 26 mai 2002 concernant le droit à l'intégration sociale, les mots " Le Roi " sont chaque fois remplacés par les mots " Le Gouvernement de la Région de Bruxelles-Capitale ".
+
+Dans la version néerlandaise de l'article 36, § 2, le mot " hij " est remplacé par le mot " zij ".
+
+#### Art. 10
+
+Dans l'article 38, alinéa 3, de la même loi, les mots " Le Roi fixe, par arrêté délibéré en conseil des ministres, " sont remplacés par les mots " Le Gouvernement de la Région de Bruxelles-Capitale fixe, ".
+
+### Section 4. - Dispositif d'emploi formatif pour jeunes demandeurs d'emploi
+
+#### Art. 11
+
+En vue de permettre aux demandeurs d'emploi inoccupés, âgés de moins de 30 ans et titulaires au maximum d'un diplôme ou certificat de l'enseignement secondaire supérieur, d'acquérir une expérience professionnelle et d'accroître leurs compétences professionnelles via une formation couplée à l'emploi, le Gouvernement peut octroyer une aide à l'employeur du secteur public qui conclut avec un demandeur d'emploi un contrat de travail à temps plein d'une durée maximale d'un an, renouvelable une fois et qui comprend un volet formation.
+
+L'aide prend la forme d'une prime destinée à réduire le coût salarial du travailleur.
+
+#### Art. 12
+
+Le Gouvernement détermine les catégories d'employeurs du secteur public pouvant bénéficier de la prime.
+
+#### Art. 13
+
+Le Gouvernement détermine les formations ouvrant le droit à la prime, les critères d'octroi, la procédure de demande, le montant et les modalités de paiement de la prime.
+
+## CHAPITRE III. - Dispositif d'activation à l'emploi
+
+### Section 1re.
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 14
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 15
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 16
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+### Section 2.
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 17
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 18
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+### Section 3.
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 19
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 20
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+### Section 4.
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 21
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 22
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 23
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 24
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 25
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+#### Art. 26
+
+&lt;Abrogé par ORD 2026-07-09/01, art. 2, 004; En vigueur : 15-07-2026&gt;
+
+### Section 5. - Dispositif d'aide à l'emploi indépendant
+
+#### Art. 27
+
+Le Gouvernement peut octroyer une aide au demandeur d'emploi inoccupé qui s'installe comme travailleur indépendant à titre principal, en vue de développer son propre emploi.
+
+#### Art. 28
+
+L'aide prend la forme d'une prime destinée à assurer un soutien financier temporaire au demandeur d'emploi inoccupé et qui peut être octroyée pour autant qu'il remplisse les conditions suivantes :
+
+1° il dispose d'un numéro d'entreprise auprès de la Banque Carrefour des Entreprises ;
+
+2° il fait l'objet, tout au long des étapes de son installation en tant que travailleur indépendant, d'un accompagnement par une structure compétente qui consiste en une analyse d'opportunité destinée à étudier la faisabilité technique, commerciale et financière de l'activité envisagée ;
+
+3° il n'a pas conclu de convention avec une coopérative d'activités telle que prévue à l'article 82 de la loi du 1er mars 2007 portant des dispositions diverses (III).
+
+#### Art. 29
+
+Le Gouvernement détermine les conditions régissant l'octroi, la procédure de demande, le montant, la dégressivité et les modalités de paiement de la prime. Il détermine également les critères et les conditions de l'accompagnement ainsi que les organismes compétents pour cet accompagnement.
+
+## CHAPITRE IV. - Dispositifs de maintien à l'emploi
+
+### Section 1re. -Disposition générale
+
+#### Art. 30
+
+Dans la loi-programme (I) du 24 décembre 2002, il est inséré un article 338/2 rédigé comme suit :
+
+" Article 338/2. - Pour qu'un employeur puisse bénéficier de l'une des réductions groupes-cibles due pour un travailleur en application des sous-sections 2, 5bis, 7 et 10 à 14 incluses de la présente section, ce travailleur doit être occupé dans une unité d'établissement située sur le territoire de la Région de Bruxelles-Capitale.
+
+Par dérogation à l'alinéa précédent, dans le cas où l'employeur ne dispose pas d'unité d'établissement en Belgique mais où il occupe un travailleur en Belgique, les réductions groupes-cibles visées aux sous-sections 2, 5bis, 7 et 10 à 14 incluses de la présente section s'appliquent lorsque le travailleur est principalement occupé, pendant le trimestre concerné, sur le territoire de la Région de Bruxelles-Capitale. ".
+
+### Section 2. - Travailleurs âgés
+
+#### Art. 31
+
+L'article 339 de la Loi-programme (I) du 24 décembre 2002, remplacé par la loi du 27 décembre 2012, est remplacé par ce qui suit :
+
+" Article 339. - Le Gouvernement de la Région de Bruxelles-Capitale peut, selon les conditions qu'il détermine, octroyer une réduction groupes-cibles aux employeurs occupant des travailleurs âgés.
+
+L'occupation d'un travailleur âgé doit satisfaire au minimum aux conditions suivantes :
+
+1° le travailleur âgé appartient à la catégorie 1 des travailleurs, visée à l'article 330 ;
+
+2° le travailleur âgé a atteint au moins l'âge de 55 ans au dernier jour du trimestre ;
+
+3° le salaire trimestriel de référence du travailleur âgé est inférieur au plafond salarial que le Gouvernement de la Région de Bruxelles-Capitale détermine.
+
+La réduction cesse à dater du dernier jour du trimestre au cours duquel le travailleur âgé a atteint l'âge légal de la pension.
+
+Le Gouvernement de la Région de Bruxelles-Capitale peut déterminer le montant forfaitaire et la durée d'octroi de la réduction groupes-cibles ainsi que les catégories d'âges qui peuvent en bénéficier. ".
+
+## CHAPITRE V. - Dispositifs d'aides spécifiques à l'emploi
+
+#### Art. 32
+
+En vue de promouvoir leur intégration sur le marché du travail, le Gouvernement peut octroyer, en fonction des caractéristiques propres du demandeur d'emploi, une prime à certaines catégories d'employeurs ou de demandeurs d'emploi inoccupés qui reprennent le travail.
+
+#### Art. 33
+
+L'entreprise agréée, au sens de l'article 2bis de l'accord de coopération-cadre relatif à la formation en alternance, conclu à Bruxelles, le 24 octobre 2008, entre la Communauté française, la Région wallonne et la Commission communautaire française, ou de l'article 7 du décret flamand du 10 juin 2016 réglant certains aspects des formations en alternance, peut obtenir une prime annuelle [<sup>1</sup> ...]<sup>1</sup> par tuteur respectant les conditions définies dans l'accord de coopération-cadre ou le décret précités.
+
+Le Gouvernement détermine le montant de la prime, les conditions d'octroi ainsi que les conditions liées aux apprenants.
+
+----------
+
+(1)&lt;ORD 2018-06-14/01, art. 10, 002; En vigueur : 01-06-2018&gt;
+
+## CHAPITRE VI. - Contrôle et surveillance
+
+#### Art. 34
+
+Sans préjudice des compétences d'inspection et de contrôle des institutions fédérales compétentes pour les allocations de travail et les cotisations de sécurité sociale qui sont les seuls opérateurs administratifs et techniques, les fonctionnaires désignés par le Gouvernement contrôlent l'application de la présente ordonnance et de ses mesures d'exécution, et surveillent le respect de celles-ci.
+
+Ces fonctionnaires exercent ce contrôle ou cette surveillance conformément aux dispositions de l'ordonnance du 30 avril 2009 relative à la surveillance des réglementations en matière d'emploi qui relèvent de la compétence de la Région de Bruxelles-Capitale et à l'instauration d'amendes administratives applicables en cas d'infraction à ces réglementations.
+
+#### Art. 35
+
+Les dispositions de l'ordonnance du 8 octobre 2015 portant des règles générales relatives à la rétention, au recouvrement et à la non-liquidation des subventions en matière d'emploi et d'économie ou les règles spécifiques reprises dans les mesures d'exécution de la présente ordonnance s'appliquent à la récupération des primes et allocations visées aux chapitres II, III et V.
+
+#### Art. 36
+
+Sans préjudice des compétences réservées aux opérateurs administratifs et techniques visés à l'article 6, § 1er, IX, 7°, de la loi spéciale de réformes institutionnelles du 8 août 1980, les autorités désignées par le Gouvernement adoptent :
+
+1° les décisions relatives à l'octroi, la suspension et la cessation des primes et allocations instaurées par la présente ordonnance ;
+
+2° les décisions relatives au caractère indu des primes et allocations versées, résultant d'une violation des dispositions de la présente ordonnance ou de ses arrêtés d'exécution, et à leur recouvrement.
+
+Le Gouvernement fixe les modalités relatives à l'adoption des décisions visées au 1° et 2°.
+
+## CHAPITRE VII. - Dispositions abrogatoires
+
+#### Art. 37
+
+Le Gouvernement peut adopter les règles visant l'abrogation totale ou partielle des réglementations relatives à l'activation d'allocations et des réglementations relatives aux réductions de cotisations patronales de sécurité sociale qui sont établies en fonction des caractéristiques propres des travailleurs telles que fixées par :
+
+1° l'arrêté royal du 19 décembre 2001 de promotion de mise à l'emploi des demandeurs d'emploi de longue durée ;
+
+2° l'arrêté royal du 29 mars 2006 portant exécution de l'article 7, § 1er, alinéa 3, m, de l'arrêté-loi du 28 décembre 1944 relatif à la sécurité sociale des travailleurs pour la promotion de mise à l'emploi des jeunes moins qualifiés ou très peu qualifiés ;
+
+3° l'arrêté royal du 9 juin 1997 d'exécution de l'article 7, § 1er, alinéa 3, m, de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs relatif aux programmes de transition professionnelle ;
+
+4° l'arrêté royal du 3 mai 1999 portant exécution de l'article 7, § 1er, alinéa 3, m, de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs relatif à la réinsertion de chômeurs très difficiles à placer ;
+
+5° les articles 78ter, 129bis à 129quater, 131, 131quater, 131quinquies, 131septies à 131nonies de l'arrêté royal du 25 novembre 1991 ;
+
+6° l'arrêté royal du 16 mai 2003 pris en exécution du Chapitre 7 du Titre IV de la loi-programme du 24 décembre 2002 (I), visant à harmoniser et à simplifier les régimes de réductions de cotisations de sécurité sociale.
+
+## CHAPITRE VIII. - Dispositions transitoires
+
+#### Art. 38
+
+Dans l'hypothèse où un travailleur bénéficie, dans une autre Région, d'une activation d'allocations de travail, en application de dispositions fédérales abrogées par ou en vertu de la présente ordonnance, et installe sa résidence principale en Région de Bruxelles-Capitale, Actiris maintient le bénéfice de cette activation d'allocations de travail au profit de ce travailleur jusqu'à son terme et au plus tard jusqu'au 31 décembre 2018.
+
+Dans l'hypothèse où un travailleur bénéficie, dans une autre Région, de réductions de cotisations patronales de sécurité sociale, en application de dispositions fédérales abrogées par ou en vertu de la présente ordonnance, et est transféré vers une unité d'établissement située en Région de Bruxelles-Capitale, Actiris maintient l'octroi de cette réduction de cotisations de sécurité sociale jusqu'à son terme et au plus tard jusqu'au 31 décembre 2018.
+
+Les premier et deuxième alinéas ne s'appliquent pas lorsque l'engagement du travailleur, à l'origine de l'activation d'allocations de travail ou des réductions de cotisations de sécurité sociale, a eu lieu après l'abrogation des dispositions fédérales y visées, par la Région dans laquelle étaient situées respectivement sa résidence principale ou l'unité d'établissement au sein de laquelle il est occupé.
+
+## CHAPITRE IX. - Disposition finale
+
+#### Art. 39
+
+Le Gouvernement fixe, pour chaque disposition de la présente ordonnance, la date d'entrée en vigueur.
+
+(NOTE : Entrée en vigueur des articles 1, 2, 7 à 10, 14 à 26, 30 à 32 et 34 à 39 fixée au 01-10-2017 par ARR 2017-09-14/04, art. 48)
+
+(NOTE : Entrée en vigueur de l'article 33 fixée au 01-07-2018 par ARR 2018-06-07/02, art. 10)
+
+(NOTE : Entrée en vigueur des articles 5 ; 6 fixée au 01-01-2021 par ARR 2019-05-16/17, art. 19)
+
+---
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 23 juin 2017.
+
+R. VERVOORT,
+
+Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, du Développement territorial, de la Politique de la ville, des Monuments et Sites, des Affaires étudiantes, du Tourisme, de la Fonction publique, de la Recherche scientifique et de la Propreté publique
+
+G. VANHENGEL,
+
+Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, des Relations extérieures et de la Coopération au Développement
+
+D. GOSUIN,
+
+Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie et de la Lutte contre l'Incendie et l'Aide médicale urgente
+
+P. SMET,
+
+Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de la Mobilité et des Travaux publics
+
+C. FREMAULT,
+
+Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée du Logement, de la Qualité de Vie, de l'Environnement et de l'Energie

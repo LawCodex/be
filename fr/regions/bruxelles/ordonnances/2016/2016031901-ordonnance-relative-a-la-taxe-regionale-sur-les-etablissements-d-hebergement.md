@@ -1,0 +1,417 @@
+---
+title: "Ordonnance relative à la taxe régionale sur les établissements d'hébergement touristique"
+identifier: "2016031901"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/23/2016031901/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2016-12-23
+published: 2017-01-06
+entry_into_force: 2017-01-06
+last_amended: 2025-07-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/23/2016031901/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "Consultation des versions antérieures à partir du 06-01-2017 et mise à jour au 24-07-2025"
+retrieved: 2026-10-12
+---
+
+# 23 DECEMBRE 2016. - Ordonnance relative à la taxe régionale sur les établissements d'hébergement touristique
+
+Le Parlement de la Région de Bruxelles-Capitale a adopté et Nous, Exécutif, sanctionnons ce qui suit :
+
+### Art. 1er
+
+La présente ordonnance règle une matière visée à l'article 39 de la Constitution.
+
+## CHAPITRE Ier. - Taxe régionale sur les établissements d'hébergement touristique Définitions
+
+### Art. 2
+
+Pour l'application de la présente ordonnance, on entend par :
+
+1° touriste : toute personne qui, dans le cadre de ses activités privées ou professionnelles, séjourne au moins une nuit dans un milieu autre que son environnement habituel sans y établir sa résidence et pour autant qu'il n'ait pas l'intention d'y rester pour une durée continue de plus de 90 jours au moment de son arrivée;
+
+2° établissement d'hébergement touristique : tout logement proposé à des touristes, pour une ou plusieurs nuits, à titre onéreux, de manière régulière ou occasionnelle;
+
+3° terrain de camping : l'établissement d'hébergement touristique qui est un espace en plein air, délimité et destiné à permettre le logement des touristes;
+
+4° hébergement à domicile : l'établissement d'hébergement touristique qui ne met à disposition des touristes que 5 unités d'hébergement au maximum et qui est exploité dans le bien immeuble dans lequel l'exploitant est domicilié;
+
+5° unité d'hébergement :
+
+\- pour tous les établissements d'hébergement touristique à l'exception des terrains de camping : la chambre à coucher ou l'espace aménagé à cet effet;
+
+\- pour les terrains de camping : l'emplacement de camping;
+
+6° exploitant : toute personne physique ou morale qui exploite un établissement d'hébergement touristique ou pour le compte de laquelle un tel établissement est exploité;
+
+7° exercice d'imposition : l'année pour laquelle la taxe est due;
+
+8° intermédiaire : toute personne physique ou morale qui, contre rémunération, intervient pour mettre à disposition une unité d'hébergement sur le marché touristique, pour assurer la promotion touristique d'un établissement d'hébergement touristique ou pour proposer des services par voie desquels les exploitants et les touristes peuvent entrer directement en contact les uns avec les autres.
+
+Calcul de la taxe
+
+### Art. 3
+
+§ 1er. Une taxe est due, calculée comme suit :
+
+\- le montant de base est de [<sup>1</sup> 0,1115 euro]<sup>1</sup> par unité d'hébergement occupée par des touristes;
+
+\- ce montant de base est multiplié par le nombre de nuitées que les touristes concernés ont passé dans l'unité d'hébergement.
+
+Lorsque plusieurs unités d'hébergement forment un ensemble qui est destiné à être mis globalement en location, toutes ces unités d'hébergement sont irréfragablement présumées être occupées par les touristes qui occupent l'ensemble.
+
+§ 2. Par dérogation au paragraphe 1er, pour les terrains de camping, le montant de base de la taxe est de 0,00669 euro par unité d'hébergement occupée par des touristes. Ce montant de base est multiplié par le nombre de nuitées que les touristes concernés ont passé dans l'unité d'hébergement.
+
+§ 3. Par dérogation au paragraphe 1er, pour les lieux d'hébergement à domicile, le montant de base de la taxe est réduit à [<sup>1</sup> 0,0892 euro]<sup>1</sup> par unité d'hébergement occupée par des touristes. Ce montant de base est multiplié par le nombre de nuitées que les touristes concernés ont passé dans l'unité d'hébergement.
+
+Pour bénéficier du montant de base réduit, le redevable doit apporter la preuve que son établissement d'hébergement touristique tombe sous la définition d'hébergement à domicile.
+
+Lorsque l'hébergement à domicile comporte plusieurs unités d'hébergement qui forment un ensemble destiné à être mis globalement en location, toutes ces unités d'hébergement sont irréfragablement présumées être occupées par les touristes qui occupent l'ensemble.
+
+§ 4. Lorsque des unités d'hébergement sont occupées par un ou plusieurs membres mineurs d'un groupe scolaire, ces nuitées ne sont pas prises en compte pour le calcul de la taxe.
+
+Afin de pouvoir bénéficier de cet abattement, le redevable doit fournir au fonctionnaire visé à l'article 7, § 3, une attestation délivrée par l'école concernée, en annexe à la déclaration complétée du mois concerné. Cette attestation doit indiquer le nombre de nuitées concernées.
+
+Redevable de la taxe
+
+----------
+
+(1)&lt;ORD 2025-07-17/03, art. 2, 003; En vigueur : 01-01-2025&gt;
+
+### Art. 4
+
+La taxe est due par l'exploitant de l'établissement d'hébergement touristique concerné.
+
+Si l'exploitant est insolvable, le propriétaire de l'immeuble dans lequel l'établissement d'hébergement touristique concerné est exploité peut être tenu responsable du paiement de la taxe due, des frais, des centimes additionnels et des intérêts liés à celle-ci, pour autant qu'il existe un faisceau d'indices, qui fait raisonnablement présumer qu'il y a collusion entre le propriétaire et l'exploitant.
+
+Si l'exploitant est inconnu, la taxe peut être enrôlée au nom du propriétaire de l'immeuble dans lequel l'établissement d'hébergement touristique concerné est exploité.
+
+Exonération
+
+### Art. 5
+
+Les établissements d'hébergement touristique qui sont des centres d'hébergement de tourisme social dans le sens de l'article 12 de l'ordonnance du 8 mai 2014 relative à l'hébergement touristique, peuvent bénéficier d'une exonération de la taxe calculée conformément à l'article 3, s'ils demandent cette exonération.
+
+Notification préalable
+
+### Art. 6
+
+§ 1er. Quand un nouvel établissement d'hébergement touristique est ouvert, le redevable doit le notifier au fonctionnaire désigné par le gouvernement dans les 31 jours de l'ouverture. Cette notification doit comprendre toutes les données nécessaires pour identifier le redevable et l'établissement d'hébergement touristique concerné.
+
+Les modalités de cette notification sont arrêtées par le gouvernement.
+
+§ 2. Le redevable qui exploite un établissement d'hébergement touristique au 1er février 2017 doit le notifier au fonctionnaire désigné par le gouvernement dans les 31 jours. Cette notification doit comprendre toutes les données nécessaires pour identifier le redevable et l'établissement d'hébergement touristique concerné.
+
+Les modalités de cette notification sont arrêtées par le gouvernement.
+
+§ 3. Si le redevable n'effectue pas les notifications prévues par les paragraphes précédents endéans les délais prévus à cet effet, le fonctionnaire désigné pour ce faire par le gouvernement peut infliger une amende administrative de 1.000 euros par unité d'hébergement de l'établissement d'hébergement touristique pour lequel la notification n'a pas eu lieu.
+
+[<sup>2</sup> Le fonctionnaire désigné par le Gouvernement peut, tenant compte de toutes les circonstances pertinentes, en ce compris la bonne foi, diminuer le montant de l'amende administrative visée à l'alinéa 1er.]<sup>2</sup>
+
+[<sup>2</sup> § 4. Le redevable communique à l'administration fiscale régionale:
+
+\- toute modification des données enregistrées lors de la notification préalable;
+
+\- la cessation définitive des activités qui donnent lieu à la taxe visée à l'article 3, et en fournit la preuve.
+
+Le Gouvernement détermine les modalités de ces notifications. ]<sup>2</sup>
+
+[<sup>1</sup> Notifications]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2024-05-16/23, art. 3, 002; En vigueur : 14-06-2024&gt;
+
+(2)&lt;ORD 2024-05-16/23, art. 4, 002; En vigueur : 14-06-2024&gt;
+
+### Art. 7
+
+§ 1er. L'administration fiscale régionale met à disposition des redevables un formulaire de déclaration mensuelle.
+
+Les redevables renvoient chaque mois le formulaire de déclaration complété et signé à l'administration dans les 31 jours à compter du dernier jour du mois pour lequel la déclaration est faite. La signature du formulaire peut être électronique.
+
+Par dérogation à l'alinéa précédent, les redevables ne doivent pas soumettre de déclaration mensuelle pour les établissements d'hébergement touristiques pour lesquels une exonération de la taxe calculée conformément à l'article 3 a été accordée en application de l'article 5.
+
+Les modalités de mise à disposition et de la soumission de la déclaration mensuelle sont arrêtées par le gouvernement.
+
+§ 2. Le redevable qui ne dispose pas du formulaire de déclaration au premier jour du mois qui suit le mois pour lequel une déclaration doit être faite, est tenu de réclamer ce formulaire avant le dernier jour du mois qui suit le mois pour lequel la déclaration doit être faite.
+
+§ 3. Le gouvernement désigne les fonctionnaires chargés de recevoir et de vérifier la déclaration des redevables.
+
+Rectification de la déclaration mensuelle
+
+### Art. 8
+
+En cas d'erreurs ou d'omissions dans la déclaration du redevable, les fonctionnaires visés à l'article 7 procèdent à la rectification de la déclaration ; la rectification est notifiée au redevable avant le 1er mars de l'année qui suit l'année de l'exercice d'imposition. Cette notification se réalise par un envoi postal recommandé ou un recommandé électronique.
+
+Taxation d'office
+
+### Art. 9
+
+§ 1er. Les fonctionnaires visés à l'article 7 procèdent à l'établissement d'office de la taxe due par le redevable lorsque :
+
+1° soit le redevable n'a pas remis dans les délais la déclaration mensuelle dont question à l'article 7 ;
+
+2° soit le redevable ne s'est pas conformé aux obligations qui lui sont imposées par la présente ordonnance ou en exécution de celle-ci ;
+
+3° soit le redevable ne s'est pas conformé aux obligations qui lui sont imposées par les chapitres III à VII du titre Ier de l'ordonnance du 21 décembre 2012 établissant la procédure fiscale en Région de Bruxelles-Capitale ou en exécution de l'ordonnance susmentionnée.
+
+La taxation d'office est faite sur la base de la présomption réfragable que toutes les unités d'hébergement dont dispose l'établissement d'hébergement touristique concerné ont effectivement été occupées par des touristes pendant toutes les nuitées de la période pour laquelle la taxation d'office est faite.
+
+§ 2. Avant de procéder à la taxation d'office, les fonctionnaires notifient aux redevables les motifs de la taxation d'office et les éléments sur lesquels la taxe est basée. Cette notification a lieu par un envoi postal recommandé ou un recommandé électronique.
+
+§ 3. Dans les 31 jours à compter du septième jour qui suit l'envoi de cette notification, le redevable peut faire valoir ses observations par écrit. La taxe ne peut être établie avant l'expiration de ce délai.
+
+Lorsque le redevable est taxé d'office, il lui incombe, en cas de contestation, d'apporter la preuve :
+
+\- que la taxation d'office est erronée ou
+
+\- que des erreurs procédurales ont été commises dans le cadre de la taxation d'office.
+
+Demandes mensuelles de paiement anticipé
+
+### Art. 10
+
+§ 1er. Les fonctionnaires visés à l'article 7 mettent à disposition mensuellement une demande de paiement anticipé à la personne qui a introduit la déclaration mensuelle reçue par l'administration, basée sur les données reprises dans cette déclaration.
+
+La mise à disposition de cette demande de paiement anticipé n'implique nullement l'acceptation des données reprises dans la déclaration mensuelle en question. Une rectification ou une taxation d'office peut encore être faite ultérieurement.
+
+§ 2. Si le paiement complet n'intervient pas dans les 62 jours à compter du jour où le destinataire de la demande de paiement anticipé a pu, en toute vraisemblance, avoir connaissance de cette demande, un montant égal à 2 pourcents de la partie non payée du montant dont le paiement anticipé a été demandé, est ajouté à la taxe.
+
+Le destinataire est, sauf preuve contraire, censé avoir connaissance de la demande :
+
+\- le septième jour qui suit la date d'envoi de cette demande, telle qu'elle figure sur ladite demande ;
+
+\- ou, le cas échéant, le septième jour qui suit la date à laquelle cette demande a été mise à disposition de son destinataire au moyen d'une procédure utilisant des techniques informatiques.
+
+§ 3. La demande de paiement anticipé est mise à disposition de son destinataire exclusivement au moyen d'une procédure utilisant des techniques informatiques.
+
+Enrôlement, perception et recouvrement
+
+### Art. 11
+
+§ 1er. La taxe reprise dans cette ordonnance est enrôlée par exercice d'imposition. Un exercice d'imposition court du 1er janvier jusqu'au 31 décembre.
+
+Le montant de la taxe due par exercice d'imposition, majoré des centimes additionnels, est arrondi au cent supérieur lors de l'enrôlement.
+
+§ 2. Les chapitres III à VIII du titre Ier de l'ordonnance du 21 décembre 2012 établissant la procédure fiscale en Région de Bruxelles-Capitale, sont applicables à la taxe reprise dans la présente ordonnance.
+
+§ 3. Lorsqu'une amende a été infligée conformément à l'article 6 ou 12, la personne à laquelle l'amende a été infligée peut introduire une réclamation dans un délai de 93 jours à compter du septième jour qui suit notification de la décision d'infliger l'amende.
+
+Les §§ 4 à 7 de l'article 23/1 de l'ordonnance du 21 décembre 2012 établissant la procédure fiscale en Région de Bruxelles-Capitale sont applicables à cette réclamation.
+
+Devoir d'information de l'intermédiaire
+
+### Art. 12
+
+Les intermédiaires doivent, pour les établissements d'hébergement touristique situés en Région de Bruxelles-Capitale pour lesquels ils se posent en intermédiaire ou mènent une politique de promotion, communiquer, sur demande écrite, les données de l'exploitant et les coordonnées des établissements d'hébergement touristique, ainsi que le nombre de nuitées et d'unités d'hébergement exploitées durant l'année écoulée, aux fonctionnaires désignés par le gouvernement [<sup>1</sup> , dans un délai d'un mois à partir de la demande]<sup>1</sup>.
+
+Une amende administrative de 10.000 euros peut être infligée à l'intermédiaire qui ne donne pas suite à la demande écrite, visée à l'alinéa précédent.
+
+Centimes additionnels à la taxe sur l'hébergement touristique
+
+[<sup>1</sup> Le fonctionnaire désigné par le Gouvernement peut, tenant compte de toutes les circonstances pertinentes, en ce compris la bonne foi, diminuer le montant de l'amende administrative visée à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2024-05-16/23, art. 5, 002; En vigueur : 14-06-2024&gt;
+
+### Art. 13
+
+§ 1er. Les communes de la Région de Bruxelles-Capitale sont libres d'établir des centimes additionnels à la taxe dont il est question dans la présente ordonnance.
+
+Le règlement-taxe établissant ces centimes additionnels pour un exercice d'imposition donné doit être adopté au plus tard le 31 décembre de l'année précédant l'année de l'exercice d'imposition en question, et entrer en vigueur le 1er janvier de l'année de l'exercice d'imposition.
+
+§ 2. L'administration fiscale régionale assurera l'établissement, l'enrôlement, la perception et le recouvrement de ces centimes additionnels, pour autant :
+
+\- que seulement un tarif de centimes additionnels soit fixé par cette commune ;
+
+\- qu'aucune exonération ou réduction afférente à ces centimes additionnels ne soit prévue ;
+
+\- que le règlement-taxe établissant ces centimes additionnels pour l'exercice d'imposition en question soit adopté au plus tard le 31 décembre de l'année précédant l'année de cet exercice d'imposition, et en vigueur le 1er janvier de l'année de cet exercice d'imposition ;
+
+\- que la commune en question émette le souhait de bénéficier de ce service avant le 30 juin de l'année qui précède l'année de l'exercice d'imposition concerné, l'émission de ce souhait, qui émane du collège des bourgmestre et échevins, devant faire suite à une décision en ce sens du conseil communal ;
+
+\- que la commune en question notifie à l'administration fiscale régionale, avant le 15 janvier de l'année de l'exercice d'imposition concerné, le nombre de centimes additionnels à établir.
+
+Le service susmentionné est presté gratuitement.
+
+§ 3. Les modalités du service dont il est question au paragraphe précédent sont fixées par le gouvernement.
+
+§ 4. Si, en application des dispositions de la présente ordonnance, des centimes additionnels sont établis, ces centimes additionnels sont enrôlés, perçus, recouvrés et, le cas échéant, remboursés ensemble avec la taxe régionale, en appliquant la procédure applicable à la taxe régionale.
+
+Le fonctionnaire compétent pour passer l'acte concerné dans le cadre de la taxe régionale l'est également pour passer le même acte dans le cadre des centimes additionnels à la taxe régionale.
+
+### Art. 13/1
+
+[<sup>1</sup> § 1er. Les traitements de données à caractère personnel réalisés pour l'exécution de la présente ordonnance et des arrêtés pris pour son exécution poursuivent les finalités suivantes:
+
+1° l'établissement, le calcul, la perception et le recouvrement de la taxe visée à l'article 3, sur réception des déclarations visées à l'article 7 ou selon la procédure de taxation d'office visée à l'article 9;
+
+2° le traitement des demandes d'obtention de l'exonération visée à l'article 5 et l'octroi de cette exonération;
+
+3° la gestion et le traitement de la notification de l'ouverture d'un établissement d'hébergement touristique visée à l'article 6, § 1er, et de la notification de la cessation d'activité visée à l'article 6, § 4, ainsi que la recherche et la poursuite du non-respect de cette obligation;
+
+4° la recherche et la poursuite du non-respect de l'obligation d'information visée à l'article 12;
+
+5° le traitement des réclamations et des recours judiciaires portés à l'encontre de la taxe visée à l'article 3, du refus d'octroi de l'exonération visée à l'article 5 et des amendes infligées en exécution de la présente ordonnance ou de l'ordonnance du 21 décembre 2012 établissant la procédure fiscale en Région de Bruxelles-Capitale.
+
+§ 2. L'administration fiscale régionale est le responsable du traitement au sens de l'article 4,7), du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE pour les traitements visés au paragraphe 1er.
+
+§ 3. Les catégories de données à caractère personnel qui sont nécessaires pour atteindre les finalités visées au paragraphe 1er ainsi que les catégories de personnes concernées sont:
+
+1° les données d'identification et de contact du redevable tel que visé à l'article 4, en ce compris le numéro de registre national visé à l'article 2, § 3, de la loi du 8 août 1983 organisant un registre national des personnes physiques, le numéro d'identification visé à l'article 4, § 2, alinéa 3, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale et le numéro d'entreprise visé à l'article III.17 du Code de droit économique;
+
+2° les données d'identification et de contact de l'intermédiaire, en ce compris le numéro de registre national visé à l'article 2, § 3, de la loi du 8 août 1983 organisant un registre national des personnes physiques, le numéro d'identification visé à l'article 4, § 2, alinéa 3, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale et le numéro d'entreprise visé à l'article III.17 du Code de droit économique;
+
+3° les données de localisation et d'identification de l'établissement d'hébergement touristique, en ce compris leur identification telle qu'établie dans les documents cadastraux en exécution de l'article 504 du Code des impôts sur les revenus 1992, ainsi que la catégorisation de l'établissement d'hébergement touristique prise en compte pour l'application du taux de la taxe conformément à l'article 3.
+
+§ 4. Les données visées au paragraphe 3 peuvent être obtenues directement auprès de la personne concernée ou, selon les cas:
+
+1° auprès du service public fédéral chargé de la tenue du Registre national des personnes physiques conformément à la loi du 8 août 1983 portant organisation d'un Registre national des personnes physiques;
+
+2° auprès du service public fédéral chargé de la tenue des registres visés à l'article 4 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale;
+
+3° auprès du service public fédéral chargé de la tenue du registre visé à l'article III.15 du Code de droit économique;
+
+4° auprès du service public fédéral chargé de la conservation et de la tenue des documents cadastraux visés à l'article 504 du Code des impôts sur les revenus 1992, aux fins d'identifier le redevable tel que visé à l'article 4, alinéa 3, et l'immeuble dans lequel est situé l'établissement d'hébergement touristique;
+
+5° auprès de l'administration Economie et Emploi du Service public régional de Bruxelles, aux fins d'identifier les établissements d'hébergement touristique pour lesquels l'obligation de notification visée à l'article 6 n'a pas été respectée.
+
+§ 5. Sans préjudice de la conservation nécessaire pour le traitement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques dans le respect des exigences de l'article 89 du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) et de l'article 197 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, les données à caractère personnel visées au paragraphe 2 ne sont pas conservées plus longtemps que nécessaire au regard des finalités pour lesquelles elles sont traitées avec une durée maximale de conservation ne pouvant excéder un an après la prescription de toutes les actions qui relèvent de la compétence de l'administration fiscale régionale et, le cas échéant, la cessation définitive des procédures et recours administratifs et judiciaires ainsi que du paiement intégral de tous les montants y liés.
+
+Sans préjudice de l'alinéa 1er, l'administration fiscale régionale conserve, pour chaque établissement d'hébergement touristique, les données visées au paragraphe 3 aussi longtemps qu'il n'a pas été procédé à la notification de la cessation de l'activité qui donne lieu à la perception de la taxe visée à l'article 3.
+
+§ 6. Sans préjudice de toute autre disposition légale ou réglementaire, nationale ou internationale, portant obligation, dans le chef de l'administration fiscale régionale, de communiquer les données visées au paragraphe 3, l'administration fiscale régionale:
+
+1° communique à l'administration Bruxelles Economie et Emploi du Service public régional de Bruxelles les données suivantes:
+
+a) pour chaque établissement d'hébergement touristique: les données visées au paragraphe 3, aux fins de lui permettre de vérifier le respect de l'obligation d'enregistrement visée à l'article 6 de l'ordonnance du 1er février 2024 relative à l'hébergement touristique;
+
+b) pour chaque exploitant qui demeure en défaut de payer une amende administrative définitive infligée en application de la présente ordonnance: les données visées au paragraphe 2, 1°, qui sont relatives aux redevables qui sont des exploitants, et 3°, ainsi que la décision administrative ou judiciaire devenue définitive par laquelle l'amende a été infligée, aux fins de lui permettre de vérifier le respect de la condition visée à l'article 7, 4°, de l'ordonnance du 1er février 2024 relative à l'hébergement touristique;
+
+2° communique les données visées au paragraphe 3, 3°, au receveur de la commune ayant établi des centimes additionnels à la taxe conformément à l'article 13 sur le territoire de laquelle l'établissement d'hébergement touristique est situé, lorsqu'il y a dégrèvement de la taxe d'au moins 10.000 euros, afin de permettre à la commune d'en tenir compte pour l'établissement de son budget et de sa politique fiscale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-05-16/23, art. 6, 002; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE II. - Dispositions modificatives
+
+### Art. 14
+
+Dans le titre Ier de l'ordonnance du 21 décembre 2012 établissant la procédure fiscale en Région de Bruxelles-Capitale, il est inséré un chapitre VIII rédigé comme suit :
+
+" CHAPITRE VIII. - Lutte contre la fraude
+
+Art. 28/1. § 1er. Le fonctionnaire habilité pour ce faire par le gouvernement peut infliger une amende administrative à celui qui contrevient dans une intention frauduleuse ou à dessein de nuire :
+
+1° aux dispositions de la présente ordonnance ou des arrêtés pris pour son exécution ;
+
+2° aux dispositions suivantes ou aux arrêtés pris pour leur exécution :
+
+\- les articles de l'ordonnance du 23 juillet 1992 relative à la taxe régionale à charge de titulaires de droits réels sur certains immeubles ;
+
+\- les articles de l'ordonnance du 22 décembre 1994 relative à la reprise de la fiscalité provinciale ;
+
+\- les articles 40 à 44 de l'ordonnance du 14 juin 2012 relative aux déchets ;
+
+\- les articles 2.3.55. à 2.3.62. de l'ordonnance du 2 mai 2013 portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie ;
+
+\- les articles de l'ordonnance du 29 juillet 2015 introduisant un prélèvement kilométrique en Région de Bruxelles-Capitale sur les poids lourds prévus ou utilisés pour le transport par route de marchandises, en remplacement de l'Eurovignette ;
+
+\- les articles de l'ordonnance du 23 décembre 2016 relative à la taxe régionale sur les établissements d'hébergement touristique.
+
+La remise de déclarations volontairement incomplètes ou inexactes est considérée comme une infraction commise dans une intention frauduleuse ou à dessein de nuire.
+
+§ 2. La décision par laquelle l'amende susmentionnée est infligée est envoyée par un envoi postal recommandé ou par un recommandé électronique à la personne à laquelle l'amende a été infligée.
+
+§ 3. Pour une première infraction commise dans une intention frauduleuse ou à dessein de nuire par la personne concernée, cette amende s'élève à :
+
+<table><tr><td colspan="2">Bedrag van de ontlopen belasting (in euro) </td><td>Bedrag van de boete (in euro) </td><td colspan="2">Montant de la taxe éludée (en euros) </td><td>Montant de l'amende (en euros)</td></tr><tr><td>Vanaf </td><td>Tot een bedrag kleiner dan </td><td> </td><td>A partir de </td><td>Jusqu'au montant inférieur à </td><td> </td></tr><tr><td>0 </td><td>500 </td><td>500 </td><td>0 </td><td>500 </td><td>500</td></tr><tr><td>500 </td><td>1000 </td><td>1000 </td><td>500 </td><td>1000 </td><td>1000</td></tr><tr><td>1000 </td><td>2000 </td><td>2000 </td><td>1000 </td><td>2000 </td><td>2000</td></tr><tr><td>2000 </td><td>3000 </td><td>3000 </td><td>2000 </td><td>3000 </td><td>3000</td></tr><tr><td>3000 </td><td>5000 </td><td>5000 </td><td>3000 </td><td>5000 </td><td>5000</td></tr><tr><td>5000 </td><td>10000 </td><td>10000 </td><td>5000 </td><td>10000 </td><td>10000</td></tr><tr><td>10000 </td><td>- </td><td>20000 </td><td>10000 </td><td>- </td><td>20000</td></tr></table>
+
+§ 4. Pour une deuxième infraction commise dans une intention frauduleuse ou à dessein de nuire, les montants repris dans le tableau contenu dans le § 3 sont multipliés par 2.
+
+A partir de la troisième infraction commise dans une intention frauduleuse ou à dessein de nuire, les montants repris dans le tableau contenu dans le § 3 sont multipliés par 4. ".
+
+### Art. 15
+
+L'article 23/1 de la même ordonnance, introduit par l'ordonnance du 18 décembre 2015, est modifié comme suit :
+
+1° Au premier paragraphe, une deuxième phrase est ajoutée, rédigée comme suit :
+
+" La personne à laquelle une amende a été infligée en application de l'article 28/1 peut aussi introduire une réclamation par écrit auprès du fonctionnaire susmentionné. ".
+
+2° Un paragraphe 3bis y est ajouté, rédigé comme suit :
+
+" § 3bis. Lorsqu'une amende a été infligée conformément à l'article 28/1, la personne à laquelle l'amende a été infligée peut introduire une réclamation dans un délai de trois mois à compter du septième jour qui suit l'envoi de la décision prise en application de l'article 28/1. ".
+
+## CHAPITRE III. - Dispositions transitoires
+
+### Art. 16
+
+§ 1er. Par dérogation à l'article 11, § 1er, alinéa premier, l'exercice d'imposition 2017 court du 1er février 2017 jusqu'au 31 décembre 2017.
+
+§ 2. Par dérogation à l'article 13, § 1er, deuxième alinéa, et § 2, pour l'exercice d'imposition 2017, l'administration fiscale régionale assurera gratuitement l'établissement, l'enrôlement, la perception et le recouvrement des centimes additionnels communaux à la taxe dont il est question dans la présente ordonnance pour autant :
+
+\- que seulement un tarif de centimes additionnels soit fixé par cette commune ;
+
+\- qu'aucune exonération ou réduction afférente à ces centimes additionnels ne soit prévue ;
+
+\- que le règlement-taxe établissant les centimes additionnels pour l'exercice d'imposition 2017 soit adopté au plus tard le 25 janvier 2017 et en vigueur le 1er février 2017 ;
+
+\- que la commune en question émette le souhait de bénéficier de ce service avant le 28 février 2017, l'émission de ce souhait, qui émane du collège des bourgmestre et échevins, devant faire suite à une décision en ce sens du conseil communal ;
+
+\- que la commune en question notifie à l'administration fiscale régionale, avant le 28 février 2017, le nombre de centimes additionnels à établir.
+
+La commune en question dépose au plus tard le 28 février 2017 un dossier permettant à l'administration fiscale régionale d'effectuer un premier examen visant à s'assurer que ces conditions seront remplies au moment de l'enrôlement. La commune indique dans ce dossier les données de contact d'une personne de contact qui se tient à la disposition de l'administration fiscale régionale entre 9 et 18 heures durant tout jour ouvrable entre le 28 février 2017 et le 15 mars 2017, pour fournir, au besoin, des informations complémentaires à l'administration fiscale régionale.
+
+En outre et sans que le non-respect de cette formalité puisse être invoqué par le redevable ou un tiers, la commune communique à l'administration fiscale régionale au plus tard le 28 février 2017 le règlement instaurant les centimes additionnels et, le cas échéant, les règlements supprimant d'autres impositions propres sur la matière imposable sur laquelle porte la taxe décrite dans la présente ordonnance, ou d'autres impositions semblables.
+
+Les modalités du service dont il est question dans le présent article peuvent être fixées par le gouvernement.
+
+## CHAPITRE IV. - Entrée en vigueur
+
+### Art. 17
+
+Cette ordonnance entre en vigueur le jour de sa publication au Moniteur belge.
+
+Par dérogation à l'alinéa premier, le § 3 de l'article 10 entre en vigueur à la date déterminée par le gouvernement.
+
+### Art. 18
+
+La taxe reprise dans cette ordonnance est due à partir de l'exercice d'imposition 2017.
+
+### Art. 19
+
+Les articles 14 et 15 de la présente ordonnance ne sont d'application que pour les infractions commises après le 1er février 2017.
+
+---
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 23 décembre 2016.
+
+Le Ministre-Président du Gouvernement de la Région de Bruxelles-Capitale, chargé des Pouvoirs locaux, du Développement territorial, de la Politique de la ville, des Monuments et Sites, des Affaires étudiantes, du Tourisme, de la Fonction publique, de la Recherche scientifique et de la Propreté publique,
+
+R. VERVOORT
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé des Finances, du Budget, des Relations extérieures et de la Coopération au Développement,
+
+G. VANHENGEL
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de l'Emploi, de l'Economie et de la Lutte contre l'Incendie et l'Aide médicale urgente,
+
+D. GOSUIN
+
+Le Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargé de la Mobilité et des Travaux publics,
+
+P. SMET
+
+La Ministre du Gouvernement de la Région de Bruxelles-Capitale, chargée du Logement, de la Qualité de Vie, de l'Environnement et de l'Energie,
+
+Mme C. FREMAULT

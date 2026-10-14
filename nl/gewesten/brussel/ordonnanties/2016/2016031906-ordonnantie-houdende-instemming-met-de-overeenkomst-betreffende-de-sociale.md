@@ -1,0 +1,55 @@
+---
+title: "Ordonnantie houdende instemming met : de Overeenkomst betreffende de sociale zekerheid tussen de Regering van het Koninkrijk België en de Regering van de Republiek Turkije, opgemaakt te Ankara op 11 april 2014"
+identifier: "2016031906"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/23/2016031906/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: nl
+date: 2016-12-23
+published: 2017-02-02
+entry_into_force: 2017-02-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/23/2016031906/justel"
+department: "Gemeenschappelijke Gemeenschapscommissie"
+retrieved: 2026-10-12
+---
+
+# 23 DECEMBER 2016. - Ordonnantie houdende instemming met : de Overeenkomst betreffende de sociale zekerheid tussen de Regering van het Koninkrijk België en de Regering van de Republiek Turkije, opgemaakt te Ankara op 11 april 2014
+
+De Verenigde Vergadering van de Gemeenschappelijke Gemeenschapscommissie heeft aangenomen en Wij, Executieve, bekrachtigen, het geen volgt :
+
+## Art. 1
+
+Deze ordonnantie regelt een aangelegenheid als bedoeld in artikel 135 van de Grondwet.
+
+## Art. 2
+
+De Overeenkomst betreffende de sociale zekerheid tussen de Regering van het Koninkrijk België en de Regering van de Republiek Turkije, opgemaakt te Ankara op 11 april 2014, zal volkomen gevolg hebben.
+
+## Art. 3
+
+De wijzigingen van de bepalingen van de artikelen 7 tot 11 van de Overeenkomst, voorzien in artikel 12 van de Overeenkomst, zullen volkomen gevolg hebben.
+
+---
+
+Kondigen deze ordonnantie af, bevelen dat ze in het Belgisch Staatsblad zal worden bekendgemaakt.
+
+Brussel, 23 december 2016.
+
+Het Lid van het Verenigd College bevoegd voor het Gezondheidsbeleid, het Openbaar Ambt, de Financiën, de Begroting en de Externe Betrekkingen,
+
+G. VANHENGEL
+
+Het Lid van het Verenigd College bevoegd voor het Gezondheidsbeleid, het Openbaar Ambt, de Financiën, de Begroting en de Externe Betrekkingen,
+
+D. GOSUIN
+
+Het Lid van het Verenigd College bevoegd voor het Beleid inzake Bijstand aan Personen, het Gezinsbeleid en de Filmkeuring,
+
+P. SMET
+
+Het Lid van het Verenigd College bevoegd voor het Beleid inzake Bijstand aan Personen, het Gezinsbeleid en de Filmkeuring,
+
+C. FREMAULT
