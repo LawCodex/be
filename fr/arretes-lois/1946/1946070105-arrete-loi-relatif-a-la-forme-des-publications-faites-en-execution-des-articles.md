@@ -1,0 +1,77 @@
+---
+title: "Arrêté-Loi relatif à la forme des publications faites en exécution des articles 123octies du Code pénal, 1er de l'arrêté-loi du 6 mai 1944, 9 de l'arrêté-loi du 26 mai 1944 et 8, § 2, de l'arrêté-loi du 19 septembre 1945"
+identifier: "1946070105"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1946/07/01/1946070105/justel"
+type: decree-law
+justel_type: "ARRETE-LOI"
+jurisdiction: be
+language: fr
+date: 1946-07-01
+published: 1946-07-08
+entry_into_force: 1946-07-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1946/07/01/1946070105/justel"
+retrieved: 2026-10-15
+---
+
+# 1 JUILLET 1946. - Arrêté-Loi relatif à la forme des publications faites en exécution des articles 123octies du Code pénal, 1er de l'arrêté-loi du 6 mai 1944, 9 de l'arrêté-loi du 26 mai 1944 et 8, § 2, de l'arrêté-loi du 19 septembre 1945
+
+Vu l'article 1er, 5°, des lois coordonnées des 7 septembre 1939 et 14 décembre 1944, donnant au Roi des pouvoirs extraordinaires;
+
+Considérant qu'en vue d'assurer le fonctionnement régulier de la justice, il est nécessaire et urgent de prendre les dispositions ci-après;
+
+Sur la proposition du Ministre de la Justice et de l'avis des Ministres qui en ont délibéré en Conseil,
+
+.....
+
+## Art. 1
+
+Les extraits des décisions des juridictions répressives, publiés par application des articles 123octies du Code pénal et 9 de l'arrêté-loi du 26 mai 1944 relatif à la compétence et à la procédure en matière de crimes et délits contre la sûreté de l'Etat, contiennent uniquement les mentions suivantes :
+
+1° nom, prénoms, lieu et date de naissance, domicile du condamné;
+
+2° nature de la décision (jugement ou arrêt, contradictoire ou par défaut), juridiction qui l'a prononcée, sa date;
+
+3° nature de l'infraction;
+
+4° peines principales prononcées, interdiction des droits visés à l'article 123sexties du Code pénal.
+
+5° nom de la partie civile et dommages-intérêts alloués à celle-ci, lorsque la publication est faite par application de l'alinéa 3 de l'article 9 de l'arrêté-loi du 26 mai 1944.
+
+L'extrait est publié sous la rubrique " Publications prévues par les articles 123octies du Code pénal et 9 de l'arrêté-loi du 26 mai 1944 ".
+
+Les extraits peuvent être groupés en tableaux, sous la rubrique prévue à l'alinéa précédent.
+
+## Art. 2
+
+Dans le cas prévu par l'article 1er de l'arrêté-loi du 6 mai 1944, qui a complété les lois coordonnées sur la nationalité, l'extrait publié au Moniteur belge, par application de l'article 18bis, § 7, des dites lois, contient uniquement les mentions suivantes :
+
+1° nom, prénoms, lieu et date de naissance, domicile du condamné;
+
+2° date de la décision de condamnation par défaut et juridiction qui l'a rendue, date de la publication au Moniteur de l'extrait de cette décision;
+
+3° date de la transcription de la décision par l'officier de l'état civil.
+
+L'extrait est publié sous la rubrique " Déchéance de la nationalité belge (art. 1er de l'arrêté-loi du 6 mai 1944) ".
+
+Les extraits peuvent être groupés en tableaux sous la rubrique prévue à l'alinéa précédent.
+
+## Art. 3
+
+Les extraits des décisions judiciaires publiés par application de l'article 8, § 2, de l'arrêté-loi du 19 septembre 1945 relatif à l'épuration civique, combiné avec l'article 123octies du Code pénal, contiennent uniquement les mentions suivantes :
+
+1° nom, prénoms, lieu et date de naissance, domicile de la personne déchue;
+
+2° nature de la décision (décision de l'auditeur militaire non frappée d'opposition, jugement ou arrêt, contradictoire ou par défaut), autorité qui l'a prononcée, sa date;
+
+3° indication sommaire du motif de la déchéance;
+
+4° durée et étendue de la déchéance.
+
+L'extrait est publié sous la rubrique " Publications faites en exécution de l'arrêté-loi du 19 septembre 1945 relatif à l'épuration civique ".
+
+Les extraits peuvent être groupés en tableaux, sous la rubrique prévue à l'alinéa précédent.
+
+## Art. 4
+
+Le présent arrêté-loi entrera en vigueur le jour de sa publication au Moniteur.

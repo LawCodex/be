@@ -1,0 +1,174 @@
+---
+title: "Arrêté royal n° 2 relatif au régime du forfait en matière de taxe sur la valeur ajoutée"
+identifier: "2018015734"
+eli: "https://www.ejustice.just.fgov.be/eli/arrete/2018/12/19/2018015734/justel"
+type: royal-decree
+justel_type: "ARRETE ROYAL"
+jurisdiction: be
+language: fr
+date: 2018-12-19
+published: 2018-12-31
+entry_into_force: 2019-01-01
+last_amended: 2025-12-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/arrete/2018/12/19/2018015734/justel"
+department: "Finances"
+justel_note: "Consultation des versions antérieures à partir du 31-12-2018 et mise à jour au 31-12-2025"
+retrieved: 2026-10-15
+---
+
+# 19 DECEMBRE 2018. - Arrêté royal n° 2 relatif au régime du forfait en matière de taxe sur la valeur ajoutée
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Vu le Code de la taxe sur la valeur ajoutée, l'article 56, remplacé par la loi du 30 juillet 2018 ;
+
+Vu l'arrêté royal n° 2, du 7 novembre 1969, relatif à l'établissement de bases forfaitaires de taxation à la taxe sur la valeur ajoutée ;
+
+Vu l'avis de l'Inspecteur des Finances, donné le 4 octobre 2018 ;
+
+Vu l'accord du Ministre du Budget, donné le 30 novembre 2018 ;
+
+Vu l'avis n° 64.629/3 du Conseil d'Etat, donné le 10 décembre 2018, en application de l'article 84, § 1er, alinéa 1er, 2°, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973 ;
+
+Vu l'analyse d'impact de la réglementation réalisée conformément aux articles 6 et 7 de la loi du 15 décembre 2013 portant des dispositions diverses en matière de simplification administrative ;
+
+Sur la proposition du Vice-Premier Ministre et Ministre des Finances,
+
+Nous avons arrêté et arrêtons :
+
+## Art. 1er
+
+§ 1er. L'assujetti qui commence son activité [<sup>1</sup> avant le 1er janvier 2022]<sup>1</sup> peut bénéficier du régime des bases forfaitaires de taxation établi par l'article 56 du Code et instauré pour l'un des secteurs d'activité énumérés à l'annexe au présent arrêté lorsque, dans la déclaration prévue par l'article 53, § 1er, alinéa 1er, 1°, du Code, il déclare que, selon toute probabilité, son activité répondra aux conditions fixées pour l'application de ce régime.
+
+Néanmoins, le service compétent de l'administration en charge de la taxe sur la valeur ajoutée dont l'assujetti relève peut décider que celui-ci doit appliquer le régime normal de la taxe lorsqu'il apparaît clairement que les conditions imposées pour l'application du régime du forfait ne sont pas remplies. Cette décision est notifiée à l'assujetti par lettre recommandée par le fonctionnaire compétent de ce service.
+
+§ 2. La décision, prise par le service visé au paragraphe 1er, alinéa 2, d'adapter les bases forfaitaires de taxation à la propre activité de l'assujetti conformément à l'article 56, § 1er, alinéa 5, du Code, lui est notifiée par lettre recommandée par ce service.
+
+Lorsque dans le mois de cette notification, l'assujetti n'a pas fait connaître à ce service son intention de s'en tenir au régime normal de la taxe, la décision lui est applicable et il est considéré comme étant soumis au régime du forfait.
+
+----------
+
+(1)&lt;AR 2021-12-27/08, art. 2, 002; En vigueur : 01-01-2022&gt;
+
+## Art. 2
+
+L'assujetti soumis au régime du forfait est tenu :
+
+1° d'établir en vue de la rédaction de ses déclarations périodiques, un document contenant le calcul de son chiffre d'affaires, établi selon les bases forfaitaires de taxation ;
+
+2° [<sup>1</sup> de comprendre s'il y a lieu, dans la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, du Code à déposer au plus tard respectivement le 20 ou le 25 octobre de chaque année, selon qu'il s'agisse d'une déclaration mensuelle ou trimestrielle, la régularisation de la taxe résultant des modifications apportées en vertu de l'article 7, alinéa 3, aux bases forfaitaires de taxation de l'année précédente et d'établir un document justifiant le montant de cette régularisation.]<sup>1</sup>
+
+Ces documents doivent être communiqués à toute réquisition du fonctionnaire compétent du service visé à l'article 1er, § 1er, alinéa 2.
+
+Par dérogation à l'article 3, alinéa 1er, de l'arrêté royal n° 1, du 29 décembre 1992, relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée, l'assujetti est dispensé de dresser un document pour constater les opérations visées par l'article 12, § 1er, alinéa 1er, 1° et 2°, du Code, portant sur des biens qui sont pris en considération pour l'application du régime du forfait.
+
+----------
+
+(1)&lt;AR 2024-09-29/05, art. 8, 006; En vigueur : 01-01-2025&gt;
+
+## Art. 3
+
+§ 1er. L'assujetti qui ne satisfait plus aux conditions imposées pour l'application du régime du forfait conformément à l'article 56, § 1er, du Code, [<sup>1</sup> en informe l'administration en charge de la taxe sur la valeur ajoutée au moyen de la déclaration visée à l'article 2 ou 7bis de l'arrêté royal n° 10 du 29 décembre 1992 relatif aux modalités d'exercice des options [<sup>3</sup> , aux notifications préalables et aux déclarations de commencement, de changement et de cessation d'activité en matière de taxe sur la valeur ajoutée]<sup>3</sup> et]<sup>1</sup> est soumis au régime normal de la taxe à compter du premier jour du trimestre civil qui suit celui au cours duquel sa situation a été modifiée.
+
+§ 2. [<sup>1</sup> L'assujetti soumis au régime du forfait qui souhaite opter pour le régime normal de la taxe conformément à l'article 56, § 4, alinéa 1er, du Code, en informe à cet effet l'administration en charge de la taxe sur la valeur ajoutée au moyen de la déclaration visée à l'article 2 ou 7bis de l'arrêté royal n° 10 du 29 décembre 1992 relatif aux modalités d'exercice des options [<sup>3</sup> , aux notifications préalables et aux déclarations de commencement, de changement et de cessation d'activité en matière de taxe sur la valeur ajoutée]<sup>3</sup>. Cette option est exercée avant le 15 mars et a effet à partir du 1er avril de la même année.]<sup>1</sup>
+
+§ 3. La taxe à restituer conformément à l'article 56, § 4, alinéa 3, du Code, est calculée sur la valeur pour laquelle l'assujetti a été imposé par application du régime du forfait.
+
+La restitution est subordonnée à la remise au service visé à l'article 1er, § 1er, alinéa 2 d'un inventaire du stock, en double exemplaire, dans le mois de la date du changement de régime. L'inventaire doit indiquer de façon détaillée les quantités de marchandises en stock et la base sur laquelle la taxe a été calculée lors de l'acquisition de celles-ci.
+
+Lorsque l'assujetti soumis au régime du forfait dresse un inventaire annuel, la restitution est limitée à la taxe qui se rapporte à l'augmentation du stock par rapport au dernier inventaire dressé et dont il a été tenu compte pour le calcul de la taxe. Dans la mesure où aucun inventaire n'était tenu avant le passage au régime normal, la restitution porte alors sur tous les biens en stock au moment du changement de régime de taxation.
+
+La restitution a lieu conformément aux règles fixées par ou en exécution des articles 78 et 80 du Code.
+
+----------
+
+(1)&lt;AR 2022-10-26/04, art. 3, 003; En vigueur : 01-12-2022&gt;
+
+(2)&lt;AR 2023-12-17/15, art. 25, 004; En vigueur : 01-01-2024&gt;
+
+(3)&lt;AR 2025-12-17/06, art. 19, 008; En vigueur : 10-01-2026&gt;
+
+## Art. 4
+
+[<sup>1</sup> § 1er. L'assujetti qui a établi le siège de son activité économique en Belgique et qui est soumis au régime du forfait peut faire usage du régime de la franchise de taxe conformément à l'article 56ter, § 1er, du Code à partir du 1er janvier, du 1er avril, du 1er juillet ou du 1er octobre d'une année civile lorsque son chiffre d'affaires total soumis au régime du forfait au cours de l'année civile qui précède n'a pas dépassé le montant visé à l'article 56ter, § 1er, alinéa 1er, du Code.
+
+L'assujetti qui souhaite faire usage de ce régime en fait, dans ce cas, la demande dans le délai et selon les modalités visés à l'article 3, § 2, alinéas 2 à 5, de l'arrêté royal n° 19, du 15 décembre 2024, relatif au régime de la franchise de taxe sur la valeur ajoutée en faveur des petites entreprises.
+
+La notification visée à l'alinéa 2 produit ses effets conformément à l'article 3, § 2, alinéas 4 et 5, de l'arrêté royal n° 19, du 15 décembre 2024, relatif au régime de la franchise de taxe sur la valeur ajoutée en faveur des petites entreprises.
+
+§ 2. Lors du passage au régime de la franchise de taxe, l'assujetti opère la révision de la taxe dans les conditions prévues à l'article 4, § 1er, de l'arrêté royal n° 19, du 15 décembre 2024, relatif au régime de la franchise de taxe sur la valeur ajoutée en faveur des petites entreprises. Toutefois, il peut obtenir la restitution de la taxe acquittée selon les modalités prévues à l'article 3, § 3, alinéas 2 et 3, conformément à l'article 56, § 4, alinéa 3, du Code.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2024-12-15/05, art. 5, 005; En vigueur : 01-01-2025&gt;
+
+## Art. 5
+
+&lt;Abrogé par AR 2021-12-27/08, art. 3, 002; En vigueur : 01-01-2022&gt;
+
+## Art. 6
+
+&lt;Abrogé par AR 2021-12-27/08, art. 4, 002; En vigueur : 01-01-2022&gt;
+
+## Art. 7
+
+Dans le courant de chaque année, des bases forfaitaires provisoires sont établies conformément à l'article 56, § 1er, alinéa 1er, du Code, pour le calcul de la taxe à payer au cours de l'année suivante.
+
+Ces bases peuvent être modifiées, selon la même procédure, dans le courant de cette dernière année pour tenir compte des changements sensibles qui seraient intervenus entre-temps dans les éléments constitutifs du forfait.
+
+Les bases forfaitaires établies conformément aux alinéas 1er et 2 sont définitives pour autant que les modifications qui seraient intervenues après leur établissement, dans les éléments constitutifs du forfait, ne fassent pas varier d'au moins 2 p.c. le chiffre d'affaires calculé forfaitairement.
+
+## Art. 8
+
+Les groupements professionnels qui désirent être consultés pour l'établissement des bases forfaitaires de taxation, doivent, chaque année, avant le 1er février, fournir à l'administration les éléments détaillés et chiffrés nécessaires pour l'établissement de ces bases forfaitaires.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, en ce qui concerne les secteurs des cafetiers et petits cafetiers visés à l'annexe du présent arrêté, les groupements professionnels de ces secteurs qui désirent être consultés pour l'établissement des bases forfaitaires de taxation pour les années 2020 à 2024, fournissent, avant le 1er juin 2025, à l'administration les éléments détaillés et chiffrés nécessaires pour l'établissement de ces bases forfaitaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2025-03-02/03, art. 2, 007; En vigueur : 20-03-2025&gt;
+
+## Art. 9
+
+Le Ministre des Finances ou son délégué détermine les modalités pratiques d'application du présent arrêté en ce qui concerne le paiement de la taxe et le changement du régime de taxation. Il prévoit également la forme et le contenu des documents propres à ce régime.
+
+## Art. 10
+
+L'arrêté royal n° 2, du 7 novembre 1969, relatif à l'établissement de bases forfaitaires de taxation à la taxe sur la valeur ajoutée, est abrogé.
+
+## Art. 11
+
+[<sup>1</sup> Le présent arrêté royal entre en vigueur le 1er janvier 2019 et cesse d'être en vigueur le 31 décembre 2027.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2021-12-27/08, art. 5, 002; En vigueur : 01-01-2022&gt;
+
+## Art. 12
+
+Le ministre qui a les Finances dans ses attributions est chargé de l'exécution du présent arrêté.
+
+## ANNEXE.
+
+## Art. N
+
+Annexe visée à l'article 1er de l'AR n° 2
+
+<table><tr><td>Des bases forfaitaires de taxation sont établies pour les secteurs d'activité suivants :</td></tr><tr><td>Bouchers-charcutiers</td></tr><tr><td>Boulangers et boulangers-pâtissiers</td></tr><tr><td>Cafetiers</td></tr><tr><td>[<sup><font>1</font></sup> Petits cafetiers]<sup><font>1</font></sup></td></tr><tr><td>Coiffeurs</td></tr><tr><td>Cordonniers</td></tr><tr><td>Crémiers et laitiers ambulants</td></tr><tr><td>Détaillants en alimentation générale</td></tr><tr><td>Exploitants de friteries</td></tr><tr><td>Forains</td></tr><tr><td>Glaciers</td></tr><tr><td>Marchands de journaux</td></tr><tr><td>Marchands de textiles et d'articles en cuir</td></tr><tr><td>Pharmaciens</td></tr><tr><td colspan="1">(<font>1</font>)&lt;AR <a>2022-10-26/04</a>, art. 14, 003; En vigueur : 01-12-2022&gt; </td></tr></table>
+
+---
+
+Donné à Bruxelles, le 19 décembre 2018.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Vice-Premier Ministre et
+
+Ministre des Finances,
+
+A. DE CROO

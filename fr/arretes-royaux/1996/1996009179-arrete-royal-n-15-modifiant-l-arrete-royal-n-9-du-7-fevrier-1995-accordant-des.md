@@ -1,0 +1,82 @@
+---
+title: "Arrêté royal n° 15 modifiant l'arrêté royal n° 9 du 7 février 1995 accordant des dispenses de l'application de l'article 9 de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel et établissant une procédure d'information collective des personnes concernées par certains traitements."
+identifier: "1996009179"
+eli: "https://www.ejustice.just.fgov.be/eli/arrete/1996/03/12/1996009179/justel"
+type: royal-decree
+justel_type: "ARRETE ROYAL"
+jurisdiction: be
+language: fr
+date: 1996-03-12
+published: 1996-03-15
+entry_into_force: 1996-03-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/arrete/1996/03/12/1996009179/justel"
+department: "Justice"
+retrieved: 2026-10-15
+---
+
+# 12 MARS 1996. - Arrêté royal n° 15 modifiant l'arrêté royal n° 9 du 7 février 1995 accordant des dispenses de l'application de l'article 9 de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel et établissant une procédure d'information collective des personnes concernées par certains traitements.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Vu la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel, notamment l'article 9;
+
+Vu l'avis de la Commission de la protection de la vie privée;
+
+Vu l'avis du Conseil d'Etat;
+
+Sur la proposition de Notre Ministre de la Justice et de l'avis de Nos Ministres qui en ont délibéré en Conseil,
+
+Nous avons arrêté et arrêtons :
+
+## Art. 1
+
+L'article 1er de l'arrêté royal n° 9 du 7 février 1995 accordant des dispenses de l'application de l'article 9 de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel et établissant une procédure d'information collective des personnes concernées par certains traitements, est remplacé par la disposition suivante :
+
+"Article 1er. Pour l'application du présent arrêté, on entend par :
+
+a) "la loi": la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel;
+
+b) "traitement" : le traitement de données à caractère personnel au sens de l'art. 1er, par.1er, de la loi;
+
+c) "personne concernée": la personne physique qui fait l'objet du traitement de données à caractère personnel."
+
+## Art. 2
+
+L'article 2 du même arrêté est remplacé par la disposition suivante :
+
+"Art. 2. La personne concernée ne doit pas être informée de son enregistrement dans un traitement déterminé lorsque :
+
+a) l'information prévue à l'article 4, par.1er, de la loi, a déjà été délivrée à la personne concernée, pour autant que les finalités du traitement n'aient pas été modifiées depuis la délivrance de cette information;
+
+b) le traitement porte exclusivement sur l'identification des personnes auprès desquelles le maître du fichier souhaite mener des opérations de relations publiques ou avec lesquelles il souhaite entretenir des relations sociales ou professionnelles, à condition que les données d'identification soient communiquées directement au maître du fichier par la personne concernée;
+
+c) les données relatives à la personne concernée sont uniquement incorporées dans le traitement au titre d'enregistrement secondaire de l'enregistrement principal d'une autre personne physique, personne morale ou entité, à condition que l'enregistrement secondaire ne soit pas traité indépendamment de l'enregistrement principal et que les données qui y sont enregistrées ne soient pas utilisées à d'autres finalités que celles pour lesquelles elles ont été enregistrées;
+
+d) le traitement comprend des données visées à l'article 3, par.2, 3°, de la loi et d'autres données à caractère personnel et qu'il poursuit exclusivement la finalité pour laquelle ces données ont été rendues publiques par la personne concernée;
+
+e) le traitement comprend des données dont une disposition légale ou réglementaire organise la publicité et d'autres données à caractère personnel et qu'il poursuit exclusivement la finalité déterminée sur la base de cette publicité".
+
+## Art. 3
+
+Les articles 5 et 6 du même arrêté sont abrogés.
+
+## Art. 4
+
+Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+## Art. 5
+
+Notre Ministre de la Justice est charge de l'exécution du présent arrêté.
+
+Donné à Bruxelles, le 12 mars 1996.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

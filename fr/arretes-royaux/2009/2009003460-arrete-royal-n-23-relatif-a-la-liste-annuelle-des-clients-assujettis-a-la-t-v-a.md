@@ -1,0 +1,136 @@
+---
+title: "Arrêté royal n° 23 relatif à la liste annuelle des clients assujettis à la T.V.A"
+identifier: "2009003460"
+eli: "https://www.ejustice.just.fgov.be/eli/arrete/2009/12/09/2009003460/justel"
+type: royal-decree
+justel_type: "ARRETE ROYAL"
+jurisdiction: be
+language: fr
+date: 2009-12-09
+published: 2009-12-17
+entry_into_force: 2010-01-01
+last_amended: 2024-12-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/arrete/2009/12/09/2009003460/justel"
+department: "Finances"
+justel_note: "Consultation des versions antérieures à partir du 17-12-2009 et mise à jour au 24-12-2024"
+retrieved: 2026-10-15
+---
+
+# 9 DECEMBRE 2009. - Arrêté royal n° 23 relatif à la liste annuelle des clients assujettis à la T.V.A
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Vu le Code de la taxe sur la valeur ajoutée, l'article 53quinquies, inséré par la loi du 28 décembre 1992 et remplacé par la loi du 26 novembre 2009 et l'article 53octies, inséré par la loi du 28 décembre 1992 et modifié par les lois des 5 septembre 2001, 22 avril 2003, 28 janvier 2004, 7 décembre 2006 et 26 novembre 2009;
+
+Vu l'avis de l'Inspecteur des Finances, donné le 10 novembre 2009;
+
+Vu l'accord du Secrétaire d'Etat au Budget, donné le 18 novembre 2009;
+
+Vu l'urgence motivée par le fait que :
+
+\- les dispositions du présent arrêté doivent entrer en vigueur le 1er janvier 2010;
+
+\- afin d'assurer la sécurité juridique, il s'impose dès lors que les opérateurs économiques soient informés des nouvelles formalités administratives qui leurs sont imposées ainsi que des nouveaux droits auxquels ils peuvent prétendre;
+
+\- le présent arrêté doit donc être pris sans retard;
+
+Vu l'avis n° 47.493/1 du Conseil d'Etat, donné le 30 novembre 2009, en application de l'article 84, § 1er, alinéa 1er, 2°, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973;
+
+Sur la proposition du Vice-Premier Ministre et Ministre des Finances,
+
+Nous avons arrêté et arrêtons :
+
+## Art. 1er
+
+§ 1er. Les personnes visées à l'article 53quinquies, du Code, sont tenues de déposer auprès de [<sup>2</sup> l'administration en charge de la taxe sur la valeur ajoutée]<sup>2</sup>, chaque année avant le 31 mars, une liste contenant, pour chaque client qui doit être identifié à la T.V.A. en vertu de l'article 50 du Code, à l'exception des personnes morales non assujetties et des clients assujettis qui effectuent exclusivement des opérations exemptées de la taxe en vertu de l'article 44 du Code, et auquel ils ont livré des biens ou fourni des services au cours de l'année précédente, les indications suivantes :
+
+1° le numéro d'identification à la T.V.A. de ce client assujetti ou le sous-numéro d'identification à la T.V.A. de tout client, membre d'une unité T.V.A. au sens de l'article 4, § 2, du Code;
+
+2° le montant total, taxe non comprise, des biens qui lui ont été livrés et des services qui lui ont été fournis;
+
+3° le montant total de la taxe qui lui a été portée en compte.
+
+Lorsqu'aucune opération visée par la liste n'a été effectuée, les personnes visées à l'alinéa 1er sont tenues d'en informer l'administration selon les modalités fixées par le Ministre des Finances ou son délégué.
+
+§ 2. Pour l'application du paragraphe 1er, la liste ne doit contenir que les opérations pour lesquelles l'assujetti ou le membre d'une unité T.V.A. au sens de l'article 4, § 2, du Code, doit, soit [<sup>1</sup> émettre]<sup>1</sup> une facture ou le document visé à l'article 53, § 3, du Code, à son client, soit recevoir de son client le document visé par l'article 4 de l'arrêté royal n° 22 relatif au régime particulier applicable aux exploitants agricoles en matière de taxe sur la valeur ajoutée.
+
+§ 3. Lorsqu'un assujetti visé au paragraphe 1er, n'effectue plus que des opérations exemptées par l'article 44 du Code, n'ouvrant aucun droit à déduction ou qu'il perd cette qualité, la liste de cet assujetti doit être déposée dans les trois mois de cette modification ou de cette perte.
+
+Lorsqu'une unité T.V.A. au sens de l'article 4, § 2, du Code, n'effectue plus que des opérations exemptées par l'article 44 du Code, n'ouvrant aucun droit à déduction ou qu'elle perd la qualité d'assujetti, les listes des membres de cette unité T.V.A. doivent être déposées dans les trois mois de cette modification ou de cette perte.
+
+Lorsqu'un membre d'une unité T.V.A. au sens de l'article 4, § 2, du Code, cesse son activité, la liste de ce membre doit être déposée dans les trois mois de la cessation.
+
+----------
+
+(1)&lt;AR 2013-04-30/08, art. 33, 002; En vigueur : 01-01-2013&gt;
+
+(2)&lt;AR 2015-01-24/03, art. 20, 004; En vigueur : 16-05-2014&gt;
+
+## Art. 2
+
+§ 1er. Les personnes visées à l'article 53quinquies, du Code, qui sont tenues au dépôt de la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, du Code, ainsi que les membres d'une unité T.V.A. visés à l'article 50, § 1er, alinéa 1er, 6°, du Code, doivent déposer la liste par voie électronique.
+
+Ceux-ci sont dispensés de l'obligation du dépôt par voie électronique aussi longtemps qu'ils, ou le cas échéant, la personne qui est mandatée pour le dépôt de la liste susvisée, ne disposent pas de moyens informatiques nécessaires pour remplir cette obligation.
+
+§ 2. Les personnes visées à l'article 53quinquies, du Code, qui ne sont pas tenues au dépôt de la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, du Code, à l'exception des membres d'une unité T.V.A. visés au paragraphe 1er, alinéa 1er, choisissent de déposer la liste visée à l'article 1er, soit par voie électronique, soit sur un support papier.
+
+§ 3. Les personnes visées à l'article 53quinquies, du Code :
+
+1° qui ne déposent pas la liste par voie électronique, doivent utiliser la formule qui leur est procurée par [<sup>1</sup> l'administration en charge de la taxe sur la valeur ajoutée]<sup>1</sup>, et dont le modèle figure à l'annexe au présent arrêté. Elles déposent cette liste au service indiqué par le Ministre des Finances;
+
+2° qui déposent la liste par voie électronique, doivent transmettre les informations prévues à l'annexe au présent arrêté. Elles déposent cette liste à l'adresse électronique créée à cet effet par le Ministre des Finances ou son délégué.
+
+§ 4. Le Ministre des Finances ou son délégué règle les modalités d'application du présent article.
+
+----------
+
+(1)&lt;AR 2015-01-24/03, art. 20, 004; En vigueur : 16-05-2014&gt;
+
+## Art. 3
+
+&lt;Abrogé par AR 2024-12-15/05, art. 8, 005; En vigueur : 01-01-2025&gt;
+
+## Art. 4
+
+Les assujettis visés à l'article 5, § 2, de l'arrêté royal n° 50 relatif au relevé à la T.V.A. des opérations intracommunautaires, sont tenus de compléter la liste visée à l'article 1er, par une déclaration par laquelle ils font connaître qu'ils sont tenus au dépôt du relevé intracommunautaire annuel visé à l'article 5, § 2, de l'arrêté royal n° 50 précité ou qu'ils ne sont pas tenus au dépôt de ce relevé.
+
+## Art. 5
+
+Les personnes visées à l'article 53quinquies, du Code, tiennent des comptes clients ou tous autres documents permettant de satisfaire aux prescriptions du présent arrêté et au contrôle du respect de celles-ci.
+
+## Art. 6
+
+Le Ministre des Finances peut publier ou faire publier une liste des assujettis et des membres d'une unité T.V.A. La liste comprend notamment l'indication du numéro ou du sous-numéro d'identification qui leur a été attribué pour l'application de la taxe sur la valeur ajoutée.
+
+## Art. 7
+
+Le présent arrêté remplace l'arrêté royal n° 23 du 29 décembre 1992 réglant les modalités d'application de l'article 53quinquies du Code de la taxe sur la valeur ajoutée.
+
+## Art. 8
+
+Le présent arrêté entre en vigueur le 1er janvier 2010.
+
+## Art. 9
+
+Le Ministre qui a les Finances dans ses attributions est chargé de l'exécution du présent arrêté.
+
+## ANNEXE.
+
+## Art. N
+
+(Annexe non reprise pour des raisons techniques, voir M.B. du 17-12-2009, p. 79441-79442)
+
+---
+
+Donné à Bruxelles, le 9 décembre 2009.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+D. REYNDERS

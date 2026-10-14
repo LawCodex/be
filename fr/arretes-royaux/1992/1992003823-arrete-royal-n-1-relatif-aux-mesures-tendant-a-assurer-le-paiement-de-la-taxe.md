@@ -1,0 +1,1318 @@
+---
+title: "Arrêté royal n° 1 relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée."
+identifier: "1992003823"
+eli: "https://www.ejustice.just.fgov.be/eli/arrete/1992/12/29/1992003823/justel"
+type: royal-decree
+justel_type: "ARRETE ROYAL"
+jurisdiction: be
+language: fr
+date: 1992-12-29
+published: 1992-12-31
+entry_into_force: 1993-01-01
+last_amended: 2025-12-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/arrete/1992/12/29/1992003823/justel"
+department: "Finances"
+justel_note: "Consultation des versions antérieures à partir du 31-03-1994 et mise à jour au 31-12-2025"
+retrieved: 2026-10-15
+---
+
+# 29 DECEMBRE 1992. - Arrêté royal n° 1 relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée.
+
+BAUDOUIN, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Vu le Code de la taxe sur la valeur ajoutée, notamment l'article 17, modifié par la loi du 28 décembre 1992, l'article 22, modifié par la loi du 28 décembre 1992, l'article 51, modifié par la loi du 28 décembre 1992 et par l'arrêté royal du 29 décembre 1992, l'article 53, modifié par la loi du 28 décembre 1992, l'article 53ter, inséré par la loi du 28 décembre 1992 et modifié par l'arrêté royal du 29 décembre 1992, l'article 53octies, inséré par la loi du 28 décembre 1992, l'article 54, modifié par la loi du 28 décembre 1992, l'article 56, par. 2, modifié par la loi du 28 décembre 1992 et par l'arrêté royal du 29 décembre 1992 et l'article 57, modifié par la loi du 28 décembre 1992;
+
+Vu l'arrêté royal n° 1 du 23 juillet 1969 relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée, modifié par les arrêtés royaux des 19 décembre 1969, 28 août 1970, 18 mai 1971, 11 août 1972, 14 mars 1973, 3 novembre 1975, 14 mai 1976, 8 mars 1978, 31 mars 1978, 9 octobre 1978, 21 février 1979, 17 octobre 1980, 9 novembre 1982, 30 décembre 1986, 3 mars 1987, 19 avril 1991 et 8 avril 1992;
+
+Vu l'arrêté royal n° 12 du 3 juin 1970 relatif à la tenue d'un registre des travaux à façon pour l'application de la taxe sur la valeur ajoutée, modifié par l'arrêté royal du 9 novembre 1982;
+
+Vu l'arrêté royal du 14 novembre 1972 relatif au paiement de la taxe sur la valeur ajoutée pour les opérations effectuées pendant la dernière période de déclaration de l'année civile, modifié par l'arrêté royal du 5 août 1974;
+
+Vu les lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973, notamment l'article 3, par. 1er, modifié par la loi du 4 juillet 1989;
+
+Vu l'urgence motivée par le fait que, d'une part, en vue de l'ouverture des frontières fiscales internes le 1er janvier 1993, la loi modifiant le Code de la taxe sur la valeur ajoutée date du 28 décembre 1992 mais qu'au dernier moment, des directives européennes influencant la réglementation nationale ont encore été arrêtées, et que, d'autre part, les arrêtés d'exécution doivent également entrer en vigueur le 1er janvier 1993;
+
+Sur la proposition de Notre Ministre des Finances,
+
+Nous avons arrêté et arrêtons :
+
+## Chapitre premier. - [<sup>1</sup> La facturation]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 1, 033; En vigueur : 01-01-2013&gt;
+
+### Section 1re. [<sup>1</sup> - Factures et documents à émettre ou à établir]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par AR 2012-12-19/03, art. 2, 033; En vigueur : 01-01-2013&gt;
+
+#### Art. 1
+
+[<sup>1</sup> [<sup>4</sup> L'assujetti qui effectue des livraisons de biens ou des prestations de services énumérées ci-après qui ne sont pas exemptées en vertu de l'article 44 du Code et qui ne sont pas visées à l'article 135, paragraphe 1, points a) à g), de la directive 2006/112/CE pour des personnes physiques qui les destinent à leur usage privé, émet une facture lorsque ces opérations ont lieu en Belgique conformément aux articles 14, 14bis, 15 et 21bis du Code, ou lorsque, avant l'opération, la taxe est exigible par application des articles 17, § 1er, alinéa 3 et 22bis, § 1er, alinéa 3, du Code, sur tout ou partie du prix de l'opération :]<sup>4</sup> :
+
+1° les livraisons :
+
+a) de véhicules terrestres à moteur, neufs ou d'occasion, d'une cylindrée de plus de 48 centimètres cube ou d'une puissance de plus de 7,2 kilowatts, destinés au transport de personnes ou de marchandises et leurs remorques, y compris les voitures mixtes et les remorques pour le camping;
+
+b) de yachts, bateaux et canots de plaisance;
+
+c) d'avions, hydravions, hélicoptères, planeurs, ballons sphériques ou dirigeables, et d'autres aéronefs analogues, qu'ils soient plus lourds ou plus légers que l'air, avec ou sans moteur;
+
+2° les livraisons de biens visés à l'article 1er, § 9, du Code ainsi que les constitutions, cessions et rétrocessions de droits réels portant sur de tels biens, qui ne sont pas exemptées de la taxe conformément à l'article 44, § 3, 1°, du Code;
+
+3° les opérations énumérées à l'article 20, § 2;
+
+4° les livraisons de biens et les prestations de services destinées à l'érection d'un bâtiment visé à l'article 64, § 4, du Code;
+
+5° les ventes à tempérament et les locations-ventes;
+
+6° les livraisons de biens qui, eu égard à leur nature, à leur conditionnement, aux quantités vendues ou aux prix pratiqués, sont manifestement destinés à un usage économique, ainsi que les livraisons de biens de la même espèce que ceux dont l'acquéreur fait le commerce ou qu'il destine normalement à l'exercice de son activité économique;
+
+7° les livraisons effectuées dans des établissements ou des lieux qui ne sont normalement pas accessibles à des particuliers;
+
+8° les livraisons effectuées par les entreprises de production ou de vente en gros;
+
+9° les livraisons de pièces détachées, accessoires et équipements pour les biens désignés au 1°, ainsi que les travaux, autres que le lavage, relatifs à ces biens, en ce compris la livraison des biens utilisés pour l'exécution de ces travaux, lorsque le prix, y compris la taxe sur la valeur ajoutée, excède 125 euros;
+
+10° les opérations de déménagement ou de garde-meuble et les prestations accessoires à ces opérations;
+
+11° les livraisons de biens et les prestations de services visées à l'article 42, § 3, alinéa 1er, 1° à 8°, du Code;
+
+12° les livraisons, d'un montant supérieur à 2.500 euros, d'or d'investissement défini à l'article 1er, § 8, du Code, en ce compris l'or d'investissement représenté par des certificats pour l'or alloué ou non alloué, ou négocié sur des comptes-or et y compris, notamment, les prêts et les swaps sur l'or qui comportent un droit de propriété ou de créance sur l'or d'investissement, ainsi que les opérations sur l'or d'investissement consistant en des contrats " futurs " ou des contrats " forward " donnant lieu à une transmission du droit de propriété ou de créance sur l'or d'investissement.]<sup>1</sup>
+
+[<sup>3</sup> Par dérogation à l'alinéa 1er, l'assujetti visé à l'article 50, § 4, du Code est dispensé d'émettre une facture pour les prestations de services qu'il effectue.]<sup>3</sup>
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 3, 033; En vigueur : 01-01-2013&gt;
+
+(2)&lt;AR 2015-12-18/13, art. 1, 042; En vigueur : 01-01-2016&gt;
+
+(3)&lt;AR 2019-11-07/03, art. 1, 045; En vigueur : 05-12-2019&gt;
+
+(4)&lt;AR 2025-07-08/02, art. 2, 054; En vigueur : 01-01-2026&gt;
+
+#### Art. 2
+
+[<sup>1</sup> L'assujetti établit un document et une copie pour les livraisons de biens visées à l'article 39bis, alinéa 1er, 4°, du Code.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 4, 033; En vigueur : 01-01-2013&gt;
+
+#### Art. 3
+
+L'assujetti qui effectue une opération assimilée à une livraison par l'article 12 du Code, ou une opération assimilée à une prestation de services par l'article 19 du Code, est tenu d'établir un document constatant l'opération.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2015-12-18/13, art. 6, 042; En vigueur : 07-01-2016&gt;
+
+### Section 2. [<sup>1</sup> - Délai d'émission]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par AR 2012-12-19/03, art. 5, 033; En vigueur : 01-01-2013&gt;
+
+#### Art. 4
+
+[<sup>1</sup> § 1er. [<sup>2</sup> La facture et le document visé à l'article 3, sont respectivement émis ou établis au plus tard le quinzième jour du mois qui suit celui au cours duquel est intervenu le fait générateur de la taxe conformément aux articles 16 et 22 du Code.
+
+Par dérogation à l'alinéa 1er, la facture et le document visé à l'article 3, sont respectivement émis ou établis, au plus tard le quinzième jour du mois qui suit celui au cours duquel la taxe devient exigible sur tout ou partie du prix, conformément aux articles 17, § 1er, alinéa 3 et § 4, et 22bis, § 1er, alinéa 3 et § 4, du Code.]<sup>2</sup>
+
+§ 2. Pour les livraisons de biens effectuées dans les conditions prévues à l'article 39bis du Code, la facture et le document visé à l'article 2, sont respectivement émis ou établis, au plus tard le quinzième jour du mois qui suit celui au cours duquel la livraison a été effectuée.
+
+§ 3. Pour les livraisons de biens visées à l'article 16, § 2, alinéa 1er et les prestations de services visées à l'article 22, § 2, alinéa 1er, du Code, qui donnent lieu à des décomptes ou à des paiements successifs, la facture est émise au plus tard le quinzième jour du mois qui suit celui au cours duquel expire la période à laquelle se rapporte le décompte ou le paiement.
+
+Pour les prestations de services visées à l'article 22, § 2, alinéa 2, du Code, qui ont lieu de manière continue sur une période supérieure à une année et qui ne donnent pas lieu à des décomptes ou des paiements durant cette période, la facture est émise au plus tard le quinzième jour du mois qui suit l'expiration de chaque année civile.
+
+§ 4. Le document visé à l'article 53, § 3, alinéa 1er, du Code, est émis au plus tard le quinzième jour du mois qui suit celui au cours duquel le bien ou le service a été fourni à un autre membre.
+
+Toutefois, lorsque tout ou partie du prix est encaissé avant la fourniture du bien ou du service, le document est émis au plus tard le quinzième jour du mois qui suit celui au cours duquel a lieu l'encaissement de tout ou partie du prix.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-04-30/08, art. 1, 035; En vigueur : 01-01-2013&gt;
+
+(2)&lt;AR 2015-12-18/13, art. 2, 042; En vigueur : 01-01-2016&gt;
+
+### Section 3. [<sup>1</sup> - Mentions]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par AR 2012-12-19/03, art. 7, 033; En vigueur : 01-01-2013&gt;
+
+#### Art. 5
+
+[<sup>1</sup> § 1er. La facture et le document visé à l'article 2 portent les mentions suivantes :
+
+1° la date à laquelle ils sont respectivement émis ou établi et un numéro séquentiel, basé sur une ou plusieurs séries qui identifie ces documents de façon unique, sous lequel ils sont inscrits au facturier de sortie du fournisseur ou du prestataire de services;
+
+2° le nom ou la dénomination sociale du fournisseur de biens ou du prestataire de services, l'adresse de son siège administratif ou social et son numéro d'identification à la T.V.A. visé à l'article 50 du Code.
+
+Dans le cadre de l'unité T.V.A. au sens de l'article 4, § 2, du Code, ces mentions sont remplacées par les mentions qui sont propres au membre concerné;
+
+2° bis lorsque le redevable est le fournisseur de biens ou le prestataire de services qui n'est pas établi en Belgique et que :
+
+a) il a fait agréer un représentant responsable dans le pays conformément à l'article 55, § 1er ou § 2, du Code, l'identité et l'adresse de ce représentant responsable et l'indication de sa qualité;
+
+b) il est représenté par une personne préalablement agréée conformément à l'article 55, § 3, du Code, l'identité, l'adresse et le numéro d'identification à la T.V.A. attribué à cette personne et l'indication de sa qualité;
+
+3° le nom ou la dénomination sociale, l'adresse et le numéro d'identification à la T.V.A. visé à l'article 50, du Code, du cocontractant ou, en cas de livraisons visées à l'article 39bis, alinéa 1er, 4°, du Code, le nom ou la dénomination sociale, l'adresse et le numéro d'identification à la T.V.A., attribué à l'assujetti dans l'Etat membre de destination des biens;
+
+3° bis lorsque le redevable est le cocontractant qui n'est pas établi en Belgique et que :
+
+a) il a fait agréer un représentant responsable dans le pays conformément à l'article 55, § 1er ou § 2, du Code, l'identité et l'adresse de ce représentant responsable et l'indication de sa qualité;
+
+b) il est représenté par une personne préalablement agréée conformément à l'article 55, § 3, du Code, l'identité, l'adresse et le numéro d'identification à la T.V.A. attribué à cette personne et l'indication de sa qualité;
+
+4° a) pour les prestations de services visées à l'article 21, § 2, du Code, le numéro par lequel le preneur est identifié à la T.V.A. et sous lequel le service lui a été rendu;
+
+b) pour les opérations visées à l'article 39bis, alinéa 1er, 1°, du Code, le numéro par lequel l'acquéreur est identifié à la T.V.A. dans un autre Etat membre;
+
+c) en cas d'application de la disposition prévue à l'article 25ter, § 1er, alinéa 2, 3°, du Code, une référence à l'application de cette disposition, le numéro par lequel l'assujetti est identifié à la T.V.A. dans un autre Etat membre et sous lequel il a effectué l'acquisition intracommunautaire et la livraison subséquente des biens, et le numéro par lequel le destinataire de la livraison est identifié à la T.V.A., conformément à l'article 50 du Code;
+
+5° la date à laquelle intervient le fait générateur pour la livraison de biens ou la prestation de services ou la date de l'encaissement de tout ou partie du prix, dans la mesure où une telle date est déterminée et différente de la date de l'émission de la facture;
+
+6° les éléments nécessaires pour déterminer l'opération et le taux de la taxe, notamment la dénomination usuelle des biens livrés et des services fournis et leur quantité ainsi que l'objet des services;
+
+7° les données énumérées à l'article 8bis, § 2, du Code pour les livraisons de moyens de transport visés à l'article 8bis, § 1er, du Code, ainsi que la marque, le modèle, la cylindrée, la puissance du moteur et le numéro de châssis pour la livraison de voitures ou de voitures mixtes, neuves ou d'occasion, et la date de la première mise en circulation pour les voitures d'occasion et les voitures mixtes d'occasion et, pour les travaux autres que le lavage, relatifs à des véhicules à moteur, l'indication du numéro de la plaque minéralogique du véhicule;
+
+8° pour chaque taux ou exemption, la base d'imposition, le prix unitaire hors taxe, ainsi que les escomptes, rabais ou ristournes éventuels s'ils ne sont pas compris dans le prix unitaire;
+
+9° l'indication des taux de la taxe et le montant total des taxes à payer ou à régulariser. Le montant total des taxes à payer ou à régulariser doit être exprimé dans la monnaie nationale de l'Etat membre qui détermine les règles applicables à l'émission des factures conformément à l'article 53decies, § 1er, du Code [<sup>3</sup> et, lorsque l'opération visée est localisée dans un autre Etat membre de la Communauté, l'indication que le taux applicable et la taxe à payer ou à régulariser concernent cet Etat membre]<sup>3</sup>;
+
+9° bis la mention " Autoliquidation " en lieu et place de l'indication des taux et du montant total des taxes dues lorsque la taxe est due par le cocontractant;
+
+9° ter la mention " Autofacturation " lorsque le cocontractant émet la facture au nom et pour le compte du fournisseur ou du prestataire;
+
+10° l'indication de la disposition pertinente de la directive ou de la disposition nationale correspondante en vertu de laquelle l'opération est exonérée de la taxe, ou toute autre mention indiquant que l'opération est exonérée;
+
+10° bis en cas d'application du régime particulier des agences de voyages, la mention " Régime particulier - Agences de voyages ";
+
+10° ter en cas d'application du régime particulier applicable dans le domaine des biens d'occasion, des objets d'art, de collection ou d'antiquité, respectivement la mention " Régime particulier - Biens d'occasion ", " Régime particulier - Objets d'art " ou " Régime particulier - Objets de collection et d'antiquité ";
+
+[<sup>4</sup> 10° quater en cas d'application du régime de la franchise de taxe visé aux articles 56bis à 56undecies du Code, la mention "Régime particulier de la franchise de taxe", en lieu et place de la taxe ;]<sup>4</sup>
+
+11° une référence à la pièce ou aux pièces antérieures, lorsque plusieurs factures ou documents sont émis ou établis pour la même opération. La facture ne peut débiter le cocontractant, à titre de taxe, d'un montant dont il a été débité antérieurement;
+
+12° toutes autres mentions prescrites en exécution du Code ou des arrêtés pris pour son exécution.
+
+§ 1erbis. Le document visé à l'article 53, § 3, alinéa 1er, du Code, porte les mentions suivantes :
+
+1° la date à laquelle le bien ou le service a été fourni, tout ou partie du prix encaissé ou, pour les services à caractère continu, la période à laquelle se rapporte le décompte;
+
+2° la date à laquelle il est émis et le numéro séquentiel, basé sur une ou plusieurs séries qui identifie ce document de façon unique et sous lequel il est inscrit au facturier de sortie;
+
+3° le nom ou la dénomination sociale du membre de l'unité T.V.A. qui fournit le bien ou le service, l'adresse de son siège administratif ou social et le sous-numéro d'identification à la T.V.A. qui lui a été attribué en vertu de l'article 50, § 1er, alinéa 1er, 6°, du Code;
+
+4° le nom ou la dénomination sociale du membre de l'unité T.V.A. qui reçoit le bien ou le service, l'adresse de son siège administratif ou social et le sous-numéro d'identification à la T.V.A. qui lui a été attribué en vertu de l'article 50, § 1er, alinéa 1er, 6°, du Code;
+
+5° les éléments nécessaires pour déterminer l'opération, notamment la dénomination usuelle des biens et des services fournis et leur quantité ainsi que l'objet des services et le cas échéant, les données visées au paragraphe 1er, 7° ;
+
+6° le prix unitaire, ainsi que les escomptes, rabais ou ristournes éventuels s'ils ne sont pas compris dans le prix unitaire;
+
+7° le montant total de l'opération.
+
+§ 2. Le document visé à l'article 3, alinéa 1er, porte les mentions suivantes :
+
+1° un numéro séquentiel, basé sur une ou plusieurs séries qui identifie le document de façon unique, sous lequel il est inscrit au facturier de sortie;
+
+2° le nom ou la dénomination sociale de l'assujetti et du membre de l'unité T.V.A. au sens de l'article 4, § 2, du Code, l'adresse de son siège administratif ou social, et son numéro d'identification à la T.V.A., visé à l'article 50 du Code;
+
+3° la date de l'opération;
+
+4° les éléments visés au paragraphe 1er, 6° et 7° ;
+
+5° l'indication, par taux, de la base d'imposition et le montant total des taxes dues.
+
+§ 2bis. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. Dans le cas de lots comprenant plusieurs factures électroniques transmises au même cocontractant ou mises à sa disposition, les mentions communes aux différentes factures peuvent être reprises une seule fois dans la mesure où, pour chaque facture, la totalité de l'information est accessible.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 8, 033; En vigueur : 01-01-2013&gt;
+
+(2)&lt;AR 2015-12-18/13, art. 7, 042; En vigueur : 07-01-2016&gt;
+
+(3)&lt;AR 2019-11-07/03, art. 2, 045; En vigueur : 05-12-2019&gt;
+
+(4)&lt;AR 2024-12-15/05, art. 2, 052; En vigueur : 01-01-2025&gt;
+
+### Section 4. [<sup>1</sup> - Autres obligations]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2012-12-19/03, art. 9, 033; En vigueur : 01-01-2013&gt;
+
+#### Art. 6
+
+[<sup>1</sup> En cas de vente publique de biens meubles d'un assujetti failli, la facture peut être remplacée par un document établi par le notaire ou l'huissier instrumentant à partir du procès-verbal de la vente publique, et délivré à l'acheteur, sous les conditions suivantes :
+
+1° le procès-verbal et le document portent, par lot adjugé, les mentions visées à l'article 5, § 1er, à l'exception du numéro d'ordre du facturier de sortie, et, pour les livraisons aux assujettis identifiés à la T.V.A. conformément à l'article 50 du Code, leur numéro d'identification à la T.V.A. Dans le procès-verbal, ces mentions peuvent toutefois être remplacées par un numéro de référence attribué à chaque document;
+
+2° un double du document est remis au curateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 10, 033; En vigueur : 01-01-2013&gt;
+
+#### Art. 7
+
+[<sup>1</sup> § 1er. En cas de vente à l'essai, d'envoi à vue ou en consignation, l'assujetti est tenu d'émettre au destinataire ou au consignataire, lors de la remise des biens ou de l'envoi, un document mentionnant, outre le nom et l'adresse des parties à l'opération, un numéro d'ordre attribué au document, la date de la remise des biens ou de l'envoi, la dénomination usuelle et la quantité des biens remis ou envoyés.
+
+L'assujetti visé à l'alinéa 1er est également tenu d'établir un document au destinataire ou au consignataire lors de la réception des biens qui lui sont restitués, en tout ou en partie, par ces derniers. Ce document porte les mentions visées à l'alinéa 1er, à l'exception de la date de la remise des biens ou de l'envoi, qui est remplacée par la date de réception des biens.
+
+L'assujetti établit une copie des documents visés aux alinéas 1er et 2.
+
+Les dispositions des alinéas 1er, 2 et 3 ne sont pas applicables en cas de vente à l'essai ou d'envoi à vue lorsque l'assujetti doit compléter le registre visé à l'article 23, ou en cas de vente en consignation, lorsque pour le transfert des biens à destination d'un autre Etat membre en vue de cette vente, il doit établir le document visé à l'article 2 [<sup>2</sup> , ou lorsque l'assujetti doit compléter le registre visé à l'article 24bis]<sup>2</sup>.
+
+La facture que l'assujetti doit émettre au destinataire ou au consignataire lorsque celui-ci devient propriétaire des biens doit rappeler les documents visés aux alinéas 1er et 2.
+
+§ 2. Lorsque l'assujetti qui vend les biens à l'essai ou qui les envoie à vue ou en consignation n'est pas établi en Belgique et n'est pas tenu à l'obligation prévue au paragraphe 1er, l'assujetti qui reçoit les biens est tenu d'établir lui-même un document comportant les éléments visés au paragraphe 1er, alinéa 1er, à l'exception de la date d'envoi qui est remplacée par la date de réception des biens.
+
+L'assujetti visé à l'alinéa 1er, qui a reçu les biens est également tenu d'établir un document lors de la restitution des biens, en tout ou en partie. Ce document porte les mentions visées à l'alinéa 1er, à l'exception de la date de réception des biens, qui est remplacée par la date de leur restitution.
+
+Il porte une référence au document établi sur la facture qui lui est émise lorsqu'il devient propriétaire des biens.]<sup>1</sup>
+
+[<sup>2</sup> Les dispositions des alinéas 1er, 2 et 3 ne sont pas applicables en cas de vente en consignation lorsque l'assujetti qui reçoit les biens doit compléter le registre visé à l'article 24ter.]<sup>2</sup>
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 11, 033; En vigueur : 01-01-2013&gt;
+
+(2)&lt;AR 2019-12-11/14, art. 1, 046; En vigueur : 01-01-2020&gt;
+
+#### Art. 8
+
+[<sup>1</sup> Dans le cas où la conservation des documents, autres que des factures et des livres, conduit à des difficultés importantes, le Ministre des Finances ou son délégué peut accorder une réduction du délai de conservation.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 12, 033; En vigueur : 01-01-2013&gt;
+
+#### Art. 9
+
+&lt;AR 2007-04-21/52, art. 2, 024; En vigueur : 14-05-2007&gt; § 1er. [<sup>2</sup> Sauf dans le cas où la facture doit être émise par le cocontractant au nom et pour le compte de l'assujetti effectuant la livraison de biens ou la prestation de services, l'assujetti et la personne morale non assujettie, qui sont redevables de la taxe conformément à l'article 51, § 1er, 2° et § 2, alinéa 1er, du Code, ou aux articles 20, 20bis ou 20ter, établissent un document au plus tard le quinzième jour du mois qui suit celui au cours duquel la taxe devient exigible conformément [<sup>3</sup> aux articles 16, § 1er, 17, § 1er, alinéa 3, 22, § 1er, 22bis, § 1er, alinéa 3 ou]<sup>3</sup> 25sexies, § 2, alinéa 2, du Code, lorsqu'ils ne sont pas encore en possession de la facture relative à l'opération.]<sup>2</sup>
+
+§ 2. Le document visé [<sup>2</sup> au paragraphe 1er]<sup>2</sup> doit contenir les mentions suivantes :
+
+1° la date à laquelle le document est établi;
+
+2° le nom ou la dénomination sociale et l'adresse des parties intervenues dans l'opération;
+
+3° le numéro d'identification à la taxe sur la valeur ajoutée, visé à l'article 50 du Code, de la personne qui établit le document;
+
+4° [<sup>2</sup> a) pour l'acquisition intracommunautaire de biens, la date à laquelle le fait générateur est intervenu par application de l'article 25sexies, § 1er, du Code;
+
+b) pour les opérations visées à l'article 51, § 2, alinéa 1er, du Code, ou aux articles 20, 20bis ou 20ter, la date à laquelle l'opération est effectuée ou, lorsque la taxe devient exigible par application [<sup>3</sup> de l'article 17, § 1er, alinéa 3 ou de l'article 22bis, § 1er, alinéa 3 et § 2, alinéa 2]<sup>3</sup>, du Code, la date à laquelle elle est exigible;]<sup>2</sup>
+
+5° les éléments visés à l'article 5, § 1er, 6°;
+
+6° l'indication, par taux, de la base d'imposition et le montant total des taxes dues;
+
+7° une référence au contrat ou à tout autre document établi dans les relations entre les parties concernées par l'opération, qui peut justifier la nature et la quantité des biens acquis ou l'objet des services reçus ainsi que le prix et ses accessoires;
+
+8° le numéro sous lequel le document est inscrit au facturier d'entrée ou au registre que l'assujetti (ou le membre de l'unité T.V.A. au sens de l'article 4, § 2, du Code,) et la personne morale non assujettie doivent tenir conformément à l'article 14 [<sup>2</sup> ...]<sup>2</sup> . &lt;AR 2007-05-17/35, art. 6, 025; En vigueur : 01-04-2007&gt;
+
+§ 3. [<sup>2</sup> L'assujetti qui est redevable de la taxe en raison d'une opération assimilée à une acquisition intracommunautaire par l'article 25quater du Code, et qui n'est pas en possession du document de transfert établi conformément aux dispositions légales en vigueur dans l'Etat membre à partir duquel les biens sont expédiés ou transportés, établit, au plus tard le quinzième jour du mois qui suit celui au cours duquel la taxe devient exigible conformément à l'article 25sexies, § 2, alinéa 2, du Code, un document constatant l'opération et contenant les mentions prévues au paragraphe 2.]<sup>2</sup>
+
+§ 4. [<sup>2</sup> Lors de la réception de la facture ou du document de transfert, les personnes visées respectivement au paragraphe 1er ou au paragraphe 3, inscrivent sur ceux-ci une référence au document visé respectivement au paragraphe 2 ou au paragraphe 3, et sur ces derniers, une référence à la facture ou au document de transfert.]<sup>2</sup>
+
+----------
+
+(1)&lt;AR 2009-12-09/10, art. 3, 027; En vigueur : 01-01-2010&gt;
+
+(2)&lt;AR 2012-12-19/03, art. 13, 033; En vigueur : 01-01-2013&gt;
+
+(3)&lt;AR 2015-12-18/13, art. 3, 042; En vigueur : 01-01-2016&gt;
+
+#### Art. 10
+
+§ 1. [<sup>1</sup> L'assujetti qui effectue des livraisons de biens ou des prestations de services, autres que celles exonérées par l'article 44 du Code ne lui ouvrant aucun droit à déduction établit en deux exemplaires, un document, le jour même de l'opération, pour les biens et les services destinés à son activité économique, qui lui sont fournis, à titre onéreux ou à titre gratuit, par un non-assujetti ou par un assujetti qui n'est pas tenu d'émettre une facture.]<sup>1</sup>
+
+Ce document porte les mentions suivantes :
+
+1° (le numéro sous lequel il est inscrit au facturier d'entrée de l'assujetti ou du membre de l'unité T.V.A. au sens de l'article 4, § 2, du Code;) &lt;AR 2007-05-17/35, art. 7, 025; En vigueur : 01-04-2007&gt;
+
+2° le nom ou la dénomination sociale et l'adresse des parties intervenues dans l'opération;
+
+3° le numéro d'identification à la taxe sur la valeur ajoutée (qui lui est attribué) conformément à l'article 50 du Code; &lt;AR 2004-02-16/31, art. 8, 021; En vigueur : 01-01-2004&gt;
+
+4° la date de l'opération;
+
+5° les éléments nécessaires pour déterminer l'opération;
+
+6° le cas échéant, le prix.
+
+(Ce document est signé, pour accord, par les parties contractantes, avec mention de la qualité des signataires; un exemplaire dudit document est remis au fournisseur de biens ou au prestataire de services.) &lt;AR 1994-11-22/32, art. 1, b), 003; En vigueur : 01-12-1994&gt;
+
+§ 2. L'assujetti est dispensé d'établir le document visé au [<sup>1</sup> paragraphe 1er]<sup>1</sup> , lorsqu'un document lui est délivré par son cocontractant.
+
+Le cas échéant, l'assujetti complète ce dernier document par les mentions visées au par. 1er, alinéa 2.
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 14, 033; En vigueur : 01-01-2013&gt;
+
+#### Art. 11
+
+La cession d'une universalité de biens ou d'une branche d'activité, visée à l'article 18, par. 3, du Code doivent être constatées par un document, rédigé par les parties à la cession, et dont chaque partie reçoit un exemplaire.
+
+Ce document doit notamment contenir les mentions suivantes :
+
+1° la date de la cession ou des opérations;
+
+2° le nom ou la dénomination sociale et l'adresse des parties intervenues et, le cas échéant, leur numéro d'identification à la taxe sur la valeur ajoutée, visé à l'article 50 du Code de la T.V.A.;
+
+3° une description détaillée de l'objet de la cession ou de l'opération;
+
+4° le prix.
+
+#### Art. 12
+
+[<sup>1</sup> § 1er. Un document rectificatif au sens de l'article 53, § 2, alinéa 3, du Code, doit être émis ou établi lorsque, après leur émission ou établissement, la facture ou un des documents visés à l'article 53, § 3, alinéa 1er, du Code, et aux articles 2, 6, 7, § 1er, et 10 doivent être corrigés.
+
+Dans les conditions visées à l'article 53, § 2, alinéa 2, du Code, ce document peut être remplacé par un décompte rectificatif émis par le cocontractant.
+
+§ 2. Les assujettis et les personnes morales non assujetties établissent un document rectificatif lorsqu'un des documents visés aux articles 3, 9, 10 et 11 doit être corrigé après son inscription dans le facturier ou le registre prévus par l'article 14. L'assujetti remplit la même obligation lorsque le document visé à l'article 7, § 2, doit être corrigé.
+
+§ 3. Le document rectificatif visé aux paragraphes 1er et 2 porte une référence à la facture ou au document à rectifier. Le Ministre des Finances règle la manière dont le document rectificatif doit être émis ou établi.
+
+§ 4. Les assujettis établissent une copie des documents rectificatifs visés au paragraphe 1er.
+
+§ 5. En ce qui concerne l'application de l'article 10, le document rectificatif et sa copie doivent être signés, pour accord, par les parties contractantes, avec mention de la qualité des signataires.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 15, 033; En vigueur : 01-01-2013&gt;
+
+### Section 5. [<sup>1</sup> - Factures simplifiées]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par AR 2012-12-19/03, art. 16, 033; En vigueur : 01-01-2013&gt;
+
+#### Art. 13
+
+[<sup>1</sup> Les assujettis sont autorisés à émettre une facture simplifiée dans les cas suivants :
+
+1° lorsque le montant de la facture n'est pas supérieur à 100 euros, hors taxe sur la valeur ajoutée;
+
+2° lorsque, aux conditions fixées par le Ministre des Finances, les pratiques commerciales ou administratives du secteur d'activité concerné ou les conditions techniques d'émission de ces factures rendent difficile le respect de toutes les obligations prévues;
+
+3° lorsque le document ou le message émis est assimilé à une facture conformément à l'article 53, § 2, alinéa 3, du Code;
+
+[<sup>2</sup> 4° lorsque l'assujetti bénéficie du régime de la franchise de taxe visé aux articles 56bis à 56undecies du Code.]<sup>2</sup>
+
+En tout état de cause, la facture simplifiée doit contenir les éléments suivants :
+
+1° la date à laquelle elle est émise et un numéro séquentiel, basé sur une ou plusieurs séries, qui identifie la facture de façon unique, sous lequel elle est inscrite au facturier de sortie du fournisseur ou du prestataire;
+
+2° [<sup>2</sup> le nom ou la dénomination sociale du fournisseur ou du prestataire, l'adresse de son siège administratif ou social et son numéro d'identification à la T.V.A. visé à l'article 50 du Code ou le numéro individuel qui lui a été attribué par son Etat membre d'établissement conformément à l'article 292 ter, deuxième alinéa, de la directive 2006/112/CE ou, dans le cadre de l'unité T.V.A. au sens de l'article 4, § 2, du Code, les mentions qui sont propres au membre concerné ;]<sup>2</sup>
+
+3° le numéro d'identification à la T.V.A. visé à l'article 50 du Code, de l'acquéreur ou du preneur ou, à défaut, ses nom ou dénomination sociale et adresse complète;
+
+4° l'identification du type de biens livrés ou des services prestés;
+
+5° l'indication, par taux, de la base d'imposition et le montant total des taxes dues;
+
+6° lorsque le document ou message émis est assimilé à une facture conformément à l'article 53, § 2, alinéa 3, du Code, une référence spécifique et non équivoque à cette facture initiale et les mentions spécifiques qui sont modifiées.
+
+L'alinéa 1er ne peut s'appliquer aux opérations visées aux articles 14, § 3, 15, §§ 1er et 2, 25ter et 39bis du Code, ni aux opérations pour lesquelles la taxe est due par le cocontractant en vertu de l'article 51, §§ 2 ou 4 du Code.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 17, 033; En vigueur : 01-01-2013&gt;
+
+(2)&lt;AR 2024-12-15/05, art. 3, 052; En vigueur : 01-01-2025&gt;
+
+#### Art. 13bis
+
+&lt;Abrogé par AR 2012-12-19/03, art. 18, 033; En vigueur : 01-01-2013&gt;
+
+### Section 6. [<sup>1</sup> Factures électroniques structurées]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2025-07-08/02, art. 3, 054; En vigueur : 01-01-2026&gt;
+
+### Art. 13ter. [<sup>1</sup> L'assujetti tenu d'émettre une facture électronique structurée conformément à l'article 53, § 2bis, alinéa 1er, du Code, émet cette facture :
+
+1° en conformité avec la norme européenne sur la facturation électronique et la liste des syntaxes en vertu de la directive 2014/55/UE telles que concrétisées dans le format Peppol BIS dans la version UBL ;
+
+2° via le réseau de transmission Peppol.
+
+Par dérogation à l'alinéa 1er et conformément à l'article 53, § 2bis, alinéa 2, du Code, l'assujetti visé à l'alinéa 1er est autorisé, sous réserve d'un accord entre les parties intéressées, à émettre une facture électronique structurée dans un format autre que Peppol BIS dans la version UBL et le cas échéant par tout autre moyen digital que via un réseau de transmission visé à l'alinéa 1er, 2°, à la condition que ce format soit conforme à la norme européenne sur la facturation électronique et à la liste des syntaxes en vertu de la directive 2014/55/UE.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2025-07-08/02, art. 3, 054; En vigueur : 01-01-2026&gt;
+
+#### Art. 13quater.
+
+[<sup>1</sup> L'assujetti visé à l'article 13ter, alinéa 2, dispose des moyens techniques lui permettant d'émettre et de recevoir une facture électronique structurée conformément à l'article 13ter, alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2025-07-08/02, art. 3, 054; En vigueur : 01-01-2026&gt;
+
+## Chapitre II. - La comptabilité.
+
+#### Art. 14
+
+§ 1er. Les assujettis doivent tenir une comptabilité appropriée à l'étendue de leurs activités en vue de permettre l'application et le contrôle de la taxe sur la valeur ajoutée.
+
+(Pour l'unité T.V.A. au sens de l'article 4, § 2, du Code, une telle comptabilité doit être tenue par chaque membre en ce qui concerne ses propres activités.) &lt;AR 2007-05-17/35, art. 10, 025; En vigueur : 01-04-2007&gt;
+
+§ 2. La comptabilité des assujettis, à l'exception de ceux qui effectuent exclusivement des opérations visées à l'article 8bis du Code, comprend notamment les registres suivants :
+
+1° un facturier d'entrée dans lequel ils inscrivent les factures et documents relatifs à leur activité économique et qui concernent les opérations suivantes :
+
+\- les livraisons de biens et les prestations de services;
+
+\- les importations;
+
+\- les acquisitions intracommunautaires de biens;
+
+\- les opérations visées aux [<sup>1</sup> articles 12, § 1er, alinéa 1er, 3° et 4°, 19, §§ 2, alinéa 1er, 1° et 3, [<sup>4</sup> ...]<sup>4</sup> et 25quater]<sup>1</sup> du Code;
+
+\- les cessions visées à l'article 11 du Code et les opérations visées à l'article 18, par. 3, du Code, qui leur ont été faites;
+
+\- les opérations visées à l'article 10.
+
+2° [<sup>1</sup> un facturier de sortie, dans lequel ils inscrivent les factures, les documents visés aux articles 2, 3, 6 et 11 et ceux visés à l'article 53, § 3, alinéa 1er, du Code, ainsi que les documents rectificatifs qui s'y rapportent;]<sup>1</sup>
+
+3° [<sup>2</sup> un journal, par siège d'exploitation, dans lequel s'inscrivent les recettes relatives aux opérations pour lesquelles ils n'ont pas d'obligation d'émettre une facture ou le document visé à l'article 53, § 3, alinéa 1er, du Code et pour lesquelles ils n'ont pas émis de facture ou ce document.]<sup>2</sup>
+
+Ce journal peut être tenu sous la forme papier conformément à l'article 15, § 1er, alinéas 2 et 3, ou au moyen d'un système électronique selon les modalités déterminées par le Ministre des Finances [<sup>5</sup> ...]<sup>5</sup>.
+
+[<sup>5</sup> L'utilisation par les assujettis d'une caisse enregistreuse électronique, générant un ou des rapports financiers à la fin de chaque période d'ouverture journalière de chaque établissement, avec remise systématique au client du ticket de caisse, pour l'enregistrement de manière digitale des données des opérations effectuées dans le siège d'exploitation pour lesquelles aucune facture ne doit être délivrée, est assimilée à la tenue digitale d'un journal des recettes pour leur siège d'exploitation. Le ticket de caisse peut être délivré sous forme électronique ou sous forme papier excepté pour les opérations pour lesquelles un ticket de caisse au moyen d'un système de caisse enregistreuse en application de l'article 21bis, § 1er, alinéa 1er ou une note ou un reçu en application de l'article 22 doit être délivré au client. Pour ces opérations, le ticket de caisse doit obligatoirement être délivré sous forme papier.
+
+Les données des opérations effectuées dans le siège d'exploitation qui seront enregistrées dans la caisse enregistreuse électronique sont d'une part, celles visées à l'article 15, § 4 et d'autre part, les données suivantes reprises dans le ticket de caisse :
+
+a) la date d'émission ;
+
+b) le numéro d'ordre de minimum 4 et maximum 8 positions, pris dans une suite ininterrompue de numéros. Cette suite peut, selon l'organisation administrative et technique de l'assujetti, être définie par caisse distincte, par série de caisses dans le même établissement ou pour toutes les caisses réunies dans le même établissement ;
+
+c) l'identification de la caisse et de l'établissement s'il y en a plusieurs ;
+
+d) la référence de l'article, le nombre de pièces par article et le montant total pour ce nombre de pièces, en tenant compte du prix affiché (T.V.A. comprise) ;
+
+e) les réductions et les remboursements ;
+
+f) le montant total, T.V.A. comprise, à payer par le client ou en cas de remboursement, le solde à payer au client ;
+
+g) les huit derniers caractères de la signature digitale de l'enregistrement généré par le système de sécurisation.
+
+Un rapport financier doit être généré par la caisse enregistreuse électronique à la fin de chaque période d'ouverture journalière de l'établissement par série de numéros d'ordre octroyée comme décrit au paragraphe 2, 3°, alinéa 4, b), et comporter au moins les indications suivantes :
+
+a) l'identification de la (des) caisse(s) à laquelle (auxquelles) a trait ce rapport et, s'il y a différents établissements, l'identification de l'établissement ;
+
+b) le moment précis (date, heure, minute) auquel le rapport a été généré ;
+
+c) le numéro d'ordre du rapport, pris dans une série ininterrompue ;
+
+d) la période à laquelle le rapport se rapporte ;
+
+e) la somme des montants totaux visés au paragraphe 2, 3°, alinéa 4, d) ;
+
+f) le montant total des réductions et des remboursements ;
+
+g) le montant total du chiffre d'affaires net, T.V.A. comprise ;
+
+h) dans le cas où l'assujetti ne fait pas usage de la possibilité qui lui est offerte par l'article 15, § 4, alinéa 4, et si toutes les données requises à cette fin ont déjà été calculées, une scission du montant total visé au g), par taux de T.V.A. distinct ;
+
+i) les huit derniers caractères de la signature digitale de l'enregistrement de la dernière opération effectuée à laquelle a trait ce rapport.
+
+Le ministre des Finances détermine les modalités relatives à la conservation et l'intégrité du contenu des tickets de caisse visés au paragraphe 2, 3°, alinéa 4, ainsi que les modalités de conservation des rapports financiers visés au paragraphe 2, 3°, alinéa 5.]<sup>5</sup>
+
+[<sup>5</sup> Le journal des recettes relatif aux opérations effectuées dans le siège d'exploitation, ainsi que les pièces justificatives visées à l'article 15, § 2, qui s'y rapportent, en ce compris, le cas échéant, les doubles des notes ou des reçus visés à l'article 22 ou la caisse enregistreuse visée au paragraphe 2, 3°, alinéa 3, doivent se trouver à ce siège d'exploitation jusqu'à l'expiration du troisième mois qui suit celui au cours duquel ledit journal des recettes a été clôturé. Si le journal des recettes est tenu au moyen d'un système électronique, il doit être accessible électroniquement au siège d'exploitation durant la période précitée. Dans le cas de l'utilisation d'une caisse enregistreuse électronique, celle-ci devra être accessible électroniquement au siège d'exploitation durant la période précitée.]<sup>5</sup>
+
+Les assujettis qui disposent de plusieurs sièges d'exploitation doivent, en outre, tenir un registre centralisateur dans lequel ils inscrivent, par taux, à la fin de chaque période de déclaration, le montant total des recettes de la période inscrites dans les différents journaux des recettes. Ce journal centralisateur peut être tenu sous la forme papier conformément à l'article 15, § 1er, alinéas 2 et 3, ou au moyen d'un système informatisé selon les modalités déterminées par le Ministre des Finances [<sup>5</sup> ...]<sup>5</sup>.) &lt;AR 2007-01-31/31, art. 1, 023; En vigueur : 07-02-2007&gt;
+
+§ 3. [<sup>3</sup> Par dérogation au paragraphe 2, 3°, les assujettis qui bénéficient du régime forfaitaire établi par l'article 56, du Code, sont dispensés de la tenue du journal.]<sup>3</sup>
+
+§ 4. [<sup>6</sup> Les assujettis visés à l'article 56ter du Code sont dispensés de la tenue des registres visés au paragraphe 2, 1° et 2°, lorsqu'ils conservent les factures et documents ou, le cas échéant, les doubles des factures et documents visés par ces dispositions suivant l'ordre d'une série ininterrompue de numéros de classement qu'ils leur assignent lors de leur réception, de leur émission ou de leur établissement et qu'ils tiennent le registre visé au paragraphe 5.]<sup>6</sup>
+
+§ 5. [<sup>1</sup> Par dérogation au paragraphe 2, les assujettis qui effectuent exclusivement des opérations exemptées de la taxe en vertu de l'article 44 du Code ne leur ouvrant aucun droit à déduction et les assujettis qui bénéficient du régime agricole visé à l'article 57 du Code doivent tenir un registre dans lequel ils inscrivent les factures et documents relatifs à leur activité, constatant les opérations pour lesquelles ils sont redevables de la taxe conformément à l'article 51, §§ 1er, 2° et 2, alinéa 1er, 1° et 2°, du Code et les factures et documents visés à l'article 5, § 2, de l'arrêté royal n° 31 relatif aux modalités d'application de la taxe sur la valeur ajoutée, en ce qui concerne les opérations effectuées par les assujettis établis à l'étranger.]<sup>1</sup>
+
+§ 6. Les personnes morales non assujetties doivent tenir le registre visé au par. 5.
+
+----------
+
+(1)&lt;AR 2009-12-09/10, art. 5, 027; En vigueur : 01-01-2010&gt;
+
+(2)&lt;AR 2012-12-19/03, art. 19, 033; En vigueur : 01-01-2013&gt;
+
+(3)&lt;AR 2014-11-27/03, art. 1, 038; En vigueur : 01-04-2014&gt;
+
+(4)&lt;AR 2015-12-18/13, art. 8, 042; En vigueur : 07-01-2016&gt;
+
+(5)&lt;AR 2022-12-13/02, art. 1, 050; En vigueur : 01-01-2023&gt;
+
+(6)&lt;AR 2024-12-15/05, art. 4, 052; En vigueur : 01-01-2025&gt;
+
+#### Art. 15
+
+§ 1. [<sup>1</sup> Les registres tenus sous forme papier qui font partie de la comptabilité forment, chacun dans sa fonction, une série continue ; au plus tard au moment de leur emploi, ils sont identifiés par la spécification de cette fonction, leur place dans cette série, le nom ou la dénomination sociale de l'assujetti, du membre de l'unité T.V.A. au sens de l'article 4, § 2, du Code ou de la personne morale non assujettie et son numéro d'identification à la T.V.A., visé à l'article 50, du Code. Les registres tenus au moyen d'un système électronique sont identifiés par le nom ou la dénomination sociale de l'assujetti, du membre de l'unité T.V.A. au sens de l'article 4, § 2, du Code ou de la personne morale non assujettie et son numéro d'identification à la T.V.A., visé à l'article 50 du Code.]<sup>1</sup>
+
+[<sup>1</sup> Les registres visés à l'article 14, tenus sous forme papier, peuvent l'être sur feuilles mobiles, à l'exception du journal des recettes et du registre centralisateur visés au paragraphe 2, 3°, de cet article. Les feuilles mobiles doivent être numérotées au plus tard au moment de l'emploi de ces feuilles.]<sup>1</sup>
+
+(Les feuilles du journal des recettes et du registre centralisateur visés à l'article 14, § 2, 3°, [<sup>1</sup> tenus sous forme papier,]<sup>1</sup> doivent être numérotées au plus tard au moment de l'emploi de ces registres.) &lt;AR 2002-02-06/31, art. 3, 017; En vigueur : 01-04-2002&gt;
+
+(Le journal des recettes doit couvrir les opérations effectuées au cours d'une période égale à douze mois.) &lt;AR 2002-02-06/31, art. 3, 017; En vigueur : 01-04-2002&gt;
+
+§ 2. Les inscriptions relatives à la comptabilité s'appuient sur des pièces justificatives, datées et conservées, selon le cas, en original ou en copie.
+
+[<sup>1</sup> En cas d'application de l'article 14, § 2, 3°, alinéa 3, les tickets de caisse enregistrés dans la caisse enregistreuse électronique constitueront ces pièces justificatives.]<sup>1</sup>
+
+Les inscriptions dans les registres [<sup>1</sup> tenus sous forme papier]<sup>1</sup> sont faites sans retard, par ordre de dates, sans blanc ni lacune; en cas de rectification, l'écriture primitive doit rester lisible; les totaux de chaque page sont reportés en haut de la page suivante.
+
+§ 3. Les inscriptions dans les registres, visées [<sup>1</sup> à l'article 14, § 2, 1° et 2° et §§ 5 et 6]<sup>1</sup>, comportent notamment :
+
+a) le numéro d'ordre attribué à la facture ou au document;
+
+b) la date de la facture ou du document;
+
+c) le nom ou la dénomination sociale du cocontractant;
+
+d) par facture ou par document et, lorsque c'est nécessaire, par taux, la base d'imposition et le montant de la taxe correspondante;
+
+e) le prix de l'opération lorsque celle-ci n'est pas imposable;
+
+(f) une ventilation en vue de l'établissement des déclarations visées (aux articles 53, § 1er, alinéa 1er, 2°), et 53ter, 1°, du Code, ainsi que, à la fin de chaque période de déclaration, par grille de déclaration, le montant total de la période)(;) &lt;AR 1998-11-26/42, art. 2, 008; En vigueur : 01-01-1999&gt; &lt;AR 2000-07-20/63, art. 6, 012; En vigueur : 01-01-2002&gt; &lt;AR 2004-02-16/31, art. 12, 021; En vigueur : 01-01-2004&gt;
+
+g) (...) &lt;AR 2000-07-20/63, art. 6, 012; En vigueur : 01-01-2002&gt;
+
+§ 4. (Par siège d'exploitation, le montant total des recettes de chaque journée est inscrit au jour le jour dans le journal des recettes [<sup>1</sup> ou est enregistré au jour le jour par l'utilisation de la caisse enregistreuse électronique visée à l'article 14, § 2, 3°, alinéa 3]<sup>1</sup> .) &lt;AR 2002-02-06/31, art. 4, 017; En vigueur : 01-04-2002&gt;
+
+Une inscription distincte, avec indication de la nature des biens vendus, est cependant nécessaire pour les recettes provenant de la livraison des biens dont le prix par unité commerciale usuelle, excède ([<sup>2</sup> 500 euros]<sup>2</sup>), y compris la taxe sur la valeur ajoutée. &lt;AR 2000-07-20/63, art. 3, 011; En vigueur : 01-01-2002&gt;
+
+L'inscription distincte visée à l'alinéa [<sup>1</sup> 2]<sup>1</sup> peut être remplacée par une inscription globale journalière lorsque les documents justificatifs qui doivent être établis, portent, outre la recette, l'indication précise de la nature des biens vendus.
+
+Lorsque les recettes sont soumises à des taux différents, elles sont inscrites par taux. Dans les cas qu'ils déterminent et aux conditions qu'ils fixent, le Ministre des Finances [<sup>1</sup> ...]<sup>1</sup> peuvent cependant déroger à cette prescription en autorisant l'inscription des recettes sans distinction selon le taux de taxe et l'utilisation de formules appropriées pour la ventilation de ces recettes par taux.
+
+(En outre, (selon le cas, dans le seul journal des recettes ou dans le registre centralisateur,) sont inscrits, par taux, à la fin de chaque période de déclaration, le montant total de la base d'imposition ainsi que le montant total de la taxe correspondante, relatifs à la période (...) &lt;AR 1998-11-26/42, art. 2, 008; En vigueur : 01-01-1999&gt; &lt;AR 2000-07-20/63, art. 6, 012; En vigueur : 01-01-2002&gt; &lt;AR 2002-02-06/31, art. 4, 017; En vigueur : 01-04-2002&gt;
+
+----------
+
+(1)&lt;AR 2022-12-13/02, art. 2, 050; En vigueur : 01-01-2023&gt;
+
+(2)&lt;AR 2025-12-17/06, art. 2, 055; En vigueur : 10-01-2026&gt;
+
+#### Art. 16
+
+[<sup>3</sup> § 1er. Les assujettis établis en Belgique qui effectuent des livraisons de biens visées à l'article 15, § 2, alinéa 2, du Code ou des prestations de services visées à l'article 21bis, § 2, 9°, alinéa 2, du Code communiquent à tout moment à la satisfaction des agents de l'administration en charge de la taxe sur la valeur ajoutée, le montant global, par année civile, de leurs livraisons de biens et de leurs prestations de services qui interviennent pour le calcul des seuils visés aux articles 15, § 2, alinéa 2, 3° et 21bis, § 2, 9°, alinéa 2, c), du Code.
+
+Sauf dans l'hypothèse où elles font l'objet d'une facture, les opérations visées à l'alinéa 1er font l'objet d'une inscription distincte dans le journal de recettes visé à l'article 14, § 2, alinéa 1er, 3°, avec indication de la nature des biens ou des services vendus, de la base d'imposition, du montant de la taxe due et de l'Etat membre de l'arrivée de l'expédition ou du transport des biens ou dans lequel le preneur est établi ou a son domicile ou sa résidence habituelle.]<sup>3</sup>
+
+§ 2. En vue de l'application de l'article 53bis, par. 1, du Code, l'obligation visée [<sup>1</sup> au paragraphe 1er]<sup>1</sup> incombe également aux assujettis et aux personnes morales non assujetties visées à l'article 25ter, par. 1er, alinéa 2, 2°, du Code, qui n'ont pas opté conformément à l'alinéa 2 de cette disposition, en ce qui concerne le montant global, pour l'année civile en cours, de leurs acquisitions intracommunautaires de biens y visés.
+
+§ 3. Le Ministre des Finances ou son délégué peuvent régler l'application [<sup>1</sup> des paragraphes 1er et 2]<sup>1</sup>, lorsqu'ils le jugent nécessaire pour assurer l'application de la taxe et le contrôle de la perception exacte de celle-ci.
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 20, 033; En vigueur : 01-01-2013&gt;
+
+(2)&lt;AR 2015-01-24/03, art. 1, 039; En vigueur : 16-05-2014&gt;
+
+(3)&lt;AR 2021-06-29/01, art. 2, 048; En vigueur : 01-07-2021&gt;
+
+## Chapitre III. [<sup>1</sup> - Déclaration périodique, déclaration de substitution et déclaration spéciale]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2024-09-29/05, art. 2, 053; En vigueur : 01-01-2025&gt;
+
+#### Art. 17
+
+[<sup>1</sup> § 1er. L'assujetti tenu au dépôt de la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, du Code, remet cette déclaration au service indiqué par le ministre des Finances, au plus tard le vingtième jour qui suit le mois auquel elle se rapporte.
+
+§ 2. Par dérogation au paragraphe 1er, l'assujetti peut remettre une déclaration trimestrielle au plus tard le vingt-cinquième jour du mois qui suit chaque trimestre civil, lorsque :
+
+1° le chiffre d'affaires annuel, hors taxe sur la valeur ajoutée, n'excède pas 2.500.000 euros pour l'ensemble de son activité économique ;
+
+2° le chiffre d'affaires annuel, hors taxe sur la valeur ajoutée, n'excède pas 250.000 euros pour l'ensemble des livraisons des biens suivants :
+
+a) les produits énergétiques visés à l'article 415, § 1er, de la loi-programme du 27 décembre 2004 ;
+
+b) les appareils de téléphonie mobile et les ordinateurs, ainsi que leurs périphériques, accessoires et composants ;
+
+c) les véhicules terrestres munis d'un moteur soumis à la réglementation sur l'immatriculation.
+
+L'assujetti qui est tenu, conformément à l'article 53sexies, § 1er, du Code, au dépôt mensuel du relevé à la T.V.A. des opérations intracommunautaires, est exclu du régime visé à l'alinéa 1er.
+
+§ 3. Le passage du régime de déclarations trimestrielles au régime de déclarations mensuelles a lieu à l'expiration du premier trimestre civil au cours duquel les conditions prévues au paragraphe 2 ne sont plus remplies. L'assujetti est tenu de faire connaître ce changement au plus tard le dixième jour du mois qui suit ce trimestre civil au moyen de la déclaration visée à l'article 2 ou 7bis de l'arrêté royal n° 10, du 29 décembre 1992, relatif aux modalités d'exercice des options prévues aux articles 15, § 2, alinéa 4, 21bis, § 2, 9°, alinéa 4, 25ter, § 1er, alinéa 2, 2°, alinéa 2 et 44, § 3, 2°, d), du Code de la taxe sur la valeur ajoutée, aux déclarations de commencement, de changement, de cessation d'activité et aux déclarations préalables en matière de taxe sur la valeur ajoutée.
+
+Tous les autres passages d'un régime de déclaration à un autre peuvent, à la demande expresse de l'assujetti, être autorisés par l'administration. Ils entrent en vigueur le premier jour de la période de déclaration du régime sollicité par l'assujetti qui suit la date de l'acceptation de la demande par l'administration concernée. La demande est effectuée au moyen de la déclaration visée à l'article 2 ou 7bis de l'arrêté royal n° 10, du 29 décembre 1992, relatif aux modalités d'exercice des options prévues aux articles 15, § 2, alinéa 4, 21bis, § 2, 9°, alinéa 4, 25ter, § 1er, alinéa 2, 2°, alinéa 2 et 44, § 3, 2°, d), du Code de la taxe sur la valeur ajoutée, aux déclarations de commencement, de changement, de cessation d'activité et aux déclarations préalables en matière de taxe sur la valeur ajoutée.
+
+§ 4. Lorsque, après le dépôt de la déclaration visée au paragraphe 1er ou 2, l'assujetti constate dans cette déclaration une erreur matérielle, il dépose, avant le terme du délai de dépôt de cette déclaration, une nouvelle déclaration pour la même période qui annule et remplace la déclaration précédente.
+
+Lorsqu'aucune déclaration ne peut être déposée avant le terme du délai de dépôt de la déclaration à corriger, l'assujetti rectifie cette erreur dans la première déclaration suivante qui doit être déposée.
+
+Par erreur matérielle au sens de l'alinéa 1er, on entend toute erreur ou oubli qui ne donne pas lieu à l'établissement ou à la délivrance d'un document rectificatif.
+
+§ 5. Par dérogation aux paragraphes 1er et 2 et sauf dans les cas prévus à l'article XX.140 du Code de droit économique, le curateur d'un assujetti failli dépose, selon les modalités fixées à l'article 18, § 1er et § 2, et au plus tard le 28 février de l'année civile qui suit celle à laquelle elle se rapporte, une déclaration annuelle pour les opérations soumises à la taxe qu'il effectue chaque année au nom de cet assujetti, depuis le jour du jugement déclaratif de la faillite.
+
+Le curateur acquitte la taxe due au plus tard le 30 avril de l'année civile qui suit celle à laquelle la déclaration visée à l'alinéa 1er se rapporte.
+
+Par dérogation à l'alinéa 1er, lors de la clôture de la faillite, le curateur dépose la déclaration visée à l'alinéa 1er au plus tard le dernier jour du deuxième mois qui suit la date du jugement de clôture de la faillite.
+
+Le curateur acquitte la taxe due au plus tard dans les trois mois qui suivent l'expiration du délai fixé pour le dépôt de la déclaration visée à l'alinéa 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2024-09-29/05, art. 3, 053; En vigueur : 01-01-2025&gt;
+
+#### Art. 17bis.
+
+[<sup>1</sup> § 1er. L'assujetti auquel une déclaration de substitution définitive a été notifiée conformément à l'article 53, § 1erter, alinéa 6, du Code est autorisé à introduire une réclamation à l'encontre de cette déclaration dans un délai de six mois à compter de la date à laquelle la notification de cette déclaration produit ses effets.
+
+Sous peine d'irrecevabilité, la réclamation visée à l'alinéa 1er est introduite à l'adresse électronique déterminée par le ministre des Finances ou son délégué et contient au minimum les informations suivantes :
+
+1° le nom ou la dénomination sociale, l'adresse de son siège administratif ou social, l'adresse électronique et le numéro d'identification à la T.V.A. de l'assujetti ;
+
+2° la période de déclaration concernée ;
+
+3° les montants qui auraient dû être repris dans la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, du Code qui n'a pas été déposée et qui a donné lieu à la déclaration de substitution définitive ;
+
+4° une justification de la véracité des montants visés sous le 3°.
+
+L'administration en charge de la taxe sur la valeur ajoutée accuse réception de la réclamation visée à l'alinéa 1er.
+
+§ 2. L'introduction de la réclamation visée au paragraphe 1er ne porte pas préjudice au droit de l'administration de procéder aux mesures de recouvrement forcé de la dette fiscale résultant de la déclaration de substitution définitive notifiée conformément à l'article 53, § 1erter, alinéa 6, du Code, en particulier lorsque les droits du Trésor sont en péril.
+
+L'introduction ou l'absence d'introduction de la réclamation visée au paragraphe 1er ne porte pas préjudice au droit de l'assujetti d'agir en justice à l'encontre de la déclaration de substitution définitive notifiée conformément à l'article 53, § 1erter, alinéa 6, du Code.
+
+L'introduction d'une action en justice conformément à l'alinéa 2 met fin de plein droit à la procédure de réclamation visée par le présent article.
+
+§ 3. La décision ou l'absence de décision relative à la réclamation visée au paragraphe 1er, alinéa 1er, ne porte pas préjudice au droit de l'administration en charge de la taxe de la valeur ajoutée de vérifier l'application correcte de la taxe due au titre de la période de déclaration qui se rapporte à la déclaration de substitution en cause, ainsi que d'en rectifier le montant le cas échéant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2024-09-29/05, art. 4, 053; En vigueur : 01-01-2025&gt;
+
+#### Art. 17ter.
+
+[<sup>1</sup> La personne tenue au dépôt de la déclaration visée à l'article 53ter, 1°, du Code, remet cette déclaration au service indiqué par le ministre des Finances ou son délégué, au plus tard le vingt-cinquième jour qui suit la période à laquelle elle se rapporte.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2024-09-29/05, art. 5, 053; En vigueur : 01-01-2025&gt;
+
+#### Art. 18
+
+[<sup>1</sup> § 1er. Les assujettis tenus au dépôt de la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, du Code, déposent cette déclaration par voie électronique.
+
+§ 2. Les assujettis visés au paragraphe 1er, sont dispensés de l'obligation du dépôt par voie électronique aussi longtemps qu'ils ne disposent pas des moyens informatiques nécessaires pour remplir cette obligation. Le ministre des Finances ou son délégué règle les modalités d'application de cette dispense.
+
+§ 3. Les assujettis tenus au dépôt des déclarations visées aux articles 17, paragraphes 1er, 2, et 4 et 17ter :
+
+a) qui ne déposent pas ces déclarations par voie électronique, utilisent les formulaires qui sont mis à leur disposition par l'administration et dont le modèle figure à l'annexe I au présent arrêté en ce qui concerne la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, du Code, et à l'annexe III en ce qui concerne la déclaration visée à l'article 53ter, 1°, du Code. La description des grilles de la déclaration dont le modèle figure à l'annexe I précitée, fait l'objet de l'annexe II au présent arrêté ;
+
+b) qui déposent ces déclarations par voie électronique, transmettent selon les modalités fixées par le ministre des Finances ou son délégué, les mêmes données que celles contenues dans la déclaration visée sous a).
+
+§ 4. Les assujettis tenus au dépôt de la déclaration visée aux articles 58ter, § 6, 58quater, § 6 et 58quinquies, § 6, du Code, utilisent des formules de déclarations qui consistent en un message électronique dont le contenu est fixé aux articles 58ter, § 6, alinéas 2 et 3, 58quater, § 6, alinéas 2 à 8, et 58quinquies, § 6, alinéas 2 et 3, du Code. Ils envoient ce message à l'adresse électronique créée à cet effet par le ministre des Finances ou son délégué.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2024-09-29/05, art. 6, 053; En vigueur : 01-01-2025&gt;
+
+## CHAPITRE IIIbis. [<sup>1</sup> - Redevable de la taxe]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2024-09-29/05, art. 7, 053; En vigueur : 01-01-2025&gt;
+
+#### Art. 19
+
+&lt;Abrogé par AR 2021-03-29/01, art. 1, 047; En vigueur : 10-04-2021&gt;
+
+#### Art. 20
+
+§ 1. [<sup>2</sup> Par dérogation à l'article 51, § 1er, 1°, du Code, le cocontractant de l'assujetti établi en Belgique qui effectue une des opérations indiquées au paragraphe 2, acquitte la taxe due en raison de cette opération lorsqu'il est lui-même un assujetti tenu au dépôt de la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, du Code. Il acquitte la taxe de la manière prévue au paragraphe 4.
+
+Le cocontractant identifié à la T.V.A. conformément à l'article 50, § 1er, alinéa 1er, 1°, du Code qui n'est pas tenu au dépôt de la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, du Code, informe le prestataire de services, lorsqu'il communique à ce dernier son numéro d'identification à la T.V.A. conformément à l'article 53quater, § 1er, alinéa 1er, 1°, du Code, qu'il ne remplit pas les conditions prévues à l'alinéa 1er.]<sup>2</sup>
+
+§ 2. est visé tout travail immobilier au sens de l'article 19 par. 2, du Code.
+
+Sont également visés, dans la mesure où ils ne sont pas des travaux immobiliers :
+
+1° toute opération comportant à la fois la fourniture et la fixation à un bâtiment :
+
+a) de tout ou partie des éléments constitutifs d'une installation de chauffage central ou de climatisation, en ce compris les brûleurs, réservoirs et appareils de régulation et de contrôle reliés à la chaudière ou aux radiateurs;
+
+b) de tout ou partie des éléments constitutifs d'une installation sanitaire d'un bâtiment et, plus généralement, de tous appareils fixes pour usages sanitaires ou hygiéniques branchés sur une conduite d'eau ou d'égout;
+
+c) de tout ou partie des éléments constitutifs d'une installation électrique d'un bâtiment, à l'exclusion des appareils d'éclairage et des lampes;
+
+d) de tout ou partie des éléments constitutifs d'une installation de sonnerie électrique, d'une installation de détection d'incendie et de protection contre le vol, d'une installation de téléphone intérieure;
+
+e) d'armoires de rangement, éviers, armoires-éviers et sous-éviers, armoires-lavabos et sous-lavabos, hottes, ventilateurs et aérateurs équipant une cuisine ou une salle de bain;
+
+f) de volets, persiennes et stores placés à l'extérieur du bâtiment;
+
+2° toute opération comportant à la fois la fourniture et le placement dans un bâtiment de revêtements de mur ou de sol, qu'il y ait fixation au bâtiment ou que le placement ne nécessite qu'un simple découpage, sur place, aux dimensions de la surface à recouvrir;
+
+3° tout travail de fixation, de placement, de réparation, d'entretien et de nettoyage des biens visés au 1° ou 2° ci-avant.
+
+Est aussi visée la mise à disposition de personnel en vue de l'exécution d'un travail immobilier ou d'une des opérations visées au 1°, 2° ou 3° ci-avant.
+
+§ 3. [<sup>2</sup> La facture émise par le prestataire de services visé au paragraphe 1er et le double qu'il conserve, relatifs aux opérations visées au paragraphe 2 qu'il effectue, constatent l'existence des divers éléments justificatifs de l'application du présent article, ne mentionnent pas pour ces opérations le taux et le montant de la taxe due mais portent, lorsque le preneur n'a pas procédé à l'information visée au paragraphe 1er, alinéa 2, la mention suivante :
+
+"Autoliquidation : En l'absence de contestation par écrit, dans un délai d'un mois à compter de la réception de la facture, le client est présumé reconnaître qu'il est un assujetti tenu au dépôt de déclarations périodiques. Si cette condition n'est pas remplie, le client endossera, par rapport à cette condition, la responsabilité quant au paiement de la taxe, des intérêts et des amendes dus.".
+
+Sauf collusion entre les parties, l'absence de contestation de la facture par le client décharge la responsabilité du prestataire de services par rapport à la condition relative à la qualité du client visée à l'alinéa 1er.]<sup>2</sup>
+
+§ 4. [<sup>3</sup> Le cocontractant visé au paragraphe 1er reprend la taxe due en raison de ces opérations dans la déclaration relative à la période au cours de laquelle la taxe est exigible.]<sup>3</sup>
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 22, 033; En vigueur : 01-01-2013&gt;
+
+(2)&lt;AR 2022-10-26/04, art. 13, 049; En vigueur : 01-01-2023&gt;
+
+(3)&lt;AR 2023-12-17/15, art. 2, 051; En vigueur : 01-01-2024&gt;
+
+#### Art. 20bis
+
+[<sup>1</sup> Par dérogation à l'article 51, § 1er, 1°, du Code, le cocontractant de l'assujetti qui effectue une livraison visée à l'alinéa 2, acquitte la taxe due en raison de cette livraison lorsqu'il est lui-même un assujetti tenu au dépôt de la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, du Code. Il acquitte la taxe de la manière prévue à l'alinéa 5.
+
+Sont visées, pour l'application du présent article :
+
+1° les livraisons d'or sous la forme de matière première ou de produits semi-ouvrés d'une pureté égale ou supérieure à 325 millièmes ;
+
+2° les livraisons d'or d'investissement visées à l'article 44bis, § 1er, alinéa 1er, du Code, effectuées par un assujetti qui, conformément à l'article 44bis, § 1er, alinéas 2 ou 3, du Code a opté pour la taxation de ces livraisons.
+
+L'assujetti qui effectue des opérations visées à l'alinéa 2, ne reprend pas sur les factures qu'il émet pour ces opérations, le taux et le montant de la taxe due, mais il y porte la mention suivante :
+
+"Autoliquidation : En l'absence de contestation par écrit, dans un délai d'un mois à compter de la réception de la facture, le client est présumé reconnaître qu'il est un assujetti tenu au dépôt de déclarations périodiques. Si cette condition n'est pas remplie, le client endossera, par rapport à cette condition, la responsabilité quant au paiement de la taxe, des intérêts et des amendes dus.".
+
+Sauf collusion entre les parties, l'absence de contestation de la facture par le client décharge la responsabilité du prestataire de services par rapport à la condition relative à la qualité du client visée à l'alinéa 3.
+
+Le cocontractant visé à l'alinéa 1er, reprend la taxe due en raison des opérations énumérées à l'alinéa 2, dans la déclaration relative à la période au cours de laquelle la taxe devient exigible.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2023-12-17/15, art. 3, 051; En vigueur : 01-01-2024&gt;
+
+#### Art. 20ter
+
+[<sup>1</sup> Par dérogation à l'article 51, § 1er, 1°, du Code, le cocontractant de l'assujetti qui effectue une prestation de services visée à l'alinéa 2, acquitte la taxe due en raison de cette opération lorsqu'il est lui-même un assujetti établi en Belgique tenu au dépôt de la déclaration visée à l'article 53, § 1er, alinéa 1er, 2°, du Code. Il acquitte la taxe de la manière prévue à l'alinéa 5.
+
+Est visé, pour l'application du présent article, le transfert de quotas autorisant à émettre des gaz à effet de serre au sens de l'article 3 de la directive 2003/87/CE transférables conformément à l'article 12 de ladite directive, et le transfert d'autres unités pouvant être utilisées par les opérateurs en vue de se conformer à ladite directive.
+
+L'assujetti qui effectue des opérations visées à l'alinéa 2, ne reprend pas sur les factures qu'il émet pour ces opérations, le taux et le montant de la taxe due, mais il y porte la mention suivante :
+
+"Autoliquidation : En l'absence de contestation par écrit, dans un délai d'un mois à compter de la réception de la facture, le client est présumé reconnaître qu'il est un assujetti tenu au dépôt de déclarations périodiques. Si cette condition n'est pas remplie, le client endossera, par rapport à cette condition, la responsabilité quant au paiement de la taxe, des intérêts et des amendes dus.".
+
+Sauf collusion entre les parties, l'absence de contestation de la facture par le client décharge la responsabilité du prestataire de services par rapport à la condition relative à la qualité du client visée à l'alinéa 3.
+
+Le cocontractant visé à l'alinéa 1er reprend la taxe due en raison de cette opération, dans la déclaration relative à la période au cours de laquelle la taxe devient exigible.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2023-12-17/15, art. 4, 051; En vigueur : 01-01-2024&gt;
+
+#### Art. 20quater.
+
+[<sup>1</sup> § 1er. L'administration en charge de la taxe sur la valeur ajoutée procède aux communications visées à l'article 51bis, § 3bis, alinéa 2, 2°, du Code au moyen d'un envoi à l'adresse électronique communiquée par l'assujetti visé à l'article 51bis, § 3bis, alinéa 1er, du Code qui facilite, par l'utilisation d'une interface électronique telle qu'une place de marché, une plateforme, un portail ou un dispositif similaire, des livraisons de biens en Belgique visées à l'article 51bis, § 3bis, alinéa 1er, 1° et 2°, du Code.
+
+§ 2. L'administration en charge de la taxe sur la valeur ajoutée communique au fournisseur qui réalise des livraisons de biens visées à l'article 51bis, § 3bis, alinéa 1er, du Code les sérieux soupçons à son égard qu'il ne remplit pas correctement les obligations déclaratives et de paiement relatives à ces opérations.
+
+La communication visée à l'alinéa 1er s'opère au moyen d'un envoi à l'adresse électronique communiquée par le fournisseur visé à l'alinéa 1er ou, à défaut, par l'assujetti visé au paragraphe 1er.
+
+La communication visée à l'alinéa 1er est effectuée au même moment que la communication visée à l'article 51bis, § 3bis, alinéa 2, 2°, a), du Code, adressée à l'assujetti visé au paragraphe 1er.
+
+L'administration en charge de la taxe sur la valeur ajoutée ne procède pas à la communication visée à l'article 51bis, § 3bis, alinéa 2, 2°, b), du Code tant que la réclamation visée au paragraphe 3 n'a pas fait l'objet d'une décision notifiée au fournisseur.
+
+§ 3. Le fournisseur visé au paragraphe 2, l'alinéa 1er, est autorisé à introduire une réclamation à l'encontre de la communication visée au paragraphe 2, l'alinéa 1er dans un délai de deux mois à compter de l'envoi de cette communication.
+
+Sous peine de déchéance, la réclamation visée à l'alinéa 1er est introduite à l'adresse électronique indiquée sur la communication visée au paragraphe 2, alinéa 1er et contient au minimum les informations suivantes :
+
+1° le nom, l'adresse postale, l'adresse électronique et le numéro d'identification à la T.V.A. du fournisseur ;
+
+2° la ou les période(s) de déclaration concernée(s) ;
+
+3° le nom, l'adresse postale, l'adresse électronique et le numéro d'identification à la T.V.A. de l'assujetti visé au paragraphe 1er qui a facilité les opérations du fournisseur ;
+
+4° une justification du caractère erroné des sérieux soupçons notifiés par l'administration en charge de la taxe sur la valeur ajoutée.
+
+L'administration en charge de la taxe sur la valeur ajoutée accuse réception de la réclamation visée à l'alinéa 1er.
+
+L'introduction ou l'absence d'introduction de la réclamation visée à l'alinéa 1er ne porte pas préjudice au droit du fournisseur d'agir en justice à l'encontre de la notification visée au paragraphe 2.
+
+L'introduction d'une action en justice conformément à l'alinéa 4 met fin de plein droit à la procédure de réclamation visée par le présent paragraphe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2023-12-17/15, art. 5, 051; En vigueur : 01-01-2024&gt;
+
+## Chapitre IV. - Autres obligations.
+
+#### Art. 21
+
+En cas de vente publique de biens meubles a la requête du curateur d'un assujetti failli, le notaire ou l'huissier de justice, qui prête son ministère pour la vente, est tenu de percevoir à charge de l'acheteur, pour le compte du curateur, la taxe sur la valeur ajoutée exigible.
+
+#### Art. 21bis
+
+[<sup>1</sup> § 1er. L'exploitant d'un établissement où sont consommés des repas ainsi que le traiteur qui effectue des prestations de restauration sont tenus de délivrer au client, assujetti ou non-assujetti, le ticket de caisse prévu à l'arrêté royal du 30 décembre 2009 fixant la définition et les conditions auxquelles doit répondre un système de caisse enregistreuse dans le secteur horeca, pour toutes les opérations qu'ils effectuent dans l'exercice de l'activité économique et qui ont un rapport avec la fourniture de repas et de boissons, que les boissons soient fournies ou non au cours du repas, en ce compris toutes les ventes de nourriture et de boissons dans cet établissement, lorsque le chiffre d'affaires annuel, hors taxe sur la valeur ajoutée, relatif aux prestations de services de restaurant et de restauration à l'exclusion des services qui consistent en la fourniture de boissons, excède 25.000 euros.
+
+Lorsque l'exploitant dispose de plusieurs établissements dans lesquels des repas sont consommés, les conditions visées à l'alinéa 1er sont évaluées par établissement.
+
+[<sup>2</sup> L'utilisation par l'exploitant d'un système de caisse enregistreuse pour l'enregistrement de manière digitale de toutes les opérations qu'il effectue dans l'exercice de l'activité économique et qui sont définies au paragraphe 1er, alinéa 1er, avec remise systématique au client du ticket de caisse est assimilée à la tenue digitale d'un journal des recettes pour son siège d'exploitation. Le ticket de caisse doit obligatoirement être délivré sous forme papier. Les données des opérations effectuées dans le siège d'exploitation qui seront enregistrées sont d'une part celles visées à l'article 15, § 4 et d'autre part les données contenues dans le ticket de caisse définies à l'arrêté royal du 30 décembre 2009 fixant la définition et les conditions auxquelles doit répondre un système de caisse enregistreuse dans le secteur horeca.]<sup>2</sup>
+
+Ce ticket de caisse est délivré au moment de l'achèvement du service ou de la livraison de biens et reprend entre autres les mentions prévues à l'article 2, point 4, de l'arrêté royal précité.
+
+L'obligation de délivrer ce ticket de caisse prend fin au moment où l'assujetti cesse définitivement l'activité qui consiste en la fourniture de prestations de restaurant ou de restauration visée à alinéa 1er.
+
+Ne sont pas tenus de délivrer au client le ticket de caisse visé à l'alinéa 1er :
+
+1° l'assujetti qui fournit au consommateur final des services de restaurant ou de restauration pour lesquels il fait appel, pour la totalité de son activité de restaurant ou de restauration, à un sous-traitant qui est tenu de délivrer le ticket de caisse, à condition que l'assujetti n'intervienne en aucune façon dans la préparation des repas ou dans l'achat d'aliments non préparés;
+
+2° l'assujetti qui fournit des logements meublés tels que visés à l'article 18, § 1er, alinéa 2, 10°, du Code, à l'égard de la fourniture de nourriture et de boissons pour autant que celle-ci soit reprise dans la note d'hôtel globale des clients qui y séjournent;
+
+3° l'assujetti qui exploite un restaurant d'entreprise lorsque les conditions suivantes sont réunies :
+
+a) l'activité de l'entreprise est une activité autre qu'une activité de restaurant ou de restauration;
+
+b) le restaurant de l'entreprise n'est accessible qu'aux membres du personnel de l'entreprise et aux membres d'une entreprise liée;
+
+c) le restaurant de l'entreprise n'est accessible que pendant les heures de travail de l'entreprise.
+
+§ 2. Pour les assujettis qui, à la date du 1er juillet 2016, exercent une activité de restaurant ou de restauration, la période de référence pour le calcul du montant du chiffre d'affaires visé au paragraphe 1er, alinéa 1er, correspond à l'année calendrier 2015. Toutefois, lorsque l'assujetti a commencé son activité au cours des six premiers mois de l'année 2015, la période de référence correspond aux douze mois calendrier qui précèdent le 1er juillet 2016. Lorsqu'à cette date, le chiffre d'affaires réalisé concerne un nombre de mois inférieur à douze mois calendrier, la période de référence correspond à ce nombre de mois, et le montant du seuil de 25.000 euros est réduit au prorata du nombre de mois calendrier écoulés entre le premier jour du mois qui suit le commencement de son activité et le 1er juillet 2016. Cette réduction prorata temporis ne s'applique pas dans le cas d'une entreprise saisonnière ou d'une entreprise dont l'activité est exercée de manière intermittente.
+
+L'assujetti qui commence son activité économique après le 1er juillet 2016, est tenu de déclarer sous le contrôle de l'administration en charge de la taxe sur la valeur ajoutée, que selon toute probabilité, le montant de son chiffre d'affaires visé au paragraphe 1er, alinéa 1er, n'excèdera pas 25.000 euros. Si l'assujetti estime que son chiffre d'affaires annuel dépassera ce montant, il est tenu de se faire enregistrer auprès du service indiqué par le Ministre des Finances conformément à l'article 2bis, de l'arrêté royal du 30 décembre 2009 précité, au plus tard à l'expiration du deuxième mois qui suit la date du commencement de son activité.
+
+L'assujetti visé à l'alinéa 2 est tenu de délivrer le ticket de caisse prévu au paragraphe 1er, alinéa 1er, au plus tard à la fin du mois qui suit la période au cours de laquelle il est tenu de se faire enregistrer.
+
+§ 3. Lorsque, après le 1er juillet 2016, l'assujetti constate lors du dépôt de la déclaration périodique à la T.V.A. que le chiffre d'affaires visé au paragraphe 1er, alinéa 1er, réalisé pendant l'année civile en cours dépasse 25.000 euros, il est tenu de se faire enregistrer auprès du service précité au plus tard à l'expiration du deuxième mois qui suit la période de déclaration à la T.V.A. concernée.
+
+L'assujetti visé à l'alinéa 1er est tenu de délivrer le ticket de caisse prévu au paragraphe 1er, alinéa 1er, au plus tard à la fin du mois qui suit la période au cours de laquelle il est tenu de se faire enregistrer.
+
+§ 4. L'assujetti qui s'est fait enregistrer auprès du service visé au paragraphe 2, alinéa 2, et qui ne dispose pas encore d'un système de caisse enregistreuse lui permettant de délivrer le ticket de caisse susvisé, est tenu de délivrer au cours de cette période la note ou le reçu visés à l'article 22, § 1er, alinéa 1er, 2°.
+
+L'assujetti tenu de délivrer le ticket de caisse au moyen du système de caisse enregistreuse susvisé doit, en tout état de cause, détenir une provision de notes ou de reçus à l'endroit où le système de caisse enregistreuse est installé.
+
+En cas de dysfonctionnement, pour quelle que raison que ce soit, du système de caisse enregistreuse, l'assujetti est tenu de délivrer une note ou un reçu.
+
+§ 5. Le Ministre des Finances fixe les conditions d'application pratiques du présent article. Il détermine notamment les règles à appliquer en cas de dysfonctionnement involontaire du système de caisse enregistreuse.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2016-06-16/06, art. 1, 043; En vigueur : 01-07-2016&gt;
+
+(2)&lt;AR 2022-12-13/02, art. 4, 050; En vigueur : 01-01-2023&gt;
+
+#### Art. 22
+
+§ 1. [<sup>1</sup> L'assujetti ou le membre d'une unité T.V.A. au sens de l'article 4, § 2, du Code, est tenu de délivrer]<sup>1</sup> à son client une note ou un reçu en ce qui concerne les opérations suivantes :
+
+1° la fourniture de logements meublés, accompagnée ou non de la fourniture de nourriture, de boissons ou d'accessoires, qui est faite par l'exploitant d'un établissement hôtelier ou, plus généralement, par l'exploitant d'un établissement où sont hébergés des hôtes payants;
+
+2° [<sup>8</sup> la fourniture de repas et de boissons consommées à l'occasion de ces repas par l'exploitant d'un établissement où sont consommés des repas ou par le traiteur qui effectue des prestations de restauration lorsque les conditions visées à l'article 21bis, § 1er, alinéa 1er, ne sont pas remplies;]<sup>8</sup>
+
+3° le lavage de voitures, voitures mixtes, minibus et voitures de camping.
+
+[<sup>5</sup> L'assujetti ou le membre d'une unité T.V.A. au sens de l'article 4, § 2, du Code, n'est toutefois pas tenu d'établir la note ou le reçu dans la mesure où, au moment de l'achèvement du service, il émet une facture portant les mentions visées à l'article 5, § 1er, ou délivre un ticket de caisse conformément à l'article 21bis.]<sup>5</sup>
+
+§ 2. La note ou le reçu contient notamment les indications suivantes : la date et le montant dû ou payé par le client, y compris la taxe sur la valeur ajoutée. (Pour les opérations visées au par. 1er, 2°, la note ou le reçu mentionne aussi le nombre de repas consommé [<sup>3</sup> et distingue le montant dû pour la fourniture des repas et la fourniture des boissons]<sup>3</sup>.) &lt;AR 1998-12-16/34, art. 2, 2°, 009; En vigueur : 01-04-1999&gt;
+
+(Ce document est établi en double exemplaire, sur des formules que l'assujetti ou le membre de l'unité T.V.A. au sens de l'article 4, § 2, du Code, doit faire confectionner, à ses frais, par un imprimeur agréé par le Ministre des Finances ou son délégué, et sur lesquelles sont imprimés le nom ou la dénomination sociale et l'adresse de l'assujetti ou du membre de l'unité T.V.A. au sens de l'article 4, § 2, du Code, ainsi que son numéro d'identification à la taxe sur la valeur ajoutée visé à l'article 50 du Code.) &lt;AR 2007-05-17/35, art. 12, a), 025; En vigueur : 01-04-2007&gt;
+
+Les formules sont numérotées par séries de 00.001 à 99.999. Chaque série est désignée par une ou plusieurs lettres de l'alphabet.
+
+Chaque exemplaire des formules de note ou de reçu doit comporter un cadre réserve à l'impression des mentions suivantes "Taxe sur la valeur ajoutée" et, selon le cas, "Note" ou "Reçu", d'un dessin de garantie, du numéro d'ordre du document, du nom ou de la dénomination sociale de l'imprimeur, ainsi que de toute autre indication à déterminer par le Ministre des Finances ou son délégué.
+
+§ 3. Les inscriptions sur les formules de note ou de reçu qui sont remises aux clients sont reproduites par décalque sur les formules servant de double, au moyen d'un papier carbone, d'un enduit couvrant le verso de l'original, ou par tout autre procédé.
+
+§ 4. La note ou le reçu est délivré au moment de l'achèvement du service.
+
+(§ 4bis. En ce qui concerne les opérations visées au par. 1er, 2° et 3°, sans préjudice des dispositions des par. 1er et 4 ci-avant, le client est tenu d'être en possession, au moment où il quitte l'établissement, de la note ou du reçu visé au § 1.) &lt;AR 1994-03-30/45, art. 1, C), 002; En vigueur : 01-04-1994&gt; &lt;NOTE : Par ses arrêts n° 57.133 et 57.134 du 20 décembre 1995 (M.B. 09.03.1996, p. 5253) le Conseil d'Etat a annulé l'AR 1994-03-30/45; Abrogé : 01-04-1994)
+
+§ 5. Les numéros de notes ou reçus utilisés pendant la journée sont annotés au jour le jour dans le journal des recettes prévu par l'article 14, par. 2, 3°.
+
+§ 6. Les doubles des notes ou reçus remis aux clients sont classés par ordre de dates.
+
+§ 7. L'assujetti (ou le membre de l'unité T.V.A. au sens de l'article 4, § 2, du Code,) doit, à toute réquisition des agents de l'administration [<sup>7</sup> ...]<sup>7</sup>, présenter les doubles des documents remis aux clients, ainsi que les documents qu'il a fait imprimer et qu'il n'a pas encore utilisés. Il doit également justifier la destination qu'il a donnée aux documents qui lui ont été fournis par l'imprimeur. &lt;AR 2007-05-17/35, art. 12, b), 025; En vigueur : 01-04-2007&gt;
+
+§ 8. Le Ministre des Finances ou son délégué déterminent la forme et la couleur du dessin de garantie à imprimer sur les formules de notes ou de reçus visés au par. 1er. Ils fixent également les obligations des imprimeurs agréés pour imprimer ces formules.
+
+§ 9. Le Ministre des Finances ou son délégué peuvent [<sup>3</sup> dans les cas visés au paragraphe 1er, 1° et 3°, et]<sup>3</sup>, sous les conditions qu'ils déterminent, autoriser le remplacement des notes ou reçus par des bons débités par des caisses enregistreuses ou par une procédure utilisant la technique de l'informatique.
+
+[<sup>5</sup> Le Ministre des Finances ou son délégué règle les modalités d'application du présent article .]<sup>5</sup>
+
+----------
+
+(1)&lt;AR 2009-12-09/10, art. 7, 027; En vigueur : 01-01-2010&gt;
+
+(2)&lt;AR 2009-12-18/01, art. 2, 028; En vigueur : 01-01-2010&gt;
+
+(3)&lt;AR 2009-12-18/01, art. 2, 028; En vigueur : 01-01-2013&gt;
+
+(5)&lt;AR 2012-12-19/03, art. 26, 033; En vigueur : 01-01-2013&gt;
+
+(6)&lt;AR 2013-12-15/07, art. 2, 036; En vigueur : 01-01-2014&gt;
+
+(7)&lt;AR 2015-01-24/03, art. 3, 039; En vigueur : 16-05-2014&gt;
+
+(8)&lt;AR 2016-06-16/06, art. 2, 043; En vigueur : 01-07-2016&gt;
+
+#### Art. 23
+
+(§ 1er.) Tout assujetti doit tenir un registre dans lequel il inscrit les biens qu'il a expediés ou transportés ou qui ont été expédiés ou transportés, pour son compte, pour les besoins de son entreprise, à destination d'un autre Etat membre de la Communauté, en vue de : &lt;AR 2007-05-17/35, art. 13, 025; En vigueur : 01-04-2007&gt;
+
+1° (...) &lt;AR 1996-02-25/35, art. 5, A), 007; En vigueur : 01-01-1996&gt;
+
+2° [<sup>1</sup> la prestation d'un service effectuée pour l'assujetti et ayant pour objet des expertises ou des travaux portant sur ces biens, qui sont matériellement exécutés dans l'Etat membre d'arrivée de l'expédition ou du transport des biens, pour autant que les biens, après expertises ou travaux, soient réexpédiés à destination de cet assujetti en Belgique d'où ils avaient été initialement expédiés ou transportés;]<sup>1</sup>
+
+3° l'utilisation temporaire de ces biens sur le territoire de l'Etat membre d'arrivée de l'expédition ou du transport de ces biens, pour les besoins d'une prestation de services effectuée par l'assujetti;
+
+4° l'utilisation temporaire de ces biens, pour une periode qui ne peut excéder 24 mois, sur le territoire d'un autre Etat membre à l'intérieur duquel l'importation des mêmes biens en provenance d'un pays tiers, en vue d'une utilisation temporaire, bénéficierait du régime de l'admission temporaire en exonération totale de droits à l'importation;
+
+(5° la vente éventuelle si l'assujetti est un assujetti-revendeur visé à l'article 58, § 4, du Code, qui soumet les biens au régime particulier d'imposition de la marge bénéficiaire.) &lt;AR 1994-12-23/33, art. 1, 005; En vigueur : 01-01-1995&gt;
+
+(§ 2. En ce qui concerne l'unité T.V.A. au sens de l'article 4, § 2, du Code, le registre visé au [<sup>1</sup> paragraphe 1er]<sup>1</sup>, doit être tenu par chaque membre, pour les opérations qui le concernent.) &lt;AR 2007-05-17/35, art. 13, 025; En vigueur : 01-04-2007&gt;
+
+----------
+
+(1)&lt;AR 2012-12-19/03, art. 27, 033; En vigueur : 01-01-2013&gt;
+
+#### Art. 24
+
+Dans le registre visé à l'article 23, l'assujetti inscrit,pour chaque opération :
+
+1° un numéro d'ordre;
+
+2° la date de l'opération;
+
+3° le nom et l'adresse du destinataire des biens concernés;
+
+4° le cas échéant, le numero d'identification à la T.V.A. de ce destinataire et le lieu de destination des biens concernés;
+
+5° la quantité des biens expédiés ou transportés et la dénomination usuelle de ces biens;
+
+6° leurs numéros ou marques d'identification lorsqu'ils en sont pourvus;
+
+7° la valeur des biens expédiés ou transportés déterminée conformément à l'article 33, 1°, du Code;
+
+8° la date de retour des biens;
+
+9° la quantité et la dénomination usuelle des biens retournés lorsque celles-ci sont différentes de celles des biens expédiés ou transportés;
+
+10° la quantité des biens qui ne sont pas retournés ainsi que le motif du non-retour;
+
+11° la date et le numéro d'inscription aux facturiers des factures ou documents en tenant lieu et des notes de crédit qu'il a reçues ou délivrées concernant ces opérations.
+
+#### Art. 24bis.
+
+[<sup>1</sup> § 1er. Conformément à l'article 54bis, § 1er, alinéa 3, du Code, tout assujetti tient un registre dans lequel il inscrit les biens qu'il a expédiés ou transportés de la Belgique à destination d'un autre Etat membre dans le cadre du régime de stocks sous contrat de dépôt visé à l'article 12ter du Code.
+
+Dans le registre visé à l'alinéa 1er, l'assujetti inscrit, pour chaque opération, les informations visées à l'article 54 bis, paragraphe 1, du règlement d'exécution (UE) n° 282/2011 du Conseil du 15 mars 2011 portant mesures d'exécution de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée.
+
+§ 2. Chaque membre d'une unité T.V.A. au sens de l'article 4, § 2, du Code, tient le registre visé au paragraphe 1er, pour les opérations qui le concernent.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2019-12-11/14, art. 2, 046; En vigueur : 01-01-2020&gt;
+
+#### Art. 24ter.
+
+[<sup>1</sup> § 1er. Conformément à l'article 54bis, § 1er, alinéa 4, du Code, tout assujetti destinataire en Belgique de biens dans le cadre du régime de stocks sous contrat de dépôt visé à l'article 17bis de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée, tient un registre dans lequel il inscrit les biens qui lui ont été livrés dans le cadre de ce régime.
+
+Dans le registre visé à l'alinéa 1er, l'assujetti inscrit, pour chaque opération, les informations visées à l'article 54bis, paragraphe 2, du règlement d'exécution (UE) n° 282/2011 du Conseil du 15 mars 2011 portant mesures d'exécution de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée.
+
+§ 2. Chaque membre d'une unité T.V.A. au sens de l'article 4, § 2, du Code, tient le registre visé au paragraphe 1er, pour les opérations qui le concernent.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2019-12-11/14, art. 3, 046; En vigueur : 01-01-2020&gt;
+
+#### Art. 25
+
+&lt;AR 1996-02-25/35, art. 6, 007; En vigueur : 01-01-1996&gt; § 1. Tout assujetti doit tenir un registre des biens qui lui sont confiés par un assujetti en vue de la délivrance à ce dernier d'un travail à façon au sens de [<sup>1</sup> l'article 1er, § 22]<sup>1</sup>, du Code.
+
+§ 2. Dans le registre visé au § 1er, l'assujetti inscrit également les biens qui lui ont été expédies à partir d'un autre Etat membre, par ou pour le compte d'un assujetti identifié à la taxe sur la valeur ajoutée dans cet autre Etat membre, et qui font l'objet d'une expertise ou d'un travail matériel autre qu'un travail à façon au sens de [<sup>1</sup> l'article 1er, § 22],-1 du Code.
+
+(§ 3. Les dispositions des §§ 1er et 2 s'appliquent à chaque membre de l'unité T.V.A. au sens de l'article 4, § 2, du Code, pour les opérations qui le concernent.) &lt;AR 2007-05-17/35, art. 14, a), 025; En vigueur : 01-04-2007&gt;
+
+((§ 4.) Les dispositions des (§§ 1er, 2 et 3) ne sont pas applicables pour les opérations qui doivent être inscrites dans le registre visé à l'article 28, § 1er.) &lt;AR 2002-02-06/31, art. 7, 017; En vigueur : 01-04-2002&gt; &lt;AR 2007-05-17/35, art. 14, a) et b), 025; En vigueur : 01-04-2007&gt;
+
+----------
+
+(1)&lt;AR 2022-10-26/04, art. 18, 049; En vigueur : 01-12-2022&gt;
+
+#### Art. 26
+
+Dans le registre visé à l'article 25, l'assujetti inscrit :
+
+1° un numéro d'ordre;
+
+2° la date de réception des (biens); &lt;AR 1996-02-25/35, art. 7, A), 007; En vigueur : 01-01-1996&gt;
+
+3° le nom et l'adresse du donneur d'ordre;
+
+4° le numéro d'identification à la T.V.A. du donneur d'ordre;
+
+5° la quantité des (biens) qui lui ont été confiés; AR 1996-02-25/35, art. 7, A), 007; En vigueur : 01-01-1996&gt;
+
+6° la dénomination usuelle de ces (biens) et leurs numéros ou marques d'identification lorsqu'ils en sont pourvus; AR 1996-02-25/35, art. 7, A), 007; En vigueur : 01-01-1996&gt;
+
+7° (dès l'achèvement de l'expertise ou du travail, la date de l'expedition ou du transport des biens ayant fait l'objet de la prestation de services;) &lt;AR 1996-02-25/35, art. 7, B), 007; En vigueur : 01-01-1996&gt;
+
+8° par envoi, la quantité de biens envoyés ainsi que leur dénomination usuelle;
+
+9° la quantité et la dénomination usuelle des biens qui lui ont été confiés et qui ne sont pas retournés au donneur d'ordre;
+
+10° la date et le numéro d'inscription au facturier de sortie des factures et notes de crédit qu'il a délivrées concernant (la prestation de services effectuée). &lt;AR 1996-02-25/35, art. 7, C), 007; En vigueur : 01-01-1996&gt;
+
+#### Art. 26bis
+
+[<sup>1</sup> § 1er. Les assujettis visés aux articles 58ter et 58quater du Code, à l'exclusion des assujettis visés à l'article 54ter du Code, tiennent une comptabilité sous la forme de registres des opérations relevant de ces régimes particuliers conformément au paragraphe 7 de ces dispositions.
+
+Dans les registres visés à l'alinéa 1er, l'assujetti inscrit, pour chaque opération, les informations visées à l'article 63 quater, paragraphe 1, du règlement d'exécution (UE) n° 282/2011 du Conseil du 15 mars 2011 portant mesures d'exécution de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée.
+
+§ 2. Les assujettis visés à l'article 58quinquies du Code, à l'exclusion des assujettis visés à l'article 54ter du Code, tiennent une comptabilité sous la forme d'un registre des opérations relevant de ce régime particulier conformément au paragraphe 7 de cette disposition.
+
+Dans le registre visé à l'alinéa 1er, l'assujetti inscrit, pour chaque opération, les informations visées à l'article 63 quater, paragraphe 2, du règlement d'exécution (UE) n° 282/2011 du Conseil du 15 mars 2011 portant mesures d'exécution de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée.
+
+Lorsqu'un intermédiaire visé à l'article 58quinquies, § 1er, alinéa 2, 2°, du Code intervient au nom et pour le compte d'un ou plusieurs assujettis, il tient un tel registre pour chacun des assujettis qu'il représente.
+
+§ 3. Les personnes visées à l'article 58sexies du Code tiennent une comptabilité sous la forme d'un registre des opérations relevant de ce régime particulier conformément au paragraphe 4 de cette disposition.
+
+Dans le registre visé à l'alinéa 1er, la personne qui présente les biens auprès de l'Administration générale des douanes et accises pour le compte de la personne destinataire des biens reprend, pour chaque opération :
+
+1° un numéro d'ordre;
+
+2° la date de l'importation ou la période au cours de laquelle l'importation a eu lieu;
+
+3° le nom et l'adresse du destinataire des biens importés visé à l'article 6 de l'arrêté royal n° 7, du 29 décembre 1992, relatif aux importations de biens pour l'application de la taxe sur la valeur ajoutée;
+
+4° la description des biens importés;
+
+5° l'indication du taux applicable, de la base d'imposition et du montant de la taxe due pour chaque bien contenu dans l'envoi;
+
+6° le cas échéant, l'indication de la disposition applicable de la directive ou de la disposition nationale correspondante, ou toute autre mention indiquant que la livraison de biens ou la prestation de services est exonérée;
+
+7° la valeur intrinsèque de l'envoi dans lequel les biens importés sont contenus;
+
+8° le cas échéant, la date à laquelle la déclaration en douane a été annulée et la destination des biens faisant l'objet de cette déclaration annulée.
+
+Le registre visé à l'alinéa 1er est communiqué, sur demande, à l'administration en charge de la taxe sur la valeur ajoutée à l'adresse électronique indiquée par le ministre des Finances ou son délégué.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2021-06-29/01, art. 4, 048; En vigueur : 01-07-2021&gt;
+
+#### Art. 26ter.
+
+[<sup>1</sup> § 1er. L'assujetti visé à l'article 54ter du Code reprend dans les registres visés à cet article, pour toute livraison pour laquelle il agit conformément aux conditions de l'article 13bis du Code et pour tout service fourni par voie électronique pour lequel il agit conformément à l'article 9 bis du règlement d'exécution (UE) n° 282/2011 du Conseil du 15 mars 2011 portant mesures d'exécution de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée, les données visées l'article 63 quater, paragraphe 1 ou 2, du règlement d'exécution (UE) n° 282/2011 précité, s'il a choisi d'appliquer l'un des régimes particuliers visés aux articles 58ter, 58quater et 58quinquies du Code.
+
+§ 2. L'assujetti visé à l'article 54ter du Code reprend dans les registres visés à cet article, pour toute livraison pour laquelle il agit conformément aux conditions de l'article 13bis du Code et pour tout service fourni par voie électronique pour lequel il agit conformément à l'article 9 bis du règlement d'exécution (UE) n° 282/2011 du Conseil du 15 mars 2011 portant mesures d'exécution de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée, les données suivantes, s'il n'a pas choisi d'appliquer l'un des régimes particuliers visés aux articles 58ter, 58quater et 58quinquies du Code :
+
+1° l'Etat membre de consommation dans lequel les livraisons de biens sont effectuées ou les prestations de services sont fournies;
+
+2° le type de services prestés ou la description et la quantité des biens livrés;
+
+3° la date de la livraison des biens ou de la prestation des services;
+
+4° la base d'imposition, avec indication de la devise utilisée;
+
+5° toute augmentation ou réduction ultérieure de la base d'imposition;
+
+6° le taux de T.V.A. appliqué;
+
+7° le montant de T.V.A. dû, avec indication de la devise utilisée;
+
+8° la date et le montant des paiements reçus;
+
+9° tout acompte reçu avant la livraison des biens ou la prestation des services;
+
+10° lorsqu'une facture est émise, les informations figurant sur la facture;
+
+11° en ce qui concerne les services, les informations utilisées pour déterminer le lieu où le preneur est établi ou à son domicile ou sa résidence habituelle et, en ce qui concerne les biens, les informations utilisées pour déterminer le lieu de départ et le lieu d'arrivée de l'expédition ou du transport des biens à destination de l'acquéreur;
+
+12° tout élément de preuve concernant un retour possible des biens, y compris la base d'imposition et le taux de T.V.A. appliqué;
+
+13° le numéro de commande ou le numéro unique de la livraison de biens;
+
+14° le numéro unique de l'envoi lorsque cet assujetti intervient directement à la livraison.
+
+§ 3. L'assujetti visé à l'article 54ter du Code reprend, pour toute autre opération que celles visées aux paragraphes 1er et 2, les données visées à l'article 54 quater, paragraphe 2, du règlement d'exécution (UE) n° 282/2011 du Conseil du 15 mars 2011 portant mesures d'exécution de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée.
+
+§ 4. Chaque membre d'une unité T.V.A. au sens de l'article 4, § 2, du Code, tient les registres visés aux paragraphes 1er à 3, pour les opérations qui le concernent.
+
+§ 5. Les registres visés aux paragraphe 1er à 3 sont communiqués par voie électronique, sur demande, à l'administration fiscale des Etats membres où les opérations ont lieu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2021-06-29/01, art. 5, 048; En vigueur : 01-07-2021&gt;
+
+#### Art. 26quater.
+
+[<sup>1</sup> Les registres visés à l'article 93duodecies/1, § 4, 2°, du Code, sont mis à disposition de l'administration belge en charge de la taxe sur la valeur ajoutée au plus tard à la fin du mois suivant le trimestre civil auquel se rapportent les informations.
+
+Cette mise à disposition se fait par voie électronique, au moyen d'un formulaire électronique type.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2023-12-17/15, art. 6, 051; En vigueur : 01-01-2024&gt;
+
+#### Art. 27
+
+[<sup>1</sup> Les assujettis reprennent dans leur comptabilité les mentions prescrites aux articles 24 et 26. La reprise de ces mentions tient lieu de tenue des registres visés aux articles 23 et 25.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2025-12-17/06, art. 3, 055; En vigueur : 10-01-2026&gt;
+
+#### Art. 28
+
+&lt;AR 2002-02-06/31, art. 8, 017; En vigueur : 01-04-2002&gt; § 1er. Par siege d'exploitation, un registre des véhicules à moteur [<sup>2</sup> , à l'exception des cyclomoteurs de classe A, des cyclomoteurs de classe B et des Speed Pedelecs,]<sup>2</sup> présents dans ses installations doit être tenu par tout assujetti qui, dans le cadre de son activité économique, effectue régulièrement une ou plusieurs des opérations suivantes :
+
+1° toute livraison et/ou toute prestation de services relative à un véhicule à moteur, à l'exception du lavage de biens vises à l'article 22, § 1er, 3°;
+
+2° toute livraison de véhicules d'occasion à moteur;
+
+3° toute intervention en tant qu'intermédiaire dans la livraison de vehicules d'occasion à moteur.
+
+Toutefois, la disposition visée à l'alinéa 1 ne s'applique pas aux assujettis qui effectuent exclusivement des opérations de montage, d'assemblage ou de construction de véhicules à moteur.
+
+§ 2. Le registre visé au § 1er doit être complété par l'assujetti concerné qui y inscrit :
+
+1° dès qu'un véhicule entre dans ses installations en vue d'y faire l'objet d'une opération visée au § 1er , un numéro d'ordre, la date d'entrée du véhicule dans ses installations, le numéro de plaque ou, à défaut, le numéro de châssis du véhicule, le cas échéant, le numéro d'identification du donneur d'ordre attribué par un autre Etat membre et le code à déterminer par le Ministre des Finances ou son délégué identifiant la nature de l'opération;
+
+2° lors de la sortie du véhicule de ses installations, la date de sortie du véhicule;
+
+3° au plus tard à la fin du mois qui suit celui au cours duquel le véhicule est sorti de ses installations, une référence à la facture ou à défaut à une autre pièce justificative visée à l'article 15, § 2 ou la raison pour laquelle aucun document n'a été établi.
+
+§ 3. Pour l'application du présent article, il faut entendre :
+
+1° par véhicules à moteur, les véhicules terrestres munis d'un moteur soumis à la réglementation sur l'immatriculation;
+
+2° par véhicules d'occasion à moteur, les véhicules visés ci-avant en ce compris les véhicules visés à l'article 8bis, § 2, alinéa 1er, 2° du Code qui sont susceptibles de remploi en l'état ou après réparation.
+
+(§ 4. En ce qui concerne l'unité T.V.A. au sens de l'article 4, § 2, du Code, le registre visé au § 1er, doit être tenu par chaque membre, pour les opérations qui le concernent.) &lt;AR 2007-05-17/35, art. 15, 025; En vigueur : 01-04-2007&gt;
+
+(§ 5). Les registres tenus pour l'application du présent article, autres que ceux qui ont été clôturés depuis plus de trois mois, doivent se trouver au siège d'exploitation. &lt;AR 2007-05-17/35, art. 15, 025; En vigueur : 01-04-2007&gt;
+
+Sur demande expresse des agents[<sup>1</sup> de l'administration en charge de la taxe sur la valeur ajoutée, de l'administration en charge de l'établissement des impôts sur les revenus et de l'Administration générale des douanes et accises]<sup>1</sup>, l'assujetti doit communiquer au siège d'exploitation les registres visés à l'alinéa précédent.
+
+----------
+
+(1)&lt;AR 2015-01-24/03, art. 4, 039; En vigueur : 16-05-2014&gt;
+
+(2)&lt;AR 2025-12-17/06, art. 4, 055; En vigueur : 10-01-2026&gt;
+
+#### Art. 29
+
+Les inscriptions dans les registres visés aux articles 23, 25 et 28 sont faites sans blanc ni lacune; en cas de rectification, l'écriture primitive doit rester lisible. Les registres doivent avant tout usage être cotés et être soumis ensuite, pour être visés et paraphés, à l'office de contrôle de la T.V.A. dont relève l'assujetti.
+
+(Les registres visés aux articles 23, [<sup>1</sup> 24bis, 24ter,]<sup>1</sup> 25 et 28 peuvent être tenus de façon informatisée, selon les modalités déterminées par le Ministre des Finances ou son délégué.) &lt;AR 2007-05-17/35, art. 16, 025; En vigueur : 01-04-2007&gt;
+
+----------
+
+(1)&lt;AR 2019-12-11/14, art. 4, 046; En vigueur : 01-01-2020&gt;
+
+#### Art. 30
+
+[<sup>1</sup> Dans la mesure où le numéro d'identification à la T.V.A. doit être communiqué en vertu de l'article 53quater du Code, ce numéro doit être mentionné sur tous les contrats, factures, bons de commande, notes d'envoi et autres documents relatifs à l'activité économique de la personne concernée.
+
+Les membres d'une unité T.V.A. au sens de l'article 4, § 2, du Code, ne peuvent mentionner sur les documents visés à l'alinéa 1er qu'ils délivrent que le sous-numéro d'identification à la T.V.A. qui leur a été attribué en vertu de l'article 50, §§ 1er, alinéa 1er, 6° ou 2, alinéa 2, du Code.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2009-12-09/10, art. 8, 027; En vigueur : 01-01-2010&gt;
+
+## CHAPITRE V. [<sup>1</sup> - Disposition temporaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2012-12-19/03, art. 28, 033; En vigueur : 01-01-2013&gt;
+
+#### Art. 30bis
+
+[<sup>1</sup> Par dérogation à l'article 21bis, § 1er, alinéa 1er, lorsque l'exploitant d'un établissement où sont consommés régulièrement des repas ou le traiteur qui effectue régulièrement des prestations de restauration utilise une caisse enregistreuse autre que le système de caisse enregistreuse visé à l'arrêté royal du 30 décembre 2009, il est tenu, pour la période du 1er janvier 2013 au [<sup>2</sup> 31 décembre 2015]<sup>2</sup>, de continuer à délivrer des tickets de caisse au moyen de cette caisse enregistreuse.
+
+A défaut de disposer d'une caisse enregistreuse durant la période précitée, l'assujetti susvisé doit délivrer la note ou le reçu visés à l'article 22, § 1er, alinéa 1er, 2°.
+
+Dès que cet assujetti met en service le système de caisse enregistreuse visé à l'arrêté royal du 30 décembre 2009 durant cette même période, il doit délivrer un ticket de caisse conforme à l'article 2, point 4 de cet arrêté.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-15/07, art. 3, 036; En vigueur : 01-01-2014&gt;
+
+(2)&lt;AR 2015-02-22/11, art. 1, 040; En vigueur : 01-01-2015&gt;
+
+#### Art. 31
+
+Le présent arrêté remplace l'arrêté royal n° 1 du 23 juillet 1969 relatif aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée et abroge l'arrêté royal n° 12 du 3 juin 1970 relatif à la tenu d'un registre des travaux à façon pour l'application de la taxe sur la valeur ajoutée et l'arrêté royal n° 32 du 14 novembre 1972 relatif au paiement de la taxe sur la valeur ajoutée pour les opérations effectuées pendant la derniere période de déclaration de l'année civile.
+
+#### Art. 32
+
+Le présent arrêté entre en vigueur le 1er janvier 1993.
+
+#### Art. 33
+
+Notre Ministre des Finances est chargé de l'exécution du présent arrêté.
+
+## ANNEXES.
+
+#### Art. N1
+
+[<sup>1</sup> Annexe I]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 31-03-2021, p. 30570)
+
+----------
+
+(1)&lt;AR 2021-03-29/01, art. 2, 047; En vigueur : 10-04-2021&gt;
+
+#### Art. N2
+
+[<sup>1</sup> Annexe II]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 31-03-2021, p. 30572)
+
+----------
+
+(1)&lt;AR 2021-03-29/01, art. 3, 047; En vigueur : 10-04-2021&gt;
+
+#### Art. N3
+
+Annexe B. (Numérotée aussi comme annexe III depuis AR 2001-12-19/33.) - Déclaration spéciale à la T.V.A..
+
+(Annexe non reprise pour des raisons techniques. Voir M.B. 31-12-1992, p. 28026 - 28033).
+
+Modifié par :
+
+&lt;AR 1998-11-26/42, art. 3; En vigueur : 01-01-1999&gt;
+
+&lt;AR 2001-12-19/33, art. 1, En vigueur : 01-01-2002; M.B. 29-12-2001, p. 45519-45520&gt;
+
+&lt;AR 2013-03-04/03, art. 1, 034; En vigueur : 01-04-2013, M.B. 08-03-2013, p. 14047&gt;
+
+#### Art. N4
+
+&lt;Abrogé par AR 2015-07-05/04, art. 4, 041; En vigueur : 01-01-2015&gt;
+
+---
+
+Donné à Motril, le 29 décembre 1992.
+
+BAUDOUIN
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+Ph. MAYSTADT
