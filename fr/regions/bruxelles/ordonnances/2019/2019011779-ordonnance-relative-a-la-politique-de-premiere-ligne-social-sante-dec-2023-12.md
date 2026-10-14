@@ -1,0 +1,435 @@
+---
+title: "Ordonnance relative à la politique de [ première ligne social santé ] <DEC 2023-12-22/34 , art. 30, 002; En vigueur : 25-01-2024> <DEC 2024-01-25/07 , art. 30, 003; En vigueur : 15-02-2024>"
+identifier: "2019011779"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/04/04/2019011779/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2019-04-04
+published: 2019-04-15
+entry_into_force: 2019-04-25
+last_amended: 2024-02-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/04/04/2019011779/justel"
+department: "Commission communautaire commune"
+justel_note: "Consultation des versions antérieures à partir du 15-04-2019 et mise à jour au 15-02-2024"
+retrieved: 2026-10-12
+---
+
+# 4 AVRIL 2019. - Ordonnance relative à la politique de [ première ligne social santé ] &lt;DEC 2023-12-22/34 , art. 30, 002; En vigueur : 25-01-2024&gt; &lt;DEC 2024-01-25/07 , art. 30, 003; En vigueur : 15-02-2024&gt;
+
+L'Assemblée réunie a adopté et Nous, Collège réuni, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales
+
+#### Art. 1er
+
+La présente ordonnance règle une matière visée à l'article 135 de la Constitution.
+
+#### Art. 2
+
+[<sup>1</sup> Les définitions visées dans le décret et ordonnance conjoints de la Commission communautaire française et de la Commission communautaire commune des du 22 decembre 2023 relatifs à l'organisation de l'ambulatoire et de la première ligne social santé dans la région bilingue de Bruxelles-Capitale sont applicables à la présente ordonnance ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DEC 2023-12-22/34, art. 31, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 31, 003; En vigueur : 15-02-2024&gt;
+
+## CHAPITRE II. - Missions
+
+#### Art. 3
+
+[<sup>1</sup> Les missions de la première ligne social santé sont les missions visées au chapitre 2 du décret et ordonnance conjoints de la Commission communautaire française et de la Commission communautaire commune relatifs à l'organisation de l'ambulatoire et de la première ligne social santé dans la région bilingue de Bruxelles-Capitale]<sup>1</sup>.
+
+----------
+
+(1)&lt;DEC 2023-12-22/34, art. 32, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 32, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 4
+
+&lt;Abrogé par DEC 2023-12-22/34, art. 33, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 33, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 5
+
+&lt;Abrogé par DEC 2023-12-22/34, art. 33, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 33, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 6
+
+&lt;Abrogé par DEC 2023-12-22/34, art. 33, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 33, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 7
+
+&lt;Abrogé par DEC 2023-12-22/34, art. 33, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 33, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 8
+
+Afin d'assurer la réalisation des missions visées au présent chapitre, le Collège réuni peut agréer, conclure un contrat de gestion et/ou subsidier les acteurs de la [<sup>1</sup> première ligne social santé ]<sup>1</sup>, [<sup>1</sup> ...]<sup>1</sup>.
+
+Il s'agit notamment :
+
+1° des acteurs individuels de la première ligne de soins [<sup>1</sup> ...]<sup>1</sup> ;
+
+2° des associations de patients, d'aidants, de quartier qui se fixent pour objectif l'amélioration du bien-être et de la santé ;
+
+3° des structures dont la mission est l'appui, la coordination et l'organisation des différents acteurs de la première ligne de soins, quel que soit leur niveau d'intervention, et qui favorisent, selon les cas, la promotion des matières suivantes : la médecine générale, l'informatisation des acteurs de la première ligne, l'utilisation des outils électroniques, les soins intégrés entre les hôpitaux et la [<sup>1</sup> première ligne social santé ]<sup>1</sup>, ainsi que les formations en vue d'une meilleure prise en compte des personnes en situation complexe et de leur entourage ;
+
+4° des réseaux regroupant les acteurs de la première ligne de soins actifs dans un quartier ;
+
+5° des acteurs ou structures locales de la [<sup>1</sup> première ligne social santé ]<sup>1</sup> organisés ou non dans un même lieu, qui visent à offrir des soins intégrés, accessibles et centrés sur les personnes, tels les coordinateurs de soins, les case manager et les centres sociaux de santé globale ;
+
+6° des acteurs de la [<sup>1</sup> fonction inclusive]<sup>1</sup> ;
+
+7° de tout acteur de la première ligne de soins qui a pour objectif de soutenir et renforcer l'exécution des missions visées au présent chapitre.
+
+----------
+
+(1)&lt;DEC 2023-12-22/34, art. 34, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 34, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 9
+
+Le Collège réuni arrête les missions spécifiques des acteurs de la [<sup>1</sup> première ligne social santé]<sup>1</sup> qu'il agrée et/ou subsidie.
+
+----------
+
+(1)&lt;DEC 2023-12-22/34, art. 30, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 30, 003; En vigueur : 15-02-2024&gt;
+
+## CHAPITRE II/1. [<sup>1</sup> Centre social santé intégré ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 35, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 35, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 9/1
+
+[<sup>1</sup> Le centre social santé intégré est un acteur de la première ligne de l'aide et des soins qui offre aux usagers une prise en charge généraliste intégrée de santé somatique et mentale, et d'action sociale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 36, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 36, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 9/2
+
+[<sup>1</sup>Le centre social santé intégré exerce les missions suivantes:
+
+1° aider la personne dans sa globalité et dans toutes ses possibilités d'intégration en offrant un premier accueil aux usagers, analyser leur situation et le cas échéant, orienter leur demande vers le service compétent au sein du centre ou vers un autre service spécialisé;
+
+2° développer le lien social et un meilleur accès des personnes aux équipements collectifs et à leurs droits fondamentaux. Agir sur l'ensemble des facteurs de précarisation sociale;
+
+3° solliciter la participation active des personnes aidées, les intégrer, elles et leur famille, dans la vie citoyenne;
+
+4° dispenser des soins de santé primaire;
+
+5° assurer un accompagnement et un suivi de l'usager dans la durée;
+
+6° assurer un accompagnement psychologique généraliste;
+
+7° recueillir des données permettant une description épidémiologique de la population desservie, l'évaluation des objectifs et l'auto-évaluation des activités du centre en vue d'une amélioration de la qualité des soins;
+
+8° assurer des fonctions d'action communautaire;
+
+9° renforcer les liens avec les services spécialisés, notamment en mettant en place des collaborations relatives à une ou plusieurs mission(s) spécialisée(s) agréée(s);
+
+10° oeuvrer à garantir la prise en charge de tous les usagers et ce indépendamment de leur statut administratif et de leur assurabilité financière;
+
+11° mettre en place des dispositifs de liaison interprofessionnelle;
+
+12° mettre en place des pratiques permettant la continuité dans la démarche de l'aide et des soins, y compris lorsque l'usager choisit de changer de service ambulatoire, ce qu'il peut faire librement, afin de le maintenir dans le système soignant. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 37, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 37, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 9/3
+
+[<sup>1</sup> Le centre social santé intégré peut en outre exercer une fonction inclusive spécifique, consistant à:
+
+1° mettre en place un service d'outreaching en vue d'aller à la rencontre des populations se trouvant sur le territoire de leur activité qui ont un accès plus difficile aux soins ou aux services;
+
+2° assurer l'accueil et la prise en charge d'un pourcentage minimum de patients bénéficiaires de l'intervention majorée et de l'aide médicale urgente, tel que fixé par le Collège réuni;
+
+3° prévoir une réactivité aux situations d'urgence afin d'accueillir des dispositifs externes d'accès aux droits et aux services nécessaires à la gestion de la situation d'urgence. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 38, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 38, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 9/4
+
+[<sup>1</sup> . Le centre social santé intégré peut mettre en place des collaborations avec:
+
+1° un service de médiation de dettes;
+
+2° un centre de planning familial;
+
+3° un service de coordination de soins et de services à domicile;
+
+4° un service actif en matière de drogue et d'addiction;
+
+5° un service de santé mentale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 39, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 39, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 9/5
+
+[<sup>1</sup> Afin d'assurer l'exercice de ses missions, le centre social santé intégré peut bénéficier d'un accompagnement.
+
+Les modalités de cet accompagnement sont fixées par le Collège réuni. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 40, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 40, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 9/6
+
+[<sup>1</sup> Le centre social santé intégré est constitué sous la forme d'une association sans but lucratif qui répond à l'une des caractéristiques suivantes:
+
+1° avoir pour objet de remplir les missions d'un centre social santé intégré;
+
+2° avoir pour objet de mettre en place une collaboration entre plusieurs structures distinctes exploitant des services agréés distincts afin d'offrir un service correspondant aux normes d'agrément d'un centre social santé intégré;
+
+3° disposer de plusieurs agréments qui ensemble répondent aux normes d'agrément d'un centre social santé intégré. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 41, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 41, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 9/7
+
+[<sup>1</sup> Le centre social santé intégré dispose d'une équipe pluridisciplinaire dont le cadre minimum du personnel est fixé par le Collège réuni. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 42, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 42, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 9/8
+
+[<sup>1</sup> Le Collège réuni fixe les conditions d'agrément, la durée de l'agrément, les règles pour accorder l'agrément et pour suspendre ou retirer l'agrément en cas de non-respect des conditions d'agrément ainsi que la subvention, ses modalités de contrôle et les modalités de constitution d'une réserve. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 43, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 43, 003; En vigueur : 15-02-2024&gt;
+
+## CHAPITRE III. - Agrément et contrat de gestion
+
+### Section 1re. - L'agrément
+
+#### Art. 10
+
+Le Collège réuni peut fixer des normes d'agrément, en fonction des spécificités des acteurs de la [<sup>1</sup> première ligne social santé ]<sup>1</sup> subsidiés.
+
+Ces normes peuvent entre autres être relatives :
+
+1° aux obligations relatives aux caractéristiques et aux normes de qualité auxquelles les services et les acteurs de la première ligne de soins doivent répondre ;
+
+2° au nombre, à la composition du personnel et des prestataires ainsi que leurs qualifications ;
+
+3° à la coopération, la participation et l'échange d'informations ;
+
+4° à la délimitation territoriale de l'action des acteurs de la première ligne de soins ;
+
+5° aux dispositions relatives à la fixation du prix facturé aux usagers ou bénéficiaires des acteurs de la première ligne de soins ;
+
+6° aux caractéristiques techniques des bâtiments ou équipements, ainsi qu'aux normes de sécurité spécifiques ;
+
+7° à l'obligation de mettre à disposition du Collège réuni des rapports, statistiques ou documents spécifiques ou de rédiger à intervalles réguliers ou sur demande de tels rapports ou documents.
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 30, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 30, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 11
+
+Le Collège réuni fixe la procédure relative à la demande et à la délivrance de l'agrément, en prévoyant, au moins, les modalités et étapes suivantes :
+
+1° l'accusé de réception de la demande dans un délai qu'il fixe ;
+
+2° l'octroi d'un agrément provisoire lorsque le dossier de demande est déclaré complet ;
+
+3° le cas échéant, la rédaction par l'administration d'un rapport sur la demande ;
+
+4° les modalités de contrôle du respect des conditions d'agrément ;
+
+5° la forme et le contenu des décisions d'octroi et de refus ;
+
+6° les modalités de suspension ou de retrait de l'agrément provisoire ou de l'agrément, en cas de non-respect des conditions ;
+
+7° la possibilité pour les acteurs de la [<sup>1</sup> première ligne social santé ]<sup>1</sup> de faire valoir leur position lorsque la suspension ou le retrait de l'agrément sont envisagés.
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 30, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 30, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 12
+
+Le Collège réuni peut fixer des normes d'agrément, en fonction des spécificités des acteurs de la [<sup>1</sup> &lt;DEC 2024-01-25/07, art. 30, 003; En vigueur : 15-02-2024&gt; ]<sup>1</sup> subsidiés.
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 30, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 30, 003; En vigueur : 15-02-2024&gt;
+
+### Section 2. - Le contrat de gestion
+
+#### Art. 13
+
+§ 1er. Le Collège réuni peut conclure un contrat de gestion avec les acteurs de la [<sup>1</sup> première ligne social santé ]<sup>1</sup> non agréés sur la base de la présente ordonnance.
+
+§ 2. Le Collège réuni arrête au moins les modalités suivantes :
+
+1° les missions confiées à ces acteurs ;
+
+2° la durée du contrat de gestion ;
+
+3° le mécanisme de contrôle de l'exécution des missions ;
+
+4° les sanctions en cas de non-respect par une partie de ses engagements et de décisions contraires au contrat de gestion et à la légalité.
+
+§ 3. Le contrat de gestion fixe au moins les matières suivantes :
+
+1° l'opérationnalisation des missions ;
+
+2° les objectifs à atteindre ;
+
+3° les méthodes de mesure permettant de suivre le degré de réalisation des objectifs à atteindre ;
+
+4° les modalités de suspension ou de résiliation du contrat de gestion en cas de non-respect des conditions ;
+
+5° la possibilité pour le service ou l'institution de santé de faire valoir sa position lorsque la suspension ou la résiliation du contrat de gestion sont envisagés.
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 30, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 30, 003; En vigueur : 15-02-2024&gt;
+
+## CHAPITRE IV. - Subventions
+
+#### Art. 14
+
+Le Collège réuni arrête les règles relatives au subventionnement, aux conditions de subventionnement et à la procédure de demande et d'attribution du subside pour :
+
+1° les acteurs individuels de la première ligne social santé [<sup>1</sup> première ligne social santé ]<sup>1</sup> visés à l'article 8, 1° ;
+
+2° les acteurs de la première ligne qui sont agréés ;
+
+3° les acteurs de la première ligne avec qui un contrat de gestion est conclu ;
+
+4° les acteurs de la première ligne qui sont subsidiés dans le cadre d'un projet spécifique.
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 30, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 30, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 15
+
+§ 1er. Le mécanisme de subventionnement peut être constitué :
+
+1° d'enveloppes prévisionnelles calculées forfaitairement pour les frais généraux et les frais de personnel ;
+
+2° d'un subventionnement basé sur une population de référence et/ou un nombre de prestations ;
+
+3° d'un mécanisme d'indexation ayant trait au subside visé aux 1° et 2°.
+
+§ 2. Une fois les frais justifiés, les enveloppes prévisionnelles visées au paragraphe 1er, 1°, deviennent définitives.
+
+#### Art. 16
+
+Le Collège réuni arrête les cas dans lesquels une réserve peut être constituée.
+
+La réserve est calculée en soustrayant les dépenses acceptées au montant total du subside alloué pour l'année à laquelle les dépenses acceptées se rapportent.
+
+Le Collège réuni fixe un plafond maximal à cette réserve.
+
+La réserve peut uniquement être affectée au même objectif ou à un objectif apparenté au sein de l'activité subventionnée pour laquelle la subvention initiale a été octroyée. L'affectation de ces réserves se fait selon les modalités fixées par le Collège réuni, à moins que les réserves soient affectées à l'apurement du déficit de la période de fonctionnement.
+
+Si l'activité pour laquelle des réserves ont été constituées cesse d'être subventionnée, l'ensemble des montants cumulés des réserves doit être remboursé.
+
+## CHAPITRE V. - Du contrôle
+
+#### Art. 17
+
+Tous les acteurs de la [<sup>1</sup> première ligne social santé ]<sup>1</sup> subsidiés ou agréés par la Commission communautaire commune sur la base de la présente ordonnance sont soumis à un contrôle.
+
+Par le seul fait de l'acceptation de la subvention, le bénéficiaire reconnaît au Collège réuni le droit de faire procéder sur place au contrôle de l'emploi des fonds attribués.
+
+Le cas échéant, le contrôle visé au présent article peut être exercé par un commissaire du gouvernement.
+
+Le Collège réuni arrête les règles relatives au contrôle.
+
+----------
+
+(1)&lt;Inséré par DEC 2023-12-22/34, art. 30, 002; En vigueur : 25-01-2024&gt;
+
+&lt;DEC 2024-01-25/07, art. 30, 003; En vigueur : 15-02-2024&gt;
+
+#### Art. 18
+
+Afin d'éviter un double financement d'une même activité, et sous réserve de l'application de l'article 17, tous les acteurs de la première ligne de soins visés à l'article 17 sont tenus, sur simple demande, de faire connaître tous les moyens financiers autres que ceux obtenus dans le cadre de la présente ordonnance. Toutes les pièces justificatives sont consultables sur simple demande.
+
+Sauf si un double financement d'une même activité est démontré, les moyens financiers acquis en dehors du cadre de la présente ordonnance ne sont pas déduits des subventions obtenues en vertu de la présente ordonnance.
+
+---
+
+Promulguons la présente ordonnance, ordonnons qu'elle soit publiée au Moniteur belge.
+
+Bruxelles, le 4 avril 2019.
+
+Le Membre du Collège réuni compétent pour la Politique de la Santé, la Fonction publique, les Finances, le Budget et les Relations extérieures,
+
+G. VANHENGEL
+
+Le Membre du Collège réuni compétent pour la Politique de la Santé, la Fonction publique, les Finances, le Budget et les Relations extérieures,
+
+D. GOSUIN
+
+Le Membre du Collège réuni compétent pour la Politique d'Aide aux Personnes, les Prestations familiales et le Contrôle des Films,
+
+P. SMET
+
+La Membre du Collège réuni compétente pour la Politique d'Aide aux Personnes, les Prestations familiales et le Contrôle des Films,
+
+C. FREMAULT

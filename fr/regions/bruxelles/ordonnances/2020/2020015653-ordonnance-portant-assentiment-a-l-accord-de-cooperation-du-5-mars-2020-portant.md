@@ -1,0 +1,23 @@
+---
+title: "Ordonnance portant assentiment à l'accord de coopération du 5 mars 2020 portant modification de l'accord de coopération du 4 novembre 2008 concernant la prévention et la gestion des déchets d'emballages"
+identifier: "2020015653"
+eli: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/07/17/2020015653/justel"
+type: ordinance
+justel_type: "ORDONNANCE (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2020-07-17
+published: 2020-10-02
+entry_into_force: 2020-10-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/07/17/2020015653/justel"
+department: "Région de Bruxelles-Capitale"
+retrieved: 2026-10-12
+---
+
+# 17 JUILLET 2020. - Ordonnance portant assentiment à l'accord de coopération du 5 mars 2020 portant modification de l'accord de coopération du 4 novembre 2008 concernant la prévention et la gestion des déchets d'emballages
+
+## Art. M
+
+La publication n° 2020031296 publiée dans le Moniteur belge du 16 septembre 2020, p. 66766 annule et remplace la publication n° 2020031195, publiée dans le Moniteur belge le 24 août 2020, p. 63769.
