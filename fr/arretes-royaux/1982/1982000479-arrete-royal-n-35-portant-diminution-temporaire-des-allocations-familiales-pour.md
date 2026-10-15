@@ -1,0 +1,82 @@
+---
+title: "Arrêté royal n° 35 portant diminution temporaire des allocations familiales pour travailleurs salariés et pour les membres du personnel du secteur public d'un montant mensuel forfaitaire."
+identifier: "1982000479"
+eli: "https://www.ejustice.just.fgov.be/eli/arrete/1982/03/30/1982000479/justel"
+type: royal-decree
+justel_type: "ARRETE ROYAL"
+jurisdiction: be
+language: fr
+date: 1982-03-30
+published: 1982-04-01
+entry_into_force: 1982-04-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/arrete/1982/03/30/1982000479/justel"
+department: "Prévoyance Sociale"
+retrieved: 2026-10-15
+---
+
+# 30 MARS 1982. - Arrêté royal n° 35 portant diminution temporaire des allocations familiales pour travailleurs salariés et pour les membres du personnel du secteur public d'un montant mensuel forfaitaire.
+
+Vu la loi du 2 février 1982 accordant certains pouvoirs spéciaux au Roi, notamment les articles 1er, 5° et 9° et 3, §§ 1er et 2 :
+
+Vu l'urgence;
+
+Vu l'avis du Conseil d'Etat;
+
+Sur la proposition de Notre Vice-Premier Ministre et Ministre de la Fonction publique et de Notre Ministre des Affaires sociales et de l'avis de Nos Ministres qui en ont délibéré en Conseil,
+
+.....
+
+## Art. 1
+
+Pendant la période du 1er avril au 31 décembre 1982, le montant total des allocations familiales dues conformément aux lois coordonnées relatives aux allocations familiales pour travailleurs salariés, conformément à l'arrêté royal n° 49 du 24 octobre 1967 relatif aux prestations familiales revenant aux chômeurs, (conformément à l'article 70 de l'arrêté royal du 9 avril 1965 relatif au Pool des marins de la marine marchande), conformément à l'arrêté royal n° 48 du 24 octobre 1967 relatif à l'octroi de prestations familiales aux détenus et calculé aux taux fixés par les articles 40 et 42 des lois précitées, est diminué d'un montant de 500 francs par mois pour chaque attributaire d'allocations familiales forfaitaires mensuelles; pour l'attributaire d'allocations familiales aux taux journaliers, la diminution est de 31 francs par jour. &lt;ARN84. 31-7-1982, art. 1er&gt;
+
+Cette diminution s'applique également :
+
+1° aux allocations accordées en vertu des articles 50 quinquies et 73quater des lois coordonnées;
+
+2° aux conditions prévues par le présent arrêté, au personnel de la coopération avec les pays en voie de développement soumis à l'arrêté royal du 10 avril 1967, portant statut du personnel de la coopération avec les pays en voie de développement.
+
+## Art. 2
+
+La diminution visée à l'article 1er n'est pas d'application :
+
+1° aux attributaires qui ont droit pour le mois entier aux allocations familiales en vertu des articles 56, §1er 56quater, 56 quinquies, §§ 2 et 3, 56sexies, §§ 2 et 3 ou 57 de ces lois coordonnées, (en vertu de l'article 70 de l'arrêté royal du 9 avril 1965 précité) ou en vertu de l'article 2 de l'arrêté royal n° 49 du 24 octobre 1967; &lt;ARN84. 31-7-1982, art. 2&gt;
+
+2° aux attributaires dont la famille comporte un enfant bénéficiaire d'allocations supplémentaires pour enfants handicapés visés à l'article 47 de ces lois coordonnées ou aux allocations familiales visées à l'article 63 des mêmes lois.
+
+## Art. 3
+
+&lt;ARN84 31-7-1982, art. 3&gt; Suivant les modalités fixées par le Roi, les attributaires d'allocations familiales dont la rémunération n'excède pas pour un mois, le montant de la rémunération mensuelle garantie visée à l'article 2.3. de l'arrêté royal n° 11 du 26 février 1982, portant certaines modifications temporaires aux règles relatives à la liaison des salaires et rémunérations à l'indice des prix à la consommation du Royaume, peuvent demander à l'Office national d'allocations familiales pour travailleurs salariés, aux Caisses d'allocations familiales et aux employeurs visés à l'article 4 du présent arrêté, le remboursement de la retenue effectuée en vertu de l'article 1er.
+
+Pour l'application de l'alinéa précédent, il faut entendre par rémunération, la rémunération définie à l'article 2.1. de l'arrêté royal n° 11 du 26 février 1982 précité, ainsi que, le cas échéant, le pécule de vacances visé à l'article 19, § 1er, de l'arrêté royal du 28 novembre 1969, pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, tel que modifié par l'arrêté royal du 30 mars 1982.
+
+## Art. 3bis
+
+&lt;ARN84 31-7-1982, art. 4&gt; L'ordre d'attribution du droit aux allocations familiales fixé par l'article 64 des lois coordonnées relatives aux allocations familiales pour travailleurs salariés ne peut être modifié, conformément à l'article 66 desdites lois, en ce qui concerne l'attributaire auquel l'article 1er est applicable.
+
+De même, toute modification dont il est question à l'alinéa 1er et qui intervient après le 31 mars 1982, pour une période se situant avant le 1er avril 1982, est sans effet pour la période d'application du présent arrêté.
+
+## Art. 4
+
+L'Office national des allocations familiales pour travailleurs salariés, les caisses de compensation libres visées à l'article 19 des lois coordonnées relatives aux allocations familiales pour travailleurs salariés, les caisses spéciales visées aux articles 31 et 32 de ces mêmes lois, ainsi que les employeurs qui accordent directement les allocations familiales aux membres de leur personnel, sont chargés d'effectuer la retenue visée à l'article 1er du présent arrêté.
+
+## Art. 5
+
+La retenue visée à l'article 1er sera appliquée pour la première fois aux allocations familiales dues pour le mois d'avril 1982.
+
+## Art. 6
+
+1° Les caisses libres de compensation pour allocations familiales transfèrent à l'Office national de Sécurité sociale, par l'intermédiaire de l'Office national d'allocations familiales pour travailleurs salariés, le produit de la retenue visée à l'article 1er du présent arrêté.
+
+2° L'Office national d'allocations familiales pour travailleurs salariés et les caisses spéciales pour allocations familiales, versent directement à l'Office national de Sécurité sociale le produit de la retenue visée à l'article 1er du présent arrêté.
+
+3° Le produit de la retenue visée aux 1° et 2°, est inscrit par l'Office national de Sécurité sociale à un Fonds pour réaliser l'équilibre financier des organismes de sécurité sociale. La répartition de ce Fonds est déterminée par arrêté royal suivant les besoins financiers des différents secteurs de la Sécurité sociale.
+
+## Art. 7
+
+Le présent arrêté entre en vigueur le 1er avril 1982.
+
+## Art. 8
+
+Notre Vice-Premier Ministre et Ministre de la Fonction publique et Notre Ministre des Affaires sociales sont chargés de l'exécution du présent arrêté.

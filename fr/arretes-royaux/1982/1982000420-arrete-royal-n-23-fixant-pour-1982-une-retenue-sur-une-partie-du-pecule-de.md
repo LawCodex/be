@@ -1,0 +1,64 @@
+---
+title: "Arrêté royal n° 23 fixant pour 1982 une retenue sur une partie du pécule de vacances des travailleurs."
+identifier: "1982000420"
+eli: "https://www.ejustice.just.fgov.be/eli/arrete/1982/03/23/1982000420/justel"
+type: royal-decree
+justel_type: "ARRETE ROYAL"
+jurisdiction: be
+language: fr
+date: 1982-03-23
+published: 1982-03-25
+entry_into_force: 1982-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/arrete/1982/03/23/1982000420/justel"
+department: "Prévoyance Sociale"
+retrieved: 2026-10-15
+---
+
+# 23 MARS 1982. - Arrêté royal n° 23 fixant pour 1982 une retenue sur une partie du pécule de vacances des travailleurs.
+
+Vu la loi du 2 février 1982 attribuant certains pouvoirs spéciaux au Roi, notamment les articles 1er, 9° et 3, § 2;
+
+Vu l'urgence;
+
+Vu l'avis du Conseil d'Etat;
+
+Sur la proposition de Notre Ministre de l'Emploi et du Travail et de Notre Ministre des Affaires sociales et de l'avis de Nos Ministres qui en ont délibéré en Conseil,
+
+.....
+
+## Art. 1
+
+Une retenue de 7 p.c. est opérée sur la partie du pécule de vacances légal qui ne correspond pas à la rémunération normale pour les jours de vacances et sur le montant du double pécule de vacances pour deux jours de la quatrième semaine de vacances visé par la convention collective de travail n° 20, conclue le 29 janvier 1976 au sein du Conseil national du travail, relative à l'octroi d'un double pécule pour une partie de la quatrième semaine de vacances, modifiée par la convention collective de travail n° 20bis du 3 mars 1977, rendues obligatoires respectivement par les arrêtés royaux du 10 mai 1976 et du 18 mai 1977.
+
+## Art. 2
+
+La retenue prévue à l'article 1er est opérée par le débiteur de la partie du pécule de vacances et de l'allocation complémentaire de vacances, au moment de leur paiement.
+
+## Art. 3
+
+Le débiteur transmet cette retenue à l'institution chargée de la perception des cotisations de sécurité sociale pour le travailleur qui a bénéficié des avantages visés à l'article 1er.
+
+Cette transmission s'opère :
+
+1° par l'intermédiaire de l'Office national des vacances annuelles et au cours du mois qui suit la date à laquelle la retenue a été effectuée si le débiteur est une institution qui, en application de la législation relative aux vacances annuelles, est chargée du paiement dudit pécule de vacances ou si le débiteur de l'allocation complémentaire de vacances est une personne autre que l'employeur;
+
+2° en même temps que les cotisations de sécurité sociale dues pour le trimestre au cours duquel la retenue a été effectuée, si le débiteur dudit pécule de vacances est l'employeur.
+
+## Art. 4
+
+§ 1. Le débiteur de la retenue est, pour ce qui est de cette retenue, assimilé à l'employeur visé dans le régime de sécurité sociale applicable au travailleur, notamment en ce qui concerne les déclarations avec justification des cotisations, l'application des sanctions civiles et des dispositions pénales, la surveillance, le juge compétent en cas de litige, la prescription en matière d'actions judiciaires, le privilège, la communication du montant de la créance de l'organisme chargé de la perception et du recouvrement des cotisations.
+
+§ 2. Le montant du pécule de vacances et de l'allocation complémentaire de vacances sur lequel la retenue a été effectuée, n'est pas pris en considération pour la fixation du montant des pensions de retraite et de survie, des indemnités de maladie et d'invalidité, du pécule de vacances et des allocations de chômage.
+
+## Art. 5
+
+Le produit de cette retenue est inscrit par l'organisme percepteur de cotisations de sécurité sociale à un fonds pour réaliser l'équilibre financier des régimes de sécurité sociale. La répartition de ce fonds est déterminée par arrêté ministériel.
+
+## Art. 6
+
+Le présent arrêté est applicable à l'exercice de vacances 1981 pour les vacances à prendre en 1982.
+
+## Art. 7
+
+Notre Ministre de l'Emploi et du Travail et Notre Ministre des Affaires sociales sont chargés de l'exécution du présent arrêté.
