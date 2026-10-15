@@ -1,0 +1,76 @@
+---
+title: "Arrêté royal n° 12 relatif à la cotisation sociale de solidarité à charge des bénéficiaires de revenus professionnels non liés à l'indice des prix à la consommation."
+identifier: "1982000299"
+eli: "https://www.ejustice.just.fgov.be/eli/arrete/1982/02/26/1982000299/justel"
+type: royal-decree
+justel_type: "ARRETE ROYAL"
+jurisdiction: be
+language: fr
+date: 1982-02-26
+published: 1982-02-27
+entry_into_force: 1982-03-09
+last_amended: 1996-12-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/arrete/1982/02/26/1982000299/justel"
+department: "Classes Moyennes - Agriculture"
+justel_note: "consultation des versions antérieures à partir du 27-02-1982 et mise à jour au 13-12-1996"
+retrieved: 2026-10-15
+---
+
+# 26 FEVRIER 1982. - Arrêté royal n° 12 relatif à la cotisation sociale de solidarité à charge des bénéficiaires de revenus professionnels non liés à l'indice des prix à la consommation.
+
+Vu la loi du 2 février 1982, attribuant certains pouvoirs spéciaux au Roi et plus particulièrement l'article 1er, 2°, 2e alinéa, et 5°;
+
+Vu l'avis du Conseil d'Etat;
+
+Sur la proposition de Notre Ministre des Classes moyennes, de Notre Ministre des Relations extérieures et de Notre Secrétaire d'Etat aux Affaires européennes et à l'Agriculture, adjoint au Ministre des Relations extérieures et de l'avis de Nos Ministres qui en ont délibéré en Conseil,
+
+.....
+
+## Art. 1
+
+Pour l'application du présent arrêté, on entend:
+
+1° par "travailleurs indépendants", les personnes physiques qui exercent en Belgique une activité professionnelle en raison de laquelle elles sont assujetties à la législation organisant le statut social des travailleurs indépendants, y compris les pharmaciens et les opticiens, mais à l'exception des praticiens de l'art de guérir et des titulaires de professions paramédicales qui, au 1er mars 1982 sont liés par un accord ou une convention conclu dans le cadre de la loi du 9 août 1963, instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité.
+
+2° par "revenus professionnels", ceux qui sont considérés comme tels par l'article 11 de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants.
+
+## Art. 2
+
+Sont redevables d'une cotisation sociale de solidarité, les travailleurs indépendants dont les revenus professionnels de l'année 1982 excèdent à la fois:
+
+1° le montant pour l'année 1982 du salaire minimum prévu par la convention collective du travail n° 23 relative à la garantie d'un revenu minimum mensuel moyen, déduction faite des cotisations à la sécurité sociale applicables aux travailleurs manuels;
+
+2° les revenus professionnels de l'année 1981 multipliés par un coefficient déterminé par le Roi en fonction, d'une part, du taux moyen annuel d'augmentation de l'indice des prix à la consommation pour l'année 1982 et, d'autre part, de l'incidence de la modification en 1982 des modalités de la liaison des traitements et salaires à l'indice des prix à la consommation.
+
+## Art. 3
+
+Le montant de la cotisation est déterminé en appliquant aux revenus professionnels de l'année 1981, les coefficients déterminés par le Roi en fonction, d'une part, du taux moyen annuel d'augmentation de l'indice des prix à la consommation, pour l'année 1982 et, d'autre part, de l'incidence de la modification en 1982 des modalités de la liaison des traitements et salaires à l'indice des prix à la consommation.
+
+## Art. 4
+
+§ 1er. Entre le 1er août et le 31 octobre 1982, les travailleurs indépendants susceptibles d'être redevables de la cotisation sociale de solidarité sont tenus d'effectuer un versement à valoir déterminé en fonction, d'une part, du montant des revenus professionnels imposés au titre de l'exercice d'imposition 1981, et, d'autre part, d'un pourcentage qui fera fixé par le Roi.
+
+§ 2. En cas d'insuffisance de ce paiement à valoir, des intérêts de retard sont dus au taux de 1,25 p.c. par mois civil à compter de la date d'expiration de la période prévue au § 1er jusque et y compris le mois au cours duquel le paiement a lieu.
+
+En cas d'excédent de ce paiement à valoir, des intérêts moratoires sont accordés au taux de 1 p.c. par mois civil à compter du mois de paiement jusque et y compris le mois au cours duquel la restitution a lieu. (Les intérêts moratoires sont dus, même si le paiement qui à donné lieu à l'existence du solde créditeur, à été effectué en dehors du délai prescrit.) &lt;L 1989-12-14/31, art. 1, 003; En vigueur : 09-03-1982&gt;
+
+Les intérêts visés aux alinéas 1er et 2 sont calculés sur une base arrondie au millier inférieur; ils ne sont pas dus si leur montant n'atteint pas 100 francs ou si leur base de calcul est inférieure à 5 000 francs.
+
+§ 3. Les travailleurs indépendants redevables de la cotisation de solidarité pourront effectuer, entre le 1er avril et le 30 septembre 1983, un versement complémentaire destiné à régulariser le montant de leur cotisation définitive.
+
+## Art. 5
+
+(Abrogé) &lt;AR 1996-11-18/37, art. 17, 005; En vigueur : 01-01-1997&gt;
+
+## Art. 6
+
+Le Roi, par arrêté délibéré en Conseil des Ministres, détermine:
+
+1° les modalités particulières d'application du présent arrêté, pour les cas ou l'activité professionnelle a été entamée dans le courant des années 1980 à 1982 ou cessé dans le courant de l'année 1982;
+
+2° l'organisme auquel le paiement à valoir et la cotisation doivent être versés, les modalités de versement et celles de la régularisation du paiement à valoir.
+
+## Art. 7
+
+Notre Ministre des Classes moyennes et Notre Secrétaire d'Etat aux Affaires européennes et à l'Agriculture, adjoint au Ministre des Relations extérieures, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
